@@ -8,8 +8,8 @@ import java.util.List;
 import java.util.regex.Pattern;
 
 public class CTD_Algorithm {
-    private final List<Double> weights = new ArrayList<>();
-    private final List<String[]> processed_DC = new ArrayList<>();
+    private List<Double> weights = new ArrayList<>();
+    private List<String[]> processed_DC = new ArrayList<>();
     // 定义收敛区间
     private final double min_error = 1;
     // L行tuple
@@ -386,6 +386,7 @@ public class CTD_Algorithm {
                 for (int s = 0; s < k; s++) {
                     for (int l = 0; l < L; l++) {
                         for (int col = 0; col < p; col++) {
+                            // FIXME:distance always return 1, 导致weight仅更新一次，陷入了死循环
                             up += distance(result[l][col], value[s][l][col]);
                         }
                     }
@@ -569,6 +570,12 @@ public class CTD_Algorithm {
         return Pattern.matches(regex, str);
     }
 
+    /**
+     * 利用embedding计算两个字符串之间的距离，引入EMBDI
+     * @param v1 字符串1，来自result
+     * @param v2 字符串2，来自value
+     * @return 返回两个字符串的欧式距离
+     */
     private double distance(String v1, String v2) {
         return 1;
     }
