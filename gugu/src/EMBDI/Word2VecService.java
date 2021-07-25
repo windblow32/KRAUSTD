@@ -53,4 +53,22 @@ public class Word2VecService{
         }
         return vecMap;
     }
+
+    /**
+     * 计算两个词之间的距离
+     * todo:CSY需要的是什么之间的
+     * @param s1 word1
+     * @param s2 word2
+     * @return double distance
+     */
+    public double distance(String s1, String s2){
+        Searcher search = word2VecModel.forSearch();
+        double d = 0;
+        try {
+            d = search.cosineDistance(s1,s2);
+        } catch (Searcher.UnknownWordException e) {
+            e.printStackTrace();
+        }
+        return d;
+    }
 }
