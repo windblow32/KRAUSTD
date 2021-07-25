@@ -21,6 +21,9 @@ public class SimilarityUtils {
      * @param str2
      */
     public double levenshtein(String str1,String str2) {
+        if(str1==null||str2==null){
+            return 0;
+        }
         //计算两个字符串的长度。
         int len1 = str1.length();
         int len2 = str2.length();

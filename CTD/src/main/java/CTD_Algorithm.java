@@ -1,4 +1,5 @@
 package main.java;
+
 import java.io.BufferedReader;
 import java.io.FileReader;
 import java.io.IOException;
@@ -8,10 +9,10 @@ import java.util.List;
 import java.util.regex.Pattern;
 
 public class CTD_Algorithm {
-    private List<Double> weights = new ArrayList<>();
-    private List<String[]> processed_DC = new ArrayList<>();
     // 定义收敛区间
     private final double min_error = 1;
+    private final List<Double> weights = new ArrayList<>();
+    private final List<String[]> processed_DC = new ArrayList<>();
     // L行tuple
     private int L;
     // p种attr
@@ -32,7 +33,7 @@ public class CTD_Algorithm {
         DCs.add("age < 100");
         DCs.add("zipcode = code");
         DCs.add("Tuple 1 gender = tuple 3 gender");
-        List<Double> w = new ArrayList<>();
+        List<Double> w;
         w = test.update(files, k, DCs);
         for (double weight : w) {
             System.out.println(weight);
@@ -91,8 +92,8 @@ public class CTD_Algorithm {
         String[][] pre_result = new String[L][p];
         // 初始化pre_result,别问我为啥初始化成0，因为他最后第一次赋值也没啥用，但是还不能空，就很离谱
         // 用于循环的变量就随便起了233
-        for(int x = 0;x<L;x++){
-            for(int c = 0;c<p;c++){
+        for (int x = 0; x < L; x++) {
+            for (int c = 0; c < p; c++) {
                 pre_result[x][c] = "0";
             }
         }
@@ -151,7 +152,9 @@ public class CTD_Algorithm {
                     // 记录（25）中的分母
                     double sum_weight = 0;
                     for (double w1 : weights) {
-                        sum_weighted_value += w1 * Double.parseDouble(value[source][i][j]);
+                        if(!value[source][i][j].isEmpty()){
+                            sum_weighted_value += w1 * Double.parseDouble(value[source][i][j]);
+                        }
                         sum_weight += w1;
                         source++;
                     }
@@ -214,7 +217,9 @@ public class CTD_Algorithm {
                         // 记录（25）中的分母
                         double sum_weight = 0;
                         for (double w1 : weights) {
-                            sum_weighted_value += w1 * Double.parseDouble(value[source][i][j]);
+                            if(!value[source][i][j].isEmpty()){
+                                sum_weighted_value += w1 * Double.parseDouble(value[source][i][j]);
+                            }
                             sum_weight += w1;
                             source++;
                         }
@@ -288,7 +293,7 @@ public class CTD_Algorithm {
                                 // 完全托付给外部了
                                 int index = processed_DC.indexOf(dc);
                                 List<String[]> multi_entity_dc = new ArrayList<>();
-                                for(int now = index;now < processed_DC.size();now++){
+                                for (int now = index; now < processed_DC.size(); now++) {
                                     multi_entity_dc.add(processed_DC.get(now));
                                 }
                                 multi_entity(multi_entity_dc, result, value);
@@ -336,6 +341,10 @@ public class CTD_Algorithm {
                                 System.out.println("(20) is not satisfied");
                                 // 声明条件为假
                                 judge = false;
+                            }
+                            // 如果result中出现空值，说明所有数据源提供的都是空值，那就是空值
+                            if(v1==null||v2==null){
+                                continue;
                             }
                             double v1_value = Double.parseDouble(v1);
                             double v2_value = Double.parseDouble(v2);
@@ -441,6 +450,9 @@ public class CTD_Algorithm {
      * @return function f
      */
     private int f_constraints(String v1, String v2, String option, String type) {
+        if(v1==null||v2==null){
+            return 0;
+        }
         if (judge_number(v1) && judge_number(v2)) {
             double p1 = Double.parseDouble(v1);
             double p2 = Double.parseDouble(v2);
@@ -572,6 +584,7 @@ public class CTD_Algorithm {
 
     /**
      * 利用embedding计算两个字符串之间的距离，引入EMBDI
+     *
      * @param v1 字符串1，来自result
      * @param v2 字符串2，来自value
      * @return 返回两个字符串的欧式距离
