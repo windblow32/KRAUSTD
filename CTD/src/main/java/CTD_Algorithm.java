@@ -25,14 +25,14 @@ public class CTD_Algorithm {
     public static void main(String[] args) {
         CTD_Algorithm test = new CTD_Algorithm();
         List<String> files = new ArrayList<>();
-        files.add("data/data1.csv");
-        files.add("data/data2.csv");
-        files.add("data/data3.csv");
+        files.add("data/flight/flight-csv/flight0.CSV");
+        files.add("data/flight/flight-csv/flight0.CSV");
+        files.add("data/flight/flight-csv/flight0.CSV");
         int k = 3;
         List<String> DCs = new ArrayList<>();
-        DCs.add("age < 100");
-        DCs.add("zipcode = code");
-        DCs.add("Tuple 1 gender = tuple 3 gender");
+        DCs.add("scheduled_departure = 0");
+        DCs.add("actual_departure > scheduled_departure");
+//        DCs.add("Tuple 1 gender = tuple 3 gender");
         List<Double> w;
         w = test.update(files, k, DCs);
         for (double weight : w) {
