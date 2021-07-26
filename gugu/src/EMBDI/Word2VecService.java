@@ -12,6 +12,7 @@ import org.springframework.stereotype.Service;
 import scala.collection.Searching;
 
 import java.util.*;
+import java.util.regex.Pattern;
 
 @Service
 @Slf4j
@@ -55,13 +56,16 @@ public class Word2VecService{
     }
 
     /**
-     * 计算两个词之间的距离
+     * 计算两个词之间的距离,注意，不能是属性啊！
      * todo:CSY需要的是什么之间的
      * @param s1 word1
      * @param s2 word2
      * @return double distance
      */
     public double distance(String s1, String s2){
+//        if(!(judge(s1)&&judge(s2))){
+//            System.out.println("待比较的不是double类型");
+//        }
         Searcher search = word2VecModel.forSearch();
         double d = 0;
         try {
@@ -70,5 +74,9 @@ public class Word2VecService{
             e.printStackTrace();
         }
         return d;
+    }
+    private boolean judge(String str){
+        String regex = "^[+-]?([0-9]*\\.?[0-9]+|[0-9]+\\.?[0-9]*)([eE][+-]?[0-9]+)?$";
+        return Pattern.matches(regex, str);
     }
 }
