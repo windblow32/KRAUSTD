@@ -68,7 +68,7 @@ public class GenerateTripartiteGraph{
                 column = 0;
                 List<String> row_i = new ArrayList<>();
                 // G.addNode(Ri) Ri is the record id of Ri
-                String Ri = "row_" + String.valueOf(row_id);
+                String Ri = "row_" + row_id;
                 // 一定是后来指定的graph中的RID_set！！！！
                 // 这里debug就离谱
                 graph.RID_set.add(Ri);
@@ -126,8 +126,6 @@ public class GenerateTripartiteGraph{
                 }
 
             }
-        } catch (FileNotFoundException e) {
-            e.printStackTrace();
         } catch (IOException e) {
             e.printStackTrace();
         }

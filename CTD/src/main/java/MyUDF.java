@@ -3,6 +3,9 @@ package main.java;
 
 import java.util.HashMap;
 
+/**
+ * UDF算法，计算字符串匹配程度，作为备选了
+ */
 public class MyUDF  {
     /**
      * UDF Evaluate接口
