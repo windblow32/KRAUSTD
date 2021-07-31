@@ -21,6 +21,7 @@ public class SourceEmbeddingViaWord2VecTest {
         fileList.add("data/sourceDataCSV/sourceData1.CSV");
         fileList.add("data/sourceDataCSV/sourceData2.CSV");
         fileList.add("data/sourceDataCSV/sourceData3.CSV");
+        fileList.add("data/sourceDataCSV/truth.CSV");
         List<Double> vector = word2VecService.train(fileList,20,3,3);
         Map<String, List<Double>> EM = new HashMap<>();
         try {
@@ -45,11 +46,18 @@ public class SourceEmbeddingViaWord2VecTest {
         }
 
 
-//        // 待比较的词
-//        String str1 = "e";
-//        String str2 = "2";
-//
-//        System.out.println(word2VecService.distance(str1,str2));
-//        System.out.println(vector.size());
+        // 待比较的词
+        String str0 = "source_0";
+        String truth = "source_3";
+        System.out.println("source_0与真值距离 : " + word2VecService.distance(str0,truth));
+
+        String str1 = "source_1";
+        System.out.println("source_1与真值距离 : " + word2VecService.distance(str1,truth));
+
+        String str2 = "source_2";
+        System.out.println("source_2与真值距离 : " + word2VecService.distance(str2,truth));
+        System.out.println(vector.size());
+
     }
+
 }

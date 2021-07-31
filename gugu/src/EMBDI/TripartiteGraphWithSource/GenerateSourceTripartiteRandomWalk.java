@@ -2,8 +2,6 @@ package EMBDI.TripartiteGraphWithSource;
 
 
 
-import EMBDI.SourceEmbedding.GenerateSourceGraph;
-
 import java.util.*;
 import java.util.regex.Matcher;
 import java.util.regex.Pattern;

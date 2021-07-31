@@ -67,6 +67,7 @@ public class GenerateSourceGraph {
                 // 每个文件是不同的数据源
                 String source_id = "source_" + fileNum;
                 sourceGraph.addVertex(source_id);
+                sourceGraph.all_nodes.add(source_id);
                 // 从第二行开始处理
                 // process null using avg
                 double[] current_sum = new double[column_i.size()];
@@ -74,6 +75,8 @@ public class GenerateSourceGraph {
                 while((str=newBr.readLine())!=null){
                     // 每一行是不同的tuple和row_id
                     String tuple = "tuple_" + row_id;
+                    sourceGraph.addVertex(tuple);
+                    sourceGraph.all_nodes.add(tuple);
                     // 为每个数据源的表分配row的id
                     column = 0;
                     List<String> row_i = new ArrayList<>();

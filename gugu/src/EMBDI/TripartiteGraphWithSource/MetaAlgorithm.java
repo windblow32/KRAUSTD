@@ -1,6 +1,5 @@
 package EMBDI.TripartiteGraphWithSource;
 
-import EMBDI.SourceEmbedding.GenerateSourceGraph;
 
 import java.util.ArrayList;
 import java.util.List;

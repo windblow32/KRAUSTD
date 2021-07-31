@@ -66,6 +66,7 @@ public class GenerateSourceTripartite{
                 // 每个文件是不同的数据源
                 String source_id = "source_" + fileNum;
                 sourceGraph.addVertex(source_id);
+                sourceGraph.all_nodes.add(source_id);
                 // 从第二行开始处理
                 // process null using avg
                 double[] current_sum = new double[column_i.size()];
@@ -124,6 +125,7 @@ public class GenerateSourceTripartite{
                             // 将数值和属性连接
                             sourceGraph.addEdge(Vk,sourceGraph.column_i.get(column));
                             sourceGraph.addEdge(Vk,source_id);
+                            sourceGraph.addEdge(Vk,Ri);
                         }
                         column++;
                     }
