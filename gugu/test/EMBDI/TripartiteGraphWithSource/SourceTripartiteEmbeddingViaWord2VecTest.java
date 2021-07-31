@@ -27,7 +27,7 @@ public class SourceTripartiteEmbeddingViaWord2VecTest {
         try {
             EM = word2VecService.getEmbeddings();
             // System.out.println(word2VecService.getEmbeddings());
-            File f=new File("log/SourceFiveGraphEMBDI.txt");
+            File f=new File("log/SourceThreeEMBDI.txt");
             f.createNewFile();
             FileOutputStream fileOutputStream = new FileOutputStream(f);
             PrintStream printStream = new PrintStream(fileOutputStream);
@@ -48,13 +48,21 @@ public class SourceTripartiteEmbeddingViaWord2VecTest {
         // 待比较的词
         String str0 = "source_0";
         String truth = "source_3";
-        System.out.println("source_0与真值距离 : " + word2VecService.distance(str0,truth));
+        double d0 = word2VecService.distance(str0,truth);
+        System.out.println("source_0与真值距离 : " + d0);
+
 
         String str1 = "source_1";
-        System.out.println("source_1与真值距离 : " + word2VecService.distance(str1,truth));
+        double d1 = word2VecService.distance(str1,truth);
+        System.out.println("source_1与真值距离 : " + d1);
 
         String str2 = "source_2";
-        System.out.println("source_2与真值距离 : " + word2VecService.distance(str2,truth));
+        double d2 = word2VecService.distance(str2,truth);
+        System.out.println("source_2与真值距离 : " + d2);
+        System.out.println("*****************************************");
+        System.out.println("source_0与真值距离distance占比 : " + d0/(d0+d1+d2));
+        System.out.println("source_1与真值距离distance占比 : " + d1/(d0+d1+d2));
+        System.out.println("source_2与真值距离distance占比 : " + d2/(d0+d1+d2));
         System.out.println(vector.size());
     }
 }
