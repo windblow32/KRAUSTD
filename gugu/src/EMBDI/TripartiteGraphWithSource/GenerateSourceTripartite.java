@@ -1,25 +1,20 @@
-package EMBDI.SourceEmbedding;
+package EMBDI.TripartiteGraphWithSource;
 
 import abstruct_Graph.ConcreteEdgesGraph;
 import abstruct_Graph.Graph;
-
-import java.io.*;
+import java.io.BufferedReader;
+import java.io.FileReader;
+import java.io.IOException;
 import java.util.*;
-import java.util.regex.Pattern;
 
-/**
- * 用于建立数据源的embedding的三分图，分为平面上的<tuple, a(i), Si>,以及竖平面上的<a(i), a(ij), Ai>
- */
-public class GenerateSourceGraph {
+public class GenerateSourceTripartite{
     private final Graph<String> graph = new ConcreteEdgesGraph<>();
     // RID的set
     private final Set<String> RID_set = new HashSet<>();
     // column的列表
     private final List<String> column_i = new ArrayList<>();
-    // 记录右侧总tuple数量
-    private List<String> tupleList = new ArrayList<>();
     // 图中所有点nodes
-    public List<String>  all_nodes = new ArrayList<>();
+    public List<String> all_nodes = new ArrayList<>();
     // 代理Graph中的方法
     public boolean addVertex(String vertex){
         return graph.add(vertex);
@@ -37,13 +32,17 @@ public class GenerateSourceGraph {
         return new HashMap<>(graph.targets(sources));
     }
 
-    public GenerateSourceGraph GenerateSourceTripartiteGraph(List<String> fileList){
-        GenerateSourceGraph sourceGraph = new GenerateSourceGraph();
+    public GenerateSourceTripartite generateSourceTripartiteGraph(@org.jetbrains.annotations.NotNull List<String> fileList){
+        //  修改代码一定注意，对于函数中声明该类对象的函数，当调用成员变量时，必须用该对象引出，否则无法
+        //  加入，也就是红色变量必须graph.引出！
+
+        GenerateSourceTripartite sourceGraph = new GenerateSourceTripartite();
         try {
             // 读取第0个文件，用于初始化attribute等
             String file = fileList.get(0);
             FileReader fd = new FileReader(file);
             BufferedReader br = new BufferedReader(fd);
+            // 文件操作所需变量
             String str;
             // 存储str读取的一行的值
             String[] data;
@@ -58,7 +57,7 @@ public class GenerateSourceGraph {
                 sourceGraph.all_nodes.add(s);
             }
             // 按顺序读取文件
-            int column = 0;
+            int column;
             // FIXME:读取当前文件,是第i个文件，则有：
             int fileNum = 0;
             for(String files: fileList){
@@ -73,7 +72,7 @@ public class GenerateSourceGraph {
                 int row_id = 0;
                 while((str=newBr.readLine())!=null){
                     // 每一行是不同的tuple和row_id
-                    String tuple = "tuple_" + row_id;
+                    // String tuple = "tuple_" + row_id;
                     // 为每个数据源的表分配row的id
                     column = 0;
                     List<String> row_i = new ArrayList<>();
@@ -124,12 +123,13 @@ public class GenerateSourceGraph {
                             sourceGraph.all_nodes.add(Vk);
                             // 将数值和属性连接
                             sourceGraph.addEdge(Vk,sourceGraph.column_i.get(column));
+                            sourceGraph.addEdge(Vk,source_id);
                         }
                         column++;
                     }
                     // 平面图方向，连接了source和row_id
-                    sourceGraph.addEdge(source_id,Ri);
-                    sourceGraph.addEdge(tuple,Ri);
+                    // sourceGraph.addEdge(source_id,Ri);
+                    // sourceGraph.addEdge(tuple,Ri);
                 }
                 fileNum++;
             }
@@ -139,17 +139,14 @@ public class GenerateSourceGraph {
         }
         return sourceGraph;
     }
-
-    private boolean judge(String str){
-        String regex = "^[+-]?([0-9]*\\.?[0-9]+|[0-9]+\\.?[0-9]*)([eE][+-]?[0-9]+)?$";
-        return Pattern.matches(regex, str);
-    }
     public Set<String> getRID_set(){
         return new HashSet<>(this.RID_set);
     }
     public List<String> getColumn_i(){
         return new ArrayList<>(this.column_i);
     }
+
+
 
     /**
      *
@@ -159,3 +156,4 @@ public class GenerateSourceGraph {
      */
     public List<String> getAll_nodes(){return new ArrayList<>(this.all_nodes);}
 }
+
