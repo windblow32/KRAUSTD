@@ -2,7 +2,10 @@ package EMBDI.TripartiteGraphWithSource;
 
 import abstruct_Graph.ConcreteEdgesGraph;
 import abstruct_Graph.Graph;
+import org.jetbrains.annotations.NotNull;
+
 import java.io.BufferedReader;
+import java.io.FileNotFoundException;
 import java.io.FileReader;
 import java.io.IOException;
 import java.util.*;
@@ -148,14 +151,11 @@ public class GenerateSourceTripartite{
         return new ArrayList<>(this.column_i);
     }
 
-
-
     /**
-     *
      * @return token后的nodes
-     *
-     *
      */
     public List<String> getAll_nodes(){return new ArrayList<>(this.all_nodes);}
+
+
 }
 

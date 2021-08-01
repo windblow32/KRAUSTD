@@ -1,5 +1,6 @@
 package EMBDI.SourceEmbedding;
 
+import EMBDI.Conflict;
 import EMBDI.Word2VecService;
 import com.medallia.word2vec.Searcher;
 import org.junit.Test;
@@ -50,21 +51,26 @@ public class SourceEmbeddingViaWord2VecTest {
         String str0 = "source_0";
         String truth = "source_3";
         double d0 = word2VecService.distance(str0,truth);
-        System.out.println("source_0与真值距离 : " + d0);
+        System.out.println("source_0与真值余弦相似度 : " + d0);
 
 
         String str1 = "source_1";
         double d1 = word2VecService.distance(str1,truth);
-        System.out.println("source_1与真值距离 : " + d1);
+        System.out.println("source_1与真值余弦相似度 : " + d1);
 
         String str2 = "source_2";
         double d2 = word2VecService.distance(str2,truth);
-        System.out.println("source_2与真值距离 : " + d2);
+        System.out.println("source_2与真值余弦相似度 : " + d2);
         System.out.println("*****************************************");
-        System.out.println("source_0与真值距离distance占比 : " + d0/(d0+d1+d2));
-        System.out.println("source_1与真值距离distance占比 : " + d1/(d0+d1+d2));
-        System.out.println("source_2与真值距离distance占比 : " + d2/(d0+d1+d2));
+        System.out.println("source_0与真值相似度占比 : " + d0/(d0+d1+d2));
+        System.out.println("source_1与真值相似度占比 : " + d1/(d0+d1+d2));
+        System.out.println("source_2与真值相似度占比 : " + d2/(d0+d1+d2));
         System.out.println(vector.size());
+        Conflict conflict = new Conflict();
+        List<Double> conflictList =  conflict.calcConflict(fileList);
+        for(int i = 0;i<fileList.size()-1;i++){
+            System.out.println("source_"+ i +"的平均冲突为 : " + conflictList.get(i));
+        }
 
     }
 
