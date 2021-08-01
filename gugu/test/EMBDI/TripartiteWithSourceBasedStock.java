@@ -1,7 +1,6 @@
-package EMBDI.TripartiteGraphWithSource;
+package EMBDI;
 
-import EMBDI.Conflict;
-import EMBDI.SourceEmbedding.SourceEmbeddingViaWord2Vec;
+import EMBDI.TripartiteGraphWithSource.SourceTripartiteEmbeddingViaWord2Vec;
 import com.medallia.word2vec.Searcher;
 import org.junit.Test;
 
@@ -11,24 +10,27 @@ import java.io.IOException;
 import java.io.PrintStream;
 import java.util.*;
 
-import static org.junit.Assert.*;
-
-public class SourceTripartiteEmbeddingViaWord2VecTest {
-
+public class TripartiteWithSourceBasedStock {
     @Test
     public void train() {
         SourceTripartiteEmbeddingViaWord2Vec word2VecService = new SourceTripartiteEmbeddingViaWord2Vec();
         List<String> fileList = new ArrayList<>();
-        fileList.add("data/sourceDataCSV/sourceData1.CSV");
-        fileList.add("data/sourceDataCSV/sourceData2.CSV");
-        fileList.add("data/sourceDataCSV/sourceData3.CSV");
-        fileList.add("data/sourceDataCSV/truth.CSV");
+        fileList.add("data/stockPartCSV/stock1.CSV");
+        fileList.add("data/stockPartCSV/stock2.CSV");
+        fileList.add("data/stockPartCSV/stock3.CSV");
+        fileList.add("data/stockPartCSV/stock4.CSV");
+        fileList.add("data/stockPartCSV/stock5.CSV");
+        fileList.add("data/stockPartCSV/stock6.CSV");
+
+        // todo:add truth
+        fileList.add("data/stockPartCSV/truth.CSV");
+
         List<Double> vector = word2VecService.train(fileList,20,3,3);
         Map<String, List<Double>> EM = new HashMap<>();
         try {
             EM = word2VecService.getEmbeddings();
             // System.out.println(word2VecService.getEmbeddings());
-            File f=new File("log/SourceThreeEMBDI.txt");
+            File f=new File("log/Stock/SourceThreeEMBDI.txt");
             f.createNewFile();
             FileOutputStream fileOutputStream = new FileOutputStream(f);
             PrintStream printStream = new PrintStream(fileOutputStream);
@@ -48,12 +50,12 @@ public class SourceTripartiteEmbeddingViaWord2VecTest {
 
         List<Double> sourceDistanceList = new ArrayList<>();
         int trainSourceNum = fileList.size()-1;
-        String truth = "source_3";
+        String truth = "source_7";
         for(int i = 0;i<trainSourceNum;i++){
             String source = "source_" + i;
             double d = word2VecService.distance(source,truth);
             sourceDistanceList.add(d);
-            System.out.println("source_" + i + "ä¸ŽçœŸå€¼ä½™å¼¦ç›¸ä¼¼åº¦ : " + d);
+            System.out.println("source_" + i + "ÓëÕæÖµÓàÏÒÏàËÆ¶È : " + d);
         }
 
 
@@ -64,44 +66,45 @@ public class SourceTripartiteEmbeddingViaWord2VecTest {
         }
 
         for(int i = 0;i<trainSourceNum;i++){
-            System.out.println("source_" + i + "ä¸ŽçœŸå€¼ç›¸ä¼¼åº¦å æ¯” : " + sourceDistanceList.get(i)/sum);
+            System.out.println("source_" + i + "ÓëÕæÖµÏàËÆ¶ÈÕ¼±È : " + sourceDistanceList.get(i)/sum);
         }
 
-        // sourceä¹‹é—´ç›¸ä¼¼åº¦
+        // sourceÖ®¼äÏàËÆ¶È
         System.out.println("*****************************************");
         for(int i = 0;i<trainSourceNum;i++){
             for(int j = i+1;j<trainSourceNum;j++){
                 String s1 = "source_" + i;
                 String s2 = "source_" + j;
                 double d_ij = word2VecService.distance(s1,s2);
-                System.out.println(s1 + "ä¸Ž" + s2 + " embedding ç›¸ä¼¼åº¦ : " + d_ij);
+                System.out.println(s1 + "Óë" + s2 + " embedding ÏàËÆ¶È : " + d_ij);
             }
         }
 
-        // æ ·æœ¬ç›¸ä¼¼åº¦ï¼Œå®žé™…æ˜¯ç”¨çœŸå€¼çš„ä¸€è¡Œï¼Œå¯¹åº”äºŽäº”åˆ†å›¾ä¸­tuple
+
+        // Ñù±¾ÏàËÆ¶È£¬Êµ¼ÊÊÇÓÃÕæÖµµÄÒ»ÐÐ£¬¶ÔÓ¦ÓÚÎå·ÖÍ¼ÖÐtuple
         System.out.println("*****************************************");
-        // æ¯”è¾ƒtopKï¼Œæ­¤å¤„k = 4
-        for(int k = 0;k<4;k++){
-            // è¡¨ç¤ºå›¾ä¸­ç¬¬kè¡Œå­—ç¬¦ä¸²
+        // ±È½ÏtopK£¬´Ë´¦k = 6
+        for(int k = 0;k<6;k++){
+            // ±íÊ¾Í¼ÖÐµÚkÐÐ×Ö·û´®
             String s1 = "row_" + k;
-            String s2 = "row_" + k + "_s3";
+            String s2 = "row_" + k + "_s7";
             double d_TupleKAndTruthK = word2VecService.distance(s1,s2);
-            System.out.println("row" + k + "æ ·æœ¬ç›¸ä¼¼åº¦ä¸º : " + d_TupleKAndTruthK);
+            System.out.println("row" + k + "Ñù±¾ÏàËÆ¶ÈÎª : " + d_TupleKAndTruthK);
         }
         System.out.println("*****************************************");
-        System.out.println("vectoræ€»å¤§å° : " + vector.size());
+        System.out.println("vector×Ü´óÐ¡ : " + vector.size());
         Conflict conflict = new Conflict();
         List<Double> conflictList =  conflict.calcConflict(fileList);
-        for(int i = 0;i<fileList.size()-1;i++){
-            System.out.println("source_"+ i +"çš„å¹³å‡å†²çªä¸º : " + conflictList.get(i));
+        for(int i = 0;i<trainSourceNum;i++){
+            System.out.println("source_"+ i +"µÄÆ½¾ù³åÍ»Îª : " + conflictList.get(i));
         }
 
         // domain feature
-//        for(int i = 0;i<fileList.size()-1;i++){
-//            String source = "source_" + i;
-//            double domainDistance = word2VecService.distance("volumn",source);
-//            System.out.println(source + "ä¸Žvolumnåˆ—çš„ç›¸ä¼¼åº¦ä¸º : " + domainDistance );
-//        }
+        for(int i = 0;i<trainSourceNum;i++){
+            String source = "source_" + i;
+            double domainDistance = word2VecService.distance("volume",source);
+            System.out.println(source + "ÓëvolumeÁÐµÄÏàËÆ¶ÈÎª : " + domainDistance );
+        }
 
     }
 }

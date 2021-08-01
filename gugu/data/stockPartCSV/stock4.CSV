@@ -1,4 +1,4 @@
-Source,Symbol,Change£¤,Last_Trading_Price,Open_price,Change$,volume,Today's_high,Today's_low,Previous_close,52wkHigh,52wkLow,Shares_Outstanding,P/E,Marketcap,Yield,Dividend,EPS,attribute9,attribute10
+Source,Symbol,Change_C$,Last_Trading_Price,Open_price,Change$,volume,Today's_high,Today's_low,Previous_close,52wkHigh,52wkLow,Shares_Outstanding,P/E,Marketcap,Yield,Dividend,EPS,attribute9,attribute10
 1,4,14,10,9,8,674663,7,8,,,,,,,,,,1,4
 2,4,14,10,9,8,624505,7,8,8,14,9,,39,9040000000,18,9,16,1,4
 3,4,14,10,9,8,668438,7,8,,,,123000000,,8730000000,19,10,,1,4
@@ -49,7 +49,7 @@ Source,Symbol,Change£¤,Last_Trading_Price,Open_price,Change$,volume,Today's_high
 48,4,14,10,9,8,673614,7,8,8,18,10,121826546,,8731308552,,,,1,4
 49,4,14,10,9,8,673614,8,8,8,15,10,,47,8900000000,21,10,,1,4
 50,4,14,10,9,8,671563,7,8,8,15,10,121826546,47,9044402775,21,10,16,1,4
-51,4,14,10,9,8,668338,8,8,8,15,10,1.2182E+11,48,8940000000,,,18,1,4
+51,4,14,10,9,8,668338,8,8,8,15,10,1.22E+11,48,8940000000,,,18,1,4
 52,4,14,10,9,8,673214,8,8,,15,10,,47,9000000000,18,12,19,1,4
 53,4,14,10,9,8,673614,7,8,8,14,10,,41,9040000000,18,9,16,1,4
 54,4,14,10,,8,,,,,15,10,,41,9040000000,24,,16,1,4
