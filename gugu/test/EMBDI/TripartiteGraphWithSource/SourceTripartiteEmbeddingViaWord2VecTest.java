@@ -92,5 +92,8 @@ public class SourceTripartiteEmbeddingViaWord2VecTest {
         for(int i = 0;i<fileList.size()-1;i++){
             System.out.println("source_"+ i +"的平均冲突为 : " + conflictList.get(i));
         }
+
+        // domain feature
+        List<String> attribute = new ArrayList<>();
     }
 }
