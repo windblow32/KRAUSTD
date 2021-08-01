@@ -75,6 +75,19 @@ public class SourceTripartiteEmbeddingViaWord2Vec {
         double d = 0;
         try {
             d = search.cosineDistance(s1, s2);
+            List<Double> s1List = search.getRawVector(s1);
+            List<Double> s2List = search.getRawVector(s2);
+            double total1 = 0;
+            for(double s:s1List){
+                total1 += s*s;
+            }
+            double model1 = Math.sqrt(total1);
+            double total2 = 0;
+            for(double s : s2List){
+                total2 += s*s;
+            }
+            double model2 = Math.sqrt(total2);
+            return d/(model1*model2);
         } catch (Searcher.UnknownWordException e) {
             e.printStackTrace();
         }

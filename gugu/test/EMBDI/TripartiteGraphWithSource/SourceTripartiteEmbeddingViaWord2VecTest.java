@@ -57,6 +57,7 @@ public class SourceTripartiteEmbeddingViaWord2VecTest {
         double d1 = word2VecService.distance(str1,truth);
         System.out.println("source_1与真值余弦相似度 : " + d1);
 
+
         String str2 = "source_2";
         double d2 = word2VecService.distance(str2,truth);
         System.out.println("source_2与真值余弦相似度 : " + d2);
