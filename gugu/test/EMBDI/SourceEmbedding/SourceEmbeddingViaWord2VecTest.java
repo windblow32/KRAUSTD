@@ -65,7 +65,31 @@ public class SourceEmbeddingViaWord2VecTest {
         System.out.println("source_0与真值相似度占比 : " + d0/(d0+d1+d2));
         System.out.println("source_1与真值相似度占比 : " + d1/(d0+d1+d2));
         System.out.println("source_2与真值相似度占比 : " + d2/(d0+d1+d2));
-        System.out.println(vector.size());
+
+        // source之间相似度
+        System.out.println("*****************************************");
+        double d01 = word2VecService.distance(str0,str1);
+        System.out.println("source_0与source_1 embedding 相似度 : " + d01);
+        double d02 = word2VecService.distance(str0,str2);
+        System.out.println("source_0与source_2 embedding 相似度 : " + d02);
+        double d12 = word2VecService.distance(str1,str2);
+        System.out.println("source_1与source_2 embedding 相似度 : " + d12);
+
+        // 样本相似度，实际是用真值的一行，对应于五分图中tuple
+        // fixme:一行的tuple实际上连接了所有的数据源的同一行，这样衡量是否存在问题？
+        System.out.println("*****************************************");
+        // 比较topK，此处k = 4
+        for(int k = 0;k<4;k++){
+            // 表示图中第k行字符串
+            String s1 = "tuple_" + k;
+            String s2 = "row_" + k + "_s3";
+            double d_TupleKAndTruthK = word2VecService.distance(s1,s2);
+            System.out.println("row" + k + "样本相似度为 : " + d_TupleKAndTruthK);
+        }
+
+        System.out.println("*****************************************");
+        System.out.println("vector总大小 : " + vector.size());
+        System.out.println("*****************************************");
         Conflict conflict = new Conflict();
         List<Double> conflictList =  conflict.calcConflict(fileList);
         for(int i = 0;i<fileList.size()-1;i++){

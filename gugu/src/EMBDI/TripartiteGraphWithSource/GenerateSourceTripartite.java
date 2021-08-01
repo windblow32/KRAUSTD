@@ -63,6 +63,8 @@ public class GenerateSourceTripartite{
             int column;
             // FIXME:读取当前文件,是第i个文件，则有：
             int fileNum = 0;
+            // 判断是否是最后一个文件
+            int truthFlag = 0;
             for(String files: fileList){
                 FileReader fr = new FileReader(files);
                 BufferedReader newBr = new BufferedReader(fr);
@@ -74,6 +76,10 @@ public class GenerateSourceTripartite{
                 // process null using avg
                 double[] current_sum = new double[column_i.size()];
                 int row_id = 0;
+                // 判断是否是最后一个文件，即真值文件，如果是，就进行标记
+                if(fileList.get(fileList.size()-1).equals(files)){
+                    truthFlag = 1;
+                }
                 while((str=newBr.readLine())!=null){
                     // 每一行是不同的tuple和row_id
                     // String tuple = "tuple_" + row_id;
@@ -82,10 +88,21 @@ public class GenerateSourceTripartite{
                     List<String> row_i = new ArrayList<>();
                     // add node row_id
                     // row_1_s1来自第1个数据源的第一行
-                    String Ri = "row_" + row_id + "_s" + fileNum;
-                    sourceGraph.RID_set.add(Ri);
+                    // String Ri = "row_" + row_id + "_s" + fileNum;
+                    String Ri;
+                    if(truthFlag == 0){
+                        Ri = "row_" + row_id;
+                    }
+                    else{
+                        Ri = "row_" + row_id + "_s" + fileNum;
+                    }
+                    if(!sourceGraph.RID_set.contains(Ri)){
+                        sourceGraph.RID_set.add(Ri);
+                    }
                     sourceGraph.addVertex(Ri);
-                    sourceGraph.all_nodes.add(Ri);
+                    if(!sourceGraph.all_nodes.contains(Ri)){
+                        sourceGraph.all_nodes.add(Ri);
+                    }
                     row_id++;
                     data = str.split(",");
                     // FIXME:假设表中的数值都是数字类型，现在判断是否为空

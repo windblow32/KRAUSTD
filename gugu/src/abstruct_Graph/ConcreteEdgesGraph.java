@@ -41,7 +41,8 @@ public class ConcreteEdgesGraph<L> implements Graph<L> {
     @Override
     public boolean add(L vertex) {
         if(vertices.contains(vertex)){
-            System.out.println("重复加入顶点\n");
+            // fixme:顶点重复加入提示忽略
+            //System.out.println("重复加入顶点\n");
             return false;
         }
         checkRep();
