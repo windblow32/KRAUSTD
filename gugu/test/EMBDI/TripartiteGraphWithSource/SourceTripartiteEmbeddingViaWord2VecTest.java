@@ -48,6 +48,7 @@ public class SourceTripartiteEmbeddingViaWord2VecTest {
 
         List<Double> sourceDistanceList = new ArrayList<>();
         int trainSourceNum = fileList.size()-1;
+        // FIXME:指定真值文件数据源序号
         String truth = "source_3";
         for(int i = 0;i<trainSourceNum;i++){
             String source = "source_" + i;
@@ -97,11 +98,11 @@ public class SourceTripartiteEmbeddingViaWord2VecTest {
         }
 
         // domain feature
-//        for(int i = 0;i<fileList.size()-1;i++){
-//            String source = "source_" + i;
-//            double domainDistance = word2VecService.distance("volumn",source);
-//            System.out.println(source + "与volumn列的相似度为 : " + domainDistance );
-//        }
+        for(int i = 0;i<fileList.size()-1;i++){
+            String source = "source_" + i;
+            double domainDistance = word2VecService.distance("volumn",source);
+            System.out.println(source + "与volumn列的相似度为 : " + domainDistance );
+        }
 
     }
 }
