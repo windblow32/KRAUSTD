@@ -1,11 +1,11 @@
 package main.java;
 
-import java.io.BufferedReader;
-import java.io.FileReader;
-import java.io.IOException;
-import java.util.ArrayList;
-import java.util.Arrays;
-import java.util.List;
+import com.medallia.word2vec.Searcher;
+import main.java.Embedding.EMBDI.SourceEmbedding.SourceEmbeddingViaWord2Vec;
+import main.java.Embedding.EMBDI.TripartiteGraphWithSource.SourceTripartiteEmbeddingViaWord2Vec;
+
+import java.io.*;
+import java.util.*;
 import java.util.regex.Pattern;
 
 public class CTD_Algorithm {
@@ -34,7 +34,7 @@ public class CTD_Algorithm {
         DCs.add("actual_departure > scheduled_departure");
 //        DCs.add("Tuple 1 gender = tuple 3 gender");
         List<Double> w;
-        w = test.update(files, k, DCs);
+        w = test.update(files, k, DCs,"FIVE");
         for (double weight : w) {
             System.out.println(weight);
         }
@@ -46,7 +46,7 @@ public class CTD_Algorithm {
      * @param DCs   a piece of a set of ∑ of DCs    (fai)
      * @return the repaired table
      */
-    public List<Double> update(List<String> files, int k, List<String> DCs) {
+    public List<Double> update(List<String> files, int k, List<String> DCs, String mode) {
         this.k = k; // this.k = files.size();
 
         // 解析DC,默认的DC格式为:
@@ -343,7 +343,7 @@ public class CTD_Algorithm {
                                 judge = false;
                             }
                             // 如果result中出现空值，说明所有数据源提供的都是空值，那就是空值
-                            if(v1==null||v2==null){
+                            if(v1.equals("")||v2.equals("")){
                                 continue;
                             }
                             double v1_value = Double.parseDouble(v1);
@@ -396,7 +396,7 @@ public class CTD_Algorithm {
                     for (int l = 0; l < L; l++) {
                         for (int col = 0; col < p; col++) {
                             // FIXME:distance always return 1, 导致weight仅更新一次，陷入了死循环
-                            up += distance(result[l][col], value[s][l][col]);
+                            up += distance(value, result[l][col], value[s][l][col],mode);
                         }
                     }
                 }
@@ -405,7 +405,7 @@ public class CTD_Algorithm {
                     down = 0;
                     for (int l = 0; l < L; l++) {
                         for (int col = 0; col < p; col++) {
-                            down += distance(result[l][col], value[s][l][col]);
+                            down += distance(value, result[l][col], value[s][l][col],mode);
                         }
                     }
                     // calculate nature log
@@ -589,7 +589,24 @@ public class CTD_Algorithm {
      * @param v2 字符串2，来自value
      * @return 返回两个字符串的欧式距离
      */
-    private double distance(String v1, String v2) {
-        return 1;
+    private double distance(String[][][] value, String v1, String v2,String mode) {
+
+//        if(mode.equals("FIVE")){
+//            // 五分图
+//            SourceEmbeddingViaWord2Vec word2VecService = new SourceEmbeddingViaWord2Vec();
+//            word2VecService.train(fileList,20,3,3);
+//            return 1 - word2VecService.distance(v1,v2);
+//        }
+//        else if(mode.equals("THREE")){
+//            // 三分图
+//            SourceTripartiteEmbeddingViaWord2Vec word2vecService = new SourceTripartiteEmbeddingViaWord2Vec();
+//            word2vecService.train(fileList,20,3,3);
+//            return 1 - word2vecService.distance(v1,v2);
+//        }
+//        else{
+//            // mode not support!
+//            System.out.println("mode isn't supported!");
+//        }
+        return -1;
     }
 }
