@@ -5,6 +5,7 @@ import main.java.Embedding.EMBDI.SourceEmbedding.SourceEmbeddingViaWord2Vec;
 import main.java.Embedding.EMBDI.TripartiteGraphWithSource.SourceTripartiteEmbeddingViaWord2Vec;
 
 import java.io.*;
+import java.text.SimpleDateFormat;
 import java.util.*;
 import java.util.regex.Pattern;
 
@@ -199,6 +200,8 @@ public class CTD_Algorithm {
         // finish todo:利用SimilarityUtils类，进行矩阵中字符串的比较
         SimilarityUtils sim = new SimilarityUtils();
         double error = 10;
+        // 记录result文件的个数
+        int times = 0;
         while (error > min_error) {
             for (int i = 0; i < L; i++) {
                 for (int j = 0; j < p; j++) {
@@ -388,6 +391,14 @@ public class CTD_Algorithm {
                     // else, data in result is the final v.lp
 
                 }
+                // 至此,更新结束
+                try {
+                    writeValue(value);
+                    writeResult(result,times);
+
+                } catch (IOException e) {
+                    e.printStackTrace();
+                }
                 // update weight of kth source w.k by (17)
                 double up = 0;// 分子
                 double down; //分母
@@ -396,7 +407,7 @@ public class CTD_Algorithm {
                     for (int l = 0; l < L; l++) {
                         for (int col = 0; col < p; col++) {
                             // FIXME:distance always return 1, 导致weight仅更新一次，陷入了死循环
-                            up += distance(value, result[l][col], value[s][l][col],mode);
+                            up += distance(result[l][col], value[s][l][col],mode,times);
                         }
                     }
                 }
@@ -405,13 +416,15 @@ public class CTD_Algorithm {
                     down = 0;
                     for (int l = 0; l < L; l++) {
                         for (int col = 0; col < p; col++) {
-                            down += distance(value, result[l][col], value[s][l][col],mode);
+                            down += distance(result[l][col], value[s][l][col],mode,times);
                         }
                     }
                     // calculate nature log
                     double wk = Math.log1p(up / down);
                     weights.set(s, wk);
                 }
+                // 计算距离用到result的路径，其中有times作为标志，因而在两次distance计算过后再增加times
+                times++;
             }
 
             // 重置error
@@ -587,26 +600,106 @@ public class CTD_Algorithm {
      *
      * @param v1 字符串1，来自result
      * @param v2 字符串2，来自value
+     * @param mode 表明使用三分图或者五分图进行distance计算
+     * @param times 记录着result文件的个数(从0开始)，
      * @return 返回两个字符串的欧式距离
      */
-    private double distance(String[][][] value, String v1, String v2,String mode) {
+    private double distance(String v1, String v2,String mode,int times) {
+        List<String> fileList = new ArrayList<>();
+        for(int i = 0;i<k;i++){
+            // k个数据源分别把value路径存入
+            // 注意和writeValue的路径相同
+            String path = "E:\\GitHub\\ICDE2021\\CTD\\data\\Temp\\value" + i + ".csv";
+            fileList.add(path);
+        }
+        String resultPath = "E:\\GitHub\\ICDE2021\\CTD\\data\\Temp\\result_" + times + ".csv";
+        fileList.add(resultPath);
 
-//        if(mode.equals("FIVE")){
-//            // 五分图
-//            SourceEmbeddingViaWord2Vec word2VecService = new SourceEmbeddingViaWord2Vec();
-//            word2VecService.train(fileList,20,3,3);
-//            return 1 - word2VecService.distance(v1,v2);
-//        }
-//        else if(mode.equals("THREE")){
-//            // 三分图
-//            SourceTripartiteEmbeddingViaWord2Vec word2vecService = new SourceTripartiteEmbeddingViaWord2Vec();
-//            word2vecService.train(fileList,20,3,3);
-//            return 1 - word2vecService.distance(v1,v2);
-//        }
-//        else{
-//            // mode not support!
-//            System.out.println("mode isn't supported!");
-//        }
+        if(mode.equals("FIVE")){
+            // 五分图
+            SourceEmbeddingViaWord2Vec word2VecService = new SourceEmbeddingViaWord2Vec();
+            word2VecService.train(fileList,20,3,3);
+            return 1 - word2VecService.distance(v1,v2);
+        }
+        else if(mode.equals("THREE")){
+            // 三分图
+            SourceTripartiteEmbeddingViaWord2Vec word2vecService = new SourceTripartiteEmbeddingViaWord2Vec();
+            word2vecService.train(fileList,20,3,3);
+            return 1 - word2vecService.distance(v1,v2);
+        }
+        else{
+            // mode not support!
+            System.out.println("mode isn't supported!");
+        }
         return -1;
     }
+
+    private void writeValue(String[][][] value) throws IOException {
+        String[] header = new String[]{"time", "place", "city", "good"};
+        String separator = ",";
+        for(int i = 0;i<k;i++){
+            String sourcePath = "E:\\GitHub\\ICDE2021\\CTD\\data\\Temp\\value" + i + ".csv";
+//            File file = new File(sourcePath);
+//            BufferedWriter bw = new BufferedWriter(new OutputStreamWriter(new FileOutputStream(file, true)));
+
+            PrintStream stream = new PrintStream(sourcePath);
+
+            for(int e = 0;e<header.length-1;e++){
+//                bw.write(header[e] + separator);
+                stream.print(header[e] + separator);
+            }
+//            bw.write(header[header.length-1] + "\n");
+            stream.print(header[header.length-1] + "\n");
+            for(int b = 0;b<L;b++){
+                int j;
+                for(j = 0;j < p-1;j++){
+                    // 除了最后一个的直接输入
+//                    bw.write(value[i][k][j] + separator);
+                    stream.print(value[i][b][j] + separator);
+                }
+//                bw.write(value[i][k][j] + "\n");
+                stream.print(value[i][b][j] + "\n");
+            }
+//            bw.close();
+            stream.close();
+        }
+
+    }
+    private void writeResult(String[][] result, int times){
+        String[] header = new String[]{"time", "place", "city", "good"};
+        String separator = ",";
+
+
+        String sourcePath = "E:\\GitHub\\ICDE2021\\CTD\\data\\Temp\\result_" + times + ".csv";
+//            File file = new File(sourcePath);
+//            BufferedWriter bw = new BufferedWriter(new OutputStreamWriter(new FileOutputStream(file, true)));
+
+        PrintStream stream = null;
+        try {
+            stream = new PrintStream(sourcePath);
+            for(int e = 0;e < header.length-1;e++){
+//                bw.write(header[e] + separator);
+                stream.print(header[e] + separator);
+            }
+//            bw.write(header[header.length-1] + "\n");
+            stream.print(header[header.length-1] + "\n");
+            for(int b = 0;b<L;b++){
+                int j;
+                for(j = 0;j < p-1;j++){
+                    // 除了最后一个的直接输入
+//                    bw.write(value[i][k][j] + separator);
+                    stream.print(result[b][j] + separator);
+                }
+//                bw.write(value[i][k][j] + "\n");
+                stream.print(result[b][j] + "\n");
+            }
+            stream.close();
+//            bw.close();
+        } catch (FileNotFoundException e) {
+            e.printStackTrace();
+        }
+
+
+    }
+
 }
