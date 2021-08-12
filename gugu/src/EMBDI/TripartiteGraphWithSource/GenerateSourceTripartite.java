@@ -136,7 +136,7 @@ public class GenerateSourceTripartite{
                                 sourceGraph.addEdge(word, Ri);
                                 // G.addEdge(word,Ck)
                                 sourceGraph.addEdge(word, sourceGraph.column_i.get(column));
-
+                                sourceGraph.addEdge(word, source_id);
                             }
                         }
                         else{
