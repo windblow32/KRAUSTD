@@ -30,7 +30,7 @@ public class SourceTripartiteEmbeddingViaWord2Vec {
             List list = Lists.transform(data, var11 -> data);
             word2VecModel = Word2VecModel.trainer().
                     setMinVocabFrequency(1).useNumThreads(4).setWindowSize(1).
-                    type(NeuralNetworkType.CBOW).setLayerSize(10).
+                    type(NeuralNetworkType.CBOW).setLayerSize(10).useHierarchicalSoftmax().
                     useNegativeSamples(5).setDownSamplingRate(1.0E-4D).
                     setNumIterations(5).setListener((var1, var2) -> System.out.println(String.format("%s is %.2f%% complete", Format.formatEnum(var1), var2 * 100.0D))).train(list);
             Word2VecModelThrift thrift = word2VecModel.toThrift();

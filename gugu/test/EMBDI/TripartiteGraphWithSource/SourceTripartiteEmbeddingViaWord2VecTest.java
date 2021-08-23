@@ -19,6 +19,7 @@ public class SourceTripartiteEmbeddingViaWord2VecTest {
     public void train() {
         SourceTripartiteEmbeddingViaWord2Vec word2VecService = new SourceTripartiteEmbeddingViaWord2Vec();
         List<String> fileList = new ArrayList<>();
+        // todo : modify filePath
         fileList.add("data/Book/1.CSV");
         fileList.add("data/Book/2.CSV");
         fileList.add("data/Book/3.CSV");
@@ -83,7 +84,7 @@ public class SourceTripartiteEmbeddingViaWord2VecTest {
 
         // 样本相似度，实际是用真值的一行，对应于五分图中tuple
         System.out.println("*****************************************");
-        // FIXME : 比较topK,此处k = 4,注意修改s2的_s3
+        // FIXME : 比较topK,此处k = 4,注意修改s2为真值数据集
         for(int k = 0;k<4;k++){
             // 表示图中第k行字符串
             String s1 = "row_" + k;
@@ -99,14 +100,14 @@ public class SourceTripartiteEmbeddingViaWord2VecTest {
 //            System.out.println("source_"+ i +"的平均冲突为 : " + conflictList.get(i));
 //        }
 
-        // domain feature
-        for(int i = 0;i<fileList.size()-1;i++){
-            String source = "source_" + i;
-            double domainDistance1 = word2VecService.distance("source",source);
-            System.out.println(source + "与source列的相似度为 : " + domainDistance1 );
-            double domainDistance2 = word2VecService.distance("author",source);
-            System.out.println(source + "与author列的相似度为 : " + domainDistance2 );
-        }
+//        // domain feature
+//        for(int i = 0;i<fileList.size()-1;i++){
+//            String source = "source_" + i;
+//            double domainDistance1 = word2VecService.distance("source",source);
+//            System.out.println(source + "与source列的相似度为 : " + domainDistance1 );
+//            double domainDistance2 = word2VecService.distance("author",source);
+//            System.out.println(source + "与author列的相似度为 : " + domainDistance2 );
+//        }
 
     }
 }
