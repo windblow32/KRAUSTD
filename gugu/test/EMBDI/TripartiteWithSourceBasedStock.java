@@ -15,28 +15,45 @@ public class TripartiteWithSourceBasedStock {
     public void train() {
         SourceTripartiteEmbeddingViaWord2Vec word2VecService = new SourceTripartiteEmbeddingViaWord2Vec();
         List<String> fileList = new ArrayList<>();
-        fileList.add("data/stockPartCSV/stock1.CSV");
-        fileList.add("data/stockPartCSV/stock2.CSV");
-        fileList.add("data/stockPartCSV/stock3.CSV");
-        fileList.add("data/stockPartCSV/stock4.CSV");
-        fileList.add("data/stockPartCSV/stock5.CSV");
-        fileList.add("data/stockPartCSV/stock6.CSV");
+        fileList.add("data/newstock/newstock2.CSV");
+        fileList.add("data/newstock/newstock3.CSV");
+        fileList.add("data/newstock/newstock4.CSV");
+        fileList.add("data/newstock/newstock16.CSV");
 
-        // todo:add truth
-        fileList.add("data/stockPartCSV/truth.CSV");
+        // todo:add truth, default the last one
 
+        // time located between both sides of code!
+        long preTrainMemory = used();
+        long preTrainTime = System.currentTimeMillis();
         List<Double> vector = word2VecService.train(fileList,20,3,3);
-        Map<String, List<Double>> EM = new HashMap<>();
+        long afterTrainTime = System.currentTimeMillis();
+        long afterTrainMemory = used();
+
+        // word2vec training time
+        long trainTime = afterTrainTime - preTrainTime;
+        // word2vec training memory
+        long trainMemory = afterTrainMemory - preTrainMemory;
+        int EMSize = 20;
+        Map<String,List<Double>> K_map = new HashMap<>();
         try {
-            EM = word2VecService.getEmbeddings();
+            long preGetRandomMemory = used();
+            long preGetTime = System.currentTimeMillis();
+            K_map = word2VecService.getRandom_K_Embeddings(EMSize);
+            long afterGetTime = System.currentTimeMillis();
+            long afterGetRandomMemory = used();
+
+            // word2vec embedding time
+            long embeddingTime = afterGetTime - preGetTime;
+            // word2vec embedding memory
+            long embeddingCalcMemory = afterGetRandomMemory - preGetRandomMemory;
             // System.out.println(word2VecService.getEmbeddings());
-            File f=new File("log/Stock/SourceThreeEMBDI.txt");
+            File f=new File("log/newStock/SourceThreeEMBDI.txt");
             f.createNewFile();
             FileOutputStream fileOutputStream = new FileOutputStream(f);
             PrintStream printStream = new PrintStream(fileOutputStream);
             System.setOut(printStream);
 //            System.out.println(word2VecService.getEmbeddings());
-            Set<Map.Entry<String,List<Double>>> entrySet = EM.entrySet();
+            Set<Map.Entry<String,List<Double>>> entrySet = K_map.entrySet();
             Iterator<Map.Entry<String, List<Double>>> it2 = entrySet.iterator();
             while(it2.hasNext()){
                 Map.Entry<String,List<Double>> entry = it2.next();
@@ -44,67 +61,47 @@ public class TripartiteWithSourceBasedStock {
                 List<Double> stu = entry.getValue();
                 System.out.println(ID+" "+stu);
             }
-        } catch (Searcher.UnknownWordException | IOException e) {
+            System.out.println("model training memory is : " + trainMemory);
+            System.out.println("random " + EMSize + " embeddings calc memory is : " + embeddingCalcMemory);
+        } catch (IOException e) {
             e.printStackTrace();
         }
 
-        List<Double> sourceDistanceList = new ArrayList<>();
-        int trainSourceNum = fileList.size()-1;
-        String truth = "source_7";
-        for(int i = 0;i<trainSourceNum;i++){
-            String source = "source_" + i;
-            double d = word2VecService.distance(source,truth);
-            sourceDistanceList.add(d);
-            System.out.println("source_" + i + "ÓëÕæÖµÓàÏÒÏàËÆ¶È : " + d);
+        // node in K_map : calc distance between each of 2
+
+        Set<String> nameSet = new HashSet<>(K_map.keySet());
+        Iterator<String> nameItor = nameSet.iterator();
+        List<String> nameList = new ArrayList<>();
+        while(nameItor.hasNext()){
+            String name = nameItor.next();
+            nameList.add(name);
         }
-
-
-        System.out.println("*****************************************");
-        double sum = 0;
-        for(int i = 0;i<trainSourceNum;i++){
-            sum += sourceDistanceList.get(i);
-        }
-
-        for(int i = 0;i<trainSourceNum;i++){
-            System.out.println("source_" + i + "ÓëÕæÖµÏàËÆ¶ÈÕ¼±È : " + sourceDistanceList.get(i)/sum);
-        }
-
-        // sourceÖ®¼äÏàËÆ¶È
-        System.out.println("*****************************************");
-        for(int i = 0;i<trainSourceNum;i++){
-            for(int j = i+1;j<trainSourceNum;j++){
-                String s1 = "source_" + i;
-                String s2 = "source_" + j;
-                double d_ij = word2VecService.distance(s1,s2);
-                System.out.println(s1 + "Óë" + s2 + " embedding ÏàËÆ¶È : " + d_ij);
+        int nameListSize = nameList.size();
+        String v1;
+        String v2=null;
+        for(int i = 0;i<nameListSize;i++){
+            v1 = nameList.get(i);
+            for(int j = i + 1;j<nameListSize;j++){
+                v2 = nameList.get(j);
+                double d = word2VecService.distance(v1,v2);
+                System.out.println(v1 + " å’Œ " + v2 + " é—´çš„è·ç¦»ä¸º : " + d);
             }
+
         }
 
 
-        // Ñù±¾ÏàËÆ¶È£¬Êµ¼ÊÊÇÓÃÕæÖµµÄÒ»ÐÐ£¬¶ÔÓ¦ÓÚÎå·ÖÍ¼ÖÐtuple
-        System.out.println("*****************************************");
-        // ±È½ÏtopK£¬´Ë´¦k = 6
-        for(int k = 0;k<6;k++){
-            // ±íÊ¾Í¼ÖÐµÚkÐÐ×Ö·û´®
-            String s1 = "row_" + k;
-            String s2 = "row_" + k + "_s7";
-            double d_TupleKAndTruthK = word2VecService.distance(s1,s2);
-            System.out.println("row" + k + "Ñù±¾ÏàËÆ¶ÈÎª : " + d_TupleKAndTruthK);
-        }
-        System.out.println("*****************************************");
-        System.out.println("vector×Ü´óÐ¡ : " + vector.size());
-        Conflict conflict = new Conflict();
-        List<Double> conflictList =  conflict.calcConflict(fileList);
-        for(int i = 0;i<trainSourceNum;i++){
-            System.out.println("source_"+ i +"µÄÆ½¾ù³åÍ»Îª : " + conflictList.get(i));
-        }
 
-        // domain feature
-        for(int i = 0;i<trainSourceNum;i++){
-            String source = "source_" + i;
-            double domainDistance = word2VecService.distance("volume",source);
-            System.out.println(source + "ÓëvolumeÁÐµÄÏàËÆ¶ÈÎª : " + domainDistance );
-        }
 
     }
+
+    /**
+     *
+     * @return memory cost current
+     */
+    public static long used(){
+        long total = Runtime.getRuntime().totalMemory();
+        long free = Runtime.getRuntime().freeMemory();
+        return total - free;
+    }
+//    long start = System.currentTimeMillis();
 }
