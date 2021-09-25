@@ -58,6 +58,41 @@ public class SourceEmbeddingViaWord2Vec{
     }
 
     /**
+     *
+     * @param k : get k nodes' embeddings
+     * @return a map contains k nodes' embeddings
+     */
+    public Map<String, List<Double>> getRandom_K_Embeddings(int k){
+
+        Map<String, List<Double>> vecMap = new HashMap<>();
+        List<String> nodeList = new ArrayList<>(total_nodes);
+        Set<Integer> indexSet = new HashSet<>();
+        // 随机获取list下标
+        while(indexSet.size()<k){
+            int index = (int) (Math.random()*nodeList.size());
+            if(indexSet.contains(index)){
+                continue;
+            }
+            // use index to get word
+            String word = nodeList.get(index);
+            List<Double> list = new ArrayList<>();
+            Searcher searcher = word2VecModel.forSearch();
+            try {
+                list.addAll(searcher.getRawVector(word));
+            } catch (Searcher.UnknownWordException e) {
+                e.printStackTrace();
+            }
+            vecMap.put(word, list);
+            indexSet.add(index);
+        }
+        if (vecMap.size()!=k){
+            System.out.println("embedding 不足K个");
+        }
+        return vecMap;
+    }
+
+
+    /**
      * 计算两个词之间的距离,注意，不能是属性啊！
      * todo:CSY需要的是什么之间的
      * @param s1 word1

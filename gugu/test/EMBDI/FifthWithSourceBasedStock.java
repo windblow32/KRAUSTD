@@ -1,7 +1,7 @@
 package EMBDI;
 
+import EMBDI.SourceEmbedding.SourceEmbeddingViaWord2Vec;
 import EMBDI.TripartiteGraphWithSource.SourceTripartiteEmbeddingViaWord2Vec;
-import com.medallia.word2vec.Searcher;
 import org.junit.Test;
 
 import java.io.File;
@@ -11,14 +11,14 @@ import java.io.PrintStream;
 import java.util.*;
 
 /**
- * using TripartiteGraph to generate random EMSize nodes, and calc their distance
- * log in E:\GitHub\ICDE2021\gugu\log\newStock
- * data in gugu/data/newstock/smallStock*.csv
+ * using fifthGraph to generate random EMSize nodes, calc their distance
+ * data from data/newstock/smallStock2.csv
+ * log in E:\GitHub\ICDE2021\gugu\log\newStock\FifthGraphEMBDI
  */
-public class TripartiteWithSourceBasedStock {
+public class FifthWithSourceBasedStock {
     @Test
     public void train() {
-        SourceTripartiteEmbeddingViaWord2Vec word2VecService = new SourceTripartiteEmbeddingViaWord2Vec();
+        SourceEmbeddingViaWord2Vec word2VecService = new SourceEmbeddingViaWord2Vec();
         List<String> fileList = new ArrayList<>();
         fileList.add("data/newstock/smallStock2.CSV");
         fileList.add("data/newstock/smallStock3.CSV");
@@ -54,7 +54,7 @@ public class TripartiteWithSourceBasedStock {
             // word2vec embedding memory
             long embeddingCalcMemory = afterGetRandomMemory - preGetRandomMemory;
             // System.out.println(word2VecService.getEmbeddings());
-            File f=new File("log/newStock/SourceThreeEMBDI6.txt");
+            File f=new File("log/newStock/FifthGraphEMBDI/RandomFifthGraphEMBDI5.txt");
             f.createNewFile();
             FileOutputStream fileOutputStream = new FileOutputStream(f);
             PrintStream printStream = new PrintStream(fileOutputStream);
@@ -112,5 +112,4 @@ public class TripartiteWithSourceBasedStock {
         long free = Runtime.getRuntime().freeMemory();
         return total - free;
     }
-//    long start = System.currentTimeMillis();
 }
