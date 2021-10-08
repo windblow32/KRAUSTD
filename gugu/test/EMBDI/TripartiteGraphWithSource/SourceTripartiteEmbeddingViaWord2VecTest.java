@@ -1,7 +1,5 @@
 package EMBDI.TripartiteGraphWithSource;
 
-import EMBDI.Conflict;
-import EMBDI.SourceEmbedding.SourceEmbeddingViaWord2Vec;
 import com.medallia.word2vec.Searcher;
 import org.junit.Test;
 

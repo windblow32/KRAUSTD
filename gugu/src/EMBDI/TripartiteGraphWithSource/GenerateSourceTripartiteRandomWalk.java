@@ -59,7 +59,7 @@ public class GenerateSourceTripartiteRandomWalk {
      * @return 找和vertex相连的点,然后存储到set中,用random选一个输出
      */
     public String findRandomNeighbor(String vertex){
-        String node=null;
+        String node = null;
         Map<String, Integer> neighbor_map = new HashMap<>();
         Set<String> neighbor_set = new HashSet<>();
         if(!graph.vertices().contains(vertex)){

@@ -1,0 +1,10000 @@
+(aa)
+Price Earnings Ratio:=Price Earnings Ratio: 17.14
+Last:=15.43
+Low:=15.40
+Open:=15.90
+% Change:=-2.65%
+Change:=-0.42
+Volume:=16566350
+High:=15.93
+
+(aan)
+Price Earnings Ratio:=Price Earnings Ratio: N/A
+Last:=27.67
+Low:=27.55
+Open:=28.04
+% Change:=-0.75%
+Change:=-0.21
+Volume:=491100
+High:=28.59
+
+(aapl)
+Price Earnings Ratio:=Price Earnings Ratio: 17.05
+Last:=357.69
+Low:=356.34
+Open:=361.01
+% Change:=-0.09%
+Change:=-0.33
+Volume:=14184629
+High:=361.61
+
+(abat)
+Price Earnings Ratio:=null
+Last:=1.07
+Low:=1.01
+Open:=1.03
+% Change:=+5.94%
+Change:=+0.06
+Volume:=2215999
+High:=1.10
+
+(abax)
+Price Earnings Ratio:=Price Earnings Ratio: 44.25
+Last:=28.76
+Low:=28.73
+Open:=29.88
+% Change:=-3.46%
+Change:=-1.03
+Volume:=60889
+High:=29.90
+
+(abbc)
+Price Earnings Ratio:=null
+Last:=10.32
+Low:=10.22
+Open:=10.51
+% Change:=-1.90%
+Change:=-0.20
+Volume:=18900
+High:=10.53
+
+(abcb)
+Price Earnings Ratio:=null
+Last:=9.14
+Low:=9.10
+Open:=9.23
+% Change:=-1.61%
+Change:=-0.15
+Volume:=19452
+High:=9.29
+
+(abg)
+Price Earnings Ratio:=Price Earnings Ratio: 12.04
+Last:=18.79
+Low:=18.64
+Open:=19.43
+% Change:=-3.24%
+Change:=-0.63
+Volume:=216446
+High:=19.64
+
+(abii)
+Price Earnings Ratio:=null
+Last:=null
+Low:=null
+Open:=Symbol
+% Change:=null
+Change:=null
+Volume:=null
+High:=Exchange
+
+(abmd)
+Price Earnings Ratio:=Price Earnings Ratio: N/A
+Last:=16.34
+Low:=16.21
+Open:=16.58
+% Change:=-1.45%
+Change:=-0.24
+Volume:=169667
+High:=16.65
+
+(acas)
+Price Earnings Ratio:=Price Earnings Ratio: 15.38
+Last:=9.84
+Low:=9.80
+Open:=10.02
+% Change:=-1.20%
+Change:=-0.12
+Volume:=3815700
+High:=10.11
+
+(acet)
+Price Earnings Ratio:=null
+Last:=6.33
+Low:=6.32
+Open:=6.45
+% Change:=-1.86%
+Change:=-0.12
+Volume:=94400
+High:=6.65
+
+(aco)
+Price Earnings Ratio:=Price Earnings Ratio: 21.74
+Last:=37.18
+Low:=37.13
+Open:=38.86
+% Change:=-3.88%
+Change:=-1.50
+Volume:=79412
+High:=39.03
+
+(acom)
+Price Earnings Ratio:=Price Earnings Ratio: 50.85
+Last:=43.22
+Low:=42.81
+Open:=43.86
+% Change:=-0.53%
+Change:=-0.23
+Volume:=1076961
+High:=44.89
+
+(actg)
+Price Earnings Ratio:=Price Earnings Ratio: 49.28
+Last:=36.96
+Low:=36.59
+Open:=38.07
+% Change:=-2.79%
+Change:=-1.06
+Volume:=194500
+High:=38.41
+
+(actl)
+Price Earnings Ratio:=null
+Last:=null
+Low:=null
+Open:=Symbol
+% Change:=null
+Change:=null
+Volume:=null
+High:=Exchange
+
+(actu)
+Price Earnings Ratio:=null
+Last:=null
+Low:=null
+Open:=Symbol
+% Change:=null
+Change:=null
+Volume:=null
+High:=Exchange
+
+(acv)
+Price Earnings Ratio:=null
+Last:=null
+Low:=null
+Open:=null
+% Change:=null
+Change:=null
+Volume:=null
+High:=null
+
+(adbe)
+Price Earnings Ratio:=Price Earnings Ratio: 13.14
+Last:=29.31
+Low:=29.25
+Open:=30.12
+% Change:=-2.53%
+Change:=-0.76
+Volume:=5263133
+High:=30.22
+
+(adct)
+Price Earnings Ratio:=null
+Last:=null
+Low:=null
+Open:=null
+% Change:=null
+Change:=null
+Volume:=null
+High:=null
+
+(adp)
+Price Earnings Ratio:=Price Earnings Ratio: 21.75
+Last:=53.29
+Low:=53.17
+Open:=53.83
+% Change:=-0.75%
+Change:=-0.40
+Volume:=1235788
+High:=54.12
+
+(adpi)
+Price Earnings Ratio:=null
+Last:=13.15
+Low:=13.08
+Open:=13.25
+% Change:=-0.15%
+Change:=-0.02
+Volume:=48200
+High:=13.25
+
+(adpt)
+Price Earnings Ratio:=null
+Last:=2.9800
+Low:=2.9800
+Open:=2.9900
+% Change:=-0.33%
+Change:=-0.0100
+Volume:=27700
+High:=3.0000
+
+(adsk)
+Price Earnings Ratio:=Price Earnings Ratio: 25.37
+Last:=36.28
+Low:=36.24
+Open:=37.43
+% Change:=-2.63%
+Change:=-0.98
+Volume:=1936694
+High:=37.69
+
+(adtn)
+Price Earnings Ratio:=Price Earnings Ratio: 17.11
+Last:=35.25
+Low:=34.87
+Open:=36.30
+% Change:=-2.38%
+Change:=-0.86
+Volume:=2280502
+High:=37.28
+
+(aec)
+Price Earnings Ratio:=null
+Last:=16.86
+Low:=16.65
+Open:=16.99
+% Change:=+0.24%
+Change:=+0.04
+Volume:=215853
+High:=17.13
+
+(aeis)
+Price Earnings Ratio:=Price Earnings Ratio: 8.27
+Last:=12.73
+Low:=12.58
+Open:=13.01
+% Change:=-2.08%
+Change:=-0.27
+Volume:=557615
+High:=13.16
+
+(aet)
+Price Earnings Ratio:=Price Earnings Ratio: 11.00
+Last:=43.44
+Low:=43.21
+Open:=43.56
+% Change:=+0.12%
+Change:=+0.05
+Volume:=2484856
+High:=44.04
+
+(afce)
+Price Earnings Ratio:=Price Earnings Ratio: 18.35
+Last:=16.33
+Low:=16.32
+Open:=16.76
+% Change:=-2.80%
+Change:=-0.47
+Volume:=77000
+High:=16.85
+
+(agam)
+Price Earnings Ratio:=null
+Last:=null
+Low:=null
+Open:=Symbol
+% Change:=null
+Change:=null
+Volume:=null
+High:=Exchange
+
+(agco)
+Price Earnings Ratio:=Price Earnings Ratio: 16.19
+Last:=48.73
+Low:=48.45
+Open:=50.39
+% Change:=-2.77%
+Change:=-1.39
+Volume:=1600611
+High:=50.79
+
+(agx)
+Price Earnings Ratio:=null
+Last:=10.39
+Low:=10.32
+Open:=10.50
+% Change:=-1.05%
+Change:=-0.11
+Volume:=11426
+High:=10.60
+
+(agys)
+Price Earnings Ratio:=null
+Last:=9.67
+Low:=9.34
+Open:=9.40
+% Change:=+2.98%
+Change:=+0.28
+Volume:=594910
+High:=9.79
+
+(ahc)
+Price Earnings Ratio:=null
+Last:=7.09
+Low:=7.07
+Open:=7.35
+% Change:=-3.54%
+Change:=-0.26
+Volume:=1115359
+High:=7.35
+
+(aht)
+Price Earnings Ratio:=null
+Last:=12.23
+Low:=12.07
+Open:=12.44
+% Change:=-1.21%
+Change:=-0.15
+Volume:=555013
+High:=12.48
+
+(aig)
+Price Earnings Ratio:=Price Earnings Ratio: 2.00
+Last:=28.50
+Low:=28.35
+Open:=28.93
+% Change:=-1.18%
+Change:=-0.34
+Volume:=5766648
+High:=29.00
+
+(airm)
+Price Earnings Ratio:=Price Earnings Ratio: 18.51
+Last:=73.30
+Low:=72.95
+Open:=74.50
+% Change:=-2.14%
+Change:=-1.60
+Volume:=72883
+High:=74.50
+
+(ajg)
+Price Earnings Ratio:=Price Earnings Ratio: 18.47
+Last:=28.08
+Low:=28.04
+Open:=28.46
+% Change:=-1.02%
+Change:=-0.29
+Volume:=498204
+High:=28.54
+
+(akam)
+Price Earnings Ratio:=Price Earnings Ratio: 20.28
+Last:=29.61
+Low:=29.52
+Open:=30.86
+% Change:=-4.33%
+Change:=-1.34
+Volume:=5184149
+High:=30.93
+
+(alb)
+Price Earnings Ratio:=Price Earnings Ratio: 17.07
+Last:=67.92
+Low:=67.58
+Open:=68.76
+% Change:=-0.76%
+Change:=-0.52
+Volume:=851154
+High:=69.17
+
+(alc)
+Price Earnings Ratio:=Price Earnings Ratio: 19.85
+Last:=16.28
+Low:=15.95
+Open:=16.54
+% Change:=-1.21%
+Change:=-0.20
+Volume:=28158
+High:=16.56
+
+(ale)
+Price Earnings Ratio:=Price Earnings Ratio: 15.93
+Last:=41.09
+Low:=41.05
+Open:=41.48
+% Change:=-0.99%
+Change:=-0.41
+Volume:=104025
+High:=41.63
+
+(alex)
+Price Earnings Ratio:=null
+Last:=49.63
+Low:=49.15
+Open:=50.46
+% Change:=-1.41%
+Change:=-0.71
+Volume:=130574
+High:=50.54
+
+(alnc)
+Price Earnings Ratio:=null
+Last:=31.66
+Low:=30.92
+Open:=31.79
+% Change:=+1.38%
+Change:=+0.43
+Volume:=22490
+High:=32.24
+
+(alth)
+Price Earnings Ratio:=Price Earnings Ratio: N/A
+Last:=2.02
+Low:=2.01
+Open:=2.07
+% Change:=-2.42%
+Change:=-0.05
+Volume:=427800
+High:=2.09
+
+(altr)
+Price Earnings Ratio:=Price Earnings Ratio: 15.94
+Last:=42.55
+Low:=42.47
+Open:=43.93
+% Change:=-2.54%
+Change:=-1.11
+Volume:=4920870
+High:=44.05
+
+(alxa)
+Price Earnings Ratio:=null
+Last:=1.72
+Low:=1.72
+Open:=1.76
+% Change:=-2.27%
+Change:=-0.04
+Volume:=256016
+High:=1.77
+
+(alxn)
+Price Earnings Ratio:=Price Earnings Ratio: 51.55
+Last:=51.29
+Low:=50.61
+Open:=51.30
+% Change:=+0.08%
+Change:=+0.04
+Volume:=1070847
+High:=51.66
+
+(aly)
+Price Earnings Ratio:=null
+Last:=null
+Low:=null
+Open:=null
+% Change:=null
+Change:=null
+Volume:=null
+High:=null
+
+(amat)
+Price Earnings Ratio:=Price Earnings Ratio: 9.65
+Last:=12.26
+Low:=12.24
+Open:=12.45
+% Change:=-1.44%
+Change:=-0.18
+Volume:=16864416
+High:=12.64
+
+(amg)
+Price Earnings Ratio:=Price Earnings Ratio: 15.41
+Last:=99.68
+Low:=99.43
+Open:=101.60
+% Change:=-1.61%
+Change:=-1.63
+Volume:=412642
+High:=102.94
+
+(amgn)
+Price Earnings Ratio:=Price Earnings Ratio: 10.58
+Last:=55.55
+Low:=55.49
+Open:=56.56
+% Change:=-1.87%
+Change:=-1.06
+Volume:=6013185
+High:=56.60
+
+(amn)
+Price Earnings Ratio:=null
+Last:=85.21
+Low:=85.19
+Open:=85.39
+% Change:=-0.04%
+Change:=-0.03
+Volume:=196851
+High:=85.42
+
+(amp)
+Price Earnings Ratio:=Price Earnings Ratio: 11.15
+Last:=54.75
+Low:=54.65
+Open:=56.22
+% Change:=-2.00%
+Change:=-1.12
+Volume:=2080984
+High:=56.35
+
+(amph)
+Price Earnings Ratio:=null
+Last:=null
+Low:=null
+Open:=Symbol
+% Change:=null
+Change:=null
+Volume:=null
+High:=Exchange
+
+(amsg)
+Price Earnings Ratio:=Price Earnings Ratio: 15.34
+Last:=26.23
+Low:=26.18
+Open:=26.79
+% Change:=-2.13%
+Change:=-0.57
+Volume:=131805
+High:=26.90
+
+(amt)
+Price Earnings Ratio:=Price Earnings Ratio: 56.87
+Last:=52.32
+Low:=52.00
+Open:=53.15
+% Change:=-1.51%
+Change:=-0.80
+Volume:=1737800
+High:=53.39
+
+(amzn)
+Price Earnings Ratio:=Price Earnings Ratio: 91.02
+Last:=210.26
+Low:=209.38
+Open:=213.93
+% Change:=-1.52%
+Change:=-3.24
+Volume:=3101590
+High:=215.91
+
+(anf)
+Price Earnings Ratio:=Price Earnings Ratio: 29.94
+Last:=73.35
+Low:=72.06
+Open:=73.50
+% Change:=+0.25%
+Change:=+0.18
+Volume:=2069001
+High:=75.05
+
+(ango)
+Price Earnings Ratio:=Price Earnings Ratio: 28.02
+Last:=14.01
+Low:=14.00
+Open:=14.44
+% Change:=-2.98%
+Change:=-0.43
+Volume:=98666
+High:=14.64
+
+(anr)
+Price Earnings Ratio:=Price Earnings Ratio: 20.88
+Last:=44.27
+Low:=44.10
+Open:=45.35
+% Change:=-1.62%
+Change:=-0.73
+Volume:=3827973
+High:=45.98
+
+(anth)
+Price Earnings Ratio:=null
+Last:=7.98
+Low:=7.86
+Open:=8.09
+% Change:=-1.72%
+Change:=-0.14
+Volume:=63670
+High:=8.16
+
+(anv)
+Price Earnings Ratio:=Price Earnings Ratio: N/A
+Last:=38.11
+Low:=37.67
+Open:=39.23
+% Change:=-2.78%
+Change:=-1.09
+Volume:=879487
+High:=39.48
+
+(aoi)
+Price Earnings Ratio:=null
+Last:=3.22
+Low:=3.19
+Open:=3.25
+% Change:=-0.92%
+Change:=-0.03
+Volume:=564967
+High:=3.37
+
+(aon)
+Price Earnings Ratio:=Price Earnings Ratio: 16.42
+Last:=50.26
+Low:=50.18
+Open:=50.70
+% Change:=-0.83%
+Change:=-0.42
+Volume:=1233066
+High:=51.00
+
+(apac)
+Price Earnings Ratio:=null
+Last:=8.46
+Low:=8.44
+Open:=8.45
+% Change:=+0.12%
+Change:=+0.01
+Volume:=465336
+High:=8.50
+
+(apd)
+Price Earnings Ratio:=Price Earnings Ratio: 17.43
+Last:=93.94
+Low:=93.69
+Open:=95.10
+% Change:=-1.03%
+Change:=-0.98
+Volume:=865646
+High:=95.45
+
+(apkt)
+Price Earnings Ratio:=Price Earnings Ratio: 71.76
+Last:=65.30
+Low:=64.27
+Open:=67.18
+% Change:=-2.49%
+Change:=-1.67
+Volume:=1128100
+High:=68.25
+
+(apol)
+Price Earnings Ratio:=Price Earnings Ratio: 9.41
+Last:=49.12
+Low:=48.95
+Open:=49.85
+% Change:=-1.41%
+Change:=-0.70
+Volume:=1095892
+High:=50.03
+
+(apsg)
+Price Earnings Ratio:=null
+Last:=null
+Low:=null
+Open:=null
+% Change:=null
+Change:=null
+Volume:=null
+High:=null
+
+(aray)
+Price Earnings Ratio:=Price Earnings Ratio: 168.00
+Last:=8.40
+Low:=8.37
+Open:=8.54
+% Change:=-1.18%
+Change:=-0.10
+Volume:=360580
+High:=8.58
+
+(arb)
+Price Earnings Ratio:=Price Earnings Ratio: 23.22
+Last:=39.94
+Low:=39.69
+Open:=40.60
+% Change:=-1.55%
+Change:=-0.63
+Volume:=93501
+High:=41.10
+
+(are)
+Price Earnings Ratio:=Price Earnings Ratio: 22.54
+Last:=80.02
+Low:=79.55
+Open:=80.76
+% Change:=-0.51%
+Change:=-0.41
+Volume:=438486
+High:=81.18
+
+(ari)
+Price Earnings Ratio:=Price Earnings Ratio: 11.45
+Last:=15.92
+Low:=15.90
+Open:=16.12
+% Change:=-1.12%
+Change:=-0.18
+Volume:=124223
+High:=16.17
+
+(aria)
+Price Earnings Ratio:=Price Earnings Ratio: 19.33
+Last:=12.18
+Low:=12.12
+Open:=12.30
+% Change:=-0.49%
+Change:=-0.06
+Volume:=2634211
+High:=12.47
+
+(arm)
+Price Earnings Ratio:=null
+Last:=null
+Low:=null
+Open:=null
+% Change:=null
+Change:=null
+Volume:=null
+High:=null
+
+(aro)
+Price Earnings Ratio:=Price Earnings Ratio: 7.43
+Last:=17.17
+Low:=17.14
+Open:=17.50
+% Change:=-1.72%
+Change:=-0.30
+Volume:=1540421
+High:=17.61
+
+(arow)
+Price Earnings Ratio:=null
+Last:=23.82
+Low:=23.77
+Open:=24.03
+% Change:=-1.77%
+Change:=-0.43
+Volume:=13612
+High:=24.36
+
+(artg)
+Price Earnings Ratio:=null
+Last:=null
+Low:=null
+Open:=null
+% Change:=null
+Change:=null
+Volume:=null
+High:=null
+
+(arw)
+Price Earnings Ratio:=Price Earnings Ratio: 8.02
+Last:=37.07
+Low:=36.94
+Open:=37.41
+% Change:=-0.54%
+Change:=-0.20
+Volume:=2004969
+High:=37.73
+
+(asca)
+Price Earnings Ratio:=Price Earnings Ratio: 24.37
+Last:=22.91
+Low:=22.62
+Open:=23.25
+% Change:=-0.82%
+Change:=-0.19
+Volume:=253440
+High:=23.25
+
+(asfi)
+Price Earnings Ratio:=null
+Last:=7.77
+Low:=7.75
+Open:=7.78
+% Change:=-0.38%
+Change:=-0.03
+Volume:=14003
+High:=7.82
+
+(asgr)
+Price Earnings Ratio:=null
+Last:=26.01
+Low:=25.98
+Open:=25.98
+% Change:=+0.04%
+Change:=+0.01
+Volume:=63000
+High:=26.01
+
+(atac)
+Price Earnings Ratio:=null
+Last:=null
+Low:=null
+Open:=Symbol
+% Change:=null
+Change:=null
+Volume:=null
+High:=Exchange
+
+(athr)
+Price Earnings Ratio:=null
+Last:=null
+Low:=null
+Open:=null
+% Change:=null
+Change:=null
+Volume:=null
+High:=null
+
+(atls)
+Price Earnings Ratio:=null
+Last:=22.93
+Low:=22.77
+Open:=23.33
+% Change:=-0.95%
+Change:=-0.22
+Volume:=155714
+High:=23.53
+
+(atni)
+Price Earnings Ratio:=null
+Last:=37.06
+Low:=37.02
+Open:=38.60
+% Change:=-4.19%
+Change:=-1.62
+Volume:=18501
+High:=38.60
+
+(atpg)
+Price Earnings Ratio:=Price Earnings Ratio: N/A
+Last:=15.32
+Low:=15.22
+Open:=15.80
+% Change:=-2.30%
+Change:=-0.36
+Volume:=769517
+High:=15.85
+
+(atsg)
+Price Earnings Ratio:=null
+Last:=6.34
+Low:=6.34
+Open:=6.57
+% Change:=-3.50%
+Change:=-0.23
+Volume:=339569
+High:=6.61
+
+(atsi)
+Price Earnings Ratio:=null
+Last:=null
+Low:=null
+Open:=Symbol
+% Change:=null
+Change:=null
+Volume:=null
+High:=Exchange
+
+(atvi)
+Price Earnings Ratio:=Price Earnings Ratio: 14.06
+Last:=11.81
+Low:=11.75
+Open:=11.89
+% Change:=-0.76%
+Change:=-0.09
+Volume:=4484117
+High:=11.97
+
+(auxl)
+Price Earnings Ratio:=Price Earnings Ratio: N/A
+Last:=20.84
+Low:=20.46
+Open:=20.55
+% Change:=+1.56%
+Change:=+0.32
+Volume:=762391
+High:=20.97
+
+(avid)
+Price Earnings Ratio:=Price Earnings Ratio: 58.97
+Last:=20.05
+Low:=19.52
+Open:=20.00
+% Change:=+0.25%
+Change:=+0.05
+Volume:=190290
+High:=20.24
+
+(avnw)
+Price Earnings Ratio:=Price Earnings Ratio: 62.17
+Last:=3.73
+Low:=3.61
+Open:=3.80
+% Change:=-1.84%
+Change:=-0.07
+Volume:=378379
+High:=3.91
+
+(avx)
+Price Earnings Ratio:=Price Earnings Ratio: 9.55
+Last:=14.04
+Low:=14.00
+Open:=14.53
+% Change:=-3.37%
+Change:=-0.49
+Volume:=466007
+High:=14.58
+
+(avy)
+Price Earnings Ratio:=Price Earnings Ratio: 13.21
+Last:=38.18
+Low:=38.00
+Open:=38.47
+% Change:=-0.39%
+Change:=-0.15
+Volume:=662850
+High:=38.84
+
+(awi)
+Price Earnings Ratio:=Price Earnings Ratio: 23.36
+Last:=44.62
+Low:=44.25
+Open:=45.35
+% Change:=-1.39%
+Change:=-0.63
+Volume:=190761
+High:=45.55
+
+(awr)
+Price Earnings Ratio:=null
+Last:=35.00
+Low:=34.89
+Open:=35.40
+% Change:=-1.13%
+Change:=-0.40
+Volume:=45800
+High:=35.56
+
+(axl)
+Price Earnings Ratio:=Price Earnings Ratio: 6.20
+Last:=11.35
+Low:=11.18
+Open:=11.37
+% Change:=+0.09%
+Change:=+0.01
+Volume:=2008674
+High:=11.54
+
+(axp)
+Price Earnings Ratio:=Price Earnings Ratio: 14.07
+Last:=51.34
+Low:=51.30
+Open:=52.23
+% Change:=-1.17%
+Change:=-0.61
+Volume:=4578392
+High:=52.43
+
+(axs)
+Price Earnings Ratio:=Price Earnings Ratio: 54.39
+Last:=31.00
+Low:=30.71
+Open:=30.76
+% Change:=+0.65%
+Change:=+0.20
+Volume:=1031250
+High:=31.24
+
+(azo)
+Price Earnings Ratio:=Price Earnings Ratio: 16.49
+Last:=297.88
+Low:=295.26
+Open:=298.37
+% Change:=+0.32%
+Change:=+0.94
+Volume:=416400
+High:=302.00
+
+(ba)
+Price Earnings Ratio:=Price Earnings Ratio: 15.73
+Last:=71.08
+Low:=71.00
+Open:=71.94
+% Change:=-1.51%
+Change:=-1.09
+Volume:=4277907
+High:=72.32
+
+(bac)
+Price Earnings Ratio:=Price Earnings Ratio: 13.43
+Last:=10.07
+Low:=10.07
+Open:=10.30
+% Change:=-1.27%
+Change:=-0.13
+Volume:=120355398
+High:=10.33
+
+(bamm)
+Price Earnings Ratio:=null
+Last:=3.06
+Low:=3.00
+Open:=3.11
+% Change:=-1.92%
+Change:=-0.06
+Volume:=70700
+High:=3.19
+
+(bbbb)
+Price Earnings Ratio:=Price Earnings Ratio: 30.02
+Last:=44.13
+Low:=44.11
+Open:=44.19
+% Change:=-0.11%
+Change:=-0.05
+Volume:=2246428
+High:=44.20
+
+(bbby)
+Price Earnings Ratio:=Price Earnings Ratio: 17.93
+Last:=58.81
+Low:=58.64
+Open:=59.61
+% Change:=-1.06%
+Change:=-0.63
+Volume:=1383688
+High:=60.25
+
+(bbg)
+Price Earnings Ratio:=Price Earnings Ratio: 31.55
+Last:=43.86
+Low:=43.78
+Open:=45.82
+% Change:=-3.69%
+Change:=-1.68
+Volume:=1526802
+High:=45.84
+
+(bbgi)
+Price Earnings Ratio:=null
+Last:=4.08
+Low:=4.08
+Open:=4.08
+% Change:=+0.99%
+Change:=+0.04
+Volume:=166
+High:=4.08
+
+(bbw)
+Price Earnings Ratio:=Price Earnings Ratio: N/A
+Last:=6.33
+Low:=6.33
+Open:=6.48
+% Change:=-2.47%
+Change:=-0.16
+Volume:=27024
+High:=6.51
+
+(bc)
+Price Earnings Ratio:=Price Earnings Ratio: N/A
+Last:=18.85
+Low:=18.64
+Open:=19.58
+% Change:=-3.23%
+Change:=-0.63
+Volume:=1509000
+High:=19.87
+
+(bcrx)
+Price Earnings Ratio:=Price Earnings Ratio: N/A
+Last:=3.90
+Low:=3.72
+Open:=3.92
+% Change:=-0.51%
+Change:=-0.02
+Volume:=189243
+High:=3.93
+
+(bcsi)
+Price Earnings Ratio:=Price Earnings Ratio: 15.00
+Last:=21.30
+Low:=21.23
+Open:=22.08
+% Change:=-3.53%
+Change:=-0.78
+Volume:=416733
+High:=22.14
+
+(bdge)
+Price Earnings Ratio:=null
+Last:=20.63
+Low:=20.63
+Open:=21.64
+% Change:=-4.58%
+Change:=-0.99
+Volume:=18509
+High:=21.64
+
+(beat)
+Price Earnings Ratio:=Price Earnings Ratio: N/A
+Last:=5.10
+Low:=5.05
+Open:=5.23
+% Change:=-2.49%
+Change:=-0.13
+Volume:=88931
+High:=5.24
+
+(beav)
+Price Earnings Ratio:=Price Earnings Ratio: 23.22
+Last:=40.87
+Low:=40.71
+Open:=41.35
+% Change:=-0.80%
+Change:=-0.33
+Volume:=1010800
+High:=41.80
+
+(belfb)
+Price Earnings Ratio:=null
+Last:=19.77
+Low:=19.72
+Open:=21.14
+% Change:=-5.95%
+Change:=-1.25
+Volume:=28807
+High:=21.18
+
+(bez)
+Price Earnings Ratio:=null
+Last:=null
+Low:=null
+Open:=null
+% Change:=null
+Change:=null
+Volume:=null
+High:=null
+
+(bfs)
+Price Earnings Ratio:=null
+Last:=39.45
+Low:=39.32
+Open:=39.97
+% Change:=-1.18%
+Change:=-0.47
+Volume:=44589
+High:=39.97
+
+(bgcp)
+Price Earnings Ratio:=Price Earnings Ratio: 10.82
+Last:=7.90
+Low:=7.84
+Open:=8.18
+% Change:=-3.42%
+Change:=-0.28
+Volume:=900931
+High:=8.29
+
+(bgs)
+Price Earnings Ratio:=Price Earnings Ratio: 21.64
+Last:=20.34
+Low:=20.18
+Open:=20.37
+% Change:=-0.10%
+Change:=-0.02
+Volume:=391994
+High:=20.76
+
+(bh)
+Price Earnings Ratio:=null
+Last:=390.95
+Low:=389.47
+Open:=399.37
+% Change:=-2.36%
+Change:=-9.46
+Volume:=4928
+High:=401.08
+
+(bidu)
+Price Earnings Ratio:=Price Earnings Ratio: 79.56
+Last:=140.82
+Low:=139.81
+Open:=142.95
+% Change:=-1.03%
+Change:=-1.47
+Volume:=5909209
+High:=144.36
+
+(biib)
+Price Earnings Ratio:=Price Earnings Ratio: 18.73
+Last:=103.19
+Low:=103.06
+Open:=105.47
+% Change:=-2.01%
+Change:=-2.12
+Volume:=1018722
+High:=106.09
+
+(bio)
+Price Earnings Ratio:=Price Earnings Ratio: 18.18
+Last:=118.34
+Low:=116.95
+Open:=119.68
+% Change:=-0.85%
+Change:=-1.02
+Volume:=63075
+High:=120.00
+
+(bj)
+Price Earnings Ratio:=Price Earnings Ratio: 18.86
+Last:=50.35
+Low:=50.35
+Open:=50.38
+% Change:=unch%
+Change:=unch
+Volume:=1919414
+High:=50.45
+
+(bkmu)
+Price Earnings Ratio:=null
+Last:=3.79
+Low:=3.76
+Open:=3.89
+% Change:=-3.07%
+Change:=-0.12
+Volume:=99277
+High:=3.89
+
+(bldr)
+Price Earnings Ratio:=Price Earnings Ratio: N/A
+Last:=2.22
+Low:=2.14
+Open:=2.20
+% Change:=+1.37%
+Change:=+0.03
+Volume:=78272
+High:=2.25
+
+(blk)
+Price Earnings Ratio:=Price Earnings Ratio: 16.04
+Last:=182.27
+Low:=181.76
+Open:=186.35
+% Change:=-1.50%
+Change:=-2.78
+Volume:=668746
+High:=186.81
+
+(bll)
+Price Earnings Ratio:=Price Earnings Ratio: 16.13
+Last:=39.28
+Low:=39.17
+Open:=39.89
+% Change:=-1.21%
+Change:=-0.48
+Volume:=1339732
+High:=39.91
+
+(bmc)
+Price Earnings Ratio:=Price Earnings Ratio: 17.48
+Last:=52.62
+Low:=52.45
+Open:=53.97
+% Change:=-2.39%
+Change:=-1.29
+Volume:=1254264
+High:=54.27
+
+(bmi)
+Price Earnings Ratio:=Price Earnings Ratio: 20.83
+Last:=36.87
+Low:=36.77
+Open:=37.31
+% Change:=-1.13%
+Change:=-0.42
+Volume:=117726
+High:=37.64
+
+(bmrn)
+Price Earnings Ratio:=Price Earnings Ratio: 373.37
+Last:=29.87
+Low:=29.32
+Open:=29.38
+% Change:=+2.12%
+Change:=+0.62
+Volume:=1889200
+High:=30.06
+
+(bmtc)
+Price Earnings Ratio:=null
+Last:=20.62
+Low:=20.22
+Open:=20.63
+% Change:=-0.24%
+Change:=-0.05
+Volume:=22793
+High:=20.73
+
+(bokf)
+Price Earnings Ratio:=Price Earnings Ratio: 16.91
+Last:=54.28
+Low:=54.08
+Open:=55.42
+% Change:=-1.70%
+Change:=-0.94
+Volume:=61538
+High:=55.63
+
+(boom)
+Price Earnings Ratio:=Price Earnings Ratio: 44.78
+Last:=21.94
+Low:=21.59
+Open:=22.27
+% Change:=-1.70%
+Change:=-0.38
+Volume:=63268
+High:=22.50
+
+(bpop)
+Price Earnings Ratio:=Price Earnings Ratio: N/A
+Last:=2.59
+Low:=2.56
+Open:=2.64
+% Change:=-1.52%
+Change:=-0.04
+Volume:=6615677
+High:=2.64
+
+(brc)
+Price Earnings Ratio:=Price Earnings Ratio: 15.71
+Last:=32.53
+Low:=32.40
+Open:=33.16
+% Change:=-1.96%
+Change:=-0.65
+Volume:=157728
+High:=33.35
+
+(brcm)
+Price Earnings Ratio:=Price Earnings Ratio: 15.66
+Last:=32.88
+Low:=32.70
+Open:=33.48
+% Change:=-1.26%
+Change:=-0.42
+Volume:=8577623
+High:=34.13
+
+(bre)
+Price Earnings Ratio:=Price Earnings Ratio: 32.07
+Last:=51.63
+Low:=51.44
+Open:=52.01
+% Change:=-0.71%
+Change:=-0.37
+Volume:=950742
+High:=52.21
+
+(brli)
+Price Earnings Ratio:=Price Earnings Ratio: 17.94
+Last:=20.45
+Low:=20.40
+Open:=20.75
+% Change:=-0.73%
+Change:=-0.15
+Volume:=346790
+High:=20.79
+
+(brs)
+Price Earnings Ratio:=Price Earnings Ratio: 15.28
+Last:=51.05
+Low:=50.83
+Open:=51.29
+% Change:=-0.10%
+Change:=-0.05
+Volume:=305040
+High:=51.39
+
+(bsrr)
+Price Earnings Ratio:=null
+Last:=11.22
+Low:=11.13
+Open:=11.25
+% Change:=+0.36%
+Change:=+0.04
+Volume:=10900
+High:=11.28
+
+(bstc)
+Price Earnings Ratio:=null
+Last:=24.13
+Low:=23.75
+Open:=24.64
+% Change:=-1.03%
+Change:=-0.25
+Volume:=4931
+High:=24.64
+
+(btn)
+Price Earnings Ratio:=Price Earnings Ratio: 6.84
+Last:=4.24
+Low:=4.17
+Open:=4.51
+% Change:=-5.36%
+Change:=-0.24
+Volume:=336737
+High:=4.53
+
+(buse)
+Price Earnings Ratio:=null
+Last:=5.22
+Low:=5.16
+Open:=5.31
+% Change:=-1.32%
+Change:=-0.07
+Volume:=168550
+High:=5.39
+
+(bxg)
+Price Earnings Ratio:=null
+Last:=2.71
+Low:=2.70
+Open:=2.74
+% Change:=-1.09%
+Change:=-0.03
+Volume:=45080
+High:=2.77
+
+(bxs)
+Price Earnings Ratio:=Price Earnings Ratio: 67.17
+Last:=12.09
+Low:=11.96
+Open:=12.24
+% Change:=-0.66%
+Change:=-0.08
+Volume:=956900
+High:=12.24
+
+(byi)
+Price Earnings Ratio:=Price Earnings Ratio: 22.02
+Last:=40.95
+Low:=40.39
+Open:=41.31
+% Change:=-0.70%
+Change:=-0.29
+Volume:=467207
+High:=41.58
+
+(bz)
+Price Earnings Ratio:=null
+Last:=7.52
+Low:=7.52
+Open:=7.82
+% Change:=-3.22%
+Change:=-0.25
+Volume:=1912224
+High:=7.90
+
+(c)
+Price Earnings Ratio:=Price Earnings Ratio: 13.01
+Last:=39.02
+Low:=39.00
+Open:=39.72
+% Change:=-1.14%
+Change:=-0.45
+Volume:=32553914
+High:=39.87
+
+(ca)
+Price Earnings Ratio:=Price Earnings Ratio: 11.46
+Last:=22.11
+Low:=21.99
+Open:=22.52
+% Change:=-1.43%
+Change:=-0.32
+Volume:=4754045
+High:=22.65
+
+(cag)
+Price Earnings Ratio:=Price Earnings Ratio: 14.92
+Last:=26.26
+Low:=26.21
+Open:=26.30
+% Change:=-0.04%
+Change:=-0.01
+Volume:=10773438
+High:=26.41
+
+(cah)
+Price Earnings Ratio:=Price Earnings Ratio: 17.90
+Last:=46.18
+Low:=45.83
+Open:=46.43
+% Change:=-0.45%
+Change:=-0.21
+Volume:=2879809
+High:=46.78
+
+(cake)
+Price Earnings Ratio:=Price Earnings Ratio: 22.40
+Last:=32.70
+Low:=32.52
+Open:=33.42
+% Change:=-2.15%
+Change:=-0.72
+Volume:=1164690
+High:=33.61
+
+(cap)
+Price Earnings Ratio:=Price Earnings Ratio: 9.74
+Last:=18.70
+Low:=18.67
+Open:=19.47
+% Change:=-3.91%
+Change:=-0.76
+Volume:=164658
+High:=19.75
+
+(cas)
+Price Earnings Ratio:=Price Earnings Ratio: 190.44
+Last:=17.14
+Low:=17.05
+Open:=17.49
+% Change:=-1.83%
+Change:=-0.32
+Volume:=33465
+High:=17.51
+
+(casc)
+Price Earnings Ratio:=null
+Last:=52.21
+Low:=51.66
+Open:=53.74
+% Change:=-1.93%
+Change:=-1.03
+Volume:=97304
+High:=54.94
+
+(cat)
+Price Earnings Ratio:=Price Earnings Ratio: 19.12
+Last:=107.48
+Low:=107.00
+Open:=108.83
+% Change:=-1.07%
+Change:=-1.16
+Volume:=6202190
+High:=110.50
+
+(caty)
+Price Earnings Ratio:=Price Earnings Ratio: N/A
+Last:=15.78
+Low:=15.78
+Open:=16.50
+% Change:=-4.07%
+Change:=-0.67
+Volume:=362916
+High:=16.57
+
+(cavm)
+Price Earnings Ratio:=Price Earnings Ratio: 37.34
+Last:=39.58
+Low:=39.48
+Open:=40.78
+% Change:=-2.49%
+Change:=-1.01
+Volume:=955351
+High:=41.48
+
+(cb)
+Price Earnings Ratio:=Price Earnings Ratio: 9.62
+Last:=62.25
+Low:=62.11
+Open:=62.68
+% Change:=-0.56%
+Change:=-0.35
+Volume:=1493200
+High:=62.80
+
+(cbb)
+Price Earnings Ratio:=Price Earnings Ratio: 11.64
+Last:=3.26
+Low:=3.23
+Open:=3.27
+% Change:=-0.61%
+Change:=-0.02
+Volume:=955190
+High:=3.35
+
+(cbg)
+Price Earnings Ratio:=Price Earnings Ratio: 26.21
+Last:=22.80
+Low:=22.77
+Open:=23.62
+% Change:=-2.94%
+Change:=-0.69
+Volume:=3994100
+High:=23.67
+
+(cbr)
+Price Earnings Ratio:=Price Earnings Ratio: 26.90
+Last:=5.65
+Low:=5.59
+Open:=5.66
+% Change:=-0.35%
+Change:=-0.02
+Volume:=341714
+High:=5.75
+
+(cbu)
+Price Earnings Ratio:=null
+Last:=24.75
+Low:=24.73
+Open:=25.31
+% Change:=-1.71%
+Change:=-0.43
+Volume:=175113
+High:=25.31
+
+(ccbg)
+Price Earnings Ratio:=null
+Last:=10.29
+Low:=10.29
+Open:=10.37
+% Change:=-0.87%
+Change:=-0.09
+Volume:=8935
+High:=10.38
+
+(ccc)
+Price Earnings Ratio:=Price Earnings Ratio: 26.93
+Last:=16.16
+Low:=16.11
+Open:=16.63
+% Change:=-2.42%
+Change:=-0.40
+Volume:=384000
+High:=16.74
+
+(cce)
+Price Earnings Ratio:=Price Earnings Ratio: 14.22
+Last:=28.16
+Low:=28.09
+Open:=28.43
+% Change:=-1.37%
+Change:=-0.39
+Volume:=2741963
+High:=28.76
+
+(ccmp)
+Price Earnings Ratio:=Price Earnings Ratio: 18.37
+Last:=43.17
+Low:=42.94
+Open:=43.17
+% Change:=+0.16%
+Change:=+0.07
+Volume:=210773
+High:=43.59
+
+(ccne)
+Price Earnings Ratio:=null
+Last:=13.83
+Low:=13.83
+Open:=14.01
+% Change:=-1.36%
+Change:=-0.19
+Volume:=5767
+High:=14.01
+
+(ccoi)
+Price Earnings Ratio:=Price Earnings Ratio: 837.50
+Last:=16.75
+Low:=16.74
+Open:=17.30
+% Change:=-3.01%
+Change:=-0.52
+Volume:=182817
+High:=17.41
+
+(cdzi)
+Price Earnings Ratio:=null
+Last:=10.98
+Low:=10.79
+Open:=10.99
+% Change:=+0.55%
+Change:=+0.06
+Volume:=29558
+High:=11.00
+
+(cec)
+Price Earnings Ratio:=Price Earnings Ratio: 15.00
+Last:=41.55
+Low:=41.26
+Open:=42.41
+% Change:=-1.75%
+Change:=-0.74
+Volume:=130538
+High:=42.58
+
+(ceco)
+Price Earnings Ratio:=Price Earnings Ratio: 7.25
+Last:=22.99
+Low:=22.68
+Open:=23.41
+% Change:=-1.71%
+Change:=-0.40
+Volume:=880051
+High:=23.60
+
+(celg)
+Price Earnings Ratio:=Price Earnings Ratio: 20.19
+Last:=60.58
+Low:=60.43
+Open:=61.07
+% Change:=-0.82%
+Change:=-0.50
+Volume:=1297448
+High:=61.49
+
+(ceph)
+Price Earnings Ratio:=Price Earnings Ratio: 9.15
+Last:=80.04
+Low:=79.97
+Open:=80.13
+% Change:=-0.07%
+Change:=-0.06
+Volume:=3370404
+High:=80.23
+
+(cern)
+Price Earnings Ratio:=Price Earnings Ratio: 39.62
+Last:=61.80
+Low:=61.52
+Open:=62.66
+% Change:=-1.21%
+Change:=-0.76
+Volume:=393652
+High:=63.26
+
+(cers)
+Price Earnings Ratio:=null
+Last:=2.90
+Low:=2.83
+Open:=2.95
+% Change:=-1.02%
+Change:=-0.03
+Volume:=184891
+High:=2.95
+
+(cffn)
+Price Earnings Ratio:=null
+Last:=11.77
+Low:=11.74
+Open:=11.87
+% Change:=-0.59%
+Change:=-0.07
+Volume:=1378600
+High:=11.90
+
+(cfnb)
+Price Earnings Ratio:=null
+Last:=15.87
+Low:=15.87
+Open:=16.06
+% Change:=-3.11%
+Change:=-0.51
+Volume:=5320
+High:=16.37
+
+(cfnl)
+Price Earnings Ratio:=Price Earnings Ratio: 17.79
+Last:=11.21
+Low:=11.03
+Open:=11.35
+% Change:=-0.88%
+Change:=-0.10
+Volume:=58535
+High:=11.43
+
+(cgc)
+Price Earnings Ratio:=null
+Last:=null
+Low:=null
+Open:=null
+% Change:=null
+Change:=null
+Volume:=null
+High:=null
+
+(cgx)
+Price Earnings Ratio:=Price Earnings Ratio: 14.62
+Last:=52.78
+Low:=52.26
+Open:=54.20
+% Change:=-2.08%
+Change:=-1.12
+Volume:=38457
+High:=54.20
+
+(chdx)
+Price Earnings Ratio:=Price Earnings Ratio: 30.52
+Last:=12.21
+Low:=12.14
+Open:=13.11
+% Change:=-7.22%
+Change:=-0.95
+Volume:=69500
+High:=13.29
+
+(chg)
+Price Earnings Ratio:=null
+Last:=53.40
+Low:=53.37
+Open:=53.79
+% Change:=-0.71%
+Change:=-0.38
+Volume:=34050
+High:=54.23
+
+(chh)
+Price Earnings Ratio:=Price Earnings Ratio: 19.20
+Last:=32.25
+Low:=32.09
+Open:=32.98
+% Change:=-2.36%
+Change:=-0.78
+Volume:=150126
+High:=32.98
+
+(chkp)
+Price Earnings Ratio:=Price Earnings Ratio: 21.93
+Last:=56.59
+Low:=56.10
+Open:=57.80
+% Change:=-1.51%
+Change:=-0.87
+Volume:=3057309
+High:=57.80
+
+(chrs)
+Price Earnings Ratio:=Price Earnings Ratio: N/A
+Last:=4.41
+Low:=4.32
+Open:=4.43
+% Change:=-0.45%
+Change:=-0.02
+Volume:=801755
+High:=4.50
+
+(chrw)
+Price Earnings Ratio:=Price Earnings Ratio: 32.61
+Last:=78.92
+Low:=78.49
+Open:=79.62
+% Change:=-0.85%
+Change:=-0.68
+Volume:=511211
+High:=80.02
+
+(chs)
+Price Earnings Ratio:=Price Earnings Ratio: 22.28
+Last:=15.82
+Low:=15.51
+Open:=15.88
+% Change:=-0.44%
+Change:=-0.07
+Volume:=3762023
+High:=16.12
+
+(chsp)
+Price Earnings Ratio:=null
+Last:=16.82
+Low:=16.56
+Open:=17.05
+% Change:=-1.18%
+Change:=-0.20
+Volume:=95083
+High:=17.05
+
+(cix)
+Price Earnings Ratio:=null
+Last:=13.29
+Low:=13.29
+Open:=13.48
+% Change:=-1.56%
+Change:=-0.21
+Volume:=627
+High:=13.48
+
+(ckh)
+Price Earnings Ratio:=Price Earnings Ratio: 8.75
+Last:=103.74
+Low:=103.60
+Open:=104.92
+% Change:=-0.11%
+Change:=-0.11
+Volume:=129310
+High:=105.12
+
+(ckp)
+Price Earnings Ratio:=Price Earnings Ratio: 23.80
+Last:=16.90
+Low:=16.86
+Open:=17.60
+% Change:=-3.98%
+Change:=-0.70
+Volume:=247816
+High:=17.60
+
+(ckr)
+Price Earnings Ratio:=null
+Last:=null
+Low:=null
+Open:=Symbol
+% Change:=null
+Change:=null
+Volume:=null
+High:=Exchange
+
+(ckxe)
+Price Earnings Ratio:=null
+Last:=5.51
+Low:=5.48
+Open:=5.50
+% Change:=+0.18%
+Change:=+0.01
+Volume:=2203500
+High:=5.51
+
+(clc)
+Price Earnings Ratio:=Price Earnings Ratio: 21.36
+Last:=46.77
+Low:=46.49
+Open:=47.83
+% Change:=-1.99%
+Change:=-0.95
+Volume:=217709
+High:=48.10
+
+(cldt)
+Price Earnings Ratio:=Price Earnings Ratio: 24.12
+Last:=15.92
+Low:=15.71
+Open:=15.84
+% Change:=+0.63%
+Change:=+0.10
+Volume:=36597
+High:=16.00
+
+(clh)
+Price Earnings Ratio:=Price Earnings Ratio: 19.89
+Last:=107.41
+Low:=107.34
+Open:=111.04
+% Change:=-2.78%
+Change:=-3.07
+Volume:=173185
+High:=111.24
+
+(clne)
+Price Earnings Ratio:=Price Earnings Ratio: 66.70
+Last:=15.34
+Low:=15.26
+Open:=16.75
+% Change:=-9.82%
+Change:=-1.67
+Volume:=5814100
+High:=17.17
+
+(clny)
+Price Earnings Ratio:=null
+Last:=17.94
+Low:=17.86
+Open:=18.10
+% Change:=-0.83%
+Change:=-0.15
+Volume:=133029
+High:=18.12
+
+(clp)
+Price Earnings Ratio:=Price Earnings Ratio: 20.63
+Last:=20.84
+Low:=20.78
+Open:=21.07
+% Change:=-0.86%
+Change:=-0.18
+Volume:=849850
+High:=21.09
+
+(clr)
+Price Earnings Ratio:=Price Earnings Ratio: 121.43
+Last:=65.57
+Low:=65.15
+Open:=67.31
+% Change:=-1.47%
+Change:=-0.98
+Volume:=700816
+High:=67.72
+
+(clrt)
+Price Earnings Ratio:=null
+Last:=null
+Low:=null
+Open:=null
+% Change:=null
+Change:=null
+Volume:=null
+High:=null
+
+(clw)
+Price Earnings Ratio:=Price Earnings Ratio: 11.93
+Last:=66.83
+Low:=66.25
+Open:=67.54
+% Change:=-0.71%
+Change:=-0.48
+Volume:=94570
+High:=67.86
+
+(cmcsa)
+Price Earnings Ratio:=Price Earnings Ratio: 17.70
+Last:=24.42
+Low:=24.36
+Open:=24.68
+% Change:=-0.59%
+Change:=-0.15
+Volume:=18267363
+High:=24.86
+
+(cml)
+Price Earnings Ratio:=null
+Last:=null
+Low:=null
+Open:=null
+% Change:=null
+Change:=null
+Volume:=null
+High:=null
+
+(cmls)
+Price Earnings Ratio:=null
+Last:=3.36
+Low:=3.24
+Open:=3.24
+% Change:=-2.33%
+Change:=-0.08
+Volume:=145289
+High:=3.40
+
+(cmn)
+Price Earnings Ratio:=Price Earnings Ratio: 22.70
+Last:=26.79
+Low:=26.72
+Open:=27.89
+% Change:=-4.05%
+Change:=-1.13
+Volume:=77500
+High:=27.97
+
+(cmo)
+Price Earnings Ratio:=Price Earnings Ratio: N/A
+Last:=13.14
+Low:=13.13
+Open:=13.40
+% Change:=-1.72%
+Change:=-0.23
+Volume:=1184335
+High:=13.41
+
+(cmp)
+Price Earnings Ratio:=Price Earnings Ratio: 18.88
+Last:=83.84
+Low:=83.32
+Open:=85.78
+% Change:=-2.07%
+Change:=-1.77
+Volume:=171334
+High:=86.07
+
+(cmtl)
+Price Earnings Ratio:=Price Earnings Ratio: 12.98
+Last:=28.69
+Low:=28.44
+Open:=29.05
+% Change:=-1.03%
+Change:=-0.30
+Volume:=249600
+High:=29.10
+
+(cnbka)
+Price Earnings Ratio:=null
+Last:=27.78
+Low:=27.10
+Open:=27.53
+% Change:=+1.02%
+Change:=+0.28
+Volume:=13531
+High:=28.00
+
+(cnc)
+Price Earnings Ratio:=Price Earnings Ratio: 18.94
+Last:=35.79
+Low:=35.70
+Open:=36.45
+% Change:=-1.59%
+Change:=-0.58
+Volume:=363585
+High:=36.56
+
+(cnk)
+Price Earnings Ratio:=Price Earnings Ratio: 16.65
+Last:=19.81
+Low:=19.77
+Open:=20.13
+% Change:=-1.64%
+Change:=-0.33
+Volume:=525388
+High:=20.27
+
+(cnsl)
+Price Earnings Ratio:=Price Earnings Ratio: 19.79
+Last:=19.20
+Low:=19.16
+Open:=19.65
+% Change:=-1.99%
+Change:=-0.39
+Volume:=162488
+High:=19.71
+
+(cog)
+Price Earnings Ratio:=Price Earnings Ratio: 70.34
+Last:=62.60
+Low:=62.52
+Open:=64.76
+% Change:=-2.84%
+Change:=-1.83
+Volume:=1560386
+High:=65.03
+
+(colb)
+Price Earnings Ratio:=null
+Last:=17.62
+Low:=17.52
+Open:=17.85
+% Change:=-0.68%
+Change:=-0.12
+Volume:=462789
+High:=17.85
+
+(comv)
+Price Earnings Ratio:=Price Earnings Ratio: N/A
+Last:=3.16
+Low:=3.13
+Open:=3.22
+% Change:=+0.96%
+Change:=+0.03
+Volume:=87501
+High:=3.28
+
+(coo)
+Price Earnings Ratio:=Price Earnings Ratio: 20.74
+Last:=80.28
+Low:=80.20
+Open:=80.78
+% Change:=-0.61%
+Change:=-0.49
+Volume:=366120
+High:=81.31
+
+(cost)
+Price Earnings Ratio:=Price Earnings Ratio: 24.57
+Last:=80.33
+Low:=80.13
+Open:=80.87
+% Change:=-0.63%
+Change:=-0.51
+Volume:=1077742
+High:=81.47
+
+(cov)
+Price Earnings Ratio:=Price Earnings Ratio: 14.73
+Last:=52.58
+Low:=52.45
+Open:=53.10
+% Change:=-0.68%
+Change:=-0.36
+Volume:=2788680
+High:=53.10
+
+(cown)
+Price Earnings Ratio:=Price Earnings Ratio: N/A
+Last:=3.86
+Low:=3.77
+Open:=3.83
+% Change:=+0.78%
+Change:=+0.03
+Volume:=328238
+High:=3.86
+
+(cpa)
+Price Earnings Ratio:=Price Earnings Ratio: 12.75
+Last:=68.58
+Low:=68.27
+Open:=68.97
+% Change:=-0.12%
+Change:=-0.08
+Volume:=210000
+High:=69.46
+
+(cpe)
+Price Earnings Ratio:=Price Earnings Ratio: 25.92
+Last:=6.74
+Low:=6.70
+Open:=6.98
+% Change:=-3.16%
+Change:=-0.22
+Volume:=489400
+High:=7.15
+
+(cpn)
+Price Earnings Ratio:=Price Earnings Ratio: N/A
+Last:=16.31
+Low:=16.25
+Open:=16.40
+% Change:=-0.18%
+Change:=-0.03
+Volume:=3806000
+High:=16.47
+
+(cprt)
+Price Earnings Ratio:=Price Earnings Ratio: 22.36
+Last:=45.61
+Low:=45.32
+Open:=46.16
+% Change:=-0.74%
+Change:=-0.34
+Volume:=270072
+High:=46.24
+
+(cpst)
+Price Earnings Ratio:=null
+Last:=1.54
+Low:=1.51
+Open:=1.51
+% Change:=+2.67%
+Change:=+0.04
+Volume:=4513800
+High:=1.61
+
+(cpy)
+Price Earnings Ratio:=null
+Last:=12.64
+Low:=12.51
+Open:=13.12
+% Change:=-3.29%
+Change:=-0.43
+Volume:=54769
+High:=13.12
+
+(cr)
+Price Earnings Ratio:=Price Earnings Ratio: 16.96
+Last:=48.00
+Low:=47.87
+Open:=49.20
+% Change:=-1.86%
+Change:=-0.91
+Volume:=203330
+High:=49.25
+
+(cra)
+Price Earnings Ratio:=null
+Last:=null
+Low:=null
+Open:=null
+% Change:=null
+Change:=null
+Volume:=null
+High:=null
+
+(crai)
+Price Earnings Ratio:=Price Earnings Ratio: 31.36
+Last:=27.60
+Low:=27.25
+Open:=27.71
+% Change:=-0.65%
+Change:=-0.18
+Volume:=32085
+High:=28.09
+
+(crbc)
+Price Earnings Ratio:=null
+Last:=6.90
+Low:=6.70
+Open:=6.90
+% Change:=unch%
+Change:=unch
+Volume:=518830
+High:=7.10
+
+(crdn)
+Price Earnings Ratio:=Price Earnings Ratio: 19.56
+Last:=35.01
+Low:=34.96
+Open:=36.13
+% Change:=-2.70%
+Change:=-0.97
+Volume:=160786
+High:=36.13
+
+(cree)
+Price Earnings Ratio:=Price Earnings Ratio: 15.55
+Last:=30.63
+Low:=30.55
+Open:=31.63
+% Change:=-3.04%
+Change:=-0.96
+Volume:=3237899
+High:=31.91
+
+(crmt)
+Price Earnings Ratio:=Price Earnings Ratio: 13.64
+Last:=35.33
+Low:=34.76
+Open:=35.02
+% Change:=+1.38%
+Change:=+0.48
+Volume:=35200
+High:=35.55
+
+(crn)
+Price Earnings Ratio:=null
+Last:=null
+Low:=null
+Open:=Symbol
+% Change:=null
+Change:=null
+Volume:=null
+High:=Exchange
+
+(crrc)
+Price Earnings Ratio:=null
+Last:=11.17
+Low:=11.15
+Open:=11.27
+% Change:=-1.06%
+Change:=-0.12
+Volume:=29557
+High:=11.50
+
+(crs)
+Price Earnings Ratio:=Price Earnings Ratio: 47.38
+Last:=54.49
+Low:=54.05
+Open:=55.72
+% Change:=-2.01%
+Change:=-1.12
+Volume:=530318
+High:=56.21
+
+(csco)
+Price Earnings Ratio:=Price Earnings Ratio: 9.41
+Last:=15.43
+Low:=15.40
+Open:=15.56
+% Change:=-0.90%
+Change:=-0.14
+Volume:=40568363
+High:=15.76
+
+(csgp)
+Price Earnings Ratio:=Price Earnings Ratio: 79.24
+Last:=57.05
+Low:=56.97
+Open:=58.31
+% Change:=-2.61%
+Change:=-1.53
+Volume:=166382
+High:=58.58
+
+(cstr)
+Price Earnings Ratio:=Price Earnings Ratio: 26.52
+Last:=58.08
+Low:=57.88
+Open:=59.29
+% Change:=-1.22%
+Change:=-0.72
+Volume:=1134898
+High:=59.78
+
+(csu)
+Price Earnings Ratio:=null
+Last:=8.63
+Low:=8.51
+Open:=9.01
+% Change:=-4.32%
+Change:=-0.39
+Volume:=202927
+High:=9.33
+
+(cswc)
+Price Earnings Ratio:=null
+Last:=97.72
+Low:=97.72
+Open:=99.77
+% Change:=-2.05%
+Change:=-2.05
+Volume:=3000
+High:=99.77
+
+(ctas)
+Price Earnings Ratio:=Price Earnings Ratio: 20.68
+Last:=31.22
+Low:=31.12
+Open:=31.81
+% Change:=-1.11%
+Change:=-0.35
+Volume:=1975360
+High:=31.81
+
+(ctgx)
+Price Earnings Ratio:=null
+Last:=13.12
+Low:=13.02
+Open:=13.28
+% Change:=-1.28%
+Change:=-0.17
+Volume:=30800
+High:=13.38
+
+(ctl)
+Price Earnings Ratio:=Price Earnings Ratio: 11.93
+Last:=38.54
+Low:=38.46
+Open:=39.00
+% Change:=-0.62%
+Change:=-0.24
+Volume:=10390620
+High:=39.13
+
+(ctrp)
+Price Earnings Ratio:=null
+Last:=44.50
+Low:=43.72
+Open:=44.53
+% Change:=unch%
+Change:=unch
+Volume:=1145110
+High:=45.08
+
+(ctsh)
+Price Earnings Ratio:=Price Earnings Ratio: 28.18
+Last:=72.98
+Low:=72.81
+Open:=74.39
+% Change:=-1.41%
+Change:=-1.04
+Volume:=1747425
+High:=75.57
+
+(ctxs)
+Price Earnings Ratio:=Price Earnings Ratio: 33.07
+Last:=74.40
+Low:=73.71
+Open:=76.21
+% Change:=-1.95%
+Change:=-1.48
+Volume:=2862518
+High:=76.29
+
+(cvo)
+Price Earnings Ratio:=null
+Last:=6.14
+Low:=6.10
+Open:=6.35
+% Change:=-3.15%
+Change:=-0.20
+Volume:=184500
+High:=6.43
+
+(cvx)
+Price Earnings Ratio:=Price Earnings Ratio: 10.16
+Last:=104.66
+Low:=104.58
+Open:=105.70
+% Change:=-0.41%
+Change:=-0.43
+Volume:=4943358
+High:=106.47
+
+(cxs)
+Price Earnings Ratio:=null
+Last:=11.05
+Low:=11.00
+Open:=11.25
+% Change:=-1.25%
+Change:=-0.14
+Volume:=439744
+High:=11.30
+
+(cyh)
+Price Earnings Ratio:=Price Earnings Ratio: 8.60
+Last:=25.21
+Low:=25.01
+Open:=25.80
+% Change:=-1.60%
+Change:=-0.41
+Volume:=1238500
+High:=26.17
+
+(cyn)
+Price Earnings Ratio:=Price Earnings Ratio: 19.00
+Last:=53.20
+Low:=53.12
+Open:=54.57
+% Change:=-1.95%
+Change:=-1.06
+Volume:=288900
+High:=54.57
+
+(cypb)
+Price Earnings Ratio:=null
+Last:=null
+Low:=null
+Open:=null
+% Change:=null
+Change:=null
+Volume:=null
+High:=null
+
+(cytk)
+Price Earnings Ratio:=null
+Last:=1.30
+Low:=1.26
+Open:=1.29
+% Change:=+1.56%
+Change:=+0.02
+Volume:=249211
+High:=1.34
+
+(cytr)
+Price Earnings Ratio:=null
+Last:=0.73
+Low:=0.73
+Open:=0.77
+% Change:=-2.71%
+Change:=-0.02
+Volume:=205281
+High:=0.77
+
+(dakt)
+Price Earnings Ratio:=Price Earnings Ratio: 30.91
+Last:=10.51
+Low:=10.47
+Open:=10.98
+% Change:=-3.93%
+Change:=-0.43
+Volume:=77600
+High:=11.05
+
+(dal)
+Price Earnings Ratio:=Price Earnings Ratio: 5.46
+Last:=8.51
+Low:=8.50
+Open:=8.74
+% Change:=-2.18%
+Change:=-0.19
+Volume:=10181296
+High:=8.74
+
+(dar)
+Price Earnings Ratio:=Price Earnings Ratio: 18.06
+Last:=16.80
+Low:=16.75
+Open:=17.89
+% Change:=-5.67%
+Change:=-1.01
+Volume:=1683212
+High:=17.94
+
+(dbd)
+Price Earnings Ratio:=Price Earnings Ratio: 14.37
+Last:=31.32
+Low:=31.16
+Open:=31.53
+% Change:=-0.38%
+Change:=-0.12
+Volume:=371547
+High:=31.84
+
+(dbtk)
+Price Earnings Ratio:=null
+Last:=null
+Low:=null
+Open:=null
+% Change:=null
+Change:=null
+Volume:=null
+High:=null
+
+(dd)
+Price Earnings Ratio:=Price Earnings Ratio: 14.97
+Last:=53.76
+Low:=53.62
+Open:=54.70
+% Change:=-1.54%
+Change:=-0.84
+Volume:=4711416
+High:=55.00
+
+(ddic)
+Price Earnings Ratio:=Price Earnings Ratio: 9.04
+Last:=9.49
+Low:=9.42
+Open:=9.62
+% Change:=-0.84%
+Change:=-0.08
+Volume:=184067
+High:=9.66
+
+(ddmx)
+Price Earnings Ratio:=null
+Last:=null
+Low:=null
+Open:=null
+% Change:=null
+Change:=null
+Volume:=null
+High:=null
+
+(de)
+Price Earnings Ratio:=Price Earnings Ratio: 13.97
+Last:=81.43
+Low:=80.77
+Open:=82.10
+% Change:=-0.56%
+Change:=-0.46
+Volume:=4975181
+High:=82.91
+
+(deck)
+Price Earnings Ratio:=Price Earnings Ratio: 22.69
+Last:=92.12
+Low:=91.57
+Open:=94.99
+% Change:=-2.43%
+Change:=-2.29
+Volume:=626381
+High:=95.00
+
+(dei)
+Price Earnings Ratio:=Price Earnings Ratio: 13.41
+Last:=19.31
+Low:=19.22
+Open:=19.76
+% Change:=-2.18%
+Change:=-0.43
+Volume:=2307047
+High:=19.80
+
+(dell)
+Price Earnings Ratio:=Price Earnings Ratio: 9.02
+Last:=16.69
+Low:=16.56
+Open:=16.61
+% Change:=+0.97%
+Change:=+0.16
+Volume:=21002010
+High:=17.07
+
+(dest)
+Price Earnings Ratio:=Price Earnings Ratio: N/A
+Last:=18.91
+Low:=18.73
+Open:=19.07
+% Change:=-0.84%
+Change:=-0.16
+Volume:=60296
+High:=19.32
+
+(dfz)
+Price Earnings Ratio:=null
+Last:=11.38
+Low:=11.21
+Open:=11.52
+% Change:=-1.04%
+Change:=-0.12
+Volume:=18300
+High:=11.54
+
+(dgi)
+Price Earnings Ratio:=Price Earnings Ratio: 615.50
+Last:=24.62
+Low:=24.47
+Open:=25.15
+% Change:=-1.68%
+Change:=-0.42
+Volume:=179974
+High:=25.15
+
+(dhil)
+Price Earnings Ratio:=null
+Last:=82.18
+Low:=81.36
+Open:=84.25
+% Change:=-2.17%
+Change:=-1.82
+Volume:=15807
+High:=84.25
+
+(dhr)
+Price Earnings Ratio:=Price Earnings Ratio: 21.16
+Last:=52.48
+Low:=52.36
+Open:=53.49
+% Change:=-1.72%
+Change:=-0.92
+Volume:=3871549
+High:=53.80
+
+(dis)
+Price Earnings Ratio:=Price Earnings Ratio: 17.24
+Last:=39.48
+Low:=39.39
+Open:=39.53
+% Change:=-0.20%
+Change:=-0.08
+Volume:=9289621
+High:=39.84
+
+(dk)
+Price Earnings Ratio:=Price Earnings Ratio: 58.25
+Last:=16.31
+Low:=15.95
+Open:=16.38
+% Change:=+0.12%
+Change:=+0.02
+Volume:=169865
+High:=16.65
+
+(dlb)
+Price Earnings Ratio:=Price Earnings Ratio: 15.97
+Last:=41.51
+Low:=41.17
+Open:=41.62
+% Change:=-0.19%
+Change:=-0.08
+Volume:=887501
+High:=42.04
+
+(dllr)
+Price Earnings Ratio:=Price Earnings Ratio: 16.12
+Last:=22.03
+Low:=21.92
+Open:=22.57
+% Change:=-1.91%
+Change:=-0.43
+Volume:=190739
+High:=22.71
+
+(dltr)
+Price Earnings Ratio:=Price Earnings Ratio: 19.98
+Last:=68.92
+Low:=68.56
+Open:=69.51
+% Change:=-0.38%
+Change:=-0.26
+Volume:=1207246
+High:=69.99
+
+(dm)
+Price Earnings Ratio:=Price Earnings Ratio: 9.66
+Last:=8.50
+Low:=8.42
+Open:=8.66
+% Change:=-1.96%
+Change:=-0.17
+Volume:=151310
+High:=8.74
+
+(dmrc)
+Price Earnings Ratio:=null
+Last:=38.11
+Low:=37.88
+Open:=38.95
+% Change:=-2.11%
+Change:=-0.82
+Volume:=23226
+High:=39.06
+
+(dnbk)
+Price Earnings Ratio:=null
+Last:=21.77
+Low:=21.53
+Open:=21.68
+% Change:=+0.97%
+Change:=+0.21
+Volume:=212500
+High:=22.00
+
+(dndn)
+Price Earnings Ratio:=Price Earnings Ratio: N/A
+Last:=39.14
+Low:=38.26
+Open:=38.75
+% Change:=+1.40%
+Change:=+0.54
+Volume:=2027078
+High:=39.52
+
+(dnr)
+Price Earnings Ratio:=Price Earnings Ratio: 23.53
+Last:=18.59
+Low:=18.58
+Open:=19.19
+% Change:=-2.47%
+Change:=-0.47
+Volume:=2610313
+High:=19.29
+
+(drc)
+Price Earnings Ratio:=Price Earnings Ratio: 31.91
+Last:=52.97
+Low:=52.61
+Open:=53.45
+% Change:=-0.54%
+Change:=-0.29
+Volume:=964700
+High:=54.05
+
+(dri)
+Price Earnings Ratio:=Price Earnings Ratio: 15.34
+Last:=52.45
+Low:=52.25
+Open:=52.99
+% Change:=-0.59%
+Change:=-0.31
+Volume:=1852760
+High:=53.33
+
+(driv)
+Price Earnings Ratio:=Price Earnings Ratio: 36.84
+Last:=32.42
+Low:=32.31
+Open:=32.93
+% Change:=-1.07%
+Change:=-0.35
+Volume:=328036
+High:=32.93
+
+(drl)
+Price Earnings Ratio:=null
+Last:=2.05
+Low:=2.00
+Open:=2.26
+% Change:=-8.89%
+Change:=-0.20
+Volume:=2024558
+High:=2.30
+
+(dtsi)
+Price Earnings Ratio:=Price Earnings Ratio: 37.49
+Last:=38.24
+Low:=38.15
+Open:=39.93
+% Change:=-3.92%
+Change:=-1.56
+Volume:=78700
+High:=39.93
+
+(dtv)
+Price Earnings Ratio:=Price Earnings Ratio: 19.03
+Last:=52.14
+Low:=51.58
+Open:=52.81
+% Change:=-1.31%
+Change:=-0.69
+Volume:=3979260
+High:=52.95
+
+(dva)
+Price Earnings Ratio:=Price Earnings Ratio: 22.48
+Last:=87.00
+Low:=86.79
+Open:=87.21
+% Change:=-0.22%
+Change:=-0.19
+Volume:=368500
+High:=87.79
+
+(dvn)
+Price Earnings Ratio:=Price Earnings Ratio: 14.13
+Last:=77.88
+Low:=77.71
+Open:=78.81
+% Change:=-0.54%
+Change:=-0.42
+Volume:=2465460
+High:=79.44
+
+(dvox)
+Price Earnings Ratio:=Price Earnings Ratio: N/A
+Last:=7.18
+Low:=7.15
+Open:=7.51
+% Change:=-4.90%
+Change:=-0.37
+Volume:=191900
+High:=7.51
+
+(dw)
+Price Earnings Ratio:=Price Earnings Ratio: 17.33
+Last:=23.40
+Low:=23.02
+Open:=23.94
+% Change:=-2.30%
+Change:=-0.55
+Volume:=82600
+High:=24.00
+
+(dwa)
+Price Earnings Ratio:=Price Earnings Ratio: 11.36
+Last:=20.79
+Low:=20.77
+Open:=21.26
+% Change:=-1.75%
+Change:=-0.37
+Volume:=1131163
+High:=21.29
+
+(dxpe)
+Price Earnings Ratio:=Price Earnings Ratio: 17.89
+Last:=26.47
+Low:=26.18
+Open:=26.34
+% Change:=-0.11%
+Change:=-0.03
+Volume:=56300
+High:=26.93
+
+(dy)
+Price Earnings Ratio:=Price Earnings Ratio: 45.05
+Last:=16.67
+Low:=16.54
+Open:=17.13
+% Change:=-2.34%
+Change:=-0.40
+Volume:=193065
+High:=17.32
+
+(dyn)
+Price Earnings Ratio:=Price Earnings Ratio: N/A
+Last:=6.15
+Low:=6.12
+Open:=6.67
+% Change:=-7.38%
+Change:=-0.49
+Volume:=3305839
+High:=6.67
+
+(ebay)
+Price Earnings Ratio:=Price Earnings Ratio: 17.98
+Last:=32.19
+Low:=31.92
+Open:=32.32
+% Change:=-0.59%
+Change:=-0.19
+Volume:=8734864
+High:=32.80
+
+(ebsb)
+Price Earnings Ratio:=null
+Last:=13.70
+Low:=13.65
+Open:=13.71
+% Change:=-0.65%
+Change:=-0.09
+Volume:=10516
+High:=13.75
+
+(ecpg)
+Price Earnings Ratio:=Price Earnings Ratio: 12.56
+Last:=25.87
+Low:=25.50
+Open:=27.55
+% Change:=-7.08%
+Change:=-1.97
+Volume:=408200
+High:=27.92
+
+(edr)
+Price Earnings Ratio:=Price Earnings Ratio: N/A
+Last:=8.95
+Low:=8.91
+Open:=9.05
+% Change:=-0.78%
+Change:=-0.07
+Volume:=477457
+High:=9.07
+
+(eeft)
+Price Earnings Ratio:=Price Earnings Ratio: 11.66
+Last:=15.62
+Low:=15.34
+Open:=15.42
+% Change:=+1.43%
+Change:=+0.22
+Volume:=531500
+High:=15.78
+
+(egn)
+Price Earnings Ratio:=Price Earnings Ratio: 14.15
+Last:=57.30
+Low:=57.11
+Open:=57.79
+% Change:=+0.32%
+Change:=+0.18
+Volume:=820286
+High:=58.07
+
+(egov)
+Price Earnings Ratio:=Price Earnings Ratio: 42.81
+Last:=13.27
+Low:=13.13
+Open:=13.43
+% Change:=-1.12%
+Change:=-0.15
+Volume:=135811
+High:=13.54
+
+(egy)
+Price Earnings Ratio:=Price Earnings Ratio: 8.55
+Last:=6.33
+Low:=6.29
+Open:=6.55
+% Change:=-2.91%
+Change:=-0.19
+Volume:=551931
+High:=6.58
+
+(ek)
+Price Earnings Ratio:=Price Earnings Ratio: N/A
+Last:=2.76
+Low:=2.74
+Open:=2.83
+% Change:=-1.08%
+Change:=-0.03
+Volume:=4540729
+High:=2.84
+
+(elos)
+Price Earnings Ratio:=Price Earnings Ratio: N/A
+Last:=11.87
+Low:=11.80
+Open:=12.28
+% Change:=-3.10%
+Change:=-0.38
+Volume:=344350
+High:=12.42
+
+(els)
+Price Earnings Ratio:=Price Earnings Ratio: 18.37
+Last:=65.23
+Low:=64.90
+Open:=65.89
+% Change:=-0.62%
+Change:=-0.41
+Volume:=140146
+High:=65.90
+
+(endp)
+Price Earnings Ratio:=Price Earnings Ratio: 10.82
+Last:=40.37
+Low:=40.25
+Open:=40.79
+% Change:=-0.54%
+Change:=-0.22
+Volume:=1056836
+High:=41.48
+
+(enh)
+Price Earnings Ratio:=Price Earnings Ratio: 15.26
+Last:=40.90
+Low:=40.76
+Open:=41.01
+% Change:=-0.20%
+Change:=-0.08
+Volume:=333500
+High:=41.06
+
+(enoc)
+Price Earnings Ratio:=Price Earnings Ratio: 65.85
+Last:=17.12
+Low:=16.96
+Open:=17.02
+% Change:=+1.78%
+Change:=+0.30
+Volume:=373005
+High:=17.35
+
+(ens)
+Price Earnings Ratio:=Price Earnings Ratio: 14.39
+Last:=35.54
+Low:=34.74
+Open:=34.91
+% Change:=+2.45%
+Change:=+0.85
+Volume:=742908
+High:=36.48
+
+(ep)
+Price Earnings Ratio:=Price Earnings Ratio: 20.55
+Last:=19.32
+Low:=19.28
+Open:=19.63
+% Change:=-1.28%
+Change:=-0.25
+Volume:=9084124
+High:=19.89
+
+(epax)
+Price Earnings Ratio:=null
+Last:=8.82
+Low:=8.78
+Open:=8.83
+% Change:=-0.23%
+Change:=-0.02
+Volume:=69948
+High:=8.89
+
+(epic)
+Price Earnings Ratio:=null
+Last:=null
+Low:=null
+Open:=null
+% Change:=null
+Change:=null
+Volume:=null
+High:=null
+
+(epl)
+Price Earnings Ratio:=null
+Last:=15.26
+Low:=15.18
+Open:=15.77
+% Change:=-2.68%
+Change:=-0.42
+Volume:=314297
+High:=16.07
+
+(epm)
+Price Earnings Ratio:=null
+Last:=7.22
+Low:=7.20
+Open:=7.36
+% Change:=-2.04%
+Change:=-0.15
+Volume:=37633
+High:=7.49
+
+(eqy)
+Price Earnings Ratio:=Price Earnings Ratio: 18.26
+Last:=19.17
+Low:=19.06
+Open:=19.38
+% Change:=-0.62%
+Change:=-0.12
+Volume:=327629
+High:=19.46
+
+(erie)
+Price Earnings Ratio:=null
+Last:=73.55
+Low:=73.01
+Open:=73.55
+% Change:=+0.34%
+Change:=+0.25
+Volume:=87532
+High:=75.25
+
+(erts)
+Price Earnings Ratio:=Price Earnings Ratio: 33.59
+Last:=23.51
+Low:=23.19
+Open:=23.49
+% Change:=-1.67%
+Change:=-0.40
+Volume:=8384456
+High:=23.76
+
+(ese)
+Price Earnings Ratio:=Price Earnings Ratio: 15.49
+Last:=36.09
+Low:=36.03
+Open:=37.19
+% Change:=-2.67%
+Change:=-0.99
+Volume:=112402
+High:=37.19
+
+(esgr)
+Price Earnings Ratio:=null
+Last:=107.50
+Low:=106.68
+Open:=107.76
+% Change:=+0.14%
+Change:=+0.15
+Volume:=37240
+High:=109.65
+
+(esl)
+Price Earnings Ratio:=Price Earnings Ratio: 14.74
+Last:=78.55
+Low:=78.42
+Open:=79.59
+% Change:=-0.57%
+Change:=-0.45
+Volume:=369283
+High:=80.19
+
+(esrx)
+Price Earnings Ratio:=Price Earnings Ratio: 20.03
+Last:=52.47
+Low:=52.22
+Open:=53.19
+% Change:=-1.32%
+Change:=-0.70
+Volume:=5517936
+High:=53.38
+
+(ess)
+Price Earnings Ratio:=Price Earnings Ratio: 26.19
+Last:=138.83
+Low:=138.18
+Open:=140.39
+% Change:=-0.81%
+Change:=-1.14
+Volume:=248890
+High:=140.67
+
+(etm)
+Price Earnings Ratio:=Price Earnings Ratio: 6.91
+Last:=8.43
+Low:=8.31
+Open:=8.62
+% Change:=-2.09%
+Change:=-0.18
+Volume:=137049
+High:=8.67
+
+(evr)
+Price Earnings Ratio:=Price Earnings Ratio: 32.22
+Last:=31.58
+Low:=31.45
+Open:=32.19
+% Change:=-1.28%
+Change:=-0.41
+Volume:=131800
+High:=32.24
+
+(exas)
+Price Earnings Ratio:=Price Earnings Ratio: N/A
+Last:=8.28
+Low:=8.22
+Open:=8.62
+% Change:=-3.38%
+Change:=-0.29
+Volume:=562562
+High:=8.70
+
+(exbd)
+Price Earnings Ratio:=Price Earnings Ratio: 30.84
+Last:=42.87
+Low:=42.75
+Open:=44.03
+% Change:=-2.21%
+Change:=-0.97
+Volume:=146972
+High:=44.16
+
+(exls)
+Price Earnings Ratio:=Price Earnings Ratio: 21.69
+Last:=22.12
+Low:=22.11
+Open:=22.87
+% Change:=-3.32%
+Change:=-0.76
+Volume:=38719
+High:=22.94
+
+(exp)
+Price Earnings Ratio:=Price Earnings Ratio: 74.45
+Last:=24.57
+Low:=24.52
+Open:=25.15
+% Change:=-2.03%
+Change:=-0.51
+Volume:=278813
+High:=25.20
+
+(expd)
+Price Earnings Ratio:=Price Earnings Ratio: 28.84
+Last:=49.89
+Low:=49.76
+Open:=50.76
+% Change:=-1.36%
+Change:=-0.69
+Volume:=978917
+High:=50.96
+
+(expe)
+Price Earnings Ratio:=Price Earnings Ratio: 18.09
+Last:=30.21
+Low:=29.93
+Open:=30.81
+% Change:=-1.31%
+Change:=-0.40
+Volume:=2917520
+High:=30.91
+
+(exxi)
+Price Earnings Ratio:=Price Earnings Ratio: N/A
+Last:=32.75
+Low:=32.28
+Open:=34.42
+% Change:=-2.88%
+Change:=-0.97
+Volume:=901400
+High:=34.43
+
+(fast)
+Price Earnings Ratio:=Price Earnings Ratio: 32.15
+Last:=34.24
+Low:=34.12
+Open:=34.72
+% Change:=-0.75%
+Change:=-0.26
+Volume:=1591705
+High:=34.93
+
+(fbn)
+Price Earnings Ratio:=Price Earnings Ratio: N/A
+Last:=4.09
+Low:=3.98
+Open:=4.14
+% Change:=-0.73%
+Change:=-0.03
+Volume:=273545
+High:=4.21
+
+(fbnc)
+Price Earnings Ratio:=null
+Last:=11.09
+Low:=11.03
+Open:=11.31
+% Change:=-2.03%
+Change:=-0.23
+Volume:=18925
+High:=11.31
+
+(fbp)
+Price Earnings Ratio:=null
+Last:=4.38
+Low:=4.34
+Open:=4.48
+% Change:=-1.79%
+Change:=-0.08
+Volume:=65857
+High:=4.48
+
+(fcel)
+Price Earnings Ratio:=Price Earnings Ratio: N/A
+Last:=1.32
+Low:=1.32
+Open:=1.37
+% Change:=-2.94%
+Change:=-0.04
+Volume:=830331
+High:=1.38
+
+(fcnca)
+Price Earnings Ratio:=null
+Last:=184.13
+Low:=184.13
+Open:=186.00
+% Change:=-1.40%
+Change:=-2.61
+Volume:=14741
+High:=187.62
+
+(fcs)
+Price Earnings Ratio:=Price Earnings Ratio: 9.99
+Last:=16.59
+Low:=16.20
+Open:=16.67
+% Change:=+2.85%
+Change:=+0.46
+Volume:=6065443
+High:=17.75
+
+(fcx)
+Price Earnings Ratio:=Price Earnings Ratio: 10.55
+Last:=54.25
+Low:=54.00
+Open:=55.30
+% Change:=-1.17%
+Change:=-0.64
+Volume:=16504291
+High:=55.50
+
+(fdx)
+Price Earnings Ratio:=Price Earnings Ratio: 18.91
+Last:=93.06
+Low:=92.78
+Open:=94.46
+% Change:=-1.26%
+Change:=-1.19
+Volume:=2825213
+High:=94.98
+
+(feic)
+Price Earnings Ratio:=Price Earnings Ratio: 22.67
+Last:=36.05
+Low:=35.91
+Open:=37.19
+% Change:=-2.96%
+Change:=-1.10
+Volume:=630520
+High:=37.67
+
+(ffic)
+Price Earnings Ratio:=null
+Last:=12.82
+Low:=12.80
+Open:=13.13
+% Change:=-1.84%
+Change:=-0.24
+Volume:=59300
+High:=13.13
+
+(ffiv)
+Price Earnings Ratio:=Price Earnings Ratio: 34.57
+Last:=110.96
+Low:=109.93
+Open:=113.65
+% Change:=-1.56%
+Change:=-1.76
+Volume:=1593419
+High:=115.50
+
+(fisv)
+Price Earnings Ratio:=Price Earnings Ratio: 15.05
+Last:=61.99
+Low:=61.90
+Open:=62.82
+% Change:=-1.12%
+Change:=-0.70
+Volume:=373111
+High:=63.27
+
+(flex)
+Price Earnings Ratio:=Price Earnings Ratio: 7.13
+Last:=6.27
+Low:=6.23
+Open:=6.39
+% Change:=-2.03%
+Change:=-0.13
+Volume:=5141612
+High:=6.46
+
+(flir)
+Price Earnings Ratio:=Price Earnings Ratio: 21.26
+Last:=32.11
+Low:=32.03
+Open:=32.73
+% Change:=-1.68%
+Change:=-0.55
+Volume:=723137
+High:=32.80
+
+(flo)
+Price Earnings Ratio:=Price Earnings Ratio: 22.00
+Last:=22.73
+Low:=22.60
+Open:=22.86
+% Change:=-0.26%
+Change:=-0.06
+Volume:=630159
+High:=22.97
+
+(flr)
+Price Earnings Ratio:=Price Earnings Ratio: 27.71
+Last:=64.29
+Low:=63.82
+Open:=64.94
+% Change:=-0.91%
+Change:=-0.59
+Volume:=1718346
+High:=65.69
+
+(fls)
+Price Earnings Ratio:=Price Earnings Ratio: 14.14
+Last:=101.53
+Low:=101.42
+Open:=103.76
+% Change:=-1.87%
+Change:=-1.94
+Volume:=645077
+High:=104.93
+
+(flws)
+Price Earnings Ratio:=Price Earnings Ratio: 45.29
+Last:=3.17
+Low:=3.12
+Open:=3.17
+% Change:=unch%
+Change:=unch
+Volume:=49895
+High:=3.22
+
+(fmbi)
+Price Earnings Ratio:=Price Earnings Ratio: N/A
+Last:=12.05
+Low:=12.00
+Open:=12.45
+% Change:=-2.67%
+Change:=-0.33
+Volume:=251585
+High:=12.45
+
+(fmc)
+Price Earnings Ratio:=Price Earnings Ratio: 17.39
+Last:=86.61
+Low:=86.10
+Open:=87.66
+% Change:=-1.03%
+Change:=-0.90
+Volume:=467249
+High:=87.98
+
+(fmd)
+Price Earnings Ratio:=Price Earnings Ratio: N/A
+Last:=1.68
+Low:=1.62
+Open:=1.69
+% Change:=+0.60%
+Change:=+0.01
+Volume:=140600
+High:=1.71
+
+(fnsr)
+Price Earnings Ratio:=Price Earnings Ratio: 10.83
+Last:=16.78
+Low:=16.40
+Open:=17.43
+% Change:=-3.62%
+Change:=-0.63
+Volume:=3813800
+High:=17.81
+
+(fosl)
+Price Earnings Ratio:=Price Earnings Ratio: 32.83
+Last:=128.03
+Low:=126.88
+Open:=129.21
+% Change:=-0.43%
+Change:=-0.55
+Volume:=1125500
+High:=130.46
+
+(frx)
+Price Earnings Ratio:=Price Earnings Ratio: 8.80
+Last:=38.79
+Low:=38.70
+Open:=39.04
+% Change:=-0.59%
+Change:=-0.23
+Volume:=2607815
+High:=39.35
+
+(fsii)
+Price Earnings Ratio:=Price Earnings Ratio: 8.29
+Last:=2.82
+Low:=2.80
+Open:=2.89
+% Change:=-1.74%
+Change:=-0.05
+Volume:=330210
+High:=2.90
+
+(fslr)
+Price Earnings Ratio:=Price Earnings Ratio: 17.16
+Last:=123.19
+Low:=122.62
+Open:=125.28
+% Change:=-1.59%
+Change:=-1.99
+Volume:=1038219
+High:=125.32
+
+(fsp)
+Price Earnings Ratio:=null
+Last:=12.91
+Low:=12.90
+Open:=13.17
+% Change:=-1.97%
+Change:=-0.26
+Volume:=158004
+High:=13.23
+
+(fst)
+Price Earnings Ratio:=Price Earnings Ratio: 16.15
+Last:=22.93
+Low:=22.80
+Open:=23.59
+% Change:=-2.22%
+Change:=-0.52
+Volume:=3398322
+High:=23.68
+
+(fsys)
+Price Earnings Ratio:=Price Earnings Ratio: 35.00
+Last:=23.80
+Low:=23.76
+Open:=24.39
+% Change:=-2.34%
+Change:=-0.57
+Volume:=135500
+High:=24.71
+
+(fto)
+Price Earnings Ratio:=null
+Last:=32.31
+Low:=32.31
+Open:=33.16
+% Change:=-1.37%
+Change:=-0.45
+Volume:=9233200
+High:=33.58
+
+(ftr)
+Price Earnings Ratio:=Price Earnings Ratio: 20.58
+Last:=7.82
+Low:=7.82
+Open:=7.96
+% Change:=-1.39%
+Change:=-0.11
+Volume:=7347123
+High:=7.99
+
+(fwrd)
+Price Earnings Ratio:=Price Earnings Ratio: 26.95
+Last:=33.96
+Low:=33.87
+Open:=34.74
+% Change:=-1.91%
+Change:=-0.66
+Volume:=57085
+High:=35.01
+
+(g)
+Price Earnings Ratio:=null
+Last:=17.60
+Low:=17.49
+Open:=17.49
+% Change:=+0.74%
+Change:=+0.13
+Volume:=1069898
+High:=17.78
+
+(gain)
+Price Earnings Ratio:=null
+Last:=7.36
+Low:=7.30
+Open:=7.47
+% Change:=-1.60%
+Change:=-0.12
+Volume:=66162
+High:=7.49
+
+(gbdc)
+Price Earnings Ratio:=null
+Last:=15.39
+Low:=15.13
+Open:=15.32
+% Change:=+0.13%
+Change:=+0.02
+Volume:=69125
+High:=15.55
+
+(gbl)
+Price Earnings Ratio:=null
+Last:=48.24
+Low:=47.79
+Open:=50.12
+% Change:=-4.06%
+Change:=-2.04
+Volume:=21777
+High:=50.92
+
+(gd)
+Price Earnings Ratio:=Price Earnings Ratio: 10.30
+Last:=71.37
+Low:=71.20
+Open:=72.73
+% Change:=-1.76%
+Change:=-1.28
+Volume:=2358242
+High:=72.74
+
+(ge)
+Price Earnings Ratio:=Price Earnings Ratio: 14.69
+Last:=18.51
+Low:=18.47
+Open:=18.65
+% Change:=unch%
+Change:=unch
+Volume:=33578246
+High:=18.80
+
+(gef)
+Price Earnings Ratio:=Price Earnings Ratio: 13.55
+Last:=64.36
+Low:=64.04
+Open:=65.50
+% Change:=-1.67%
+Change:=-1.09
+Volume:=84185
+High:=65.73
+
+(geoi)
+Price Earnings Ratio:=Price Earnings Ratio: 22.54
+Last:=26.15
+Low:=25.97
+Open:=26.62
+% Change:=-0.87%
+Change:=-0.23
+Volume:=530291
+High:=26.80
+
+(get)
+Price Earnings Ratio:=Price Earnings Ratio: N/A
+Last:=30.33
+Low:=29.81
+Open:=31.32
+% Change:=-3.35%
+Change:=-1.05
+Volume:=787511
+High:=31.35
+
+(ggp)
+Price Earnings Ratio:=null
+Last:=16.20
+Low:=16.18
+Open:=16.50
+% Change:=-1.70%
+Change:=-0.28
+Volume:=2632826
+High:=16.59
+
+(ggs)
+Price Earnings Ratio:=null
+Last:=16.92
+Low:=16.41
+Open:=17.34
+% Change:=-1.74%
+Change:=-0.30
+Volume:=148230
+High:=17.52
+
+(gild)
+Price Earnings Ratio:=Price Earnings Ratio: 11.56
+Last:=41.27
+Low:=41.21
+Open:=41.65
+% Change:=-0.82%
+Change:=-0.34
+Volume:=3756201
+High:=41.99
+
+(gksr)
+Price Earnings Ratio:=Price Earnings Ratio: 21.55
+Last:=33.40
+Low:=33.24
+Open:=34.36
+% Change:=-2.31%
+Change:=-0.79
+Volume:=42186
+High:=34.48
+
+(glad)
+Price Earnings Ratio:=null
+Last:=9.50
+Low:=9.50
+Open:=9.67
+% Change:=-1.76%
+Change:=-0.17
+Volume:=53100
+High:=9.70
+
+(glng)
+Price Earnings Ratio:=null
+Last:=37.88
+Low:=37.23
+Open:=37.60
+% Change:=+0.34%
+Change:=+0.13
+Volume:=522025
+High:=38.23
+
+(gmcr)
+Price Earnings Ratio:=Price Earnings Ratio: 82.53
+Last:=88.31
+Low:=88.11
+Open:=90.41
+% Change:=-2.45%
+Change:=-2.22
+Volume:=1816834
+High:=91.52
+
+(gmt)
+Price Earnings Ratio:=Price Earnings Ratio: 21.83
+Last:=36.68
+Low:=36.64
+Open:=37.78
+% Change:=-2.71%
+Change:=-1.02
+Volume:=198114
+High:=37.85
+
+(gntx)
+Price Earnings Ratio:=Price Earnings Ratio: 29.72
+Last:=30.61
+Low:=30.37
+Open:=31.27
+% Change:=-1.89%
+Change:=-0.59
+Volume:=575500
+High:=31.50
+
+(goog)
+Price Earnings Ratio:=Price Earnings Ratio: 17.11
+Last:=528.94
+Low:=526.73
+Open:=539.12
+% Change:=-1.73%
+Change:=-9.32
+Volume:=3905182
+High:=542.00
+
+(gps)
+Price Earnings Ratio:=Price Earnings Ratio: 10.22
+Last:=18.81
+Low:=18.59
+Open:=18.81
+% Change:=+0.48%
+Change:=+0.09
+Volume:=6371774
+High:=19.05
+
+(grb)
+Price Earnings Ratio:=Price Earnings Ratio: N/A
+Last:=11.11
+Low:=11.10
+Open:=11.19
+% Change:=-0.36%
+Change:=-0.04
+Volume:=70777
+High:=11.19
+
+(grmn)
+Price Earnings Ratio:=Price Earnings Ratio: 11.55
+Last:=32.45
+Low:=32.18
+Open:=33.06
+% Change:=-1.55%
+Change:=-0.51
+Volume:=1023267
+High:=33.11
+
+(gsat)
+Price Earnings Ratio:=null
+Last:=1.15
+Low:=1.15
+Open:=1.16
+% Change:=unch%
+Change:=unch
+Volume:=155651
+High:=1.19
+
+(gsbc)
+Price Earnings Ratio:=null
+Last:=19.48
+Low:=19.42
+Open:=19.95
+% Change:=-1.07%
+Change:=-0.21
+Volume:=36100
+High:=20.43
+
+(gsm)
+Price Earnings Ratio:=Price Earnings Ratio: N/A
+Last:=24.37
+Low:=24.25
+Open:=25.18
+% Change:=-2.13%
+Change:=-0.53
+Volume:=1230341
+High:=25.60
+
+(gti)
+Price Earnings Ratio:=Price Earnings Ratio: 18.10
+Last:=20.82
+Low:=20.57
+Open:=21.29
+% Change:=-2.07%
+Change:=-0.44
+Volume:=986991
+High:=21.38
+
+(gty)
+Price Earnings Ratio:=null
+Last:=25.69
+Low:=25.62
+Open:=25.97
+% Change:=-0.62%
+Change:=-0.16
+Volume:=151500
+High:=26.06
+
+(gymb)
+Price Earnings Ratio:=null
+Last:=null
+Low:=null
+Open:=null
+% Change:=null
+Change:=null
+Volume:=null
+High:=null
+
+(hafc)
+Price Earnings Ratio:=null
+Last:=1.18
+Low:=1.16
+Open:=1.19
+% Change:=-0.84%
+Change:=-0.01
+Volume:=671925
+High:=1.22
+
+(hal)
+Price Earnings Ratio:=Price Earnings Ratio: 21.69
+Last:=51.83
+Low:=51.61
+Open:=53.07
+% Change:=-1.50%
+Change:=-0.79
+Volume:=12270874
+High:=53.07
+
+(halo)
+Price Earnings Ratio:=null
+Last:=7.06
+Low:=7.00
+Open:=7.21
+% Change:=-1.53%
+Change:=-0.11
+Volume:=277685
+High:=7.23
+
+(hans)
+Price Earnings Ratio:=Price Earnings Ratio: 30.92
+Last:=78.24
+Low:=77.78
+Open:=78.89
+% Change:=-0.80%
+Change:=-0.63
+Volume:=791437
+High:=80.00
+
+(hbcp)
+Price Earnings Ratio:=null
+Last:=14.39
+Low:=14.35
+Open:=14.46
+% Change:=+0.21%
+Change:=+0.03
+Volume:=3890
+High:=14.46
+
+(hckt)
+Price Earnings Ratio:=null
+Last:=4.90
+Low:=4.87
+Open:=4.96
+% Change:=-2.97%
+Change:=-0.15
+Volume:=67696
+High:=5.11
+
+(hcp)
+Price Earnings Ratio:=Price Earnings Ratio: 16.17
+Last:=37.04
+Low:=36.99
+Open:=37.67
+% Change:=-1.28%
+Change:=-0.48
+Volume:=2600876
+High:=37.69
+
+(hd)
+Price Earnings Ratio:=Price Earnings Ratio: 17.19
+Last:=35.92
+Low:=35.82
+Open:=36.20
+% Change:=-0.58%
+Change:=-0.21
+Volume:=8834049
+High:=36.54
+
+(he)
+Price Earnings Ratio:=null
+Last:=24.16
+Low:=24.05
+Open:=24.38
+% Change:=-0.90%
+Change:=-0.22
+Volume:=339688
+High:=24.46
+
+(hees)
+Price Earnings Ratio:=Price Earnings Ratio: N/A
+Last:=12.95
+Low:=12.89
+Open:=13.83
+% Change:=-6.30%
+Change:=-0.87
+Volume:=214277
+High:=13.83
+
+(hele)
+Price Earnings Ratio:=Price Earnings Ratio: 10.59
+Last:=33.48
+Low:=33.31
+Open:=34.03
+% Change:=-1.59%
+Change:=-0.54
+Volume:=218335
+High:=34.38
+
+(hgr)
+Price Earnings Ratio:=Price Earnings Ratio: 17.85
+Last:=24.81
+Low:=24.78
+Open:=25.76
+% Change:=-3.58%
+Change:=-0.92
+Volume:=132345
+High:=25.84
+
+(hgsi)
+Price Earnings Ratio:=Price Earnings Ratio: N/A
+Last:=23.32
+Low:=23.25
+Open:=24.15
+% Change:=-1.52%
+Change:=-0.36
+Volume:=1773859
+High:=24.29
+
+(hhgp)
+Price Earnings Ratio:=null
+Last:=5.59
+Low:=5.48
+Open:=5.69
+% Change:=-2.10%
+Change:=-0.12
+Volume:=44431
+High:=5.69
+
+(hibb)
+Price Earnings Ratio:=Price Earnings Ratio: 23.05
+Last:=41.03
+Low:=40.70
+Open:=41.86
+% Change:=-1.51%
+Change:=-0.63
+Volume:=196921
+High:=42.07
+
+(hig)
+Price Earnings Ratio:=Price Earnings Ratio: 5.44
+Last:=24.88
+Low:=24.88
+Open:=25.23
+% Change:=-2.81%
+Change:=-0.72
+Volume:=8267468
+High:=25.71
+
+(hk)
+Price Earnings Ratio:=Price Earnings Ratio: 48.94
+Last:=23.49
+Low:=23.43
+Open:=24.09
+% Change:=-1.84%
+Change:=-0.44
+Volume:=3875965
+High:=24.51
+
+(hls)
+Price Earnings Ratio:=Price Earnings Ratio: 13.35
+Last:=24.83
+Low:=24.57
+Open:=25.59
+% Change:=-2.97%
+Change:=-0.76
+Volume:=1341546
+High:=25.82
+
+(hma)
+Price Earnings Ratio:=Price Earnings Ratio: 15.19
+Last:=10.33
+Low:=10.22
+Open:=10.53
+% Change:=-1.53%
+Change:=-0.16
+Volume:=2385238
+High:=10.63
+
+(hme)
+Price Earnings Ratio:=Price Earnings Ratio: 19.46
+Last:=63.45
+Low:=63.19
+Open:=63.80
+% Change:=-0.17%
+Change:=-0.11
+Volume:=524500
+High:=64.11
+
+(hmsy)
+Price Earnings Ratio:=Price Earnings Ratio: 52.28
+Last:=77.38
+Low:=77.33
+Open:=79.24
+% Change:=-2.01%
+Change:=-1.59
+Volume:=90950
+High:=79.66
+
+(hog)
+Price Earnings Ratio:=Price Earnings Ratio: 31.67
+Last:=41.80
+Low:=41.45
+Open:=42.22
+% Change:=-0.81%
+Change:=-0.34
+Volume:=2235896
+High:=42.69
+
+(hott)
+Price Earnings Ratio:=Price Earnings Ratio: 72.36
+Last:=7.96
+Low:=7.64
+Open:=7.65
+% Change:=+3.24%
+Change:=+0.25
+Volume:=893491
+High:=8.04
+
+(hp)
+Price Earnings Ratio:=Price Earnings Ratio: 20.67
+Last:=66.98
+Low:=66.89
+Open:=68.70
+% Change:=-1.92%
+Change:=-1.31
+Volume:=1067819
+High:=69.02
+
+(hpq)
+Price Earnings Ratio:=Price Earnings Ratio: 7.00
+Last:=35.07
+Low:=35.01
+Open:=35.54
+% Change:=-1.04%
+Change:=-0.37
+Volume:=13067262
+High:=35.69
+
+(hpt)
+Price Earnings Ratio:=Price Earnings Ratio: 7.40
+Last:=24.50
+Low:=24.32
+Open:=24.89
+% Change:=-1.57%
+Change:=-0.39
+Volume:=1534799
+High:=24.98
+
+(hpy)
+Price Earnings Ratio:=Price Earnings Ratio: 24.85
+Last:=20.13
+Low:=19.97
+Open:=20.19
+% Change:=-0.25%
+Change:=-0.05
+Volume:=270600
+High:=20.35
+
+(hrg)
+Price Earnings Ratio:=null
+Last:=5.81
+Low:=5.81
+Open:=5.90
+% Change:=-1.86%
+Change:=-0.11
+Volume:=29506
+High:=6.00
+
+(hrs)
+Price Earnings Ratio:=Price Earnings Ratio: 8.68
+Last:=42.36
+Low:=42.22
+Open:=43.12
+% Change:=-1.21%
+Change:=-0.52
+Volume:=650789
+High:=43.31
+
+(hrz)
+Price Earnings Ratio:=null
+Last:=1.18
+Low:=1.12
+Open:=1.17
+% Change:=+1.72%
+Change:=+0.02
+Volume:=710353
+High:=1.24
+
+(hsic)
+Price Earnings Ratio:=Price Earnings Ratio: 19.94
+Last:=72.97
+Low:=72.74
+Open:=73.94
+% Change:=-1.23%
+Change:=-0.91
+Volume:=314595
+High:=74.38
+
+(hsp)
+Price Earnings Ratio:=Price Earnings Ratio: 15.96
+Last:=52.68
+Low:=52.58
+Open:=53.29
+% Change:=-0.55%
+Change:=-0.29
+Volume:=1064600
+High:=53.30
+
+(ht)
+Price Earnings Ratio:=Price Earnings Ratio: 15.44
+Last:=5.56
+Low:=5.52
+Open:=5.70
+% Change:=-2.11%
+Change:=-0.12
+Volume:=500245
+High:=5.71
+
+(htgc)
+Price Earnings Ratio:=Price Earnings Ratio: N/A
+Last:=10.42
+Low:=10.28
+Open:=10.50
+% Change:=-0.57%
+Change:=-0.06
+Volume:=196127
+High:=10.56
+
+(hts)
+Price Earnings Ratio:=Price Earnings Ratio: N/A
+Last:=28.31
+Low:=28.22
+Open:=28.65
+% Change:=-1.01%
+Change:=-0.29
+Volume:=1423348
+High:=28.71
+
+(hurn)
+Price Earnings Ratio:=Price Earnings Ratio: 22.37
+Last:=29.30
+Low:=29.26
+Open:=30.17
+% Change:=-2.14%
+Change:=-0.64
+Volume:=42559
+High:=30.17
+
+(hwkn)
+Price Earnings Ratio:=null
+Last:=36.20
+Low:=35.81
+Open:=37.88
+% Change:=-3.29%
+Change:=-1.23
+Volume:=44200
+High:=37.88
+
+(iaci)
+Price Earnings Ratio:=Price Earnings Ratio: 31.17
+Last:=37.09
+Low:=36.85
+Open:=37.81
+% Change:=-1.72%
+Change:=-0.65
+Volume:=1116345
+High:=37.92
+
+(ibm)
+Price Earnings Ratio:=Price Earnings Ratio: 14.49
+Last:=174.21
+Low:=173.84
+Open:=174.40
+% Change:=-0.06%
+Change:=-0.11
+Volume:=3247020
+High:=176.10
+
+(iboc)
+Price Earnings Ratio:=null
+Last:=16.80
+Low:=16.71
+Open:=17.17
+% Change:=-1.81%
+Change:=-0.31
+Volume:=198250
+High:=17.21
+
+(icge)
+Price Earnings Ratio:=null
+Last:=12.23
+Low:=12.14
+Open:=12.59
+% Change:=-2.47%
+Change:=-0.31
+Volume:=125329
+High:=12.63
+
+(icog)
+Price Earnings Ratio:=null
+Last:=2.75
+Low:=2.75
+Open:=2.89
+% Change:=-4.18%
+Change:=-0.12
+Volume:=187200
+High:=2.95
+
+(idti)
+Price Earnings Ratio:=Price Earnings Ratio: 11.87
+Last:=7.24
+Low:=7.17
+Open:=7.28
+% Change:=+0.28%
+Change:=+0.02
+Volume:=1509402
+High:=7.39
+
+(idxx)
+Price Earnings Ratio:=Price Earnings Ratio: 32.00
+Last:=78.40
+Low:=78.21
+Open:=79.36
+% Change:=-1.10%
+Change:=-0.87
+Volume:=307741
+High:=79.89
+
+(ihs)
+Price Earnings Ratio:=Price Earnings Ratio: 25.75
+Last:=81.11
+Low:=81.04
+Open:=81.95
+% Change:=-1.07%
+Change:=-0.88
+Volume:=325808
+High:=82.29
+
+(iilg)
+Price Earnings Ratio:=null
+Last:=13.50
+Low:=13.48
+Open:=13.77
+% Change:=-2.95%
+Change:=-0.41
+Volume:=176295
+High:=13.91
+
+(iivi)
+Price Earnings Ratio:=Price Earnings Ratio: 22.06
+Last:=26.58
+Low:=26.51
+Open:=27.29
+% Change:=-2.53%
+Change:=-0.69
+Volume:=260190
+High:=27.47
+
+(ikan)
+Price Earnings Ratio:=null
+Last:=1.13
+Low:=1.13
+Open:=1.17
+% Change:=-0.88%
+Change:=-0.01
+Volume:=56667
+High:=1.17
+
+(ilmn)
+Price Earnings Ratio:=Price Earnings Ratio: 61.40
+Last:=73.68
+Low:=72.65
+Open:=74.09
+% Change:=-0.45%
+Change:=-0.33
+Volume:=1317158
+High:=74.77
+
+(im)
+Price Earnings Ratio:=Price Earnings Ratio: 9.10
+Last:=17.29
+Low:=17.27
+Open:=17.41
+% Change:=-0.12%
+Change:=-0.02
+Volume:=2096546
+High:=17.47
+
+(ima)
+Price Earnings Ratio:=null
+Last:=null
+Low:=null
+Open:=Symbol
+% Change:=null
+Change:=null
+Volume:=null
+High:=Exchange
+
+(imgn)
+Price Earnings Ratio:=null
+Last:=15.16
+Low:=15.01
+Open:=15.10
+% Change:=+0.73%
+Change:=+0.11
+Volume:=796200
+High:=15.45
+
+(imn)
+Price Earnings Ratio:=Price Earnings Ratio: 58.56
+Last:=9.37
+Low:=9.36
+Open:=9.65
+% Change:=-2.40%
+Change:=-0.23
+Volume:=106930
+High:=9.81
+
+(in)
+Price Earnings Ratio:=Price Earnings Ratio: N/A
+Last:=10.89
+Low:=10.84
+Open:=11.12
+% Change:=-1.63%
+Change:=-0.18
+Volume:=333058
+High:=11.15
+
+(inap)
+Price Earnings Ratio:=Price Earnings Ratio: 116.33
+Last:=6.98
+Low:=6.95
+Open:=7.15
+% Change:=-2.38%
+Change:=-0.17
+Volume:=222494
+High:=7.23
+
+(indm)
+Price Earnings Ratio:=null
+Last:=null
+Low:=null
+Open:=Symbol
+% Change:=null
+Change:=null
+Volume:=null
+High:=Exchange
+
+(infi)
+Price Earnings Ratio:=null
+Last:=9.07
+Low:=8.92
+Open:=9.00
+% Change:=+0.78%
+Change:=+0.07
+Volume:=45725
+High:=9.10
+
+(infy)
+Price Earnings Ratio:=Price Earnings Ratio: 1.90
+Last:=61.16
+Low:=60.96
+Open:=61.55
+% Change:=-0.16%
+Change:=-0.10
+Volume:=1674402
+High:=62.43
+
+(ino)
+Price Earnings Ratio:=null
+Last:=0.74
+Low:=0.73
+Open:=0.80
+% Change:=-1.33%
+Change:=-0.01
+Volume:=735868
+High:=0.80
+
+(intc)
+Price Earnings Ratio:=Price Earnings Ratio: 10.22
+Last:=22.27
+Low:=22.21
+Open:=22.56
+% Change:=-0.93%
+Change:=-0.21
+Volume:=39098945
+High:=22.69
+
+(intu)
+Price Earnings Ratio:=Price Earnings Ratio: 19.83
+Last:=49.19
+Low:=49.05
+Open:=49.86
+% Change:=-1.34%
+Change:=-0.67
+Volume:=1568728
+High:=50.44
+
+(io)
+Price Earnings Ratio:=Price Earnings Ratio: 37.00
+Last:=9.62
+Low:=9.55
+Open:=9.85
+% Change:=-1.43%
+Change:=-0.14
+Volume:=1246200
+High:=10.04
+
+(ipcc)
+Price Earnings Ratio:=Price Earnings Ratio: 9.72
+Last:=54.43
+Low:=54.43
+Open:=55.65
+% Change:=-2.24%
+Change:=-1.25
+Volume:=20454
+High:=55.87
+
+(ipcm)
+Price Earnings Ratio:=Price Earnings Ratio: 31.46
+Last:=49.71
+Low:=49.63
+Open:=49.93
+% Change:=-0.26%
+Change:=-0.13
+Volume:=117057
+High:=50.90
+
+(ipg)
+Price Earnings Ratio:=Price Earnings Ratio: 24.33
+Last:=11.92
+Low:=11.89
+Open:=12.20
+% Change:=-1.97%
+Change:=-0.24
+Volume:=7279664
+High:=12.28
+
+(ipgp)
+Price Earnings Ratio:=Price Earnings Ratio: 45.77
+Last:=68.66
+Low:=68.32
+Open:=70.81
+% Change:=-1.98%
+Change:=-1.39
+Volume:=311900
+High:=71.76
+
+(ipi)
+Price Earnings Ratio:=Price Earnings Ratio: 38.25
+Last:=31.75
+Low:=31.59
+Open:=31.85
+% Change:=+0.44%
+Change:=+0.14
+Volume:=703500
+High:=32.42
+
+(ipxl)
+Price Earnings Ratio:=Price Earnings Ratio: 18.29
+Last:=21.22
+Low:=21.11
+Open:=21.35
+% Change:=-0.33%
+Change:=-0.07
+Volume:=475805
+High:=21.50
+
+(ir)
+Price Earnings Ratio:=Price Earnings Ratio: 17.88
+Last:=45.23
+Low:=45.10
+Open:=45.96
+% Change:=-1.48%
+Change:=-0.68
+Volume:=4153571
+High:=46.57
+
+(irc)
+Price Earnings Ratio:=Price Earnings Ratio: 18.31
+Last:=8.97
+Low:=8.92
+Open:=9.06
+% Change:=-0.99%
+Change:=-0.09
+Volume:=340110
+High:=9.06
+
+(irm)
+Price Earnings Ratio:=Price Earnings Ratio: 29.50
+Last:=35.11
+Low:=34.87
+Open:=35.34
+% Change:=-0.65%
+Change:=-0.23
+Volume:=2795706
+High:=35.73
+
+(isis)
+Price Earnings Ratio:=Price Earnings Ratio: N/A
+Last:=9.23
+Low:=9.15
+Open:=9.24
+% Change:=+0.11%
+Change:=+0.01
+Volume:=411007
+High:=9.36
+
+(isrg)
+Price Earnings Ratio:=Price Earnings Ratio: 35.81
+Last:=355.96
+Low:=354.23
+Open:=360.15
+% Change:=-0.96%
+Change:=-3.44
+Volume:=223335
+High:=361.95
+
+(isrl)
+Price Earnings Ratio:=null
+Last:=66.59
+Low:=65.24
+Open:=65.49
+% Change:=+0.36%
+Change:=+0.24
+Volume:=17622
+High:=68.26
+
+(itc)
+Price Earnings Ratio:=null
+Last:=72.29
+Low:=72.20
+Open:=72.45
+% Change:=-0.21%
+Change:=-0.15
+Volume:=255766
+High:=72.63
+
+(itri)
+Price Earnings Ratio:=Price Earnings Ratio: 11.58
+Last:=46.09
+Low:=45.67
+Open:=47.30
+% Change:=-2.46%
+Change:=-1.16
+Volume:=536755
+High:=47.70
+
+(ivac)
+Price Earnings Ratio:=Price Earnings Ratio: 11.40
+Last:=9.80
+Low:=9.77
+Open:=10.00
+% Change:=-1.90%
+Change:=-0.19
+Volume:=73200
+High:=10.03
+
+(ivc)
+Price Earnings Ratio:=Price Earnings Ratio: 17.37
+Last:=33.35
+Low:=33.17
+Open:=33.66
+% Change:=-0.51%
+Change:=-0.17
+Volume:=114531
+High:=33.86
+
+(ivz)
+Price Earnings Ratio:=null
+Last:=22.33
+Low:=22.20
+Open:=22.75
+% Change:=-1.54%
+Change:=-0.35
+Volume:=2933428
+High:=22.81
+
+(ixys)
+Price Earnings Ratio:=Price Earnings Ratio: 16.31
+Last:=14.84
+Low:=14.32
+Open:=14.32
+% Change:=+4.58%
+Change:=+0.65
+Volume:=173278
+High:=15.06
+
+(jakk)
+Price Earnings Ratio:=Price Earnings Ratio: 14.29
+Last:=17.86
+Low:=17.76
+Open:=18.23
+% Change:=-2.19%
+Change:=-0.40
+Volume:=134100
+High:=18.24
+
+(jazz)
+Price Earnings Ratio:=Price Earnings Ratio: 20.83
+Last:=37.07
+Low:=35.02
+Open:=35.31
+% Change:=+5.97%
+Change:=+2.09
+Volume:=1338727
+High:=37.41
+
+(jbht)
+Price Earnings Ratio:=Price Earnings Ratio: 28.23
+Last:=47.71
+Low:=47.32
+Open:=47.95
+% Change:=-0.54%
+Change:=-0.26
+Volume:=1572955
+High:=48.21
+
+(jcp)
+Price Earnings Ratio:=Price Earnings Ratio: 19.66
+Last:=31.85
+Low:=31.58
+Open:=32.09
+% Change:=-0.78%
+Change:=-0.25
+Volume:=5672200
+High:=32.29
+
+(jec)
+Price Earnings Ratio:=Price Earnings Ratio: 17.26
+Last:=41.24
+Low:=41.14
+Open:=41.69
+% Change:=-0.82%
+Change:=-0.34
+Volume:=1250725
+High:=42.09
+
+(jll)
+Price Earnings Ratio:=Price Earnings Ratio: 24.83
+Last:=89.62
+Low:=89.44
+Open:=93.08
+% Change:=-3.71%
+Change:=-3.45
+Volume:=333881
+High:=93.95
+
+(jnj)
+Price Earnings Ratio:=Price Earnings Ratio: 14.04
+Last:=67.68
+Low:=67.47
+Open:=67.60
+% Change:=+0.07%
+Change:=+0.05
+Volume:=6915865
+High:=67.93
+
+(jnpr)
+Price Earnings Ratio:=Price Earnings Ratio: 22.83
+Last:=30.36
+Low:=30.14
+Open:=31.14
+% Change:=-2.16%
+Change:=-0.67
+Volume:=7506346
+High:=31.25
+
+(joyg)
+Price Earnings Ratio:=Price Earnings Ratio: 19.08
+Last:=95.41
+Low:=94.00
+Open:=95.85
+% Change:=+0.57%
+Change:=+0.54
+Volume:=3113019
+High:=98.50
+
+(jpm)
+Price Earnings Ratio:=Price Earnings Ratio: 8.97
+Last:=40.38
+Low:=40.36
+Open:=41.18
+% Change:=+1.92%
+Change:=+0.76
+Volume:=59455246
+High:=41.24
+
+(kalu)
+Price Earnings Ratio:=Price Earnings Ratio: 27.65
+Last:=54.47
+Low:=54.21
+Open:=54.89
+% Change:=-0.66%
+Change:=-0.36
+Volume:=262800
+High:=55.15
+
+(kar)
+Price Earnings Ratio:=Price Earnings Ratio: 15.76
+Last:=18.28
+Low:=18.23
+Open:=18.69
+% Change:=-2.35%
+Change:=-0.44
+Volume:=116325
+High:=18.83
+
+(kbh)
+Price Earnings Ratio:=Price Earnings Ratio: N/A
+Last:=9.54
+Low:=9.36
+Open:=9.67
+% Change:=-0.10%
+Change:=-0.01
+Volume:=4161800
+High:=9.72
+
+(kbr)
+Price Earnings Ratio:=Price Earnings Ratio: 14.78
+Last:=36.66
+Low:=36.61
+Open:=37.32
+% Change:=-1.03%
+Change:=-0.38
+Volume:=1009600
+High:=37.85
+
+(kbw)
+Price Earnings Ratio:=Price Earnings Ratio: 27.73
+Last:=17.75
+Low:=17.39
+Open:=17.92
+% Change:=-0.45%
+Change:=-0.08
+Volume:=448531
+High:=17.94
+
+(kcg)
+Price Earnings Ratio:=Price Earnings Ratio: 9.85
+Last:=10.83
+Low:=10.78
+Open:=10.99
+% Change:=-1.01%
+Change:=-0.11
+Volume:=1850600
+High:=10.99
+
+(kcli)
+Price Earnings Ratio:=null
+Last:=30.80
+Low:=30.80
+Open:=31.39
+% Change:=-1.57%
+Change:=-0.49
+Volume:=2612
+High:=31.39
+
+(kelya)
+Price Earnings Ratio:=Price Earnings Ratio: 17.31
+Last:=15.58
+Low:=15.54
+Open:=16.19
+% Change:=-3.65%
+Change:=-0.59
+Volume:=135037
+High:=16.27
+
+(kerx)
+Price Earnings Ratio:=null
+Last:=4.90
+Low:=4.83
+Open:=4.96
+% Change:=-0.61%
+Change:=-0.03
+Volume:=908947
+High:=5.05
+
+(keyn)
+Price Earnings Ratio:=Price Earnings Ratio: 25.33
+Last:=21.53
+Low:=20.97
+Open:=21.91
+% Change:=-1.19%
+Change:=-0.26
+Volume:=90596
+High:=21.91
+
+(kft)
+Price Earnings Ratio:=Price Earnings Ratio: 17.22
+Last:=35.31
+Low:=35.17
+Open:=35.37
+% Change:=-0.14%
+Change:=-0.05
+Volume:=8235290
+High:=35.64
+
+(kirk)
+Price Earnings Ratio:=Price Earnings Ratio: 10.53
+Last:=11.37
+Low:=11.30
+Open:=11.62
+% Change:=-2.24%
+Change:=-0.26
+Volume:=292800
+High:=11.62
+
+(klac)
+Price Earnings Ratio:=Price Earnings Ratio: 9.94
+Last:=40.75
+Low:=40.59
+Open:=41.80
+% Change:=-2.11%
+Change:=-0.88
+Volume:=2553420
+High:=42.45
+
+(klic)
+Price Earnings Ratio:=Price Earnings Ratio: 4.42
+Last:=9.64
+Low:=9.56
+Open:=9.88
+% Change:=-2.23%
+Change:=-0.22
+Volume:=1830586
+High:=10.03
+
+(kmt)
+Price Earnings Ratio:=Price Earnings Ratio: 17.17
+Last:=42.59
+Low:=42.38
+Open:=43.48
+% Change:=-1.73%
+Change:=-0.75
+Volume:=571800
+High:=43.78
+
+(knol)
+Price Earnings Ratio:=Price Earnings Ratio: 17.11
+Last:=14.37
+Low:=14.35
+Open:=14.68
+% Change:=-2.11%
+Change:=-0.31
+Volume:=67900
+High:=14.68
+
+(ko)
+Price Earnings Ratio:=Price Earnings Ratio: 18.98
+Last:=67.58
+Low:=67.37
+Open:=67.97
+% Change:=-0.71%
+Change:=-0.48
+Volume:=4829056
+High:=68.33
+
+(ks)
+Price Earnings Ratio:=null
+Last:=16.45
+Low:=16.35
+Open:=16.50
+% Change:=-0.06%
+Change:=-0.01
+Volume:=140875
+High:=16.65
+
+(kss)
+Price Earnings Ratio:=Price Earnings Ratio: 14.50
+Last:=55.97
+Low:=55.50
+Open:=55.83
+% Change:=+0.34%
+Change:=+0.19
+Volume:=2715842
+High:=56.20
+
+(ksws)
+Price Earnings Ratio:=Price Earnings Ratio: N/A
+Last:=11.20
+Low:=11.12
+Open:=11.40
+% Change:=-1.58%
+Change:=-0.18
+Volume:=153112
+High:=11.49
+
+(ktos)
+Price Earnings Ratio:=null
+Last:=11.63
+Low:=11.59
+Open:=11.91
+% Change:=-2.68%
+Change:=-0.32
+Volume:=100749
+High:=11.99
+
+(kvhi)
+Price Earnings Ratio:=Price Earnings Ratio: 94.75
+Last:=11.37
+Low:=11.18
+Open:=11.73
+% Change:=-3.15%
+Change:=-0.37
+Volume:=52385
+High:=11.73
+
+(kwk)
+Price Earnings Ratio:=Price Earnings Ratio: 24.84
+Last:=13.66
+Low:=13.59
+Open:=13.85
+% Change:=-0.73%
+Change:=-0.10
+Volume:=2839396
+High:=13.88
+
+(labl)
+Price Earnings Ratio:=Price Earnings Ratio: 13.74
+Last:=22.54
+Low:=22.49
+Open:=23.34
+% Change:=-3.55%
+Change:=-0.83
+Volume:=27030
+High:=23.34
+
+(lamr)
+Price Earnings Ratio:=Price Earnings Ratio: N/A
+Last:=26.00
+Low:=25.95
+Open:=26.65
+% Change:=-2.07%
+Change:=-0.55
+Volume:=978373
+High:=26.85
+
+(laws)
+Price Earnings Ratio:=null
+Last:=19.61
+Low:=19.42
+Open:=20.08
+% Change:=-2.58%
+Change:=-0.52
+Volume:=15670
+High:=20.09
+
+(layn)
+Price Earnings Ratio:=Price Earnings Ratio: 15.90
+Last:=29.57
+Low:=29.26
+Open:=30.32
+% Change:=-2.09%
+Change:=-0.63
+Volume:=54496
+High:=30.68
+
+(laz)
+Price Earnings Ratio:=Price Earnings Ratio: 16.68
+Last:=34.03
+Low:=33.89
+Open:=34.23
+% Change:=-0.56%
+Change:=-0.19
+Volume:=735157
+High:=34.42
+
+(lb)
+Price Earnings Ratio:=null
+Last:=19.25
+Low:=19.24
+Open:=19.25
+% Change:=-0.05%
+Change:=-0.01
+Volume:=107400
+High:=19.26
+
+(lbai)
+Price Earnings Ratio:=null
+Last:=9.91
+Low:=9.75
+Open:=10.48
+% Change:=-7.90%
+Change:=-0.85
+Volume:=88700
+High:=10.70
+
+(lci)
+Price Earnings Ratio:=null
+Last:=4.78
+Low:=4.74
+Open:=4.87
+% Change:=-2.65%
+Change:=-0.13
+Volume:=150093
+High:=4.90
+
+(ldsh)
+Price Earnings Ratio:=null
+Last:=null
+Low:=null
+Open:=null
+% Change:=null
+Change:=null
+Volume:=null
+High:=null
+
+(lea)
+Price Earnings Ratio:=Price Earnings Ratio: 10.07
+Last:=53.06
+Low:=52.42
+Open:=53.59
+% Change:=-0.41%
+Change:=-0.22
+Volume:=829699
+High:=54.09
+
+(leg)
+Price Earnings Ratio:=Price Earnings Ratio: 20.07
+Last:=23.28
+Low:=23.24
+Open:=23.61
+% Change:=-1.36%
+Change:=-0.32
+Volume:=1082556
+High:=23.76
+
+(lfus)
+Price Earnings Ratio:=Price Earnings Ratio: 14.45
+Last:=55.50
+Low:=55.37
+Open:=57.15
+% Change:=-2.41%
+Change:=-1.37
+Volume:=122219
+High:=57.18
+
+(life)
+Price Earnings Ratio:=Price Earnings Ratio: 14.19
+Last:=50.08
+Low:=49.98
+Open:=50.72
+% Change:=-0.83%
+Change:=-0.42
+Volume:=1044632
+High:=51.38
+
+(linc)
+Price Earnings Ratio:=Price Earnings Ratio: 6.78
+Last:=18.71
+Low:=18.48
+Open:=18.85
+% Change:=-0.74%
+Change:=-0.14
+Volume:=215286
+High:=19.00
+
+(linta)
+Price Earnings Ratio:=null
+Last:=17.23
+Low:=17.13
+Open:=17.61
+% Change:=-1.99%
+Change:=-0.35
+Volume:=3393234
+High:=17.83
+
+(llen)
+Price Earnings Ratio:=null
+Last:=5.14
+Low:=5.12
+Open:=5.12
+% Change:=-0.19%
+Change:=-0.01
+Volume:=507089
+High:=5.58
+
+(lll)
+Price Earnings Ratio:=Price Earnings Ratio: 9.96
+Last:=82.37
+Low:=82.28
+Open:=84.19
+% Change:=-1.91%
+Change:=-1.60
+Volume:=871850
+High:=84.25
+
+(lltc)
+Price Earnings Ratio:=Price Earnings Ratio: 12.84
+Last:=30.31
+Low:=30.25
+Open:=30.95
+% Change:=-1.72%
+Change:=-0.53
+Volume:=2871109
+High:=31.31
+
+(lm)
+Price Earnings Ratio:=Price Earnings Ratio: 19.05
+Last:=31.63
+Low:=31.54
+Open:=32.43
+% Change:=-2.20%
+Change:=-0.71
+Volume:=1629719
+High:=32.50
+
+(lng)
+Price Earnings Ratio:=null
+Last:=8.76
+Low:=8.74
+Open:=9.12
+% Change:=-3.95%
+Change:=-0.36
+Volume:=2103033
+High:=9.29
+
+(logm)
+Price Earnings Ratio:=Price Earnings Ratio: 43.02
+Last:=36.57
+Low:=36.33
+Open:=38.03
+% Change:=-3.53%
+Change:=-1.34
+Volume:=271500
+High:=38.14
+
+(loop)
+Price Earnings Ratio:=Price Earnings Ratio: 44.63
+Last:=18.30
+Low:=18.30
+Open:=18.33
+% Change:=-0.54%
+Change:=-0.10
+Volume:=106585
+High:=18.40
+
+(lpnt)
+Price Earnings Ratio:=Price Earnings Ratio: 12.60
+Last:=37.80
+Low:=37.69
+Open:=38.70
+% Change:=-2.25%
+Change:=-0.87
+Volume:=433245
+High:=39.15
+
+(lpx)
+Price Earnings Ratio:=Price Earnings Ratio: N/A
+Last:=8.19
+Low:=8.17
+Open:=8.37
+% Change:=-1.56%
+Change:=-0.13
+Volume:=3256900
+High:=8.45
+
+(lrcx)
+Price Earnings Ratio:=Price Earnings Ratio: 7.12
+Last:=41.85
+Low:=41.54
+Open:=42.66
+% Change:=-1.94%
+Change:=-0.83
+Volume:=2436014
+High:=43.10
+
+(lse)
+Price Earnings Ratio:=Price Earnings Ratio: 7.10
+Last:=4.76
+Low:=4.75
+Open:=4.86
+% Change:=-1.45%
+Change:=-0.07
+Volume:=85847
+High:=4.88
+
+(lsi)
+Price Earnings Ratio:=Price Earnings Ratio: 13.92
+Last:=6.68
+Low:=6.64
+Open:=6.76
+% Change:=-1.33%
+Change:=-0.09
+Volume:=6263658
+High:=6.90
+
+(lstr)
+Price Earnings Ratio:=Price Earnings Ratio: 24.95
+Last:=46.40
+Low:=45.85
+Open:=47.19
+% Change:=-1.38%
+Change:=-0.65
+Volume:=258500
+High:=47.48
+
+(lstza)
+Price Earnings Ratio:=null
+Last:=73.79
+Low:=73.40
+Open:=74.53
+% Change:=-0.70%
+Change:=-0.52
+Volume:=199295
+High:=75.14
+
+(ltm)
+Price Earnings Ratio:=Price Earnings Ratio: 19.18
+Last:=39.12
+Low:=38.74
+Open:=39.77
+% Change:=-1.34%
+Change:=-0.53
+Volume:=239883
+High:=40.03
+
+(ltre)
+Price Earnings Ratio:=Price Earnings Ratio: 33.00
+Last:=9.90
+Low:=9.86
+Open:=9.86
+% Change:=-0.30%
+Change:=-0.03
+Volume:=5147
+High:=9.99
+
+(lvs)
+Price Earnings Ratio:=Price Earnings Ratio: 34.28
+Last:=44.57
+Low:=43.85
+Open:=44.53
+% Change:=+0.61%
+Change:=+0.27
+Volume:=13757000
+High:=45.06
+
+(lway)
+Price Earnings Ratio:=null
+Last:=10.71
+Low:=10.53
+Open:=10.97
+% Change:=-1.92%
+Change:=-0.21
+Volume:=41525
+High:=11.33
+
+(lxp)
+Price Earnings Ratio:=Price Earnings Ratio: 9.28
+Last:=9.00
+Low:=8.92
+Open:=9.07
+% Change:=+0.11%
+Change:=+0.01
+Volume:=6188906
+High:=9.11
+
+(lxrx)
+Price Earnings Ratio:=null
+Last:=1.64
+Low:=1.64
+Open:=1.75
+% Change:=-6.29%
+Change:=-0.11
+Volume:=927575
+High:=1.79
+
+(lxu)
+Price Earnings Ratio:=Price Earnings Ratio: N/A
+Last:=43.50
+Low:=42.90
+Open:=43.88
+% Change:=-0.50%
+Change:=-0.22
+Volume:=246506
+High:=44.28
+
+(ma)
+Price Earnings Ratio:=Price Earnings Ratio: 20.54
+Last:=305.68
+Low:=304.51
+Open:=305.02
+% Change:=-0.07%
+Change:=-0.21
+Volume:=960189
+High:=311.00
+
+(mako)
+Price Earnings Ratio:=Price Earnings Ratio: N/A
+Last:=31.63
+Low:=31.24
+Open:=31.51
+% Change:=+0.99%
+Change:=+0.31
+Volume:=465756
+High:=32.50
+
+(mapp)
+Price Earnings Ratio:=null
+Last:=16.00
+Low:=15.84
+Open:=16.19
+% Change:=-0.68%
+Change:=-0.11
+Volume:=102162
+High:=16.19
+
+(mas)
+Price Earnings Ratio:=Price Earnings Ratio: 80.86
+Last:=11.32
+Low:=11.24
+Open:=11.61
+% Change:=-2.25%
+Change:=-0.26
+Volume:=9640642
+High:=11.63
+
+(mat)
+Price Earnings Ratio:=Price Earnings Ratio: 14.48
+Last:=26.79
+Low:=26.59
+Open:=27.05
+% Change:=-0.89%
+Change:=-0.24
+Volume:=3676823
+High:=27.12
+
+(matk)
+Price Earnings Ratio:=null
+Last:=null
+Low:=null
+Open:=null
+% Change:=null
+Change:=null
+Volume:=null
+High:=null
+
+(mblx)
+Price Earnings Ratio:=Price Earnings Ratio: N/A
+Last:=6.74
+Low:=6.64
+Open:=7.00
+% Change:=-3.71%
+Change:=-0.26
+Volume:=189641
+High:=7.01
+
+(mbvt)
+Price Earnings Ratio:=null
+Last:=26.32
+Low:=26.25
+Open:=26.69
+% Change:=-1.31%
+Change:=-0.35
+Volume:=10505
+High:=26.69
+
+(mcd)
+Price Earnings Ratio:=Price Earnings Ratio: 18.13
+Last:=85.74
+Low:=85.56
+Open:=86.02
+% Change:=+0.92%
+Change:=+0.78
+Volume:=5360484
+High:=86.46
+
+(mchp)
+Price Earnings Ratio:=Price Earnings Ratio: 14.10
+Last:=32.01
+Low:=31.81
+Open:=32.59
+% Change:=-1.23%
+Change:=-0.40
+Volume:=4270057
+High:=32.94
+
+(mcri)
+Price Earnings Ratio:=Price Earnings Ratio: 22.31
+Last:=10.04
+Low:=9.95
+Open:=10.07
+% Change:=-0.89%
+Change:=-0.09
+Volume:=46247
+High:=10.32
+
+(mcrl)
+Price Earnings Ratio:=Price Earnings Ratio: 11.91
+Last:=9.65
+Low:=9.64
+Open:=10.02
+% Change:=-4.27%
+Change:=-0.43
+Volume:=616282
+High:=10.12
+
+(mcy)
+Price Earnings Ratio:=Price Earnings Ratio: 19.72
+Last:=38.66
+Low:=38.60
+Open:=39.12
+% Change:=-1.20%
+Change:=-0.47
+Volume:=123378
+High:=39.19
+
+(mdr)
+Price Earnings Ratio:=Price Earnings Ratio: 18.67
+Last:=19.79
+Low:=19.65
+Open:=20.10
+% Change:=-0.65%
+Change:=-0.13
+Volume:=2999700
+High:=20.44
+
+(mdso)
+Price Earnings Ratio:=Price Earnings Ratio: 24.95
+Last:=23.70
+Low:=23.67
+Open:=23.79
+% Change:=-1.54%
+Change:=-0.37
+Volume:=77732
+High:=24.20
+
+(mdth)
+Price Earnings Ratio:=Price Earnings Ratio: N/A
+Last:=13.54
+Low:=13.44
+Open:=13.76
+% Change:=-1.96%
+Change:=-0.27
+Volume:=135172
+High:=13.81
+
+(mdvn)
+Price Earnings Ratio:=Price Earnings Ratio: N/A
+Last:=21.89
+Low:=21.68
+Open:=22.40
+% Change:=-1.88%
+Change:=-0.42
+Volume:=155527
+High:=22.61
+
+(me)
+Price Earnings Ratio:=null
+Last:=null
+Low:=null
+Open:=Symbol
+% Change:=null
+Change:=null
+Volume:=null
+High:=Exchange
+
+(ment)
+Price Earnings Ratio:=Price Earnings Ratio: 13.36
+Last:=12.16
+Low:=12.07
+Open:=12.30
+% Change:=-1.30%
+Change:=-0.16
+Volume:=728477
+High:=12.46
+
+(meru)
+Price Earnings Ratio:=Price Earnings Ratio: N/A
+Last:=10.90
+Low:=10.72
+Open:=11.24
+% Change:=-2.59%
+Change:=-0.29
+Volume:=128250
+High:=11.44
+
+(mgln)
+Price Earnings Ratio:=Price Earnings Ratio: 12.80
+Last:=55.41
+Low:=55.33
+Open:=56.32
+% Change:=-0.91%
+Change:=-0.51
+Volume:=168247
+High:=56.76
+
+(mgm)
+Price Earnings Ratio:=Price Earnings Ratio: N/A
+Last:=14.72
+Low:=14.52
+Open:=14.97
+% Change:=-0.88%
+Change:=-0.13
+Volume:=22685918
+High:=15.07
+
+(mgpi)
+Price Earnings Ratio:=null
+Last:=8.03
+Low:=8.02
+Open:=8.39
+% Change:=-3.37%
+Change:=-0.28
+Volume:=26474
+High:=8.60
+
+(mgrc)
+Price Earnings Ratio:=null
+Last:=28.02
+Low:=27.94
+Open:=28.46
+% Change:=-1.30%
+Change:=-0.37
+Volume:=26672
+High:=28.66
+
+(mho)
+Price Earnings Ratio:=Price Earnings Ratio: N/A
+Last:=11.91
+Low:=11.88
+Open:=12.68
+% Change:=-5.63%
+Change:=-0.71
+Volume:=144200
+High:=12.87
+
+(mhr)
+Price Earnings Ratio:=Price Earnings Ratio: N/A
+Last:=6.86
+Low:=6.85
+Open:=7.03
+% Change:=-0.87%
+Change:=-0.06
+Volume:=3306616
+High:=7.31
+
+(mhs)
+Price Earnings Ratio:=Price Earnings Ratio: 15.12
+Last:=54.28
+Low:=54.09
+Open:=54.67
+% Change:=-0.77%
+Change:=-0.42
+Volume:=3192836
+High:=55.17
+
+(midd)
+Price Earnings Ratio:=Price Earnings Ratio: 21.79
+Last:=91.96
+Low:=91.47
+Open:=93.71
+% Change:=-1.40%
+Change:=-1.31
+Volume:=56478
+High:=93.78
+
+(mig)
+Price Earnings Ratio:=Price Earnings Ratio: 9.55
+Last:=9.84
+Low:=9.83
+Open:=10.01
+% Change:=-1.89%
+Change:=-0.19
+Volume:=236499
+High:=10.04
+
+(mil)
+Price Earnings Ratio:=null
+Last:=null
+Low:=null
+Open:=Symbol
+% Change:=null
+Change:=null
+Volume:=null
+High:=Exchange
+
+(mjn)
+Price Earnings Ratio:=Price Earnings Ratio: 27.19
+Last:=68.79
+Low:=68.67
+Open:=68.85
+% Change:=-0.25%
+Change:=-0.17
+Volume:=1060451
+High:=69.19
+
+(mksi)
+Price Earnings Ratio:=Price Earnings Ratio: 8.92
+Last:=25.06
+Low:=24.73
+Open:=24.86
+% Change:=+0.80%
+Change:=+0.20
+Volume:=436220
+High:=25.25
+
+(mlhr)
+Price Earnings Ratio:=Price Earnings Ratio: 23.83
+Last:=26.45
+Low:=26.26
+Open:=27.46
+% Change:=-3.50%
+Change:=-0.96
+Volume:=324500
+High:=27.48
+
+(mlnk)
+Price Earnings Ratio:=null
+Last:=4.48
+Low:=4.42
+Open:=4.52
+% Change:=-0.88%
+Change:=-0.04
+Volume:=85381
+High:=4.57
+
+(mlr)
+Price Earnings Ratio:=null
+Last:=17.82
+Low:=17.74
+Open:=17.92
+% Change:=-0.61%
+Change:=-0.11
+Volume:=60906
+High:=18.04
+
+(mmm)
+Price Earnings Ratio:=Price Earnings Ratio: 16.24
+Last:=94.85
+Low:=94.56
+Open:=94.82
+% Change:=-1.39%
+Change:=-1.34
+Volume:=3997242
+High:=95.78
+
+(mms)
+Price Earnings Ratio:=Price Earnings Ratio: 20.20
+Last:=40.90
+Low:=40.81
+Open:=41.53
+% Change:=-1.28%
+Change:=-0.53
+Volume:=89555
+High:=41.74
+
+(mnro)
+Price Earnings Ratio:=Price Earnings Ratio: 25.26
+Last:=36.63
+Low:=36.34
+Open:=36.96
+% Change:=-0.43%
+Change:=-0.16
+Volume:=237541
+High:=37.45
+
+(mot)
+Price Earnings Ratio:=null
+Last:=null
+Low:=null
+Open:=null
+% Change:=null
+Change:=null
+Volume:=null
+High:=null
+
+(mpg)
+Price Earnings Ratio:=null
+Last:=3.53
+Low:=3.48
+Open:=3.59
+% Change:=-0.84%
+Change:=-0.03
+Volume:=369665
+High:=3.61
+
+(mpr)
+Price Earnings Ratio:=Price Earnings Ratio: 25.16
+Last:=10.82
+Low:=10.80
+Open:=11.01
+% Change:=-1.81%
+Change:=-0.20
+Volume:=24925
+High:=11.02
+
+(mpx)
+Price Earnings Ratio:=null
+Last:=5.65
+Low:=5.64
+Open:=6.04
+% Change:=-7.07%
+Change:=-0.43
+Volume:=25300
+High:=6.08
+
+(mrcy)
+Price Earnings Ratio:=Price Earnings Ratio: 13.34
+Last:=18.01
+Low:=18.00
+Open:=18.56
+% Change:=-2.54%
+Change:=-0.47
+Volume:=96789
+High:=18.67
+
+(mrh)
+Price Earnings Ratio:=Price Earnings Ratio: 25.01
+Last:=18.26
+Low:=18.23
+Open:=18.33
+% Change:=-0.38%
+Change:=-0.07
+Volume:=402204
+High:=18.46
+
+(mrk)
+Price Earnings Ratio:=Price Earnings Ratio: 10.34
+Last:=36.30
+Low:=36.02
+Open:=36.17
+% Change:=+0.75%
+Change:=+0.27
+Volume:=11352437
+High:=36.56
+
+(mrvl)
+Price Earnings Ratio:=Price Earnings Ratio: 9.53
+Last:=14.68
+Low:=14.54
+Open:=14.75
+% Change:=-0.27%
+Change:=-0.04
+Volume:=10503076
+High:=15.06
+
+(msft)
+Price Earnings Ratio:=Price Earnings Ratio: 10.55
+Last:=26.47
+Low:=26.36
+Open:=26.63
+% Change:=-0.60%
+Change:=-0.16
+Volume:=37766035
+High:=27.01
+
+(mtb)
+Price Earnings Ratio:=Price Earnings Ratio: 14.05
+Last:=86.00
+Low:=85.54
+Open:=87.46
+% Change:=-1.24%
+Change:=-1.08
+Volume:=1079000
+High:=87.46
+
+(mtn)
+Price Earnings Ratio:=Price Earnings Ratio: 37.13
+Last:=44.55
+Low:=43.51
+Open:=45.28
+% Change:=-1.44%
+Change:=-0.65
+Volume:=258400
+High:=45.28
+
+(mtrx)
+Price Earnings Ratio:=Price Earnings Ratio: 25.66
+Last:=13.60
+Low:=13.55
+Open:=14.17
+% Change:=-3.89%
+Change:=-0.55
+Volume:=108600
+High:=14.18
+
+(mu)
+Price Earnings Ratio:=Price Earnings Ratio: 11.95
+Last:=7.29
+Low:=7.23
+Open:=7.52
+% Change:=-2.67%
+Change:=-0.20
+Volume:=29628924
+High:=7.59
+
+(mvis)
+Price Earnings Ratio:=null
+Last:=1.15
+Low:=1.14
+Open:=1.15
+% Change:=unch%
+Change:=unch
+Volume:=485180
+High:=1.17
+
+(mw)
+Price Earnings Ratio:=Price Earnings Ratio: 19.25
+Last:=33.49
+Low:=33.21
+Open:=34.24
+% Change:=-2.28%
+Change:=-0.78
+Volume:=569126
+High:=34.64
+
+(mwa)
+Price Earnings Ratio:=Price Earnings Ratio: N/A
+Last:=3.68
+Low:=3.65
+Open:=3.71
+% Change:=-0.27%
+Change:=-0.01
+Volume:=570359
+High:=3.76
+
+(mwv)
+Price Earnings Ratio:=Price Earnings Ratio: 18.14
+Last:=33.01
+Low:=32.60
+Open:=33.22
+% Change:=-0.36%
+Change:=-0.12
+Volume:=2319642
+High:=33.48
+
+(mww)
+Price Earnings Ratio:=Price Earnings Ratio: N/A
+Last:=13.14
+Low:=13.07
+Open:=13.66
+% Change:=-3.24%
+Change:=-0.44
+Volume:=2801018
+High:=13.74
+
+(mxim)
+Price Earnings Ratio:=Price Earnings Ratio: 14.76
+Last:=23.61
+Low:=23.45
+Open:=23.87
+% Change:=-1.01%
+Change:=-0.24
+Volume:=1908267
+High:=24.19
+
+(mxl)
+Price Earnings Ratio:=Price Earnings Ratio: 42.33
+Last:=7.62
+Low:=7.62
+Open:=7.91
+% Change:=-4.03%
+Change:=-0.32
+Volume:=135065
+High:=7.91
+
+(myl)
+Price Earnings Ratio:=Price Earnings Ratio: 14.12
+Last:=23.86
+Low:=23.80
+Open:=24.18
+% Change:=-0.67%
+Change:=-0.16
+Volume:=3589552
+High:=24.31
+
+(nafc)
+Price Earnings Ratio:=Price Earnings Ratio: 9.58
+Last:=36.90
+Low:=36.89
+Open:=37.84
+% Change:=-1.99%
+Change:=-0.75
+Volume:=51600
+High:=37.94
+
+(nal)
+Price Earnings Ratio:=null
+Last:=14.78
+Low:=14.70
+Open:=14.77
+% Change:=+0.75%
+Change:=+0.11
+Volume:=480900
+High:=14.85
+
+(natr)
+Price Earnings Ratio:=null
+Last:=19.25
+Low:=19.14
+Open:=19.72
+% Change:=-2.58%
+Change:=-0.51
+Volume:=56291
+High:=19.82
+
+(nauh)
+Price Earnings Ratio:=null
+Last:=9.02
+Low:=8.48
+Open:=9.15
+% Change:=+0.22%
+Change:=+0.02
+Volume:=15100
+High:=9.15
+
+(nc)
+Price Earnings Ratio:=null
+Last:=96.97
+Low:=96.51
+Open:=100.67
+% Change:=-3.10%
+Change:=-3.10
+Volume:=28720
+High:=100.68
+
+(ncs)
+Price Earnings Ratio:=null
+Last:=11.30
+Low:=11.25
+Open:=11.74
+% Change:=-3.17%
+Change:=-0.37
+Volume:=185050
+High:=11.94
+
+(nct)
+Price Earnings Ratio:=null
+Last:=5.93
+Low:=5.90
+Open:=6.13
+% Change:=-3.10%
+Change:=-0.19
+Volume:=713577
+High:=6.25
+
+(ndsn)
+Price Earnings Ratio:=Price Earnings Ratio: 18.36
+Last:=55.09
+Low:=54.97
+Open:=56.17
+% Change:=-1.36%
+Change:=-0.76
+Volume:=279293
+High:=56.85
+
+(nee)
+Price Earnings Ratio:=Price Earnings Ratio: 13.25
+Last:=56.99
+Low:=56.91
+Open:=57.25
+% Change:=-0.37%
+Change:=-0.21
+Volume:=1480408
+High:=57.55
+
+(neog)
+Price Earnings Ratio:=Price Earnings Ratio: 50.43
+Last:=46.40
+Low:=46.01
+Open:=47.02
+% Change:=-1.02%
+Change:=-0.48
+Volume:=53804
+High:=47.28
+
+(netl)
+Price Earnings Ratio:=Price Earnings Ratio: 23.62
+Last:=38.27
+Low:=37.66
+Open:=38.96
+% Change:=-1.32%
+Change:=-0.51
+Volume:=1053100
+High:=39.35
+
+(newp)
+Price Earnings Ratio:=Price Earnings Ratio: 13.07
+Last:=17.12
+Low:=17.03
+Open:=17.69
+% Change:=-2.73%
+Change:=-0.48
+Volume:=279013
+High:=18.00
+
+(nfg)
+Price Earnings Ratio:=Price Earnings Ratio: 26.78
+Last:=69.62
+Low:=69.47
+Open:=71.58
+% Change:=-1.69%
+Change:=-1.20
+Volume:=550084
+High:=72.04
+
+(nflx)
+Price Earnings Ratio:=Price Earnings Ratio: 82.36
+Last:=286.62
+Low:=285.26
+Open:=299.50
+% Change:=-4.05%
+Change:=-12.11
+Volume:=5618272
+High:=300.00
+
+(ngpc)
+Price Earnings Ratio:=Price Earnings Ratio: 14.16
+Last:=8.21
+Low:=8.09
+Open:=8.96
+% Change:=-8.47%
+Change:=-0.76
+Volume:=275038
+High:=8.96
+
+(ngsx)
+Price Earnings Ratio:=null
+Last:=1.69
+Low:=1.65
+Open:=1.80
+% Change:=-2.87%
+Change:=-0.05
+Volume:=104500
+High:=1.80
+
+(nhi)
+Price Earnings Ratio:=null
+Last:=45.00
+Low:=44.86
+Open:=45.67
+% Change:=-0.86%
+Change:=-0.39
+Volume:=93519
+High:=45.67
+
+(nihd)
+Price Earnings Ratio:=Price Earnings Ratio: 17.73
+Last:=41.85
+Low:=41.42
+Open:=43.51
+% Change:=-3.82%
+Change:=-1.66
+Volume:=1962322
+High:=43.66
+
+(nktr)
+Price Earnings Ratio:=Price Earnings Ratio: N/A
+Last:=7.46
+Low:=7.38
+Open:=7.52
+% Change:=+0.40%
+Change:=+0.03
+Volume:=1107490
+High:=7.59
+
+(nor)
+Price Earnings Ratio:=Price Earnings Ratio: 10.87
+Last:=13.70
+Low:=13.64
+Open:=14.50
+% Change:=-5.12%
+Change:=-0.74
+Volume:=340505
+High:=14.50
+
+(nsit)
+Price Earnings Ratio:=Price Earnings Ratio: 10.74
+Last:=18.26
+Low:=18.23
+Open:=18.76
+% Change:=-2.20%
+Change:=-0.41
+Volume:=194138
+High:=18.85
+
+(nsr)
+Price Earnings Ratio:=Price Earnings Ratio: 16.60
+Last:=26.06
+Low:=25.95
+Open:=26.51
+% Change:=-1.51%
+Change:=-0.40
+Volume:=284709
+High:=26.70
+
+(ntap)
+Price Earnings Ratio:=Price Earnings Ratio: 23.41
+Last:=49.63
+Low:=49.52
+Open:=51.49
+% Change:=-3.12%
+Change:=-1.60
+Volume:=7017886
+High:=51.70
+
+(ntct)
+Price Earnings Ratio:=Price Earnings Ratio: 14.68
+Last:=15.56
+Low:=15.50
+Open:=15.70
+% Change:=-0.89%
+Change:=-0.14
+Volume:=677885
+High:=15.98
+
+(nty)
+Price Earnings Ratio:=null
+Last:=null
+Low:=null
+Open:=Symbol
+% Change:=null
+Change:=null
+Volume:=null
+High:=Exchange
+
+(nue)
+Price Earnings Ratio:=Price Earnings Ratio: 47.84
+Last:=39.23
+Low:=38.90
+Open:=39.89
+% Change:=-1.48%
+Change:=-0.59
+Volume:=3468954
+High:=40.20
+
+(nutr)
+Price Earnings Ratio:=null
+Last:=15.16
+Low:=15.08
+Open:=15.23
+% Change:=-0.72%
+Change:=-0.11
+Volume:=15592
+High:=15.29
+
+(nuva)
+Price Earnings Ratio:=Price Earnings Ratio: 19.94
+Last:=31.51
+Low:=31.36
+Open:=32.18
+% Change:=-1.68%
+Change:=-0.54
+Volume:=702472
+High:=32.48
+
+(nvax)
+Price Earnings Ratio:=Price Earnings Ratio: N/A
+Last:=1.97
+Low:=1.95
+Open:=1.97
+% Change:=-0.51%
+Change:=-0.01
+Volume:=358839
+High:=2.00
+
+(nvda)
+Price Earnings Ratio:=Price Earnings Ratio: 19.03
+Last:=14.08
+Low:=14.01
+Open:=14.72
+% Change:=-3.96%
+Change:=-0.58
+Volume:=25589383
+High:=14.81
+
+(nwbi)
+Price Earnings Ratio:=null
+Last:=12.85
+Low:=12.83
+Open:=12.95
+% Change:=-0.93%
+Change:=-0.12
+Volume:=654156
+High:=12.96
+
+(nwe)
+Price Earnings Ratio:=null
+Last:=33.69
+Low:=33.54
+Open:=34.11
+% Change:=-0.65%
+Change:=-0.22
+Volume:=312014
+High:=34.11
+
+(nwl)
+Price Earnings Ratio:=Price Earnings Ratio: 9.68
+Last:=15.19
+Low:=15.12
+Open:=15.40
+% Change:=-0.78%
+Change:=-0.12
+Volume:=2319888
+High:=15.46
+
+(nwsa)
+Price Earnings Ratio:=Price Earnings Ratio: 13.08
+Last:=15.44
+Low:=15.20
+Open:=15.96
+% Change:=-3.08%
+Change:=-0.49
+Volume:=75168188
+High:=16.13
+
+(nxst)
+Price Earnings Ratio:=null
+Last:=7.43
+Low:=7.43
+Open:=7.68
+% Change:=-3.51%
+Change:=-0.27
+Volume:=146365
+High:=8.11
+
+(nyny)
+Price Earnings Ratio:=null
+Last:=1.03
+Low:=1.02
+Open:=1.06
+% Change:=-0.96%
+Change:=-0.01
+Volume:=88231
+High:=1.07
+
+(nyt)
+Price Earnings Ratio:=Price Earnings Ratio: 12.01
+Last:=8.41
+Low:=8.34
+Open:=8.92
+% Change:=-5.40%
+Change:=-0.48
+Volume:=2966088
+High:=8.97
+
+(nyx)
+Price Earnings Ratio:=Price Earnings Ratio: 15.09
+Last:=33.81
+Low:=33.51
+Open:=33.82
+% Change:=-0.12%
+Change:=-0.04
+Volume:=2495728
+High:=34.18
+
+(oabc)
+Price Earnings Ratio:=null
+Last:=14.71
+Low:=14.60
+Open:=14.88
+% Change:=-1.01%
+Change:=-0.15
+Volume:=13716
+High:=14.88
+
+(ob)
+Price Earnings Ratio:=null
+Last:=13.21
+Low:=13.21
+Open:=13.50
+% Change:=-2.08%
+Change:=-0.28
+Volume:=50503
+High:=13.50
+
+(oclr)
+Price Earnings Ratio:=Price Earnings Ratio: 40.13
+Last:=6.02
+Low:=6.00
+Open:=6.25
+% Change:=-3.06%
+Change:=-0.19
+Volume:=720588
+High:=6.32
+
+(oeh)
+Price Earnings Ratio:=null
+Last:=9.74
+Low:=9.72
+Open:=10.35
+% Change:=-5.71%
+Change:=-0.59
+Volume:=1058026
+High:=10.35
+
+(ofix)
+Price Earnings Ratio:=Price Earnings Ratio: 21.18
+Last:=43.42
+Low:=42.84
+Open:=42.84
+% Change:=-0.48%
+Change:=-0.21
+Volume:=68851
+High:=44.00
+
+(oksb)
+Price Earnings Ratio:=Price Earnings Ratio: 16.93
+Last:=9.82
+Low:=9.81
+Open:=10.10
+% Change:=-2.58%
+Change:=-0.26
+Volume:=33100
+High:=10.10
+
+(ompi)
+Price Earnings Ratio:=Price Earnings Ratio: 17.93
+Last:=10.58
+Low:=10.50
+Open:=10.62
+% Change:=-0.47%
+Change:=-0.05
+Volume:=76404
+High:=10.70
+
+(onb)
+Price Earnings Ratio:=Price Earnings Ratio: 21.67
+Last:=10.62
+Low:=10.52
+Open:=10.92
+% Change:=-2.21%
+Change:=-0.24
+Volume:=442017
+High:=10.92
+
+(onxx)
+Price Earnings Ratio:=Price Earnings Ratio: 175.50
+Last:=35.10
+Low:=33.73
+Open:=34.30
+% Change:=+3.02%
+Change:=+1.03
+Volume:=950584
+High:=35.30
+
+(opxt)
+Price Earnings Ratio:=Price Earnings Ratio: N/A
+Last:=2.19
+Low:=2.16
+Open:=2.26
+% Change:=-2.23%
+Change:=-0.05
+Volume:=783412
+High:=2.26
+
+(opy)
+Price Earnings Ratio:=null
+Last:=26.00
+Low:=25.91
+Open:=26.87
+% Change:=-2.77%
+Change:=-0.74
+Volume:=29085
+High:=26.87
+
+(orb)
+Price Earnings Ratio:=Price Earnings Ratio: 19.45
+Last:=16.75
+Low:=16.63
+Open:=17.00
+% Change:=-1.47%
+Change:=-0.25
+Volume:=278731
+High:=17.03
+
+(orcc)
+Price Earnings Ratio:=Price Earnings Ratio: 22.33
+Last:=3.35
+Low:=3.32
+Open:=3.35
+% Change:=unch%
+Change:=unch
+Volume:=77300
+High:=3.39
+
+(orcl)
+Price Earnings Ratio:=Price Earnings Ratio: 14.44
+Last:=32.05
+Low:=31.86
+Open:=32.81
+% Change:=-1.96%
+Change:=-0.64
+Volume:=24210850
+High:=33.10
+
+(orly)
+Price Earnings Ratio:=Price Earnings Ratio: 19.97
+Last:=63.69
+Low:=63.35
+Open:=64.43
+% Change:=-1.01%
+Change:=-0.65
+Volume:=814394
+High:=64.60
+
+(osir)
+Price Earnings Ratio:=null
+Last:=8.23
+Low:=8.12
+Open:=8.18
+% Change:=+0.86%
+Change:=+0.07
+Volume:=65380
+High:=8.39
+
+(osur)
+Price Earnings Ratio:=Price Earnings Ratio: N/A
+Last:=9.70
+Low:=9.53
+Open:=9.75
+% Change:=-0.51%
+Change:=-0.05
+Volume:=217013
+High:=9.85
+
+(outd)
+Price Earnings Ratio:=null
+Last:=6.69
+Low:=6.68
+Open:=6.83
+% Change:=-2.05%
+Change:=-0.14
+Volume:=25100
+High:=6.95
+
+(oxm)
+Price Earnings Ratio:=Price Earnings Ratio: 17.07
+Last:=36.36
+Low:=36.06
+Open:=36.68
+% Change:=-0.71%
+Change:=-0.26
+Volume:=218651
+High:=37.22
+
+(oxps)
+Price Earnings Ratio:=Price Earnings Ratio: 16.39
+Last:=15.41
+Low:=15.24
+Open:=15.72
+% Change:=-1.60%
+Change:=-0.25
+Volume:=500600
+High:=15.76
+
+(oxy)
+Price Earnings Ratio:=Price Earnings Ratio: 16.35
+Last:=103.36
+Low:=103.20
+Open:=103.50
+% Change:=+0.38%
+Change:=+0.39
+Volume:=4236067
+High:=104.96
+
+(oyog)
+Price Earnings Ratio:=null
+Last:=101.40
+Low:=101.14
+Open:=106.10
+% Change:=-3.29%
+Change:=-3.45
+Volume:=27300
+High:=106.10
+
+(ozrk)
+Price Earnings Ratio:=null
+Last:=52.33
+Low:=51.66
+Open:=52.94
+% Change:=-1.64%
+Change:=-0.87
+Volume:=102200
+High:=52.95
+
+(pacr)
+Price Earnings Ratio:=Price Earnings Ratio: 18.92
+Last:=4.92
+Low:=4.90
+Open:=5.00
+% Change:=-1.60%
+Change:=-0.08
+Volume:=235545
+High:=5.03
+
+(pag)
+Price Earnings Ratio:=Price Earnings Ratio: 16.79
+Last:=23.00
+Low:=22.71
+Open:=23.40
+% Change:=-1.12%
+Change:=-0.26
+Volume:=492500
+High:=23.55
+
+(panl)
+Price Earnings Ratio:=Price Earnings Ratio: N/A
+Last:=30.43
+Low:=30.35
+Open:=32.14
+% Change:=-4.88%
+Change:=-1.56
+Volume:=700097
+High:=32.43
+
+(pay)
+Price Earnings Ratio:=Price Earnings Ratio: 25.64
+Last:=42.31
+Low:=42.13
+Open:=43.27
+% Change:=-1.54%
+Change:=-0.66
+Volume:=1152448
+High:=44.00
+
+(payx)
+Price Earnings Ratio:=Price Earnings Ratio: 21.49
+Last:=30.51
+Low:=30.38
+Open:=30.74
+% Change:=-0.62%
+Change:=-0.19
+Volume:=1523385
+High:=31.04
+
+(pbct)
+Price Earnings Ratio:=Price Earnings Ratio: 32.26
+Last:=13.55
+Low:=13.48
+Open:=13.85
+% Change:=-1.67%
+Change:=-0.23
+Volume:=9826173
+High:=13.86
+
+(pbh)
+Price Earnings Ratio:=Price Earnings Ratio: 16.46
+Last:=13.33
+Low:=13.16
+Open:=13.25
+% Change:=+0.60%
+Change:=+0.08
+Volume:=225297
+High:=13.37
+
+(pbi)
+Price Earnings Ratio:=Price Earnings Ratio: 9.95
+Last:=22.09
+Low:=22.07
+Open:=22.41
+% Change:=-1.12%
+Change:=-0.25
+Volume:=2766189
+High:=22.65
+
+(pbny)
+Price Earnings Ratio:=null
+Last:=8.36
+Low:=8.35
+Open:=8.50
+% Change:=-1.53%
+Change:=-0.13
+Volume:=48859
+High:=8.51
+
+(pby)
+Price Earnings Ratio:=Price Earnings Ratio: 16.49
+Last:=11.21
+Low:=10.98
+Open:=11.16
+% Change:=+0.90%
+Change:=+0.10
+Volume:=796883
+High:=11.24
+
+(pcar)
+Price Earnings Ratio:=Price Earnings Ratio: 30.88
+Last:=49.10
+Low:=48.94
+Open:=50.37
+% Change:=-2.31%
+Change:=-1.16
+Volume:=3490225
+High:=50.79
+
+(pccc)
+Price Earnings Ratio:=Price Earnings Ratio: 8.65
+Last:=8.04
+Low:=8.03
+Open:=8.28
+% Change:=-1.71%
+Change:=-0.14
+Volume:=38078
+High:=8.28
+
+(pch)
+Price Earnings Ratio:=Price Earnings Ratio: 30.42
+Last:=34.98
+Low:=34.70
+Open:=36.10
+% Change:=-3.21%
+Change:=-1.16
+Volume:=328983
+High:=36.35
+
+(pcln)
+Price Earnings Ratio:=Price Earnings Ratio: 36.24
+Last:=519.72
+Low:=518.50
+Open:=534.77
+% Change:=-2.36%
+Change:=-12.55
+Volume:=670034
+High:=537.69
+
+(pcs)
+Price Earnings Ratio:=Price Earnings Ratio: 21.29
+Last:=16.82
+Low:=16.63
+Open:=17.18
+% Change:=-1.58%
+Change:=-0.27
+Volume:=4078866
+High:=17.19
+
+(pdm)
+Price Earnings Ratio:=null
+Last:=20.44
+Low:=20.33
+Open:=20.71
+% Change:=-0.92%
+Change:=-0.19
+Volume:=772700
+High:=20.74
+
+(peb)
+Price Earnings Ratio:=null
+Last:=19.99
+Low:=19.89
+Open:=20.21
+% Change:=-0.99%
+Change:=-0.20
+Volume:=485827
+High:=20.25
+
+(peet)
+Price Earnings Ratio:=Price Earnings Ratio: 39.96
+Last:=59.14
+Low:=58.82
+Open:=60.35
+% Change:=-2.00%
+Change:=-1.21
+Volume:=167580
+High:=60.79
+
+(pei)
+Price Earnings Ratio:=Price Earnings Ratio: 9.19
+Last:=15.72
+Low:=15.51
+Open:=16.04
+% Change:=-1.26%
+Change:=-0.20
+Volume:=328987
+High:=16.04
+
+(petm)
+Price Earnings Ratio:=Price Earnings Ratio: 20.67
+Last:=44.86
+Low:=44.60
+Open:=45.52
+% Change:=-1.71%
+Change:=-0.78
+Volume:=867001
+High:=45.88
+
+(pfcb)
+Price Earnings Ratio:=Price Earnings Ratio: 19.08
+Last:=40.07
+Low:=39.99
+Open:=41.48
+% Change:=-2.55%
+Change:=-1.05
+Volume:=401234
+High:=41.51
+
+(pfe)
+Price Earnings Ratio:=Price Earnings Ratio: 8.90
+Last:=19.84
+Low:=19.80
+Open:=19.98
+% Change:=-0.75%
+Change:=-0.15
+Volume:=26648904
+High:=20.01
+
+(pg)
+Price Earnings Ratio:=Price Earnings Ratio: 16.90
+Last:=64.55
+Low:=64.36
+Open:=64.55
+% Change:=-0.14%
+Change:=-0.09
+Volume:=5965583
+High:=64.80
+
+(pgi)
+Price Earnings Ratio:=Price Earnings Ratio: 13.27
+Last:=7.96
+Low:=7.89
+Open:=8.17
+% Change:=-2.57%
+Change:=-0.21
+Volume:=91086
+High:=8.24
+
+(pgn)
+Price Earnings Ratio:=Price Earnings Ratio: 15.89
+Last:=47.67
+Low:=47.57
+Open:=47.87
+% Change:=-0.58%
+Change:=-0.28
+Volume:=901749
+High:=48.14
+
+(pgnx)
+Price Earnings Ratio:=Price Earnings Ratio: N/A
+Last:=7.49
+Low:=7.39
+Open:=7.71
+% Change:=-2.60%
+Change:=-0.20
+Volume:=32807
+High:=7.82
+
+(pgti)
+Price Earnings Ratio:=null
+Last:=1.82
+Low:=1.81
+Open:=1.81
+% Change:=+0.55%
+Change:=+0.01
+Volume:=11547
+High:=1.84
+
+(phh)
+Price Earnings Ratio:=null
+Last:=19.82
+Low:=19.68
+Open:=20.15
+% Change:=-1.44%
+Change:=-0.29
+Volume:=527000
+High:=20.27
+
+(phiik)
+Price Earnings Ratio:=null
+Last:=21.88
+Low:=21.68
+Open:=22.06
+% Change:=-0.86%
+Change:=-0.19
+Volume:=10981
+High:=22.21
+
+(phm)
+Price Earnings Ratio:=Price Earnings Ratio: N/A
+Last:=7.09
+Low:=7.04
+Open:=7.27
+% Change:=-2.07%
+Change:=-0.15
+Volume:=7459135
+High:=7.37
+
+(pike)
+Price Earnings Ratio:=Price Earnings Ratio: N/A
+Last:=9.25
+Low:=9.25
+Open:=9.34
+% Change:=-1.18%
+Change:=-0.11
+Volume:=16700
+High:=9.36
+
+(pke)
+Price Earnings Ratio:=null
+Last:=27.60
+Low:=27.43
+Open:=28.43
+% Change:=-2.89%
+Change:=-0.82
+Volume:=53317
+High:=28.46
+
+(pki)
+Price Earnings Ratio:=Price Earnings Ratio: 17.83
+Last:=26.21
+Low:=26.06
+Open:=26.52
+% Change:=-0.98%
+Change:=-0.26
+Volume:=615998
+High:=26.63
+
+(pl)
+Price Earnings Ratio:=Price Earnings Ratio: 8.47
+Last:=22.62
+Low:=22.60
+Open:=23.02
+% Change:=+1.30%
+Change:=+0.29
+Volume:=1260264
+High:=23.23
+
+(plce)
+Price Earnings Ratio:=Price Earnings Ratio: 14.70
+Last:=46.45
+Low:=45.89
+Open:=47.17
+% Change:=-1.11%
+Change:=-0.52
+Volume:=270675
+High:=47.49
+
+(plcm)
+Price Earnings Ratio:=Price Earnings Ratio: 36.18
+Last:=30.57
+Low:=30.51
+Open:=31.15
+% Change:=-1.42%
+Change:=-0.44
+Volume:=1466501
+High:=31.54
+
+(plfe)
+Price Earnings Ratio:=null
+Last:=11.02
+Low:=10.97
+Open:=11.29
+% Change:=-2.48%
+Change:=-0.28
+Volume:=52443
+High:=11.38
+
+(plpc)
+Price Earnings Ratio:=null
+Last:=69.34
+Low:=69.34
+Open:=71.99
+% Change:=-1.98%
+Change:=-1.40
+Volume:=10800
+High:=72.01
+
+(pm)
+Price Earnings Ratio:=Price Earnings Ratio: 16.48
+Last:=66.42
+Low:=66.23
+Open:=66.58
+% Change:=-0.63%
+Change:=-0.42
+Volume:=4532385
+High:=66.90
+
+(pnm)
+Price Earnings Ratio:=Price Earnings Ratio: 19.58
+Last:=16.64
+Low:=16.60
+Open:=16.85
+% Change:=-1.30%
+Change:=-0.22
+Volume:=675084
+High:=16.90
+
+(pnra)
+Price Earnings Ratio:=Price Earnings Ratio: 33.49
+Last:=130.60
+Low:=129.00
+Open:=132.14
+% Change:=-0.87%
+Change:=-1.15
+Volume:=395880
+High:=133.43
+
+(pnw)
+Price Earnings Ratio:=Price Earnings Ratio: 15.51
+Last:=43.89
+Low:=43.83
+Open:=44.37
+% Change:=-1.10%
+Change:=-0.49
+Volume:=2219647
+High:=44.56
+
+(pnx)
+Price Earnings Ratio:=null
+Last:=2.42
+Low:=2.39
+Open:=2.41
+% Change:=-0.82%
+Change:=-0.02
+Volume:=191400
+High:=2.47
+
+(podd)
+Price Earnings Ratio:=Price Earnings Ratio: N/A
+Last:=21.87
+Low:=21.80
+Open:=22.46
+% Change:=-2.67%
+Change:=-0.60
+Volume:=166593
+High:=22.61
+
+(powi)
+Price Earnings Ratio:=Price Earnings Ratio: 18.96
+Last:=36.41
+Low:=36.24
+Open:=36.77
+% Change:=-1.65%
+Change:=-0.61
+Volume:=334346
+High:=37.61
+
+(ppc)
+Price Earnings Ratio:=Price Earnings Ratio: N/A
+Last:=5.09
+Low:=4.98
+Open:=5.06
+% Change:=+0.59%
+Change:=+0.03
+Volume:=946300
+High:=5.13
+
+(ppd)
+Price Earnings Ratio:=null
+Last:=66.49
+Low:=66.47
+Open:=66.48
+% Change:=+0.03%
+Change:=+0.02
+Volume:=369400
+High:=66.50
+
+(ppg)
+Price Earnings Ratio:=Price Earnings Ratio: 15.22
+Last:=88.45
+Low:=88.30
+Open:=89.98
+% Change:=-1.65%
+Change:=-1.48
+Volume:=1697887
+High:=90.24
+
+(pq)
+Price Earnings Ratio:=Price Earnings Ratio: 30.32
+Last:=6.67
+Low:=6.67
+Open:=7.04
+% Change:=-4.44%
+Change:=-0.31
+Volume:=953017
+High:=7.16
+
+(praa)
+Price Earnings Ratio:=Price Earnings Ratio: 16.62
+Last:=79.13
+Low:=78.10
+Open:=82.29
+% Change:=-3.79%
+Change:=-3.12
+Volume:=165739
+High:=82.90
+
+(prgo)
+Price Earnings Ratio:=Price Earnings Ratio: 25.04
+Last:=92.63
+Low:=92.12
+Open:=92.65
+% Change:=+0.54%
+Change:=+0.50
+Volume:=572123
+High:=93.50
+
+(prim)
+Price Earnings Ratio:=Price Earnings Ratio: N/A
+Last:=12.88
+Low:=12.60
+Open:=13.54
+% Change:=-4.31%
+Change:=-0.58
+Volume:=148338
+High:=13.54
+
+(prm)
+Price Earnings Ratio:=null
+Last:=7.12
+Low:=7.08
+Open:=7.08
+% Change:=+0.42%
+Change:=+0.03
+Volume:=107600
+High:=7.12
+
+(prs)
+Price Earnings Ratio:=null
+Last:=5.95
+Low:=5.94
+Open:=6.02
+% Change:=-1.16%
+Change:=-0.07
+Volume:=27695
+High:=6.02
+
+(prsp)
+Price Earnings Ratio:=Price Earnings Ratio: 16.04
+Last:=44.75
+Low:=44.29
+Open:=45.45
+% Change:=-1.41%
+Change:=-0.64
+Volume:=273437
+High:=45.66
+
+(prx)
+Price Earnings Ratio:=Price Earnings Ratio: 11.02
+Last:=34.60
+Low:=34.19
+Open:=34.32
+% Change:=+0.96%
+Change:=+0.33
+Volume:=236900
+High:=34.64
+
+(pss)
+Price Earnings Ratio:=Price Earnings Ratio: 10.65
+Last:=14.16
+Low:=14.02
+Open:=14.54
+% Change:=-2.07%
+Change:=-0.30
+Volume:=987092
+High:=14.67
+
+(ptv)
+Price Earnings Ratio:=null
+Last:=null
+Low:=null
+Open:=Symbol
+% Change:=null
+Change:=null
+Volume:=null
+High:=Exchange
+
+(pva)
+Price Earnings Ratio:=Price Earnings Ratio: N/A
+Last:=12.48
+Low:=12.46
+Open:=12.88
+% Change:=-2.50%
+Change:=-0.32
+Volume:=907997
+High:=13.08
+
+(pvtb)
+Price Earnings Ratio:=Price Earnings Ratio: 49.26
+Last:=13.30
+Low:=13.20
+Open:=13.72
+% Change:=-2.49%
+Change:=-0.34
+Volume:=325400
+High:=13.72
+
+(pzn)
+Price Earnings Ratio:=null
+Last:=5.85
+Low:=5.84
+Open:=5.88
+% Change:=-0.68%
+Change:=-0.04
+Volume:=24230
+High:=5.92
+
+(pzz)
+Price Earnings Ratio:=null
+Last:=null
+Low:=null
+Open:=Symbol
+% Change:=null
+Change:=null
+Volume:=null
+High:=Exchange
+
+(pzza)
+Price Earnings Ratio:=Price Earnings Ratio: 16.62
+Last:=31.58
+Low:=31.44
+Open:=32.00
+% Change:=-1.00%
+Change:=-0.32
+Volume:=170400
+High:=32.00
+
+(qcom)
+Price Earnings Ratio:=Price Earnings Ratio: 18.74
+Last:=54.92
+Low:=54.29
+Open:=56.14
+% Change:=-2.09%
+Change:=-1.17
+Volume:=16753439
+High:=56.44
+
+(qcor)
+Price Earnings Ratio:=Price Earnings Ratio: 42.14
+Last:=26.97
+Low:=26.60
+Open:=27.58
+% Change:=-1.75%
+Change:=-0.48
+Volume:=773569
+High:=27.75
+
+(qdel)
+Price Earnings Ratio:=Price Earnings Ratio: 71.27
+Last:=15.68
+Low:=15.62
+Open:=15.78
+% Change:=-0.88%
+Change:=-0.14
+Volume:=77640
+High:=15.97
+
+(qgen)
+Price Earnings Ratio:=Price Earnings Ratio: 20.74
+Last:=18.25
+Low:=18.12
+Open:=18.38
+% Change:=+0.11%
+Change:=+0.02
+Volume:=1178367
+High:=18.46
+
+(qlty)
+Price Earnings Ratio:=Price Earnings Ratio: 33.47
+Last:=12.72
+Low:=12.47
+Open:=13.05
+% Change:=-2.53%
+Change:=-0.33
+Volume:=41850
+High:=13.17
+
+(r)
+Price Earnings Ratio:=Price Earnings Ratio: 23.11
+Last:=56.61
+Low:=56.13
+Open:=57.08
+% Change:=-0.37%
+Change:=-0.21
+Volume:=420899
+High:=57.44
+
+(rad)
+Price Earnings Ratio:=Price Earnings Ratio: N/A
+Last:=1.28
+Low:=1.27
+Open:=1.29
+% Change:=-0.78%
+Change:=-0.01
+Volume:=3294291
+High:=1.29
+
+(rah)
+Price Earnings Ratio:=Price Earnings Ratio: 17.12
+Last:=86.62
+Low:=86.40
+Open:=86.40
+% Change:=-0.16%
+Change:=-0.14
+Volume:=1451890
+High:=87.12
+
+(ras)
+Price Earnings Ratio:=null
+Last:=6.04
+Low:=6.00
+Open:=6.45
+% Change:=-6.21%
+Change:=-0.40
+Volume:=1160662
+High:=6.50
+
+(rden)
+Price Earnings Ratio:=Price Earnings Ratio: 19.65
+Last:=30.06
+Low:=29.73
+Open:=30.22
+% Change:=-0.43%
+Change:=-0.13
+Volume:=133763
+High:=30.32
+
+(recn)
+Price Earnings Ratio:=Price Earnings Ratio: 55.36
+Last:=12.18
+Low:=12.02
+Open:=12.48
+% Change:=-3.03%
+Change:=-0.38
+Volume:=403873
+High:=12.65
+
+(reg)
+Price Earnings Ratio:=Price Earnings Ratio: 20.10
+Last:=46.22
+Low:=45.96
+Open:=46.74
+% Change:=-0.69%
+Change:=-0.32
+Volume:=1114007
+High:=46.85
+
+(ren)
+Price Earnings Ratio:=Price Earnings Ratio: N/A
+Last:=16.47
+Low:=16.41
+Open:=16.68
+% Change:=-0.60%
+Change:=-0.10
+Volume:=387040
+High:=17.04
+
+(rev)
+Price Earnings Ratio:=Price Earnings Ratio: 15.35
+Last:=19.19
+Low:=18.84
+Open:=18.98
+% Change:=+2.13%
+Change:=+0.40
+Volume:=244564
+High:=19.30
+
+(revu)
+Price Earnings Ratio:=null
+Last:=0.23
+Low:=0.22
+Open:=0.23
+% Change:=-0.39%
+Change:=-0.00
+Volume:=71020
+High:=0.24
+
+(rfmd)
+Price Earnings Ratio:=Price Earnings Ratio: 9.69
+Last:=6.01
+Low:=5.95
+Open:=6.21
+% Change:=-2.44%
+Change:=-0.15
+Volume:=4950400
+High:=6.33
+
+(rgr)
+Price Earnings Ratio:=Price Earnings Ratio: 15.78
+Last:=23.04
+Low:=22.89
+Open:=23.55
+% Change:=-1.87%
+Change:=-0.44
+Volume:=115697
+High:=23.58
+
+(rhi)
+Price Earnings Ratio:=Price Earnings Ratio: 44.42
+Last:=25.32
+Low:=25.28
+Open:=25.87
+% Change:=-1.86%
+Change:=-0.48
+Volume:=1438854
+High:=25.96
+
+(rigl)
+Price Earnings Ratio:=Price Earnings Ratio: 13.38
+Last:=9.90
+Low:=9.75
+Open:=9.92
+% Change:=+0.10%
+Change:=+0.01
+Volume:=449369
+High:=10.07
+
+(rimm)
+Price Earnings Ratio:=Price Earnings Ratio: 4.32
+Last:=27.27
+Low:=27.17
+Open:=28.41
+% Change:=-3.13%
+Change:=-0.88
+Volume:=18874439
+High:=28.41
+
+(rjet)
+Price Earnings Ratio:=Price Earnings Ratio: 29.82
+Last:=5.07
+Low:=5.06
+Open:=5.28
+% Change:=-3.80%
+Change:=-0.20
+Volume:=331299
+High:=5.28
+
+(rkt)
+Price Earnings Ratio:=Price Earnings Ratio: 12.01
+Last:=61.25
+Low:=60.77
+Open:=62.28
+% Change:=-1.37%
+Change:=-0.85
+Volume:=645758
+High:=62.67
+
+(rli)
+Price Earnings Ratio:=Price Earnings Ratio: 11.43
+Last:=62.62
+Low:=62.39
+Open:=63.22
+% Change:=-0.81%
+Change:=-0.51
+Volume:=76784
+High:=63.27
+
+(rloc)
+Price Earnings Ratio:=Price Earnings Ratio: N/A
+Last:=19.40
+Low:=19.30
+Open:=19.90
+% Change:=-2.27%
+Change:=-0.45
+Volume:=294100
+High:=20.05
+
+(rnow)
+Price Earnings Ratio:=Price Earnings Ratio: 57.92
+Last:=29.54
+Low:=29.50
+Open:=30.26
+% Change:=-2.22%
+Change:=-0.67
+Volume:=114410
+High:=30.65
+
+(rnr)
+Price Earnings Ratio:=Price Earnings Ratio: 24.46
+Last:=70.21
+Low:=69.99
+Open:=70.46
+% Change:=-0.40%
+Change:=-0.28
+Volume:=338759
+High:=70.80
+
+(rnst)
+Price Earnings Ratio:=null
+Last:=15.01
+Low:=14.90
+Open:=15.11
+% Change:=-0.79%
+Change:=-0.12
+Volume:=44079
+High:=15.23
+
+(roc)
+Price Earnings Ratio:=Price Earnings Ratio: 22.66
+Last:=56.88
+Low:=56.45
+Open:=58.43
+% Change:=-2.23%
+Change:=-1.30
+Volume:=776408
+High:=58.53
+
+(rocm)
+Price Earnings Ratio:=null
+Last:=9.08
+Low:=9.00
+Open:=9.07
+% Change:=+0.22%
+Change:=+0.02
+Volume:=60054
+High:=9.34
+
+(rodm)
+Price Earnings Ratio:=null
+Last:=1.51
+Low:=1.46
+Open:=1.50
+% Change:=+2.03%
+Change:=+0.03
+Volume:=45660
+High:=1.54
+
+(roiak)
+Price Earnings Ratio:=null
+Last:=1.64
+Low:=1.63
+Open:=1.72
+% Change:=-5.20%
+Change:=-0.09
+Volume:=146609
+High:=1.74
+
+(rok)
+Price Earnings Ratio:=Price Earnings Ratio: 20.61
+Last:=80.79
+Low:=80.26
+Open:=83.81
+% Change:=-3.35%
+Change:=-2.80
+Volume:=1796505
+High:=84.02
+
+(rol)
+Price Earnings Ratio:=null
+Last:=20.63
+Low:=20.58
+Open:=20.99
+% Change:=-1.53%
+Change:=-0.32
+Volume:=214054
+High:=21.24
+
+(roll)
+Price Earnings Ratio:=Price Earnings Ratio: 23.01
+Last:=38.65
+Low:=38.51
+Open:=39.80
+% Change:=-2.23%
+Change:=-0.88
+Volume:=75868
+High:=39.80
+
+(rop)
+Price Earnings Ratio:=Price Earnings Ratio: 22.09
+Last:=81.06
+Low:=80.82
+Open:=82.23
+% Change:=-1.27%
+Change:=-1.04
+Volume:=348120
+High:=83.02
+
+(rose)
+Price Earnings Ratio:=Price Earnings Ratio: 87.00
+Last:=52.20
+Low:=51.44
+Open:=52.74
+% Change:=-1.01%
+Change:=-0.53
+Volume:=885013
+High:=53.37
+
+(rost)
+Price Earnings Ratio:=Price Earnings Ratio: 15.74
+Last:=77.77
+Low:=77.47
+Open:=78.76
+% Change:=-0.96%
+Change:=-0.75
+Volume:=791006
+High:=79.19
+
+(rt)
+Price Earnings Ratio:=Price Earnings Ratio: 13.34
+Last:=11.07
+Low:=10.88
+Open:=11.07
+% Change:=+0.54%
+Change:=+0.06
+Volume:=936645
+High:=11.16
+
+(rtec)
+Price Earnings Ratio:=Price Earnings Ratio: 8.71
+Last:=10.37
+Low:=10.19
+Open:=10.45
+% Change:=-0.67%
+Change:=-0.07
+Volume:=226250
+High:=10.52
+
+(rtix)
+Price Earnings Ratio:=Price Earnings Ratio: 25.83
+Last:=3.10
+Low:=3.06
+Open:=3.15
+% Change:=-1.59%
+Change:=-0.05
+Volume:=617795
+High:=3.15
+
+(rue)
+Price Earnings Ratio:=Price Earnings Ratio: 24.86
+Last:=34.06
+Low:=34.03
+Open:=35.76
+% Change:=-3.65%
+Change:=-1.29
+Volume:=196900
+High:=35.76
+
+(rwt)
+Price Earnings Ratio:=Price Earnings Ratio: 10.65
+Last:=14.91
+Low:=14.89
+Open:=15.14
+% Change:=-1.32%
+Change:=-0.20
+Volume:=396408
+High:=15.15
+
+(safm)
+Price Earnings Ratio:=Price Earnings Ratio: 20.74
+Last:=45.62
+Low:=45.39
+Open:=46.51
+% Change:=-1.43%
+Change:=-0.66
+Volume:=242894
+High:=47.05
+
+(saft)
+Price Earnings Ratio:=null
+Last:=41.76
+Low:=41.59
+Open:=41.98
+% Change:=-0.36%
+Change:=-0.15
+Volume:=40600
+High:=42.14
+
+(sam)
+Price Earnings Ratio:=Price Earnings Ratio: 26.72
+Last:=90.04
+Low:=89.57
+Open:=90.64
+% Change:=-0.79%
+Change:=-0.72
+Volume:=70267
+High:=91.25
+
+(sanm)
+Price Earnings Ratio:=Price Earnings Ratio: 6.00
+Last:=9.18
+Low:=9.16
+Open:=9.48
+% Change:=-2.96%
+Change:=-0.28
+Volume:=460480
+High:=9.54
+
+(sbib)
+Price Earnings Ratio:=null
+Last:=7.69
+Low:=7.66
+Open:=7.85
+% Change:=-1.54%
+Change:=-0.12
+Volume:=735373
+High:=7.89
+
+(sbp)
+Price Earnings Ratio:=null
+Last:=null
+Low:=null
+Open:=Symbol
+% Change:=null
+Change:=null
+Volume:=null
+High:=Exchange
+
+(sbsi)
+Price Earnings Ratio:=null
+Last:=20.42
+Low:=20.36
+Open:=20.50
+% Change:=-0.39%
+Change:=-0.08
+Volume:=19788
+High:=20.60
+
+(sbux)
+Price Earnings Ratio:=Price Earnings Ratio: 26.99
+Last:=39.13
+Low:=38.90
+Open:=39.55
+% Change:=-1.14%
+Change:=-0.45
+Volume:=5410749
+High:=39.82
+
+(scl)
+Price Earnings Ratio:=null
+Last:=73.10
+Low:=72.98
+Open:=74.99
+% Change:=-2.27%
+Change:=-1.70
+Volume:=28056
+High:=74.99
+
+(scmp)
+Price Earnings Ratio:=null
+Last:=4.10
+Low:=4.10
+Open:=4.11
+% Change:=-1.20%
+Change:=-0.05
+Volume:=6600
+High:=4.14
+
+(scs)
+Price Earnings Ratio:=Price Earnings Ratio: 23.38
+Last:=10.99
+Low:=10.89
+Open:=11.20
+% Change:=-1.52%
+Change:=-0.17
+Volume:=835938
+High:=11.25
+
+(scvl)
+Price Earnings Ratio:=Price Earnings Ratio: 15.89
+Last:=32.73
+Low:=32.54
+Open:=32.54
+% Change:=-0.18%
+Change:=-0.06
+Volume:=53500
+High:=33.03
+
+(seb)
+Price Earnings Ratio:=null
+Last:=2458.00
+Low:=2446.08
+Open:=2467.06
+% Change:=-0.73%
+Change:=-18.00
+Volume:=906
+High:=2470.00
+
+(see)
+Price Earnings Ratio:=Price Earnings Ratio: 14.34
+Last:=23.09
+Low:=23.02
+Open:=23.51
+% Change:=-1.87%
+Change:=-0.44
+Volume:=1175829
+High:=23.54
+
+(seno)
+Price Earnings Ratio:=null
+Last:=null
+Low:=null
+Open:=Symbol
+% Change:=null
+Change:=null
+Volume:=null
+High:=Exchange
+
+(sf)
+Price Earnings Ratio:=Price Earnings Ratio: 16.71
+Last:=36.76
+Low:=36.63
+Open:=37.70
+% Change:=-2.03%
+Change:=-0.76
+Volume:=543481
+High:=37.74
+
+(sfsf)
+Price Earnings Ratio:=Price Earnings Ratio: 707.25
+Last:=28.29
+Low:=27.93
+Open:=29.35
+% Change:=-3.32%
+Change:=-0.97
+Volume:=1349477
+High:=29.48
+
+(shld)
+Price Earnings Ratio:=Price Earnings Ratio: 674.00
+Last:=74.14
+Low:=73.81
+Open:=75.36
+% Change:=-1.49%
+Change:=-1.12
+Volume:=223289
+High:=76.83
+
+(shoo)
+Price Earnings Ratio:=Price Earnings Ratio: 21.90
+Last:=40.30
+Low:=40.00
+Open:=40.38
+% Change:=-0.17%
+Change:=-0.07
+Volume:=337703
+High:=40.71
+
+(shw)
+Price Earnings Ratio:=Price Earnings Ratio: 18.27
+Last:=83.12
+Low:=83.06
+Open:=84.00
+% Change:=-0.61%
+Change:=-0.51
+Volume:=912869
+High:=84.69
+
+(sial)
+Price Earnings Ratio:=Price Earnings Ratio: 21.41
+Last:=73.01
+Low:=72.66
+Open:=73.95
+% Change:=-1.07%
+Change:=-0.79
+Volume:=464457
+High:=74.32
+
+(simg)
+Price Earnings Ratio:=Price Earnings Ratio: 20.74
+Last:=6.43
+Low:=6.29
+Open:=6.44
+% Change:=+0.16%
+Change:=+0.01
+Volume:=792841
+High:=6.57
+
+(siro)
+Price Earnings Ratio:=Price Earnings Ratio: 20.69
+Last:=54.62
+Low:=54.57
+Open:=55.48
+% Change:=-1.41%
+Change:=-0.78
+Volume:=127700
+High:=56.18
+
+(sivb)
+Price Earnings Ratio:=Price Earnings Ratio: 22.26
+Last:=60.10
+Low:=59.99
+Open:=60.72
+% Change:=-0.38%
+Change:=-0.23
+Volume:=618500
+High:=60.90
+
+(sji)
+Price Earnings Ratio:=Price Earnings Ratio: 19.27
+Last:=53.75
+Low:=53.67
+Open:=54.55
+% Change:=-1.10%
+Change:=-0.60
+Volume:=93514
+High:=54.62
+
+(sjm)
+Price Earnings Ratio:=Price Earnings Ratio: 16.20
+Last:=75.96
+Low:=75.77
+Open:=76.54
+% Change:=-0.63%
+Change:=-0.48
+Volume:=431368
+High:=76.86
+
+(sjw)
+Price Earnings Ratio:=null
+Last:=23.95
+Low:=23.88
+Open:=24.23
+% Change:=-1.20%
+Change:=-0.29
+Volume:=38200
+High:=24.38
+
+(slh)
+Price Earnings Ratio:=Price Earnings Ratio: 24.92
+Last:=58.80
+Low:=58.41
+Open:=59.63
+% Change:=-1.03%
+Change:=-0.61
+Volume:=223995
+High:=59.87
+
+(slrc)
+Price Earnings Ratio:=null
+Last:=24.42
+Low:=24.34
+Open:=24.77
+% Change:=-1.53%
+Change:=-0.38
+Volume:=212042
+High:=24.83
+
+(smg)
+Price Earnings Ratio:=Price Earnings Ratio: 14.29
+Last:=50.74
+Low:=50.62
+Open:=51.54
+% Change:=-1.59%
+Change:=-0.82
+Volume:=537245
+High:=52.01
+
+(smod)
+Price Earnings Ratio:=Price Earnings Ratio: 13.73
+Last:=9.20
+Low:=9.16
+Open:=9.18
+% Change:=+0.22%
+Change:=+0.02
+Volume:=1677122
+High:=9.21
+
+(smrt)
+Price Earnings Ratio:=Price Earnings Ratio: 12.10
+Last:=9.92
+Low:=9.80
+Open:=10.11
+% Change:=-1.78%
+Change:=-0.18
+Volume:=207137
+High:=10.27
+
+(smsi)
+Price Earnings Ratio:=Price Earnings Ratio: 5.93
+Last:=3.97
+Low:=3.90
+Open:=3.90
+% Change:=+2.32%
+Change:=+0.09
+Volume:=346637
+High:=4.05
+
+(sndk)
+Price Earnings Ratio:=Price Earnings Ratio: 8.79
+Last:=41.16
+Low:=41.00
+Open:=42.00
+% Change:=-1.72%
+Change:=-0.72
+Volume:=4552667
+High:=42.75
+
+(snh)
+Price Earnings Ratio:=Price Earnings Ratio: 13.61
+Last:=23.41
+Low:=23.39
+Open:=23.52
+% Change:=-0.38%
+Change:=-0.09
+Volume:=1275265
+High:=23.64
+
+(solr)
+Price Earnings Ratio:=Price Earnings Ratio: 12.04
+Last:=15.17
+Low:=15.00
+Open:=15.15
+% Change:=+0.13%
+Change:=+0.02
+Volume:=4069253
+High:=15.49
+
+(sonc)
+Price Earnings Ratio:=Price Earnings Ratio: 18.74
+Last:=10.87
+Low:=10.65
+Open:=10.79
+% Change:=+1.12%
+Change:=+0.12
+Volume:=842108
+High:=10.92
+
+(sone)
+Price Earnings Ratio:=Price Earnings Ratio: N/A
+Last:=7.05
+Low:=7.04
+Open:=7.23
+% Change:=-2.49%
+Change:=-0.18
+Volume:=203275
+High:=7.34
+
+(spec)
+Price Earnings Ratio:=null
+Last:=null
+Low:=null
+Open:=null
+% Change:=null
+Change:=null
+Volume:=null
+High:=null
+
+(spls)
+Price Earnings Ratio:=Price Earnings Ratio: 11.88
+Last:=15.20
+Low:=15.10
+Open:=15.50
+% Change:=-1.87%
+Change:=-0.29
+Volume:=8740392
+High:=15.52
+
+(spmd)
+Price Earnings Ratio:=null
+Last:=3.84
+Low:=3.75
+Open:=3.90
+% Change:=-0.78%
+Change:=-0.03
+Volume:=81397
+High:=3.92
+
+(spn)
+Price Earnings Ratio:=Price Earnings Ratio: 26.21
+Last:=38.26
+Low:=38.20
+Open:=39.63
+% Change:=-3.53%
+Change:=-1.40
+Volume:=886500
+High:=39.82
+
+(sptn)
+Price Earnings Ratio:=Price Earnings Ratio: 14.72
+Last:=20.17
+Low:=20.16
+Open:=20.55
+% Change:=-1.61%
+Change:=-0.33
+Volume:=83982
+High:=20.55
+
+(spw)
+Price Earnings Ratio:=Price Earnings Ratio: 21.64
+Last:=80.71
+Low:=80.58
+Open:=82.74
+% Change:=-2.13%
+Change:=-1.76
+Volume:=318701
+High:=83.43
+
+(srcl)
+Price Earnings Ratio:=Price Earnings Ratio: 34.05
+Last:=89.90
+Low:=89.74
+Open:=91.66
+% Change:=-1.74%
+Change:=-1.59
+Volume:=236268
+High:=92.01
+
+(srdx)
+Price Earnings Ratio:=Price Earnings Ratio: 65.17
+Last:=11.73
+Low:=11.67
+Open:=12.08
+% Change:=-2.74%
+Change:=-0.33
+Volume:=48600
+High:=12.20
+
+(sri)
+Price Earnings Ratio:=Price Earnings Ratio: 29.48
+Last:=14.74
+Low:=14.73
+Open:=15.16
+% Change:=-2.12%
+Change:=-0.32
+Volume:=63201
+High:=15.16
+
+(srsl)
+Price Earnings Ratio:=Price Earnings Ratio: 78.17
+Last:=9.38
+Low:=9.35
+Open:=9.92
+% Change:=-5.44%
+Change:=-0.54
+Volume:=94600
+High:=10.14
+
+(srx)
+Price Earnings Ratio:=Price Earnings Ratio: 21.82
+Last:=31.20
+Low:=31.20
+Open:=31.21
+% Change:=-0.06%
+Change:=-0.02
+Volume:=881000
+High:=31.26
+
+(srz)
+Price Earnings Ratio:=null
+Last:=9.54
+Low:=9.40
+Open:=9.69
+% Change:=-0.73%
+Change:=-0.07
+Volume:=706400
+High:=9.69
+
+(ssp)
+Price Earnings Ratio:=Price Earnings Ratio: 24.31
+Last:=8.75
+Low:=8.74
+Open:=9.29
+% Change:=-6.02%
+Change:=-0.56
+Volume:=466631
+High:=9.29
+
+(stba)
+Price Earnings Ratio:=null
+Last:=17.50
+Low:=17.45
+Open:=18.15
+% Change:=-3.10%
+Change:=-0.56
+Volume:=62957
+High:=18.15
+
+(stfc)
+Price Earnings Ratio:=Price Earnings Ratio: 42.78
+Last:=17.11
+Low:=17.04
+Open:=17.17
+% Change:=-0.41%
+Change:=-0.07
+Volume:=20690
+High:=17.28
+
+(sti)
+Price Earnings Ratio:=Price Earnings Ratio: 48.31
+Last:=24.64
+Low:=24.59
+Open:=25.24
+% Change:=-1.87%
+Change:=-0.47
+Volume:=6927600
+High:=25.31
+
+(stnr)
+Price Earnings Ratio:=null
+Last:=49.32
+Low:=49.25
+Open:=49.85
+% Change:=-1.00%
+Change:=-0.50
+Volume:=23045
+High:=50.13
+
+(stu)
+Price Earnings Ratio:=null
+Last:=null
+Low:=null
+Open:=null
+% Change:=null
+Change:=null
+Volume:=null
+High:=null
+
+(stwd)
+Price Earnings Ratio:=Price Earnings Ratio: 12.58
+Last:=20.38
+Low:=20.37
+Open:=20.81
+% Change:=-1.74%
+Change:=-0.36
+Volume:=383943
+High:=20.81
+
+(stx)
+Price Earnings Ratio:=Price Earnings Ratio: 10.05
+Last:=16.68
+Low:=16.63
+Open:=16.95
+% Change:=-0.89%
+Change:=-0.15
+Volume:=7738806
+High:=17.11
+
+(sui)
+Price Earnings Ratio:=Price Earnings Ratio: 12.88
+Last:=37.62
+Low:=37.26
+Open:=38.05
+% Change:=-1.10%
+Change:=-0.42
+Volume:=74400
+High:=38.05
+
+(sumr)
+Price Earnings Ratio:=Price Earnings Ratio: 18.13
+Last:=8.52
+Low:=8.50
+Open:=8.50
+% Change:=-0.23%
+Change:=-0.02
+Volume:=51283
+High:=8.58
+
+(supx)
+Price Earnings Ratio:=Price Earnings Ratio: 20.75
+Last:=20.96
+Low:=20.95
+Open:=21.63
+% Change:=-3.14%
+Change:=-0.68
+Volume:=31762
+High:=21.63
+
+(sur)
+Price Earnings Ratio:=null
+Last:=26.53
+Low:=26.53
+Open:=26.53
+% Change:=unch%
+Change:=unch
+Volume:=124300
+High:=26.56
+
+(svvs)
+Price Earnings Ratio:=Price Earnings Ratio: N/A
+Last:=39.50
+Low:=39.50
+Open:=39.65
+% Change:=-0.23%
+Change:=-0.09
+Volume:=3610700
+High:=39.70
+
+(swk)
+Price Earnings Ratio:=Price Earnings Ratio: 15.90
+Last:=68.99
+Low:=68.83
+Open:=71.27
+% Change:=-2.97%
+Change:=-2.11
+Volume:=2659796
+High:=71.30
+
+(swm)
+Price Earnings Ratio:=Price Earnings Ratio: 13.67
+Last:=56.44
+Low:=56.21
+Open:=56.89
+% Change:=-0.72%
+Change:=-0.41
+Volume:=88803
+High:=57.39
+
+(sxt)
+Price Earnings Ratio:=Price Earnings Ratio: 17.12
+Last:=37.66
+Low:=37.55
+Open:=38.30
+% Change:=-1.52%
+Change:=-0.58
+Volume:=176377
+High:=38.56
+
+(sy)
+Price Earnings Ratio:=null
+Last:=null
+Low:=null
+Open:=Symbol
+% Change:=null
+Change:=null
+Volume:=null
+High:=Exchange
+
+(syke)
+Price Earnings Ratio:=Price Earnings Ratio: 16.67
+Last:=20.50
+Low:=20.47
+Open:=21.00
+% Change:=-2.38%
+Change:=-0.50
+Volume:=70907
+High:=21.19
+
+(symc)
+Price Earnings Ratio:=Price Earnings Ratio: 13.36
+Last:=18.97
+Low:=18.87
+Open:=19.28
+% Change:=-1.56%
+Change:=-0.30
+Volume:=5585651
+High:=19.42
+
+(symm)
+Price Earnings Ratio:=Price Earnings Ratio: 14.90
+Last:=5.96
+Low:=5.96
+Open:=6.21
+% Change:=-4.03%
+Change:=-0.25
+Volume:=88206
+High:=6.21
+
+(synm)
+Price Earnings Ratio:=null
+Last:=1.37
+Low:=1.36
+Open:=1.42
+% Change:=-3.52%
+Change:=-0.05
+Volume:=1113275
+High:=1.45
+
+(syno)
+Price Earnings Ratio:=Price Earnings Ratio: 29.83
+Last:=17.60
+Low:=17.57
+Open:=17.91
+% Change:=-1.68%
+Change:=-0.30
+Volume:=11555
+High:=17.98
+
+(synt)
+Price Earnings Ratio:=Price Earnings Ratio: 21.38
+Last:=58.16
+Low:=57.86
+Open:=58.89
+% Change:=-0.58%
+Change:=-0.34
+Volume:=193000
+High:=59.62
+
+(syx)
+Price Earnings Ratio:=null
+Last:=16.01
+Low:=15.92
+Open:=16.02
+% Change:=-0.12%
+Change:=-0.02
+Volume:=37221
+High:=16.23
+
+(t)
+Price Earnings Ratio:=Price Earnings Ratio: 13.40
+Last:=30.56
+Low:=30.55
+Open:=30.85
+% Change:=-0.84%
+Change:=-0.26
+Volume:=15347238
+High:=30.93
+
+(tal)
+Price Earnings Ratio:=Price Earnings Ratio: 11.76
+Last:=31.99
+Low:=31.75
+Open:=32.64
+% Change:=-1.45%
+Change:=-0.47
+Volume:=364100
+High:=32.80
+
+(tap)
+Price Earnings Ratio:=Price Earnings Ratio: 12.31
+Last:=44.57
+Low:=44.20
+Open:=44.21
+% Change:=+1.23%
+Change:=+0.54
+Volume:=1554042
+High:=44.94
+
+(tasr)
+Price Earnings Ratio:=Price Earnings Ratio: N/A
+Last:=4.26
+Low:=4.25
+Open:=4.34
+% Change:=-2.07%
+Change:=-0.09
+Volume:=159487
+High:=4.39
+
+(tast)
+Price Earnings Ratio:=Price Earnings Ratio: 13.59
+Last:=10.19
+Low:=10.14
+Open:=10.19
+% Change:=-0.88%
+Change:=-0.09
+Volume:=71192
+High:=10.31
+
+(tat)
+Price Earnings Ratio:=null
+Last:=1.54
+Low:=1.28
+Open:=1.59
+% Change:=-3.14%
+Change:=-0.05
+Volume:=8708779
+High:=1.64
+
+(tayc)
+Price Earnings Ratio:=null
+Last:=9.15
+Low:=9.13
+Open:=9.26
+% Change:=-1.40%
+Change:=-0.13
+Volume:=7915
+High:=9.61
+
+(tbnk)
+Price Earnings Ratio:=null
+Last:=20.90
+Low:=20.85
+Open:=20.97
+% Change:=-0.52%
+Change:=-0.11
+Volume:=11224
+High:=21.08
+
+(tc)
+Price Earnings Ratio:=null
+Last:=9.82
+Low:=9.77
+Open:=10.10
+% Change:=-2.09%
+Change:=-0.21
+Volume:=2662800
+High:=10.13
+
+(tcb)
+Price Earnings Ratio:=Price Earnings Ratio: 13.30
+Last:=13.30
+Low:=13.22
+Open:=13.57
+% Change:=-1.48%
+Change:=-0.20
+Volume:=1048900
+High:=13.63
+
+(tco)
+Price Earnings Ratio:=Price Earnings Ratio: 20.78
+Last:=60.04
+Low:=59.93
+Open:=61.25
+% Change:=-1.56%
+Change:=-0.95
+Volume:=575047
+High:=61.37
+
+(tcrd)
+Price Earnings Ratio:=Price Earnings Ratio: N/A
+Last:=12.82
+Low:=12.80
+Open:=13.01
+% Change:=-1.69%
+Change:=-0.22
+Volume:=38300
+High:=13.01
+
+(tdy)
+Price Earnings Ratio:=Price Earnings Ratio: 14.26
+Last:=49.21
+Low:=48.86
+Open:=50.33
+% Change:=-1.80%
+Change:=-0.90
+Volume:=197176
+High:=50.33
+
+(te)
+Price Earnings Ratio:=Price Earnings Ratio: 17.08
+Last:=18.62
+Low:=18.60
+Open:=18.86
+% Change:=-1.06%
+Change:=-0.20
+Volume:=1524366
+High:=18.89
+
+(tecua)
+Price Earnings Ratio:=null
+Last:=10.23
+Low:=10.23
+Open:=10.79
+% Change:=-5.10%
+Change:=-0.55
+Volume:=26000
+High:=10.79
+
+(ten)
+Price Earnings Ratio:=Price Earnings Ratio: 22.12
+Last:=43.36
+Low:=42.75
+Open:=43.84
+% Change:=-0.55%
+Change:=-0.24
+Volume:=665400
+High:=44.26
+
+(ter)
+Price Earnings Ratio:=Price Earnings Ratio: 6.00
+Last:=13.61
+Low:=13.45
+Open:=13.87
+% Change:=-1.38%
+Change:=-0.19
+Volume:=3609601
+High:=14.08
+
+(teva)
+Price Earnings Ratio:=Price Earnings Ratio: 10.37
+Last:=48.43
+Low:=48.35
+Open:=49.47
+% Change:=-1.63%
+Change:=-0.80
+Volume:=4296655
+High:=49.52
+
+(tfx)
+Price Earnings Ratio:=Price Earnings Ratio: 15.52
+Last:=61.75
+Low:=61.57
+Open:=62.84
+% Change:=-1.75%
+Change:=-1.10
+Volume:=226091
+High:=63.04
+
+(tg)
+Price Earnings Ratio:=null
+Last:=19.28
+Low:=19.12
+Open:=19.51
+% Change:=-0.98%
+Change:=-0.19
+Volume:=88588
+High:=19.66
+
+(tgh)
+Price Earnings Ratio:=Price Earnings Ratio: 10.58
+Last:=28.35
+Low:=28.15
+Open:=29.71
+% Change:=-4.22%
+Change:=-1.25
+Volume:=139107
+High:=29.71
+
+(tgi)
+Price Earnings Ratio:=Price Earnings Ratio: 14.52
+Last:=101.09
+Low:=100.85
+Open:=103.04
+% Change:=-1.59%
+Change:=-1.63
+Volume:=207620
+High:=103.38
+
+(thff)
+Price Earnings Ratio:=null
+Last:=32.83
+Low:=32.76
+Open:=33.59
+% Change:=-2.06%
+Change:=-0.69
+Volume:=9485
+High:=33.59
+
+(thmd)
+Price Earnings Ratio:=null
+Last:=null
+Low:=null
+Open:=null
+% Change:=null
+Change:=null
+Volume:=null
+High:=null
+
+(tho)
+Price Earnings Ratio:=Price Earnings Ratio: 13.42
+Last:=27.37
+Low:=27.20
+Open:=28.27
+% Change:=-3.05%
+Change:=-0.86
+Volume:=375900
+High:=28.32
+
+(thrx)
+Price Earnings Ratio:=null
+Last:=23.95
+Low:=23.88
+Open:=24.64
+% Change:=-2.68%
+Change:=-0.66
+Volume:=351945
+High:=25.19
+
+(tie)
+Price Earnings Ratio:=Price Earnings Ratio: 35.13
+Last:=18.27
+Low:=18.14
+Open:=18.87
+% Change:=-3.33%
+Change:=-0.63
+Volume:=3378000
+High:=18.95
+
+(tif)
+Price Earnings Ratio:=Price Earnings Ratio: 26.11
+Last:=81.47
+Low:=80.56
+Open:=82.32
+% Change:=-0.74%
+Change:=-0.61
+Volume:=1603599
+High:=82.93
+
+(tiny)
+Price Earnings Ratio:=null
+Last:=5.38
+Low:=5.34
+Open:=5.48
+% Change:=-2.18%
+Change:=-0.12
+Volume:=119600
+High:=5.55
+
+(tisi)
+Price Earnings Ratio:=Price Earnings Ratio: 23.19
+Last:=23.65
+Low:=23.36
+Open:=24.08
+% Change:=-1.42%
+Change:=-0.34
+Volume:=29100
+High:=24.12
+
+(tjx)
+Price Earnings Ratio:=Price Earnings Ratio: 15.83
+Last:=55.09
+Low:=54.70
+Open:=55.40
+% Change:=-0.33%
+Change:=-0.18
+Volume:=2296637
+High:=55.55
+
+(tklc)
+Price Earnings Ratio:=Price Earnings Ratio: 18.35
+Last:=8.44
+Low:=8.29
+Open:=8.96
+% Change:=-5.80%
+Change:=-0.52
+Volume:=2485245
+High:=9.08
+
+(tkr)
+Price Earnings Ratio:=Price Earnings Ratio: 13.75
+Last:=48.41
+Low:=48.25
+Open:=49.99
+% Change:=-3.04%
+Change:=-1.52
+Volume:=996425
+High:=50.14
+
+(tmp)
+Price Earnings Ratio:=null
+Last:=39.67
+Low:=39.67
+Open:=40.60
+% Change:=-2.39%
+Change:=-0.97
+Volume:=12918
+High:=40.60
+
+(tmrk)
+Price Earnings Ratio:=null
+Last:=18.99
+Low:=18.98
+Open:=19.00
+% Change:=+0.05%
+Change:=+0.01
+Volume:=229100
+High:=19.00
+
+(tnc)
+Price Earnings Ratio:=Price Earnings Ratio: 29.08
+Last:=40.71
+Low:=40.39
+Open:=41.32
+% Change:=-1.52%
+Change:=-0.63
+Volume:=46874
+High:=41.91
+
+(tnk)
+Price Earnings Ratio:=null
+Last:=8.80
+Low:=8.78
+Open:=8.94
+% Change:=-1.68%
+Change:=-0.15
+Volume:=229801
+High:=8.99
+
+(tpgi)
+Price Earnings Ratio:=null
+Last:=3.36
+Low:=3.36
+Open:=3.47
+% Change:=-2.61%
+Change:=-0.09
+Volume:=23826
+High:=3.47
+
+(trad)
+Price Earnings Ratio:=null
+Last:=9.74
+Low:=9.73
+Open:=9.74
+% Change:=+0.10%
+Change:=+0.01
+Volume:=322100
+High:=9.75
+
+(trak)
+Price Earnings Ratio:=Price Earnings Ratio: 34.38
+Last:=22.69
+Low:=22.54
+Open:=23.51
+% Change:=-3.32%
+Change:=-0.78
+Volume:=187000
+High:=23.53
+
+(trex)
+Price Earnings Ratio:=Price Earnings Ratio: 20.61
+Last:=20.20
+Low:=20.00
+Open:=20.08
+% Change:=+0.95%
+Change:=+0.19
+Volume:=160884
+High:=20.49
+
+(trmk)
+Price Earnings Ratio:=Price Earnings Ratio: 14.64
+Last:=22.98
+Low:=22.91
+Open:=23.73
+% Change:=-2.59%
+Change:=-0.61
+Volume:=245861
+High:=23.73
+
+(trow)
+Price Earnings Ratio:=Price Earnings Ratio: 21.89
+Last:=58.44
+Low:=58.03
+Open:=59.15
+% Change:=-0.78%
+Change:=-0.46
+Volume:=2197461
+High:=59.27
+
+(trv)
+Price Earnings Ratio:=Price Earnings Ratio: 8.27
+Last:=57.71
+Low:=57.67
+Open:=58.69
+% Change:=-1.30%
+Change:=-0.76
+Volume:=2004736
+High:=58.83
+
+(tsn)
+Price Earnings Ratio:=Price Earnings Ratio: 7.41
+Last:=18.46
+Low:=18.42
+Open:=18.65
+% Change:=-0.59%
+Change:=-0.11
+Volume:=2370494
+High:=18.83
+
+(tsra)
+Price Earnings Ratio:=Price Earnings Ratio: 11.94
+Last:=15.64
+Low:=15.59
+Open:=15.97
+% Change:=-1.57%
+Change:=-0.25
+Volume:=287700
+High:=16.09
+
+(ttec)
+Price Earnings Ratio:=Price Earnings Ratio: 19.50
+Last:=21.45
+Low:=21.41
+Open:=22.04
+% Change:=-1.88%
+Change:=-0.41
+Volume:=141013
+High:=22.06
+
+(ttek)
+Price Earnings Ratio:=Price Earnings Ratio: 16.37
+Last:=21.93
+Low:=21.88
+Open:=22.53
+% Change:=-2.53%
+Change:=-0.57
+Volume:=173750
+High:=22.67
+
+(tti)
+Price Earnings Ratio:=Price Earnings Ratio: 24.50
+Last:=12.25
+Low:=12.09
+Open:=12.52
+% Change:=-1.29%
+Change:=-0.16
+Volume:=537466
+High:=12.57
+
+(tues)
+Price Earnings Ratio:=null
+Last:=4.02
+Low:=4.02
+Open:=4.19
+% Change:=-3.83%
+Change:=-0.16
+Volume:=321914
+High:=4.19
+
+(tvl)
+Price Earnings Ratio:=Price Earnings Ratio: N/A
+Last:=4.32
+Low:=4.32
+Open:=4.48
+% Change:=-3.36%
+Change:=-0.15
+Volume:=151537
+High:=4.53
+
+(tw)
+Price Earnings Ratio:=Price Earnings Ratio: N/A
+Last:=61.99
+Low:=61.45
+Open:=63.22
+% Change:=-1.60%
+Change:=-1.01
+Volume:=280455
+High:=63.50
+
+(twin)
+Price Earnings Ratio:=Price Earnings Ratio: N/A
+Last:=38.93
+Low:=38.36
+Open:=39.26
+% Change:=-0.82%
+Change:=-0.32
+Volume:=66966
+High:=40.49
+
+(two)
+Price Earnings Ratio:=null
+Last:=10.51
+Low:=10.50
+Open:=10.84
+% Change:=-1.41%
+Change:=-0.15
+Volume:=2582732
+High:=10.84
+
+(twx)
+Price Earnings Ratio:=Price Earnings Ratio: 15.09
+Last:=35.76
+Low:=35.52
+Open:=35.77
+% Change:=-0.14%
+Change:=-0.05
+Volume:=8499068
+High:=36.14
+
+(txn)
+Price Earnings Ratio:=Price Earnings Ratio: 11.55
+Last:=30.72
+Low:=30.62
+Open:=31.15
+% Change:=-0.90%
+Change:=-0.28
+Volume:=11017100
+High:=31.49
+
+(txt)
+Price Earnings Ratio:=Price Earnings Ratio: 25.78
+Last:=21.91
+Low:=21.71
+Open:=22.19
+% Change:=-1.22%
+Change:=-0.27
+Volume:=4749838
+High:=22.44
+
+(tyl)
+Price Earnings Ratio:=Price Earnings Ratio: 35.61
+Last:=26.35
+Low:=26.32
+Open:=26.85
+% Change:=-1.61%
+Change:=-0.43
+Volume:=175300
+High:=26.97
+
+(ueic)
+Price Earnings Ratio:=Price Earnings Ratio: 18.94
+Last:=24.62
+Low:=24.53
+Open:=25.32
+% Change:=-2.80%
+Change:=-0.71
+Volume:=28800
+High:=25.55
+
+(ufcs)
+Price Earnings Ratio:=null
+Last:=17.89
+Low:=17.86
+Open:=18.07
+% Change:=-1.38%
+Change:=-0.25
+Volume:=34451
+High:=18.15
+
+(ufpi)
+Price Earnings Ratio:=Price Earnings Ratio: 25.11
+Last:=29.13
+Low:=24.26
+Open:=24.26
+% Change:=+21.02%
+Change:=+5.06
+Volume:=1017513
+High:=29.73
+
+(ufs)
+Price Earnings Ratio:=Price Earnings Ratio: 7.46
+Last:=93.92
+Low:=93.50
+Open:=95.54
+% Change:=-1.20%
+Change:=-1.14
+Volume:=370100
+High:=96.03
+
+(ugi)
+Price Earnings Ratio:=Price Earnings Ratio: 13.06
+Last:=31.74
+Low:=31.67
+Open:=32.13
+% Change:=-0.94%
+Change:=-0.30
+Volume:=395615
+High:=32.29
+
+(uhs)
+Price Earnings Ratio:=Price Earnings Ratio: 17.67
+Last:=52.30
+Low:=52.01
+Open:=53.32
+% Change:=-1.38%
+Change:=-0.73
+Volume:=1291778
+High:=53.55
+
+(uil)
+Price Earnings Ratio:=null
+Last:=32.49
+Low:=32.47
+Open:=32.97
+% Change:=-1.04%
+Change:=-0.34
+Volume:=241095
+High:=32.98
+
+(ulta)
+Price Earnings Ratio:=Price Earnings Ratio: 48.72
+Last:=63.33
+Low:=63.00
+Open:=65.00
+% Change:=-2.37%
+Change:=-1.54
+Volume:=591595
+High:=65.79
+
+(ulti)
+Price Earnings Ratio:=Price Earnings Ratio: 114.12
+Last:=55.92
+Low:=55.63
+Open:=56.67
+% Change:=-1.31%
+Change:=-0.74
+Volume:=102200
+High:=57.15
+
+(umbf)
+Price Earnings Ratio:=Price Earnings Ratio: N/A
+Last:=43.00
+Low:=42.78
+Open:=44.38
+% Change:=-3.07%
+Change:=-1.36
+Volume:=151581
+High:=44.38
+
+(umh)
+Price Earnings Ratio:=null
+Last:=10.89
+Low:=10.85
+Open:=10.90
+% Change:=-0.27%
+Change:=-0.03
+Volume:=14731
+High:=10.95
+
+(umpq)
+Price Earnings Ratio:=Price Earnings Ratio: 38.63
+Last:=11.59
+Low:=11.49
+Open:=11.89
+% Change:=-1.61%
+Change:=-0.19
+Volume:=747100
+High:=11.89
+
+(unca)
+Price Earnings Ratio:=null
+Last:=null
+Low:=null
+Open:=Symbol
+% Change:=null
+Change:=null
+Volume:=null
+High:=Exchange
+
+(unfi)
+Price Earnings Ratio:=Price Earnings Ratio: 26.92
+Last:=44.69
+Low:=44.51
+Open:=44.86
+% Change:=-0.11%
+Change:=-0.05
+Volume:=239823
+High:=45.14
+
+(unp)
+Price Earnings Ratio:=Price Earnings Ratio: 17.33
+Last:=100.71
+Low:=99.69
+Open:=102.48
+% Change:=-1.41%
+Change:=-1.44
+Volume:=3577453
+High:=102.61
+
+(untd)
+Price Earnings Ratio:=Price Earnings Ratio: 5.72
+Last:=6.12
+Low:=6.10
+Open:=6.28
+% Change:=-1.92%
+Change:=-0.12
+Volume:=604553
+High:=6.33
+
+(upl)
+Price Earnings Ratio:=Price Earnings Ratio: 20.30
+Last:=44.86
+Low:=44.22
+Open:=45.40
+% Change:=-0.73%
+Change:=-0.33
+Volume:=1794700
+High:=45.45
+
+(ups)
+Price Earnings Ratio:=Price Earnings Ratio: 19.67
+Last:=73.36
+Low:=72.96
+Open:=73.41
+% Change:=-0.08%
+Change:=-0.06
+Volume:=3549972
+High:=74.02
+
+(urbn)
+Price Earnings Ratio:=Price Earnings Ratio: 20.46
+Last:=31.30
+Low:=30.96
+Open:=31.85
+% Change:=-1.73%
+Change:=-0.55
+Volume:=2645807
+High:=31.93
+
+(uri)
+Price Earnings Ratio:=Price Earnings Ratio: 47.53
+Last:=23.29
+Low:=23.05
+Open:=23.93
+% Change:=-2.18%
+Change:=-0.52
+Volume:=1784400
+High:=24.30
+
+(urs)
+Price Earnings Ratio:=Price Earnings Ratio: 13.54
+Last:=43.45
+Low:=43.03
+Open:=43.90
+% Change:=-0.53%
+Change:=-0.23
+Volume:=938814
+High:=44.17
+
+(usap)
+Price Earnings Ratio:=Price Earnings Ratio: 19.69
+Last:=46.66
+Low:=45.53
+Open:=49.11
+% Change:=-4.97%
+Change:=-2.44
+Volume:=137898
+High:=49.88
+
+(usb)
+Price Earnings Ratio:=Price Earnings Ratio: 12.60
+Last:=24.69
+Low:=24.62
+Open:=25.16
+% Change:=-1.71%
+Change:=-0.43
+Volume:=11425899
+High:=25.31
+
+(usph)
+Price Earnings Ratio:=Price Earnings Ratio: 18.68
+Last:=24.29
+Low:=24.16
+Open:=25.00
+% Change:=-3.00%
+Change:=-0.75
+Volume:=28616
+High:=25.12
+
+(utek)
+Price Earnings Ratio:=Price Earnings Ratio: 29.79
+Last:=26.81
+Low:=24.93
+Open:=25.13
+% Change:=+7.71%
+Change:=+1.92
+Volume:=1315228
+High:=27.38
+
+(uti)
+Price Earnings Ratio:=Price Earnings Ratio: 15.92
+Last:=19.74
+Low:=19.59
+Open:=21.09
+% Change:=-6.40%
+Change:=-1.35
+Volume:=114685
+High:=21.14
+
+(utr)
+Price Earnings Ratio:=Price Earnings Ratio: 9.39
+Last:=28.93
+Low:=28.89
+Open:=29.79
+% Change:=-2.46%
+Change:=-0.73
+Volume:=211681
+High:=29.82
+
+(utx)
+Price Earnings Ratio:=Price Earnings Ratio: 17.76
+Last:=87.73
+Low:=87.61
+Open:=87.91
+% Change:=-0.50%
+Change:=-0.44
+Volume:=1968732
+High:=89.16
+
+(uve)
+Price Earnings Ratio:=null
+Last:=4.66
+Low:=4.66
+Open:=4.71
+% Change:=-1.89%
+Change:=-0.09
+Volume:=95798
+High:=4.73
+
+(uvv)
+Price Earnings Ratio:=null
+Last:=36.59
+Low:=36.40
+Open:=36.86
+% Change:=-0.60%
+Change:=-0.22
+Volume:=222900
+High:=37.11
+
+(vcbi)
+Price Earnings Ratio:=Price Earnings Ratio: N/A
+Last:=5.99
+Low:=5.89
+Open:=5.97
+% Change:=+0.50%
+Change:=+0.03
+Volume:=39500
+High:=6.02
+
+(vci)
+Price Earnings Ratio:=Price Earnings Ratio: 14.71
+Last:=30.16
+Low:=30.11
+Open:=30.45
+% Change:=-0.85%
+Change:=-0.26
+Volume:=431505
+High:=30.76
+
+(vgr)
+Price Earnings Ratio:=null
+Last:=17.86
+Low:=17.76
+Open:=17.76
+% Change:=+0.51%
+Change:=+0.09
+Volume:=236783
+High:=18.06
+
+(vlccf)
+Price Earnings Ratio:=null
+Last:=21.92
+Low:=21.73
+Open:=22.09
+% Change:=-0.23%
+Change:=-0.05
+Volume:=70106
+High:=22.21
+
+(vlgea)
+Price Earnings Ratio:=null
+Last:=27.25
+Low:=27.02
+Open:=27.68
+% Change:=-0.51%
+Change:=-0.14
+Volume:=17500
+High:=28.31
+
+(vmed)
+Price Earnings Ratio:=null
+Last:=27.68
+Low:=27.63
+Open:=27.87
+% Change:=-0.14%
+Change:=-0.04
+Volume:=4521039
+High:=28.42
+
+(vnda)
+Price Earnings Ratio:=Price Earnings Ratio: N/A
+Last:=7.11
+Low:=7.10
+Open:=7.35
+% Change:=-2.74%
+Change:=-0.20
+Volume:=147607
+High:=7.46
+
+(vocs)
+Price Earnings Ratio:=Price Earnings Ratio: 46.10
+Last:=30.89
+Low:=30.84
+Open:=31.44
+% Change:=-1.34%
+Change:=-0.42
+Volume:=95807
+High:=31.48
+
+(vod)
+Price Earnings Ratio:=null
+Last:=25.78
+Low:=25.72
+Open:=26.08
+% Change:=-1.00%
+Change:=-0.26
+Volume:=6235314
+High:=26.21
+
+(volc)
+Price Earnings Ratio:=Price Earnings Ratio: 115.07
+Last:=32.22
+Low:=32.04
+Open:=32.42
+% Change:=-1.68%
+Change:=-0.55
+Volume:=534671
+High:=32.99
+
+(vpfg)
+Price Earnings Ratio:=null
+Last:=13.77
+Low:=13.74
+Open:=13.96
+% Change:=-1.36%
+Change:=-0.19
+Volume:=272976
+High:=13.96
+
+(vphm)
+Price Earnings Ratio:=Price Earnings Ratio: 11.94
+Last:=19.35
+Low:=19.27
+Open:=19.52
+% Change:=-0.82%
+Change:=-0.16
+Volume:=486900
+High:=19.91
+
+(vrad)
+Price Earnings Ratio:=null
+Last:=null
+Low:=null
+Open:=null
+% Change:=null
+Change:=null
+Volume:=null
+High:=null
+
+(vrsn)
+Price Earnings Ratio:=Price Earnings Ratio: 28.76
+Last:=32.79
+Low:=32.73
+Open:=33.44
+% Change:=-1.83%
+Change:=-0.61
+Volume:=1544272
+High:=33.73
+
+(vrtx)
+Price Earnings Ratio:=Price Earnings Ratio: N/A
+Last:=50.33
+Low:=50.18
+Open:=51.00
+% Change:=-2.25%
+Change:=-1.16
+Volume:=1453717
+High:=52.44
+
+(vrx)
+Price Earnings Ratio:=Price Earnings Ratio: 375.79
+Last:=52.61
+Low:=51.99
+Open:=53.25
+% Change:=-0.72%
+Change:=-0.38
+Volume:=774404
+High:=53.29
+
+(vsec)
+Price Earnings Ratio:=null
+Last:=23.14
+Low:=23.00
+Open:=23.99
+% Change:=-3.30%
+Change:=-0.79
+Volume:=17500
+High:=24.51
+
+(vz)
+Price Earnings Ratio:=Price Earnings Ratio: 16.82
+Last:=36.84
+Low:=36.81
+Open:=36.94
+% Change:=-0.27%
+Change:=-0.10
+Volume:=11794502
+High:=37.37
+
+(wab)
+Price Earnings Ratio:=Price Earnings Ratio: 22.63
+Last:=62.69
+Low:=62.31
+Open:=64.74
+% Change:=-2.72%
+Change:=-1.75
+Volume:=576122
+High:=64.74
+
+(wash)
+Price Earnings Ratio:=null
+Last:=22.89
+Low:=22.81
+Open:=23.09
+% Change:=-0.43%
+Change:=-0.10
+Volume:=61222
+High:=23.09
+
+(wat)
+Price Earnings Ratio:=Price Earnings Ratio: 21.58
+Last:=93.44
+Low:=93.11
+Open:=94.68
+% Change:=-1.09%
+Change:=-1.03
+Volume:=297762
+High:=95.10
+
+(wbc)
+Price Earnings Ratio:=Price Earnings Ratio: 19.55
+Last:=66.28
+Low:=66.00
+Open:=68.56
+% Change:=-3.33%
+Change:=-2.28
+Volume:=979834
+High:=69.06
+
+(wbsn)
+Price Earnings Ratio:=Price Earnings Ratio: 19.98
+Last:=26.97
+Low:=26.84
+Open:=27.09
+% Change:=-0.48%
+Change:=-0.13
+Volume:=234484
+High:=27.70
+
+(wcrx)
+Price Earnings Ratio:=Price Earnings Ratio: 6.49
+Last:=23.93
+Low:=23.60
+Open:=24.00
+% Change:=+0.17%
+Change:=+0.04
+Volume:=1416315
+High:=24.00
+
+(wern)
+Price Earnings Ratio:=Price Earnings Ratio: 21.68
+Last:=25.36
+Low:=25.10
+Open:=25.80
+% Change:=-1.05%
+Change:=-0.27
+Volume:=297040
+High:=25.80
+
+(weys)
+Price Earnings Ratio:=null
+Last:=25.07
+Low:=25.07
+Open:=25.56
+% Change:=-1.30%
+Change:=-0.33
+Volume:=8748
+High:=25.89
+
+(wfd)
+Price Earnings Ratio:=null
+Last:=8.54
+Low:=8.38
+Open:=8.58
+% Change:=-0.35%
+Change:=-0.03
+Volume:=25632
+High:=8.61
+
+(wfm)
+Price Earnings Ratio:=Price Earnings Ratio: 37.05
+Last:=64.10
+Low:=64.01
+Open:=65.72
+% Change:=-2.45%
+Change:=-1.61
+Volume:=1401616
+High:=66.18
+
+(wfmi)
+Price Earnings Ratio:=null
+Last:=null
+Low:=null
+Open:=null
+% Change:=null
+Change:=null
+Volume:=null
+High:=null
+
+(wgo)
+Price Earnings Ratio:=Price Earnings Ratio: 20.31
+Last:=9.14
+Low:=9.08
+Open:=9.46
+% Change:=-1.93%
+Change:=-0.18
+Volume:=217480
+High:=9.46
+
+(wgov)
+Price Earnings Ratio:=null
+Last:=null
+Low:=null
+Open:=null
+% Change:=null
+Change:=null
+Volume:=null
+High:=null
+
+(win)
+Price Earnings Ratio:=Price Earnings Ratio: 20.77
+Last:=12.67
+Low:=12.65
+Open:=12.82
+% Change:=-1.09%
+Change:=-0.14
+Volume:=4500419
+High:=12.93
+
+(wina)
+Price Earnings Ratio:=null
+Last:=43.73
+Low:=42.94
+Open:=45.68
+% Change:=-2.58%
+Change:=-1.16
+Volume:=6941
+High:=45.68
+
+(wlk)
+Price Earnings Ratio:=Price Earnings Ratio: 11.72
+Last:=50.64
+Low:=50.42
+Open:=51.90
+% Change:=-1.69%
+Change:=-0.87
+Volume:=298000
+High:=52.07
+
+(wll)
+Price Earnings Ratio:=Price Earnings Ratio: 19.65
+Last:=55.50
+Low:=55.30
+Open:=57.19
+% Change:=-1.67%
+Change:=-0.94
+Volume:=1847216
+High:=57.45
+
+(wlt)
+Price Earnings Ratio:=Price Earnings Ratio: 13.69
+Last:=109.63
+Low:=109.37
+Open:=114.77
+% Change:=-3.51%
+Change:=-3.99
+Volume:=1937525
+High:=114.90
+
+(wmt)
+Price Earnings Ratio:=Price Earnings Ratio: 12.79
+Last:=53.57
+Low:=53.38
+Open:=53.52
+% Change:=-0.83%
+Change:=-0.45
+Volume:=12192296
+High:=53.70
+
+(wnr)
+Price Earnings Ratio:=Price Earnings Ratio: 40.18
+Last:=20.09
+Low:=19.55
+Open:=20.05
+% Change:=+1.31%
+Change:=+0.26
+Volume:=4564555
+High:=20.24
+
+(wor)
+Price Earnings Ratio:=Price Earnings Ratio: 14.26
+Last:=22.10
+Low:=21.82
+Open:=22.33
+% Change:=-0.99%
+Change:=-0.22
+Volume:=1031820
+High:=22.50
+
+(wr)
+Price Earnings Ratio:=Price Earnings Ratio: 14.75
+Last:=26.55
+Low:=26.48
+Open:=26.79
+% Change:=-0.90%
+Change:=-0.24
+Volume:=903493
+High:=26.93
+
+(wrc)
+Price Earnings Ratio:=Price Earnings Ratio: 15.33
+Last:=55.04
+Low:=54.18
+Open:=54.24
+% Change:=+1.81%
+Change:=+0.98
+Volume:=2913350
+High:=56.56
+
+(wri)
+Price Earnings Ratio:=Price Earnings Ratio: 16.27
+Last:=25.54
+Low:=25.48
+Open:=26.03
+% Change:=-1.47%
+Change:=-0.38
+Volume:=732430
+High:=26.07
+
+(wsbc)
+Price Earnings Ratio:=null
+Last:=19.35
+Low:=19.25
+Open:=19.56
+% Change:=-1.78%
+Change:=-0.35
+Volume:=31100
+High:=19.75
+
+(wso)
+Price Earnings Ratio:=Price Earnings Ratio: 25.09
+Last:=64.48
+Low:=64.40
+Open:=66.37
+% Change:=-2.27%
+Change:=-1.50
+Volume:=188500
+High:=66.65
+
+(wts)
+Price Earnings Ratio:=Price Earnings Ratio: 18.88
+Last:=36.25
+Low:=36.18
+Open:=36.55
+% Change:=-0.44%
+Change:=-0.16
+Volume:=386956
+High:=36.74
+
+(wtsla)
+Price Earnings Ratio:=Price Earnings Ratio: 26.26
+Last:=4.99
+Low:=4.92
+Open:=5.00
+% Change:=-0.20%
+Change:=-0.01
+Volume:=2287427
+High:=5.06
+
+(wwon)
+Price Earnings Ratio:=null
+Last:=5.67
+Low:=5.54
+Open:=5.99
+% Change:=-3.90%
+Change:=-0.23
+Volume:=4653
+High:=5.99
+
+(wynn)
+Price Earnings Ratio:=Price Earnings Ratio: 49.62
+Last:=158.78
+Low:=156.53
+Open:=157.04
+% Change:=+1.55%
+Change:=+2.43
+Volume:=1503184
+High:=159.71
+
+(xco)
+Price Earnings Ratio:=Price Earnings Ratio: 29.73
+Last:=15.16
+Low:=15.11
+Open:=15.73
+% Change:=-3.19%
+Change:=-0.50
+Volume:=2791080
+High:=15.74
+
+(xec)
+Price Earnings Ratio:=Price Earnings Ratio: 14.14
+Last:=83.54
+Low:=83.34
+Open:=85.76
+% Change:=-2.24%
+Change:=-1.91
+Volume:=566100
+High:=85.89
+
+(xlnx)
+Price Earnings Ratio:=Price Earnings Ratio: 13.97
+Last:=33.53
+Low:=33.32
+Open:=34.11
+% Change:=-1.15%
+Change:=-0.39
+Volume:=3710427
+High:=34.32
+
+(xnpt)
+Price Earnings Ratio:=Price Earnings Ratio: N/A
+Last:=7.59
+Low:=7.57
+Open:=7.75
+% Change:=-1.68%
+Change:=-0.13
+Volume:=241324
+High:=7.76
+
+(xom)
+Price Earnings Ratio:=Price Earnings Ratio: 11.69
+Last:=82.21
+Low:=82.11
+Open:=83.05
+% Change:=-0.33%
+Change:=-0.27
+Volume:=13436655
+High:=83.11
+
+(xprt)
+Price Earnings Ratio:=null
+Last:=0.0330
+Low:=0.0330
+Open:=0.0330
+% Change:=unch%
+Change:=unch
+Volume:=47615
+High:=0.0330
+
+(xray)
+Price Earnings Ratio:=Price Earnings Ratio: 20.18
+Last:=39.15
+Low:=38.99
+Open:=39.40
+% Change:=-0.25%
+Change:=-0.10
+Volume:=1010828
+High:=39.65
+
+(xrit)
+Price Earnings Ratio:=null
+Last:=4.81
+Low:=4.77
+Open:=4.83
+% Change:=-0.62%
+Change:=-0.03
+Volume:=64179
+High:=4.87
+
+(xtxi)
+Price Earnings Ratio:=null
+Last:=12.44
+Low:=12.26
+Open:=12.59
+% Change:=-0.56%
+Change:=-0.07
+Volume:=283344
+High:=12.81
+
+(xxia)
+Price Earnings Ratio:=Price Earnings Ratio: 17.50
+Last:=10.15
+Low:=10.11
+Open:=10.18
+% Change:=-0.29%
+Change:=-0.03
+Volume:=1005989
+High:=10.36
+
+(yhoo)
+Price Earnings Ratio:=Price Earnings Ratio: 20.32
+Last:=14.63
+Low:=14.60
+Open:=14.88
+% Change:=-1.88%
+Change:=-0.28
+Volume:=21773256
+High:=14.99
+
+(ysi)
+Price Earnings Ratio:=Price Earnings Ratio: 47.27
+Last:=10.40
+Low:=10.29
+Open:=10.56
+% Change:=-1.42%
+Change:=-0.15
+Volume:=392765
+High:=10.58
+
+(yum)
+Price Earnings Ratio:=Price Earnings Ratio: 21.93
+Last:=56.37
+Low:=55.58
+Open:=56.91
+% Change:=+1.42%
+Change:=+0.79
+Volume:=9921982
+High:=57.75
+
+(zbra)
+Price Earnings Ratio:=Price Earnings Ratio: 21.85
+Last:=41.52
+Low:=41.33
+Open:=41.81
+% Change:=-1.05%
+Change:=-0.44
+Volume:=167091
+High:=42.23
+
+(zgen)
+Price Earnings Ratio:=null
+Last:=null
+Low:=null
+Open:=null
+% Change:=null
+Change:=null
+Volume:=null
+High:=null
+
+(ziop)
+Price Earnings Ratio:=null
+Last:=5.89
+Low:=5.81
+Open:=5.99
+% Change:=-1.17%
+Change:=-0.07
+Volume:=284502
+High:=5.99
+
+(zixi)
+Price Earnings Ratio:=Price Earnings Ratio: 6.27
+Last:=3.95
+Low:=3.86
+Open:=4.04
+% Change:=-1.99%
+Change:=-0.08
+Volume:=615800
+High:=4.09
+
+(zoll)
+Price Earnings Ratio:=Price Earnings Ratio: 54.50
+Last:=56.68
+Low:=55.66
+Open:=57.88
+% Change:=-2.01%
+Change:=-1.16
+Volume:=167000
+High:=58.55
+

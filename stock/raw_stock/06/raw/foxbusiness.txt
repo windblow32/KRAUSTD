@@ -1,0 +1,6000 @@
+(aa)
+Prev. Close:=$16.39
+Change:=-0.15
+Volume:=18,113,155
+Last Trade:=$16.24
+
+(aan)
+Prev. Close:=$28.77
+Change:=+0.03
+Volume:=525,300
+Last Trade:=$28.80
+
+(aapl)
+Prev. Close:=$349.43
+Change:=+2.33
+Volume:=15,824,019
+Last Trade:=$351.76
+
+(abat)
+Prev. Close:=$1.12
+Change:=-0.02
+Volume:=2,339,862
+Last Trade:=$1.10
+
+(abax)
+Prev. Close:=$28.82
+Change:=+0.77
+Volume:=74,471
+Last Trade:=$29.59
+
+(abbc)
+Prev. Close:=$10.41
+Change:=+0.14
+Volume:=17,823
+Last Trade:=$10.55
+
+(abcb)
+Prev. Close:=$8.79
+Change:=+0.23
+Volume:=29,899
+Last Trade:=$9.02
+
+(abg)
+Prev. Close:=$18.81
+Change:=+0.01
+Volume:=230,324
+Last Trade:=$18.82
+
+(abii)
+Prev. Close:=$78.30
+Change:=-0.05
+Volume:=389,467
+Last Trade:=$78.25
+
+(abmd)
+Prev. Close:=$16.70
+Change:=+0.22
+Volume:=127,760
+Last Trade:=$16.92
+
+(acas)
+Prev. Close:=$9.98
+Change:=+0.16
+Volume:=3,973,731
+Last Trade:=$10.14
+
+(acet)
+Prev. Close:=$6.54
+Change:=+0.11
+Volume:=75,683
+Last Trade:=$6.65
+
+(aco)
+Prev. Close:=$38.46
+Change:=+0.10
+Volume:=56,820
+Last Trade:=$38.56
+
+(acom)
+Prev. Close:=$41.92
+Change:=-0.78
+Volume:=957,768
+Last Trade:=$41.14
+
+(actg)
+Prev. Close:=$38.59
+Change:=-0.19
+Volume:=225,938
+Last Trade:=$38.40
+
+(actl)
+Prev. Close:=$20.86
+Change:=+0.09
+Volume:=354,801
+Last Trade:=$20.95
+
+(actu)
+Prev. Close:=$n.a.
+Change:=n.a.
+Volume:=n.a.
+Last Trade:=$n.a.
+
+(acv)
+Prev. Close:=$37.49
+Change:=+0.00
+Volume:=3,981,123
+Last Trade:=$37.49
+
+(adbe)
+Prev. Close:=$31.52
+Change:=+0.13
+Volume:=2,790,152
+Last Trade:=$31.65
+
+(adct)
+Prev. Close:=$n.a.
+Change:=n.a.
+Volume:=n.a.
+Last Trade:=$n.a.
+
+(adp)
+Prev. Close:=$53.67
+Change:=+0.33
+Volume:=2,077,446
+Last Trade:=$54.00
+
+(adpi)
+Prev. Close:=$13.09
+Change:=-0.05
+Volume:=59,438
+Last Trade:=$13.04
+
+(adpt)
+Prev. Close:=$n.a.
+Change:=n.a.
+Volume:=n.a.
+Last Trade:=$n.a.
+
+(adsk)
+Prev. Close:=$38.87
+Change:=+0.50
+Volume:=2,038,407
+Last Trade:=$39.37
+
+(adtn)
+Prev. Close:=$39.93
+Change:=+0.45
+Volume:=563,172
+Last Trade:=$40.38
+
+(aec)
+Prev. Close:=$16.64
+Change:=+0.24
+Volume:=174,545
+Last Trade:=$16.88
+
+(aeis)
+Prev. Close:=$13.27
+Change:=-0.10
+Volume:=1,318,529
+Last Trade:=$13.16
+
+(aet)
+Prev. Close:=$44.69
+Change:=+0.20
+Volume:=2,309,199
+Last Trade:=$44.89
+
+(afce)
+Prev. Close:=$17.03
+Change:=-0.03
+Volume:=149,074
+Last Trade:=$17.00
+
+(agam)
+Prev. Close:=$21.20
+Change:=+0.00
+Volume:=n.a.
+Last Trade:=$21.20
+
+(agco)
+Prev. Close:=$50.07
+Change:=+0.06
+Volume:=1,514,204
+Last Trade:=$50.13
+
+(agx)
+Prev. Close:=$10.39
+Change:=+0.03
+Volume:=14,753
+Last Trade:=$10.42
+
+(agys)
+Prev. Close:=$8.34
+Change:=+0.02
+Volume:=185,148
+Last Trade:=$8.36
+
+(ahc)
+Prev. Close:=$7.44
+Change:=+0.01
+Volume:=38,658
+Last Trade:=$7.45
+
+(aht)
+Prev. Close:=$12.67
+Change:=+0.01
+Volume:=526,531
+Last Trade:=$12.68
+
+(aig)
+Prev. Close:=$29.68
+Change:=-0.30
+Volume:=5,663,739
+Last Trade:=$29.38
+
+(airm)
+Prev. Close:=$76.15
+Change:=-0.07
+Volume:=55,952
+Last Trade:=$76.08
+
+(ajg)
+Prev. Close:=$28.65
+Change:=+0.16
+Volume:=367,796
+Last Trade:=$28.81
+
+(akam)
+Prev. Close:=$31.18
+Change:=+0.25
+Volume:=3,446,558
+Last Trade:=$31.43
+
+(alb)
+Prev. Close:=$70.06
+Change:=+0.14
+Volume:=781,881
+Last Trade:=$70.20
+
+(alc)
+Prev. Close:=$16.84
+Change:=+0.01
+Volume:=54,397
+Last Trade:=$16.85
+
+(ale)
+Prev. Close:=$41.59
+Change:=+0.10
+Volume:=80,201
+Last Trade:=$41.69
+
+(alex)
+Prev. Close:=$49.86
+Change:=+1.18
+Volume:=153,977
+Last Trade:=$51.04
+
+(alnc)
+Prev. Close:=$30.95
+Change:=+0.37
+Volume:=7,574
+Last Trade:=$31.32
+
+(alth)
+Prev. Close:=$2.11
+Change:=-0.04
+Volume:=581,070
+Last Trade:=$2.07
+
+(altr)
+Prev. Close:=$47.12
+Change:=-0.04
+Volume:=2,597,411
+Last Trade:=$47.08
+
+(alxa)
+Prev. Close:=$1.83
+Change:=-0.06
+Volume:=483,055
+Last Trade:=$1.77
+
+(alxn)
+Prev. Close:=$47.96
+Change:=-0.15
+Volume:=769,863
+Last Trade:=$47.81
+
+(aly)
+Prev. Close:=$n.a.
+Change:=n.a.
+Volume:=n.a.
+Last Trade:=$n.a.
+
+(amat)
+Prev. Close:=$13.09
+Change:=-0.05
+Volume:=13,661,626
+Last Trade:=$13.04
+
+(amg)
+Prev. Close:=$103.94
+Change:=+0.68
+Volume:=419,203
+Last Trade:=$104.62
+
+(amgn)
+Prev. Close:=$57.92
+Change:=-0.22
+Volume:=5,078,947
+Last Trade:=$57.70
+
+(amn)
+Prev. Close:=$85.08
+Change:=+0.14
+Volume:=547,532
+Last Trade:=$85.22
+
+(amp)
+Prev. Close:=$57.47
+Change:=+1.04
+Volume:=2,745,931
+Last Trade:=$58.51
+
+(amph)
+Prev. Close:=$32.49
+Change:=-0.02
+Volume:=46,340
+Last Trade:=$32.47
+
+(amsg)
+Prev. Close:=$27.18
+Change:=+0.30
+Volume:=126,966
+Last Trade:=$27.48
+
+(amt)
+Prev. Close:=$53.59
+Change:=+0.15
+Volume:=2,441,303
+Last Trade:=$53.74
+
+(amzn)
+Prev. Close:=$213.19
+Change:=+1.00
+Volume:=2,590,193
+Last Trade:=$214.19
+
+(anf)
+Prev. Close:=$71.41
+Change:=+1.06
+Volume:=2,253,339
+Last Trade:=$72.47
+
+(ango)
+Prev. Close:=$14.20
+Change:=-0.07
+Volume:=53,022
+Last Trade:=$14.13
+
+(anr)
+Prev. Close:=$46.08
+Change:=-1.02
+Volume:=4,152,203
+Last Trade:=$45.06
+
+(anth)
+Prev. Close:=$8.06
+Change:=+0.24
+Volume:=170,899
+Last Trade:=$8.30
+
+(anv)
+Prev. Close:=$37.15
+Change:=+0.84
+Volume:=1,413,456
+Last Trade:=$37.99
+
+(aoi)
+Prev. Close:=$3.27
+Change:=+0.05
+Volume:=593,481
+Last Trade:=$3.32
+
+(aon)
+Prev. Close:=$51.53
+Change:=-0.05
+Volume:=1,750,422
+Last Trade:=$51.48
+
+(apac)
+Prev. Close:=$5.31
+Change:=+0.13
+Volume:=199,721
+Last Trade:=$5.44
+
+(apd)
+Prev. Close:=$96.29
+Change:=+0.51
+Volume:=1,477,915
+Last Trade:=$96.80
+
+(apkt)
+Prev. Close:=$73.80
+Change:=-0.59
+Volume:=1,117,230
+Last Trade:=$73.21
+
+(apol)
+Prev. Close:=$47.03
+Change:=+0.44
+Volume:=2,451,790
+Last Trade:=$47.47
+
+(apsg)
+Prev. Close:=$37.98
+Change:=+0.02
+Volume:=163,402
+Last Trade:=$38.01
+
+(aray)
+Prev. Close:=$8.12
+Change:=+0.14
+Volume:=375,175
+Last Trade:=$8.26
+
+(arb)
+Prev. Close:=$41.30
+Change:=+0.22
+Volume:=100,571
+Last Trade:=$41.52
+
+(are)
+Prev. Close:=$80.46
+Change:=+0.56
+Volume:=453,472
+Last Trade:=$81.02
+
+(ari)
+Prev. Close:=$16.16
+Change:=+0.04
+Volume:=49,974
+Last Trade:=$16.20
+
+(aria)
+Prev. Close:=$11.90
+Change:=+0.08
+Volume:=1,902,377
+Last Trade:=$11.98
+
+(arm)
+Prev. Close:=$n.a.
+Change:=n.a.
+Volume:=n.a.
+Last Trade:=$n.a.
+
+(aro)
+Prev. Close:=$17.59
+Change:=-0.08
+Volume:=1,492,652
+Last Trade:=$17.51
+
+(arow)
+Prev. Close:=$24.55
+Change:=+0.26
+Volume:=12,196
+Last Trade:=$24.81
+
+(artg)
+Prev. Close:=$n.a.
+Change:=n.a.
+Volume:=n.a.
+Last Trade:=$n.a.
+
+(arw)
+Prev. Close:=$41.24
+Change:=+0.16
+Volume:=660,378
+Last Trade:=$41.40
+
+(asca)
+Prev. Close:=$23.91
+Change:=-0.06
+Volume:=325,070
+Last Trade:=$23.85
+
+(asfi)
+Prev. Close:=$8.13
+Change:=-0.02
+Volume:=34,663
+Last Trade:=$8.11
+
+(asgr)
+Prev. Close:=$26.00
+Change:=+0.01
+Volume:=58,100
+Last Trade:=$26.01
+
+(atac)
+Prev. Close:=$24.95
+Change:=+0.04
+Volume:=1,123,355
+Last Trade:=$24.99
+
+(athr)
+Prev. Close:=$44.98
+Change:=+0.01
+Volume:=1,872,960
+Last Trade:=$44.99
+
+(atls)
+Prev. Close:=$22.72
+Change:=+0.71
+Volume:=246,232
+Last Trade:=$23.43
+
+(atni)
+Prev. Close:=$37.91
+Change:=+0.67
+Volume:=40,874
+Last Trade:=$38.58
+
+(atpg)
+Prev. Close:=$15.54
+Change:=-0.13
+Volume:=703,395
+Last Trade:=$15.41
+
+(atsg)
+Prev. Close:=$6.90
+Change:=-0.09
+Volume:=177,917
+Last Trade:=$6.81
+
+(atsi)
+Prev. Close:=$4.00
+Change:=+0.00
+Volume:=633,369
+Last Trade:=$4.00
+
+(atvi)
+Prev. Close:=$11.80
+Change:=+0.16
+Volume:=6,082,244
+Last Trade:=$11.96
+
+(auxl)
+Prev. Close:=$19.47
+Change:=+0.21
+Volume:=329,025
+Last Trade:=$19.68
+
+(avid)
+Prev. Close:=$19.45
+Change:=+0.02
+Volume:=79,454
+Last Trade:=$19.47
+
+(avnw)
+Prev. Close:=$3.98
+Change:=+0.01
+Volume:=141,082
+Last Trade:=$3.99
+
+(avx)
+Prev. Close:=$15.47
+Change:=-0.04
+Volume:=199,107
+Last Trade:=$15.43
+
+(avy)
+Prev. Close:=$38.57
+Change:=-0.12
+Volume:=1,339,108
+Last Trade:=$38.45
+
+(awi)
+Prev. Close:=$47.04
+Change:=+0.85
+Volume:=479,355
+Last Trade:=$47.89
+
+(awr)
+Prev. Close:=$35.04
+Change:=+0.09
+Volume:=44,273
+Last Trade:=$35.13
+
+(axl)
+Prev. Close:=$10.95
+Change:=+0.39
+Volume:=4,438,167
+Last Trade:=$11.34
+
+(axp)
+Prev. Close:=$52.33
+Change:=+0.43
+Volume:=5,881,866
+Last Trade:=$52.76
+
+(axs)
+Prev. Close:=$30.84
+Change:=-0.07
+Volume:=624,227
+Last Trade:=$30.77
+
+(azo)
+Prev. Close:=$297.14
+Change:=+0.61
+Volume:=333,242
+Last Trade:=$297.75
+
+(ba)
+Prev. Close:=$74.15
+Change:=+0.59
+Volume:=3,733,290
+Last Trade:=$74.74
+
+(bac)
+Prev. Close:=$11.00
+Change:=-0.26
+Volume:=141,958,278
+Last Trade:=$10.74
+
+(bamm)
+Prev. Close:=$3.31
+Change:=0.00
+Volume:=68,781
+Last Trade:=$3.31
+
+(bbbb)
+Prev. Close:=$44.14
+Change:=+0.04
+Volume:=3,493,012
+Last Trade:=$44.19
+
+(bbby)
+Prev. Close:=$59.30
+Change:=-0.20
+Volume:=2,477,994
+Last Trade:=$59.10
+
+(bbg)
+Prev. Close:=$46.81
+Change:=+0.25
+Volume:=769,753
+Last Trade:=$47.06
+
+(bbgi)
+Prev. Close:=$4.24
+Change:=-0.05
+Volume:=7,136
+Last Trade:=$4.19
+
+(bbw)
+Prev. Close:=$6.05
+Change:=+0.26
+Volume:=82,172
+Last Trade:=$6.31
+
+(bc)
+Prev. Close:=$21.31
+Change:=-0.22
+Volume:=832,329
+Last Trade:=$21.09
+
+(bcrx)
+Prev. Close:=$3.75
+Change:=+0.05
+Volume:=224,669
+Last Trade:=$3.80
+
+(bcsi)
+Prev. Close:=$21.96
+Change:=-0.38
+Volume:=496,070
+Last Trade:=$21.58
+
+(bdge)
+Prev. Close:=$21.79
+Change:=-0.08
+Volume:=8,033
+Last Trade:=$21.71
+
+(beat)
+Prev. Close:=$5.24
+Change:=+0.02
+Volume:=127,450
+Last Trade:=$5.26
+
+(beav)
+Prev. Close:=$41.34
+Change:=+0.26
+Volume:=482,959
+Last Trade:=$41.60
+
+(belfb)
+Prev. Close:=$21.91
+Change:=-0.10
+Volume:=11,778
+Last Trade:=$21.81
+
+(bez)
+Prev. Close:=$63.47
+Change:=+0.03
+Volume:=116,994
+Last Trade:=$63.50
+
+(bfs)
+Prev. Close:=$39.82
+Change:=+0.39
+Volume:=26,341
+Last Trade:=$40.21
+
+(bgcp)
+Prev. Close:=$7.82
+Change:=+0.02
+Volume:=562,113
+Last Trade:=$7.84
+
+(bgs)
+Prev. Close:=$21.16
+Change:=-0.53
+Volume:=561,767
+Last Trade:=$20.63
+
+(bh)
+Prev. Close:=$402.05
+Change:=-1.11
+Volume:=8,386
+Last Trade:=$400.94
+
+(bidu)
+Prev. Close:=$145.87
+Change:=-0.03
+Volume:=6,971,955
+Last Trade:=$145.84
+
+(biib)
+Prev. Close:=$107.91
+Change:=-0.02
+Volume:=1,487,533
+Last Trade:=$107.89
+
+(bio)
+Prev. Close:=$121.44
+Change:=+0.32
+Volume:=71,578
+Last Trade:=$121.76
+
+(bj)
+Prev. Close:=$50.34
+Change:=+0.02
+Volume:=2,398,179
+Last Trade:=$50.36
+
+(bkmu)
+Prev. Close:=$3.79
+Change:=+0.04
+Volume:=167,686
+Last Trade:=$3.83
+
+(bldr)
+Prev. Close:=$2.17
+Change:=+0.19
+Volume:=136,492
+Last Trade:=$2.36
+
+(blk)
+Prev. Close:=$194.51
+Change:=+1.04
+Volume:=570,581
+Last Trade:=$195.55
+
+(bll)
+Prev. Close:=$39.29
+Change:=+0.36
+Volume:=1,294,386
+Last Trade:=$39.65
+
+(bmc)
+Prev. Close:=$55.45
+Change:=-0.14
+Volume:=2,037,815
+Last Trade:=$55.31
+
+(bmi)
+Prev. Close:=$37.65
+Change:=-0.07
+Volume:=73,380
+Last Trade:=$37.58
+
+(bmrn)
+Prev. Close:=$27.79
+Change:=+0.36
+Volume:=478,864
+Last Trade:=$28.15
+
+(bmtc)
+Prev. Close:=$20.11
+Change:=-0.11
+Volume:=55,506
+Last Trade:=$20.00
+
+(bokf)
+Prev. Close:=$55.32
+Change:=+0.19
+Volume:=67,734
+Last Trade:=$55.51
+
+(boom)
+Prev. Close:=$23.14
+Change:=+0.19
+Volume:=44,077
+Last Trade:=$23.33
+
+(bpop)
+Prev. Close:=$2.69
+Change:=+0.12
+Volume:=15,866,200
+Last Trade:=$2.81
+
+(brc)
+Prev. Close:=$32.98
+Change:=+0.14
+Volume:=212,935
+Last Trade:=$33.12
+
+(brcm)
+Prev. Close:=$34.27
+Change:=-0.22
+Volume:=4,353,399
+Last Trade:=$34.05
+
+(bre)
+Prev. Close:=$51.34
+Change:=+0.49
+Volume:=686,810
+Last Trade:=$51.83
+
+(brli)
+Prev. Close:=$20.53
+Change:=+0.28
+Volume:=165,496
+Last Trade:=$20.81
+
+(brs)
+Prev. Close:=$50.38
+Change:=-0.71
+Volume:=362,764
+Last Trade:=$49.67
+
+(bsrr)
+Prev. Close:=$11.00
+Change:=+0.10
+Volume:=101,357
+Last Trade:=$11.10
+
+(bstc)
+Prev. Close:=$22.42
+Change:=+1.27
+Volume:=10,654
+Last Trade:=$23.69
+
+(btn)
+Prev. Close:=$4.67
+Change:=-0.05
+Volume:=157,799
+Last Trade:=$4.62
+
+(buse)
+Prev. Close:=$5.23
+Change:=+0.01
+Volume:=168,350
+Last Trade:=$5.24
+
+(bxg)
+Prev. Close:=$2.74
+Change:=-0.06
+Volume:=90,087
+Last Trade:=$2.68
+
+(bxs)
+Prev. Close:=$12.28
+Change:=-0.07
+Volume:=669,080
+Last Trade:=$12.21
+
+(byi)
+Prev. Close:=$41.12
+Change:=-0.76
+Volume:=782,035
+Last Trade:=$40.36
+
+(bz)
+Prev. Close:=$7.86
+Change:=-0.18
+Volume:=2,209,819
+Last Trade:=$7.68
+
+(c)
+Prev. Close:=$42.57
+Change:=-0.56
+Volume:=28,173,532
+Last Trade:=$42.01
+
+(ca)
+Prev. Close:=$22.89
+Change:=+0.27
+Volume:=2,913,494
+Last Trade:=$23.16
+
+(cag)
+Prev. Close:=$25.74
+Change:=+0.25
+Volume:=4,116,656
+Last Trade:=$25.99
+
+(cah)
+Prev. Close:=$46.38
+Change:=+0.35
+Volume:=2,351,591
+Last Trade:=$46.73
+
+(cake)
+Prev. Close:=$33.34
+Change:=-0.18
+Volume:=588,950
+Last Trade:=$33.16
+
+(cap)
+Prev. Close:=$20.10
+Change:=+0.12
+Volume:=58,341
+Last Trade:=$20.22
+
+(cas)
+Prev. Close:=$17.15
+Change:=+0.18
+Volume:=50,065
+Last Trade:=$17.33
+
+(casc)
+Prev. Close:=$49.40
+Change:=+1.18
+Volume:=111,138
+Last Trade:=$50.58
+
+(cat)
+Prev. Close:=$108.43
+Change:=+1.65
+Volume:=6,894,301
+Last Trade:=$110.08
+
+(caty)
+Prev. Close:=$16.49
+Change:=+0.29
+Volume:=304,479
+Last Trade:=$16.78
+
+(cavm)
+Prev. Close:=$43.65
+Change:=+0.57
+Volume:=585,826
+Last Trade:=$44.22
+
+(cb)
+Prev. Close:=$62.20
+Change:=-0.09
+Volume:=1,890,887
+Last Trade:=$62.11
+
+(cbb)
+Prev. Close:=$3.27
+Change:=0.00
+Volume:=1,330,369
+Last Trade:=$3.27
+
+(cbg)
+Prev. Close:=$25.39
+Change:=+0.07
+Volume:=3,758,967
+Last Trade:=$25.46
+
+(cbr)
+Prev. Close:=$5.63
+Change:=+0.14
+Volume:=336,271
+Last Trade:=$5.77
+
+(cbu)
+Prev. Close:=$25.15
+Change:=+0.06
+Volume:=154,363
+Last Trade:=$25.21
+
+(ccbg)
+Prev. Close:=$10.29
+Change:=+0.04
+Volume:=57,162
+Last Trade:=$10.33
+
+(ccc)
+Prev. Close:=$17.04
+Change:=-0.17
+Volume:=879,199
+Last Trade:=$16.87
+
+(cce)
+Prev. Close:=$29.76
+Change:=-0.34
+Volume:=4,190,605
+Last Trade:=$29.42
+
+(ccmp)
+Prev. Close:=$47.35
+Change:=-0.25
+Volume:=105,017
+Last Trade:=$47.10
+
+(ccne)
+Prev. Close:=$13.69
+Change:=+0.27
+Volume:=19,257
+Last Trade:=$13.96
+
+(ccoi)
+Prev. Close:=$17.26
+Change:=+0.46
+Volume:=197,078
+Last Trade:=$17.72
+
+(cdzi)
+Prev. Close:=$11.27
+Change:=+0.38
+Volume:=25,475
+Last Trade:=$11.65
+
+(cec)
+Prev. Close:=$41.43
+Change:=-0.02
+Volume:=80,545
+Last Trade:=$41.41
+
+(ceco)
+Prev. Close:=$21.83
+Change:=+0.30
+Volume:=1,523,787
+Last Trade:=$22.13
+
+(celg)
+Prev. Close:=$60.31
+Change:=+0.22
+Volume:=2,073,247
+Last Trade:=$60.53
+
+(ceph)
+Prev. Close:=$80.03
+Change:=-0.01
+Volume:=1,295,206
+Last Trade:=$80.02
+
+(cern)
+Prev. Close:=$63.00
+Change:=+0.66
+Volume:=1,049,923
+Last Trade:=$63.66
+
+(cers)
+Prev. Close:=$2.95
+Change:=-0.02
+Volume:=156,281
+Last Trade:=$2.93
+
+(cffn)
+Prev. Close:=$11.82
+Change:=+0.03
+Volume:=897,858
+Last Trade:=$11.85
+
+(cfnb)
+Prev. Close:=$15.77
+Change:=+0.23
+Volume:=2,496
+Last Trade:=$16.00
+
+(cfnl)
+Prev. Close:=$11.15
+Change:=+0.17
+Volume:=96,384
+Last Trade:=$11.32
+
+(cgc)
+Prev. Close:=$n.a.
+Change:=n.a.
+Volume:=n.a.
+Last Trade:=$n.a.
+
+(cgx)
+Prev. Close:=$56.49
+Change:=+0.80
+Volume:=41,395
+Last Trade:=$57.29
+
+(chdx)
+Prev. Close:=$13.56
+Change:=+0.05
+Volume:=20,160
+Last Trade:=$13.61
+
+(chg)
+Prev. Close:=$54.04
+Change:=+0.31
+Volume:=41,165
+Last Trade:=$54.35
+
+(chh)
+Prev. Close:=$34.31
+Change:=-0.15
+Volume:=104,071
+Last Trade:=$34.16
+
+(chkp)
+Prev. Close:=$57.65
+Change:=+0.21
+Volume:=1,539,638
+Last Trade:=$57.86
+
+(chrs)
+Prev. Close:=$4.22
+Change:=+0.11
+Volume:=1,242,227
+Last Trade:=$4.33
+
+(chrw)
+Prev. Close:=$80.47
+Change:=+0.69
+Volume:=861,791
+Last Trade:=$81.16
+
+(chs)
+Prev. Close:=$15.51
+Change:=+0.13
+Volume:=1,361,971
+Last Trade:=$15.64
+
+(chsp)
+Prev. Close:=$16.74
+Change:=+0.19
+Volume:=80,472
+Last Trade:=$16.93
+
+(cix)
+Prev. Close:=$13.12
+Change:=+0.06
+Volume:=232
+Last Trade:=$13.18
+
+(ckh)
+Prev. Close:=$102.90
+Change:=+0.39
+Volume:=144,852
+Last Trade:=$103.29
+
+(ckp)
+Prev. Close:=$17.93
+Change:=-0.27
+Volume:=215,593
+Last Trade:=$17.66
+
+(ckr)
+Prev. Close:=$12.55
+Change:=+0.00
+Volume:=984,094
+Last Trade:=$12.55
+
+(ckxe)
+Prev. Close:=$5.50
+Change:=+0.01
+Volume:=1,694,891
+Last Trade:=$5.51
+
+(clc)
+Prev. Close:=$47.70
+Change:=+0.05
+Volume:=193,059
+Last Trade:=$47.75
+
+(cldt)
+Prev. Close:=$16.36
+Change:=-0.16
+Volume:=57,180
+Last Trade:=$16.20
+
+(clh)
+Prev. Close:=$106.70
+Change:=+1.92
+Volume:=226,744
+Last Trade:=$108.62
+
+(clne)
+Prev. Close:=$13.48
+Change:=-0.42
+Volume:=829,535
+Last Trade:=$13.06
+
+(clny)
+Prev. Close:=$18.36
+Change:=+0.15
+Volume:=343,548
+Last Trade:=$18.51
+
+(clp)
+Prev. Close:=$20.76
+Change:=+0.26
+Volume:=1,292,308
+Last Trade:=$21.02
+
+(clr)
+Prev. Close:=$66.73
+Change:=+0.22
+Volume:=642,456
+Last Trade:=$66.95
+
+(clrt)
+Prev. Close:=$4.99
+Change:=+0.00
+Volume:=187,460
+Last Trade:=$4.99
+
+(clw)
+Prev. Close:=$68.52
+Change:=-0.29
+Volume:=263,118
+Last Trade:=$68.23
+
+(cmcsa)
+Prev. Close:=$25.97
+Change:=-0.48
+Volume:=17,297,857
+Last Trade:=$25.49
+
+(cml)
+Prev. Close:=$27.73
+Change:=+0.02
+Volume:=974,576
+Last Trade:=$27.75
+
+(cmls)
+Prev. Close:=$3.44
+Change:=+0.07
+Volume:=289,924
+Last Trade:=$3.51
+
+(cmn)
+Prev. Close:=$27.34
+Change:=+0.14
+Volume:=75,256
+Last Trade:=$27.48
+
+(cmo)
+Prev. Close:=$13.46
+Change:=0.00
+Volume:=979,067
+Last Trade:=$13.46
+
+(cmp)
+Prev. Close:=$86.80
+Change:=+0.65
+Volume:=155,713
+Last Trade:=$87.45
+
+(cmtl)
+Prev. Close:=$28.67
+Change:=-0.06
+Volume:=227,460
+Last Trade:=$28.61
+
+(cnbka)
+Prev. Close:=$26.95
+Change:=+0.47
+Volume:=2,858
+Last Trade:=$27.42
+
+(cnc)
+Prev. Close:=$36.41
+Change:=+0.34
+Volume:=391,675
+Last Trade:=$36.75
+
+(cnk)
+Prev. Close:=$20.20
+Change:=-0.05
+Volume:=1,001,632
+Last Trade:=$20.15
+
+(cnsl)
+Prev. Close:=$19.74
+Change:=+0.24
+Volume:=202,206
+Last Trade:=$19.98
+
+(cog)
+Prev. Close:=$67.16
+Change:=-0.67
+Volume:=1,745,373
+Last Trade:=$66.49
+
+(colb)
+Prev. Close:=$17.40
+Change:=+0.31
+Volume:=298,405
+Last Trade:=$17.71
+
+(comv)
+Prev. Close:=$2.91
+Change:=-0.11
+Volume:=156,873
+Last Trade:=$2.80
+
+(coo)
+Prev. Close:=$79.99
+Change:=+1.74
+Volume:=358,844
+Last Trade:=$81.73
+
+(cost)
+Prev. Close:=$81.29
+Change:=+1.35
+Volume:=2,148,159
+Last Trade:=$82.64
+
+(cov)
+Prev. Close:=$53.78
+Change:=+0.23
+Volume:=2,240,233
+Last Trade:=$54.01
+
+(cown)
+Prev. Close:=$3.96
+Change:=-0.10
+Volume:=367,033
+Last Trade:=$3.86
+
+(cpa)
+Prev. Close:=$67.15
+Change:=+1.34
+Volume:=247,010
+Last Trade:=$68.49
+
+(cpe)
+Prev. Close:=$7.07
+Change:=-0.01
+Volume:=277,880
+Last Trade:=$7.06
+
+(cpn)
+Prev. Close:=$16.08
+Change:=+0.08
+Volume:=1,914,666
+Last Trade:=$16.16
+
+(cprt)
+Prev. Close:=$47.12
+Change:=+0.15
+Volume:=276,204
+Last Trade:=$47.27
+
+(cpst)
+Prev. Close:=$1.54
+Change:=+0.03
+Volume:=1,420,831
+Last Trade:=$1.57
+
+(cpy)
+Prev. Close:=$12.73
+Change:=+0.29
+Volume:=65,718
+Last Trade:=$13.02
+
+(cr)
+Prev. Close:=$50.35
+Change:=+0.27
+Volume:=283,783
+Last Trade:=$50.62
+
+(cra)
+Prev. Close:=$8.05
+Change:=-0.01
+Volume:=854,913
+Last Trade:=$8.04
+
+(crai)
+Prev. Close:=$28.10
+Change:=+0.33
+Volume:=19,959
+Last Trade:=$28.43
+
+(crbc)
+Prev. Close:=$7.51
+Change:=+0.04
+Volume:=199,198
+Last Trade:=$7.55
+
+(crdn)
+Prev. Close:=$38.44
+Change:=-0.76
+Volume:=161,566
+Last Trade:=$37.68
+
+(cree)
+Prev. Close:=$32.81
+Change:=-1.00
+Volume:=4,521,896
+Last Trade:=$31.81
+
+(crmt)
+Prev. Close:=$34.13
+Change:=+0.26
+Volume:=73,949
+Last Trade:=$34.39
+
+(crn)
+Prev. Close:=$28.05
+Change:=+1.40
+Volume:=209,085
+Last Trade:=$29.45
+
+(crrc)
+Prev. Close:=$11.00
+Change:=+0.03
+Volume:=27,995
+Last Trade:=$11.03
+
+(crs)
+Prev. Close:=$58.18
+Change:=-0.39
+Volume:=324,049
+Last Trade:=$57.79
+
+(csco)
+Prev. Close:=$15.67
+Change:=-0.11
+Volume:=42,950,713
+Last Trade:=$15.56
+
+(csgp)
+Prev. Close:=$59.50
+Change:=-0.30
+Volume:=167,088
+Last Trade:=$59.20
+
+(cstr)
+Prev. Close:=$56.48
+Change:=-0.27
+Volume:=829,751
+Last Trade:=$56.21
+
+(csu)
+Prev. Close:=$9.80
+Change:=-0.37
+Volume:=170,154
+Last Trade:=$9.43
+
+(cswc)
+Prev. Close:=$96.63
+Change:=+1.28
+Volume:=15,014
+Last Trade:=$97.91
+
+(ctas)
+Prev. Close:=$33.82
+Change:=-0.11
+Volume:=1,016,227
+Last Trade:=$33.71
+
+(ctgx)
+Prev. Close:=$12.62
+Change:=+0.03
+Volume:=61,984
+Last Trade:=$12.65
+
+(ctl)
+Prev. Close:=$41.00
+Change:=-0.09
+Volume:=3,732,989
+Last Trade:=$40.91
+
+(ctrp)
+Prev. Close:=$44.17
+Change:=-0.47
+Volume:=1,489,477
+Last Trade:=$43.70
+
+(ctsh)
+Prev. Close:=$75.67
+Change:=+0.33
+Volume:=1,854,308
+Last Trade:=$76.00
+
+(ctxs)
+Prev. Close:=$81.06
+Change:=+1.16
+Volume:=1,688,926
+Last Trade:=$82.22
+
+(cvo)
+Prev. Close:=$6.41
+Change:=+0.01
+Volume:=237,896
+Last Trade:=$6.42
+
+(cvx)
+Prev. Close:=$105.12
+Change:=-0.04
+Volume:=6,133,669
+Last Trade:=$105.08
+
+(cxs)
+Prev. Close:=$11.18
+Change:=+0.09
+Volume:=441,202
+Last Trade:=$11.27
+
+(cyh)
+Prev. Close:=$25.73
+Change:=+0.40
+Volume:=1,451,452
+Last Trade:=$26.13
+
+(cyn)
+Prev. Close:=$54.97
+Change:=-0.07
+Volume:=238,725
+Last Trade:=$54.90
+
+(cypb)
+Prev. Close:=$n.a.
+Change:=n.a.
+Volume:=n.a.
+Last Trade:=$n.a.
+
+(cytk)
+Prev. Close:=$1.23
+Change:=-0.03
+Volume:=140,027
+Last Trade:=$1.20
+
+(cytr)
+Prev. Close:=$0.71
+Change:=+0.02
+Volume:=546,010
+Last Trade:=$0.73
+
+(dakt)
+Prev. Close:=$11.22
+Change:=-0.17
+Volume:=91,080
+Last Trade:=$11.05
+
+(dal)
+Prev. Close:=$9.12
+Change:=+0.01
+Volume:=14,801,031
+Last Trade:=$9.13
+
+(dar)
+Prev. Close:=$17.22
+Change:=-0.54
+Volume:=1,520,359
+Last Trade:=$16.68
+
+(dbd)
+Prev. Close:=$31.67
+Change:=+0.08
+Volume:=248,039
+Last Trade:=$31.75
+
+(dbtk)
+Prev. Close:=$10.51
+Change:=+0.04
+Volume:=1,287,710
+Last Trade:=$10.55
+
+(dd)
+Prev. Close:=$54.45
+Change:=+0.75
+Volume:=8,521,383
+Last Trade:=$55.20
+
+(ddic)
+Prev. Close:=$9.47
+Change:=+0.36
+Volume:=82,030
+Last Trade:=$9.83
+
+(ddmx)
+Prev. Close:=$24.98
+Change:=+0.01
+Volume:=114,440
+Last Trade:=$24.99
+
+(de)
+Prev. Close:=$84.84
+Change:=-0.25
+Volume:=4,069,638
+Last Trade:=$84.59
+
+(deck)
+Prev. Close:=$90.75
+Change:=+0.21
+Volume:=703,077
+Last Trade:=$90.96
+
+(dei)
+Prev. Close:=$20.41
+Change:=+0.14
+Volume:=1,738,049
+Last Trade:=$20.55
+
+(dell)
+Prev. Close:=$16.98
+Change:=-0.07
+Volume:=15,380,893
+Last Trade:=$16.91
+
+(dest)
+Prev. Close:=$20.70
+Change:=+0.32
+Volume:=112,522
+Last Trade:=$21.02
+
+(dfz)
+Prev. Close:=$11.43
+Change:=-0.10
+Volume:=17,019
+Last Trade:=$11.33
+
+(dgi)
+Prev. Close:=$25.63
+Change:=-0.08
+Volume:=121,189
+Last Trade:=$25.55
+
+(dhil)
+Prev. Close:=$82.71
+Change:=+0.49
+Volume:=18,836
+Last Trade:=$83.20
+
+(dhr)
+Prev. Close:=$54.38
+Change:=+0.30
+Volume:=3,026,947
+Last Trade:=$54.68
+
+(dis)
+Prev. Close:=$39.97
+Change:=-0.40
+Volume:=11,371,375
+Last Trade:=$39.57
+
+(dk)
+Prev. Close:=$15.64
+Change:=+0.23
+Volume:=292,052
+Last Trade:=$15.87
+
+(dlb)
+Prev. Close:=$41.89
+Change:=-1.48
+Volume:=1,097,144
+Last Trade:=$40.41
+
+(dllr)
+Prev. Close:=$21.96
+Change:=+0.85
+Volume:=1,309,295
+Last Trade:=$22.81
+
+(dltr)
+Prev. Close:=$69.22
+Change:=+0.33
+Volume:=810,860
+Last Trade:=$69.55
+
+(dm)
+Prev. Close:=$8.33
+Change:=+0.06
+Volume:=113,054
+Last Trade:=$8.39
+
+(dmrc)
+Prev. Close:=$36.02
+Change:=+1.68
+Volume:=102,910
+Last Trade:=$37.70
+
+(dnbk)
+Prev. Close:=$21.56
+Change:=+0.21
+Volume:=129,209
+Last Trade:=$21.77
+
+(dndn)
+Prev. Close:=$41.64
+Change:=-0.03
+Volume:=2,599,355
+Last Trade:=$41.61
+
+(dnr)
+Prev. Close:=$20.23
+Change:=-0.36
+Volume:=3,173,602
+Last Trade:=$19.87
+
+(drc)
+Prev. Close:=$55.05
+Change:=+0.28
+Volume:=636,489
+Last Trade:=$55.33
+
+(dri)
+Prev. Close:=$53.48
+Change:=-0.23
+Volume:=2,276,868
+Last Trade:=$53.25
+
+(driv)
+Prev. Close:=$32.71
+Change:=+0.44
+Volume:=287,368
+Last Trade:=$33.15
+
+(drl)
+Prev. Close:=$2.19
+Change:=+0.11
+Volume:=1,334,282
+Last Trade:=$2.30
+
+(dtsi)
+Prev. Close:=$40.62
+Change:=+0.16
+Volume:=175,062
+Last Trade:=$40.78
+
+(dtv)
+Prev. Close:=$52.01
+Change:=-0.09
+Volume:=4,864,503
+Last Trade:=$51.92
+
+(dva)
+Prev. Close:=$88.05
+Change:=+0.45
+Volume:=459,454
+Last Trade:=$88.50
+
+(dvn)
+Prev. Close:=$79.80
+Change:=+0.21
+Volume:=2,925,561
+Last Trade:=$80.01
+
+(dvox)
+Prev. Close:=$7.71
+Change:=+0.01
+Volume:=53,966
+Last Trade:=$7.72
+
+(dw)
+Prev. Close:=$24.67
+Change:=+0.38
+Volume:=88,482
+Last Trade:=$25.05
+
+(dwa)
+Prev. Close:=$20.66
+Change:=-0.54
+Volume:=2,525,241
+Last Trade:=$20.12
+
+(dxpe)
+Prev. Close:=$26.06
+Change:=+0.28
+Volume:=27,481
+Last Trade:=$26.34
+
+(dy)
+Prev. Close:=$16.64
+Change:=+0.46
+Volume:=370,989
+Last Trade:=$17.10
+
+(dyn)
+Prev. Close:=$6.25
+Change:=-0.02
+Volume:=618,542
+Last Trade:=$6.23
+
+(ebay)
+Prev. Close:=$32.64
+Change:=+0.28
+Volume:=9,772,420
+Last Trade:=$32.92
+
+(ebsb)
+Prev. Close:=$13.85
+Change:=-0.17
+Volume:=18,714
+Last Trade:=$13.68
+
+(ecpg)
+Prev. Close:=$31.01
+Change:=+0.20
+Volume:=97,947
+Last Trade:=$31.21
+
+(edr)
+Prev. Close:=$8.83
+Change:=+0.12
+Volume:=477,276
+Last Trade:=$8.95
+
+(eeft)
+Prev. Close:=$15.66
+Change:=+0.18
+Volume:=172,319
+Last Trade:=$15.84
+
+(egn)
+Prev. Close:=$57.99
+Change:=+0.03
+Volume:=868,193
+Last Trade:=$58.02
+
+(egov)
+Prev. Close:=$13.65
+Change:=+0.01
+Volume:=326,221
+Last Trade:=$13.66
+
+(egy)
+Prev. Close:=$6.19
+Change:=-0.03
+Volume:=386,903
+Last Trade:=$6.16
+
+(ek)
+Prev. Close:=$2.93
+Change:=-0.11
+Volume:=19,027,787
+Last Trade:=$2.82
+
+(elos)
+Prev. Close:=$12.19
+Change:=+0.07
+Volume:=120,875
+Last Trade:=$12.26
+
+(els)
+Prev. Close:=$65.09
+Change:=+1.06
+Volume:=480,803
+Last Trade:=$66.15
+
+(endp)
+Prev. Close:=$40.88
+Change:=+0.85
+Volume:=1,670,753
+Last Trade:=$41.73
+
+(enh)
+Prev. Close:=$40.90
+Change:=+0.47
+Volume:=687,620
+Last Trade:=$41.37
+
+(enoc)
+Prev. Close:=$15.81
+Change:=+0.41
+Volume:=244,891
+Last Trade:=$16.22
+
+(ens)
+Prev. Close:=$35.15
+Change:=-0.18
+Volume:=340,021
+Last Trade:=$34.97
+
+(ep)
+Prev. Close:=$20.48
+Change:=-0.08
+Volume:=4,270,554
+Last Trade:=$20.40
+
+(epax)
+Prev. Close:=$8.80
+Change:=+0.05
+Volume:=24,664
+Last Trade:=$8.85
+
+(epic)
+Prev. Close:=$12.51
+Change:=-0.01
+Volume:=193,857
+Last Trade:=$12.50
+
+(epl)
+Prev. Close:=$15.25
+Change:=-0.15
+Volume:=196,085
+Last Trade:=$15.10
+
+(epm)
+Prev. Close:=$7.36
+Change:=0.00
+Volume:=74,827
+Last Trade:=$7.36
+
+(eqy)
+Prev. Close:=$19.17
+Change:=+0.19
+Volume:=1,097,713
+Last Trade:=$19.36
+
+(erie)
+Prev. Close:=$70.82
+Change:=+0.55
+Volume:=75,772
+Last Trade:=$71.37
+
+(erts)
+Prev. Close:=$24.32
+Change:=+0.03
+Volume:=4,096,521
+Last Trade:=$24.35
+
+(ese)
+Prev. Close:=$37.56
+Change:=-0.08
+Volume:=173,564
+Last Trade:=$37.48
+
+(esgr)
+Prev. Close:=$104.09
+Change:=+1.08
+Volume:=12,575
+Last Trade:=$105.17
+
+(esl)
+Prev. Close:=$78.81
+Change:=+0.70
+Volume:=163,645
+Last Trade:=$79.51
+
+(esrx)
+Prev. Close:=$53.66
+Change:=+0.49
+Volume:=6,259,184
+Last Trade:=$54.15
+
+(ess)
+Prev. Close:=$138.93
+Change:=+2.61
+Volume:=228,843
+Last Trade:=$141.54
+
+(etm)
+Prev. Close:=$8.75
+Change:=-0.11
+Volume:=90,534
+Last Trade:=$8.64
+
+(evr)
+Prev. Close:=$33.45
+Change:=-0.48
+Volume:=376,419
+Last Trade:=$32.97
+
+(exas)
+Prev. Close:=$8.78
+Change:=+0.15
+Volume:=570,224
+Last Trade:=$8.93
+
+(exbd)
+Prev. Close:=$44.23
+Change:=+0.41
+Volume:=110,065
+Last Trade:=$44.64
+
+(exls)
+Prev. Close:=$23.19
+Change:=+0.17
+Volume:=25,450
+Last Trade:=$23.36
+
+(exp)
+Prev. Close:=$28.10
+Change:=-0.04
+Volume:=178,451
+Last Trade:=$28.06
+
+(expd)
+Prev. Close:=$52.27
+Change:=+0.19
+Volume:=1,110,587
+Last Trade:=$52.46
+
+(expe)
+Prev. Close:=$29.93
+Change:=-0.05
+Volume:=3,216,164
+Last Trade:=$29.88
+
+(exxi)
+Prev. Close:=$34.67
+Change:=+0.01
+Volume:=558,979
+Last Trade:=$34.68
+
+(fast)
+Prev. Close:=$36.59
+Change:=-0.12
+Volume:=2,645,289
+Last Trade:=$36.47
+
+(fbn)
+Prev. Close:=$4.08
+Change:=+0.16
+Volume:=402,085
+Last Trade:=$4.24
+
+(fbnc)
+Prev. Close:=$10.56
+Change:=+0.35
+Volume:=26,877
+Last Trade:=$10.91
+
+(fbp)
+Prev. Close:=$4.24
+Change:=+0.27
+Volume:=170,112
+Last Trade:=$4.51
+
+(fcel)
+Prev. Close:=$1.40
+Change:=+0.01
+Volume:=862,787
+Last Trade:=$1.41
+
+(fcnca)
+Prev. Close:=$187.40
+Change:=+2.28
+Volume:=5,846
+Last Trade:=$189.68
+
+(fcs)
+Prev. Close:=$17.32
+Change:=-0.25
+Volume:=1,445,352
+Last Trade:=$17.07
+
+(fcx)
+Prev. Close:=$53.62
+Change:=-0.10
+Volume:=13,637,527
+Last Trade:=$53.52
+
+(fdx)
+Prev. Close:=$95.50
+Change:=+1.28
+Volume:=2,365,854
+Last Trade:=$96.78
+
+(feic)
+Prev. Close:=$38.98
+Change:=-0.23
+Volume:=271,612
+Last Trade:=$38.75
+
+(ffic)
+Prev. Close:=$13.20
+Change:=+0.07
+Volume:=59,818
+Last Trade:=$13.27
+
+(ffiv)
+Prev. Close:=$113.51
+Change:=+2.31
+Volume:=2,711,759
+Last Trade:=$115.82
+
+(fisv)
+Prev. Close:=$64.03
+Change:=+0.72
+Volume:=869,036
+Last Trade:=$64.75
+
+(flex)
+Prev. Close:=$6.55
+Change:=-0.08
+Volume:=4,671,721
+Last Trade:=$6.47
+
+(flir)
+Prev. Close:=$34.04
+Change:=-0.04
+Volume:=952,117
+Last Trade:=$34.00
+
+(flo)
+Prev. Close:=$22.37
+Change:=+0.19
+Volume:=747,760
+Last Trade:=$22.56
+
+(flr)
+Prev. Close:=$64.65
+Change:=+0.28
+Volume:=1,462,467
+Last Trade:=$64.93
+
+(fls)
+Prev. Close:=$110.42
+Change:=-0.15
+Volume:=449,246
+Last Trade:=$110.27
+
+(flws)
+Prev. Close:=$3.20
+Change:=+0.02
+Volume:=114,856
+Last Trade:=$3.22
+
+(fmbi)
+Prev. Close:=$12.34
+Change:=+0.07
+Volume:=216,021
+Last Trade:=$12.41
+
+(fmc)
+Prev. Close:=$88.04
+Change:=+0.33
+Volume:=506,087
+Last Trade:=$88.37
+
+(fmd)
+Prev. Close:=$1.78
+Change:=+0.02
+Volume:=513,495
+Last Trade:=$1.80
+
+(fnsr)
+Prev. Close:=$18.55
+Change:=-0.31
+Volume:=3,263,796
+Last Trade:=$18.24
+
+(fosl)
+Prev. Close:=$122.63
+Change:=+1.38
+Volume:=610,855
+Last Trade:=$124.01
+
+(frx)
+Prev. Close:=$39.61
+Change:=-0.59
+Volume:=4,326,298
+Last Trade:=$39.02
+
+(fsii)
+Prev. Close:=$2.87
+Change:=-0.05
+Volume:=248,599
+Last Trade:=$2.82
+
+(fslr)
+Prev. Close:=$132.09
+Change:=-0.56
+Volume:=1,285,545
+Last Trade:=$131.53
+
+(fsp)
+Prev. Close:=$13.35
+Change:=+0.23
+Volume:=240,221
+Last Trade:=$13.58
+
+(fst)
+Prev. Close:=$28.15
+Change:=-0.08
+Volume:=2,841,837
+Last Trade:=$28.07
+
+(fsys)
+Prev. Close:=$24.49
+Change:=+0.03
+Volume:=168,664
+Last Trade:=$24.52
+
+(fto)
+Prev. Close:=$32.76
+Change:=-0.45
+Volume:=7,843,985
+Last Trade:=$32.31
+
+(ftr)
+Prev. Close:=$8.11
+Change:=+0.03
+Volume:=7,946,327
+Last Trade:=$8.14
+
+(fwrd)
+Prev. Close:=$34.70
+Change:=+0.99
+Volume:=105,659
+Last Trade:=$35.69
+
+(g)
+Prev. Close:=$17.55
+Change:=+0.28
+Volume:=689,354
+Last Trade:=$17.83
+
+(gain)
+Prev. Close:=$7.22
+Change:=+0.11
+Volume:=112,425
+Last Trade:=$7.33
+
+(gbdc)
+Prev. Close:=$15.18
+Change:=-0.11
+Volume:=94,669
+Last Trade:=$15.07
+
+(gbl)
+Prev. Close:=$46.62
+Change:=+1.12
+Volume:=4,314
+Last Trade:=$47.74
+
+(gd)
+Prev. Close:=$74.90
+Change:=-0.27
+Volume:=1,591,200
+Last Trade:=$74.63
+
+(ge)
+Prev. Close:=$19.04
+Change:=+0.01
+Volume:=31,347,761
+Last Trade:=$19.05
+
+(gef)
+Prev. Close:=$66.22
+Change:=+0.48
+Volume:=118,981
+Last Trade:=$66.70
+
+(geoi)
+Prev. Close:=$23.84
+Change:=+1.33
+Volume:=469,252
+Last Trade:=$25.17
+
+(get)
+Prev. Close:=$31.26
+Change:=-0.25
+Volume:=477,564
+Last Trade:=$31.01
+
+(ggp)
+Prev. Close:=$16.95
+Change:=0.00
+Volume:=3,058,259
+Last Trade:=$16.95
+
+(ggs)
+Prev. Close:=$17.81
+Change:=0.00
+Volume:=142,032
+Last Trade:=$17.81
+
+(gild)
+Prev. Close:=$41.57
+Change:=+0.68
+Volume:=6,103,743
+Last Trade:=$42.25
+
+(gksr)
+Prev. Close:=$35.11
+Change:=-0.05
+Volume:=45,227
+Last Trade:=$35.06
+
+(glad)
+Prev. Close:=$9.30
+Change:=+0.05
+Volume:=109,476
+Last Trade:=$9.35
+
+(glng)
+Prev. Close:=$37.15
+Change:=+0.66
+Volume:=936,372
+Last Trade:=$37.81
+
+(gmcr)
+Prev. Close:=$91.97
+Change:=+1.48
+Volume:=2,206,751
+Last Trade:=$93.45
+
+(gmt)
+Prev. Close:=$38.12
+Change:=+0.37
+Volume:=184,407
+Last Trade:=$38.49
+
+(gntx)
+Prev. Close:=$30.84
+Change:=+0.12
+Volume:=650,886
+Last Trade:=$30.96
+
+(goog)
+Prev. Close:=$532.44
+Change:=+2.92
+Volume:=2,688,193
+Last Trade:=$535.36
+
+(gps)
+Prev. Close:=$18.17
+Change:=+0.16
+Volume:=9,488,498
+Last Trade:=$18.33
+
+(grb)
+Prev. Close:=$11.11
+Change:=+0.04
+Volume:=96,276
+Last Trade:=$11.15
+
+(grmn)
+Prev. Close:=$33.25
+Change:=-0.03
+Volume:=632,416
+Last Trade:=$33.22
+
+(gsat)
+Prev. Close:=$1.19
+Change:=+0.01
+Volume:=198,298
+Last Trade:=$1.20
+
+(gsbc)
+Prev. Close:=$18.79
+Change:=+0.51
+Volume:=12,901
+Last Trade:=$19.30
+
+(gsm)
+Prev. Close:=$23.44
+Change:=+0.62
+Volume:=970,116
+Last Trade:=$24.06
+
+(gti)
+Prev. Close:=$21.32
+Change:=-0.19
+Volume:=1,349,892
+Last Trade:=$21.13
+
+(gty)
+Prev. Close:=$25.67
+Change:=+0.22
+Volume:=157,782
+Last Trade:=$25.89
+
+(gymb)
+Prev. Close:=$65.31
+Change:=+0.09
+Volume:=2,492,952
+Last Trade:=$65.40
+
+(hafc)
+Prev. Close:=$1.25
+Change:=-0.04
+Volume:=1,379,435
+Last Trade:=$1.21
+
+(hal)
+Prev. Close:=$52.15
+Change:=+0.51
+Volume:=10,467,257
+Last Trade:=$52.66
+
+(halo)
+Prev. Close:=$7.12
+Change:=-0.04
+Volume:=273,339
+Last Trade:=$7.08
+
+(hans)
+Prev. Close:=$82.19
+Change:=+0.80
+Volume:=1,123,927
+Last Trade:=$82.99
+
+(hbcp)
+Prev. Close:=$14.64
+Change:=-0.26
+Volume:=20,100
+Last Trade:=$14.38
+
+(hckt)
+Prev. Close:=$5.15
+Change:=+0.01
+Volume:=174,864
+Last Trade:=$5.16
+
+(hcp)
+Prev. Close:=$37.50
+Change:=+0.18
+Volume:=2,327,818
+Last Trade:=$37.68
+
+(hd)
+Prev. Close:=$36.59
+Change:=-0.02
+Volume:=6,994,820
+Last Trade:=$36.57
+
+(he)
+Prev. Close:=$24.40
+Change:=+0.22
+Volume:=253,378
+Last Trade:=$24.62
+
+(hees)
+Prev. Close:=$14.28
+Change:=-0.07
+Volume:=48,385
+Last Trade:=$14.21
+
+(hele)
+Prev. Close:=$35.03
+Change:=+0.64
+Volume:=303,185
+Last Trade:=$35.67
+
+(hgr)
+Prev. Close:=$25.28
+Change:=+0.37
+Volume:=148,689
+Last Trade:=$25.65
+
+(hgsi)
+Prev. Close:=$24.62
+Change:=+0.13
+Volume:=1,788,815
+Last Trade:=$24.75
+
+(hhgp)
+Prev. Close:=$5.25
+Change:=+0.70
+Volume:=181,171
+Last Trade:=$5.95
+
+(hibb)
+Prev. Close:=$41.40
+Change:=+0.40
+Volume:=277,870
+Last Trade:=$41.80
+
+(hig)
+Prev. Close:=$26.51
+Change:=0.00
+Volume:=4,406,039
+Last Trade:=$26.51
+
+(hk)
+Prev. Close:=$25.41
+Change:=-0.57
+Volume:=8,445,676
+Last Trade:=$24.84
+
+(hls)
+Prev. Close:=$26.76
+Change:=+0.11
+Volume:=461,939
+Last Trade:=$26.87
+
+(hma)
+Prev. Close:=$10.89
+Change:=+0.16
+Volume:=2,824,164
+Last Trade:=$11.05
+
+(hme)
+Prev. Close:=$63.51
+Change:=+0.26
+Volume:=294,854
+Last Trade:=$63.77
+
+(hmsy)
+Prev. Close:=$78.26
+Change:=+0.54
+Volume:=78,953
+Last Trade:=$78.81
+
+(hog)
+Prev. Close:=$42.85
+Change:=-0.51
+Volume:=2,803,110
+Last Trade:=$42.34
+
+(hott)
+Prev. Close:=$7.69
+Change:=-0.27
+Volume:=1,013,049
+Last Trade:=$7.42
+
+(hp)
+Prev. Close:=$67.46
+Change:=+0.80
+Volume:=1,385,569
+Last Trade:=$68.26
+
+(hpq)
+Prev. Close:=$36.47
+Change:=-0.27
+Volume:=16,358,797
+Last Trade:=$36.20
+
+(hpt)
+Prev. Close:=$24.92
+Change:=+0.31
+Volume:=792,669
+Last Trade:=$25.23
+
+(hpy)
+Prev. Close:=$20.61
+Change:=-0.03
+Volume:=210,299
+Last Trade:=$20.58
+
+(hrg)
+Prev. Close:=$6.07
+Change:=+0.07
+Volume:=27,325
+Last Trade:=$6.14
+
+(hrs)
+Prev. Close:=$44.84
+Change:=-0.06
+Volume:=884,524
+Last Trade:=$44.78
+
+(hrz)
+Prev. Close:=$1.12
+Change:=+0.01
+Volume:=635,547
+Last Trade:=$1.13
+
+(hsic)
+Prev. Close:=$73.12
+Change:=+1.09
+Volume:=345,529
+Last Trade:=$74.21
+
+(hsp)
+Prev. Close:=$54.13
+Change:=-0.17
+Volume:=1,288,245
+Last Trade:=$53.96
+
+(ht)
+Prev. Close:=$5.73
+Change:=+0.08
+Volume:=853,217
+Last Trade:=$5.81
+
+(htgc)
+Prev. Close:=$10.56
+Change:=+0.07
+Volume:=200,595
+Last Trade:=$10.63
+
+(hts)
+Prev. Close:=$28.70
+Change:=+0.14
+Volume:=1,105,685
+Last Trade:=$28.84
+
+(hurn)
+Prev. Close:=$30.92
+Change:=+0.08
+Volume:=57,202
+Last Trade:=$31.00
+
+(hwkn)
+Prev. Close:=$36.16
+Change:=+0.02
+Volume:=33,467
+Last Trade:=$36.18
+
+(iaci)
+Prev. Close:=$39.07
+Change:=-0.48
+Volume:=1,125,334
+Last Trade:=$38.59
+
+(ibm)
+Prev. Close:=$175.43
+Change:=+2.28
+Volume:=5,818,533
+Last Trade:=$177.71
+
+(iboc)
+Prev. Close:=$17.02
+Change:=+0.18
+Volume:=129,216
+Last Trade:=$17.20
+
+(icge)
+Prev. Close:=$12.60
+Change:=+0.05
+Volume:=61,301
+Last Trade:=$12.65
+
+(icog)
+Prev. Close:=$2.96
+Change:=+0.02
+Volume:=308,927
+Last Trade:=$2.98
+
+(idti)
+Prev. Close:=$8.02
+Change:=-0.09
+Volume:=924,887
+Last Trade:=$7.93
+
+(idxx)
+Prev. Close:=$78.45
+Change:=+1.07
+Volume:=252,683
+Last Trade:=$79.52
+
+(ihs)
+Prev. Close:=$83.93
+Change:=+0.04
+Volume:=130,260
+Last Trade:=$83.97
+
+(iilg)
+Prev. Close:=$13.97
+Change:=+0.22
+Volume:=253,324
+Last Trade:=$14.19
+
+(iivi)
+Prev. Close:=$26.69
+Change:=+0.59
+Volume:=415,865
+Last Trade:=$27.28
+
+(ikan)
+Prev. Close:=$1.22
+Change:=0.00
+Volume:=141,219
+Last Trade:=$1.22
+
+(ilmn)
+Prev. Close:=$77.83
+Change:=+0.05
+Volume:=1,794,072
+Last Trade:=$77.88
+
+(im)
+Prev. Close:=$17.97
+Change:=+0.21
+Volume:=1,316,136
+Last Trade:=$18.18
+
+(ima)
+Prev. Close:=$n.a.
+Change:=n.a.
+Volume:=n.a.
+Last Trade:=$n.a.
+
+(imgn)
+Prev. Close:=$12.21
+Change:=+1.16
+Volume:=1,514,003
+Last Trade:=$13.37
+
+(imn)
+Prev. Close:=$9.47
+Change:=-0.18
+Volume:=105,472
+Last Trade:=$9.29
+
+(in)
+Prev. Close:=$11.10
+Change:=-0.10
+Volume:=206,691
+Last Trade:=$11.00
+
+(inap)
+Prev. Close:=$7.40
+Change:=-0.08
+Volume:=233,165
+Last Trade:=$7.32
+
+(indm)
+Prev. Close:=$n.a.
+Change:=n.a.
+Volume:=n.a.
+Last Trade:=$n.a.
+
+(infi)
+Prev. Close:=$8.41
+Change:=+0.09
+Volume:=34,647
+Last Trade:=$8.50
+
+(infy)
+Prev. Close:=$66.72
+Change:=-0.26
+Volume:=1,049,448
+Last Trade:=$66.46
+
+(ino)
+Prev. Close:=$0.66
+Change:=+0.03
+Volume:=1,687,591
+Last Trade:=$0.69
+
+(intc)
+Prev. Close:=$22.44
+Change:=+0.31
+Volume:=42,694,824
+Last Trade:=$22.75
+
+(intu)
+Prev. Close:=$52.36
+Change:=-0.02
+Volume:=3,337,804
+Last Trade:=$52.34
+
+(io)
+Prev. Close:=$10.10
+Change:=0.00
+Volume:=1,114,846
+Last Trade:=$10.10
+
+(ipcc)
+Prev. Close:=$55.49
+Change:=+0.82
+Volume:=37,371
+Last Trade:=$56.31
+
+(ipcm)
+Prev. Close:=$47.52
+Change:=+0.78
+Volume:=108,153
+Last Trade:=$48.30
+
+(ipg)
+Prev. Close:=$12.75
+Change:=-0.16
+Volume:=8,395,598
+Last Trade:=$12.59
+
+(ipgp)
+Prev. Close:=$75.88
+Change:=-1.31
+Volume:=654,349
+Last Trade:=$74.57
+
+(ipi)
+Prev. Close:=$32.35
+Change:=-0.30
+Volume:=661,668
+Last Trade:=$32.05
+
+(ipxl)
+Prev. Close:=$21.39
+Change:=+0.11
+Volume:=463,927
+Last Trade:=$21.50
+
+(ir)
+Prev. Close:=$45.84
+Change:=+0.19
+Volume:=2,904,482
+Last Trade:=$46.03
+
+(irc)
+Prev. Close:=$9.01
+Change:=+0.10
+Volume:=318,599
+Last Trade:=$9.11
+
+(irm)
+Prev. Close:=$34.63
+Change:=+0.37
+Volume:=2,900,765
+Last Trade:=$35.00
+
+(isis)
+Prev. Close:=$9.03
+Change:=+0.01
+Volume:=500,203
+Last Trade:=$9.04
+
+(isrg)
+Prev. Close:=$381.37
+Change:=-0.50
+Volume:=242,142
+Last Trade:=$380.87
+
+(isrl)
+Prev. Close:=$66.60
+Change:=+1.40
+Volume:=14,826
+Last Trade:=$68.00
+
+(itc)
+Prev. Close:=$72.17
+Change:=+0.01
+Volume:=283,106
+Last Trade:=$72.18
+
+(itri)
+Prev. Close:=$49.40
+Change:=-0.62
+Volume:=317,989
+Last Trade:=$48.78
+
+(ivac)
+Prev. Close:=$10.06
+Change:=-0.09
+Volume:=38,172
+Last Trade:=$9.97
+
+(ivc)
+Prev. Close:=$33.90
+Change:=+0.10
+Volume:=127,932
+Last Trade:=$34.00
+
+(ivz)
+Prev. Close:=$23.40
+Change:=-0.12
+Volume:=2,958,200
+Last Trade:=$23.28
+
+(ixys)
+Prev. Close:=$15.24
+Change:=-0.07
+Volume:=91,207
+Last Trade:=$15.17
+
+(jakk)
+Prev. Close:=$18.74
+Change:=+0.03
+Volume:=205,155
+Last Trade:=$18.77
+
+(jazz)
+Prev. Close:=$35.64
+Change:=-0.26
+Volume:=453,425
+Last Trade:=$35.38
+
+(jbht)
+Prev. Close:=$47.56
+Change:=+0.69
+Volume:=701,109
+Last Trade:=$48.25
+
+(jcp)
+Prev. Close:=$34.36
+Change:=-0.17
+Volume:=4,309,359
+Last Trade:=$34.19
+
+(jec)
+Prev. Close:=$43.05
+Change:=+0.07
+Volume:=829,998
+Last Trade:=$43.12
+
+(jll)
+Prev. Close:=$95.91
+Change:=+1.75
+Volume:=263,339
+Last Trade:=$97.66
+
+(jnj)
+Prev. Close:=$67.62
+Change:=-0.07
+Volume:=7,075,810
+Last Trade:=$67.55
+
+(jnpr)
+Prev. Close:=$31.79
+Change:=-0.29
+Volume:=6,930,261
+Last Trade:=$31.50
+
+(joyg)
+Prev. Close:=$96.70
+Change:=+0.02
+Volume:=1,518,071
+Last Trade:=$96.72
+
+(jpm)
+Prev. Close:=$41.03
+Change:=-0.47
+Volume:=23,686,814
+Last Trade:=$40.56
+
+(kalu)
+Prev. Close:=$54.46
+Change:=-0.09
+Volume:=66,064
+Last Trade:=$54.37
+
+(kar)
+Prev. Close:=$19.50
+Change:=-0.18
+Volume:=319,230
+Last Trade:=$19.32
+
+(kbh)
+Prev. Close:=$9.94
+Change:=-0.31
+Volume:=6,568,689
+Last Trade:=$9.63
+
+(kbr)
+Prev. Close:=$38.12
+Change:=+0.38
+Volume:=1,025,450
+Last Trade:=$38.50
+
+(kbw)
+Prev. Close:=$18.36
+Change:=+0.20
+Volume:=173,634
+Last Trade:=$18.56
+
+(kcg)
+Prev. Close:=$10.95
+Change:=-0.01
+Volume:=488,434
+Last Trade:=$10.94
+
+(kcli)
+Prev. Close:=$31.36
+Change:=-0.21
+Volume:=16,665
+Last Trade:=$31.15
+
+(kelya)
+Prev. Close:=$16.56
+Change:=+0.51
+Volume:=199,322
+Last Trade:=$17.07
+
+(kerx)
+Prev. Close:=$4.84
+Change:=+0.08
+Volume:=642,205
+Last Trade:=$4.92
+
+(keyn)
+Prev. Close:=$21.88
+Change:=-0.26
+Volume:=70,267
+Last Trade:=$21.62
+
+(kft)
+Prev. Close:=$35.62
+Change:=+0.23
+Volume:=9,053,999
+Last Trade:=$35.85
+
+(kirk)
+Prev. Close:=$12.00
+Change:=-0.04
+Volume:=52,116
+Last Trade:=$11.96
+
+(klac)
+Prev. Close:=$40.61
+Change:=-0.87
+Volume:=2,376,295
+Last Trade:=$39.74
+
+(klic)
+Prev. Close:=$11.38
+Change:=-0.08
+Volume:=1,229,299
+Last Trade:=$11.30
+
+(kmt)
+Prev. Close:=$43.88
+Change:=+0.28
+Volume:=675,572
+Last Trade:=$44.16
+
+(knol)
+Prev. Close:=$15.12
+Change:=+0.03
+Volume:=100,660
+Last Trade:=$15.15
+
+(ko)
+Prev. Close:=$68.30
+Change:=+0.23
+Volume:=5,689,949
+Last Trade:=$68.53
+
+(ks)
+Prev. Close:=$16.83
+Change:=-0.01
+Volume:=182,515
+Last Trade:=$16.82
+
+(kss)
+Prev. Close:=$51.52
+Change:=+0.57
+Volume:=4,227,883
+Last Trade:=$52.09
+
+(ksws)
+Prev. Close:=$10.65
+Change:=+0.31
+Volume:=39,272
+Last Trade:=$10.96
+
+(ktos)
+Prev. Close:=$12.18
+Change:=-0.03
+Volume:=178,909
+Last Trade:=$12.15
+
+(kvhi)
+Prev. Close:=$11.31
+Change:=+0.56
+Volume:=61,686
+Last Trade:=$11.87
+
+(kwk)
+Prev. Close:=$14.66
+Change:=-0.25
+Volume:=2,706,561
+Last Trade:=$14.41
+
+(labl)
+Prev. Close:=$25.07
+Change:=-0.23
+Volume:=21,073
+Last Trade:=$24.84
+
+(lamr)
+Prev. Close:=$27.95
+Change:=-0.20
+Volume:=499,452
+Last Trade:=$27.75
+
+(laws)
+Prev. Close:=$21.00
+Change:=-0.12
+Volume:=12,780
+Last Trade:=$20.88
+
+(layn)
+Prev. Close:=$30.88
+Change:=+0.49
+Volume:=59,656
+Last Trade:=$31.37
+
+(laz)
+Prev. Close:=$37.29
+Change:=-0.84
+Volume:=1,001,430
+Last Trade:=$36.45
+
+(lb)
+Prev. Close:=$19.26
+Change:=-0.01
+Volume:=107,458
+Last Trade:=$19.25
+
+(lbai)
+Prev. Close:=$10.37
+Change:=+0.37
+Volume:=47,831
+Last Trade:=$10.74
+
+(lci)
+Prev. Close:=$5.03
+Change:=+0.03
+Volume:=71,804
+Last Trade:=$5.06
+
+(ldsh)
+Prev. Close:=$55.83
+Change:=+0.34
+Volume:=1,150,857
+Last Trade:=$56.17
+
+(lea)
+Prev. Close:=$53.07
+Change:=-0.73
+Volume:=881,615
+Last Trade:=$52.34
+
+(leg)
+Prev. Close:=$24.76
+Change:=-0.07
+Volume:=1,217,079
+Last Trade:=$24.69
+
+(lfus)
+Prev. Close:=$61.76
+Change:=-0.25
+Volume:=81,622
+Last Trade:=$61.51
+
+(life)
+Prev. Close:=$52.00
+Change:=+0.27
+Volume:=1,415,070
+Last Trade:=$52.27
+
+(linc)
+Prev. Close:=$18.39
+Change:=+0.18
+Volume:=220,711
+Last Trade:=$18.57
+
+(linta)
+Prev. Close:=$17.28
+Change:=+0.12
+Volume:=4,720,932
+Last Trade:=$17.40
+
+(llen)
+Prev. Close:=$5.34
+Change:=-0.15
+Volume:=468,317
+Last Trade:=$5.19
+
+(lll)
+Prev. Close:=$86.77
+Change:=-0.31
+Volume:=1,041,577
+Last Trade:=$86.46
+
+(lltc)
+Prev. Close:=$32.87
+Change:=+0.02
+Volume:=1,389,563
+Last Trade:=$32.89
+
+(lm)
+Prev. Close:=$33.15
+Change:=-0.02
+Volume:=1,313,946
+Last Trade:=$33.13
+
+(lng)
+Prev. Close:=$9.32
+Change:=+0.20
+Volume:=2,128,716
+Last Trade:=$9.52
+
+(logm)
+Prev. Close:=$37.78
+Change:=+0.27
+Volume:=269,281
+Last Trade:=$38.05
+
+(loop)
+Prev. Close:=$18.40
+Change:=+0.01
+Volume:=218,306
+Last Trade:=$18.41
+
+(lpnt)
+Prev. Close:=$39.48
+Change:=+0.38
+Volume:=453,133
+Last Trade:=$39.86
+
+(lpx)
+Prev. Close:=$8.36
+Change:=0.00
+Volume:=1,441,200
+Last Trade:=$8.36
+
+(lrcx)
+Prev. Close:=$44.53
+Change:=-1.30
+Volume:=3,127,636
+Last Trade:=$43.23
+
+(lse)
+Prev. Close:=$4.96
+Change:=0.00
+Volume:=670,951
+Last Trade:=$4.96
+
+(lsi)
+Prev. Close:=$7.20
+Change:=+0.02
+Volume:=4,263,169
+Last Trade:=$7.22
+
+(lstr)
+Prev. Close:=$46.94
+Change:=+1.53
+Volume:=414,982
+Last Trade:=$48.47
+
+(lstza)
+Prev. Close:=$76.18
+Change:=-1.95
+Volume:=365,346
+Last Trade:=$74.23
+
+(ltm)
+Prev. Close:=$39.30
+Change:=+0.63
+Volume:=588,485
+Last Trade:=$39.93
+
+(ltre)
+Prev. Close:=$9.39
+Change:=-0.04
+Volume:=17,209
+Last Trade:=$9.35
+
+(lvs)
+Prev. Close:=$44.10
+Change:=-0.28
+Volume:=9,582,947
+Last Trade:=$43.82
+
+(lway)
+Prev. Close:=$11.30
+Change:=+0.07
+Volume:=26,096
+Last Trade:=$11.37
+
+(lxp)
+Prev. Close:=$9.38
+Change:=+0.11
+Volume:=1,209,898
+Last Trade:=$9.49
+
+(lxrx)
+Prev. Close:=$1.67
+Change:=+0.10
+Volume:=561,873
+Last Trade:=$1.77
+
+(lxu)
+Prev. Close:=$43.45
+Change:=+0.73
+Volume:=193,449
+Last Trade:=$44.18
+
+(ma)
+Prev. Close:=$315.96
+Change:=-3.06
+Volume:=1,099,518
+Last Trade:=$312.90
+
+(mako)
+Prev. Close:=$31.77
+Change:=+1.49
+Volume:=971,675
+Last Trade:=$33.26
+
+(mapp)
+Prev. Close:=$16.00
+Change:=+0.02
+Volume:=64,979
+Last Trade:=$16.02
+
+(mas)
+Prev. Close:=$12.27
+Change:=-0.19
+Volume:=4,337,777
+Last Trade:=$12.08
+
+(mat)
+Prev. Close:=$27.91
+Change:=-0.28
+Volume:=3,555,277
+Last Trade:=$27.63
+
+(matk)
+Prev. Close:=$31.50
+Change:=-0.01
+Volume:=308,073
+Last Trade:=$31.49
+
+(mblx)
+Prev. Close:=$6.94
+Change:=-0.10
+Volume:=267,824
+Last Trade:=$6.84
+
+(mbvt)
+Prev. Close:=$25.15
+Change:=+0.69
+Volume:=7,969
+Last Trade:=$25.84
+
+(mcd)
+Prev. Close:=$85.64
+Change:=+0.22
+Volume:=5,744,646
+Last Trade:=$85.86
+
+(mchp)
+Prev. Close:=$37.90
+Change:=+0.16
+Volume:=1,463,523
+Last Trade:=$38.06
+
+(mcri)
+Prev. Close:=$10.18
+Change:=+0.11
+Volume:=31,108
+Last Trade:=$10.29
+
+(mcrl)
+Prev. Close:=$10.69
+Change:=-0.09
+Volume:=306,931
+Last Trade:=$10.60
+
+(mcy)
+Prev. Close:=$39.69
+Change:=+0.24
+Volume:=98,962
+Last Trade:=$39.93
+
+(mdr)
+Prev. Close:=$19.74
+Change:=+0.08
+Volume:=3,436,047
+Last Trade:=$19.82
+
+(mdso)
+Prev. Close:=$24.42
+Change:=-0.18
+Volume:=129,101
+Last Trade:=$24.24
+
+(mdth)
+Prev. Close:=$13.72
+Change:=-0.02
+Volume:=80,917
+Last Trade:=$13.70
+
+(mdvn)
+Prev. Close:=$21.49
+Change:=0.00
+Volume:=246,817
+Last Trade:=$21.49
+
+(me)
+Prev. Close:=$26.50
+Change:=-0.25
+Volume:=9,230,223
+Last Trade:=$26.25
+
+(ment)
+Prev. Close:=$12.69
+Change:=+0.04
+Volume:=941,551
+Last Trade:=$12.73
+
+(meru)
+Prev. Close:=$12.20
+Change:=-0.20
+Volume:=107,032
+Last Trade:=$12.00
+
+(mgln)
+Prev. Close:=$54.79
+Change:=+0.21
+Volume:=454,155
+Last Trade:=$55.00
+
+(mgm)
+Prev. Close:=$13.70
+Change:=+0.27
+Volume:=18,330,485
+Last Trade:=$13.97
+
+(mgpi)
+Prev. Close:=$8.74
+Change:=-0.03
+Volume:=21,812
+Last Trade:=$8.71
+
+(mgrc)
+Prev. Close:=$28.31
+Change:=+0.09
+Volume:=31,637
+Last Trade:=$28.40
+
+(mho)
+Prev. Close:=$12.33
+Change:=+0.19
+Volume:=58,849
+Last Trade:=$12.52
+
+(mhr)
+Prev. Close:=$6.96
+Change:=-0.02
+Volume:=1,321,348
+Last Trade:=$6.94
+
+(mhs)
+Prev. Close:=$56.19
+Change:=+0.08
+Volume:=2,922,677
+Last Trade:=$56.27
+
+(midd)
+Prev. Close:=$96.19
+Change:=+0.28
+Volume:=90,047
+Last Trade:=$96.47
+
+(mig)
+Prev. Close:=$10.01
+Change:=+0.05
+Volume:=160,714
+Last Trade:=$10.06
+
+(mil)
+Prev. Close:=$106.95
+Change:=+0.00
+Volume:=1,728,103
+Last Trade:=$106.95
+
+(mjn)
+Prev. Close:=$69.93
+Change:=-0.90
+Volume:=1,349,384
+Last Trade:=$69.03
+
+(mksi)
+Prev. Close:=$26.52
+Change:=-0.29
+Volume:=200,433
+Last Trade:=$26.23
+
+(mlhr)
+Prev. Close:=$27.65
+Change:=+1.02
+Volume:=942,103
+Last Trade:=$28.67
+
+(mlnk)
+Prev. Close:=$4.56
+Change:=+0.10
+Volume:=122,196
+Last Trade:=$4.66
+
+(mlr)
+Prev. Close:=$18.23
+Change:=-0.18
+Volume:=89,008
+Last Trade:=$18.05
+
+(mmm)
+Prev. Close:=$96.14
+Change:=+1.11
+Volume:=3,517,293
+Last Trade:=$97.25
+
+(mms)
+Prev. Close:=$41.67
+Change:=+0.28
+Volume:=104,817
+Last Trade:=$41.95
+
+(mnro)
+Prev. Close:=$37.46
+Change:=+0.05
+Volume:=172,832
+Last Trade:=$37.51
+
+(mot)
+Prev. Close:=$n.a.
+Change:=n.a.
+Volume:=n.a.
+Last Trade:=$n.a.
+
+(mpg)
+Prev. Close:=$3.21
+Change:=-0.08
+Volume:=463,621
+Last Trade:=$3.13
+
+(mpr)
+Prev. Close:=$11.05
+Change:=+0.19
+Volume:=33,222
+Last Trade:=$11.24
+
+(mpx)
+Prev. Close:=$6.73
+Change:=-0.24
+Volume:=43,586
+Last Trade:=$6.49
+
+(mrcy)
+Prev. Close:=$18.99
+Change:=+0.26
+Volume:=77,798
+Last Trade:=$19.25
+
+(mrh)
+Prev. Close:=$17.77
+Change:=+0.17
+Volume:=351,794
+Last Trade:=$17.94
+
+(mrk)
+Prev. Close:=$35.49
+Change:=+0.04
+Volume:=10,775,619
+Last Trade:=$35.53
+
+(mrvl)
+Prev. Close:=$15.19
+Change:=-0.11
+Volume:=6,573,372
+Last Trade:=$15.08
+
+(msft)
+Prev. Close:=$26.03
+Change:=+0.30
+Volume:=48,143,398
+Last Trade:=$26.33
+
+(mtb)
+Prev. Close:=$88.00
+Change:=+0.44
+Volume:=664,707
+Last Trade:=$88.44
+
+(mtn)
+Prev. Close:=$46.75
+Change:=-0.23
+Volume:=209,718
+Last Trade:=$46.52
+
+(mtrx)
+Prev. Close:=$13.57
+Change:=+0.10
+Volume:=118,622
+Last Trade:=$13.67
+
+(mu)
+Prev. Close:=$7.78
+Change:=-0.22
+Volume:=24,522,751
+Last Trade:=$7.56
+
+(mvis)
+Prev. Close:=$1.22
+Change:=0.00
+Volume:=1,072,401
+Last Trade:=$1.22
+
+(mw)
+Prev. Close:=$34.94
+Change:=-0.14
+Volume:=484,015
+Last Trade:=$34.80
+
+(mwa)
+Prev. Close:=$3.91
+Change:=+0.01
+Volume:=611,499
+Last Trade:=$3.92
+
+(mwv)
+Prev. Close:=$33.78
+Change:=-0.11
+Volume:=2,261,446
+Last Trade:=$33.67
+
+(mww)
+Prev. Close:=$14.87
+Change:=-0.15
+Volume:=2,343,920
+Last Trade:=$14.72
+
+(mxim)
+Prev. Close:=$25.75
+Change:=-0.04
+Volume:=1,093,665
+Last Trade:=$25.71
+
+(mxl)
+Prev. Close:=$8.95
+Change:=-0.25
+Volume:=122,557
+Last Trade:=$8.70
+
+(myl)
+Prev. Close:=$24.78
+Change:=-0.03
+Volume:=4,893,909
+Last Trade:=$24.75
+
+(nafc)
+Prev. Close:=$36.23
+Change:=+0.85
+Volume:=73,179
+Last Trade:=$37.08
+
+(nal)
+Prev. Close:=$14.67
+Change:=+0.11
+Volume:=398,163
+Last Trade:=$14.78
+
+(natr)
+Prev. Close:=$19.11
+Change:=-0.12
+Volume:=108,605
+Last Trade:=$18.99
+
+(nauh)
+Prev. Close:=$9.35
+Change:=-0.11
+Volume:=18,210
+Last Trade:=$9.24
+
+(nc)
+Prev. Close:=$98.15
+Change:=+0.49
+Volume:=40,678
+Last Trade:=$98.64
+
+(ncs)
+Prev. Close:=$11.45
+Change:=+0.21
+Volume:=98,619
+Last Trade:=$11.66
+
+(nct)
+Prev. Close:=$6.19
+Change:=+0.09
+Volume:=1,397,496
+Last Trade:=$6.28
+
+(ndsn)
+Prev. Close:=$56.09
+Change:=+1.43
+Volume:=452,988
+Last Trade:=$57.52
+
+(nee)
+Prev. Close:=$57.69
+Change:=+0.07
+Volume:=1,198,696
+Last Trade:=$57.76
+
+(neog)
+Prev. Close:=$46.27
+Change:=+0.48
+Volume:=99,831
+Last Trade:=$46.75
+
+(netl)
+Prev. Close:=$40.59
+Change:=-0.21
+Volume:=787,273
+Last Trade:=$40.38
+
+(newp)
+Prev. Close:=$18.49
+Change:=+0.19
+Volume:=126,780
+Last Trade:=$18.68
+
+(nfg)
+Prev. Close:=$74.53
+Change:=+0.85
+Volume:=481,818
+Last Trade:=$75.38
+
+(nflx)
+Prev. Close:=$289.63
+Change:=+1.33
+Volume:=4,624,632
+Last Trade:=$290.96
+
+(ngpc)
+Prev. Close:=$8.58
+Change:=+0.05
+Volume:=91,763
+Last Trade:=$8.63
+
+(ngsx)
+Prev. Close:=$1.64
+Change:=-0.03
+Volume:=87,248
+Last Trade:=$1.61
+
+(nhi)
+Prev. Close:=$45.31
+Change:=+0.68
+Volume:=73,503
+Last Trade:=$45.99
+
+(nihd)
+Prev. Close:=$42.90
+Change:=+0.60
+Volume:=1,336,170
+Last Trade:=$43.50
+
+(nktr)
+Prev. Close:=$7.35
+Change:=0.00
+Volume:=621,619
+Last Trade:=$7.35
+
+(nor)
+Prev. Close:=$15.48
+Change:=-0.09
+Volume:=89,082
+Last Trade:=$15.39
+
+(nsit)
+Prev. Close:=$18.62
+Change:=+0.31
+Volume:=264,304
+Last Trade:=$18.93
+
+(nsr)
+Prev. Close:=$26.63
+Change:=+0.14
+Volume:=223,905
+Last Trade:=$26.77
+
+(ntap)
+Prev. Close:=$53.94
+Change:=-0.45
+Volume:=4,140,066
+Last Trade:=$53.49
+
+(ntct)
+Prev. Close:=$17.14
+Change:=-0.32
+Volume:=1,556,215
+Last Trade:=$16.82
+
+(nty)
+Prev. Close:=$54.98
+Change:=+0.03
+Volume:=1,300
+Last Trade:=$55.01
+
+(nue)
+Prev. Close:=$41.21
+Change:=-0.39
+Volume:=3,226,370
+Last Trade:=$40.82
+
+(nutr)
+Prev. Close:=$15.25
+Change:=0.00
+Volume:=14,708
+Last Trade:=$15.25
+
+(nuva)
+Prev. Close:=$33.47
+Change:=+0.16
+Volume:=547,721
+Last Trade:=$33.63
+
+(nvax)
+Prev. Close:=$1.87
+Change:=+0.03
+Volume:=413,387
+Last Trade:=$1.90
+
+(nvda)
+Prev. Close:=$15.88
+Change:=-0.21
+Volume:=13,217,099
+Last Trade:=$15.67
+
+(nwbi)
+Prev. Close:=$12.85
+Change:=+0.19
+Volume:=1,581,214
+Last Trade:=$13.04
+
+(nwe)
+Prev. Close:=$33.53
+Change:=+0.23
+Volume:=102,378
+Last Trade:=$33.76
+
+(nwl)
+Prev. Close:=$15.97
+Change:=-0.10
+Volume:=3,026,256
+Last Trade:=$15.87
+
+(nwsa)
+Prev. Close:=$18.13
+Change:=-0.66
+Volume:=44,366,876
+Last Trade:=$17.47
+
+(nxst)
+Prev. Close:=$8.36
+Change:=-0.08
+Volume:=41,210
+Last Trade:=$8.28
+
+(nyny)
+Prev. Close:=$1.02
+Change:=+0.08
+Volume:=502,534
+Last Trade:=$1.10
+
+(nyt)
+Prev. Close:=$8.83
+Change:=+0.07
+Volume:=3,491,840
+Last Trade:=$8.90
+
+(nyx)
+Prev. Close:=$34.67
+Change:=-0.31
+Volume:=2,331,624
+Last Trade:=$34.36
+
+(oabc)
+Prev. Close:=$14.51
+Change:=+0.22
+Volume:=14,461
+Last Trade:=$14.73
+
+(ob)
+Prev. Close:=$13.15
+Change:=-0.08
+Volume:=159,012
+Last Trade:=$13.07
+
+(oclr)
+Prev. Close:=$6.71
+Change:=-0.16
+Volume:=717,391
+Last Trade:=$6.55
+
+(oeh)
+Prev. Close:=$11.14
+Change:=+0.08
+Volume:=354,262
+Last Trade:=$11.22
+
+(ofix)
+Prev. Close:=$42.82
+Change:=+0.26
+Volume:=72,728
+Last Trade:=$43.08
+
+(oksb)
+Prev. Close:=$9.82
+Change:=+0.05
+Volume:=51,071
+Last Trade:=$9.87
+
+(ompi)
+Prev. Close:=$9.82
+Change:=+0.23
+Volume:=64,050
+Last Trade:=$10.05
+
+(onb)
+Prev. Close:=$10.76
+Change:=+0.06
+Volume:=265,439
+Last Trade:=$10.82
+
+(onxx)
+Prev. Close:=$35.38
+Change:=+0.03
+Volume:=411,391
+Last Trade:=$35.41
+
+(opxt)
+Prev. Close:=$2.34
+Change:=-0.08
+Volume:=551,570
+Last Trade:=$2.26
+
+(opy)
+Prev. Close:=$28.00
+Change:=-0.47
+Volume:=23,562
+Last Trade:=$27.53
+
+(orb)
+Prev. Close:=$16.91
+Change:=+0.09
+Volume:=216,417
+Last Trade:=$17.00
+
+(orcc)
+Prev. Close:=$3.16
+Change:=-0.02
+Volume:=127,950
+Last Trade:=$3.14
+
+(orcl)
+Prev. Close:=$33.06
+Change:=+0.15
+Volume:=22,278,386
+Last Trade:=$33.21
+
+(orly)
+Prev. Close:=$66.04
+Change:=-0.34
+Volume:=1,185,971
+Last Trade:=$65.70
+
+(osir)
+Prev. Close:=$7.96
+Change:=-0.12
+Volume:=130,255
+Last Trade:=$7.85
+
+(osur)
+Prev. Close:=$8.95
+Change:=+0.43
+Volume:=481,419
+Last Trade:=$9.38
+
+(outd)
+Prev. Close:=$6.83
+Change:=+0.22
+Volume:=53,485
+Last Trade:=$7.05
+
+(oxm)
+Prev. Close:=$35.03
+Change:=+0.23
+Volume:=108,490
+Last Trade:=$35.26
+
+(oxps)
+Prev. Close:=$16.66
+Change:=-0.63
+Volume:=383,368
+Last Trade:=$16.03
+
+(oxy)
+Prev. Close:=$106.75
+Change:=-0.96
+Volume:=2,508,795
+Last Trade:=$105.79
+
+(oyog)
+Prev. Close:=$104.97
+Change:=+0.04
+Volume:=69,467
+Last Trade:=$105.01
+
+(ozrk)
+Prev. Close:=$53.23
+Change:=+0.52
+Volume:=75,210
+Last Trade:=$53.75
+
+(pacr)
+Prev. Close:=$4.93
+Change:=+0.21
+Volume:=333,268
+Last Trade:=$5.14
+
+(pag)
+Prev. Close:=$22.70
+Change:=-0.29
+Volume:=1,001,754
+Last Trade:=$22.41
+
+(panl)
+Prev. Close:=$36.15
+Change:=+0.72
+Volume:=944,242
+Last Trade:=$36.87
+
+(pay)
+Prev. Close:=$44.91
+Change:=+0.43
+Volume:=1,518,368
+Last Trade:=$45.34
+
+(payx)
+Prev. Close:=$30.96
+Change:=+0.38
+Volume:=1,963,459
+Last Trade:=$31.34
+
+(pbct)
+Prev. Close:=$13.66
+Change:=+0.05
+Volume:=3,414,112
+Last Trade:=$13.71
+
+(pbh)
+Prev. Close:=$13.05
+Change:=+0.04
+Volume:=231,404
+Last Trade:=$13.09
+
+(pbi)
+Prev. Close:=$23.14
+Change:=+0.06
+Volume:=1,304,559
+Last Trade:=$23.20
+
+(pbny)
+Prev. Close:=$8.43
+Change:=+0.03
+Volume:=60,001
+Last Trade:=$8.46
+
+(pby)
+Prev. Close:=$11.25
+Change:=-0.07
+Volume:=434,244
+Last Trade:=$11.18
+
+(pcar)
+Prev. Close:=$51.97
+Change:=-0.32
+Volume:=2,545,575
+Last Trade:=$51.65
+
+(pccc)
+Prev. Close:=$8.47
+Change:=-0.02
+Volume:=28,656
+Last Trade:=$8.45
+
+(pch)
+Prev. Close:=$36.14
+Change:=+0.65
+Volume:=266,586
+Last Trade:=$36.79
+
+(pcln)
+Prev. Close:=$535.37
+Change:=+0.76
+Volume:=632,275
+Last Trade:=$536.13
+
+(pcs)
+Prev. Close:=$17.47
+Change:=-0.03
+Volume:=3,491,416
+Last Trade:=$17.44
+
+(pdm)
+Prev. Close:=$21.00
+Change:=+0.07
+Volume:=822,096
+Last Trade:=$21.07
+
+(peb)
+Prev. Close:=$20.48
+Change:=+0.13
+Volume:=397,387
+Last Trade:=$20.61
+
+(peet)
+Prev. Close:=$60.87
+Change:=+0.19
+Volume:=139,038
+Last Trade:=$61.06
+
+(pei)
+Prev. Close:=$15.88
+Change:=+0.28
+Volume:=539,685
+Last Trade:=$16.16
+
+(petm)
+Prev. Close:=$46.03
+Change:=+0.08
+Volume:=1,139,350
+Last Trade:=$46.11
+
+(pfcb)
+Prev. Close:=$41.84
+Change:=-0.34
+Volume:=277,641
+Last Trade:=$41.50
+
+(pfe)
+Prev. Close:=$20.78
+Change:=0.00
+Volume:=28,068,034
+Last Trade:=$20.78
+
+(pg)
+Prev. Close:=$64.26
+Change:=+0.44
+Volume:=9,285,807
+Last Trade:=$64.70
+
+(pgi)
+Prev. Close:=$7.96
+Change:=+0.06
+Volume:=80,675
+Last Trade:=$8.02
+
+(pgn)
+Prev. Close:=$48.78
+Change:=+0.12
+Volume:=1,653,352
+Last Trade:=$48.90
+
+(pgnx)
+Prev. Close:=$7.24
+Change:=+0.20
+Volume:=28,775
+Last Trade:=$7.44
+
+(pgti)
+Prev. Close:=$1.79
+Change:=+0.01
+Volume:=31,273
+Last Trade:=$1.80
+
+(phh)
+Prev. Close:=$20.22
+Change:=-0.48
+Volume:=1,071,109
+Last Trade:=$19.74
+
+(phiik)
+Prev. Close:=$22.67
+Change:=-0.91
+Volume:=17,958
+Last Trade:=$21.76
+
+(phm)
+Prev. Close:=$7.71
+Change:=-0.13
+Volume:=4,659,830
+Last Trade:=$7.58
+
+(pike)
+Prev. Close:=$9.33
+Change:=+0.24
+Volume:=75,973
+Last Trade:=$9.57
+
+(pke)
+Prev. Close:=$28.56
+Change:=+0.18
+Volume:=29,209
+Last Trade:=$28.74
+
+(pki)
+Prev. Close:=$27.14
+Change:=+0.37
+Volume:=827,982
+Last Trade:=$27.51
+
+(pl)
+Prev. Close:=$23.23
+Change:=+0.08
+Volume:=360,686
+Last Trade:=$23.31
+
+(plce)
+Prev. Close:=$45.52
+Change:=+0.43
+Volume:=435,511
+Last Trade:=$45.95
+
+(plcm)
+Prev. Close:=$32.63
+Change:=+0.90
+Volume:=1,663,833
+Last Trade:=$33.53
+
+(plfe)
+Prev. Close:=$10.92
+Change:=-0.05
+Volume:=141,693
+Last Trade:=$10.87
+
+(plpc)
+Prev. Close:=$72.43
+Change:=+0.65
+Volume:=6,034
+Last Trade:=$73.08
+
+(pm)
+Prev. Close:=$67.19
+Change:=+1.05
+Volume:=6,411,411
+Last Trade:=$68.24
+
+(pnm)
+Prev. Close:=$16.82
+Change:=+0.14
+Volume:=786,801
+Last Trade:=$16.96
+
+(pnra)
+Prev. Close:=$131.81
+Change:=-1.60
+Volume:=444,410
+Last Trade:=$130.21
+
+(pnw)
+Prev. Close:=$44.91
+Change:=-0.06
+Volume:=660,833
+Last Trade:=$44.85
+
+(pnx)
+Prev. Close:=$2.42
+Change:=+0.03
+Volume:=238,485
+Last Trade:=$2.45
+
+(podd)
+Prev. Close:=$22.60
+Change:=-0.03
+Volume:=281,110
+Last Trade:=$22.57
+
+(powi)
+Prev. Close:=$38.75
+Change:=-0.26
+Volume:=155,521
+Last Trade:=$38.49
+
+(ppc)
+Prev. Close:=$4.95
+Change:=-0.02
+Volume:=1,970,645
+Last Trade:=$4.93
+
+(ppd)
+Prev. Close:=$66.47
+Change:=+0.02
+Volume:=261,633
+Last Trade:=$66.49
+
+(ppg)
+Prev. Close:=$91.49
+Change:=+1.02
+Volume:=1,690,364
+Last Trade:=$92.51
+
+(pq)
+Prev. Close:=$7.25
+Change:=-0.10
+Volume:=551,199
+Last Trade:=$7.15
+
+(praa)
+Prev. Close:=$86.95
+Change:=+0.45
+Volume:=74,362
+Last Trade:=$87.40
+
+(prgo)
+Prev. Close:=$89.99
+Change:=+0.82
+Volume:=428,374
+Last Trade:=$90.81
+
+(prim)
+Prev. Close:=$13.75
+Change:=+0.21
+Volume:=130,646
+Last Trade:=$13.96
+
+(prm)
+Prev. Close:=$7.09
+Change:=+0.01
+Volume:=110,591
+Last Trade:=$7.10
+
+(prs)
+Prev. Close:=$5.29
+Change:=+0.25
+Volume:=40,625
+Last Trade:=$5.54
+
+(prsp)
+Prev. Close:=$44.54
+Change:=+0.68
+Volume:=299,683
+Last Trade:=$45.22
+
+(prx)
+Prev. Close:=$33.71
+Change:=+0.71
+Volume:=270,853
+Last Trade:=$34.42
+
+(pss)
+Prev. Close:=$15.20
+Change:=-0.48
+Volume:=1,777,261
+Last Trade:=$14.72
+
+(ptv)
+Prev. Close:=$33.21
+Change:=+0.02
+Volume:=7,499,619
+Last Trade:=$33.23
+
+(pva)
+Prev. Close:=$13.63
+Change:=0.00
+Volume:=1,051,260
+Last Trade:=$13.63
+
+(pvtb)
+Prev. Close:=$13.72
+Change:=+0.28
+Volume:=327,142
+Last Trade:=$14.00
+
+(pzn)
+Prev. Close:=$5.74
+Change:=+0.02
+Volume:=53,028
+Last Trade:=$5.76
+
+(pzz)
+Prev. Close:=$8.49
+Change:=+0.00
+Volume:=30,928
+Last Trade:=$8.49
+
+(pzza)
+Prev. Close:=$32.20
+Change:=-0.14
+Volume:=203,561
+Last Trade:=$32.06
+
+(qcom)
+Prev. Close:=$58.14
+Change:=+0.56
+Volume:=11,123,922
+Last Trade:=$58.70
+
+(qcor)
+Prev. Close:=$26.61
+Change:=+0.51
+Volume:=1,021,925
+Last Trade:=$27.12
+
+(qdel)
+Prev. Close:=$15.90
+Change:=-0.03
+Volume:=209,604
+Last Trade:=$15.87
+
+(qgen)
+Prev. Close:=$19.33
+Change:=+0.03
+Volume:=1,723,229
+Last Trade:=$19.36
+
+(qlty)
+Prev. Close:=$13.04
+Change:=+0.01
+Volume:=96,569
+Last Trade:=$13.05
+
+(r)
+Prev. Close:=$57.70
+Change:=+0.25
+Volume:=562,177
+Last Trade:=$57.95
+
+(rad)
+Prev. Close:=$1.27
+Change:=+0.03
+Volume:=17,827,071
+Last Trade:=$1.30
+
+(rah)
+Prev. Close:=$87.10
+Change:=-0.18
+Volume:=623,537
+Last Trade:=$86.92
+
+(ras)
+Prev. Close:=$7.10
+Change:=-0.37
+Volume:=1,414,935
+Last Trade:=$6.73
+
+(rden)
+Prev. Close:=$30.25
+Change:=+0.06
+Volume:=104,638
+Last Trade:=$30.31
+
+(recn)
+Prev. Close:=$12.35
+Change:=+0.20
+Volume:=244,137
+Last Trade:=$12.55
+
+(reg)
+Prev. Close:=$45.51
+Change:=+0.58
+Volume:=1,194,020
+Last Trade:=$46.09
+
+(ren)
+Prev. Close:=$16.82
+Change:=+0.08
+Volume:=329,882
+Last Trade:=$16.90
+
+(rev)
+Prev. Close:=$17.33
+Change:=+0.17
+Volume:=81,514
+Last Trade:=$17.50
+
+(revu)
+Prev. Close:=$0.23
+Change:=+0.00
+Volume:=250,813
+Last Trade:=$0.23
+
+(rfmd)
+Prev. Close:=$6.35
+Change:=-0.08
+Volume:=3,410,282
+Last Trade:=$6.27
+
+(rgr)
+Prev. Close:=$22.82
+Change:=+0.14
+Volume:=148,384
+Last Trade:=$22.96
+
+(rhi)
+Prev. Close:=$26.98
+Change:=+0.25
+Volume:=1,313,800
+Last Trade:=$27.23
+
+(rigl)
+Prev. Close:=$9.28
+Change:=+0.10
+Volume:=446,870
+Last Trade:=$9.38
+
+(rimm)
+Prev. Close:=$28.92
+Change:=-1.20
+Volume:=17,775,612
+Last Trade:=$27.72
+
+(rjet)
+Prev. Close:=$5.26
+Change:=+0.03
+Volume:=310,469
+Last Trade:=$5.29
+
+(rkt)
+Prev. Close:=$65.17
+Change:=+0.66
+Volume:=1,081,638
+Last Trade:=$65.83
+
+(rli)
+Prev. Close:=$62.86
+Change:=+0.57
+Volume:=81,906
+Last Trade:=$63.43
+
+(rloc)
+Prev. Close:=$21.03
+Change:=0.00
+Volume:=118,332
+Last Trade:=$21.03
+
+(rnow)
+Prev. Close:=$31.30
+Change:=+0.37
+Volume:=291,708
+Last Trade:=$31.67
+
+(rnr)
+Prev. Close:=$69.40
+Change:=+0.07
+Volume:=580,901
+Last Trade:=$69.47
+
+(rnst)
+Prev. Close:=$14.89
+Change:=+0.06
+Volume:=58,573
+Last Trade:=$14.95
+
+(roc)
+Prev. Close:=$57.86
+Change:=+0.48
+Volume:=1,571,554
+Last Trade:=$58.34
+
+(rocm)
+Prev. Close:=$8.85
+Change:=+0.35
+Volume:=104,490
+Last Trade:=$9.20
+
+(rodm)
+Prev. Close:=$1.30
+Change:=+0.12
+Volume:=127,644
+Last Trade:=$1.42
+
+(roiak)
+Prev. Close:=$1.71
+Change:=0.00
+Volume:=203,570
+Last Trade:=$1.71
+
+(rok)
+Prev. Close:=$88.24
+Change:=-0.08
+Volume:=1,031,261
+Last Trade:=$88.16
+
+(rol)
+Prev. Close:=$20.83
+Change:=+0.30
+Volume:=312,892
+Last Trade:=$21.13
+
+(roll)
+Prev. Close:=$38.70
+Change:=-0.10
+Volume:=95,811
+Last Trade:=$38.60
+
+(rop)
+Prev. Close:=$83.58
+Change:=+0.52
+Volume:=483,339
+Last Trade:=$84.10
+
+(rose)
+Prev. Close:=$53.89
+Change:=-0.03
+Volume:=1,099,419
+Last Trade:=$53.86
+
+(rost)
+Prev. Close:=$81.20
+Change:=-0.13
+Volume:=1,264,766
+Last Trade:=$81.07
+
+(rt)
+Prev. Close:=$11.15
+Change:=-0.13
+Volume:=954,448
+Last Trade:=$11.02
+
+(rtec)
+Prev. Close:=$10.70
+Change:=-0.12
+Volume:=110,359
+Last Trade:=$10.58
+
+(rtix)
+Prev. Close:=$2.90
+Change:=-0.02
+Volume:=302,202
+Last Trade:=$2.88
+
+(rue)
+Prev. Close:=$34.15
+Change:=+0.13
+Volume:=258,647
+Last Trade:=$34.28
+
+(rwt)
+Prev. Close:=$14.91
+Change:=+0.07
+Volume:=1,004,023
+Last Trade:=$14.98
+
+(safm)
+Prev. Close:=$46.98
+Change:=+0.19
+Volume:=135,430
+Last Trade:=$47.17
+
+(saft)
+Prev. Close:=$42.59
+Change:=+0.08
+Volume:=31,415
+Last Trade:=$42.67
+
+(sam)
+Prev. Close:=$90.37
+Change:=+0.16
+Volume:=76,020
+Last Trade:=$90.53
+
+(sanm)
+Prev. Close:=$10.02
+Change:=-0.15
+Volume:=380,200
+Last Trade:=$9.87
+
+(sbib)
+Prev. Close:=$8.09
+Change:=-0.09
+Volume:=384,124
+Last Trade:=$8.00
+
+(sbp)
+Prev. Close:=$12.69
+Change:=-0.01
+Volume:=20,878
+Last Trade:=$12.68
+
+(sbsi)
+Prev. Close:=$20.11
+Change:=+0.20
+Volume:=21,791
+Last Trade:=$20.31
+
+(sbux)
+Prev. Close:=$40.95
+Change:=-0.53
+Volume:=6,189,816
+Last Trade:=$40.42
+
+(scl)
+Prev. Close:=$71.97
+Change:=+1.78
+Volume:=32,925
+Last Trade:=$73.75
+
+(scmp)
+Prev. Close:=$4.10
+Change:=+0.01
+Volume:=48,255
+Last Trade:=$4.11
+
+(scs)
+Prev. Close:=$11.48
+Change:=+0.14
+Volume:=577,045
+Last Trade:=$11.62
+
+(scvl)
+Prev. Close:=$31.04
+Change:=-0.01
+Volume:=40,417
+Last Trade:=$31.03
+
+(seb)
+Prev. Close:=$2,414.00
+Change:=-5.00
+Volume:=556
+Last Trade:=$2,409.00
+
+(see)
+Prev. Close:=$23.61
+Change:=+0.15
+Volume:=1,351,093
+Last Trade:=$23.76
+
+(seno)
+Prev. Close:=$10.99
+Change:=+0.01
+Volume:=96,244
+Last Trade:=$11.00
+
+(sf)
+Prev. Close:=$36.22
+Change:=-0.53
+Volume:=300,527
+Last Trade:=$35.69
+
+(sfsf)
+Prev. Close:=$29.43
+Change:=+0.61
+Volume:=2,357,830
+Last Trade:=$30.04
+
+(shld)
+Prev. Close:=$70.77
+Change:=+0.22
+Volume:=335,888
+Last Trade:=$70.99
+
+(shoo)
+Prev. Close:=$39.12
+Change:=+0.62
+Volume:=352,290
+Last Trade:=$39.74
+
+(shw)
+Prev. Close:=$84.81
+Change:=+0.52
+Volume:=716,327
+Last Trade:=$85.33
+
+(sial)
+Prev. Close:=$74.15
+Change:=+0.69
+Volume:=691,136
+Last Trade:=$74.84
+
+(simg)
+Prev. Close:=$6.90
+Change:=-0.03
+Volume:=625,004
+Last Trade:=$6.87
+
+(siro)
+Prev. Close:=$54.84
+Change:=+0.40
+Volume:=554,363
+Last Trade:=$55.24
+
+(sivb)
+Prev. Close:=$60.65
+Change:=+0.16
+Volume:=315,295
+Last Trade:=$60.81
+
+(sji)
+Prev. Close:=$54.88
+Change:=+0.32
+Volume:=70,897
+Last Trade:=$55.20
+
+(sjm)
+Prev. Close:=$76.53
+Change:=-0.23
+Volume:=495,614
+Last Trade:=$76.30
+
+(sjw)
+Prev. Close:=$24.53
+Change:=+0.24
+Volume:=36,827
+Last Trade:=$24.77
+
+(slh)
+Prev. Close:=$60.85
+Change:=+0.66
+Volume:=391,895
+Last Trade:=$61.51
+
+(slrc)
+Prev. Close:=$24.80
+Change:=+0.21
+Volume:=308,290
+Last Trade:=$25.01
+
+(smg)
+Prev. Close:=$50.42
+Change:=+0.14
+Volume:=1,106,497
+Last Trade:=$50.56
+
+(smod)
+Prev. Close:=$9.15
+Change:=+0.01
+Volume:=1,175,188
+Last Trade:=$9.16
+
+(smrt)
+Prev. Close:=$10.00
+Change:=-0.23
+Volume:=105,940
+Last Trade:=$9.77
+
+(smsi)
+Prev. Close:=$3.91
+Change:=+0.13
+Volume:=533,597
+Last Trade:=$4.04
+
+(sndk)
+Prev. Close:=$43.45
+Change:=-0.44
+Volume:=5,441,966
+Last Trade:=$43.01
+
+(snh)
+Prev. Close:=$23.87
+Change:=-0.02
+Volume:=1,821,991
+Last Trade:=$23.85
+
+(solr)
+Prev. Close:=$17.11
+Change:=-0.36
+Volume:=4,011,738
+Last Trade:=$16.75
+
+(sonc)
+Prev. Close:=$10.80
+Change:=+0.07
+Volume:=470,619
+Last Trade:=$10.87
+
+(sone)
+Prev. Close:=$7.45
+Change:=-0.05
+Volume:=283,241
+Last Trade:=$7.40
+
+(spec)
+Prev. Close:=$19.98
+Change:=+0.03
+Volume:=215,784
+Last Trade:=$20.01
+
+(spls)
+Prev. Close:=$15.86
+Change:=-0.12
+Volume:=13,221,372
+Last Trade:=$15.74
+
+(spmd)
+Prev. Close:=$4.05
+Change:=-0.23
+Volume:=106,188
+Last Trade:=$3.82
+
+(spn)
+Prev. Close:=$38.42
+Change:=+0.34
+Volume:=605,704
+Last Trade:=$38.76
+
+(sptn)
+Prev. Close:=$20.13
+Change:=+0.63
+Volume:=231,404
+Last Trade:=$20.76
+
+(spw)
+Prev. Close:=$84.55
+Change:=+0.18
+Volume:=359,654
+Last Trade:=$84.73
+
+(srcl)
+Prev. Close:=$91.72
+Change:=+0.78
+Volume:=545,101
+Last Trade:=$92.50
+
+(srdx)
+Prev. Close:=$11.29
+Change:=+0.13
+Volume:=53,152
+Last Trade:=$11.42
+
+(sri)
+Prev. Close:=$14.82
+Change:=+0.16
+Volume:=133,720
+Last Trade:=$14.98
+
+(srsl)
+Prev. Close:=$9.62
+Change:=-0.07
+Volume:=29,070
+Last Trade:=$9.55
+
+(srx)
+Prev. Close:=$31.00
+Change:=+0.04
+Volume:=1,304,702
+Last Trade:=$31.04
+
+(srz)
+Prev. Close:=$9.97
+Change:=-0.14
+Volume:=1,123,705
+Last Trade:=$9.83
+
+(ssp)
+Prev. Close:=$9.78
+Change:=-0.13
+Volume:=154,193
+Last Trade:=$9.65
+
+(stba)
+Prev. Close:=$18.67
+Change:=+0.11
+Volume:=55,658
+Last Trade:=$18.78
+
+(stfc)
+Prev. Close:=$17.33
+Change:=-0.16
+Volume:=34,580
+Last Trade:=$17.17
+
+(sti)
+Prev. Close:=$25.87
+Change:=-0.12
+Volume:=6,929,511
+Last Trade:=$25.75
+
+(stnr)
+Prev. Close:=$47.19
+Change:=+0.68
+Volume:=63,709
+Last Trade:=$47.87
+
+(stu)
+Prev. Close:=$32.46
+Change:=-0.02
+Volume:=718,946
+Last Trade:=$32.44
+
+(stwd)
+Prev. Close:=$20.65
+Change:=+0.05
+Volume:=489,868
+Last Trade:=$20.70
+
+(stx)
+Prev. Close:=$16.20
+Change:=+0.12
+Volume:=6,944,999
+Last Trade:=$16.32
+
+(sui)
+Prev. Close:=$38.38
+Change:=+0.38
+Volume:=114,725
+Last Trade:=$38.76
+
+(sumr)
+Prev. Close:=$8.48
+Change:=-0.02
+Volume:=41,046
+Last Trade:=$8.46
+
+(supx)
+Prev. Close:=$22.24
+Change:=+0.14
+Volume:=48,726
+Last Trade:=$22.38
+
+(sur)
+Prev. Close:=$26.53
+Change:=0.00
+Volume:=104,923
+Last Trade:=$26.53
+
+(svvs)
+Prev. Close:=$39.60
+Change:=+0.15
+Volume:=2,113,425
+Last Trade:=$39.75
+
+(swk)
+Prev. Close:=$73.90
+Change:=+0.16
+Volume:=1,380,168
+Last Trade:=$74.06
+
+(swm)
+Prev. Close:=$56.87
+Change:=+0.65
+Volume:=132,579
+Last Trade:=$57.52
+
+(sxt)
+Prev. Close:=$37.81
+Change:=+0.44
+Volume:=161,302
+Last Trade:=$38.25
+
+(sy)
+Prev. Close:=$64.97
+Change:=+0.01
+Volume:=209,960
+Last Trade:=$64.98
+
+(syke)
+Prev. Close:=$21.76
+Change:=-0.01
+Volume:=138,264
+Last Trade:=$21.75
+
+(symc)
+Prev. Close:=$19.76
+Change:=+0.03
+Volume:=8,999,414
+Last Trade:=$19.79
+
+(symm)
+Prev. Close:=$6.10
+Change:=+0.16
+Volume:=112,361
+Last Trade:=$6.26
+
+(synm)
+Prev. Close:=$1.37
+Change:=+0.03
+Volume:=874,656
+Last Trade:=$1.40
+
+(syno)
+Prev. Close:=$17.81
+Change:=+0.42
+Volume:=64,273
+Last Trade:=$18.23
+
+(synt)
+Prev. Close:=$61.18
+Change:=-0.10
+Volume:=272,117
+Last Trade:=$61.08
+
+(syx)
+Prev. Close:=$14.97
+Change:=-0.01
+Volume:=37,563
+Last Trade:=$14.96
+
+(t)
+Prev. Close:=$31.63
+Change:=-0.40
+Volume:=17,806,705
+Last Trade:=$31.23
+
+(tal)
+Prev. Close:=$34.87
+Change:=+0.10
+Volume:=335,754
+Last Trade:=$34.97
+
+(tap)
+Prev. Close:=$45.06
+Change:=-0.06
+Volume:=765,156
+Last Trade:=$45.00
+
+(tasr)
+Prev. Close:=$4.49
+Change:=0.00
+Volume:=184,251
+Last Trade:=$4.49
+
+(tast)
+Prev. Close:=$10.72
+Change:=+0.07
+Volume:=33,883
+Last Trade:=$10.79
+
+(tat)
+Prev. Close:=$1.71
+Change:=-0.03
+Volume:=1,438,332
+Last Trade:=$1.68
+
+(tayc)
+Prev. Close:=$8.34
+Change:=+0.19
+Volume:=16,954
+Last Trade:=$8.53
+
+(tbnk)
+Prev. Close:=$20.19
+Change:=+0.11
+Volume:=33,229
+Last Trade:=$20.30
+
+(tc)
+Prev. Close:=$10.10
+Change:=-0.06
+Volume:=1,894,120
+Last Trade:=$10.04
+
+(tcb)
+Prev. Close:=$13.97
+Change:=+0.11
+Volume:=1,025,587
+Last Trade:=$14.08
+
+(tco)
+Prev. Close:=$60.84
+Change:=+0.74
+Volume:=316,444
+Last Trade:=$61.58
+
+(tcrd)
+Prev. Close:=$12.96
+Change:=+0.12
+Volume:=26,258
+Last Trade:=$13.08
+
+(tdy)
+Prev. Close:=$50.74
+Change:=+0.07
+Volume:=103,566
+Last Trade:=$50.81
+
+(te)
+Prev. Close:=$19.01
+Change:=+0.08
+Volume:=927,395
+Last Trade:=$19.09
+
+(tecua)
+Prev. Close:=$10.32
+Change:=-0.14
+Volume:=32,313
+Last Trade:=$10.18
+
+(ten)
+Prev. Close:=$45.31
+Change:=+0.13
+Volume:=465,564
+Last Trade:=$45.44
+
+(ter)
+Prev. Close:=$15.05
+Change:=-0.24
+Volume:=2,236,888
+Last Trade:=$14.81
+
+(teva)
+Prev. Close:=$48.92
+Change:=+0.07
+Volume:=2,835,628
+Last Trade:=$48.99
+
+(tfx)
+Prev. Close:=$62.31
+Change:=+0.50
+Volume:=222,735
+Last Trade:=$62.81
+
+(tg)
+Prev. Close:=$18.80
+Change:=+0.19
+Volume:=70,536
+Last Trade:=$18.99
+
+(tgh)
+Prev. Close:=$31.38
+Change:=-0.48
+Volume:=96,131
+Last Trade:=$30.90
+
+(tgi)
+Prev. Close:=$100.96
+Change:=+0.33
+Volume:=139,070
+Last Trade:=$101.29
+
+(thff)
+Prev. Close:=$33.46
+Change:=+0.34
+Volume:=23,679
+Last Trade:=$33.80
+
+(thmd)
+Prev. Close:=$14.99
+Change:=+0.00
+Volume:=19,086
+Last Trade:=$14.99
+
+(tho)
+Prev. Close:=$28.89
+Change:=+0.08
+Volume:=781,400
+Last Trade:=$28.97
+
+(thrx)
+Prev. Close:=$22.92
+Change:=+0.54
+Volume:=213,855
+Last Trade:=$23.46
+
+(tie)
+Prev. Close:=$18.40
+Change:=-0.17
+Volume:=1,560,318
+Last Trade:=$18.23
+
+(tif)
+Prev. Close:=$81.14
+Change:=+0.29
+Volume:=1,536,682
+Last Trade:=$81.43
+
+(tiny)
+Prev. Close:=$5.19
+Change:=+0.15
+Volume:=159,173
+Last Trade:=$5.34
+
+(tisi)
+Prev. Close:=$24.37
+Change:=+0.37
+Volume:=47,994
+Last Trade:=$24.74
+
+(tjx)
+Prev. Close:=$53.73
+Change:=+0.06
+Volume:=2,517,462
+Last Trade:=$53.79
+
+(tklc)
+Prev. Close:=$9.08
+Change:=-0.09
+Volume:=1,869,444
+Last Trade:=$8.99
+
+(tkr)
+Prev. Close:=$52.50
+Change:=-0.40
+Volume:=816,670
+Last Trade:=$52.10
+
+(tmp)
+Prev. Close:=$39.39
+Change:=+0.01
+Volume:=8,714
+Last Trade:=$39.40
+
+(tmrk)
+Prev. Close:=$18.98
+Change:=+0.01
+Volume:=197,208
+Last Trade:=$18.99
+
+(tnc)
+Prev. Close:=$41.25
+Change:=-0.19
+Volume:=59,018
+Last Trade:=$41.06
+
+(tnk)
+Prev. Close:=$9.25
+Change:=-0.05
+Volume:=222,891
+Last Trade:=$9.20
+
+(tpgi)
+Prev. Close:=$3.33
+Change:=-0.04
+Volume:=62,444
+Last Trade:=$3.29
+
+(trad)
+Prev. Close:=$9.73
+Change:=+0.01
+Volume:=322,172
+Last Trade:=$9.74
+
+(trak)
+Prev. Close:=$23.89
+Change:=+0.02
+Volume:=196,099
+Last Trade:=$23.91
+
+(trex)
+Prev. Close:=$24.75
+Change:=+0.44
+Volume:=113,222
+Last Trade:=$25.19
+
+(trmk)
+Prev. Close:=$23.48
+Change:=+0.25
+Volume:=265,911
+Last Trade:=$23.73
+
+(trow)
+Prev. Close:=$60.77
+Change:=+0.23
+Volume:=1,584,856
+Last Trade:=$61.00
+
+(trv)
+Prev. Close:=$58.53
+Change:=+0.08
+Volume:=2,741,354
+Last Trade:=$58.61
+
+(tsn)
+Prev. Close:=$19.24
+Change:=0.00
+Volume:=3,591,118
+Last Trade:=$19.24
+
+(tsra)
+Prev. Close:=$17.31
+Change:=-0.15
+Volume:=369,630
+Last Trade:=$17.16
+
+(ttec)
+Prev. Close:=$21.56
+Change:=+0.01
+Volume:=157,720
+Last Trade:=$21.57
+
+(ttek)
+Prev. Close:=$23.07
+Change:=-0.07
+Volume:=241,162
+Last Trade:=$23.00
+
+(tti)
+Prev. Close:=$12.84
+Change:=-0.24
+Volume:=645,657
+Last Trade:=$12.60
+
+(tues)
+Prev. Close:=$4.70
+Change:=-0.01
+Volume:=103,979
+Last Trade:=$4.69
+
+(tvl)
+Prev. Close:=$4.75
+Change:=+0.05
+Volume:=141,669
+Last Trade:=$4.80
+
+(tw)
+Prev. Close:=$66.31
+Change:=+0.07
+Volume:=306,534
+Last Trade:=$66.38
+
+(twin)
+Prev. Close:=$41.22
+Change:=-1.02
+Volume:=83,682
+Last Trade:=$40.20
+
+(two)
+Prev. Close:=$10.98
+Change:=+0.03
+Volume:=3,990,045
+Last Trade:=$11.01
+
+(twx)
+Prev. Close:=$36.88
+Change:=-0.24
+Volume:=4,984,657
+Last Trade:=$36.64
+
+(txn)
+Prev. Close:=$32.92
+Change:=-0.07
+Volume:=8,892,160
+Last Trade:=$32.85
+
+(txt)
+Prev. Close:=$22.73
+Change:=-0.10
+Volume:=3,732,056
+Last Trade:=$22.63
+
+(tyl)
+Prev. Close:=$27.20
+Change:=-0.07
+Volume:=314,225
+Last Trade:=$27.13
+
+(ueic)
+Prev. Close:=$25.56
+Change:=-0.81
+Volume:=47,534
+Last Trade:=$24.75
+
+(ufcs)
+Prev. Close:=$17.13
+Change:=-0.08
+Volume:=81,082
+Last Trade:=$17.05
+
+(ufpi)
+Prev. Close:=$24.44
+Change:=-0.29
+Volume:=58,343
+Last Trade:=$24.15
+
+(ufs)
+Prev. Close:=$97.91
+Change:=+0.19
+Volume:=401,282
+Last Trade:=$98.10
+
+(ugi)
+Prev. Close:=$32.28
+Change:=+0.11
+Volume:=569,486
+Last Trade:=$32.39
+
+(uhs)
+Prev. Close:=$53.13
+Change:=+0.97
+Volume:=684,903
+Last Trade:=$54.10
+
+(uil)
+Prev. Close:=$32.68
+Change:=+0.26
+Volume:=372,610
+Last Trade:=$32.94
+
+(ulta)
+Prev. Close:=$66.82
+Change:=+0.27
+Volume:=803,953
+Last Trade:=$67.09
+
+(ulti)
+Prev. Close:=$55.32
+Change:=+0.56
+Volume:=65,649
+Last Trade:=$55.88
+
+(umbf)
+Prev. Close:=$43.41
+Change:=+0.49
+Volume:=134,646
+Last Trade:=$43.90
+
+(umh)
+Prev. Close:=$11.16
+Change:=+0.16
+Volume:=53,360
+Last Trade:=$11.32
+
+(umpq)
+Prev. Close:=$11.66
+Change:=+0.04
+Volume:=402,683
+Last Trade:=$11.70
+
+(unca)
+Prev. Close:=$20.98
+Change:=+0.02
+Volume:=71,773
+Last Trade:=$21.00
+
+(unfi)
+Prev. Close:=$44.00
+Change:=+0.17
+Volume:=170,875
+Last Trade:=$44.17
+
+(unp)
+Prev. Close:=$105.72
+Change:=+0.87
+Volume:=2,415,766
+Last Trade:=$106.59
+
+(untd)
+Prev. Close:=$6.25
+Change:=+0.01
+Volume:=701,685
+Last Trade:=$6.26
+
+(upl)
+Prev. Close:=$46.37
+Change:=-0.04
+Volume:=789,960
+Last Trade:=$46.33
+
+(ups)
+Prev. Close:=$73.78
+Change:=+0.72
+Volume:=4,801,565
+Last Trade:=$74.50
+
+(urbn)
+Prev. Close:=$29.11
+Change:=+1.64
+Volume:=8,237,296
+Last Trade:=$30.75
+
+(uri)
+Prev. Close:=$25.85
+Change:=-0.70
+Volume:=2,372,271
+Last Trade:=$25.15
+
+(urs)
+Prev. Close:=$45.18
+Change:=+0.18
+Volume:=344,760
+Last Trade:=$45.36
+
+(usap)
+Prev. Close:=$47.76
+Change:=+0.90
+Volume:=169,407
+Last Trade:=$48.66
+
+(usb)
+Prev. Close:=$25.59
+Change:=-0.29
+Volume:=9,714,106
+Last Trade:=$25.30
+
+(usph)
+Prev. Close:=$24.79
+Change:=+0.61
+Volume:=32,469
+Last Trade:=$25.40
+
+(utek)
+Prev. Close:=$30.49
+Change:=-2.52
+Volume:=587,552
+Last Trade:=$27.97
+
+(uti)
+Prev. Close:=$19.71
+Change:=+0.37
+Volume:=91,052
+Last Trade:=$20.08
+
+(utr)
+Prev. Close:=$29.19
+Change:=+0.26
+Volume:=214,649
+Last Trade:=$29.45
+
+(utx)
+Prev. Close:=$89.51
+Change:=+0.91
+Volume:=4,285,526
+Last Trade:=$90.42
+
+(uve)
+Prev. Close:=$4.75
+Change:=0.00
+Volume:=116,295
+Last Trade:=$4.75
+
+(uvv)
+Prev. Close:=$37.81
+Change:=+0.40
+Volume:=213,677
+Last Trade:=$38.21
+
+(vcbi)
+Prev. Close:=$5.92
+Change:=+0.10
+Volume:=442,458
+Last Trade:=$6.02
+
+(vci)
+Prev. Close:=$30.31
+Change:=-0.27
+Volume:=436,754
+Last Trade:=$30.04
+
+(vgr)
+Prev. Close:=$17.86
+Change:=+0.25
+Volume:=152,017
+Last Trade:=$18.11
+
+(vlccf)
+Prev. Close:=$22.04
+Change:=+0.05
+Volume:=73,560
+Last Trade:=$22.09
+
+(vlgea)
+Prev. Close:=$27.97
+Change:=+0.09
+Volume:=32,479
+Last Trade:=$28.06
+
+(vmed)
+Prev. Close:=$30.57
+Change:=-0.51
+Volume:=5,420,001
+Last Trade:=$30.06
+
+(vnda)
+Prev. Close:=$7.04
+Change:=+0.50
+Volume:=756,559
+Last Trade:=$7.54
+
+(vocs)
+Prev. Close:=$31.81
+Change:=+0.41
+Volume:=294,880
+Last Trade:=$32.22
+
+(vod)
+Prev. Close:=$26.84
+Change:=-0.26
+Volume:=9,965,848
+Last Trade:=$26.58
+
+(volc)
+Prev. Close:=$32.82
+Change:=+0.21
+Volume:=289,281
+Last Trade:=$33.03
+
+(vpfg)
+Prev. Close:=$14.00
+Change:=-0.07
+Volume:=140,578
+Last Trade:=$13.93
+
+(vphm)
+Prev. Close:=$19.35
+Change:=+0.31
+Volume:=527,930
+Last Trade:=$19.66
+
+(vrad)
+Prev. Close:=$17.24
+Change:=-0.04
+Volume:=45,114
+Last Trade:=$17.20
+
+(vrsn)
+Prev. Close:=$34.24
+Change:=+0.21
+Volume:=2,055,229
+Last Trade:=$34.45
+
+(vrtx)
+Prev. Close:=$52.19
+Change:=-2.02
+Volume:=2,520,334
+Last Trade:=$50.17
+
+(vrx)
+Prev. Close:=$53.75
+Change:=-0.26
+Volume:=1,328,415
+Last Trade:=$53.49
+
+(vsec)
+Prev. Close:=$24.26
+Change:=-0.03
+Volume:=42,453
+Last Trade:=$24.23
+
+(vz)
+Prev. Close:=$37.82
+Change:=-0.28
+Volume:=14,839,679
+Last Trade:=$37.54
+
+(wab)
+Prev. Close:=$67.04
+Change:=+0.91
+Volume:=322,689
+Last Trade:=$67.95
+
+(wash)
+Prev. Close:=$22.70
+Change:=+0.19
+Volume:=23,843
+Last Trade:=$22.89
+
+(wat)
+Prev. Close:=$97.93
+Change:=+0.10
+Volume:=868,529
+Last Trade:=$98.03
+
+(wbc)
+Prev. Close:=$70.60
+Change:=+1.45
+Volume:=757,578
+Last Trade:=$72.05
+
+(wbsn)
+Prev. Close:=$26.93
+Change:=+0.15
+Volume:=263,092
+Last Trade:=$27.08
+
+(wcrx)
+Prev. Close:=$24.15
+Change:=+0.34
+Volume:=1,545,893
+Last Trade:=$24.49
+
+(wern)
+Prev. Close:=$25.39
+Change:=+0.42
+Volume:=529,410
+Last Trade:=$25.81
+
+(weys)
+Prev. Close:=$24.23
+Change:=+0.69
+Volume:=10,636
+Last Trade:=$24.92
+
+(wfd)
+Prev. Close:=$8.19
+Change:=+0.14
+Volume:=32,954
+Last Trade:=$8.33
+
+(wfm)
+Prev. Close:=$63.82
+Change:=-0.04
+Volume:=1,153,964
+Last Trade:=$63.78
+
+(wfmi)
+Prev. Close:=$n.a.
+Change:=n.a.
+Volume:=n.a.
+Last Trade:=$n.a.
+
+(wgo)
+Prev. Close:=$9.62
+Change:=+0.05
+Volume:=136,427
+Last Trade:=$9.67
+
+(wgov)
+Prev. Close:=$n.a.
+Change:=n.a.
+Volume:=n.a.
+Last Trade:=$n.a.
+
+(win)
+Prev. Close:=$13.21
+Change:=-0.08
+Volume:=4,561,636
+Last Trade:=$13.13
+
+(wina)
+Prev. Close:=$42.95
+Change:=+0.23
+Volume:=19,069
+Last Trade:=$43.18
+
+(wlk)
+Prev. Close:=$53.27
+Change:=+0.80
+Volume:=685,503
+Last Trade:=$54.07
+
+(wll)
+Prev. Close:=$57.94
+Change:=+0.32
+Volume:=1,972,324
+Last Trade:=$58.26
+
+(wlt)
+Prev. Close:=$121.43
+Change:=-6.14
+Volume:=3,465,042
+Last Trade:=$115.29
+
+(wmt)
+Prev. Close:=$53.39
+Change:=+0.33
+Volume:=7,940,584
+Last Trade:=$53.72
+
+(wnr)
+Prev. Close:=$18.57
+Change:=+0.19
+Volume:=2,754,972
+Last Trade:=$18.76
+
+(wor)
+Prev. Close:=$23.41
+Change:=-0.19
+Volume:=759,457
+Last Trade:=$23.22
+
+(wr)
+Prev. Close:=$27.06
+Change:=+0.13
+Volume:=658,529
+Last Trade:=$27.19
+
+(wrc)
+Prev. Close:=$53.05
+Change:=-0.61
+Volume:=648,618
+Last Trade:=$52.44
+
+(wri)
+Prev. Close:=$26.01
+Change:=+0.26
+Volume:=774,283
+Last Trade:=$26.27
+
+(wsbc)
+Prev. Close:=$19.77
+Change:=-0.03
+Volume:=46,553
+Last Trade:=$19.74
+
+(wso)
+Prev. Close:=$67.89
+Change:=-0.41
+Volume:=315,427
+Last Trade:=$67.48
+
+(wts)
+Prev. Close:=$35.92
+Change:=+0.33
+Volume:=202,527
+Last Trade:=$36.25
+
+(wtsla)
+Prev. Close:=$4.67
+Change:=+0.04
+Volume:=984,569
+Last Trade:=$4.71
+
+(wwon)
+Prev. Close:=$5.33
+Change:=+0.62
+Volume:=23,059
+Last Trade:=$5.95
+
+(wynn)
+Prev. Close:=$151.16
+Change:=+2.13
+Volume:=1,786,662
+Last Trade:=$153.29
+
+(xco)
+Prev. Close:=$17.55
+Change:=-0.14
+Volume:=2,684,092
+Last Trade:=$17.41
+
+(xec)
+Prev. Close:=$90.86
+Change:=+0.13
+Volume:=588,194
+Last Trade:=$90.99
+
+(xlnx)
+Prev. Close:=$36.63
+Change:=-0.11
+Volume:=3,230,489
+Last Trade:=$36.52
+
+(xnpt)
+Prev. Close:=$7.31
+Change:=+0.06
+Volume:=158,632
+Last Trade:=$7.37
+
+(xom)
+Prev. Close:=$81.60
+Change:=-0.03
+Volume:=14,953,438
+Last Trade:=$81.57
+
+(xprt)
+Prev. Close:=$n.a.
+Change:=n.a.
+Volume:=n.a.
+Last Trade:=$n.a.
+
+(xray)
+Prev. Close:=$38.56
+Change:=+0.29
+Volume:=2,131,835
+Last Trade:=$38.85
+
+(xrit)
+Prev. Close:=$4.94
+Change:=+0.05
+Volume:=191,872
+Last Trade:=$4.99
+
+(xtxi)
+Prev. Close:=$11.98
+Change:=+0.15
+Volume:=340,185
+Last Trade:=$12.13
+
+(xxia)
+Prev. Close:=$12.88
+Change:=+0.12
+Volume:=353,257
+Last Trade:=$13.00
+
+(yhoo)
+Prev. Close:=$15.49
+Change:=+0.23
+Volume:=18,210,066
+Last Trade:=$15.72
+
+(ysi)
+Prev. Close:=$10.77
+Change:=+0.10
+Volume:=450,250
+Last Trade:=$10.87
+
+(yum)
+Prev. Close:=$56.60
+Change:=-0.45
+Volume:=2,853,545
+Last Trade:=$56.15
+
+(zbra)
+Prev. Close:=$42.68
+Change:=+0.32
+Volume:=583,233
+Last Trade:=$43.00
+
+(zgen)
+Prev. Close:=$9.75
+Change:=+0.01
+Volume:=254,031
+Last Trade:=$9.76
+
+(ziop)
+Prev. Close:=$5.93
+Change:=-0.07
+Volume:=546,210
+Last Trade:=$5.86
+
+(zixi)
+Prev. Close:=$4.08
+Change:=+0.02
+Volume:=1,517,918
+Last Trade:=$4.10
+
+(zoll)
+Prev. Close:=$58.00
+Change:=-0.09
+Volume:=132,765
+Last Trade:=$57.91
+

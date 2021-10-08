@@ -1,0 +1,5505 @@
+(aan)
+Sales:=N/A
+Price/Earnings:=N/A
+Day Low - High:=27.28 - 27.84
+Market Cap:=N/A
+PE (forward):=
+Volume:=Vol.&nbsp; 224,587
+Price/Book:=N/A
+52wk Low - High:=13.00 - 29.34
+EPS TTM:=N/A
+Price/Cash Flow:=N/A
+Net Income:=N/A
+EPS Last Year:=N/A
+Price/Sales:=N/A
+Div - Yield:=N/A - N/A
+PEG Ratio:=N/A
+Updating Price:=27.56
+Current Year Est.:=N/A
+Change %:=(-0.40%)
+Change $:=
+  -0.11
+  
+Avg Volume:=N/A
+Industry:=N/A
+
+(abbc)
+Sales:=53.96
+Price/Earnings:=27.16
+Day Low - High:=10.16 - 10.42
+Market Cap:=208.82 M
+PE (forward):=31.75
+Volume:=Vol.&nbsp; 31,710
+Price/Book:=.98
+52wk Low - High:=8.77 - 13.23
+EPS TTM:=.38
+Price/Cash Flow:=30.38
+Net Income:=7.62
+EPS Last Year:=0.38
+Price/Sales:=3.95
+Div - Yield:=0.24 - 2.33
+PEG Ratio:=2.65
+Updating Price:=10.24
+Current Year Est.:=.32
+Change %:=(-0.78%)
+Change $:=
+  -0.08
+  
+Avg Volume:=72,652
+Industry:=FIN-SVGS &amp; LOAN
+
+(acas)
+Sales:=600
+Price/Earnings:=14.47
+Day Low - High:=9.71 - N/A
+Market Cap:=3.47 B
+PE (forward):=11.77
+Volume:=Vol.&nbsp; 2,673,653
+Price/Book:=.84
+52wk Low - High:=4.79 - 10.85
+EPS TTM:=.68
+Price/Cash Flow:=N/A
+Net Income:=711
+EPS Last Year:=0.68
+Price/Sales:=5.83
+Div - Yield:=0.00 - 0.00
+PEG Ratio:=1.18
+Updating Price:=9.81
+Current Year Est.:=.84
+Change %:=(-0.30%)
+Change $:=
+  -0.03
+  
+Avg Volume:=5,741,299
+Industry:=FIN-SBIC&amp;COMMRL
+
+(acet)
+Sales:=346.63
+Price/Earnings:=12.66
+Day Low - High:=6.26 - 6.48
+Market Cap:=168.51 M
+PE (forward):=10.55
+Volume:=Vol.&nbsp; 100,937
+Price/Book:=1.06
+52wk Low - High:=5.31 - 9.47
+EPS TTM:=.5
+Price/Cash Flow:=14.98
+Net Income:=9.71
+EPS Last Year:=0.50
+Price/Sales:=.42
+Div - Yield:=0.20 - 3.16
+PEG Ratio:=N/A
+Updating Price:=6.41
+Current Year Est.:=.6
+Change %:=(1.26%)
+Change $:=
+  0.08
+  
+Avg Volume:=132,031
+Industry:=CHEM-DIVERSIFD
+
+(actg)
+Sales:=131.83
+Price/Earnings:=45.07
+Day Low - High:=36.96 - 37.89
+Market Cap:=1.58 B
+PE (forward):=26.55
+Volume:=Vol.&nbsp; 191,464
+Price/Book:=4.96
+52wk Low - High:=12.87 - 41.89
+EPS TTM:=.82
+Price/Cash Flow:=30
+Net Income:=27.89
+EPS Last Year:=0.82
+Price/Sales:=10.32
+Div - Yield:=0.00 - 0.00
+PEG Ratio:=N/A
+Updating Price:=37.55
+Current Year Est.:=1.39
+Change %:=(1.60%)
+Change $:=
+  0.59
+  
+Avg Volume:=253,609
+Industry:=FIN-MISC SVCS
+
+(acv)
+Sales:=null
+Price/Earnings:=null
+Day Low - High:=null
+Market Cap:=null
+PE (forward):=null
+Volume:=null
+Price/Book:=null
+52wk Low - High:=null
+EPS TTM:=null
+Price/Cash Flow:=null
+Net Income:=null
+EPS Last Year:=null
+Price/Sales:=null
+Div - Yield:=null
+PEG Ratio:=null
+Updating Price:=null
+Current Year Est.:=null
+Change %:=null
+Change $:=null
+Avg Volume:=null
+Industry:=null
+
+(adpi)
+Sales:=285.64
+Price/Earnings:=15.29
+Day Low - High:=13.15 - 13.30
+Market Cap:=202.87 M
+PE (forward):=13.19
+Volume:=Vol.&nbsp; 59,367
+Price/Book:=1.02
+52wk Low - High:=10.05 - 13.86
+EPS TTM:=.86
+Price/Cash Flow:=4.99
+Net Income:=11.79
+EPS Last Year:=0.86
+Price/Sales:=.7
+Div - Yield:=0.00 - 0.00
+PEG Ratio:=.75
+Updating Price:=13.24
+Current Year Est.:=1
+Change %:=(0.68%)
+Change $:=
+  0.09
+  
+Avg Volume:=57,234
+Industry:=MED-HMO
+
+(adpt)
+Sales:=73.68
+Price/Earnings:=N/A
+Day Low - High:=2.98 - 3.00
+Market Cap:=324.32 M
+PE (forward):=
+Volume:=Vol.&nbsp; 74,721
+Price/Book:=.94
+52wk Low - High:=2.68 - 3.12
+EPS TTM:=-.17
+Price/Cash Flow:=125.69
+Net Income:=-22.17
+EPS Last Year:=-0.17
+Price/Sales:=7.65
+Div - Yield:=0.00 - 0.00
+PEG Ratio:=N/A
+Updating Price:=2.99
+Current Year Est.:=N/A
+Change %:=(0.34%)
+Change $:=
+  0.01
+  
+Avg Volume:=58,664
+Industry:=ELEC COMP-SEMIC
+
+(aec)
+Sales:=153.71
+Price/Earnings:=18.33
+Day Low - High:=16.85 - 17.71
+Market Cap:=698.90 M
+PE (forward):=16.04
+Volume:=Vol.&nbsp; 563,289
+Price/Book:=2.27
+52wk Low - High:=12.75 - 17.71
+EPS TTM:=.92
+Price/Cash Flow:=21.52
+Net Income:=-8.81
+EPS Last Year:=0.92
+Price/Sales:=4.26
+Div - Yield:=0.68 - 4.03
+PEG Ratio:=N/A
+Updating Price:=17.48
+Current Year Est.:=1.05
+Change %:=(3.68%)
+Change $:=
+  0.62
+  
+Avg Volume:=249,949
+Industry:=REIT-EQTY TRUST - RESID
+
+(aet)
+Sales:=34246
+Price/Earnings:=11
+Day Low - High:=43.18 - 43.74
+Market Cap:=16.49 B
+PE (forward):=9.99
+Volume:=Vol.&nbsp; 4,378,784
+Price/Book:=1.64
+52wk Low - High:=26.42 - 46.01
+EPS TTM:=3.95
+Price/Cash Flow:=8.82
+Net Income:=1790.2
+EPS Last Year:=3.95
+Price/Sales:=.48
+Div - Yield:=0.60 - 1.38
+PEG Ratio:=.97
+Updating Price:=43.36
+Current Year Est.:=4.35
+Change %:=(-0.18%)
+Change $:=
+  -0.08
+  
+Avg Volume:=3,602,811
+Industry:=MED-HMO
+
+(afce)
+Sales:=146.4
+Price/Earnings:=18.35
+Day Low - High:=16.35 - 16.70
+Market Cap:=404.33 M
+PE (forward):=17.14
+Volume:=Vol.&nbsp; 71,182
+Price/Book:=39.61
+52wk Low - High:=8.62 - 17.57
+EPS TTM:=.89
+Price/Cash Flow:=16.15
+Net Income:=24.3
+EPS Last Year:=0.89
+Price/Sales:=2.71
+Div - Yield:=0.00 - 0.00
+PEG Ratio:=1.43
+Updating Price:=16.61
+Current Year Est.:=.95
+Change %:=(1.71%)
+Change $:=
+  0.28
+  
+Avg Volume:=101,511
+Industry:=RETAIL-RESTRNTS
+
+(aig)
+Sales:=66767
+Price/Earnings:=N/A
+Day Low - High:=27.94 - 28.63
+Market Cap:=54.06 B
+PE (forward):=7.52
+Volume:=Vol.&nbsp; 5,881,389
+Price/Book:=.6
+52wk Low - High:=27.10 - 52.67
+EPS TTM:=-14.38
+Price/Cash Flow:=.27
+Net Income:=6394
+EPS Last Year:=-14.38
+Price/Sales:=.73
+Div - Yield:=0.00 - 0.00
+PEG Ratio:=.75
+Updating Price:=28.23
+Current Year Est.:=3.79
+Change %:=(-0.95%)
+Change $:=
+  -0.27
+  
+Avg Volume:=7,920,123
+Industry:=INS-MULTI LINE
+
+(alnc)
+Sales:=80.85
+Price/Earnings:=11.81
+Day Low - High:=31.30 - 32.17
+Market Cap:=150.23 M
+PE (forward):=12.32
+Volume:=Vol.&nbsp; 17,909
+Price/Book:=1.11
+52wk Low - High:=27.31 - 33.89
+EPS TTM:=2.68
+Price/Cash Flow:=8.22
+Net Income:=12.67
+EPS Last Year:=2.68
+Price/Sales:=1.92
+Div - Yield:=1.20 - 3.79
+PEG Ratio:=1.76
+Updating Price:=31.93
+Current Year Est.:=2.57
+Change %:=(0.85%)
+Change $:=
+  0.27
+  
+Avg Volume:=12,665
+Industry:=BANKS-SOUTHEAST
+
+(alth)
+Sales:=35.23
+Price/Earnings:=N/A
+Day Low - High:=2.00 - 2.10
+Market Cap:=213.34 M
+PE (forward):=
+Volume:=Vol.&nbsp; 464,068
+Price/Book:=2.46
+52wk Low - High:=1.84 - 6.12
+EPS TTM:=-.68
+Price/Cash Flow:=N/A
+Net Income:=-72.07
+EPS Last Year:=-0.68
+Price/Sales:=5.51
+Div - Yield:=0.00 - 0.00
+PEG Ratio:=N/A
+Updating Price:=2.00
+Current Year Est.:=-.54
+Change %:=(-0.99%)
+Change $:=
+  -0.02
+  
+Avg Volume:=786,802
+Industry:=MED-DRUGS
+
+(amph)
+Sales:=null
+Price/Earnings:=null
+Day Low - High:=null
+Market Cap:=null
+PE (forward):=null
+Volume:=null
+Price/Book:=null
+52wk Low - High:=null
+EPS TTM:=null
+Price/Cash Flow:=null
+Net Income:=null
+EPS Last Year:=null
+Price/Sales:=null
+Div - Yield:=null
+PEG Ratio:=null
+Updating Price:=null
+Current Year Est.:=null
+Change %:=null
+Change $:=null
+Avg Volume:=null
+Industry:=null
+
+(amt)
+Sales:=1985.33
+Price/Earnings:=56.87
+Day Low - High:=52.39 - 53.28
+Market Cap:=20.75 B
+PE (forward):=54.8
+Volume:=Vol.&nbsp; 2,261,715
+Price/Book:=5.94
+52wk Low - High:=43.74 - 56.84
+EPS TTM:=.92
+Price/Cash Flow:=24.77
+Net Income:=368.46
+EPS Last Year:=0.92
+Price/Sales:=9.91
+Div - Yield:=0.00 - 0.00
+PEG Ratio:=2.65
+Updating Price:=53.23
+Current Year Est.:=.95
+Change %:=(1.74%)
+Change $:=
+  0.91
+  
+Avg Volume:=2,212,125
+Industry:=COMM INFRASTRUCTURE
+
+(anv)
+Sales:=130.93
+Price/Earnings:=105.86
+Day Low - High:=37.56 - 38.78
+Market Cap:=3.40 B
+PE (forward):=71.91
+Volume:=Vol.&nbsp; 511,436
+Price/Book:=6.47
+52wk Low - High:=15.51 - 43.49
+EPS TTM:=.36
+Price/Cash Flow:=82.47
+Net Income:=30.66
+EPS Last Year:=0.36
+Price/Sales:=24.39
+Div - Yield:=0.00 - 0.00
+PEG Ratio:=N/A
+Updating Price:=38.73
+Current Year Est.:=.53
+Change %:=(1.63%)
+Change $:=
+  0.62
+  
+Avg Volume:=1,485,310
+Industry:=MINING -GOLD
+
+(apkt)
+Sales:=231.23
+Price/Earnings:=91.97
+Day Low - High:=64.99 - 66.85
+Market Cap:=4.74 B
+PE (forward):=73.19
+Volume:=Vol.&nbsp; 943,779
+Price/Book:=11.9
+52wk Low - High:=26.00 - 84.50
+EPS TTM:=.71
+Price/Cash Flow:=77.12
+Net Income:=48.41
+EPS Last Year:=0.71
+Price/Sales:=18.66
+Div - Yield:=0.00 - 0.00
+PEG Ratio:=3.33
+Updating Price:=65.90
+Current Year Est.:=.89
+Change %:=(0.92%)
+Change $:=
+  0.60
+  
+Avg Volume:=1,820,941
+Industry:=COMM INFRASTRUCTURE
+
+(apsg)
+Sales:=null
+Price/Earnings:=null
+Day Low - High:=null
+Market Cap:=null
+PE (forward):=null
+Volume:=null
+Price/Book:=null
+52wk Low - High:=null
+EPS TTM:=null
+Price/Cash Flow:=null
+Net Income:=null
+EPS Last Year:=null
+Price/Sales:=null
+Div - Yield:=null
+PEG Ratio:=null
+Updating Price:=null
+Current Year Est.:=null
+Change %:=null
+Change $:=null
+Avg Volume:=null
+Industry:=null
+
+(are)
+Sales:=487.3
+Price/Earnings:=18.32
+Day Low - High:=79.82 - 81.59
+Market Cap:=4.94 B
+PE (forward):=17.65
+Volume:=Vol.&nbsp; 260,355
+Price/Book:=1.7
+52wk Low - High:=63.74 - 83.08
+EPS TTM:=4.39
+Price/Cash Flow:=16.96
+Net Income:=139.84
+EPS Last Year:=4.39
+Price/Sales:=9.67
+Div - Yield:=1.80 - 2.25
+PEG Ratio:=2.01
+Updating Price:=81.58
+Current Year Est.:=4.53
+Change %:=(1.95%)
+Change $:=
+  1.56
+  
+Avg Volume:=351,444
+Industry:=REIT-EQTY TRUST -OTHER
+
+(artg)
+Sales:=null
+Price/Earnings:=null
+Day Low - High:=null
+Market Cap:=null
+PE (forward):=null
+Volume:=null
+Price/Book:=null
+52wk Low - High:=null
+EPS TTM:=null
+Price/Cash Flow:=null
+Net Income:=null
+EPS Last Year:=null
+Price/Sales:=null
+Div - Yield:=null
+PEG Ratio:=null
+Updating Price:=null
+Current Year Est.:=null
+Change %:=null
+Change $:=null
+Avg Volume:=null
+Industry:=null
+
+(atsi)
+Sales:=null
+Price/Earnings:=null
+Day Low - High:=null
+Market Cap:=null
+PE (forward):=null
+Volume:=null
+Price/Book:=null
+52wk Low - High:=null
+EPS TTM:=null
+Price/Cash Flow:=null
+Net Income:=null
+EPS Last Year:=null
+Price/Sales:=null
+Div - Yield:=null
+PEG Ratio:=null
+Updating Price:=null
+Current Year Est.:=null
+Change %:=null
+Change $:=null
+Avg Volume:=null
+Industry:=null
+
+(awr)
+Sales:=398.94
+Price/Earnings:=19.02
+Day Low - High:=34.91 - 35.30
+Market Cap:=653.17 M
+PE (forward):=17.21
+Volume:=Vol.&nbsp; 62,247
+Price/Book:=1.71
+52wk Low - High:=31.24 - 38.59
+EPS TTM:=1.84
+Price/Cash Flow:=8.58
+Net Income:=32.3
+EPS Last Year:=1.84
+Price/Sales:=1.61
+Div - Yield:=1.12 - 3.20
+PEG Ratio:=N/A
+Updating Price:=35.06
+Current Year Est.:=2.03
+Change %:=(0.17%)
+Change $:=
+  0.06
+  
+Avg Volume:=72,247
+Industry:=UTIL-WATER SPLY
+
+(azo)
+Sales:=7362.62
+Price/Earnings:=16.49
+Day Low - High:=294.08 - 298.66
+Market Cap:=12.57 B
+PE (forward):=15.54
+Volume:=Vol.&nbsp; 292,053
+Price/Book:=N/A
+52wk Low - High:=201.51 - 302.00
+EPS TTM:=18.06
+Price/Cash Flow:=14.95
+Net Income:=816.44
+EPS Last Year:=18.06
+Price/Sales:=1.6
+Div - Yield:=0.00 - 0.00
+PEG Ratio:=1.15
+Updating Price:=297.28
+Current Year Est.:=19.17
+Change %:=(-0.20%)
+Change $:=
+  -0.60
+  
+Avg Volume:=363,512
+Industry:=RETAIL/WHLSLE-AUTO PARTS
+
+(bamm)
+Sales:=494.96
+Price/Earnings:=13.3
+Day Low - High:=3.04 - 3.14
+Market Cap:=48.17 M
+PE (forward):=
+Volume:=Vol.&nbsp; 30,603
+Price/Book:=.43
+52wk Low - High:=3.00 - 7.07
+EPS TTM:=.23
+Price/Cash Flow:=1.96
+Net Income:=3.42
+EPS Last Year:=0.23
+Price/Sales:=.1
+Div - Yield:=0.20 - 6.54
+PEG Ratio:=N/A
+Updating Price:=3.06
+Current Year Est.:=N/A
+Change %:=(N/A%)
+Change $:=
+  N/A
+  
+Avg Volume:=117,092
+Industry:=RETAIL-MISC/DIV
+
+(bbgi)
+Sales:=97.97
+Price/Earnings:=10.2
+Day Low - High:=4.04 - 4.09
+Market Cap:=92.53 M
+PE (forward):=
+Volume:=Vol.&nbsp; 8,682
+Price/Book:=1.44
+52wk Low - High:=3.37 - 9.34
+EPS TTM:=.4
+Price/Cash Flow:=8.45
+Net Income:=9.01
+EPS Last Year:=0.40
+Price/Sales:=.93
+Div - Yield:=0.00 - 0.00
+PEG Ratio:=N/A
+Updating Price:=4.08
+Current Year Est.:=.4
+Change %:=(N/A%)
+Change $:=
+  N/A
+  
+Avg Volume:=32,898
+Industry:=BRDCST-RADIO/TV
+
+(bc)
+Sales:=3403.3
+Price/Earnings:=N/A
+Day Low - High:=18.73 - 19.19
+Market Cap:=1.68 B
+PE (forward):=43.84
+Volume:=Vol.&nbsp; 1,338,427
+Price/Book:=13.6
+52wk Low - High:=12.02 - 27.70
+EPS TTM:=-.11
+Price/Cash Flow:=15.96
+Net Income:=-70.1
+EPS Last Year:=-0.11
+Price/Sales:=.47
+Div - Yield:=0.05 - 0.27
+PEG Ratio:=N/A
+Updating Price:=19.14
+Current Year Est.:=.43
+Change %:=(1.54%)
+Change $:=
+  0.29
+  
+Avg Volume:=1,156,805
+Industry:=LEISURE&amp;REC PRD
+
+(bcsi)
+Sales:=487.11
+Price/Earnings:=18.36
+Day Low - High:=21.23 - 21.70
+Market Cap:=924.57 M
+PE (forward):=29.5
+Volume:=Vol.&nbsp; 430,073
+Price/Book:=1.95
+52wk Low - High:=17.21 - 32.22
+EPS TTM:=1.16
+Price/Cash Flow:=10.7
+Net Income:=47.02
+EPS Last Year:=1.16
+Price/Sales:=1.9
+Div - Yield:=0.00 - 0.00
+PEG Ratio:=2.35
+Updating Price:=21.70
+Current Year Est.:=.72
+Change %:=(1.88%)
+Change $:=
+  0.40
+  
+Avg Volume:=496,314
+Industry:=COMP-NETWORKS
+
+(beat)
+Sales:=119.92
+Price/Earnings:=N/A
+Day Low - High:=5.08 - 5.20
+Market Cap:=124.26 M
+PE (forward):=
+Volume:=Vol.&nbsp; 86,807
+Price/Book:=.91
+52wk Low - High:=4.00 - 6.11
+EPS TTM:=-.49
+Price/Cash Flow:=N/A
+Net Income:=-15.98
+EPS Last Year:=-0.49
+Price/Sales:=1.02
+Div - Yield:=0.00 - 0.00
+PEG Ratio:=N/A
+Updating Price:=5.09
+Current Year Est.:=-.28
+Change %:=(-0.20%)
+Change $:=
+  -0.01
+  
+Avg Volume:=99,877
+Industry:=MED PRODUCTS
+
+(beav)
+Sales:=1984.2
+Price/Earnings:=23.22
+Day Low - High:=40.24 - 41.24
+Market Cap:=4.21 B
+PE (forward):=19.57
+Volume:=Vol.&nbsp; 650,236
+Price/Book:=2.47
+52wk Low - High:=25.75 - 41.99
+EPS TTM:=1.76
+Price/Cash Flow:=19.49
+Net Income:=159.8
+EPS Last Year:=1.76
+Price/Sales:=1.99
+Div - Yield:=0.00 - 0.00
+PEG Ratio:=.74
+Updating Price:=40.56
+Current Year Est.:=2.09
+Change %:=(-0.76%)
+Change $:=
+  -0.31
+  
+Avg Volume:=886,438
+Industry:=AEROSPACE/DEFENSE EQUIPMENT
+
+(bez)
+Sales:=null
+Price/Earnings:=null
+Day Low - High:=null
+Market Cap:=null
+PE (forward):=null
+Volume:=null
+Price/Book:=null
+52wk Low - High:=null
+EPS TTM:=null
+Price/Cash Flow:=null
+Net Income:=null
+EPS Last Year:=null
+Price/Sales:=null
+Div - Yield:=null
+PEG Ratio:=null
+Updating Price:=null
+Current Year Est.:=null
+Change %:=null
+Change $:=null
+Avg Volume:=null
+Industry:=null
+
+(bmrn)
+Sales:=376.27
+Price/Earnings:=N/A
+Day Low - High:=29.35 - 29.92
+Market Cap:=3.31 B
+PE (forward):=
+Volume:=Vol.&nbsp; 1,221,995
+Price/Book:=4.59
+52wk Low - High:=18.52 - 30.06
+EPS TTM:=-.07
+Price/Cash Flow:=103.75
+Net Income:=200.3
+EPS Last Year:=-0.07
+Price/Sales:=8.27
+Div - Yield:=0.00 - 0.00
+PEG Ratio:=N/A
+Updating Price:=29.69
+Current Year Est.:=-.39
+Change %:=(-0.60%)
+Change $:=
+  -0.18
+  
+Avg Volume:=925,320
+Industry:=MED-BIOMED/GENE
+
+(bre)
+Sales:=341.97
+Price/Earnings:=26.21
+Day Low - High:=51.30 - 52.31
+Market Cap:=3.79 B
+PE (forward):=24.32
+Volume:=Vol.&nbsp; 552,736
+Price/Book:=2.6
+52wk Low - High:=36.42 - 53.22
+EPS TTM:=1.97
+Price/Cash Flow:=31.81
+Net Income:=57.87
+EPS Last Year:=1.97
+Price/Sales:=10.75
+Div - Yield:=1.50 - 2.91
+PEG Ratio:=4.65
+Updating Price:=52.29
+Current Year Est.:=2.12
+Change %:=(1.28%)
+Change $:=
+  0.66
+  
+Avg Volume:=705,788
+Industry:=REIT-EQTY TRUST - RESID
+
+(bsrr)
+Sales:=81.69
+Price/Earnings:=21.17
+Day Low - High:=11.19 - 11.35
+Market Cap:=157.13 M
+PE (forward):=21.58
+Volume:=Vol.&nbsp; 19,278
+Price/Book:=.97
+52wk Low - High:=10.06 - 13.10
+EPS TTM:=.53
+Price/Cash Flow:=11.44
+Net Income:=6.55
+EPS Last Year:=0.53
+Price/Sales:=1.98
+Div - Yield:=0.24 - 2.14
+PEG Ratio:=2.16
+Updating Price:=11.35
+Current Year Est.:=.52
+Change %:=(1.16%)
+Change $:=
+  0.13
+  
+Avg Volume:=32,850
+Industry:=BANKS-WEST
+
+(bxs)
+Sales:=846.91
+Price/Earnings:=75.56
+Day Low - High:=11.90 - 12.13
+Market Cap:=1.01 B
+PE (forward):=55.88
+Volume:=Vol.&nbsp; 744,030
+Price/Book:=.83
+52wk Low - High:=11.57 - 18.54
+EPS TTM:=.16
+Price/Cash Flow:=16.35
+Net Income:=14.05
+EPS Last Year:=0.16
+Price/Sales:=1.2
+Div - Yield:=0.04 - 0.33
+PEG Ratio:=9.86
+Updating Price:=11.96
+Current Year Est.:=.22
+Change %:=(-1.08%)
+Change $:=
+  -0.13
+  
+Avg Volume:=1,120,966
+Industry:=BANKS-SOUTHEAST
+
+(cap)
+Sales:=77.9
+Price/Earnings:=10.75
+Day Low - High:=17.93 - 18.91
+Market Cap:=360.82 M
+PE (forward):=7.99
+Volume:=Vol.&nbsp; 182,975
+Price/Book:=1.7
+52wk Low - High:=11.64 - 28.57
+EPS TTM:=1.74
+Price/Cash Flow:=7.31
+Net Income:=38.13
+EPS Last Year:=1.74
+Price/Sales:=3.99
+Div - Yield:=0.00 - 0.00
+PEG Ratio:=.8
+Updating Price:=18.06
+Current Year Est.:=2.34
+Change %:=(-3.42%)
+Change $:=
+  -0.64
+  
+Avg Volume:=102,480
+Industry:=TRANS-EQP&amp;LSNG
+
+(casc)
+Sales:=409.86
+Price/Earnings:=15.27
+Day Low - High:=51.50 - 53.62
+Market Cap:=577.29 M
+PE (forward):=10.82
+Volume:=Vol.&nbsp; 73,399
+Price/Book:=2.1
+52wk Low - High:=27.55 - 54.94
+EPS TTM:=3.42
+Price/Cash Flow:=14.86
+Net Income:=32.16
+EPS Last Year:=3.42
+Price/Sales:=1.28
+Div - Yield:=0.80 - 1.53
+PEG Ratio:=1.55
+Updating Price:=53.40
+Current Year Est.:=4.82
+Change %:=(2.28%)
+Change $:=
+  1.19
+  
+Avg Volume:=88,105
+Industry:=MACH-MATL HDLG
+
+(caty)
+Sales:=521.84
+Price/Earnings:=28.69
+Day Low - High:=15.60 - 15.99
+Market Cap:=1.24 B
+PE (forward):=14.48
+Volume:=Vol.&nbsp; 271,246
+Price/Book:=1.03
+52wk Low - High:=9.32 - 18.98
+EPS TTM:=.55
+Price/Cash Flow:=42.9
+Net Income:=59.37
+EPS Last Year:=0.55
+Price/Sales:=2.4
+Div - Yield:=0.04 - 0.25
+PEG Ratio:=1.81
+Updating Price:=15.69
+Current Year Est.:=1.09
+Change %:=(-0.57%)
+Change $:=
+  -0.09
+  
+Avg Volume:=347,688
+Industry:=BANKS-WEST
+
+(cb)
+Sales:=12775
+Price/Earnings:=10.14
+Day Low - High:=61.89 - 62.65
+Market Cap:=18.21 B
+PE (forward):=11.76
+Volume:=Vol.&nbsp; 1,610,120
+Price/Book:=1.17
+52wk Low - High:=51.24 - 66.00
+EPS TTM:=6.14
+Price/Cash Flow:=8.89
+Net Income:=2219
+EPS Last Year:=6.14
+Price/Sales:=1.45
+Div - Yield:=1.56 - 2.51
+PEG Ratio:=1.21
+Updating Price:=62.22
+Current Year Est.:=5.29
+Change %:=(-0.05%)
+Change $:=
+  -0.03
+  
+Avg Volume:=1,794,028
+Industry:=INS-PROP&amp;CASLTY
+
+(cbb)
+Sales:=1377
+Price/Earnings:=11.64
+Day Low - High:=3.28 - 3.39
+Market Cap:=648.05 M
+PE (forward):=11.33
+Volume:=Vol.&nbsp; 1,497,369
+Price/Book:=N/A
+52wk Low - High:=2.27 - 3.42
+EPS TTM:=.28
+Price/Cash Flow:=2.62
+Net Income:=20.8
+EPS Last Year:=0.28
+Price/Sales:=.46
+Div - Yield:=0.00 - 0.00
+PEG Ratio:=.46
+Updating Price:=3.37
+Current Year Est.:=.29
+Change %:=(3.37%)
+Change $:=
+  0.11
+  
+Avg Volume:=1,715,613
+Industry:=DIVERSIFIED COMM SERVICES
+
+(cbg)
+Sales:=5115.32
+Price/Earnings:=26.82
+Day Low - High:=22.69 - 23.35
+Market Cap:=7.41 B
+PE (forward):=20.57
+Volume:=Vol.&nbsp; 5,047,417
+Price/Book:=6.42
+52wk Low - High:=13.51 - 29.88
+EPS TTM:=.85
+Price/Cash Flow:=19.09
+Net Income:=241.34
+EPS Last Year:=0.85
+Price/Sales:=1.4
+Div - Yield:=0.00 - 0.00
+PEG Ratio:=1.79
+Updating Price:=23.29
+Current Year Est.:=1.11
+Change %:=(2.15%)
+Change $:=
+  0.49
+  
+Avg Volume:=3,274,735
+Industry:=REAL ESTATE OPS
+
+(ccc)
+Sales:=482.34
+Price/Earnings:=23.09
+Day Low - High:=16.13 - 16.35
+Market Cap:=912.54 M
+PE (forward):=19.75
+Volume:=Vol.&nbsp; 291,606
+Price/Book:=2.56
+52wk Low - High:=11.75 - 18.20
+EPS TTM:=.7
+Price/Cash Flow:=13.97
+Net Income:=33.85
+EPS Last Year:=0.70
+Price/Sales:=1.81
+Div - Yield:=0.00 - 0.00
+PEG Ratio:=.93
+Updating Price:=16.29
+Current Year Est.:=.82
+Change %:=(0.80%)
+Change $:=
+  0.13
+  
+Avg Volume:=530,153
+Industry:=POLLUTION CNTRL
+
+(cffn)
+Sales:=408.46
+Price/Earnings:=30.62
+Day Low - High:=11.76 - 11.94
+Market Cap:=1.97 B
+PE (forward):=29.8
+Volume:=Vol.&nbsp; 1,705,323
+Price/Book:=1.02
+52wk Low - High:=10.16 - 14.75
+EPS TTM:=.38
+Price/Cash Flow:=23.18
+Net Income:=36.58
+EPS Last Year:=0.38
+Price/Sales:=5.18
+Div - Yield:=0.30 - 2.55
+PEG Ratio:=9.93
+Updating Price:=11.87
+Current Year Est.:=.4
+Change %:=(0.85%)
+Change $:=
+  0.10
+  
+Avg Volume:=1,716,685
+Industry:=FIN-SVGS &amp; LOAN
+
+(chdx)
+Sales:=50.01
+Price/Earnings:=33
+Day Low - High:=12.30 - 12.80
+Market Cap:=187.09 M
+PE (forward):=20.35
+Volume:=Vol.&nbsp; 59,902
+Price/Book:=1.4
+52wk Low - High:=11.26 - 18.64
+EPS TTM:=.37
+Price/Cash Flow:=16.91
+Net Income:=4.58
+EPS Last Year:=0.37
+Price/Sales:=1.16
+Div - Yield:=0.00 - 0.00
+PEG Ratio:=.88
+Updating Price:=12.45
+Current Year Est.:=.6
+Change %:=(1.97%)
+Change $:=
+  0.24
+  
+Avg Volume:=63,621
+Industry:=MED/DENTAL-SUPP
+
+(chs)
+Sales:=1904.95
+Price/Earnings:=22.28
+Day Low - High:=15.45 - 15.91
+Market Cap:=2.79 B
+PE (forward):=17.99
+Volume:=Vol.&nbsp; 3,165,021
+Price/Book:=2.63
+52wk Low - High:=8.22 - 16.25
+EPS TTM:=.71
+Price/Cash Flow:=13.33
+Net Income:=125.91
+EPS Last Year:=0.71
+Price/Sales:=1.42
+Div - Yield:=0.20 - 1.26
+PEG Ratio:=1.1
+Updating Price:=15.52
+Current Year Est.:=.88
+Change %:=(-1.90%)
+Change $:=
+  -0.30
+  
+Avg Volume:=2,542,214
+Industry:=RETAIL-APP/SHOE
+
+(clne)
+Sales:=211.83
+Price/Earnings:=N/A
+Day Low - High:=15.62 - 16.03
+Market Cap:=1.08 B
+PE (forward):=
+Volume:=Vol.&nbsp; 2,616,657
+Price/Book:=2.58
+52wk Low - High:=11.75 - 19.36
+EPS TTM:=-.17
+Price/Cash Flow:=96.42
+Net Income:=12.1
+EPS Last Year:=-0.17
+Price/Sales:=4.52
+Div - Yield:=0.00 - 0.00
+PEG Ratio:=N/A
+Updating Price:=16.00
+Current Year Est.:=-.31
+Change %:=(4.30%)
+Change $:=
+  0.66
+  
+Avg Volume:=1,825,557
+Industry:=UTIL-GAS DISTR
+
+(cmn)
+Sales:=273.95
+Price/Earnings:=22.7
+Day Low - High:=26.51 - 26.97
+Market Cap:=461.06 M
+PE (forward):=21.78
+Volume:=Vol.&nbsp; 44,659
+Price/Book:=2
+52wk Low - High:=13.39 - 28.29
+EPS TTM:=1.18
+Price/Cash Flow:=14.18
+Net Income:=20.37
+EPS Last Year:=1.18
+Price/Sales:=1.51
+Div - Yield:=0.12 - 0.45
+PEG Ratio:=N/A
+Updating Price:=26.85
+Current Year Est.:=1.23
+Change %:=(0.22%)
+Change $:=
+  0.06
+  
+Avg Volume:=54,540
+Industry:=MED INSTRUMENTS
+
+(cmtl)
+Sales:=778.21
+Price/Earnings:=12.69
+Day Low - High:=28.55 - 28.90
+Market Cap:=747.09 M
+PE (forward):=13.25
+Volume:=Vol.&nbsp; 405,171
+Price/Book:=1.14
+52wk Low - High:=20.19 - 32.00
+EPS TTM:=2.26
+Price/Cash Flow:=7.37
+Net Income:=69.48
+EPS Last Year:=2.26
+Price/Sales:=1.02
+Div - Yield:=1.00 - 3.49
+PEG Ratio:=N/A
+Updating Price:=28.72
+Current Year Est.:=2.16
+Change %:=(0.10%)
+Change $:=
+  0.03
+  
+Avg Volume:=425,999
+Industry:=WIRELESS EQUIPMENT
+
+(cnc)
+Sales:=4448.32
+Price/Earnings:=18.94
+Day Low - High:=35.04 - 36.10
+Market Cap:=1.79 B
+PE (forward):=16.72
+Volume:=Vol.&nbsp; 799,719
+Price/Book:=2.14
+52wk Low - High:=N/A - 39.35
+EPS TTM:=1.89
+Price/Cash Flow:=12.77
+Net Income:=94.58
+EPS Last Year:=1.89
+Price/Sales:=.39
+Div - Yield:=0.00 - 0.00
+PEG Ratio:=1.25
+Updating Price:=35.27
+Current Year Est.:=2.14
+Change %:=(-1.45%)
+Change $:=
+  -0.52
+  
+Avg Volume:=440,530
+Industry:=MED-HMO
+
+(cown)
+Sales:=233.81
+Price/Earnings:=N/A
+Day Low - High:=3.81 - 4.03
+Market Cap:=292.08 M
+PE (forward):=11.52
+Volume:=Vol.&nbsp; 456,847
+Price/Book:=.49
+52wk Low - High:=2.99 - 5.04
+EPS TTM:=-.48
+Price/Cash Flow:=N/A
+Net Income:=-22.89
+EPS Last Year:=-0.48
+Price/Sales:=1.42
+Div - Yield:=0.00 - 0.00
+PEG Ratio:=1.44
+Updating Price:=4.00
+Current Year Est.:=.34
+Change %:=(3.63%)
+Change $:=
+  0.14
+  
+Avg Volume:=632,588
+Industry:=FIN-INVEST BKRS
+
+(cpa)
+Sales:=1411.15
+Price/Earnings:=12.36
+Day Low - High:=67.80 - 69.46
+Market Cap:=3.01 B
+PE (forward):=12.32
+Volume:=Vol.&nbsp; 174,622
+Price/Book:=2.5
+52wk Low - High:=44.94 - 70.56
+EPS TTM:=5.55
+Price/Cash Flow:=10.6
+Net Income:=269.82
+EPS Last Year:=5.55
+Price/Sales:=2.01
+Div - Yield:=1.64 - 2.39
+PEG Ratio:=1.23
+Updating Price:=68.88
+Current Year Est.:=5.57
+Change %:=(0.44%)
+Change $:=
+  0.30
+  
+Avg Volume:=223,887
+Industry:=TRANS-AIRLINE
+
+(cpe)
+Sales:=89.88
+Price/Earnings:=32.1
+Day Low - High:=6.74 - 7.09
+Market Cap:=263.62 M
+PE (forward):=11.99
+Volume:=Vol.&nbsp; 552,464
+Price/Book:=2.85
+52wk Low - High:=3.54 - 9.36
+EPS TTM:=.21
+Price/Cash Flow:=4.81
+Net Income:=8.6
+EPS Last Year:=0.21
+Price/Sales:=2.87
+Div - Yield:=0.00 - 0.00
+PEG Ratio:=N/A
+Updating Price:=7.04
+Current Year Est.:=.56
+Change %:=(4.45%)
+Change $:=
+  0.30
+  
+Avg Volume:=375,818
+Industry:=OIL-US EXP&amp;PROD
+
+(cpn)
+Sales:=6545
+Price/Earnings:=81.55
+Day Low - High:=16.32 - 16.50
+Market Cap:=7.27 B
+PE (forward):=78.79
+Volume:=Vol.&nbsp; 3,942,169
+Price/Book:=1.63
+52wk Low - High:=11.88 - 17.10
+EPS TTM:=.2
+Price/Cash Flow:=10.33
+Net Income:=-219
+EPS Last Year:=0.20
+Price/Sales:=1.11
+Div - Yield:=0.00 - 0.00
+PEG Ratio:=7.47
+Updating Price:=16.49
+Current Year Est.:=.21
+Change %:=(1.10%)
+Change $:=
+  0.18
+  
+Avg Volume:=2,310,269
+Industry:=UTIL-ELEC PWR
+
+(cpst)
+Sales:=81.89
+Price/Earnings:=N/A
+Day Low - High:=1.48 - 1.57
+Market Cap:=399.35 M
+PE (forward):=
+Volume:=Vol.&nbsp; 1,278,068
+Price/Book:=10.99
+52wk Low - High:=0.62 - 2.14
+EPS TTM:=-.23
+Price/Cash Flow:=N/A
+Net Income:=-38.47
+EPS Last Year:=-0.23
+Price/Sales:=4.88
+Div - Yield:=0.00 - 0.00
+PEG Ratio:=N/A
+Updating Price:=1.54
+Current Year Est.:=-.06
+Change %:=(N/A%)
+Change $:=
+  N/A
+  
+Avg Volume:=2,900,513
+Industry:=MACH-ELECTRICAL
+
+(cpy)
+Sales:=407.04
+Price/Earnings:=8.21
+Day Low - High:=12.52 - 13.09
+Market Cap:=89.01 M
+PE (forward):=7.24
+Volume:=Vol.&nbsp; 39,877
+Price/Book:=6.81
+52wk Low - High:=11.76 - 31.00
+EPS TTM:=1.54
+Price/Cash Flow:=3.01
+Net Income:=6.11
+EPS Last Year:=1.54
+Price/Sales:=.22
+Div - Yield:=1.00 - 7.91
+PEG Ratio:=N/A
+Updating Price:=12.71
+Current Year Est.:=1.75
+Change %:=(0.55%)
+Change $:=
+  0.07
+  
+Avg Volume:=95,799
+Industry:=CONS SERVICES - MISC
+
+(cra)
+Sales:=N/A
+Price/Earnings:=N/A
+Day Low - High:=0.06 - 0.06
+Market Cap:=N/A
+PE (forward):=
+Volume:=Vol.&nbsp; 61,500
+Price/Book:=N/A
+52wk Low - High:=0.04 - 0.20
+EPS TTM:=N/A
+Price/Cash Flow:=N/A
+Net Income:=N/A
+EPS Last Year:=N/A
+Price/Sales:=N/A
+Div - Yield:=N/A - N/A
+PEG Ratio:=N/A
+Updating Price:=0.06
+Current Year Est.:=N/A
+Change %:=(N/A%)
+Change $:=
+  N/A
+  
+Avg Volume:=N/A
+Industry:=N/A
+
+(cswc)
+Sales:=7.57
+Price/Earnings:=203.58
+Day Low - High:=97.26 - 99.45
+Market Cap:=366.74 M
+PE (forward):=
+Volume:=Vol.&nbsp; 4,134
+Price/Book:=.68
+52wk Low - High:=85.46 - 112.37
+EPS TTM:=.48
+Price/Cash Flow:=201.07
+Net Income:=1.8
+EPS Last Year:=0.48
+Price/Sales:=48.45
+Div - Yield:=0.80 - 0.82
+PEG Ratio:=N/A
+Updating Price:=97.26
+Current Year Est.:=N/A
+Change %:=(-0.47%)
+Change $:=
+  -0.46
+  
+Avg Volume:=13,541
+Industry:=FIN-INVEST MGMT
+
+(ctgx)
+Sales:=331.41
+Price/Earnings:=22.62
+Day Low - High:=12.92 - 13.21
+Market Cap:=242.18 M
+PE (forward):=18.22
+Volume:=Vol.&nbsp; 39,183
+Price/Book:=2.85
+52wk Low - High:=6.23 - 15.00
+EPS TTM:=.58
+Price/Cash Flow:=23.48
+Net Income:=9.41
+EPS Last Year:=0.58
+Price/Sales:=.69
+Div - Yield:=0.00 - 0.00
+PEG Ratio:=.91
+Updating Price:=13.10
+Current Year Est.:=.72
+Change %:=(-0.15%)
+Change $:=
+  -0.02
+  
+Avg Volume:=57,352
+Industry:=IT SERVICES
+
+(cyh)
+Sales:=12986.5
+Price/Earnings:=8.24
+Day Low - High:=25.05 - 25.52
+Market Cap:=2.39 B
+PE (forward):=7.74
+Volume:=Vol.&nbsp; 920,863
+Price/Book:=.99
+52wk Low - High:=22.33 - 42.50
+EPS TTM:=3.06
+Price/Cash Flow:=2.62
+Net Income:=271.3
+EPS Last Year:=3.06
+Price/Sales:=.18
+Div - Yield:=0.00 - 0.00
+PEG Ratio:=.61
+Updating Price:=25.49
+Current Year Est.:=3.26
+Change %:=(1.11%)
+Change $:=
+  0.28
+  
+Avg Volume:=1,712,710
+Industry:=MED-HOSPITALS
+
+(cyn)
+Sales:=1191.57
+Price/Earnings:=19.78
+Day Low - High:=52.50 - 53.51
+Market Cap:=2.83 B
+PE (forward):=16.71
+Volume:=Vol.&nbsp; 172,656
+Price/Book:=1.41
+52wk Low - High:=47.19 - 63.71
+EPS TTM:=2.69
+Price/Cash Flow:=17.92
+Net Income:=155.89
+EPS Last Year:=2.69
+Price/Sales:=2.34
+Div - Yield:=0.80 - 1.50
+PEG Ratio:=1.89
+Updating Price:=52.68
+Current Year Est.:=3.18
+Change %:=(-0.98%)
+Change $:=
+  -0.52
+  
+Avg Volume:=256,009
+Industry:=BANKS-WEST
+
+(cypb)
+Sales:=null
+Price/Earnings:=null
+Day Low - High:=null
+Market Cap:=null
+PE (forward):=null
+Volume:=null
+Price/Book:=null
+52wk Low - High:=null
+EPS TTM:=null
+Price/Cash Flow:=null
+Net Income:=null
+EPS Last Year:=null
+Price/Sales:=null
+Div - Yield:=null
+PEG Ratio:=null
+Updating Price:=null
+Current Year Est.:=null
+Change %:=null
+Change $:=null
+Avg Volume:=null
+Industry:=null
+
+(dakt)
+Sales:=441.68
+Price/Earnings:=30.91
+Day Low - High:=10.35 - 10.62
+Market Cap:=438.35 M
+PE (forward):=23.15
+Volume:=Vol.&nbsp; 109,858
+Price/Book:=2.15
+52wk Low - High:=7.30 - 17.30
+EPS TTM:=.34
+Price/Cash Flow:=12.88
+Net Income:=14.24
+EPS Last Year:=0.34
+Price/Sales:=.99
+Div - Yield:=0.11 - 1.05
+PEG Ratio:=2.32
+Updating Price:=10.54
+Current Year Est.:=.45
+Change %:=(0.29%)
+Change $:=
+  0.03
+  
+Avg Volume:=176,927
+Industry:=ELEC PRODS-MISC
+
+(dfz)
+Sales:=123.79
+Price/Earnings:=16.74
+Day Low - High:=11.29 - 11.54
+Market Cap:=125.70 M
+PE (forward):=
+Volume:=Vol.&nbsp; 27,674
+Price/Book:=2.04
+52wk Low - High:=9.48 - 13.35
+EPS TTM:=.68
+Price/Cash Flow:=12.07
+Net Income:=6.74
+EPS Last Year:=0.68
+Price/Sales:=1.03
+Div - Yield:=0.28 - 2.46
+PEG Ratio:=N/A
+Updating Price:=11.54
+Current Year Est.:=N/A
+Change %:=(1.41%)
+Change $:=
+  0.16
+  
+Avg Volume:=30,895
+Industry:=SHOES&amp;REL APPRL
+
+(drc)
+Sales:=1953.6
+Price/Earnings:=31.91
+Day Low - High:=53.07 - 54.72
+Market Cap:=4.23 B
+PE (forward):=24.54
+Volume:=Vol.&nbsp; 764,200
+Price/Book:=5.6
+52wk Low - High:=30.59 - 56.19
+EPS TTM:=1.66
+Price/Cash Flow:=21.11
+Net Income:=124.8
+EPS Last Year:=1.66
+Price/Sales:=2.34
+Div - Yield:=0.00 - 0.00
+PEG Ratio:=4.16
+Updating Price:=54.71
+Current Year Est.:=2.16
+Change %:=(3.28%)
+Change $:=
+  1.74
+  
+Avg Volume:=761,126
+Industry:=OIL FLD MCH&amp;EQP
+
+(dtsi)
+Sales:=87.1
+Price/Earnings:=39.42
+Day Low - High:=37.84 - 38.40
+Market Cap:=665.41 M
+PE (forward):=33.74
+Volume:=Vol.&nbsp; 94,691
+Price/Book:=4.26
+52wk Low - High:=32.50 - 50.57
+EPS TTM:=.97
+Price/Cash Flow:=32.08
+Net Income:=17.98
+EPS Last Year:=0.97
+Price/Sales:=7.22
+Div - Yield:=0.00 - 0.00
+PEG Ratio:=1.78
+Updating Price:=38.23
+Current Year Est.:=1.13
+Change %:=(-0.03%)
+Change $:=
+  -0.01
+  
+Avg Volume:=101,114
+Industry:=AUDIO/VIDEO PRD
+
+(dva)
+Sales:=6447.39
+Price/Earnings:=20.23
+Day Low - High:=86.61 - 87.56
+Market Cap:=8.31 B
+PE (forward):=18.36
+Volume:=Vol.&nbsp; 457,121
+Price/Book:=3.91
+52wk Low - High:=56.58 - 89.76
+EPS TTM:=4.3
+Price/Cash Flow:=12.34
+Net Income:=390.76
+EPS Last Year:=4.30
+Price/Sales:=1.28
+Div - Yield:=0.00 - 0.00
+PEG Ratio:=1.53
+Updating Price:=87.10
+Current Year Est.:=4.74
+Change %:=(0.11%)
+Change $:=
+  0.10
+  
+Avg Volume:=687,924
+Industry:=MED-OUTP/HM CRE
+
+(dvox)
+Sales:=114.3
+Price/Earnings:=47.87
+Day Low - High:=7.11 - 7.27
+Market Cap:=67.37 M
+PE (forward):=20.51
+Volume:=Vol.&nbsp; 206,562
+Price/Book:=.9
+52wk Low - High:=3.80 - 16.19
+EPS TTM:=.15
+Price/Cash Flow:=5.08
+Net Income:=1.29
+EPS Last Year:=0.15
+Price/Sales:=.62
+Div - Yield:=0.00 - 0.00
+PEG Ratio:=.98
+Updating Price:=7.24
+Current Year Est.:=.35
+Change %:=(0.84%)
+Change $:=
+  0.06
+  
+Avg Volume:=63,813
+Industry:=MED PRODUCTS
+
+(dw)
+Sales:=572.76
+Price/Earnings:=17.73
+Day Low - High:=23.27 - 23.59
+Market Cap:=516.41 M
+PE (forward):=15.26
+Volume:=Vol.&nbsp; 88,175
+Price/Book:=2.02
+52wk Low - High:=18.44 - 26.78
+EPS TTM:=1.32
+Price/Cash Flow:=11.4
+Net Income:=30.09
+EPS Last Year:=1.32
+Price/Sales:=.87
+Div - Yield:=0.00 - 0.00
+PEG Ratio:=N/A
+Updating Price:=23.50
+Current Year Est.:=1.53
+Change %:=(0.43%)
+Change $:=
+  0.10
+  
+Avg Volume:=89,066
+Industry:=BLDG&amp;CONST-MISC
+
+(dxpe)
+Sales:=656.2
+Price/Earnings:=17.89
+Day Low - High:=26.44 - 27.00
+Market Cap:=373.36 M
+PE (forward):=14.13
+Volume:=Vol.&nbsp; 60,764
+Price/Book:=2.85
+52wk Low - High:=16.57 - 27.00
+EPS TTM:=1.48
+Price/Cash Flow:=12.73
+Net Income:=22.13
+EPS Last Year:=1.48
+Price/Sales:=.54
+Div - Yield:=0.00 - 0.00
+PEG Ratio:=.56
+Updating Price:=27.00
+Current Year Est.:=1.87
+Change %:=(2.00%)
+Change $:=
+  0.53
+  
+Avg Volume:=45,349
+Industry:=MACH-GENL INDL
+
+(eeft)
+Sales:=1038.2
+Price/Earnings:=13.13
+Day Low - High:=15.51 - 15.78
+Market Cap:=799.85 M
+PE (forward):=12.16
+Volume:=Vol.&nbsp; 350,413
+Price/Book:=1.43
+52wk Low - High:=13.63 - 20.25
+EPS TTM:=1.19
+Price/Cash Flow:=6.53
+Net Income:=-23.9
+EPS Last Year:=1.19
+Price/Sales:=.76
+Div - Yield:=0.00 - 0.00
+PEG Ratio:=.83
+Updating Price:=15.70
+Current Year Est.:=1.28
+Change %:=(0.51%)
+Change $:=
+  0.08
+  
+Avg Volume:=186,264
+Industry:=FIN-MISC SVCS
+
+(egov)
+Sales:=161.53
+Price/Earnings:=42.81
+Day Low - High:=13.11 - 13.37
+Market Cap:=848.90 M
+PE (forward):=39.03
+Volume:=Vol.&nbsp; 213,056
+Price/Book:=14.29
+52wk Low - High:=6.34 - 13.80
+EPS TTM:=.31
+Price/Cash Flow:=36.69
+Net Income:=20.09
+EPS Last Year:=0.31
+Price/Sales:=5.11
+Div - Yield:=0.00 - 0.00
+PEG Ratio:=N/A
+Updating Price:=13.25
+Current Year Est.:=.34
+Change %:=(-0.15%)
+Change $:=
+  -0.02
+  
+Avg Volume:=329,716
+Industry:=INTERNET SOFTWARE
+
+(egy)
+Sales:=134.47
+Price/Earnings:=8.55
+Day Low - High:=6.45 - 6.99
+Market Cap:=360.92 M
+PE (forward):=7.91
+Volume:=Vol.&nbsp; 557,145
+Price/Book:=1.72
+52wk Low - High:=5.07 - 8.40
+EPS TTM:=.74
+Price/Cash Flow:=6.23
+Net Income:=42.61
+EPS Last Year:=0.74
+Price/Sales:=2.39
+Div - Yield:=0.00 - 0.00
+PEG Ratio:=3.96
+Updating Price:=6.68
+Current Year Est.:=.8
+Change %:=(5.53%)
+Change $:=
+  0.35
+  
+Avg Volume:=831,269
+Industry:=INTERNATIONAL E&amp;P
+
+(enh)
+Sales:=1958.38
+Price/Earnings:=15.09
+Day Low - High:=40.85 - 41.07
+Market Cap:=1.66 B
+PE (forward):=446.18
+Volume:=Vol.&nbsp; 263,646
+Price/Book:=.68
+52wk Low - High:=35.62 - 50.65
+EPS TTM:=2.71
+Price/Cash Flow:=5.54
+Net Income:=221.53
+EPS Last Year:=2.71
+Price/Sales:=.84
+Div - Yield:=1.20 - 2.93
+PEG Ratio:=42.49
+Updating Price:=41.02
+Current Year Est.:=.09
+Change %:=(0.29%)
+Change $:=
+  0.12
+  
+Avg Volume:=460,218
+Industry:=INS-PROP&amp;CASLTY
+
+(epl)
+Sales:=239.91
+Price/Earnings:=254.33
+Day Low - High:=15.34 - 16.68
+Market Cap:=613.33 M
+PE (forward):=10.07
+Volume:=Vol.&nbsp; 280,412
+Price/Book:=1.29
+52wk Low - High:=9.61 - 18.56
+EPS TTM:=.06
+Price/Cash Flow:=4.76
+Net Income:=-28.09
+EPS Last Year:=0.06
+Price/Sales:=2.59
+Div - Yield:=0.00 - 0.00
+PEG Ratio:=N/A
+Updating Price:=16.32
+Current Year Est.:=1.51
+Change %:=(6.95%)
+Change $:=
+  1.06
+  
+Avg Volume:=320,846
+Industry:=OIL-US EXP&amp;PROD
+
+(evr)
+Sales:=401.74
+Price/Earnings:=32.22
+Day Low - High:=31.02 - 31.89
+Market Cap:=811.04 M
+PE (forward):=18.4
+Volume:=Vol.&nbsp; 250,861
+Price/Book:=1.78
+52wk Low - High:=21.02 - 37.26
+EPS TTM:=.98
+Price/Cash Flow:=12.61
+Net Income:=10.52
+EPS Last Year:=0.98
+Price/Sales:=1.95
+Div - Yield:=0.72 - 2.28
+PEG Ratio:=1.31
+Updating Price:=31.28
+Current Year Est.:=1.72
+Change %:=(-0.95%)
+Change $:=
+  -0.30
+  
+Avg Volume:=388,232
+Industry:=FIN-INVEST BKRS
+
+(exxi)
+Sales:=498.93
+Price/Earnings:=51.17
+Day Low - High:=32.97 - 34.58
+Market Cap:=2.49 B
+PE (forward):=13.48
+Volume:=Vol.&nbsp; 974,310
+Price/Book:=2.9
+52wk Low - High:=14.76 - 37.20
+EPS TTM:=.64
+Price/Cash Flow:=9.45
+Net Income:=41.52
+EPS Last Year:=0.64
+Price/Sales:=3.48
+Div - Yield:=0.00 - 0.00
+PEG Ratio:=1.35
+Updating Price:=34.26
+Current Year Est.:=2.43
+Change %:=(4.61%)
+Change $:=
+  1.51
+  
+Avg Volume:=927,219
+Industry:=OIL-INTL SPCLTY
+
+(ffic)
+Sales:=237.93
+Price/Earnings:=11.15
+Day Low - High:=12.72 - 12.93
+Market Cap:=402.38 M
+PE (forward):=10.48
+Volume:=Vol.&nbsp; 65,896
+Price/Book:=1.02
+52wk Low - High:=10.51 - 15.15
+EPS TTM:=1.15
+Price/Cash Flow:=9.57
+Net Income:=38.8
+EPS Last Year:=1.15
+Price/Sales:=1.71
+Div - Yield:=0.52 - 4.06
+PEG Ratio:=1.5
+Updating Price:=12.77
+Current Year Est.:=1.22
+Change %:=(-0.39%)
+Change $:=
+  -0.05
+  
+Avg Volume:=101,866
+Industry:=FIN-SVGS &amp; LOAN
+
+(fmd)
+Sales:=16.27
+Price/Earnings:=N/A
+Day Low - High:=1.60 - 1.69
+Market Cap:=169.98 M
+PE (forward):=
+Volume:=Vol.&nbsp; 158,568
+Price/Book:=N/A
+52wk Low - High:=1.31 - 2.90
+EPS TTM:=-.67
+Price/Cash Flow:=N/A
+Net Income:=-61.75
+EPS Last Year:=-0.67
+Price/Sales:=N/A
+Div - Yield:=0.00 - 0.00
+PEG Ratio:=N/A
+Updating Price:=1.67
+Current Year Est.:=-.39
+Change %:=(-0.60%)
+Change $:=
+  -0.01
+  
+Avg Volume:=305,110
+Industry:=FIN-CONS LOANS
+
+(fnsr)
+Sales:=948.79
+Price/Earnings:=12.81
+Day Low - High:=16.76 - 17.36
+Market Cap:=1.51 B
+PE (forward):=23.63
+Volume:=Vol.&nbsp; 4,290,983
+Price/Book:=2.15
+52wk Low - High:=11.98 - 46.09
+EPS TTM:=1.31
+Price/Cash Flow:=14.68
+Net Income:=88.1
+EPS Last Year:=1.31
+Price/Sales:=1.59
+Div - Yield:=0.00 - 0.00
+PEG Ratio:=1.58
+Updating Price:=17.17
+Current Year Est.:=.71
+Change %:=(2.32%)
+Change $:=
+  0.39
+  
+Avg Volume:=3,941,731
+Industry:=FIBER OPTICS
+
+(fosl)
+Sales:=2030.69
+Price/Earnings:=31.08
+Day Low - High:=127.00 - 129.58
+Market Cap:=8.10 B
+PE (forward):=27.64
+Volume:=Vol.&nbsp; 509,682
+Price/Book:=7.94
+52wk Low - High:=36.28 - 130.46
+EPS TTM:=4.12
+Price/Cash Flow:=28.16
+Net Income:=275.12
+EPS Last Year:=4.12
+Price/Sales:=3.73
+Div - Yield:=0.00 - 0.00
+PEG Ratio:=1.45
+Updating Price:=128.90
+Current Year Est.:=4.63
+Change %:=(0.68%)
+Change $:=
+  0.87
+  
+Avg Volume:=760,644
+Industry:=PREC MTLS/JWLRY
+
+(fsys)
+Sales:=430.63
+Price/Earnings:=30.51
+Day Low - High:=23.72 - 24.40
+Market Cap:=474.14 M
+PE (forward):=36.46
+Volume:=Vol.&nbsp; 199,035
+Price/Book:=1.35
+52wk Low - High:=22.54 - 42.65
+EPS TTM:=.78
+Price/Cash Flow:=8.35
+Net Income:=12.04
+EPS Last Year:=0.78
+Price/Sales:=1.32
+Div - Yield:=0.00 - 0.00
+PEG Ratio:=2.19
+Updating Price:=24.06
+Current Year Est.:=.65
+Change %:=(1.09%)
+Change $:=
+  0.26
+  
+Avg Volume:=249,652
+Industry:=AUTO/TRUCK-ORIG
+
+(gbdc)
+Sales:=33.15
+Price/Earnings:=13.74
+Day Low - High:=15.36 - 15.75
+Market Cap:=334.10 M
+PE (forward):=13.21
+Volume:=Vol.&nbsp; 63,577
+Price/Book:=1.05
+52wk Low - High:=13.62 - 17.99
+EPS TTM:=1.12
+Price/Cash Flow:=10.34
+Net Income:=22.8
+EPS Last Year:=1.12
+Price/Sales:=10.15
+Div - Yield:=1.28 - 8.32
+PEG Ratio:=N/A
+Updating Price:=15.45
+Current Year Est.:=1.16
+Change %:=(0.39%)
+Change $:=
+  0.06
+  
+Avg Volume:=80,572
+Industry:=FIN-SBIC&amp;COMMRL
+
+(get)
+Sales:=769.96
+Price/Earnings:=N/A
+Day Low - High:=30.25 - 31.13
+Market Cap:=1.47 B
+PE (forward):=71.14
+Volume:=Vol.&nbsp; 518,365
+Price/Book:=1.41
+52wk Low - High:=24.83 - 38.22
+EPS TTM:=-.59
+Price/Cash Flow:=15.28
+Net Income:=-89.24
+EPS Last Year:=-0.59
+Price/Sales:=1.89
+Div - Yield:=0.00 - 0.00
+PEG Ratio:=4.74
+Updating Price:=31.02
+Current Year Est.:=.43
+Change %:=(2.27%)
+Change $:=
+  0.69
+  
+Avg Volume:=596,053
+Industry:=LEISURE&amp;REC SVS
+
+(glad)
+Sales:=35.54
+Price/Earnings:=11.18
+Day Low - High:=9.50 - 9.66
+Market Cap:=199.87 M
+PE (forward):=11.05
+Volume:=Vol.&nbsp; 77,899
+Price/Book:=.85
+52wk Low - High:=9.22 - 12.73
+EPS TTM:=.85
+Price/Cash Flow:=11.32
+Net Income:=8.65
+EPS Last Year:=0.85
+Price/Sales:=6.18
+Div - Yield:=0.84 - 8.84
+PEG Ratio:=N/A
+Updating Price:=9.53
+Current Year Est.:=.86
+Change %:=(0.32%)
+Change $:=
+  0.03
+  
+Avg Volume:=98,889
+Industry:=FIN-SBIC&amp;COMMRL
+
+(gntx)
+Sales:=816.26
+Price/Earnings:=29.72
+Day Low - High:=30.02 - 30.77
+Market Cap:=4.37 B
+PE (forward):=26.23
+Volume:=Vol.&nbsp; 341,120
+Price/Book:=4.66
+52wk Low - High:=16.69 - 35.35
+EPS TTM:=1.03
+Price/Cash Flow:=24.36
+Net Income:=147.6
+EPS Last Year:=1.03
+Price/Sales:=4.96
+Div - Yield:=0.48 - 1.57
+PEG Ratio:=1.36
+Updating Price:=30.52
+Current Year Est.:=1.17
+Change %:=(-0.29%)
+Change $:=
+  -0.09
+  
+Avg Volume:=572,643
+Industry:=AUTO/TRUCK-ORIG
+
+(gsbc)
+Sales:=205.14
+Price/Earnings:=13.16
+Day Low - High:=19.39 - 19.77
+Market Cap:=262.10 M
+PE (forward):=12.99
+Volume:=Vol.&nbsp; 20,232
+Price/Book:=1.05
+52wk Low - High:=16.69 - 24.60
+EPS TTM:=1.48
+Price/Cash Flow:=5.87
+Net Income:=24.22
+EPS Last Year:=1.48
+Price/Sales:=1.29
+Div - Yield:=0.72 - 3.70
+PEG Ratio:=N/A
+Updating Price:=19.48
+Current Year Est.:=1.5
+Change %:=(N/A%)
+Change $:=
+  N/A
+  
+Avg Volume:=21,942
+Industry:=FIN-SVGS &amp; LOAN
+
+(gty)
+Sales:=88.33
+Price/Earnings:=15.38
+Day Low - High:=25.62 - 26.10
+Market Cap:=857.89 M
+PE (forward):=11.84
+Volume:=Vol.&nbsp; 126,845
+Price/Book:=2.13
+52wk Low - High:=21.01 - 32.20
+EPS TTM:=1.67
+Price/Cash Flow:=13.2
+Net Income:=51.18
+EPS Last Year:=1.67
+Price/Sales:=9.44
+Div - Yield:=1.92 - 7.47
+PEG Ratio:=2.94
+Updating Price:=26.06
+Current Year Est.:=2.17
+Change %:=(1.44%)
+Change $:=
+  0.37
+  
+Avg Volume:=220,153
+Industry:=REAL ESTATE OPS
+
+(gymb)
+Sales:=null
+Price/Earnings:=null
+Day Low - High:=null
+Market Cap:=null
+PE (forward):=null
+Volume:=null
+Price/Book:=null
+52wk Low - High:=null
+EPS TTM:=null
+Price/Cash Flow:=null
+Net Income:=null
+EPS Last Year:=null
+Price/Sales:=null
+Div - Yield:=null
+PEG Ratio:=null
+Updating Price:=null
+Current Year Est.:=null
+Change %:=null
+Change $:=null
+Avg Volume:=null
+Industry:=null
+
+(halo)
+Sales:=13.62
+Price/Earnings:=N/A
+Day Low - High:=6.86 - 7.19
+Market Cap:=725.80 M
+PE (forward):=
+Volume:=Vol.&nbsp; 318,280
+Price/Book:=52.99
+52wk Low - High:=5.79 - 8.31
+EPS TTM:=-.53
+Price/Cash Flow:=N/A
+Net Income:=-51.09
+EPS Last Year:=-0.53
+Price/Sales:=40.94
+Div - Yield:=0.00 - 0.00
+PEG Ratio:=N/A
+Updating Price:=7.13
+Current Year Est.:=-.49
+Change %:=(0.99%)
+Change $:=
+  0.07
+  
+Avg Volume:=448,960
+Industry:=MED-BIOMED/GENE
+
+(he)
+Sales:=2664.98
+Price/Earnings:=19.8
+Day Low - High:=24.00 - 24.23
+Market Cap:=2.30 B
+PE (forward):=16.52
+Volume:=Vol.&nbsp; 199,612
+Price/Book:=1.53
+52wk Low - High:=21.77 - 26.40
+EPS TTM:=1.22
+Price/Cash Flow:=8.29
+Net Income:=116.76
+EPS Last Year:=1.22
+Price/Sales:=.84
+Div - Yield:=1.24 - 5.13
+PEG Ratio:=1.86
+Updating Price:=24.11
+Current Year Est.:=1.46
+Change %:=(-0.21%)
+Change $:=
+  -0.05
+  
+Avg Volume:=335,513
+Industry:=UTIL-ELEC PWR
+
+(hk)
+Sales:=1597.86
+Price/Earnings:=48.94
+Day Low - High:=38.16 - 38.37
+Market Cap:=7.14 B
+PE (forward):=25.32
+Volume:=Vol.&nbsp; 312,048,254
+Price/Book:=2
+52wk Low - High:=14.32 - 38.37
+EPS TTM:=.48
+Price/Cash Flow:=15.96
+Net Income:=31.31
+EPS Last Year:=0.48
+Price/Sales:=4.31
+Div - Yield:=0.00 - 0.00
+PEG Ratio:=1.21
+Updating Price:=38.17
+Current Year Est.:=.93
+Change %:=(62.49%)
+Change $:=
+  14.68
+  
+Avg Volume:=5,145,028
+Industry:=OIL-US EXP&amp;PROD
+
+(hme)
+Sales:=516.58
+Price/Earnings:=19.46
+Day Low - High:=63.40 - 64.44
+Market Cap:=2.48 B
+PE (forward):=18.17
+Volume:=Vol.&nbsp; 420,331
+Price/Book:=2.49
+52wk Low - High:=45.38 - 64.50
+EPS TTM:=3.26
+Price/Cash Flow:=15.43
+Net Income:=24.67
+EPS Last Year:=3.26
+Price/Sales:=4.64
+Div - Yield:=2.48 - 3.91
+PEG Ratio:=2.61
+Updating Price:=64.41
+Current Year Est.:=3.49
+Change %:=(1.51%)
+Change $:=
+  0.96
+  
+Avg Volume:=343,086
+Industry:=REIT-EQTY TRUST - RESID
+
+(hpy)
+Sales:=1864.34
+Price/Earnings:=24.85
+Day Low - High:=20.10 - 20.45
+Market Cap:=775.89 M
+PE (forward):=20.35
+Volume:=Vol.&nbsp; 204,829
+Price/Book:=4.14
+52wk Low - High:=13.48 - 22.06
+EPS TTM:=.81
+Price/Cash Flow:=7.28
+Net Income:=28.12
+EPS Last Year:=0.81
+Price/Sales:=.4
+Div - Yield:=0.16 - 0.79
+PEG Ratio:=1.25
+Updating Price:=20.31
+Current Year Est.:=.99
+Change %:=(0.89%)
+Change $:=
+  0.18
+  
+Avg Volume:=283,884
+Industry:=FINANCIAL TRANSACTION SERVICES
+
+(hsp)
+Sales:=3917.2
+Price/Earnings:=15.96
+Day Low - High:=52.12 - 53.47
+Market Cap:=8.84 B
+PE (forward):=13.26
+Volume:=Vol.&nbsp; 1,817,692
+Price/Book:=2.55
+52wk Low - High:=49.51 - 60.49
+EPS TTM:=3.3
+Price/Cash Flow:=10.91
+Net Income:=365.4
+EPS Last Year:=3.30
+Price/Sales:=2.26
+Div - Yield:=0.00 - 0.00
+PEG Ratio:=1.09
+Updating Price:=53.46
+Current Year Est.:=3.97
+Change %:=(1.48%)
+Change $:=
+  0.78
+  
+Avg Volume:=1,397,294
+Industry:=MED PRODUCTS
+
+(hwkn)
+Sales:=297.64
+Price/Earnings:=17.49
+Day Low - High:=36.03 - 36.99
+Market Cap:=373.26 M
+PE (forward):=
+Volume:=Vol.&nbsp; 45,138
+Price/Book:=2.74
+52wk Low - High:=25.60 - 50.18
+EPS TTM:=2.07
+Price/Cash Flow:=13.03
+Net Income:=20.31
+EPS Last Year:=2.07
+Price/Sales:=1.25
+Div - Yield:=0.60 - 1.66
+PEG Ratio:=N/A
+Updating Price:=36.83
+Current Year Est.:=2.18
+Change %:=(1.74%)
+Change $:=
+  0.63
+  
+Avg Volume:=40,437
+Industry:=CHEM-SPECIALTY
+
+(icog)
+Sales:=N/A
+Price/Earnings:=2.31
+Day Low - High:=2.71 - 2.81
+Market Cap:=698.70 M
+PE (forward):=
+Volume:=Vol.&nbsp; 230,712
+Price/Book:=2.5
+52wk Low - High:=1.20 - 3.26
+EPS TTM:=1.19
+Price/Cash Flow:=N/A
+Net Income:=303.15
+EPS Last Year:=1.19
+Price/Sales:=N/A
+Div - Yield:=0.00 - 0.00
+PEG Ratio:=N/A
+Updating Price:=2.78
+Current Year Est.:=N/A
+Change %:=(1.09%)
+Change $:=
+  0.03
+  
+Avg Volume:=841,974
+Industry:=SATELLITE COMMUNICATION
+
+(ima)
+Sales:=N/A
+Price/Earnings:=N/A
+Day Low - High:=0.28 - 0.28
+Market Cap:=N/A
+PE (forward):=
+Volume:=Vol.&nbsp; 1,500
+Price/Book:=N/A
+52wk Low - High:=0.20 - 0.40
+EPS TTM:=N/A
+Price/Cash Flow:=N/A
+Net Income:=N/A
+EPS Last Year:=N/A
+Price/Sales:=N/A
+Div - Yield:=N/A - N/A
+PEG Ratio:=N/A
+Updating Price:=0.28
+Current Year Est.:=N/A
+Change %:=(N/A%)
+Change $:=
+  N/A
+  
+Avg Volume:=N/A
+Industry:=N/A
+
+(imgn)
+Sales:=13.94
+Price/Earnings:=N/A
+Day Low - High:=14.91 - 15.44
+Market Cap:=1.14 B
+PE (forward):=
+Volume:=Vol.&nbsp; 690,448
+Price/Book:=15.91
+52wk Low - High:=4.96 - 15.45
+EPS TTM:=-.83
+Price/Cash Flow:=N/A
+Net Income:=-55.53
+EPS Last Year:=-0.83
+Price/Sales:=66.13
+Div - Yield:=0.00 - 0.00
+PEG Ratio:=N/A
+Updating Price:=15.40
+Current Year Est.:=-.75
+Change %:=(1.58%)
+Change $:=
+  0.24
+  
+Avg Volume:=686,608
+Industry:=MED-DRUGS
+
+(indm)
+Sales:=null
+Price/Earnings:=null
+Day Low - High:=null
+Market Cap:=null
+PE (forward):=null
+Volume:=null
+Price/Book:=null
+52wk Low - High:=null
+EPS TTM:=null
+Price/Cash Flow:=null
+Net Income:=null
+EPS Last Year:=null
+Price/Sales:=null
+Div - Yield:=null
+PEG Ratio:=null
+Updating Price:=null
+Current Year Est.:=null
+Change %:=null
+Change $:=null
+Avg Volume:=null
+Industry:=null
+
+(io)
+Sales:=444.32
+Price/Earnings:=41.83
+Day Low - High:=9.60 - 10.08
+Market Cap:=1.50 B
+PE (forward):=24.83
+Volume:=Vol.&nbsp; 2,146,498
+Price/Book:=3.97
+52wk Low - High:=3.33 - 13.92
+EPS TTM:=.23
+Price/Cash Flow:=10.31
+Net Income:=34.53
+EPS Last Year:=0.23
+Price/Sales:=3.36
+Div - Yield:=0.00 - 0.00
+PEG Ratio:=N/A
+Updating Price:=10.06
+Current Year Est.:=.39
+Change %:=(4.57%)
+Change $:=
+  0.44
+  
+Avg Volume:=1,580,321
+Industry:=OIL FLD MCH&amp;EQP
+
+(ipgp)
+Sales:=299.26
+Price/Earnings:=44.88
+Day Low - High:=66.00 - 69.43
+Market Cap:=3.25 B
+PE (forward):=30.72
+Volume:=Vol.&nbsp; 455,343
+Price/Book:=8.99
+52wk Low - High:=14.20 - 78.59
+EPS TTM:=1.53
+Price/Cash Flow:=42.33
+Net Income:=73.66
+EPS Last Year:=1.53
+Price/Sales:=9.33
+Div - Yield:=0.00 - 0.00
+PEG Ratio:=1.26
+Updating Price:=67.59
+Current Year Est.:=2.23
+Change %:=(-1.56%)
+Change $:=
+  -1.07
+  
+Avg Volume:=548,725
+Industry:=LASERS-SYS/COMP
+
+(ipi)
+Sales:=359.3
+Price/Earnings:=44.1
+Day Low - High:=31.67 - 32.45
+Market Cap:=2.39 B
+PE (forward):=22.5
+Volume:=Vol.&nbsp; 558,920
+Price/Book:=3.03
+52wk Low - High:=21.50 - 40.22
+EPS TTM:=.72
+Price/Cash Flow:=32.53
+Net Income:=61.72
+EPS Last Year:=0.72
+Price/Sales:=6.69
+Div - Yield:=0.00 - 0.00
+PEG Ratio:=1.41
+Updating Price:=32.20
+Current Year Est.:=1.41
+Change %:=(1.42%)
+Change $:=
+  0.45
+  
+Avg Volume:=684,559
+Industry:=FERTILIZERS
+
+(ipxl)
+Sales:=879.51
+Price/Earnings:=19.47
+Day Low - High:=21.11 - 21.58
+Market Cap:=1.39 B
+PE (forward):=24.49
+Volume:=Vol.&nbsp; 512,690
+Price/Book:=2.58
+52wk Low - High:=14.70 - 28.75
+EPS TTM:=1.09
+Price/Cash Flow:=4.46
+Net Income:=132.8
+EPS Last Year:=1.09
+Price/Sales:=2.08
+Div - Yield:=0.00 - 0.00
+PEG Ratio:=1.9
+Updating Price:=21.56
+Current Year Est.:=.87
+Change %:=(1.60%)
+Change $:=
+  0.34
+  
+Avg Volume:=594,384
+Industry:=MED-GENERIC DRG
+
+(itc)
+Sales:=696.84
+Price/Earnings:=24.26
+Day Low - High:=71.74 - 72.65
+Market Cap:=3.69 B
+PE (forward):=21.8
+Volume:=Vol.&nbsp; 183,478
+Price/Book:=3.18
+52wk Low - High:=53.53 - 74.67
+EPS TTM:=2.98
+Price/Cash Flow:=15.74
+Net Income:=153.48
+EPS Last Year:=2.98
+Price/Sales:=5.16
+Div - Yield:=1.34 - 1.85
+PEG Ratio:=1.5
+Updating Price:=72.65
+Current Year Est.:=3.32
+Change %:=(0.50%)
+Change $:=
+  0.36
+  
+Avg Volume:=229,843
+Industry:=UTIL-ELEC PWR
+
+(ivac)
+Sales:=202.53
+Price/Earnings:=11.4
+Day Low - High:=9.60 - 9.90
+Market Cap:=223.81 M
+PE (forward):=
+Volume:=Vol.&nbsp; 44,743
+Price/Book:=1.1
+52wk Low - High:=8.97 - 15.39
+EPS TTM:=.86
+Price/Cash Flow:=6.49
+Net Income:=19.59
+EPS Last Year:=0.86
+Price/Sales:=1.2
+Div - Yield:=0.00 - 0.00
+PEG Ratio:=N/A
+Updating Price:=9.66
+Current Year Est.:=-.7
+Change %:=(-1.43%)
+Change $:=
+  -0.14
+  
+Avg Volume:=71,469
+Industry:=ELEC-MANUFACT MACHINERY
+
+(jakk)
+Sales:=747.27
+Price/Earnings:=13.63
+Day Low - High:=17.81 - 18.05
+Market Cap:=485.92 M
+PE (forward):=12.68
+Volume:=Vol.&nbsp; 99,661
+Price/Book:=1.21
+52wk Low - High:=13.17 - 21.21
+EPS TTM:=1.31
+Price/Cash Flow:=6.3
+Net Income:=41.63
+EPS Last Year:=1.31
+Price/Sales:=.65
+Div - Yield:=0.00 - 0.00
+PEG Ratio:=1.01
+Updating Price:=17.94
+Current Year Est.:=1.41
+Change %:=(0.45%)
+Change $:=
+  0.08
+  
+Avg Volume:=146,663
+Industry:=TOYS/GAME/HOBBY
+
+(jcp)
+Sales:=17759
+Price/Earnings:=19.66
+Day Low - High:=31.44 - 32.09
+Market Cap:=6.79 B
+PE (forward):=16.36
+Volume:=Vol.&nbsp; 4,049,019
+Price/Book:=1.54
+52wk Low - High:=19.42 - 41.00
+EPS TTM:=1.62
+Price/Cash Flow:=8.48
+Net Income:=393
+EPS Last Year:=1.62
+Price/Sales:=.38
+Div - Yield:=0.80 - 2.51
+PEG Ratio:=1.36
+Updating Price:=31.57
+Current Year Est.:=1.95
+Change %:=(-0.88%)
+Change $:=
+  -0.28
+  
+Avg Volume:=5,199,610
+Industry:=RETAIL-RGN DEPT
+
+(kalu)
+Sales:=1079.1
+Price/Earnings:=37.83
+Day Low - High:=53.27 - 54.56
+Market Cap:=1.05 B
+PE (forward):=23.38
+Volume:=Vol.&nbsp; 103,766
+Price/Book:=1.13
+52wk Low - High:=35.54 - 55.76
+EPS TTM:=1.44
+Price/Cash Flow:=19.53
+Net Income:=16.6
+EPS Last Year:=1.44
+Price/Sales:=.93
+Div - Yield:=0.96 - 1.76
+PEG Ratio:=N/A
+Updating Price:=54.24
+Current Year Est.:=2.33
+Change %:=(-0.42%)
+Change $:=
+  -0.23
+  
+Avg Volume:=171,664
+Industry:=METAL PROC&amp;FABR
+
+(kbh)
+Sales:=1590
+Price/Earnings:=N/A
+Day Low - High:=9.29 - 9.65
+Market Cap:=734.33 M
+PE (forward):=
+Volume:=Vol.&nbsp; 4,654,910
+Price/Book:=1.66
+52wk Low - High:=9.29 - 16.11
+EPS TTM:=-1.28
+Price/Cash Flow:=N/A
+Net Income:=-166.99
+EPS Last Year:=-1.28
+Price/Sales:=.52
+Div - Yield:=0.25 - 2.62
+PEG Ratio:=N/A
+Updating Price:=9.35
+Current Year Est.:=-2.45
+Change %:=(-1.99%)
+Change $:=
+  -0.19
+  
+Avg Volume:=6,282,591
+Industry:=BLDG-RSDNT/COMR
+
+(kbr)
+Sales:=10099
+Price/Earnings:=14.78
+Day Low - High:=36.52 - 37.17
+Market Cap:=5.56 B
+PE (forward):=15.4
+Volume:=Vol.&nbsp; 661,738
+Price/Book:=2.42
+52wk Low - High:=20.43 - 39.34
+EPS TTM:=2.48
+Price/Cash Flow:=14.23
+Net Income:=386
+EPS Last Year:=2.48
+Price/Sales:=.57
+Div - Yield:=0.20 - 0.55
+PEG Ratio:=1.71
+Updating Price:=37.13
+Current Year Est.:=2.38
+Change %:=(1.28%)
+Change $:=
+  0.47
+  
+Avg Volume:=1,121,522
+Industry:=ENGINRG/R&amp;D SVS
+
+(kcg)
+Sales:=1149.06
+Price/Earnings:=9.85
+Day Low - High:=10.56 - 10.88
+Market Cap:=1.09 B
+PE (forward):=10.4
+Volume:=Vol.&nbsp; 1,498,241
+Price/Book:=.79
+52wk Low - High:=10.56 - 14.95
+EPS TTM:=1.1
+Price/Cash Flow:=7.43
+Net Income:=94.32
+EPS Last Year:=1.10
+Price/Sales:=.9
+Div - Yield:=0.00 - 0.00
+PEG Ratio:=.74
+Updating Price:=10.60
+Current Year Est.:=1.04
+Change %:=(-2.12%)
+Change $:=
+  -0.23
+  
+Avg Volume:=1,034,134
+Industry:=FIN-INVEST BKRS
+
+(kirk)
+Sales:=415.3
+Price/Earnings:=10.53
+Day Low - High:=11.15 - 11.47
+Market Cap:=226.47 M
+PE (forward):=11.32
+Volume:=Vol.&nbsp; 179,258
+Price/Book:=1.85
+52wk Low - High:=10.62 - 18.70
+EPS TTM:=1.08
+Price/Cash Flow:=7.1
+Net Income:=23.08
+EPS Last Year:=1.08
+Price/Sales:=.54
+Div - Yield:=0.00 - 0.00
+PEG Ratio:=.91
+Updating Price:=11.38
+Current Year Est.:=1
+Change %:=(0.09%)
+Change $:=
+  0.01
+  
+Avg Volume:=154,781
+Industry:=RETAIL-HOME FRN
+
+(kmt)
+Sales:=1884.07
+Price/Earnings:=17.17
+Day Low - High:=42.80 - 44.48
+Market Cap:=3.48 B
+PE (forward):=12.19
+Volume:=Vol.&nbsp; 1,150,236
+Price/Book:=2.24
+52wk Low - High:=24.28 - 45.26
+EPS TTM:=2.48
+Price/Cash Flow:=18.66
+Net Income:=183.66
+EPS Last Year:=2.48
+Price/Sales:=1.55
+Div - Yield:=0.48 - 1.13
+PEG Ratio:=.5
+Updating Price:=44.43
+Current Year Est.:=3.49
+Change %:=(4.32%)
+Change $:=
+  1.84
+  
+Avg Volume:=768,102
+Industry:=MACH TLS&amp;RL PRD
+
+(knol)
+Sales:=459.55
+Price/Earnings:=18.19
+Day Low - High:=14.15 - 14.44
+Market Cap:=536.95 M
+PE (forward):=11.69
+Volume:=Vol.&nbsp; 93,909
+Price/Book:=N/A
+52wk Low - High:=10.77 - 16.13
+EPS TTM:=.79
+Price/Cash Flow:=4.96
+Net Income:=12.77
+EPS Last Year:=0.79
+Price/Sales:=1.12
+Div - Yield:=0.00 - 0.00
+PEG Ratio:=1.46
+Updating Price:=14.31
+Current Year Est.:=1.23
+Change %:=(-0.42%)
+Change $:=
+  -0.06
+  
+Avg Volume:=96,616
+Industry:=CABLE TV
+
+(kwk)
+Sales:=928.33
+Price/Earnings:=24.84
+Day Low - High:=13.79 - 14.26
+Market Cap:=2.34 B
+PE (forward):=58.51
+Volume:=Vol.&nbsp; 3,725,075
+Price/Book:=2.41
+52wk Low - High:=10.98 - 15.98
+EPS TTM:=.55
+Price/Cash Flow:=7.21
+Net Income:=356.12
+EPS Last Year:=0.55
+Price/Sales:=2.55
+Div - Yield:=0.00 - 0.00
+PEG Ratio:=-4.68
+Updating Price:=13.98
+Current Year Est.:=.23
+Change %:=(2.34%)
+Change $:=
+  0.32
+  
+Avg Volume:=3,056,275
+Industry:=OIL-US EXP&amp;PROD
+
+(lbai)
+Sales:=144.92
+Price/Earnings:=15.36
+Day Low - High:=9.76 - 10.05
+Market Cap:=252.39 M
+PE (forward):=13.54
+Volume:=Vol.&nbsp; 83,838
+Price/Book:=1.11
+52wk Low - High:=7.25 - 11.50
+EPS TTM:=.65
+Price/Cash Flow:=9.03
+Net Income:=19.52
+EPS Last Year:=0.65
+Price/Sales:=1.79
+Div - Yield:=0.24 - 2.42
+PEG Ratio:=1.35
+Updating Price:=9.87
+Current Year Est.:=.73
+Change %:=(-0.40%)
+Change $:=
+  -0.04
+  
+Avg Volume:=48,013
+Industry:=BANKS-NORTHEAST
+
+(lci)
+Sales:=125.18
+Price/Earnings:=28.12
+Day Low - High:=4.66 - 4.78
+Market Cap:=135.70 M
+PE (forward):=11.85
+Volume:=Vol.&nbsp; 159,733
+Price/Book:=1.27
+52wk Low - High:=3.66 - 7.00
+EPS TTM:=.17
+Price/Cash Flow:=9.49
+Net Income:=4.4
+EPS Last Year:=0.17
+Price/Sales:=1.18
+Div - Yield:=0.00 - 0.00
+PEG Ratio:=.53
+Updating Price:=4.73
+Current Year Est.:=.4
+Change %:=(-1.05%)
+Change $:=
+  -0.05
+  
+Avg Volume:=211,026
+Industry:=MED-DRUGS
+
+(linc)
+Sales:=639.49
+Price/Earnings:=6.15
+Day Low - High:=18.62 - 19.10
+Market Cap:=422.49 M
+PE (forward):=11.7
+Volume:=Vol.&nbsp; 193,635
+Price/Book:=1.79
+52wk Low - High:=9.73 - 21.60
+EPS TTM:=3.04
+Price/Cash Flow:=3.82
+Net Income:=65.63
+EPS Last Year:=3.04
+Price/Sales:=.67
+Div - Yield:=1.00 - 5.34
+PEG Ratio:=1.06
+Updating Price:=19.05
+Current Year Est.:=1.6
+Change %:=(1.82%)
+Change $:=
+  0.34
+  
+Avg Volume:=517,131
+Industry:=SCHOOLS
+
+(lll)
+Sales:=15680
+Price/Earnings:=9.77
+Day Low - High:=81.40 - 82.65
+Market Cap:=8.74 B
+PE (forward):=9.64
+Volume:=Vol.&nbsp; 677,674
+Price/Book:=1.29
+52wk Low - High:=66.11 - 88.55
+EPS TTM:=8.43
+Price/Cash Flow:=7.35
+Net Income:=936
+EPS Last Year:=8.43
+Price/Sales:=.56
+Div - Yield:=1.80 - 2.19
+PEG Ratio:=1.15
+Updating Price:=82.03
+Current Year Est.:=8.54
+Change %:=(-0.41%)
+Change $:=
+  -0.34
+  
+Avg Volume:=979,662
+Industry:=ELEC-MILITARY
+
+(logm)
+Sales:=101.06
+Price/Earnings:=58.98
+Day Low - High:=36.09 - 36.97
+Market Cap:=879.58 M
+PE (forward):=71.71
+Volume:=Vol.&nbsp; 261,928
+Price/Book:=6.54
+52wk Low - High:=25.06 - 49.50
+EPS TTM:=.62
+Price/Cash Flow:=43.05
+Net Income:=18.3
+EPS Last Year:=0.62
+Price/Sales:=8.24
+Div - Yield:=0.00 - 0.00
+PEG Ratio:=2.99
+Updating Price:=36.45
+Current Year Est.:=.51
+Change %:=(-0.33%)
+Change $:=
+  -0.12
+  
+Avg Volume:=323,022
+Industry:=COMP-SERVICES
+
+(lpx)
+Sales:=1383.6
+Price/Earnings:=N/A
+Day Low - High:=8.09 - 8.25
+Market Cap:=1.08 B
+PE (forward):=
+Volume:=Vol.&nbsp; 1,758,170
+Price/Book:=.9
+52wk Low - High:=6.25 - 11.63
+EPS TTM:=-.19
+Price/Cash Flow:=19.06
+Net Income:=-39.5
+EPS Last Year:=-0.19
+Price/Sales:=.76
+Div - Yield:=0.00 - 0.00
+PEG Ratio:=N/A
+Updating Price:=8.10
+Current Year Est.:=-.44
+Change %:=(-1.10%)
+Change $:=
+  -0.09
+  
+Avg Volume:=2,234,388
+Industry:=BLDG PRD-WOOD
+
+(lstr)
+Sales:=2400.17
+Price/Earnings:=24.29
+Day Low - High:=45.95 - 46.77
+Market Cap:=2.22 B
+PE (forward):=21.06
+Volume:=Vol.&nbsp; 437,634
+Price/Book:=8.46
+52wk Low - High:=35.10 - 49.18
+EPS TTM:=1.91
+Price/Cash Flow:=19.87
+Net Income:=90.96
+EPS Last Year:=1.91
+Price/Sales:=.92
+Div - Yield:=0.20 - 0.43
+PEG Ratio:=1.36
+Updating Price:=46.51
+Current Year Est.:=2.2
+Change %:=(0.24%)
+Change $:=
+  0.11
+  
+Avg Volume:=295,742
+Industry:=TRANS-TRUCK
+
+(lvs)
+Sales:=6853.18
+Price/Earnings:=35.94
+Day Low - High:=44.38 - 45.21
+Market Cap:=32.49 B
+PE (forward):=26.12
+Volume:=Vol.&nbsp; 12,780,666
+Price/Book:=3.97
+52wk Low - High:=22.62 - 55.47
+EPS TTM:=1.24
+Price/Cash Flow:=19.7
+Net Income:=871.14
+EPS Last Year:=1.24
+Price/Sales:=4.26
+Div - Yield:=0.00 - 0.00
+PEG Ratio:=.47
+Updating Price:=45.00
+Current Year Est.:=1.71
+Change %:=(0.96%)
+Change $:=
+  0.43
+  
+Avg Volume:=13,660,626
+Industry:=GAMING
+
+(lxrx)
+Sales:=4.91
+Price/Earnings:=N/A
+Day Low - High:=1.64 - 1.77
+Market Cap:=553.76 M
+PE (forward):=
+Volume:=Vol.&nbsp; 1,280,734
+Price/Book:=2.52
+52wk Low - High:=1.22 - 2.30
+EPS TTM:=-.3
+Price/Cash Flow:=N/A
+Net Income:=-105.33
+EPS Last Year:=-0.30
+Price/Sales:=143.35
+Div - Yield:=0.00 - 0.00
+PEG Ratio:=N/A
+Updating Price:=1.75
+Current Year Est.:=-.36
+Change %:=(6.71%)
+Change $:=
+  0.11
+  
+Avg Volume:=1,301,547
+Industry:=MED-BIOMED/GENE
+
+(matk)
+Sales:=N/A
+Price/Earnings:=N/A
+Day Low - High:=N/A - N/A
+Market Cap:=N/A
+PE (forward):=
+Volume:=Vol.&nbsp; 0
+Price/Book:=N/A
+52wk Low - High:=N/A - N/A
+EPS TTM:=N/A
+Price/Cash Flow:=N/A
+Net Income:=N/A
+EPS Last Year:=N/A
+Price/Sales:=N/A
+Div - Yield:=N/A - N/A
+PEG Ratio:=N/A
+Updating Price:=N/A
+Current Year Est.:=N/A
+Change %:=(N/A%)
+Change $:=
+  na
+
+  
+Avg Volume:=N/A
+Industry:=N/A
+
+(mdr)
+Sales:=2403.74
+Price/Earnings:=18.16
+Day Low - High:=19.76 - 20.09
+Market Cap:=4.64 B
+PE (forward):=15.26
+Volume:=Vol.&nbsp; 1,680,575
+Price/Book:=2.89
+52wk Low - High:=11.54 - 26.14
+EPS TTM:=1.09
+Price/Cash Flow:=13.8
+Net Income:=212.15
+EPS Last Year:=1.09
+Price/Sales:=1.32
+Div - Yield:=0.00 - 0.00
+PEG Ratio:=.98
+Updating Price:=20.05
+Current Year Est.:=1.3
+Change %:=(1.31%)
+Change $:=
+  0.26
+  
+Avg Volume:=2,981,897
+Industry:=OIL FLD MCH&amp;EQP
+
+(mho)
+Sales:=616.38
+Price/Earnings:=N/A
+Day Low - High:=11.79 - 12.97
+Market Cap:=222.84 M
+PE (forward):=
+Volume:=Vol.&nbsp; 83,084
+Price/Book:=1.15
+52wk Low - High:=8.95 - 17.50
+EPS TTM:=-1.12
+Price/Cash Flow:=N/A
+Net Income:=-34.97
+EPS Last Year:=-1.12
+Price/Sales:=.37
+Div - Yield:=0.00 - 0.00
+PEG Ratio:=N/A
+Updating Price:=12.17
+Current Year Est.:=-.64
+Change %:=(2.18%)
+Change $:=
+  0.26
+  
+Avg Volume:=87,739
+Industry:=BLDG-RSDNT/COMR
+
+(mlhr)
+Sales:=1649.2
+Price/Earnings:=23.83
+Day Low - High:=25.71 - 26.64
+Market Cap:=1.52 B
+PE (forward):=18.24
+Volume:=Vol.&nbsp; 704,043
+Price/Book:=7.39
+52wk Low - High:=16.23 - 28.94
+EPS TTM:=1.11
+Price/Cash Flow:=17.98
+Net Income:=70.9
+EPS Last Year:=1.11
+Price/Sales:=.92
+Div - Yield:=0.09 - 0.33
+PEG Ratio:=N/A
+Updating Price:=26.15
+Current Year Est.:=1.45
+Change %:=(-1.13%)
+Change $:=
+  -0.30
+  
+Avg Volume:=491,376
+Industry:=BUSINESS/OFFICE PRODUCTS
+
+(mnro)
+Sales:=636.68
+Price/Earnings:=25.15
+Day Low - High:=36.27 - 37.13
+Market Cap:=1.12 B
+PE (forward):=21.13
+Volume:=Vol.&nbsp; 169,293
+Price/Book:=3.97
+52wk Low - High:=24.53 - 38.48
+EPS TTM:=1.46
+Price/Cash Flow:=16.21
+Net Income:=45.84
+EPS Last Year:=1.46
+Price/Sales:=1.75
+Div - Yield:=0.32 - 0.87
+PEG Ratio:=.9
+Updating Price:=37.01
+Current Year Est.:=1.73
+Change %:=(1.04%)
+Change $:=
+  0.38
+  
+Avg Volume:=259,669
+Industry:=CONS SERVICES - MISC
+
+(mpx)
+Sales:=101.01
+Price/Earnings:=43.46
+Day Low - High:=5.45 - 5.75
+Market Cap:=211.34 M
+PE (forward):=
+Volume:=Vol.&nbsp; 40,251
+Price/Book:=2.43
+52wk Low - High:=5.04 - 8.04
+EPS TTM:=.13
+Price/Cash Flow:=42.49
+Net Income:=4.6
+EPS Last Year:=0.13
+Price/Sales:=2.04
+Div - Yield:=0.00 - 0.00
+PEG Ratio:=N/A
+Updating Price:=5.45
+Current Year Est.:=.1
+Change %:=(-3.54%)
+Change $:=
+  -0.20
+  
+Avg Volume:=27,013
+Industry:=LEISURE&amp;REC PRD
+
+(mtb)
+Sales:=3837.9
+Price/Earnings:=13.87
+Day Low - High:=85.24 - 86.48
+Market Cap:=10.79 B
+PE (forward):=13.57
+Volume:=Vol.&nbsp; 971,165
+Price/Book:=1.33
+52wk Low - High:=72.03 - 95.00
+EPS TTM:=6.2
+Price/Cash Flow:=10.95
+Net Income:=791.48
+EPS Last Year:=6.20
+Price/Sales:=2.78
+Div - Yield:=2.80 - 3.26
+PEG Ratio:=1.04
+Updating Price:=85.56
+Current Year Est.:=6.34
+Change %:=(-0.51%)
+Change $:=
+  -0.44
+  
+Avg Volume:=975,104
+Industry:=BANKS-MAJOR REGIONAL
+
+(mtn)
+Sales:=868.63
+Price/Earnings:=32.52
+Day Low - High:=44.58 - 45.05
+Market Cap:=1.61 B
+PE (forward):=48.32
+Volume:=Vol.&nbsp; 163,186
+Price/Book:=1.78
+52wk Low - High:=32.37 - 54.03
+EPS TTM:=1.37
+Price/Cash Flow:=11.47
+Net Income:=46.47
+EPS Last Year:=1.37
+Price/Sales:=1.37
+Div - Yield:=0.60 - 1.35
+PEG Ratio:=3.08
+Updating Price:=45.03
+Current Year Est.:=.92
+Change %:=(1.08%)
+Change $:=
+  0.48
+  
+Avg Volume:=207,065
+Industry:=LEISURE&amp;REC SVS
+
+(mtrx)
+Sales:=550.81
+Price/Earnings:=25.66
+Day Low - High:=13.54 - 13.95
+Market Cap:=359.56 M
+PE (forward):=13.69
+Volume:=Vol.&nbsp; 81,223
+Price/Book:=1.86
+52wk Low - High:=8.25 - 14.60
+EPS TTM:=.53
+Price/Cash Flow:=14.51
+Net Income:=9.07
+EPS Last Year:=0.53
+Price/Sales:=.6
+Div - Yield:=0.00 - 0.00
+PEG Ratio:=N/A
+Updating Price:=13.88
+Current Year Est.:=.99
+Change %:=(2.06%)
+Change $:=
+  0.28
+  
+Avg Volume:=149,494
+Industry:=OIL FLD MCH&amp;EQP
+
+(nal)
+Sales:=N/A
+Price/Earnings:=N/A
+Day Low - High:=12.20 - 12.42
+Market Cap:=N/A
+PE (forward):=
+Volume:=Vol.&nbsp; 13,248
+Price/Book:=N/A
+52wk Low - High:=8.42 - 13.66
+EPS TTM:=N/A
+Price/Cash Flow:=N/A
+Net Income:=N/A
+EPS Last Year:=N/A
+Price/Sales:=N/A
+Div - Yield:=N/A - N/A
+PEG Ratio:=N/A
+Updating Price:=12.42
+Current Year Est.:=N/A
+Change %:=(0.98%)
+Change $:=
+  0.12
+  
+Avg Volume:=N/A
+Industry:=N/A
+
+(nauh)
+Sales:=89.8
+Price/Earnings:=15.55
+Day Low - High:=9.00 - 9.19
+Market Cap:=238.47 M
+PE (forward):=13.67
+Volume:=Vol.&nbsp; 38,945
+Price/Book:=4.2
+52wk Low - High:=4.57 - 9.90
+EPS TTM:=.58
+Price/Cash Flow:=N/A
+Net Income:=10.05
+EPS Last Year:=0.58
+Price/Sales:=2.29
+Div - Yield:=0.12 - 1.33
+PEG Ratio:=.55
+Updating Price:=9.11
+Current Year Est.:=.66
+Change %:=(1.00%)
+Change $:=
+  0.09
+  
+Avg Volume:=32,247
+Industry:=SCHOOLS
+
+(netl)
+Sales:=381.74
+Price/Earnings:=38.27
+Day Low - High:=37.63 - 38.63
+Market Cap:=2.61 B
+PE (forward):=39.2
+Volume:=Vol.&nbsp; 1,061,477
+Price/Book:=4
+52wk Low - High:=22.94 - 43.71
+EPS TTM:=1
+Price/Cash Flow:=22.26
+Net Income:=-3.03
+EPS Last Year:=1.00
+Price/Sales:=6.63
+Div - Yield:=0.00 - 0.00
+PEG Ratio:=2.01
+Updating Price:=38.04
+Current Year Est.:=.98
+Change %:=(-0.60%)
+Change $:=
+  -0.23
+  
+Avg Volume:=1,112,456
+Industry:=ELEC COMP-SEMIC
+
+(ngsx)
+Sales:=8.27
+Price/Earnings:=N/A
+Day Low - High:=1.65 - 1.75
+Market Cap:=30.21 M
+PE (forward):=
+Volume:=Vol.&nbsp; 43,780
+Price/Book:=N/A
+52wk Low - High:=1.55 - 7.55
+EPS TTM:=-2.74
+Price/Cash Flow:=N/A
+Net Income:=-48.72
+EPS Last Year:=-2.74
+Price/Sales:=3.13
+Div - Yield:=0.00 - 0.00
+PEG Ratio:=N/A
+Updating Price:=1.71
+Current Year Est.:=-2.42
+Change %:=(1.18%)
+Change $:=
+  0.02
+  
+Avg Volume:=201,648
+Industry:=MED-BIOMED/GENE
+
+(nhi)
+Sales:=78.4
+Price/Earnings:=15.73
+Day Low - High:=45.00 - 45.70
+Market Cap:=1.25 B
+PE (forward):=
+Volume:=Vol.&nbsp; 102,564
+Price/Book:=2.79
+52wk Low - High:=35.85 - 49.55
+EPS TTM:=2.86
+Price/Cash Flow:=16.92
+Net Income:=72.57
+EPS Last Year:=2.86
+Price/Sales:=15.76
+Div - Yield:=2.46 - 5.47
+PEG Ratio:=2
+Updating Price:=45.67
+Current Year Est.:=3.01
+Change %:=(1.49%)
+Change $:=
+  0.67
+  
+Avg Volume:=94,874
+Industry:=REIT-EQTY TRUST -OTHER
+
+(oabc)
+Sales:=66.55
+Price/Earnings:=91.94
+Day Low - High:=14.54 - 14.86
+Market Cap:=174.15 M
+PE (forward):=49.03
+Volume:=Vol.&nbsp; 26,742
+Price/Book:=.88
+52wk Low - High:=11.00 - 15.93
+EPS TTM:=.16
+Price/Cash Flow:=36.42
+Net Income:=1.64
+EPS Last Year:=0.16
+Price/Sales:=2.63
+Div - Yield:=0.00 - 0.00
+PEG Ratio:=9.81
+Updating Price:=14.64
+Current Year Est.:=.3
+Change %:=(-0.48%)
+Change $:=
+  -0.07
+  
+Avg Volume:=30,459
+Industry:=BANKS-SOUTHEAST
+
+(oksb)
+Sales:=161.37
+Price/Earnings:=16.93
+Day Low - High:=9.55 - 10.09
+Market Cap:=190.89 M
+PE (forward):=26.72
+Volume:=Vol.&nbsp; 93,485
+Price/Book:=.61
+52wk Low - High:=8.91 - 15.61
+EPS TTM:=.58
+Price/Cash Flow:=8.16
+Net Income:=14.01
+EPS Last Year:=0.58
+Price/Sales:=1.22
+Div - Yield:=0.00 - 0.00
+PEG Ratio:=1.34
+Updating Price:=N/A
+Current Year Est.:=.37
+Change %:=(1.83%)
+Change $:=
+  0.18
+  
+Avg Volume:=80,302
+Industry:=BANKS-SOUTHWEST
+
+(orcc)
+Sales:=149.51
+Price/Earnings:=55.83
+Day Low - High:=3.33 - 3.45
+Market Cap:=106.37 M
+PE (forward):=
+Volume:=Vol.&nbsp; 63,853
+Price/Book:=.8
+52wk Low - High:=2.95 - 7.05
+EPS TTM:=.06
+Price/Cash Flow:=3.27
+Net Income:=-1.56
+EPS Last Year:=0.06
+Price/Sales:=.71
+Div - Yield:=0.00 - 0.00
+PEG Ratio:=N/A
+Updating Price:=3.43
+Current Year Est.:=-.08
+Change %:=(2.39%)
+Change $:=
+  0.08
+  
+Avg Volume:=392,157
+Industry:=INTERNET SERVICES
+
+(outd)
+Sales:=83.34
+Price/Earnings:=83.63
+Day Low - High:=6.70 - 6.93
+Market Cap:=170.11 M
+PE (forward):=95.57
+Volume:=Vol.&nbsp; 30,921
+Price/Book:=1.26
+52wk Low - High:=4.72 - 8.50
+EPS TTM:=.08
+Price/Cash Flow:=27.19
+Net Income:=1.93
+EPS Last Year:=0.08
+Price/Sales:=2.12
+Div - Yield:=0.00 - 0.00
+PEG Ratio:=N/A
+Updating Price:=6.93
+Current Year Est.:=.07
+Change %:=(3.59%)
+Change $:=
+  0.24
+  
+Avg Volume:=58,989
+Industry:=MOVIE/TV PROD/DISTRB
+
+(oxps)
+Sales:=231.44
+Price/Earnings:=16.75
+Day Low - High:=15.09 - 15.49
+Market Cap:=885.71 M
+PE (forward):=16.67
+Volume:=Vol.&nbsp; 394,864
+Price/Book:=7.41
+52wk Low - High:=13.86 - 21.07
+EPS TTM:=.92
+Price/Cash Flow:=14.56
+Net Income:=54.24
+EPS Last Year:=0.92
+Price/Sales:=3.69
+Div - Yield:=0.00 - 0.00
+PEG Ratio:=1.08
+Updating Price:=15.21
+Current Year Est.:=.92
+Change %:=(-1.30%)
+Change $:=
+  -0.20
+  
+Avg Volume:=674,450
+Industry:=FIN-INVEST BKRS
+
+(oyog)
+Sales:=128.53
+Price/Earnings:=23.53
+Day Low - High:=100.68 - 102.56
+Market Cap:=634.46 M
+PE (forward):=19.49
+Volume:=Vol.&nbsp; 20,533
+Price/Book:=3.94
+52wk Low - High:=45.17 - 109.99
+EPS TTM:=4.31
+Price/Cash Flow:=31.57
+Net Income:=27.09
+EPS Last Year:=4.31
+Price/Sales:=3.84
+Div - Yield:=0.00 - 0.00
+PEG Ratio:=N/A
+Updating Price:=101.87
+Current Year Est.:=5.2
+Change %:=(0.46%)
+Change $:=
+  0.47
+  
+Avg Volume:=68,215
+Industry:=OIL FLD MCH&amp;EQP
+
+(ozrk)
+Sales:=228.29
+Price/Earnings:=17.56
+Day Low - High:=51.71 - 52.71
+Market Cap:=894.74 M
+PE (forward):=15.96
+Volume:=Vol.&nbsp; 110,909
+Price/Book:=2.32
+52wk Low - High:=34.75 - 55.42
+EPS TTM:=2.98
+Price/Cash Flow:=80.96
+Net Income:=102
+EPS Last Year:=2.98
+Price/Sales:=3.86
+Div - Yield:=0.76 - 1.45
+PEG Ratio:=3.19
+Updating Price:=52.43
+Current Year Est.:=3.28
+Change %:=(0.19%)
+Change $:=
+  0.10
+  
+Avg Volume:=108,338
+Industry:=BANKS-SOUTHEAST
+
+(pag)
+Sales:=10713.58
+Price/Earnings:=16.79
+Day Low - High:=23.25 - 23.62
+Market Cap:=2.13 B
+PE (forward):=15.06
+Volume:=Vol.&nbsp; 1,858,644
+Price/Book:=1.94
+52wk Low - High:=11.62 - 23.94
+EPS TTM:=1.37
+Price/Cash Flow:=12.69
+Net Income:=121.85
+EPS Last Year:=1.37
+Price/Sales:=.19
+Div - Yield:=0.07 - 0.30
+PEG Ratio:=.95
+Updating Price:=23.48
+Current Year Est.:=1.53
+Change %:=(2.09%)
+Change $:=
+  0.48
+  
+Avg Volume:=694,928
+Industry:=RET/WHLSL AUTO/TRUCK
+
+(pbh)
+Sales:=336.51
+Price/Earnings:=16.46
+Day Low - High:=13.27 - 13.49
+Market Cap:=670.29 M
+PE (forward):=13.74
+Volume:=Vol.&nbsp; 230,860
+Price/Book:=1.85
+52wk Low - High:=7.20 - 13.49
+EPS TTM:=.81
+Price/Cash Flow:=12.94
+Net Income:=29.22
+EPS Last Year:=0.81
+Price/Sales:=1.98
+Div - Yield:=0.00 - 0.00
+PEG Ratio:=1.33
+Updating Price:=13.44
+Current Year Est.:=.97
+Change %:=(0.83%)
+Change $:=
+  0.11
+  
+Avg Volume:=241,050
+Industry:=CONSUMER PRD-MISC DISC
+
+(pccc)
+Sales:=1974.2
+Price/Earnings:=8.65
+Day Low - High:=7.95 - 8.20
+Market Cap:=216.24 M
+PE (forward):=8.04
+Volume:=Vol.&nbsp; 92,089
+Price/Book:=.82
+52wk Low - High:=5.80 - 9.91
+EPS TTM:=.93
+Price/Cash Flow:=7.6
+Net Income:=25.02
+EPS Last Year:=0.93
+Price/Sales:=.11
+Div - Yield:=0.00 - 0.00
+PEG Ratio:=N/A
+Updating Price:=8.05
+Current Year Est.:=1
+Change %:=(0.12%)
+Change $:=
+  0.01
+  
+Avg Volume:=58,046
+Industry:=RETAIL/WHSL CMP
+
+(pdm)
+Sales:=588.84
+Price/Earnings:=15.87
+Day Low - High:=20.37 - 20.87
+Market Cap:=3.53 B
+PE (forward):=13.51
+Volume:=Vol.&nbsp; 1,161,172
+Price/Book:=.98
+52wk Low - High:=15.46 - 21.32
+EPS TTM:=1.3
+Price/Cash Flow:=9.9
+Net Income:=122.92
+EPS Last Year:=1.30
+Price/Sales:=6
+Div - Yield:=1.26 - 6.16
+PEG Ratio:=13.51
+Updating Price:=20.87
+Current Year Est.:=1.51
+Change %:=(2.10%)
+Change $:=
+  0.43
+  
+Avg Volume:=1,456,446
+Industry:=REIT-EQTY TRUST -OTHER
+
+(phh)
+Sales:=2438
+Price/Earnings:=N/A
+Day Low - High:=19.43 - 19.86
+Market Cap:=1.11 B
+PE (forward):=12.01
+Volume:=Vol.&nbsp; 577,171
+Price/Book:=.68
+52wk Low - High:=17.96 - 25.55
+EPS TTM:=-1.66
+Price/Cash Flow:=.78
+Net Income:=89
+EPS Last Year:=-1.66
+Price/Sales:=.44
+Div - Yield:=0.00 - 0.00
+PEG Ratio:=2
+Updating Price:=19.55
+Current Year Est.:=1.65
+Change %:=(-1.36%)
+Change $:=
+  -0.27
+  
+Avg Volume:=650,842
+Industry:=TRANS-EQP&amp;LSNG
+
+(pike)
+Sales:=504.08
+Price/Earnings:=N/A
+Day Low - High:=9.27 - 9.60
+Market Cap:=311.28 M
+PE (forward):=34.47
+Volume:=Vol.&nbsp; 49,163
+Price/Book:=1.24
+52wk Low - High:=6.66 - 10.49
+EPS TTM:=-.13
+Price/Cash Flow:=11.19
+Net Income:=-4.67
+EPS Last Year:=-0.13
+Price/Sales:=.56
+Div - Yield:=0.00 - 0.00
+PEG Ratio:=-.97
+Updating Price:=9.30
+Current Year Est.:=.27
+Change %:=(0.54%)
+Change $:=
+  0.05
+  
+Avg Volume:=51,666
+Industry:=UTIL-ELEC PWR
+
+(plpc)
+Sales:=338.3
+Price/Earnings:=12.86
+Day Low - High:=69.74 - 72.80
+Market Cap:=365.63 M
+PE (forward):=
+Volume:=Vol.&nbsp; 8,583
+Price/Book:=1.87
+52wk Low - High:=28.00 - 79.50
+EPS TTM:=5.39
+Price/Cash Flow:=11.14
+Net Income:=28.98
+EPS Last Year:=5.39
+Price/Sales:=1
+Div - Yield:=0.80 - 1.15
+PEG Ratio:=N/A
+Updating Price:=71.89
+Current Year Est.:=6.1
+Change %:=(3.68%)
+Change $:=
+  2.55
+  
+Avg Volume:=19,389
+Industry:=COMMUNICATIONS COMPONENTS
+
+(pnx)
+Sales:=2084.9
+Price/Earnings:=13.44
+Day Low - High:=2.37 - 2.44
+Market Cap:=281.45 M
+PE (forward):=5.3
+Volume:=Vol.&nbsp; 281,510
+Price/Book:=.25
+52wk Low - High:=1.61 - 2.86
+EPS TTM:=.18
+Price/Cash Flow:=154.46
+Net Income:=-32.4
+EPS Last Year:=0.18
+Price/Sales:=.14
+Div - Yield:=0.00 - 0.00
+PEG Ratio:=N/A
+Updating Price:=2.41
+Current Year Est.:=.46
+Change %:=(-0.41%)
+Change $:=
+  -0.01
+  
+Avg Volume:=410,728
+Industry:=INS-LIFE
+
+(ppc)
+Sales:=6881.63
+Price/Earnings:=24.24
+Day Low - High:=4.93 - 5.11
+Market Cap:=1.09 B
+PE (forward):=
+Volume:=Vol.&nbsp; 1,294,694
+Price/Book:=N/A
+52wk Low - High:=3.96 - 8.61
+EPS TTM:=.21
+Price/Cash Flow:=N/A
+Net Income:=11.93
+EPS Last Year:=0.21
+Price/Sales:=.15
+Div - Yield:=0.00 - 0.00
+PEG Ratio:=N/A
+Updating Price:=5.08
+Current Year Est.:=-.87
+Change %:=(-0.20%)
+Change $:=
+  -0.01
+  
+Avg Volume:=1,293,223
+Industry:=FOOD-MEAT PRODS
+
+(prs)
+Sales:=294.97
+Price/Earnings:=24.79
+Day Low - High:=5.96 - 6.01
+Market Cap:=223.01 M
+PE (forward):=
+Volume:=Vol.&nbsp; 48,545
+Price/Book:=N/A
+52wk Low - High:=3.41 - 6.04
+EPS TTM:=.24
+Price/Cash Flow:=N/A
+Net Income:=255.33
+EPS Last Year:=0.24
+Price/Sales:=N/A
+Div - Yield:=0.00 - 0.00
+PEG Ratio:=N/A
+Updating Price:=6.00
+Current Year Est.:=N/A
+Change %:=(0.84%)
+Change $:=
+  0.05
+  
+Avg Volume:=90,239
+Industry:=FIN-MISC SVCS
+
+(prx)
+Sales:=1008.87
+Price/Earnings:=11.02
+Day Low - High:=34.24 - 34.85
+Market Cap:=1.25 B
+PE (forward):=10.91
+Volume:=Vol.&nbsp; 294,735
+Price/Book:=2.38
+52wk Low - High:=25.58 - 39.57
+EPS TTM:=3.14
+Price/Cash Flow:=9.17
+Net Income:=-42.54
+EPS Last Year:=3.14
+Price/Sales:=1.32
+Div - Yield:=0.00 - 0.00
+PEG Ratio:=.37
+Updating Price:=34.49
+Current Year Est.:=3.17
+Change %:=(-0.32%)
+Change $:=
+  -0.11
+  
+Avg Volume:=303,228
+Industry:=MED-GENERIC DRG
+
+(pvtb)
+Sales:=601.17
+Price/Earnings:=49.26
+Day Low - High:=13.24 - 13.54
+Market Cap:=955.09 M
+PE (forward):=32.75
+Volume:=Vol.&nbsp; 420,274
+Price/Book:=.95
+52wk Low - High:=10.24 - 16.49
+EPS TTM:=.27
+Price/Cash Flow:=50.89
+Net Income:=33.35
+EPS Last Year:=0.27
+Price/Sales:=1.58
+Div - Yield:=0.04 - 0.30
+PEG Ratio:=2.98
+Updating Price:=13.52
+Current Year Est.:=.41
+Change %:=(1.65%)
+Change $:=
+  0.22
+  
+Avg Volume:=477,574
+Industry:=BANKS-MIDWEST
+
+(rah)
+Sales:=4048.5
+Price/Earnings:=17.12
+Day Low - High:=84.19 - 86.03
+Market Cap:=4.77 B
+PE (forward):=15.72
+Volume:=Vol.&nbsp; 3,985,990
+Price/Book:=1.57
+52wk Low - High:=53.90 - 91.35
+EPS TTM:=5.06
+Price/Cash Flow:=11.13
+Net Income:=249.5
+EPS Last Year:=5.06
+Price/Sales:=1.07
+Div - Yield:=0.00 - 0.00
+PEG Ratio:=1.96
+Updating Price:=86.00
+Current Year Est.:=5.51
+Change %:=(-0.72%)
+Change $:=
+  -0.62
+  
+Avg Volume:=454,647
+Industry:=FOOD-MISC/DIVERSIFIED
+
+(rfmd)
+Sales:=1051.76
+Price/Earnings:=11.56
+Day Low - High:=5.97 - 6.11
+Market Cap:=1.66 B
+PE (forward):=18.7
+Volume:=Vol.&nbsp; 4,244,207
+Price/Book:=2.45
+52wk Low - High:=3.80 - 8.48
+EPS TTM:=.52
+Price/Cash Flow:=6.85
+Net Income:=124.02
+EPS Last Year:=0.52
+Price/Sales:=1.58
+Div - Yield:=0.00 - 0.00
+PEG Ratio:=1.25
+Updating Price:=6.02
+Current Year Est.:=.32
+Change %:=(0.17%)
+Change $:=
+  0.01
+  
+Avg Volume:=5,409,950
+Industry:=WIRELESS NATIONAL
+
+(rloc)
+Sales:=291.69
+Price/Earnings:=N/A
+Day Low - High:=19.62 - 20.36
+Market Cap:=564.11 M
+PE (forward):=
+Volume:=Vol.&nbsp; 214,696
+Price/Book:=6.6
+52wk Low - High:=12.33 - 28.39
+EPS TTM:=-.36
+Price/Cash Flow:=N/A
+Net Income:=-12.34
+EPS Last Year:=-0.36
+Price/Sales:=1.81
+Div - Yield:=0.00 - 0.00
+PEG Ratio:=N/A
+Updating Price:=20.28
+Current Year Est.:=-.41
+Change %:=(4.54%)
+Change $:=
+  0.88
+  
+Avg Volume:=222,122
+Industry:=INTERNET COMMERCE
+
+(rose)
+Sales:=308.43
+Price/Earnings:=77.91
+Day Low - High:=53.64 - 57.35
+Market Cap:=2.77 B
+PE (forward):=29.73
+Volume:=Vol.&nbsp; 2,231,029
+Price/Book:=5.33
+52wk Low - High:=18.84 - 57.35
+EPS TTM:=.67
+Price/Cash Flow:=18.1
+Net Income:=22.78
+EPS Last Year:=0.67
+Price/Sales:=8.25
+Div - Yield:=0.00 - 0.00
+PEG Ratio:=.96
+Updating Price:=55.93
+Current Year Est.:=1.76
+Change %:=(7.15%)
+Change $:=
+  3.73
+  
+Avg Volume:=992,039
+Industry:=OIL-US EXP&amp;PROD
+
+(rue)
+Sales:=634.73
+Price/Earnings:=24.86
+Day Low - High:=32.65 - 34.86
+Market Cap:=831.03 M
+PE (forward):=22.28
+Volume:=Vol.&nbsp; 269,858
+Price/Book:=7.36
+52wk Low - High:=20.28 - 37.33
+EPS TTM:=1.37
+Price/Cash Flow:=15.72
+Net Income:=34.04
+EPS Last Year:=1.37
+Price/Sales:=1.24
+Div - Yield:=0.00 - 0.00
+PEG Ratio:=.95
+Updating Price:=33.17
+Current Year Est.:=1.53
+Change %:=(-2.61%)
+Change $:=
+  -0.89
+  
+Avg Volume:=325,335
+Industry:=RETAIL-APP/SHOE
+
+(saft)
+Sales:=612.72
+Price/Earnings:=15.88
+Day Low - High:=41.60 - 42.04
+Market Cap:=634.04 M
+PE (forward):=20.88
+Volume:=Vol.&nbsp; 44,256
+Price/Book:=.99
+52wk Low - High:=37.99 - 50.10
+EPS TTM:=2.63
+Price/Cash Flow:=9.12
+Net Income:=39.61
+EPS Last Year:=2.63
+Price/Sales:=1.02
+Div - Yield:=2.00 - 4.79
+PEG Ratio:=1.39
+Updating Price:=41.89
+Current Year Est.:=2
+Change %:=(0.31%)
+Change $:=
+  0.13
+  
+Avg Volume:=42,562
+Industry:=INS-PROP&amp;CASLTY
+
+(sbp)
+Sales:=null
+Price/Earnings:=null
+Day Low - High:=null
+Market Cap:=null
+PE (forward):=null
+Volume:=null
+Price/Book:=null
+52wk Low - High:=null
+EPS TTM:=null
+Price/Cash Flow:=null
+Net Income:=null
+EPS Last Year:=null
+Price/Sales:=null
+Div - Yield:=null
+PEG Ratio:=null
+Updating Price:=null
+Current Year Est.:=null
+Change %:=null
+Change $:=null
+Avg Volume:=null
+Industry:=null
+
+(scmp)
+Sales:=61.87
+Price/Earnings:=N/A
+Day Low - High:=4.02 - 4.14
+Market Cap:=171.59 M
+PE (forward):=
+Volume:=Vol.&nbsp; 21,566
+Price/Book:=3.61
+52wk Low - High:=3.25 - 4.75
+EPS TTM:=-.31
+Price/Cash Flow:=N/A
+Net Income:=-12.79
+EPS Last Year:=-0.31
+Price/Sales:=2.9
+Div - Yield:=0.00 - 0.00
+PEG Ratio:=N/A
+Updating Price:=4.13
+Current Year Est.:=N/A
+Change %:=(0.73%)
+Change $:=
+  0.03
+  
+Avg Volume:=47,794
+Industry:=MED-DRUGS
+
+(scvl)
+Sales:=739.19
+Price/Earnings:=15.89
+Day Low - High:=32.61 - 33.11
+Market Cap:=433.70 M
+PE (forward):=14.84
+Volume:=Vol.&nbsp; 42,965
+Price/Book:=1.64
+52wk Low - High:=16.24 - 33.41
+EPS TTM:=2.06
+Price/Cash Flow:=10.79
+Net Income:=27.49
+EPS Last Year:=2.06
+Price/Sales:=.58
+Div - Yield:=0.00 - 0.00
+PEG Ratio:=N/A
+Updating Price:=32.71
+Current Year Est.:=2.21
+Change %:=(-0.06%)
+Change $:=
+  -0.02
+  
+Avg Volume:=56,245
+Industry:=RETAIL-APP/SHOE
+
+(siro)
+Sales:=770.28
+Price/Earnings:=20.77
+Day Low - High:=54.24 - 55.36
+Market Cap:=3.05 B
+PE (forward):=18.7
+Volume:=Vol.&nbsp; 144,063
+Price/Book:=3.29
+52wk Low - High:=29.55 - 57.87
+EPS TTM:=2.63
+Price/Cash Flow:=14.21
+Net Income:=112.98
+EPS Last Year:=2.63
+Price/Sales:=3.73
+Div - Yield:=0.00 - 0.00
+PEG Ratio:=1.21
+Updating Price:=55.05
+Current Year Est.:=2.92
+Change %:=(0.79%)
+Change $:=
+  0.43
+  
+Avg Volume:=670,138
+Industry:=MED INSTRUMENTS
+
+(sivb)
+Sales:=709.26
+Price/Earnings:=27.07
+Day Low - High:=59.23 - 60.56
+Market Cap:=2.58 B
+PE (forward):=20.1
+Volume:=Vol.&nbsp; 805,686
+Price/Book:=1.38
+52wk Low - High:=36.72 - 61.63
+EPS TTM:=2.22
+Price/Cash Flow:=27.64
+Net Income:=109.4
+EPS Last Year:=2.22
+Price/Sales:=3.33
+Div - Yield:=0.00 - 0.00
+PEG Ratio:=2.01
+Updating Price:=59.58
+Current Year Est.:=2.99
+Change %:=(-0.87%)
+Change $:=
+  -0.52
+  
+Avg Volume:=422,854
+Industry:=BANKS-WEST
+
+(sjw)
+Sales:=215.64
+Price/Earnings:=29.57
+Day Low - High:=23.79 - 24.28
+Market Cap:=444.92 M
+PE (forward):=24.11
+Volume:=Vol.&nbsp; 35,092
+Price/Book:=1.76
+52wk Low - High:=21.88 - 28.00
+EPS TTM:=.81
+Price/Cash Flow:=10.11
+Net Income:=24.03
+EPS Last Year:=0.81
+Price/Sales:=2.03
+Div - Yield:=0.69 - 2.88
+PEG Ratio:=N/A
+Updating Price:=24.16
+Current Year Est.:=.99
+Change %:=(0.88%)
+Change $:=
+  0.21
+  
+Avg Volume:=36,347
+Industry:=UTIL-WATER SPLY
+
+(spec)
+Sales:=N/A
+Price/Earnings:=N/A
+Day Low - High:=N/A - N/A
+Market Cap:=N/A
+PE (forward):=
+Volume:=Vol.&nbsp; 0
+Price/Book:=N/A
+52wk Low - High:=N/A - N/A
+EPS TTM:=N/A
+Price/Cash Flow:=N/A
+Net Income:=N/A
+EPS Last Year:=N/A
+Price/Sales:=N/A
+Div - Yield:=N/A - N/A
+PEG Ratio:=N/A
+Updating Price:=N/A
+Current Year Est.:=N/A
+Change %:=(N/A%)
+Change $:=
+  N/A
+  
+Avg Volume:=N/A
+Industry:=N/A
+
+(spn)
+Sales:=1681.62
+Price/Earnings:=26.2
+Day Low - High:=38.61 - 39.72
+Market Cap:=3.03 B
+PE (forward):=20.84
+Volume:=Vol.&nbsp; 661,917
+Price/Book:=2.29
+52wk Low - High:=20.40 - 41.65
+EPS TTM:=1.46
+Price/Cash Flow:=8.19
+Net Income:=75.79
+EPS Last Year:=1.46
+Price/Sales:=1.75
+Div - Yield:=0.00 - 0.00
+PEG Ratio:=N/A
+Updating Price:=39.63
+Current Year Est.:=1.84
+Change %:=(3.58%)
+Change $:=
+  1.37
+  
+Avg Volume:=796,391
+Industry:=OIL FLD MCH&amp;EQP
+
+(srdx)
+Sales:=69.9
+Price/Earnings:=61.76
+Day Low - High:=11.58 - 11.92
+Market Cap:=205.56 M
+PE (forward):=53.34
+Volume:=Vol.&nbsp; 35,966
+Price/Book:=1.34
+52wk Low - High:=8.29 - 16.34
+EPS TTM:=.19
+Price/Cash Flow:=7.77
+Net Income:=-20.47
+EPS Last Year:=0.19
+Price/Sales:=3.08
+Div - Yield:=0.00 - 0.00
+PEG Ratio:=4.27
+Updating Price:=11.71
+Current Year Est.:=.22
+Change %:=(-0.26%)
+Change $:=
+  -0.03
+  
+Avg Volume:=85,788
+Industry:=MED PRODUCTS
+
+(sri)
+Sales:=635.23
+Price/Earnings:=26.8
+Day Low - High:=14.49 - 14.86
+Market Cap:=389.87 M
+PE (forward):=13.46
+Volume:=Vol.&nbsp; 130,601
+Price/Book:=3.94
+52wk Low - High:=7.72 - 17.22
+EPS TTM:=.55
+Price/Cash Flow:=11.6
+Net Income:=12.19
+EPS Last Year:=0.55
+Price/Sales:=.57
+Div - Yield:=0.00 - 0.00
+PEG Ratio:=N/A
+Updating Price:=14.67
+Current Year Est.:=1.1
+Change %:=(-0.47%)
+Change $:=
+  -0.07
+  
+Avg Volume:=190,726
+Industry:=ELEC-MISC COMPONENTS
+
+(srsl)
+Sales:=31.22
+Price/Earnings:=78.17
+Day Low - High:=9.01 - 9.63
+Market Cap:=139.83 M
+PE (forward):=26.3
+Volume:=Vol.&nbsp; 58,847
+Price/Book:=2.49
+52wk Low - High:=7.56 - 11.07
+EPS TTM:=.12
+Price/Cash Flow:=34.96
+Net Income:=1.83
+EPS Last Year:=0.12
+Price/Sales:=4.51
+Div - Yield:=0.00 - 0.00
+PEG Ratio:=1.17
+Updating Price:=9.41
+Current Year Est.:=.36
+Change %:=(0.32%)
+Change $:=
+  0.03
+  
+Avg Volume:=47,872
+Industry:=ELEC-MISC COMPONENTS
+
+(srx)
+Sales:=1666.63
+Price/Earnings:=21.52
+Day Low - High:=31.21 - 31.25
+Market Cap:=1.80 B
+PE (forward):=20.01
+Volume:=Vol.&nbsp; 2,441,032
+Price/Book:=2.19
+52wk Low - High:=18.31 - 31.31
+EPS TTM:=1.45
+Price/Cash Flow:=10.51
+Net Income:=51.07
+EPS Last Year:=1.45
+Price/Sales:=1.04
+Div - Yield:=0.00 - 0.00
+PEG Ratio:=1.31
+Updating Price:=31.22
+Current Year Est.:=1.56
+Change %:=(0.06%)
+Change $:=
+  0.02
+  
+Avg Volume:=971,869
+Industry:=IT SERVICES
+
+(srz)
+Sales:=1406.7
+Price/Earnings:=N/A
+Day Low - High:=9.40 - 9.74
+Market Cap:=547.55 M
+PE (forward):=
+Volume:=Vol.&nbsp; 650,482
+Price/Book:=4.98
+52wk Low - High:=2.18 - 12.44
+EPS TTM:=-.36
+Price/Cash Flow:=14.92
+Net Income:=97.38
+EPS Last Year:=-0.36
+Price/Sales:=.4
+Div - Yield:=0.00 - 0.00
+PEG Ratio:=N/A
+Updating Price:=9.53
+Current Year Est.:=-.2
+Change %:=(-0.10%)
+Change $:=
+  -0.01
+  
+Avg Volume:=764,705
+Industry:=MED-NURSING HMS
+
+(sti)
+Sales:=10072
+Price/Earnings:=48.31
+Day Low - High:=24.37 - 24.83
+Market Cap:=13.23 B
+PE (forward):=21.47
+Volume:=Vol.&nbsp; 5,678,489
+Price/Book:=.69
+52wk Low - High:=21.94 - 33.14
+EPS TTM:=.51
+Price/Cash Flow:=11.91
+Net Income:=530.44
+EPS Last Year:=0.51
+Price/Sales:=1.29
+Div - Yield:=0.04 - 0.16
+PEG Ratio:=3.25
+Updating Price:=24.64
+Current Year Est.:=1.15
+Change %:=(N/A%)
+Change $:=
+  N/A
+  
+Avg Volume:=5,188,243
+Industry:=BANKS-MAJOR REGIONAL
+
+(stnr)
+Sales:=620.39
+Price/Earnings:=15.41
+Day Low - High:=49.26 - 50.11
+Market Cap:=741.13 M
+PE (forward):=14.35
+Volume:=Vol.&nbsp; 30,072
+Price/Book:=2.62
+52wk Low - High:=33.47 - 51.09
+EPS TTM:=3.2
+Price/Cash Flow:=12.35
+Net Income:=48.29
+EPS Last Year:=3.20
+Price/Sales:=1.15
+Div - Yield:=0.00 - 0.00
+PEG Ratio:=1.43
+Updating Price:=49.61
+Current Year Est.:=3.44
+Change %:=(0.59%)
+Change $:=
+  0.29
+  
+Avg Volume:=61,227
+Industry:=RETAIL-MISC/DIV
+
+(stu)
+Sales:=N/A
+Price/Earnings:=N/A
+Day Low - High:=N/A - N/A
+Market Cap:=N/A
+PE (forward):=
+Volume:=Vol.&nbsp; 0
+Price/Book:=N/A
+52wk Low - High:=N/A - N/A
+EPS TTM:=N/A
+Price/Cash Flow:=N/A
+Net Income:=N/A
+EPS Last Year:=N/A
+Price/Sales:=N/A
+Div - Yield:=N/A - N/A
+PEG Ratio:=N/A
+Updating Price:=N/A
+Current Year Est.:=N/A
+Change %:=(N/A%)
+Change $:=
+  N/A
+  
+Avg Volume:=N/A
+Industry:=N/A
+
+(sui)
+Sales:=263.14
+Price/Earnings:=13.16
+Day Low - High:=37.54 - 38.37
+Market Cap:=798.94 M
+PE (forward):=12.12
+Volume:=Vol.&nbsp; 96,931
+Price/Book:=N/A
+52wk Low - High:=25.94 - 40.21
+EPS TTM:=2.89
+Price/Cash Flow:=10.99
+Net Income:=-1.82
+EPS Last Year:=2.89
+Price/Sales:=3.01
+Div - Yield:=2.52 - 6.70
+PEG Ratio:=6.06
+Updating Price:=38.28
+Current Year Est.:=3.11
+Change %:=(1.75%)
+Change $:=
+  0.66
+  
+Avg Volume:=98,102
+Industry:=REIT-EQTY TRUST - RESID
+
+(svvs)
+Sales:=932.98
+Price/Earnings:=N/A
+Day Low - High:=N/A - N/A
+Market Cap:=2.28 B
+PE (forward):=
+Volume:=Vol.&nbsp; 0
+Price/Book:=11.06
+52wk Low - High:=14.95 - 39.84
+EPS TTM:=-.62
+Price/Cash Flow:=14.69
+Net Income:=-44.18
+EPS Last Year:=-0.62
+Price/Sales:=2.34
+Div - Yield:=0.00 - 0.00
+PEG Ratio:=N/A
+Updating Price:=39.50
+Current Year Est.:=-.26
+Change %:=(N/A%)
+Change $:=
+  N/A
+  
+Avg Volume:=1,520,897
+Industry:=COMP-NETWORKS
+
+(swk)
+Sales:=8409.6
+Price/Earnings:=15.9
+Day Low - High:=68.25 - 69.74
+Market Cap:=11.60 B
+PE (forward):=13.37
+Volume:=Vol.&nbsp; 1,607,698
+Price/Book:=1.56
+52wk Low - High:=50.76 - 78.19
+EPS TTM:=4.34
+Price/Cash Flow:=12.31
+Net Income:=465.5
+EPS Last Year:=4.34
+Price/Sales:=1.22
+Div - Yield:=1.64 - 2.38
+PEG Ratio:=N/A
+Updating Price:=69.69
+Current Year Est.:=5.16
+Change %:=(1.01%)
+Change $:=
+  0.70
+  
+Avg Volume:=1,724,647
+Industry:=MACH TLS&amp;RL PRD
+
+(synt)
+Sales:=532.13
+Price/Earnings:=21.38
+Day Low - High:=57.56 - 58.42
+Market Cap:=2.43 B
+PE (forward):=20.42
+Volume:=Vol.&nbsp; 116,322
+Price/Book:=5.08
+52wk Low - High:=35.60 - 62.03
+EPS TTM:=2.72
+Price/Cash Flow:=18.96
+Net Income:=113.51
+EPS Last Year:=2.72
+Price/Sales:=4.32
+Div - Yield:=0.24 - 0.41
+PEG Ratio:=1.32
+Updating Price:=58.16
+Current Year Est.:=2.85
+Change %:=(N/A%)
+Change $:=
+  N/A
+  
+Avg Volume:=183,631
+Industry:=COMP-SERVICES
+
+(tal)
+Sales:=366.8
+Price/Earnings:=11.76
+Day Low - High:=30.96 - 32.50
+Market Cap:=1.07 B
+PE (forward):=9.43
+Volume:=Vol.&nbsp; 587,699
+Price/Book:=2.2
+52wk Low - High:=21.09 - 38.45
+EPS TTM:=2.72
+Price/Cash Flow:=5.31
+Net Income:=84.41
+EPS Last Year:=2.72
+Price/Sales:=2.59
+Div - Yield:=2.00 - 6.25
+PEG Ratio:=.81
+Updating Price:=31.17
+Current Year Est.:=3.39
+Change %:=(-2.56%)
+Change $:=
+  -0.82
+  
+Avg Volume:=378,511
+Industry:=TRANS-EQP&amp;LSNG
+
+(tc)
+Sales:=594.8
+Price/Earnings:=7.67
+Day Low - High:=9.84 - 10.07
+Market Cap:=1.64 B
+PE (forward):=8.77
+Volume:=Vol.&nbsp; 1,654,440
+Price/Book:=1.02
+52wk Low - High:=8.01 - 16.06
+EPS TTM:=1.28
+Price/Cash Flow:=7.51
+Net Income:=241.5
+EPS Last Year:=1.28
+Price/Sales:=2.44
+Div - Yield:=0.00 - 0.00
+PEG Ratio:=N/A
+Updating Price:=9.92
+Current Year Est.:=1.12
+Change %:=(1.02%)
+Change $:=
+  0.10
+  
+Avg Volume:=1,999,864
+Industry:=MINING -NON FERR
+
+(tcb)
+Sales:=1507.86
+Price/Earnings:=13.3
+Day Low - High:=13.13 - 13.37
+Market Cap:=2.12 B
+PE (forward):=15.58
+Volume:=Vol.&nbsp; 1,252,697
+Price/Book:=1.21
+52wk Low - High:=12.90 - 17.66
+EPS TTM:=1
+Price/Cash Flow:=8.14
+Net Income:=142.33
+EPS Last Year:=1.00
+Price/Sales:=1.42
+Div - Yield:=0.20 - 1.50
+PEG Ratio:=2.75
+Updating Price:=13.25
+Current Year Est.:=.85
+Change %:=(-0.38%)
+Change $:=
+  -0.05
+  
+Avg Volume:=1,567,944
+Industry:=BANKS-MIDWEST
+
+(tcrd)
+Sales:=12.33
+Price/Earnings:=25.14
+Day Low - High:=12.75 - 12.96
+Market Cap:=259.22 M
+PE (forward):=12.09
+Volume:=Vol.&nbsp; 51,679
+Price/Book:=.98
+52wk Low - High:=11.15 - 14.86
+EPS TTM:=.51
+Price/Cash Flow:=42.17
+Net Income:=11.04
+EPS Last Year:=0.51
+Price/Sales:=13.38
+Div - Yield:=1.00 - 7.80
+PEG Ratio:=N/A
+Updating Price:=12.77
+Current Year Est.:=1.06
+Change %:=(-0.39%)
+Change $:=
+  -0.05
+  
+Avg Volume:=71,706
+Industry:=FIN-SBIC&amp;COMMRL
+
+(tecua)
+Sales:=933.8
+Price/Earnings:=N/A
+Day Low - High:=10.12 - 10.49
+Market Cap:=189.05 M
+PE (forward):=
+Volume:=Vol.&nbsp; 37,836
+Price/Book:=.44
+52wk Low - High:=8.44 - 14.21
+EPS TTM:=-.75
+Price/Cash Flow:=5.73
+Net Income:=-23.3
+EPS Last Year:=-0.75
+Price/Sales:=.2
+Div - Yield:=0.00 - 0.00
+PEG Ratio:=N/A
+Updating Price:=10.43
+Current Year Est.:=-.92
+Change %:=(1.96%)
+Change $:=
+  0.20
+  
+Avg Volume:=45,637
+Industry:=MACH-GENL INDL
+
+(ten)
+Sales:=5937
+Price/Earnings:=22.58
+Day Low - High:=42.98 - 43.80
+Market Cap:=2.62 B
+PE (forward):=15.61
+Volume:=Vol.&nbsp; 674,018
+Price/Book:=21.96
+52wk Low - High:=21.53 - 46.81
+EPS TTM:=1.92
+Price/Cash Flow:=8.34
+Net Income:=79
+EPS Last Year:=1.92
+Price/Sales:=.41
+Div - Yield:=0.00 - 0.00
+PEG Ratio:=.47
+Updating Price:=43.68
+Current Year Est.:=2.78
+Change %:=(0.74%)
+Change $:=
+  0.32
+  
+Avg Volume:=708,102
+Industry:=AUTO/TRUCK-ORIG
+
+(tg)
+Sales:=740.47
+Price/Earnings:=19.48
+Day Low - High:=19.26 - 19.91
+Market Cap:=617.04 M
+PE (forward):=18.9
+Volume:=Vol.&nbsp; 73,496
+Price/Book:=1.43
+52wk Low - High:=15.79 - 23.20
+EPS TTM:=.99
+Price/Cash Flow:=8.47
+Net Income:=27.91
+EPS Last Year:=0.99
+Price/Sales:=.81
+Div - Yield:=0.18 - 0.93
+PEG Ratio:=N/A
+Updating Price:=19.65
+Current Year Est.:=1.02
+Change %:=(1.92%)
+Change $:=
+  0.37
+  
+Avg Volume:=66,413
+Industry:=CHEM-PLASTICS
+
+(tho)
+Sales:=2276.56
+Price/Earnings:=13.89
+Day Low - High:=27.04 - 27.46
+Market Cap:=1.53 B
+PE (forward):=13.1
+Volume:=Vol.&nbsp; 417,281
+Price/Book:=1.9
+52wk Low - High:=22.50 - 39.12
+EPS TTM:=1.97
+Price/Cash Flow:=11.56
+Net Income:=109.98
+EPS Last Year:=1.97
+Price/Sales:=.58
+Div - Yield:=0.40 - 1.46
+PEG Ratio:=N/A
+Updating Price:=27.40
+Current Year Est.:=2.09
+Change %:=(0.11%)
+Change $:=
+  0.03
+  
+Avg Volume:=490,759
+Industry:=BLDG-MBL/MFG&amp;RV
+
+(tie)
+Sales:=857.2
+Price/Earnings:=38.06
+Day Low - High:=18.20 - 18.74
+Market Cap:=3.29 B
+PE (forward):=29.23
+Volume:=Vol.&nbsp; 2,647,170
+Price/Book:=2.59
+52wk Low - High:=16.03 - 22.93
+EPS TTM:=.48
+Price/Cash Flow:=24.73
+Net Income:=92.8
+EPS Last Year:=0.48
+Price/Sales:=3.69
+Div - Yield:=0.30 - 1.64
+PEG Ratio:=1.95
+Updating Price:=18.68
+Current Year Est.:=.63
+Change %:=(2.24%)
+Change $:=
+  0.41
+  
+Avg Volume:=2,098,501
+Industry:=MINING -MISC
+
+(tiny)
+Sales:=.45
+Price/Earnings:=67.25
+Day Low - High:=5.19 - 5.42
+Market Cap:=166.79 M
+PE (forward):=
+Volume:=Vol.&nbsp; 94,943
+Price/Book:=1.14
+52wk Low - High:=3.70 - 6.30
+EPS TTM:=.08
+Price/Cash Flow:=N/A
+Net Income:=7.77
+EPS Last Year:=0.08
+Price/Sales:=331.58
+Div - Yield:=0.00 - 0.00
+PEG Ratio:=N/A
+Updating Price:=5.35
+Current Year Est.:=N/A
+Change %:=(-0.56%)
+Change $:=
+  -0.03
+  
+Avg Volume:=136,784
+Industry:=ENGINRG/R&amp;D SVS
+
+(tisi)
+Sales:=453.87
+Price/Earnings:=23.19
+Day Low - High:=23.63 - 24.29
+Market Cap:=462.52 M
+PE (forward):=16.14
+Volume:=Vol.&nbsp; 55,304
+Price/Book:=2.36
+52wk Low - High:=13.00 - 28.71
+EPS TTM:=1.02
+Price/Cash Flow:=15.77
+Net Income:=21.5
+EPS Last Year:=1.02
+Price/Sales:=.98
+Div - Yield:=0.00 - 0.00
+PEG Ratio:=1.61
+Updating Price:=24.16
+Current Year Est.:=1.47
+Change %:=(2.16%)
+Change $:=
+  0.51
+  
+Avg Volume:=82,777
+Industry:=BLDG-MAINT &amp; SV
+
+(tkr)
+Sales:=4055.5
+Price/Earnings:=13.75
+Day Low - High:=47.68 - 48.85
+Market Cap:=4.74 B
+PE (forward):=11.49
+Volume:=Vol.&nbsp; 1,097,871
+Price/Book:=2.3
+52wk Low - High:=27.06 - 57.83
+EPS TTM:=3.52
+Price/Cash Flow:=9.82
+Net Income:=358.9
+EPS Last Year:=3.52
+Price/Sales:=1.08
+Div - Yield:=0.80 - 1.65
+PEG Ratio:=.78
+Updating Price:=48.45
+Current Year Est.:=4.21
+Change %:=(0.08%)
+Change $:=
+  0.04
+  
+Avg Volume:=836,317
+Industry:=METAL PROC&amp;FABR
+
+(tmrk)
+Sales:=N/A
+Price/Earnings:=N/A
+Day Low - High:=N/A - N/A
+Market Cap:=N/A
+PE (forward):=
+Volume:=Vol.&nbsp; 0
+Price/Book:=N/A
+52wk Low - High:=N/A - N/A
+EPS TTM:=N/A
+Price/Cash Flow:=N/A
+Net Income:=N/A
+EPS Last Year:=N/A
+Price/Sales:=N/A
+Div - Yield:=N/A - N/A
+PEG Ratio:=N/A
+Updating Price:=N/A
+Current Year Est.:=N/A
+Change %:=(N/A%)
+Change $:=
+  na
+
+  
+Avg Volume:=N/A
+Industry:=N/A
+
+(trad)
+Sales:=null
+Price/Earnings:=null
+Day Low - High:=null
+Market Cap:=null
+PE (forward):=null
+Volume:=null
+Price/Book:=null
+52wk Low - High:=null
+EPS TTM:=null
+Price/Cash Flow:=null
+Net Income:=null
+EPS Last Year:=null
+Price/Sales:=null
+Div - Yield:=null
+PEG Ratio:=null
+Updating Price:=null
+Current Year Est.:=null
+Change %:=null
+Change $:=null
+Avg Volume:=null
+Industry:=null
+
+(trak)
+Sales:=243.83
+Price/Earnings:=39.12
+Day Low - High:=22.14 - 22.83
+Market Cap:=932.90 M
+PE (forward):=35.79
+Volume:=Vol.&nbsp; 270,561
+Price/Book:=2.1
+52wk Low - High:=14.40 - 26.80
+EPS TTM:=.58
+Price/Cash Flow:=18.11
+Net Income:=-.65
+EPS Last Year:=0.58
+Price/Sales:=3.53
+Div - Yield:=0.00 - 0.00
+PEG Ratio:=2.29
+Updating Price:=22.37
+Current Year Est.:=.63
+Change %:=(-1.41%)
+Change $:=
+  -0.32
+  
+Avg Volume:=156,425
+Industry:=COMP-SOFTWARE
+
+(tsra)
+Sales:=301.39
+Price/Earnings:=11.94
+Day Low - High:=15.50 - 15.88
+Market Cap:=799.49 M
+PE (forward):=15.26
+Volume:=Vol.&nbsp; 339,706
+Price/Book:=1.16
+52wk Low - High:=14.96 - 23.18
+EPS TTM:=1.31
+Price/Cash Flow:=9.07
+Net Income:=58.73
+EPS Last Year:=1.31
+Price/Sales:=2.62
+Div - Yield:=0.00 - 0.00
+PEG Ratio:=.61
+Updating Price:=15.76
+Current Year Est.:=1.02
+Change %:=(0.77%)
+Change $:=
+  0.12
+  
+Avg Volume:=507,055
+Industry:=ELEC-MANUFACT MACHINERY
+
+(twx)
+Sales:=26888
+Price/Earnings:=15.09
+Day Low - High:=35.27 - 36.21
+Market Cap:=38.29 B
+PE (forward):=13
+Volume:=Vol.&nbsp; 7,494,106
+Price/Book:=1.21
+52wk Low - High:=29.21 - 38.62
+EPS TTM:=2.37
+Price/Cash Flow:=3.83
+Net Income:=2506
+EPS Last Year:=2.37
+Price/Sales:=1.41
+Div - Yield:=0.94 - 2.63
+PEG Ratio:=.92
+Updating Price:=35.63
+Current Year Est.:=2.75
+Change %:=(-0.36%)
+Change $:=
+  -0.13
+  
+Avg Volume:=6,839,186
+Industry:=MEDIA CONGLOMERATES
+
+(txn)
+Sales:=13966
+Price/Earnings:=12.09
+Day Low - High:=30.44 - 30.97
+Market Cap:=35.67 B
+PE (forward):=12.84
+Volume:=Vol.&nbsp; 9,349,968
+Price/Book:=3.4
+52wk Low - High:=22.95 - 36.71
+EPS TTM:=2.54
+Price/Cash Flow:=9.07
+Net Income:=3236
+EPS Last Year:=2.54
+Price/Sales:=2.52
+Div - Yield:=0.52 - 1.69
+PEG Ratio:=1.22
+Updating Price:=30.82
+Current Year Est.:=2.39
+Change %:=(0.33%)
+Change $:=
+  0.10
+  
+Avg Volume:=10,190,953
+Industry:=SEMI-GENERAL
+
+(tyl)
+Sales:=288.63
+Price/Earnings:=35.61
+Day Low - High:=26.00 - 26.52
+Market Cap:=844.28 M
+PE (forward):=34.31
+Volume:=Vol.&nbsp; 210,175
+Price/Book:=7.78
+52wk Low - High:=15.19 - 27.56
+EPS TTM:=.74
+Price/Cash Flow:=23.72
+Net Income:=25.91
+EPS Last Year:=0.74
+Price/Sales:=2.89
+Div - Yield:=0.00 - 0.00
+PEG Ratio:=2.29
+Updating Price:=26.44
+Current Year Est.:=.77
+Change %:=(0.34%)
+Change $:=
+  0.09
+  
+Avg Volume:=190,558
+Industry:=BUSINESS SOFTWARE SERVICES/BPO
+
+(ueic)
+Sales:=331.78
+Price/Earnings:=18.94
+Day Low - High:=24.25 - 24.83
+Market Cap:=369.82 M
+PE (forward):=11.4
+Volume:=Vol.&nbsp; 36,270
+Price/Book:=1.7
+52wk Low - High:=15.75 - 30.27
+EPS TTM:=1.3
+Price/Cash Flow:=12.7
+Net Income:=15.07
+EPS Last Year:=1.30
+Price/Sales:=1.01
+Div - Yield:=0.00 - 0.00
+PEG Ratio:=.76
+Updating Price:=24.49
+Current Year Est.:=2.16
+Change %:=(-0.53%)
+Change $:=
+  -0.13
+  
+Avg Volume:=51,246
+Industry:=ELEC PRODS-MISC
+
+(ufs)
+Sales:=5850
+Price/Earnings:=7.46
+Day Low - High:=92.67 - 94.59
+Market Cap:=3.85 B
+PE (forward):=8.62
+Volume:=Vol.&nbsp; 553,752
+Price/Book:=1.17
+52wk Low - High:=46.43 - 105.82
+EPS TTM:=12.59
+Price/Cash Flow:=4.51
+Net Income:=680
+EPS Last Year:=12.59
+Price/Sales:=.66
+Div - Yield:=1.40 - 1.49
+PEG Ratio:=2.87
+Updating Price:=93.41
+Current Year Est.:=10.89
+Change %:=(-0.54%)
+Change $:=
+  -0.51
+  
+Avg Volume:=431,887
+Industry:=PAPER &amp;REL PRDS
+
+(ulti)
+Sales:=227.81
+Price/Earnings:=932
+Day Low - High:=55.19 - 56.38
+Market Cap:=1.44 B
+PE (forward):=136.39
+Volume:=Vol.&nbsp; 112,363
+Price/Book:=17.87
+52wk Low - High:=31.38 - 60.43
+EPS TTM:=.06
+Price/Cash Flow:=110.88
+Net Income:=2.23
+EPS Last Year:=0.06
+Price/Sales:=6.11
+Div - Yield:=0.00 - 0.00
+PEG Ratio:=5.85
+Updating Price:=56.38
+Current Year Est.:=.41
+Change %:=(0.82%)
+Change $:=
+  0.46
+  
+Avg Volume:=157,036
+Industry:=COMP-SOFTWARE
+
+(umpq)
+Sales:=564.5
+Price/Earnings:=36.22
+Day Low - High:=11.50 - 11.73
+Market Cap:=1.33 B
+PE (forward):=20.88
+Volume:=Vol.&nbsp; 602,466
+Price/Book:=.8
+52wk Low - High:=10.20 - 13.15
+EPS TTM:=.32
+Price/Cash Flow:=30.96
+Net Income:=33.28
+EPS Last Year:=0.32
+Price/Sales:=2.32
+Div - Yield:=0.20 - 1.73
+PEG Ratio:=1.84
+Updating Price:=11.59
+Current Year Est.:=.56
+Change %:=(N/A%)
+Change $:=
+  N/A
+  
+Avg Volume:=672,615
+Industry:=BANKS-WEST
+
+(uri)
+Sales:=2237
+Price/Earnings:=47.53
+Day Low - High:=22.80 - 23.51
+Market Cap:=1.46 B
+PE (forward):=15.67
+Volume:=Vol.&nbsp; 1,883,954
+Price/Book:=N/A
+52wk Low - High:=10.01 - 34.78
+EPS TTM:=.49
+Price/Cash Flow:=2.86
+Net Income:=-6
+EPS Last Year:=0.49
+Price/Sales:=.64
+Div - Yield:=0.00 - 0.00
+PEG Ratio:=1.31
+Updating Price:=23.01
+Current Year Est.:=1.49
+Change %:=(-1.20%)
+Change $:=
+  -0.28
+  
+Avg Volume:=1,811,822
+Industry:=BLDG&amp;CONST-MISC
+
+(usb)
+Sales:=20518
+Price/Earnings:=13.06
+Day Low - High:=24.45 - 24.82
+Market Cap:=47.57 B
+PE (forward):=11.32
+Volume:=Vol.&nbsp; 11,942,798
+Price/Book:=1.62
+52wk Low - High:=20.44 - 28.94
+EPS TTM:=1.89
+Price/Cash Flow:=12.23
+Net Income:=3694
+EPS Last Year:=1.89
+Price/Sales:=2.3
+Div - Yield:=0.50 - 2.03
+PEG Ratio:=1.81
+Updating Price:=24.74
+Current Year Est.:=2.18
+Change %:=(0.20%)
+Change $:=
+  0.05
+  
+Avg Volume:=10,093,635
+Industry:=BANKS-MAJOR REGIONAL
+
+(uve)
+Sales:=239.92
+Price/Earnings:=5.82
+Day Low - High:=4.66 - 4.71
+Market Cap:=183.55 M
+PE (forward):=
+Volume:=Vol.&nbsp; 62,979
+Price/Book:=1.22
+52wk Low - High:=4.00 - 6.05
+EPS TTM:=.8
+Price/Cash Flow:=5.33
+Net Income:=45.31
+EPS Last Year:=0.80
+Price/Sales:=.7
+Div - Yield:=0.40 - 8.58
+PEG Ratio:=N/A
+Updating Price:=4.68
+Current Year Est.:=N/A
+Change %:=(0.43%)
+Change $:=
+  0.02
+  
+Avg Volume:=185,211
+Industry:=INS-PROP&amp;CASLTY
+
+(uvv)
+Sales:=2571.53
+Price/Earnings:=6.55
+Day Low - High:=36.05 - 36.74
+Market Cap:=849.99 M
+PE (forward):=
+Volume:=Vol.&nbsp; 147,614
+Price/Book:=.87
+52wk Low - High:=35.36 - 45.96
+EPS TTM:=5.59
+Price/Cash Flow:=4.31
+Net Income:=156.57
+EPS Last Year:=5.59
+Price/Sales:=.33
+Div - Yield:=1.92 - 5.25
+PEG Ratio:=N/A
+Updating Price:=36.26
+Current Year Est.:=3.05
+Change %:=(-0.90%)
+Change $:=
+  -0.33
+  
+Avg Volume:=221,325
+Industry:=TOBACCO
+
+(vcbi)
+Sales:=152.52
+Price/Earnings:=10.33
+Day Low - High:=5.99 - 6.03
+Market Cap:=177.57 M
+PE (forward):=10.48
+Volume:=Vol.&nbsp; 67,373
+Price/Book:=.93
+52wk Low - High:=4.62 - 7.46
+EPS TTM:=.58
+Price/Cash Flow:=7.03
+Net Income:=22.04
+EPS Last Year:=0.58
+Price/Sales:=1.16
+Div - Yield:=0.00 - 0.00
+PEG Ratio:=1.05
+Updating Price:=6.01
+Current Year Est.:=.57
+Change %:=(0.33%)
+Change $:=
+  0.02
+  
+Avg Volume:=86,788
+Industry:=BANKS-SOUTHEAST
+
+(vlgea)
+Sales:=1261.82
+Price/Earnings:=14.65
+Day Low - High:=27.15 - 27.41
+Market Cap:=372.73 M
+PE (forward):=
+Volume:=Vol.&nbsp; 11,586
+Price/Book:=1.84
+52wk Low - High:=24.52 - 33.99
+EPS TTM:=1.86
+Price/Cash Flow:=8.63
+Net Income:=21.11
+EPS Last Year:=1.86
+Price/Sales:=.29
+Div - Yield:=0.40 - 1.47
+PEG Ratio:=N/A
+Updating Price:=27.28
+Current Year Est.:=1.5
+Change %:=(0.11%)
+Change $:=
+  0.03
+  
+Avg Volume:=21,548
+Industry:=RETAIL-SUPERMKT
+
+(vphm)
+Sales:=439.01
+Price/Earnings:=11.19
+Day Low - High:=19.01 - 19.47
+Market Cap:=1.47 B
+PE (forward):=16.47
+Volume:=Vol.&nbsp; 707,498
+Price/Book:=1.71
+52wk Low - High:=10.40 - 22.16
+EPS TTM:=1.73
+Price/Cash Flow:=8.91
+Net Income:=140.77
+EPS Last Year:=1.73
+Price/Sales:=3.09
+Div - Yield:=0.00 - 0.00
+PEG Ratio:=1.22
+Updating Price:=19.34
+Current Year Est.:=1.17
+Change %:=(-0.05%)
+Change $:=
+  -0.01
+  
+Avg Volume:=786,768
+Industry:=MED-DRUGS
+
+(vsec)
+Sales:=866.04
+Price/Earnings:=5.34
+Day Low - High:=23.05 - 23.41
+Market Cap:=121.16 M
+PE (forward):=
+Volume:=Vol.&nbsp; 13,558
+Price/Book:=.93
+52wk Low - High:=23.00 - 39.93
+EPS TTM:=4.33
+Price/Cash Flow:=3.68
+Net Income:=22.46
+EPS Last Year:=4.33
+Price/Sales:=.15
+Div - Yield:=0.24 - 1.04
+PEG Ratio:=N/A
+Updating Price:=23.05
+Current Year Est.:=3.56
+Change %:=(-0.39%)
+Change $:=
+  -0.09
+  
+Avg Volume:=29,773
+Industry:=ENGINRG/R&amp;D SVS
+
+(wlk)
+Sales:=3171.79
+Price/Earnings:=11.72
+Day Low - High:=50.24 - 51.40
+Market Cap:=3.37 B
+PE (forward):=11.38
+Volume:=Vol.&nbsp; 288,182
+Price/Book:=2.1
+52wk Low - High:=21.73 - 67.77
+EPS TTM:=4.32
+Price/Cash Flow:=9.51
+Net Income:=287.29
+EPS Last Year:=4.32
+Price/Sales:=1.03
+Div - Yield:=0.25 - 0.50
+PEG Ratio:=1.63
+Updating Price:=51.38
+Current Year Est.:=4.45
+Change %:=(1.46%)
+Change $:=
+  0.74
+  
+Avg Volume:=595,801
+Industry:=CHEM-PLASTICS
+
+(wri)
+Sales:=554.67
+Price/Earnings:=15.02
+Day Low - High:=25.43 - 25.79
+Market Cap:=3.08 B
+PE (forward):=15.24
+Volume:=Vol.&nbsp; 877,806
+Price/Book:=1.57
+52wk Low - High:=19.14 - 26.95
+EPS TTM:=1.7
+Price/Cash Flow:=15.44
+Net Income:=43.19
+EPS Last Year:=1.70
+Price/Sales:=5.58
+Div - Yield:=1.10 - 4.31
+PEG Ratio:=.87
+Updating Price:=25.77
+Current Year Est.:=1.68
+Change %:=(0.90%)
+Change $:=
+  0.23
+  
+Avg Volume:=727,472
+Industry:=REIT-EQTY TRUST - RETAIL
+
+(wsbc)
+Sales:=296.13
+Price/Earnings:=13.53
+Day Low - High:=19.18 - 19.40
+Market Cap:=514.59 M
+PE (forward):=12.5
+Volume:=Vol.&nbsp; 44,942
+Price/Book:=.84
+52wk Low - High:=14.15 - 21.44
+EPS TTM:=1.43
+Price/Cash Flow:=10.43
+Net Income:=37.94
+EPS Last Year:=1.43
+Price/Sales:=1.77
+Div - Yield:=0.60 - 3.10
+PEG Ratio:=2.5
+Updating Price:=19.28
+Current Year Est.:=1.55
+Change %:=(-0.36%)
+Change $:=
+  -0.07
+  
+Avg Volume:=53,577
+Industry:=BANKS-SOUTHEAST
+
+(wso)
+Sales:=2844.59
+Price/Earnings:=25.09
+Day Low - High:=63.43 - 65.15
+Market Cap:=2.12 B
+PE (forward):=20.21
+Volume:=Vol.&nbsp; 455,414
+Price/Book:=2.35
+52wk Low - High:=50.80 - 73.38
+EPS TTM:=2.57
+Price/Cash Flow:=22.82
+Net Income:=84.43
+EPS Last Year:=2.57
+Price/Sales:=.74
+Div - Yield:=2.28 - 3.54
+PEG Ratio:=1.01
+Updating Price:=63.66
+Current Year Est.:=3.19
+Change %:=(-1.27%)
+Change $:=
+  -0.82
+  
+Avg Volume:=172,052
+Industry:=BLDG PRD-AIR/HT
+
+(xec)
+Sales:=1613.68
+Price/Earnings:=13.85
+Day Low - High:=84.49 - 87.74
+Market Cap:=7.15 B
+PE (forward):=12.09
+Volume:=Vol.&nbsp; 817,694
+Price/Book:=2.63
+52wk Low - High:=62.88 - 117.95
+EPS TTM:=6.03
+Price/Cash Flow:=8.3
+Net Income:=488.58
+EPS Last Year:=6.03
+Price/Sales:=4.49
+Div - Yield:=0.40 - 0.48
+PEG Ratio:=.95
+Updating Price:=87.62
+Current Year Est.:=6.91
+Change %:=(4.88%)
+Change $:=
+  4.08
+  
+Avg Volume:=905,881
+Industry:=OIL-US EXP&amp;PROD
+
+(zixi)
+Sales:=33.07
+Price/Earnings:=32.92
+Day Low - High:=3.91 - 3.99
+Market Cap:=262.25 M
+PE (forward):=28.21
+Volume:=Vol.&nbsp; 505,986
+Price/Book:=5.84
+52wk Low - High:=2.13 - 4.88
+EPS TTM:=.12
+Price/Cash Flow:=22.8
+Net Income:=42.9
+EPS Last Year:=0.12
+Price/Sales:=7.27
+Div - Yield:=0.00 - 0.00
+PEG Ratio:=1.13
+Updating Price:=3.98
+Current Year Est.:=.14
+Change %:=(0.76%)
+Change $:=
+  0.03
+  
+Avg Volume:=846,943
+Industry:=INTERNET SERVICES
+
+(zoll)
+Sales:=443.99
+Price/Earnings:=54.5
+Day Low - High:=55.90 - 57.42
+Market Cap:=1.24 B
+PE (forward):=44.59
+Volume:=Vol.&nbsp; 177,184
+Price/Book:=3.68
+52wk Low - High:=23.09 - 61.51
+EPS TTM:=1.04
+Price/Cash Flow:=27.55
+Net Income:=22.88
+EPS Last Year:=1.04
+Price/Sales:=2.66
+Div - Yield:=0.00 - 0.00
+PEG Ratio:=1.15
+Updating Price:=56.73
+Current Year Est.:=1.27
+Change %:=(0.09%)
+Change $:=
+  0.05
+  
+Avg Volume:=162,600
+Industry:=MED PRODUCTS
+

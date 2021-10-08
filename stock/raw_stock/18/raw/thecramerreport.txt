@@ -1,0 +1,10000 @@
+(aa)
+Low:=15.49
+Open:=15.52
+Last Trade Date:=7/15/2011
+Change:=+0.07
+Volume:=1188707
+Last Trade Time:=9:34am
+High:=15.55
+Last Trade Price:=15.53
+
+(aan)
+Low:=27.28
+Open:=27.83
+Last Trade Date:=7/15/2011
+Change:=-0.11
+Volume:=224587
+Last Trade Time:=4:00pm
+High:=27.84
+Last Trade Price:=27.56
+
+(aapl)
+Low:=359.17
+Open:=360.99
+Last Trade Date:=7/15/2011
+Change:=+7.15
+Volume:=17004060
+Last Trade Time:=4:00pm
+High:=365.00
+Last Trade Price:=364.92
+
+(abat)
+Low:=1.08
+Open:=1.11
+Last Trade Date:=7/15/2011
+Change:=+0.08
+Volume:=1178428
+Last Trade Time:=12:39pm
+High:=1.15
+Last Trade Price:=1.15
+
+(abax)
+Low:=28.766
+Open:=28.83
+Last Trade Date:=7/15/2011
+Change:=+0.10
+Volume:=62715
+Last Trade Time:=4:00pm
+High:=29.06
+Last Trade Price:=28.86
+
+(abbc)
+Low:=10.16
+Open:=10.33
+Last Trade Date:=7/15/2011
+Change:=-0.08
+Volume:=31710
+Last Trade Time:=4:00pm
+High:=10.42
+Last Trade Price:=10.24
+
+(abcb)
+Low:=9.15
+Open:=9.15
+Last Trade Date:=7/15/2011
+Change:=+0.09
+Volume:=38981
+Last Trade Time:=4:00pm
+High:=9.29
+Last Trade Price:=9.23
+
+(abg)
+Low:=18.299
+Open:=18.93
+Last Trade Date:=7/15/2011
+Change:=+0.73
+Volume:=378783
+Last Trade Time:=4:02pm
+High:=19.52
+Last Trade Price:=19.52
+
+(abii)
+Low:=N/A
+Open:=N/A
+Last Trade Date:=N/A
+Change:=N/A
+Volume:=N/A
+Last Trade Time:=N/A
+High:=N/A
+Last Trade Price:=0.00
+
+(abmd)
+Low:=16.22
+Open:=16.54
+Last Trade Date:=7/15/2011
+Change:=+0.05
+Volume:=409290
+Last Trade Time:=4:00pm
+High:=16.71
+Last Trade Price:=16.39
+
+(acas)
+Low:=9.71
+Open:=9.89
+Last Trade Date:=7/15/2011
+Change:=-0.03
+Volume:=2673553
+Last Trade Time:=4:00pm
+High:=10.00
+Last Trade Price:=9.81
+
+(acet)
+Low:=6.26
+Open:=6.37
+Last Trade Date:=7/15/2011
+Change:=+0.08
+Volume:=100937
+Last Trade Time:=4:00pm
+High:=6.48
+Last Trade Price:=6.41
+
+(aco)
+Low:=36.66
+Open:=37.15
+Last Trade Date:=7/15/2011
+Change:=+0.40
+Volume:=95773
+Last Trade Time:=4:01pm
+High:=37.64
+Last Trade Price:=37.58
+
+(acom)
+Low:=43.21
+Open:=43.62
+Last Trade Date:=7/15/2011
+Change:=+0.72
+Volume:=624371
+Last Trade Time:=4:00pm
+High:=44.35
+Last Trade Price:=43.94
+
+(actg)
+Low:=36.9601
+Open:=37.19
+Last Trade Date:=7/15/2011
+Change:=+0.59
+Volume:=191464
+Last Trade Time:=4:00pm
+High:=37.89
+Last Trade Price:=37.55
+
+(actl)
+Low:=N/A
+Open:=N/A
+Last Trade Date:=N/A
+Change:=N/A
+Volume:=N/A
+Last Trade Time:=N/A
+High:=N/A
+Last Trade Price:=0.00
+
+(actu)
+Low:=N/A
+Open:=N/A
+Last Trade Date:=N/A
+Change:=N/A
+Volume:=N/A
+Last Trade Time:=N/A
+High:=N/A
+Last Trade Price:=0.00
+
+(acv)
+Low:=N/A
+Open:=N/A
+Last Trade Date:=N/A
+Change:=N/A
+Volume:=N/A
+Last Trade Time:=N/A
+High:=N/A
+Last Trade Price:=0.00
+
+(adbe)
+Low:=29.02
+Open:=29.46
+Last Trade Date:=7/15/2011
+Change:=-0.06
+Volume:=5125658
+Last Trade Time:=4:00pm
+High:=29.57
+Last Trade Price:=29.29
+
+(adct)
+Low:=N/A
+Open:=N/A
+Last Trade Date:=N/A
+Change:=N/A
+Volume:=N/A
+Last Trade Time:=N/A
+High:=N/A
+Last Trade Price:=0.00
+
+(adp)
+Low:=52.715
+Open:=53.50
+Last Trade Date:=7/15/2011
+Change:=-0.18
+Volume:=2632830
+Last Trade Time:=4:00pm
+High:=53.59
+Last Trade Price:=53.11
+
+(adpi)
+Low:=13.15
+Open:=13.15
+Last Trade Date:=7/15/2011
+Change:=+0.09
+Volume:=59367
+Last Trade Time:=4:00pm
+High:=13.30
+Last Trade Price:=13.24
+
+(adpt)
+Low:=N/A
+Open:=N/A
+Last Trade Date:=N/A
+Change:=N/A
+Volume:=N/A
+Last Trade Time:=N/A
+High:=N/A
+Last Trade Price:=0.00
+
+(adsk)
+Low:=N/A
+Open:=N/A
+Last Trade Date:=7/14/2011
+Change:=0.00
+Volume:=0
+Last Trade Time:=4:00pm
+High:=N/A
+Last Trade Price:=36.35
+
+(adtn)
+Low:=34.80
+Open:=35.30
+Last Trade Date:=7/15/2011
+Change:=+0.07
+Volume:=1524298
+Last Trade Time:=4:00pm
+High:=35.81
+Last Trade Price:=35.32
+
+(aec)
+Low:=16.85
+Open:=16.88
+Last Trade Date:=7/15/2011
+Change:=+0.62
+Volume:=563289
+Last Trade Time:=4:00pm
+High:=17.71
+Last Trade Price:=17.48
+
+(aeis)
+Low:=12.31
+Open:=12.64
+Last Trade Date:=7/15/2011
+Change:=-0.15
+Volume:=827419
+Last Trade Time:=4:00pm
+High:=12.95
+Last Trade Price:=12.58
+
+(aet)
+Low:=43.18
+Open:=43.64
+Last Trade Date:=7/15/2011
+Change:=-0.08
+Volume:=4378684
+Last Trade Time:=4:00pm
+High:=43.74
+Last Trade Price:=43.36
+
+(afce)
+Low:=16.35
+Open:=16.56
+Last Trade Date:=7/15/2011
+Change:=+0.28
+Volume:=71182
+Last Trade Time:=4:00pm
+High:=16.70
+Last Trade Price:=16.61
+
+(agam)
+Low:=N/A
+Open:=N/A
+Last Trade Date:=N/A
+Change:=N/A
+Volume:=N/A
+Last Trade Time:=N/A
+High:=N/A
+Last Trade Price:=0.00
+
+(agco)
+Low:=47.91
+Open:=49.06
+Last Trade Date:=7/15/2011
+Change:=-0.35
+Volume:=1620841
+Last Trade Time:=4:00pm
+High:=49.17
+Last Trade Price:=48.38
+
+(agx)
+Low:=9.97
+Open:=10.41
+Last Trade Date:=7/15/2011
+Change:=-0.04
+Volume:=21429
+Last Trade Time:=4:03pm
+High:=10.50
+Last Trade Price:=10.35
+
+(agys)
+Low:=9.37
+Open:=9.66
+Last Trade Date:=7/15/2011
+Change:=-0.23
+Volume:=210057
+Last Trade Time:=4:00pm
+High:=9.69
+Last Trade Price:=9.44
+
+(ahc)
+Low:=7.11
+Open:=7.11
+Last Trade Date:=7/15/2011
+Change:=+0.21
+Volume:=96596
+Last Trade Time:=4:01pm
+High:=7.35
+Last Trade Price:=7.30
+
+(aht)
+Low:=12.16
+Open:=12.27
+Last Trade Date:=7/15/2011
+Change:=+0.15
+Volume:=417172
+Last Trade Time:=4:02pm
+High:=12.42
+Last Trade Price:=12.38
+
+(aig)
+Low:=27.935
+Open:=28.62
+Last Trade Date:=7/15/2011
+Change:=-0.27
+Volume:=5881389
+Last Trade Time:=4:02pm
+High:=28.63
+Last Trade Price:=28.23
+
+(airm)
+Low:=73.07
+Open:=73.50
+Last Trade Date:=7/15/2011
+Change:=-0.05
+Volume:=44071
+Last Trade Time:=4:00pm
+High:=74.10
+Last Trade Price:=73.25
+
+(ajg)
+Low:=27.63
+Open:=28.18
+Last Trade Date:=7/15/2011
+Change:=-0.31
+Volume:=401472
+Last Trade Time:=4:01pm
+High:=28.21
+Last Trade Price:=27.77
+
+(akam)
+Low:=29.46
+Open:=29.89
+Last Trade Date:=7/15/2011
+Change:=+0.23
+Volume:=3499511
+Last Trade Time:=4:00pm
+High:=30.09
+Last Trade Price:=29.85
+
+(alb)
+Low:=67.42
+Open:=68.24
+Last Trade Date:=7/15/2011
+Change:=+0.23
+Volume:=557306
+Last Trade Time:=4:02pm
+High:=68.25
+Last Trade Price:=68.15
+
+(alc)
+Low:=16.05
+Open:=16.37
+Last Trade Date:=7/15/2011
+Change:=-0.05
+Volume:=38979
+Last Trade Time:=4:01pm
+High:=16.37
+Last Trade Price:=16.23
+
+(ale)
+Low:=41.07
+Open:=41.12
+Last Trade Date:=7/15/2011
+Change:=+0.21
+Volume:=158535
+Last Trade Time:=4:03pm
+High:=41.37
+Last Trade Price:=41.30
+
+(alex)
+Low:=48.98
+Open:=49.78
+Last Trade Date:=7/15/2011
+Change:=+0.12
+Volume:=127857
+Last Trade Time:=4:05pm
+High:=49.97
+Last Trade Price:=49.75
+
+(alnc)
+Low:=31.30
+Open:=32.17
+Last Trade Date:=7/15/2011
+Change:=+0.27
+Volume:=17909
+Last Trade Time:=4:00pm
+High:=32.17
+Last Trade Price:=31.93
+
+(alth)
+Low:=2.00
+Open:=2.02
+Last Trade Date:=7/15/2011
+Change:=-0.02
+Volume:=464068
+Last Trade Time:=4:00pm
+High:=2.10
+Last Trade Price:=2.00
+
+(altr)
+Low:=41.94
+Open:=42.78
+Last Trade Date:=7/15/2011
+Change:=-0.01
+Volume:=2781543
+Last Trade Time:=1:22pm
+High:=42.85
+Last Trade Price:=42.57
+
+(alxa)
+Low:=1.63
+Open:=1.70
+Last Trade Date:=7/15/2011
+Change:=-0.03
+Volume:=589311
+Last Trade Time:=3:59pm
+High:=1.75
+Last Trade Price:=1.69
+
+(alxn)
+Low:=51.15
+Open:=51.43
+Last Trade Date:=7/15/2011
+Change:=+1.10
+Volume:=1734751
+Last Trade Time:=4:00pm
+High:=52.47
+Last Trade Price:=52.37
+
+(aly)
+Low:=N/A
+Open:=N/A
+Last Trade Date:=2/23/2011
+Change:=0.00
+Volume:=0
+Last Trade Time:=5:01pm
+High:=N/A
+Last Trade Price:=6.55
+
+(amat)
+Low:=12.1899
+Open:=12.26
+Last Trade Date:=7/15/2011
+Change:=+0.18
+Volume:=19965056
+Last Trade Time:=4:00pm
+High:=12.49
+Last Trade Price:=12.45
+
+(amg)
+Low:=97.70
+Open:=100.50
+Last Trade Date:=7/15/2011
+Change:=+0.35
+Volume:=497473
+Last Trade Time:=4:03pm
+High:=100.50
+Last Trade Price:=100.03
+
+(amgn)
+Low:=54.745
+Open:=55.37
+Last Trade Date:=7/15/2011
+Change:=-0.63
+Volume:=9132850
+Last Trade Time:=4:00pm
+High:=55.42
+Last Trade Price:=55.05
+
+(amn)
+Low:=85.20
+Open:=85.22
+Last Trade Date:=7/15/2011
+Change:=+0.14
+Volume:=262454
+Last Trade Time:=4:02pm
+High:=85.40
+Last Trade Price:=85.35
+
+(amp)
+Low:=53.56
+Open:=55.00
+Last Trade Date:=7/15/2011
+Change:=-0.70
+Volume:=2461872
+Last Trade Time:=4:01pm
+High:=55.07
+Last Trade Price:=54.05
+
+(amph)
+Low:=N/A
+Open:=N/A
+Last Trade Date:=N/A
+Change:=N/A
+Volume:=N/A
+Last Trade Time:=N/A
+High:=N/A
+Last Trade Price:=0.00
+
+(amsg)
+Low:=26.16
+Open:=26.28
+Last Trade Date:=7/15/2011
+Change:=+0.31
+Volume:=117265
+Last Trade Time:=4:00pm
+High:=26.71
+Last Trade Price:=26.54
+
+(amt)
+Low:=52.3905
+Open:=52.53
+Last Trade Date:=7/15/2011
+Change:=+0.91
+Volume:=2261715
+Last Trade Time:=4:02pm
+High:=53.28
+Last Trade Price:=53.23
+
+(amzn)
+Low:=209.29
+Open:=213.08
+Last Trade Date:=7/15/2011
+Change:=+2.49
+Volume:=4025996
+Last Trade Time:=4:00pm
+High:=214.53
+Last Trade Price:=212.87
+
+(anf)
+Low:=72.33
+Open:=73.99
+Last Trade Date:=7/15/2011
+Change:=+0.68
+Volume:=1744784
+Last Trade Time:=4:00pm
+High:=74.11
+Last Trade Price:=74.03
+
+(ango)
+Low:=14.54
+Open:=14.77
+Last Trade Date:=7/15/2011
+Change:=+1.43
+Volume:=649707
+Last Trade Time:=4:00pm
+High:=16.00
+Last Trade Price:=15.44
+
+(anr)
+Low:=44.67
+Open:=44.74
+Last Trade Date:=7/15/2011
+Change:=+0.71
+Volume:=204878
+Last Trade Time:=9:35am
+High:=45.16
+Last Trade Price:=44.98
+
+(anth)
+Low:=7.90
+Open:=7.98
+Last Trade Date:=7/15/2011
+Change:=+0.03
+Volume:=63998
+Last Trade Time:=4:00pm
+High:=8.10
+Last Trade Price:=8.01
+
+(anv)
+Low:=37.56
+Open:=38.10
+Last Trade Date:=7/15/2011
+Change:=+0.62
+Volume:=511436
+Last Trade Time:=4:01pm
+High:=38.78
+Last Trade Price:=38.73
+
+(aoi)
+Low:=3.17
+Open:=3.22
+Last Trade Date:=7/15/2011
+Change:=+0.03
+Volume:=329457
+Last Trade Time:=4:05pm
+High:=3.29
+Last Trade Price:=3.25
+
+(aon)
+Low:=49.58
+Open:=50.46
+Last Trade Date:=7/15/2011
+Change:=-0.40
+Volume:=1799219
+Last Trade Time:=4:02pm
+High:=50.46
+Last Trade Price:=49.86
+
+(apac)
+Low:=8.46
+Open:=8.47
+Last Trade Date:=7/15/2011
+Change:=+0.01
+Volume:=208365
+Last Trade Time:=4:00pm
+High:=8.48
+Last Trade Price:=8.47
+
+(apd)
+Low:=93.37
+Open:=94.29
+Last Trade Date:=7/15/2011
+Change:=+0.35
+Volume:=933855
+Last Trade Time:=4:05pm
+High:=94.37
+Last Trade Price:=94.29
+
+(apkt)
+Low:=64.99
+Open:=66.12
+Last Trade Date:=7/15/2011
+Change:=+0.60
+Volume:=943779
+Last Trade Time:=4:00pm
+High:=66.85
+Last Trade Price:=65.90
+
+(apol)
+Low:=49.01
+Open:=49.50
+Last Trade Date:=7/15/2011
+Change:=+0.48
+Volume:=2181148
+Last Trade Time:=4:00pm
+High:=49.73
+Last Trade Price:=49.62
+
+(apsg)
+Low:=N/A
+Open:=N/A
+Last Trade Date:=N/A
+Change:=N/A
+Volume:=N/A
+Last Trade Time:=4:17pm
+High:=N/A
+Last Trade Price:=0.00
+
+(aray)
+Low:=8.39
+Open:=8.41
+Last Trade Date:=7/15/2011
+Change:=+0.13
+Volume:=292492
+Last Trade Time:=4:00pm
+High:=8.54
+Last Trade Price:=8.53
+
+(arb)
+Low:=39.82
+Open:=40.09
+Last Trade Date:=7/15/2011
+Change:=+0.47
+Volume:=110081
+Last Trade Time:=4:02pm
+High:=40.62
+Last Trade Price:=40.41
+
+(are)
+Low:=79.82
+Open:=80.26
+Last Trade Date:=7/15/2011
+Change:=+1.56
+Volume:=260174
+Last Trade Time:=4:02pm
+High:=81.59
+Last Trade Price:=81.58
+
+(ari)
+Low:=15.85
+Open:=15.91
+Last Trade Date:=7/15/2011
+Change:=+0.01
+Volume:=92436
+Last Trade Time:=4:02pm
+High:=16.00
+Last Trade Price:=15.93
+
+(aria)
+Low:=12.09
+Open:=12.27
+Last Trade Date:=7/15/2011
+Change:=+0.40
+Volume:=3258737
+Last Trade Time:=4:00pm
+High:=12.62
+Last Trade Price:=12.58
+
+(arm)
+Low:=N/A
+Open:=N/A
+Last Trade Date:=N/A
+Change:=N/A
+Volume:=N/A
+Last Trade Time:=N/A
+High:=N/A
+Last Trade Price:=0.00
+
+(aro)
+Low:=17.08
+Open:=17.20
+Last Trade Date:=7/15/2011
+Change:=+0.11
+Volume:=1241441
+Last Trade Time:=3:45pm
+High:=17.30
+Last Trade Price:=17.28
+
+(arow)
+Low:=23.87
+Open:=23.87
+Last Trade Date:=7/15/2011
+Change:=+0.44
+Volume:=21322
+Last Trade Time:=4:00pm
+High:=24.37
+Last Trade Price:=24.26
+
+(artg)
+Low:=N/A
+Open:=N/A
+Last Trade Date:=N/A
+Change:=N/A
+Volume:=N/A
+Last Trade Time:=N/A
+High:=N/A
+Last Trade Price:=0.00
+
+(arw)
+Low:=36.75
+Open:=37.38
+Last Trade Date:=7/15/2011
+Change:=-0.10
+Volume:=1014418
+Last Trade Time:=4:02pm
+High:=37.52
+Last Trade Price:=36.97
+
+(asca)
+Low:=22.58
+Open:=23.03
+Last Trade Date:=7/15/2011
+Change:=-0.14
+Volume:=205189
+Last Trade Time:=4:00pm
+High:=23.03
+Last Trade Price:=22.77
+
+(asfi)
+Low:=7.6583
+Open:=7.78
+Last Trade Date:=7/15/2011
+Change:=-0.05
+Volume:=29904
+Last Trade Time:=3:59pm
+High:=7.80
+Last Trade Price:=7.72
+
+(asgr)
+Low:=N/A
+Open:=N/A
+Last Trade Date:=N/A
+Change:=N/A
+Volume:=N/A
+Last Trade Time:=N/A
+High:=N/A
+Last Trade Price:=0.00
+
+(atac)
+Low:=N/A
+Open:=N/A
+Last Trade Date:=N/A
+Change:=N/A
+Volume:=N/A
+Last Trade Time:=N/A
+High:=N/A
+Last Trade Price:=0.00
+
+(athr)
+Low:=N/A
+Open:=N/A
+Last Trade Date:=N/A
+Change:=N/A
+Volume:=N/A
+Last Trade Time:=N/A
+High:=N/A
+Last Trade Price:=0.00
+
+(atls)
+Low:=22.90
+Open:=23.09
+Last Trade Date:=7/15/2011
+Change:=+0.74
+Volume:=670120
+Last Trade Time:=4:04pm
+High:=24.21
+Last Trade Price:=23.67
+
+(atni)
+Low:=37.11
+Open:=37.11
+Last Trade Date:=7/15/2011
+Change:=+0.94
+Volume:=34394
+Last Trade Time:=4:00pm
+High:=38.09
+Last Trade Price:=38.00
+
+(atpg)
+Low:=15.41
+Open:=15.53
+Last Trade Date:=7/15/2011
+Change:=+0.32
+Volume:=833292
+Last Trade Time:=3:10pm
+High:=15.86
+Last Trade Price:=15.64
+
+(atsg)
+Low:=6.1801
+Open:=6.39
+Last Trade Date:=7/15/2011
+Change:=-0.10
+Volume:=341843
+Last Trade Time:=4:00pm
+High:=6.46
+Last Trade Price:=6.24
+
+(atsi)
+Low:=N/A
+Open:=N/A
+Last Trade Date:=N/A
+Change:=N/A
+Volume:=N/A
+Last Trade Time:=N/A
+High:=N/A
+Last Trade Price:=0.00
+
+(atvi)
+Low:=N/A
+Open:=N/A
+Last Trade Date:=7/14/2011
+Change:=0.00
+Volume:=0
+Last Trade Time:=4:00pm
+High:=N/A
+Last Trade Price:=11.84
+
+(auxl)
+Low:=20.21
+Open:=20.89
+Last Trade Date:=7/15/2011
+Change:=-0.47
+Volume:=516919
+Last Trade Time:=4:00pm
+High:=21.00
+Last Trade Price:=20.37
+
+(avid)
+Low:=19.76
+Open:=20.08
+Last Trade Date:=7/15/2011
+Change:=-0.05
+Volume:=234251
+Last Trade Time:=4:00pm
+High:=20.25
+Last Trade Price:=20.00
+
+(avnw)
+Low:=3.72
+Open:=3.79
+Last Trade Date:=7/15/2011
+Change:=+0.10
+Volume:=350328
+Last Trade Time:=4:00pm
+High:=3.92
+Last Trade Price:=3.83
+
+(avx)
+Low:=13.90
+Open:=14.14
+Last Trade Date:=7/15/2011
+Change:=+0.64
+Volume:=757455
+Last Trade Time:=4:02pm
+High:=14.86
+Last Trade Price:=14.68
+
+(avy)
+Low:=38.06
+Open:=38.36
+Last Trade Date:=7/15/2011
+Change:=+0.23
+Volume:=717718
+Last Trade Time:=4:02pm
+High:=38.45
+Last Trade Price:=38.41
+
+(awi)
+Low:=44.03
+Open:=44.89
+Last Trade Date:=7/15/2011
+Change:=-0.36
+Volume:=207235
+Last Trade Time:=4:00pm
+High:=45.07
+Last Trade Price:=44.26
+
+(awr)
+Low:=34.91
+Open:=35.00
+Last Trade Date:=7/15/2011
+Change:=+0.06
+Volume:=62247
+Last Trade Time:=4:04pm
+High:=35.30
+Last Trade Price:=35.06
+
+(axl)
+Low:=11.24
+Open:=11.41
+Last Trade Date:=7/15/2011
+Change:=+0.13
+Volume:=1511397
+Last Trade Time:=4:02pm
+High:=11.49
+Last Trade Price:=11.48
+
+(axp)
+Low:=N/A
+Open:=N/A
+Last Trade Date:=7/14/2011
+Change:=0.00
+Volume:=0
+Last Trade Time:=4:00pm
+High:=N/A
+Last Trade Price:=51.38
+
+(axs)
+Low:=30.63
+Open:=31.03
+Last Trade Date:=7/15/2011
+Change:=+0.03
+Volume:=999877
+Last Trade Time:=4:02pm
+High:=31.07
+Last Trade Price:=31.03
+
+(azo)
+Low:=294.08
+Open:=298.66
+Last Trade Date:=7/15/2011
+Change:=-0.60
+Volume:=292053
+Last Trade Time:=4:01pm
+High:=298.66
+Last Trade Price:=297.28
+
+(ba)
+Low:=70.85
+Open:=71.70
+Last Trade Date:=7/15/2011
+Change:=+0.08
+Volume:=3821435
+Last Trade Time:=4:00pm
+High:=71.71
+Last Trade Price:=71.27
+
+(bac)
+Low:=9.88
+Open:=10.1201
+Last Trade Date:=7/15/2011
+Change:=-0.06
+Volume:=166572048
+Last Trade Time:=4:00pm
+High:=10.18
+Last Trade Price:=10.01
+
+(bamm)
+Low:=3.04
+Open:=3.08
+Last Trade Date:=7/15/2011
+Change:=0.00
+Volume:=30603
+Last Trade Time:=4:00pm
+High:=3.14
+Last Trade Price:=3.06
+
+(bbbb)
+Low:=44.01
+Open:=44.14
+Last Trade Date:=7/15/2011
+Change:=-0.03
+Volume:=1774913
+Last Trade Time:=4:00pm
+High:=44.18
+Last Trade Price:=44.10
+
+(bbby)
+Low:=N/A
+Open:=N/A
+Last Trade Date:=7/14/2011
+Change:=0.00
+Volume:=0
+Last Trade Time:=4:00pm
+High:=N/A
+Last Trade Price:=58.81
+
+(bbg)
+Low:=44.225
+Open:=44.225
+Last Trade Date:=7/15/2011
+Change:=+1.91
+Volume:=1017622
+Last Trade Time:=12:05pm
+High:=46.015
+Last Trade Price:=45.77
+
+(bbgi)
+Low:=4.04
+Open:=4.07
+Last Trade Date:=7/15/2011
+Change:=0.00
+Volume:=8682
+Last Trade Time:=3:52pm
+High:=4.09
+Last Trade Price:=4.08
+
+(bbw)
+Low:=6.30
+Open:=6.35
+Last Trade Date:=7/15/2011
+Change:=-0.02
+Volume:=64985
+Last Trade Time:=4:00pm
+High:=6.48
+Last Trade Price:=6.31
+
+(bc)
+Low:=18.73
+Open:=18.99
+Last Trade Date:=7/15/2011
+Change:=+0.29
+Volume:=1338427
+Last Trade Time:=4:05pm
+High:=19.19
+Last Trade Price:=19.14
+
+(bcrx)
+Low:=3.87
+Open:=3.90
+Last Trade Date:=7/15/2011
+Change:=+0.03
+Volume:=88076
+Last Trade Time:=4:00pm
+High:=3.93
+Last Trade Price:=3.93
+
+(bcsi)
+Low:=21.23
+Open:=21.38
+Last Trade Date:=7/15/2011
+Change:=+0.40
+Volume:=430073
+Last Trade Time:=4:00pm
+High:=21.70
+Last Trade Price:=21.70
+
+(bdge)
+Low:=20.63
+Open:=20.99
+Last Trade Date:=7/15/2011
+Change:=+0.10
+Volume:=16867
+Last Trade Time:=4:00pm
+High:=21.07
+Last Trade Price:=20.73
+
+(beat)
+Low:=5.075
+Open:=5.10
+Last Trade Date:=7/15/2011
+Change:=-0.01
+Volume:=86807
+Last Trade Time:=4:00pm
+High:=5.20
+Last Trade Price:=5.09
+
+(beav)
+Low:=40.241
+Open:=41.04
+Last Trade Date:=7/15/2011
+Change:=-0.45
+Volume:=224911
+Last Trade Time:=12:22pm
+High:=41.24
+Last Trade Price:=40.42
+
+(belfb)
+Low:=19.37
+Open:=19.50
+Last Trade Date:=7/15/2011
+Change:=-0.29
+Volume:=23695
+Last Trade Time:=4:00pm
+High:=20.43
+Last Trade Price:=19.48
+
+(bez)
+Low:=N/A
+Open:=N/A
+Last Trade Date:=N/A
+Change:=N/A
+Volume:=N/A
+Last Trade Time:=N/A
+High:=N/A
+Last Trade Price:=0.00
+
+(bfs)
+Low:=39.25
+Open:=39.55
+Last Trade Date:=7/15/2011
+Change:=+0.51
+Volume:=22758
+Last Trade Time:=4:03pm
+High:=40.09
+Last Trade Price:=39.96
+
+(bgcp)
+Low:=7.86
+Open:=7.93
+Last Trade Date:=7/15/2011
+Change:=+0.045
+Volume:=142946
+Last Trade Time:=10:20am
+High:=7.99
+Last Trade Price:=7.945
+
+(bgs)
+Low:=20.22
+Open:=20.37
+Last Trade Date:=7/15/2011
+Change:=+0.06
+Volume:=197594
+Last Trade Time:=2:03pm
+High:=20.60
+Last Trade Price:=20.40
+
+(bh)
+Low:=391.82
+Open:=392.49
+Last Trade Date:=7/15/2011
+Change:=+5.23
+Volume:=4217
+Last Trade Time:=4:00pm
+High:=396.48
+Last Trade Price:=396.18
+
+(bidu)
+Low:=143.671
+Open:=145.00
+Last Trade Date:=7/15/2011
+Change:=+6.11
+Volume:=8301721
+Last Trade Time:=4:00pm
+High:=147.24
+Last Trade Price:=146.93
+
+(biib)
+Low:=102.55
+Open:=102.84
+Last Trade Date:=7/15/2011
+Change:=+0.81
+Volume:=1576267
+Last Trade Time:=4:00pm
+High:=104.69
+Last Trade Price:=104.00
+
+(bio)
+Low:=117.79
+Open:=118.77
+Last Trade Date:=7/15/2011
+Change:=+0.03
+Volume:=35426
+Last Trade Time:=4:01pm
+High:=118.77
+Last Trade Price:=118.37
+
+(bj)
+Low:=50.325
+Open:=50.37
+Last Trade Date:=7/15/2011
+Change:=-0.01
+Volume:=1794701
+Last Trade Time:=3:26pm
+High:=50.39
+Last Trade Price:=50.34
+
+(bkmu)
+Low:=3.72
+Open:=3.81
+Last Trade Date:=7/15/2011
+Change:=0.00
+Volume:=97851
+Last Trade Time:=4:00pm
+High:=3.87
+Last Trade Price:=3.79
+
+(bldr)
+Low:=2.23
+Open:=2.23
+Last Trade Date:=7/15/2011
+Change:=+0.03
+Volume:=105762
+Last Trade Time:=4:00pm
+High:=2.28
+Last Trade Price:=2.25
+
+(blk)
+Low:=182.35
+Open:=187.50
+Last Trade Date:=7/15/2011
+Change:=+2.27
+Volume:=745274
+Last Trade Time:=4:01pm
+High:=187.80
+Last Trade Price:=184.54
+
+(bll)
+Low:=38.96
+Open:=39.43
+Last Trade Date:=7/15/2011
+Change:=+0.16
+Volume:=922073
+Last Trade Time:=4:01pm
+High:=39.44
+Last Trade Price:=39.44
+
+(bmc)
+Low:=52.36
+Open:=52.92
+Last Trade Date:=7/15/2011
+Change:=+0.03
+Volume:=1450978
+Last Trade Time:=4:00pm
+High:=53.00
+Last Trade Price:=52.65
+
+(bmi)
+Low:=36.77
+Open:=37.03
+Last Trade Date:=7/15/2011
+Change:=+0.04
+Volume:=51445
+Last Trade Time:=4:02pm
+High:=37.18
+Last Trade Price:=36.91
+
+(bmrn)
+Low:=29.35
+Open:=29.92
+Last Trade Date:=7/15/2011
+Change:=-0.18
+Volume:=1221995
+Last Trade Time:=4:00pm
+High:=29.92
+Last Trade Price:=29.69
+
+(bmtc)
+Low:=20.2714
+Open:=20.73
+Last Trade Date:=7/15/2011
+Change:=-0.27
+Volume:=59362
+Last Trade Time:=4:00pm
+High:=20.75
+Last Trade Price:=20.35
+
+(bokf)
+Low:=53.62
+Open:=54.47
+Last Trade Date:=7/15/2011
+Change:=-0.39
+Volume:=56107
+Last Trade Time:=4:00pm
+High:=54.62
+Last Trade Price:=53.89
+
+(boom)
+Low:=21.72
+Open:=22.03
+Last Trade Date:=7/15/2011
+Change:=+0.25
+Volume:=43965
+Last Trade Time:=4:00pm
+High:=22.40
+Last Trade Price:=22.19
+
+(bpop)
+Low:=2.53
+Open:=2.58
+Last Trade Date:=7/15/2011
+Change:=-0.04
+Volume:=5623830
+Last Trade Time:=4:00pm
+High:=2.61
+Last Trade Price:=2.55
+
+(brc)
+Low:=32.57
+Open:=32.72
+Last Trade Date:=7/15/2011
+Change:=+0.23
+Volume:=193139
+Last Trade Time:=4:00pm
+High:=33.03
+Last Trade Price:=32.76
+
+(brcm)
+Low:=32.64
+Open:=33.11
+Last Trade Date:=7/15/2011
+Change:=+0.39
+Volume:=6572381
+Last Trade Time:=4:00pm
+High:=33.43
+Last Trade Price:=33.27
+
+(bre)
+Low:=51.30
+Open:=51.79
+Last Trade Date:=7/15/2011
+Change:=+0.66
+Volume:=552736
+Last Trade Time:=4:01pm
+High:=52.31
+Last Trade Price:=52.29
+
+(brli)
+Low:=20.04
+Open:=20.61
+Last Trade Date:=7/15/2011
+Change:=-0.35
+Volume:=403551
+Last Trade Time:=4:00pm
+High:=20.71
+Last Trade Price:=20.10
+
+(brs)
+Low:=50.69
+Open:=51.24
+Last Trade Date:=7/15/2011
+Change:=+0.94
+Volume:=302542
+Last Trade Time:=4:03pm
+High:=52.24
+Last Trade Price:=51.99
+
+(bsrr)
+Low:=11.19
+Open:=11.30
+Last Trade Date:=7/15/2011
+Change:=+0.13
+Volume:=19578
+Last Trade Time:=4:00pm
+High:=11.35
+Last Trade Price:=11.35
+
+(bstc)
+Low:=23.76
+Open:=24.11
+Last Trade Date:=7/15/2011
+Change:=+0.16
+Volume:=7239
+Last Trade Time:=4:00pm
+High:=24.30
+Last Trade Price:=24.29
+
+(btn)
+Low:=4.17
+Open:=4.21
+Last Trade Date:=7/15/2011
+Change:=-0.03
+Volume:=255845
+Last Trade Time:=4:00pm
+High:=4.32
+Last Trade Price:=4.21
+
+(buse)
+Low:=5.22
+Open:=5.22
+Last Trade Date:=7/15/2011
+Change:=+0.07
+Volume:=188771
+Last Trade Time:=4:00pm
+High:=5.31
+Last Trade Price:=5.29
+
+(bxg)
+Low:=2.68
+Open:=2.71
+Last Trade Date:=7/15/2011
+Change:=-0.03
+Volume:=43892
+Last Trade Time:=4:03pm
+High:=2.75
+Last Trade Price:=2.68
+
+(bxs)
+Low:=11.90
+Open:=12.13
+Last Trade Date:=7/15/2011
+Change:=-0.13
+Volume:=744030
+Last Trade Time:=4:03pm
+High:=12.13
+Last Trade Price:=11.96
+
+(byi)
+Low:=40.21
+Open:=41.23
+Last Trade Date:=7/15/2011
+Change:=-0.42
+Volume:=326884
+Last Trade Time:=4:02pm
+High:=41.37
+Last Trade Price:=40.53
+
+(bz)
+Low:=7.50
+Open:=7.59
+Last Trade Date:=7/15/2011
+Change:=+0.22
+Volume:=1132297
+Last Trade Time:=4:05pm
+High:=7.74
+Last Trade Price:=7.74
+
+(c)
+Low:=38.12
+Open:=40.14
+Last Trade Date:=7/15/2011
+Change:=-0.64
+Volume:=69471600
+Last Trade Time:=4:01pm
+High:=40.39
+Last Trade Price:=38.38
+
+(ca)
+Low:=21.73
+Open:=22.09
+Last Trade Date:=7/15/2011
+Change:=-0.13
+Volume:=6172555
+Last Trade Time:=4:00pm
+High:=22.22
+Last Trade Price:=21.98
+
+(cag)
+Low:=25.67
+Open:=25.98
+Last Trade Date:=7/15/2011
+Change:=+0.11
+Volume:=13149540
+Last Trade Time:=4:01pm
+High:=26.37
+Last Trade Price:=26.37
+
+(cah)
+Low:=45.82
+Open:=46.41
+Last Trade Date:=7/15/2011
+Change:=+0.10
+Volume:=2715479
+Last Trade Time:=4:07pm
+High:=46.58
+Last Trade Price:=46.28
+
+(cake)
+Low:=32.21
+Open:=33.20
+Last Trade Date:=7/15/2011
+Change:=-0.01
+Volume:=1089647
+Last Trade Time:=4:00pm
+High:=33.20
+Last Trade Price:=32.69
+
+(cap)
+Low:=17.93
+Open:=18.80
+Last Trade Date:=7/15/2011
+Change:=-0.64
+Volume:=182975
+Last Trade Time:=4:01pm
+High:=18.91
+Last Trade Price:=18.06
+
+(cas)
+Low:=17.16
+Open:=17.19
+Last Trade Date:=7/15/2011
+Change:=+0.23
+Volume:=40651
+Last Trade Time:=4:02pm
+High:=17.43
+Last Trade Price:=17.37
+
+(casc)
+Low:=51.50
+Open:=52.62
+Last Trade Date:=7/15/2011
+Change:=+1.19
+Volume:=73399
+Last Trade Time:=4:02pm
+High:=53.62
+Last Trade Price:=53.40
+
+(cat)
+Low:=N/A
+Open:=N/A
+Last Trade Date:=7/14/2011
+Change:=0.00
+Volume:=17824
+Last Trade Time:=4:01pm
+High:=N/A
+Last Trade Price:=107.58
+
+(caty)
+Low:=15.60
+Open:=15.84
+Last Trade Date:=7/15/2011
+Change:=-0.09
+Volume:=271246
+Last Trade Time:=4:00pm
+High:=15.99
+Last Trade Price:=15.69
+
+(cavm)
+Low:=38.88
+Open:=40.17
+Last Trade Date:=7/15/2011
+Change:=+0.04
+Volume:=632643
+Last Trade Time:=4:00pm
+High:=40.41
+Last Trade Price:=39.62
+
+(cb)
+Low:=61.89
+Open:=62.50
+Last Trade Date:=7/15/2011
+Change:=-0.03
+Volume:=1610120
+Last Trade Time:=4:03pm
+High:=62.65
+Last Trade Price:=62.22
+
+(cbb)
+Low:=3.28
+Open:=3.28
+Last Trade Date:=7/15/2011
+Change:=+0.11
+Volume:=1497369
+Last Trade Time:=4:07pm
+High:=3.39
+Last Trade Price:=3.37
+
+(cbg)
+Low:=22.69
+Open:=23.00
+Last Trade Date:=7/15/2011
+Change:=+0.49
+Volume:=5047417
+Last Trade Time:=4:01pm
+High:=23.35
+Last Trade Price:=23.29
+
+(cbr)
+Low:=5.52
+Open:=5.65
+Last Trade Date:=7/15/2011
+Change:=+0.01
+Volume:=281391
+Last Trade Time:=4:03pm
+High:=5.73
+Last Trade Price:=5.66
+
+(cbu)
+Low:=24.61
+Open:=24.85
+Last Trade Date:=7/15/2011
+Change:=-0.05
+Volume:=185720
+Last Trade Time:=4:02pm
+High:=24.93
+Last Trade Price:=24.70
+
+(ccbg)
+Low:=10.24
+Open:=10.31
+Last Trade Date:=7/15/2011
+Change:=-0.03
+Volume:=18136
+Last Trade Time:=4:00pm
+High:=10.46
+Last Trade Price:=10.26
+
+(ccc)
+Low:=16.13
+Open:=16.21
+Last Trade Date:=7/15/2011
+Change:=+0.13
+Volume:=291606
+Last Trade Time:=4:04pm
+High:=16.35
+Last Trade Price:=16.29
+
+(cce)
+Low:=28.00
+Open:=28.30
+Last Trade Date:=7/15/2011
+Change:=+0.01
+Volume:=4637681
+Last Trade Time:=4:04pm
+High:=28.35
+Last Trade Price:=28.17
+
+(ccmp)
+Low:=42.91
+Open:=43.66
+Last Trade Date:=7/15/2011
+Change:=+0.20
+Volume:=153006
+Last Trade Time:=4:00pm
+High:=43.66
+Last Trade Price:=43.37
+
+(ccne)
+Low:=13.61
+Open:=13.88
+Last Trade Date:=7/15/2011
+Change:=-0.09
+Volume:=40181
+Last Trade Time:=4:00pm
+High:=14.16
+Last Trade Price:=13.74
+
+(ccoi)
+Low:=16.55
+Open:=16.66
+Last Trade Date:=7/15/2011
+Change:=+0.03
+Volume:=180685
+Last Trade Time:=4:00pm
+High:=16.80
+Last Trade Price:=16.78
+
+(cdzi)
+Low:=10.91
+Open:=10.98
+Last Trade Date:=7/15/2011
+Change:=+0.03
+Volume:=25337
+Last Trade Time:=4:00pm
+High:=11.01
+Last Trade Price:=11.01
+
+(cec)
+Low:=40.79
+Open:=41.62
+Last Trade Date:=7/15/2011
+Change:=-0.53
+Volume:=163248
+Last Trade Time:=4:00pm
+High:=41.67
+Last Trade Price:=41.02
+
+(ceco)
+Low:=22.88
+Open:=23.00
+Last Trade Date:=7/15/2011
+Change:=+0.15
+Volume:=658984
+Last Trade Time:=4:00pm
+High:=23.18
+Last Trade Price:=23.14
+
+(celg)
+Low:=60.25
+Open:=60.77
+Last Trade Date:=7/15/2011
+Change:=+0.09
+Volume:=1701048
+Last Trade Time:=4:00pm
+High:=61.01
+Last Trade Price:=60.67
+
+(ceph)
+Low:=79.99
+Open:=80.07
+Last Trade Date:=7/15/2011
+Change:=-0.05
+Volume:=2667115
+Last Trade Time:=4:00pm
+High:=80.15
+Last Trade Price:=79.99
+
+(cern)
+Low:=61.56
+Open:=62.39
+Last Trade Date:=7/15/2011
+Change:=+0.10
+Volume:=754056
+Last Trade Time:=4:00pm
+High:=62.90
+Last Trade Price:=61.90
+
+(cers)
+Low:=2.8201
+Open:=2.91
+Last Trade Date:=7/15/2011
+Change:=-0.04
+Volume:=160787
+Last Trade Time:=4:00pm
+High:=2.91
+Last Trade Price:=2.86
+
+(cffn)
+Low:=11.76
+Open:=11.77
+Last Trade Date:=7/15/2011
+Change:=+0.10
+Volume:=1705323
+Last Trade Time:=4:00pm
+High:=11.94
+Last Trade Price:=11.87
+
+(cfnb)
+Low:=16.00
+Open:=16.03
+Last Trade Date:=7/15/2011
+Change:=+0.18
+Volume:=2706
+Last Trade Time:=4:00pm
+High:=16.05
+Last Trade Price:=16.05
+
+(cfnl)
+Low:=11.13
+Open:=11.21
+Last Trade Date:=7/15/2011
+Change:=+0.07
+Volume:=83815
+Last Trade Time:=4:00pm
+High:=11.40
+Last Trade Price:=11.28
+
+(cgc)
+Low:=N/A
+Open:=N/A
+Last Trade Date:=N/A
+Change:=N/A
+Volume:=N/A
+Last Trade Time:=N/A
+High:=N/A
+Last Trade Price:=0.00
+
+(cgx)
+Low:=51.84
+Open:=53.28
+Last Trade Date:=7/15/2011
+Change:=+0.52
+Volume:=42220
+Last Trade Time:=4:04pm
+High:=53.30
+Last Trade Price:=53.30
+
+(chdx)
+Low:=12.30
+Open:=12.34
+Last Trade Date:=7/15/2011
+Change:=+0.24
+Volume:=59902
+Last Trade Time:=4:00pm
+High:=12.80
+Last Trade Price:=12.45
+
+(chg)
+Low:=53.27
+Open:=53.38
+Last Trade Date:=7/15/2011
+Change:=+0.10
+Volume:=38912
+Last Trade Time:=4:06pm
+High:=53.82
+Last Trade Price:=53.50
+
+(chh)
+Low:=32.10
+Open:=32.43
+Last Trade Date:=7/15/2011
+Change:=+0.11
+Volume:=135538
+Last Trade Time:=4:01pm
+High:=32.43
+Last Trade Price:=32.36
+
+(chkp)
+Low:=55.27
+Open:=56.90
+Last Trade Date:=7/15/2011
+Change:=-0.01
+Volume:=2837388
+Last Trade Time:=4:00pm
+High:=56.98
+Last Trade Price:=56.58
+
+(chrs)
+Low:=4.35
+Open:=4.42
+Last Trade Date:=7/15/2011
+Change:=0.00
+Volume:=1083323
+Last Trade Time:=4:00pm
+High:=4.43
+Last Trade Price:=4.41
+
+(chrw)
+Low:=77.78
+Open:=79.02
+Last Trade Date:=7/15/2011
+Change:=-0.36
+Volume:=989341
+Last Trade Time:=4:00pm
+High:=79.16
+Last Trade Price:=78.56
+
+(chs)
+Low:=15.45
+Open:=15.91
+Last Trade Date:=7/15/2011
+Change:=-0.30
+Volume:=3165021
+Last Trade Time:=4:00pm
+High:=15.91
+Last Trade Price:=15.52
+
+(chsp)
+Low:=16.42
+Open:=16.81
+Last Trade Date:=7/15/2011
+Change:=+0.29
+Volume:=127586
+Last Trade Time:=4:03pm
+High:=17.14
+Last Trade Price:=17.11
+
+(cix)
+Low:=13.14
+Open:=13.49
+Last Trade Date:=7/15/2011
+Change:=+0.26
+Volume:=11912
+Last Trade Time:=4:01pm
+High:=13.58
+Last Trade Price:=13.55
+
+(ckh)
+Low:=103.67
+Open:=104.59
+Last Trade Date:=7/15/2011
+Change:=+1.21
+Volume:=91777
+Last Trade Time:=4:04pm
+High:=105.21
+Last Trade Price:=104.95
+
+(ckp)
+Low:=16.87
+Open:=16.97
+Last Trade Date:=7/15/2011
+Change:=+0.17
+Volume:=143784
+Last Trade Time:=4:02pm
+High:=17.09
+Last Trade Price:=17.07
+
+(ckr)
+Low:=N/A
+Open:=N/A
+Last Trade Date:=N/A
+Change:=N/A
+Volume:=N/A
+Last Trade Time:=7:-540pm
+High:=N/A
+Last Trade Price:=0.00
+
+(ckxe)
+Low:=N/A
+Open:=N/A
+Last Trade Date:=N/A
+Change:=N/A
+Volume:=N/A
+Last Trade Time:=N/A
+High:=N/A
+Last Trade Price:=0.00
+
+(clc)
+Low:=46.76
+Open:=46.89
+Last Trade Date:=7/15/2011
+Change:=+0.36
+Volume:=174968
+Last Trade Time:=4:02pm
+High:=47.19
+Last Trade Price:=47.13
+
+(cldt)
+Low:=15.91
+Open:=15.91
+Last Trade Date:=7/15/2011
+Change:=+0.18
+Volume:=32142
+Last Trade Time:=4:00pm
+High:=16.21
+Last Trade Price:=16.10
+
+(clh)
+Low:=106.83
+Open:=107.65
+Last Trade Date:=7/15/2011
+Change:=+1.22
+Volume:=140667
+Last Trade Time:=4:03pm
+High:=108.72
+Last Trade Price:=108.63
+
+(clne)
+Low:=15.62
+Open:=15.87
+Last Trade Date:=7/15/2011
+Change:=+0.66
+Volume:=2616657
+Last Trade Time:=4:00pm
+High:=16.03
+Last Trade Price:=16.00
+
+(clny)
+Low:=17.94
+Open:=17.94
+Last Trade Date:=7/15/2011
+Change:=+0.12
+Volume:=230664
+Last Trade Time:=4:02pm
+High:=18.10
+Last Trade Price:=18.06
+
+(clp)
+Low:=20.85
+Open:=20.91
+Last Trade Date:=7/15/2011
+Change:=+0.23
+Volume:=470799
+Last Trade Time:=4:02pm
+High:=21.257
+Last Trade Price:=21.07
+
+(clr)
+Low:=66.53
+Open:=66.68
+Last Trade Date:=7/15/2011
+Change:=+2.59
+Volume:=93810
+Last Trade Time:=9:35am
+High:=68.20
+Last Trade Price:=68.16
+
+(clrt)
+Low:=N/A
+Open:=N/A
+Last Trade Date:=N/A
+Change:=N/A
+Volume:=N/A
+Last Trade Time:=11:04am
+High:=N/A
+Last Trade Price:=0.00
+
+(clw)
+Low:=66.71
+Open:=66.99
+Last Trade Date:=7/15/2011
+Change:=+0.40
+Volume:=50698
+Last Trade Time:=4:03pm
+High:=67.90
+Last Trade Price:=67.23
+
+(cmcsa)
+Low:=23.935
+Open:=24.39
+Last Trade Date:=7/15/2011
+Change:=-0.295
+Volume:=25169446
+Last Trade Time:=4:00pm
+High:=24.39
+Last Trade Price:=24.13
+
+(cml)
+Low:=N/A
+Open:=N/A
+Last Trade Date:=N/A
+Change:=N/A
+Volume:=N/A
+Last Trade Time:=N/A
+High:=N/A
+Last Trade Price:=0.00
+
+(cmls)
+Low:=3.322
+Open:=3.35
+Last Trade Date:=7/15/2011
+Change:=+0.04
+Volume:=78801
+Last Trade Time:=4:00pm
+High:=3.46
+Last Trade Price:=3.40
+
+(cmn)
+Low:=26.51
+Open:=26.87
+Last Trade Date:=7/15/2011
+Change:=+0.06
+Volume:=44659
+Last Trade Time:=4:04pm
+High:=26.97
+Last Trade Price:=26.85
+
+(cmo)
+Low:=13.11
+Open:=13.17
+Last Trade Date:=7/15/2011
+Change:=+0.02
+Volume:=1042480
+Last Trade Time:=4:03pm
+High:=13.18
+Last Trade Price:=13.16
+
+(cmp)
+Low:=82.55
+Open:=84.17
+Last Trade Date:=7/15/2011
+Change:=+0.36
+Volume:=166260
+Last Trade Time:=4:02pm
+High:=84.32
+Last Trade Price:=84.20
+
+(cmtl)
+Low:=28.55
+Open:=28.78
+Last Trade Date:=7/15/2011
+Change:=+0.03
+Volume:=406071
+Last Trade Time:=4:00pm
+High:=28.90
+Last Trade Price:=28.72
+
+(cnbka)
+Low:=27.65
+Open:=28.00
+Last Trade Date:=7/15/2011
+Change:=+0.06
+Volume:=4729
+Last Trade Time:=4:00pm
+High:=28.00
+Last Trade Price:=27.84
+
+(cnc)
+Low:=35.04
+Open:=35.88
+Last Trade Date:=7/15/2011
+Change:=-0.52
+Volume:=799719
+Last Trade Time:=4:02pm
+High:=36.10
+Last Trade Price:=35.27
+
+(cnk)
+Low:=19.55
+Open:=19.82
+Last Trade Date:=7/15/2011
+Change:=-0.09
+Volume:=729177
+Last Trade Time:=4:02pm
+High:=19.89
+Last Trade Price:=19.72
+
+(cnsl)
+Low:=19.05
+Open:=19.22
+Last Trade Date:=7/15/2011
+Change:=-0.08
+Volume:=139798
+Last Trade Time:=4:00pm
+High:=19.29
+Last Trade Price:=19.12
+
+(cog)
+Low:=66.23
+Open:=66.23
+Last Trade Date:=7/15/2011
+Change:=+5.83
+Volume:=5825485
+Last Trade Time:=4:01pm
+High:=69.78
+Last Trade Price:=68.43
+
+(colb)
+Low:=17.56
+Open:=17.66
+Last Trade Date:=7/15/2011
+Change:=-0.03
+Volume:=610699
+Last Trade Time:=4:00pm
+High:=17.7001
+Last Trade Price:=17.59
+
+(comv)
+Low:=3.08
+Open:=3.25
+Last Trade Date:=7/15/2011
+Change:=+0.06
+Volume:=44117
+Last Trade Time:=4:00pm
+High:=3.25
+Last Trade Price:=3.22
+
+(coo)
+Low:=80.11
+Open:=80.61
+Last Trade Date:=7/15/2011
+Change:=+0.30
+Volume:=286779
+Last Trade Time:=4:02pm
+High:=80.71
+Last Trade Price:=80.58
+
+(cost)
+Low:=N/A
+Open:=N/A
+Last Trade Date:=7/14/2011
+Change:=0.00
+Volume:=100
+Last Trade Time:=4:00pm
+High:=N/A
+Last Trade Price:=80.33
+
+(cov)
+Low:=51.76
+Open:=52.73
+Last Trade Date:=7/15/2011
+Change:=-0.44
+Volume:=2704816
+Last Trade Time:=4:01pm
+High:=52.86
+Last Trade Price:=52.14
+
+(cown)
+Low:=3.805
+Open:=3.85
+Last Trade Date:=7/15/2011
+Change:=+0.14
+Volume:=456847
+Last Trade Time:=4:00pm
+High:=4.03
+Last Trade Price:=4.00
+
+(cpa)
+Low:=67.8001
+Open:=68.95
+Last Trade Date:=7/15/2011
+Change:=+0.30
+Volume:=174622
+Last Trade Time:=4:04pm
+High:=69.46
+Last Trade Price:=68.88
+
+(cpe)
+Low:=6.74
+Open:=6.78
+Last Trade Date:=7/15/2011
+Change:=+0.30
+Volume:=551464
+Last Trade Time:=4:06pm
+High:=7.09
+Last Trade Price:=7.04
+
+(cpn)
+Low:=16.32
+Open:=16.33
+Last Trade Date:=7/15/2011
+Change:=+0.18
+Volume:=3942169
+Last Trade Time:=4:00pm
+High:=16.50
+Last Trade Price:=16.49
+
+(cprt)
+Low:=45.25
+Open:=45.60
+Last Trade Date:=7/15/2011
+Change:=-0.08
+Volume:=261714
+Last Trade Time:=4:00pm
+High:=45.78
+Last Trade Price:=45.53
+
+(cpst)
+Low:=1.48
+Open:=1.55
+Last Trade Date:=7/15/2011
+Change:=0.00
+Volume:=1278068
+Last Trade Time:=4:00pm
+High:=1.57
+Last Trade Price:=1.54
+
+(cpy)
+Low:=12.52
+Open:=12.70
+Last Trade Date:=7/15/2011
+Change:=+0.07
+Volume:=39877
+Last Trade Time:=4:01pm
+High:=13.09
+Last Trade Price:=12.71
+
+(cr)
+Low:=47.62
+Open:=48.28
+Last Trade Date:=7/15/2011
+Change:=+0.20
+Volume:=259601
+Last Trade Time:=4:02pm
+High:=48.47
+Last Trade Price:=48.20
+
+(cra)
+Low:=N/A
+Open:=N/A
+Last Trade Date:=N/A
+Change:=N/A
+Volume:=N/A
+Last Trade Time:=3:31pm
+High:=N/A
+Last Trade Price:=0.00
+
+(crai)
+Low:=26.80
+Open:=27.64
+Last Trade Date:=7/15/2011
+Change:=-0.47
+Volume:=40174
+Last Trade Time:=4:00pm
+High:=27.68
+Last Trade Price:=27.13
+
+(crbc)
+Low:=N/A
+Open:=N/A
+Last Trade Date:=N/A
+Change:=N/A
+Volume:=N/A
+Last Trade Time:=N/A
+High:=N/A
+Last Trade Price:=0.00
+
+(crdn)
+Low:=33.63
+Open:=35.18
+Last Trade Date:=7/15/2011
+Change:=-1.02
+Volume:=340222
+Last Trade Time:=4:00pm
+High:=35.23
+Last Trade Price:=33.99
+
+(cree)
+Low:=30.53
+Open:=30.955
+Last Trade Date:=7/15/2011
+Change:=+0.48
+Volume:=3448849
+Last Trade Time:=4:00pm
+High:=31.17
+Last Trade Price:=31.11
+
+(crmt)
+Low:=35.33
+Open:=35.40
+Last Trade Date:=7/15/2011
+Change:=+1.22
+Volume:=188821
+Last Trade Time:=4:00pm
+High:=36.76
+Last Trade Price:=36.55
+
+(crn)
+Low:=N/A
+Open:=N/A
+Last Trade Date:=N/A
+Change:=N/A
+Volume:=N/A
+Last Trade Time:=N/A
+High:=N/A
+Last Trade Price:=0.00
+
+(crrc)
+Low:=10.99
+Open:=11.18
+Last Trade Date:=7/15/2011
+Change:=+0.18
+Volume:=48875
+Last Trade Time:=4:00pm
+High:=11.50
+Last Trade Price:=11.35
+
+(crs)
+Low:=54.33
+Open:=54.83
+Last Trade Date:=7/15/2011
+Change:=+1.30
+Volume:=577684
+Last Trade Time:=4:02pm
+High:=55.84
+Last Trade Price:=55.79
+
+(csco)
+Low:=15.45
+Open:=15.46
+Last Trade Date:=7/15/2011
+Change:=+0.16
+Volume:=54238076
+Last Trade Time:=4:00pm
+High:=15.70
+Last Trade Price:=15.59
+
+(csgp)
+Low:=56.12
+Open:=57.15
+Last Trade Date:=7/15/2011
+Change:=-0.40
+Volume:=85035
+Last Trade Time:=4:00pm
+High:=57.67
+Last Trade Price:=56.65
+
+(cstr)
+Low:=57.75
+Open:=58.57
+Last Trade Date:=7/15/2011
+Change:=+0.72
+Volume:=884571
+Last Trade Time:=4:00pm
+High:=59.23
+Last Trade Price:=58.80
+
+(csu)
+Low:=8.63
+Open:=8.68
+Last Trade Date:=7/15/2011
+Change:=+0.16
+Volume:=130216
+Last Trade Time:=4:02pm
+High:=9.01
+Last Trade Price:=8.79
+
+(cswc)
+Low:=97.26
+Open:=98.61
+Last Trade Date:=7/15/2011
+Change:=-0.46
+Volume:=4234
+Last Trade Time:=4:00pm
+High:=99.45
+Last Trade Price:=97.26
+
+(ctas)
+Low:=30.88
+Open:=31.32
+Last Trade Date:=7/15/2011
+Change:=-0.16
+Volume:=1090632
+Last Trade Time:=4:00pm
+High:=31.37
+Last Trade Price:=31.06
+
+(ctgx)
+Low:=12.92
+Open:=13.14
+Last Trade Date:=7/15/2011
+Change:=-0.02
+Volume:=39183
+Last Trade Time:=4:00pm
+High:=13.21
+Last Trade Price:=13.10
+
+(ctl)
+Low:=38.28
+Open:=38.60
+Last Trade Date:=7/15/2011
+Change:=-0.12
+Volume:=5288546
+Last Trade Time:=4:04pm
+High:=38.82
+Last Trade Price:=38.42
+
+(ctrp)
+Low:=43.6201
+Open:=44.62
+Last Trade Date:=7/15/2011
+Change:=-0.44
+Volume:=1548403
+Last Trade Time:=4:00pm
+High:=45.27
+Last Trade Price:=44.06
+
+(ctsh)
+Low:=73.11
+Open:=73.84
+Last Trade Date:=7/15/2011
+Change:=+1.08
+Volume:=2250934
+Last Trade Time:=4:00pm
+High:=74.16
+Last Trade Price:=74.06
+
+(ctxs)
+Low:=74.27
+Open:=74.86
+Last Trade Date:=7/15/2011
+Change:=+2.07
+Volume:=2027685
+Last Trade Time:=4:00pm
+High:=76.64
+Last Trade Price:=76.47
+
+(cvo)
+Low:=6.14
+Open:=6.20
+Last Trade Date:=7/15/2011
+Change:=+0.05
+Volume:=175162
+Last Trade Time:=4:04pm
+High:=6.30
+Last Trade Price:=6.19
+
+(cvx)
+Low:=105.14
+Open:=105.68
+Last Trade Date:=7/15/2011
+Change:=+1.52
+Volume:=10124709
+Last Trade Time:=4:00pm
+High:=106.30
+Last Trade Price:=106.19
+
+(cxs)
+Low:=11.07
+Open:=11.07
+Last Trade Date:=7/15/2011
+Change:=+0.14
+Volume:=439820
+Last Trade Time:=4:02pm
+High:=11.25
+Last Trade Price:=11.19
+
+(cyh)
+Low:=25.05
+Open:=25.32
+Last Trade Date:=7/15/2011
+Change:=+0.28
+Volume:=920863
+Last Trade Time:=4:01pm
+High:=25.52
+Last Trade Price:=25.49
+
+(cyn)
+Low:=N/A
+Open:=N/A
+Last Trade Date:=7/14/2011
+Change:=0.00
+Volume:=0
+Last Trade Time:=4:05pm
+High:=N/A
+Last Trade Price:=53.20
+
+(cypb)
+Low:=N/A
+Open:=N/A
+Last Trade Date:=N/A
+Change:=N/A
+Volume:=N/A
+Last Trade Time:=N/A
+High:=N/A
+Last Trade Price:=0.00
+
+(cytk)
+Low:=1.28
+Open:=1.30
+Last Trade Date:=7/15/2011
+Change:=0.00
+Volume:=276914
+Last Trade Time:=3:59pm
+High:=1.37
+Last Trade Price:=1.30
+
+(cytr)
+Low:=0.728
+Open:=0.73
+Last Trade Date:=7/15/2011
+Change:=+0.001
+Volume:=181334
+Last Trade Time:=3:50pm
+High:=0.7594
+Last Trade Price:=0.7307
+
+(dakt)
+Low:=10.35
+Open:=10.56
+Last Trade Date:=7/15/2011
+Change:=+0.03
+Volume:=109858
+Last Trade Time:=4:00pm
+High:=10.62
+Last Trade Price:=10.54
+
+(dal)
+Low:=8.31
+Open:=8.66
+Last Trade Date:=7/15/2011
+Change:=-0.10
+Volume:=12158384
+Last Trade Time:=4:00pm
+High:=8.67
+Last Trade Price:=8.41
+
+(dar)
+Low:=16.80
+Open:=17.25
+Last Trade Date:=7/15/2011
+Change:=+0.53
+Volume:=1212274
+Last Trade Time:=4:03pm
+High:=17.34
+Last Trade Price:=17.33
+
+(dbd)
+Low:=31.01
+Open:=31.50
+Last Trade Date:=7/15/2011
+Change:=-0.03
+Volume:=173899
+Last Trade Time:=4:02pm
+High:=31.53
+Last Trade Price:=31.29
+
+(dbtk)
+Low:=N/A
+Open:=N/A
+Last Trade Date:=N/A
+Change:=N/A
+Volume:=N/A
+Last Trade Time:=6:-230pm
+High:=N/A
+Last Trade Price:=0.00
+
+(dd)
+Low:=53.60
+Open:=54.21
+Last Trade Date:=7/15/2011
+Change:=+0.27
+Volume:=6433532
+Last Trade Time:=4:00pm
+High:=54.21
+Last Trade Price:=54.09
+
+(ddic)
+Low:=9.35
+Open:=9.52
+Last Trade Date:=7/15/2011
+Change:=+0.12
+Volume:=131593
+Last Trade Time:=4:00pm
+High:=9.63
+Last Trade Price:=9.61
+
+(ddmx)
+Low:=N/A
+Open:=N/A
+Last Trade Date:=N/A
+Change:=N/A
+Volume:=N/A
+Last Trade Time:=N/A
+High:=N/A
+Last Trade Price:=0.00
+
+(de)
+Low:=N/A
+Open:=N/A
+Last Trade Date:=7/14/2011
+Change:=0.00
+Volume:=4515
+Last Trade Time:=4:00pm
+High:=N/A
+Last Trade Price:=81.43
+
+(deck)
+Low:=90.42
+Open:=92.77
+Last Trade Date:=7/15/2011
+Change:=+0.96
+Volume:=783967
+Last Trade Time:=4:00pm
+High:=93.39
+Last Trade Price:=93.08
+
+(dei)
+Low:=19.30
+Open:=19.44
+Last Trade Date:=7/15/2011
+Change:=+0.27
+Volume:=1177795
+Last Trade Time:=4:00pm
+High:=19.58
+Last Trade Price:=19.58
+
+(dell)
+Low:=16.66
+Open:=16.70
+Last Trade Date:=7/15/2011
+Change:=+0.28
+Volume:=18970558
+Last Trade Time:=4:00pm
+High:=16.99
+Last Trade Price:=16.97
+
+(dest)
+Low:=18.92
+Open:=19.14
+Last Trade Date:=7/15/2011
+Change:=+0.24
+Volume:=69966
+Last Trade Time:=4:00pm
+High:=19.19
+Last Trade Price:=19.15
+
+(dfz)
+Low:=11.29
+Open:=11.39
+Last Trade Date:=7/15/2011
+Change:=+0.16
+Volume:=27874
+Last Trade Time:=4:00pm
+High:=11.54
+Last Trade Price:=11.54
+
+(dgi)
+Low:=23.79
+Open:=24.74
+Last Trade Date:=7/15/2011
+Change:=-0.57
+Volume:=454478
+Last Trade Time:=4:04pm
+High:=24.84
+Last Trade Price:=24.05
+
+(dhil)
+Low:=82.31
+Open:=83.56
+Last Trade Date:=7/15/2011
+Change:=+1.82
+Volume:=6526
+Last Trade Time:=4:00pm
+High:=84.10
+Last Trade Price:=84.00
+
+(dhr)
+Low:=51.72
+Open:=52.49
+Last Trade Date:=7/15/2011
+Change:=-0.53
+Volume:=1809773
+Last Trade Time:=11:12am
+High:=52.68
+Last Trade Price:=51.95
+
+(dis)
+Low:=38.98
+Open:=39.72
+Last Trade Date:=7/15/2011
+Change:=-0.31
+Volume:=18222868
+Last Trade Time:=4:00pm
+High:=39.82
+Last Trade Price:=39.27
+
+(dk)
+Low:=16.38
+Open:=16.44
+Last Trade Date:=7/15/2011
+Change:=+0.45
+Volume:=210167
+Last Trade Time:=4:01pm
+High:=16.90
+Last Trade Price:=16.76
+
+(dlb)
+Low:=41.271
+Open:=41.69
+Last Trade Date:=7/15/2011
+Change:=+0.72
+Volume:=617117
+Last Trade Time:=4:02pm
+High:=42.23
+Last Trade Price:=42.23
+
+(dllr)
+Low:=21.74
+Open:=22.08
+Last Trade Date:=7/15/2011
+Change:=-0.19
+Volume:=273541
+Last Trade Time:=4:00pm
+High:=22.41
+Last Trade Price:=21.84
+
+(dltr)
+Low:=68.20
+Open:=69.18
+Last Trade Date:=7/15/2011
+Change:=-0.09
+Volume:=812840
+Last Trade Time:=4:00pm
+High:=69.72
+Last Trade Price:=68.83
+
+(dm)
+Low:=N/A
+Open:=N/A
+Last Trade Date:=7/14/2011
+Change:=0.00
+Volume:=0
+Last Trade Time:=4:02pm
+High:=N/A
+Last Trade Price:=8.50
+
+(dmrc)
+Low:=38.21
+Open:=38.21
+Last Trade Date:=7/15/2011
+Change:=+0.51
+Volume:=19375
+Last Trade Time:=4:00pm
+High:=38.8699
+Last Trade Price:=38.62
+
+(dnbk)
+Low:=N/A
+Open:=N/A
+Last Trade Date:=N/A
+Change:=N/A
+Volume:=N/A
+Last Trade Time:=N/A
+High:=N/A
+Last Trade Price:=0.00
+
+(dndn)
+Low:=38.39
+Open:=39.19
+Last Trade Date:=7/15/2011
+Change:=-0.34
+Volume:=1692533
+Last Trade Time:=4:00pm
+High:=39.29
+Last Trade Price:=38.80
+
+(dnr)
+Low:=18.83
+Open:=18.83
+Last Trade Date:=7/15/2011
+Change:=+0.92
+Volume:=4348354
+Last Trade Time:=4:03pm
+High:=19.55
+Last Trade Price:=19.51
+
+(drc)
+Low:=53.07
+Open:=53.30
+Last Trade Date:=7/15/2011
+Change:=+1.74
+Volume:=764200
+Last Trade Time:=4:03pm
+High:=54.72
+Last Trade Price:=54.71
+
+(dri)
+Low:=52.55
+Open:=52.56
+Last Trade Date:=7/15/2011
+Change:=+0.17
+Volume:=1000
+Last Trade Time:=9:30am
+High:=52.62
+Last Trade Price:=52.62
+
+(driv)
+Low:=32.36
+Open:=32.55
+Last Trade Date:=7/15/2011
+Change:=+0.41
+Volume:=279931
+Last Trade Time:=4:00pm
+High:=32.88
+Last Trade Price:=32.83
+
+(drl)
+Low:=1.97
+Open:=2.07
+Last Trade Date:=7/15/2011
+Change:=-0.06
+Volume:=1154126
+Last Trade Time:=4:01pm
+High:=2.12
+Last Trade Price:=1.99
+
+(dtsi)
+Low:=37.84
+Open:=38.25
+Last Trade Date:=7/15/2011
+Change:=-0.01
+Volume:=94691
+Last Trade Time:=4:00pm
+High:=38.40
+Last Trade Price:=38.23
+
+(dtv)
+Low:=51.78
+Open:=52.35
+Last Trade Date:=7/15/2011
+Change:=+0.01
+Volume:=5008710
+Last Trade Time:=4:00pm
+High:=52.36
+Last Trade Price:=52.15
+
+(dva)
+Low:=86.61
+Open:=87.28
+Last Trade Date:=7/15/2011
+Change:=+0.10
+Volume:=457121
+Last Trade Time:=4:01pm
+High:=87.56
+Last Trade Price:=87.10
+
+(dvn)
+Low:=78.66
+Open:=78.99
+Last Trade Date:=7/15/2011
+Change:=+2.58
+Volume:=4200918
+Last Trade Time:=4:00pm
+High:=80.60
+Last Trade Price:=80.46
+
+(dvox)
+Low:=7.11
+Open:=7.11
+Last Trade Date:=7/15/2011
+Change:=+0.06
+Volume:=206562
+Last Trade Time:=4:00pm
+High:=7.27
+Last Trade Price:=7.24
+
+(dw)
+Low:=23.27
+Open:=23.31
+Last Trade Date:=7/15/2011
+Change:=+0.10
+Volume:=88175
+Last Trade Time:=4:01pm
+High:=23.59
+Last Trade Price:=23.50
+
+(dwa)
+Low:=20.64
+Open:=20.85
+Last Trade Date:=7/15/2011
+Change:=+0.05
+Volume:=66997
+Last Trade Time:=10:04am
+High:=20.90
+Last Trade Price:=20.84
+
+(dxpe)
+Low:=26.44
+Open:=26.44
+Last Trade Date:=7/15/2011
+Change:=+0.53
+Volume:=60764
+Last Trade Time:=4:00pm
+High:=27.00
+Last Trade Price:=27.00
+
+(dy)
+Low:=16.73
+Open:=16.73
+Last Trade Date:=7/15/2011
+Change:=+0.57
+Volume:=560604
+Last Trade Time:=4:04pm
+High:=17.29
+Last Trade Price:=17.24
+
+(dyn)
+Low:=6.00
+Open:=6.27
+Last Trade Date:=7/15/2011
+Change:=0.00
+Volume:=3035106
+Last Trade Time:=4:02pm
+High:=6.37
+Last Trade Price:=6.15
+
+(ebay)
+Low:=32.45
+Open:=32.56
+Last Trade Date:=7/15/2011
+Change:=+0.38
+Volume:=7861700
+Last Trade Time:=11:53am
+High:=33.03
+Last Trade Price:=32.57
+
+(ebsb)
+Low:=13.70
+Open:=13.76
+Last Trade Date:=7/15/2011
+Change:=+0.07
+Volume:=11803
+Last Trade Time:=4:00pm
+High:=13.88
+Last Trade Price:=13.77
+
+(ecpg)
+Low:=25.45
+Open:=26.08
+Last Trade Date:=7/15/2011
+Change:=+1.61
+Volume:=241070
+Last Trade Time:=4:00pm
+High:=27.49
+Last Trade Price:=27.48
+
+(edr)
+Low:=8.94
+Open:=8.96
+Last Trade Date:=7/15/2011
+Change:=+0.08
+Volume:=379719
+Last Trade Time:=4:01pm
+High:=9.06
+Last Trade Price:=9.03
+
+(eeft)
+Low:=15.51
+Open:=15.67
+Last Trade Date:=7/15/2011
+Change:=+0.08
+Volume:=352413
+Last Trade Time:=4:00pm
+High:=15.78
+Last Trade Price:=15.70
+
+(egn)
+Low:=57.25
+Open:=57.64
+Last Trade Date:=7/15/2011
+Change:=+2.25
+Volume:=768973
+Last Trade Time:=4:01pm
+High:=59.55
+Last Trade Price:=59.55
+
+(egov)
+Low:=13.11
+Open:=13.37
+Last Trade Date:=7/15/2011
+Change:=-0.02
+Volume:=213056
+Last Trade Time:=4:00pm
+High:=13.37
+Last Trade Price:=13.25
+
+(egy)
+Low:=6.45
+Open:=6.55
+Last Trade Date:=7/15/2011
+Change:=+0.35
+Volume:=557145
+Last Trade Time:=4:01pm
+High:=6.99
+Last Trade Price:=6.68
+
+(ek)
+Low:=2.70
+Open:=2.775
+Last Trade Date:=7/15/2011
+Change:=-0.02
+Volume:=8327581
+Last Trade Time:=4:01pm
+High:=2.78
+Last Trade Price:=2.74
+
+(elos)
+Low:=11.24
+Open:=11.94
+Last Trade Date:=7/15/2011
+Change:=-0.50
+Volume:=1309790
+Last Trade Time:=4:00pm
+High:=12.08
+Last Trade Price:=11.37
+
+(els)
+Low:=64.94
+Open:=65.24
+Last Trade Date:=7/15/2011
+Change:=+0.58
+Volume:=244097
+Last Trade Time:=4:05pm
+High:=65.82
+Last Trade Price:=65.81
+
+(endp)
+Low:=39.35
+Open:=40.09
+Last Trade Date:=7/15/2011
+Change:=-0.10
+Volume:=1636160
+Last Trade Time:=4:00pm
+High:=40.54
+Last Trade Price:=40.27
+
+(enh)
+Low:=40.85
+Open:=40.91
+Last Trade Date:=7/15/2011
+Change:=+0.12
+Volume:=263646
+Last Trade Time:=4:02pm
+High:=41.07
+Last Trade Price:=41.02
+
+(enoc)
+Low:=16.852
+Open:=17.17
+Last Trade Date:=7/15/2011
+Change:=-0.05
+Volume:=159912
+Last Trade Time:=4:00pm
+High:=17.29
+Last Trade Price:=17.07
+
+(ens)
+Low:=35.50
+Open:=35.93
+Last Trade Date:=7/15/2011
+Change:=+0.54
+Volume:=793145
+Last Trade Time:=4:03pm
+High:=36.21
+Last Trade Price:=36.08
+
+(ep)
+Low:=19.68
+Open:=19.68
+Last Trade Date:=7/15/2011
+Change:=+0.81
+Volume:=13044722
+Last Trade Time:=4:00pm
+High:=20.20
+Last Trade Price:=20.13
+
+(epax)
+Low:=8.799
+Open:=8.86
+Last Trade Date:=7/15/2011
+Change:=-0.01
+Volume:=42054
+Last Trade Time:=4:00pm
+High:=8.86
+Last Trade Price:=8.81
+
+(epic)
+Low:=N/A
+Open:=N/A
+Last Trade Date:=N/A
+Change:=N/A
+Volume:=N/A
+Last Trade Time:=N/A
+High:=N/A
+Last Trade Price:=0.00
+
+(epl)
+Low:=15.34
+Open:=15.34
+Last Trade Date:=7/15/2011
+Change:=+1.06
+Volume:=280412
+Last Trade Time:=4:03pm
+High:=16.68
+Last Trade Price:=16.32
+
+(epm)
+Low:=7.20
+Open:=7.29
+Last Trade Date:=7/15/2011
+Change:=+0.19
+Volume:=53857
+Last Trade Time:=4:00pm
+High:=7.49
+Last Trade Price:=7.41
+
+(eqy)
+Low:=19.09
+Open:=19.19
+Last Trade Date:=7/15/2011
+Change:=+0.28
+Volume:=360151
+Last Trade Time:=4:00pm
+High:=19.45
+Last Trade Price:=19.45
+
+(erie)
+Low:=73.11
+Open:=73.72
+Last Trade Date:=7/15/2011
+Change:=+0.24
+Volume:=79870
+Last Trade Time:=4:00pm
+High:=73.90
+Last Trade Price:=73.79
+
+(erts)
+Low:=23.42
+Open:=23.68
+Last Trade Date:=7/15/2011
+Change:=+0.09
+Volume:=10578874
+Last Trade Time:=4:00pm
+High:=23.77
+Last Trade Price:=23.60
+
+(ese)
+Low:=36.05
+Open:=36.22
+Last Trade Date:=7/15/2011
+Change:=+0.38
+Volume:=86582
+Last Trade Time:=4:01pm
+High:=36.52
+Last Trade Price:=36.47
+
+(esgr)
+Low:=106.42
+Open:=106.42
+Last Trade Date:=7/15/2011
+Change:=+0.65
+Volume:=20139
+Last Trade Time:=4:00pm
+High:=108.56
+Last Trade Price:=108.15
+
+(esl)
+Low:=77.53
+Open:=78.69
+Last Trade Date:=7/15/2011
+Change:=-0.38
+Volume:=253220
+Last Trade Time:=4:02pm
+High:=79.12
+Last Trade Price:=78.17
+
+(esrx)
+Low:=52.44
+Open:=52.50
+Last Trade Date:=7/15/2011
+Change:=+0.098
+Volume:=499149
+Last Trade Time:=9:40am
+High:=52.78
+Last Trade Price:=52.568
+
+(ess)
+Low:=138.43
+Open:=139.47
+Last Trade Date:=7/15/2011
+Change:=+1.15
+Volume:=279223
+Last Trade Time:=4:03pm
+High:=140.26
+Last Trade Price:=139.98
+
+(etm)
+Low:=8.03
+Open:=8.43
+Last Trade Date:=7/15/2011
+Change:=-0.18
+Volume:=297939
+Last Trade Time:=4:07pm
+High:=8.50
+Last Trade Price:=8.25
+
+(evr)
+Low:=31.02
+Open:=31.75
+Last Trade Date:=7/15/2011
+Change:=-0.30
+Volume:=250861
+Last Trade Time:=4:03pm
+High:=31.89
+Last Trade Price:=31.28
+
+(exas)
+Low:=8.20
+Open:=8.33
+Last Trade Date:=7/15/2011
+Change:=+0.08
+Volume:=362209
+Last Trade Time:=4:00pm
+High:=8.494
+Last Trade Price:=8.36
+
+(exbd)
+Low:=43.00
+Open:=43.21
+Last Trade Date:=7/15/2011
+Change:=+0.57
+Volume:=151424
+Last Trade Time:=4:04pm
+High:=43.81
+Last Trade Price:=43.44
+
+(exls)
+Low:=21.89
+Open:=22.15
+Last Trade Date:=7/15/2011
+Change:=+0.28
+Volume:=109553
+Last Trade Time:=4:00pm
+High:=22.65
+Last Trade Price:=22.40
+
+(exp)
+Low:=24.19
+Open:=24.63
+Last Trade Date:=7/15/2011
+Change:=-0.16
+Volume:=286241
+Last Trade Time:=4:02pm
+High:=24.69
+Last Trade Price:=24.41
+
+(expd)
+Low:=48.90
+Open:=49.99
+Last Trade Date:=7/15/2011
+Change:=-0.44
+Volume:=1493335
+Last Trade Time:=4:00pm
+High:=50.05
+Last Trade Price:=49.45
+
+(expe)
+Low:=29.92
+Open:=30.33
+Last Trade Date:=7/15/2011
+Change:=+0.05
+Volume:=3568670
+Last Trade Time:=4:00pm
+High:=30.69
+Last Trade Price:=30.26
+
+(exxi)
+Low:=32.97
+Open:=33.61
+Last Trade Date:=7/15/2011
+Change:=+1.51
+Volume:=974310
+Last Trade Time:=4:00pm
+High:=34.58
+Last Trade Price:=34.26
+
+(fast)
+Low:=34.02
+Open:=34.44
+Last Trade Date:=7/15/2011
+Change:=+0.06
+Volume:=1411403
+Last Trade Time:=4:00pm
+High:=34.56
+Last Trade Price:=34.30
+
+(fbn)
+Low:=4.05
+Open:=4.10
+Last Trade Date:=7/15/2011
+Change:=+0.01
+Volume:=200572
+Last Trade Time:=4:04pm
+High:=4.14
+Last Trade Price:=4.10
+
+(fbnc)
+Low:=10.60
+Open:=11.11
+Last Trade Date:=7/15/2011
+Change:=-0.45
+Volume:=154430
+Last Trade Time:=4:00pm
+High:=11.11
+Last Trade Price:=10.64
+
+(fbp)
+Low:=4.35
+Open:=4.39
+Last Trade Date:=7/15/2011
+Change:=-0.03
+Volume:=70880
+Last Trade Time:=4:03pm
+High:=4.52
+Last Trade Price:=4.35
+
+(fcel)
+Low:=1.26
+Open:=1.32
+Last Trade Date:=7/15/2011
+Change:=-0.02
+Volume:=2207209
+Last Trade Time:=4:00pm
+High:=1.34
+Last Trade Price:=1.30
+
+(fcnca)
+Low:=183.4335
+Open:=185.00
+Last Trade Date:=7/15/2011
+Change:=-0.34
+Volume:=14968
+Last Trade Time:=4:00pm
+High:=185.89
+Last Trade Price:=183.79
+
+(fcs)
+Low:=16.05
+Open:=16.64
+Last Trade Date:=7/15/2011
+Change:=-0.09
+Volume:=3182815
+Last Trade Time:=4:05pm
+High:=16.70
+Last Trade Price:=16.50
+
+(fcx)
+Low:=54.57
+Open:=54.76
+Last Trade Date:=7/15/2011
+Change:=+1.09
+Volume:=13684073
+Last Trade Time:=4:01pm
+High:=55.40
+Last Trade Price:=55.34
+
+(fdx)
+Low:=91.26
+Open:=92.97
+Last Trade Date:=7/15/2011
+Change:=-0.86
+Volume:=3206740
+Last Trade Time:=4:00pm
+High:=93.2793
+Last Trade Price:=92.20
+
+(feic)
+Low:=35.62
+Open:=36.17
+Last Trade Date:=7/15/2011
+Change:=+0.26
+Volume:=254821
+Last Trade Time:=4:00pm
+High:=36.42
+Last Trade Price:=36.31
+
+(ffic)
+Low:=12.715
+Open:=12.83
+Last Trade Date:=7/15/2011
+Change:=-0.05
+Volume:=65896
+Last Trade Time:=4:00pm
+High:=12.93
+Last Trade Price:=12.77
+
+(ffiv)
+Low:=110.66
+Open:=112.85
+Last Trade Date:=7/15/2011
+Change:=+2.98
+Volume:=1794308
+Last Trade Time:=4:00pm
+High:=113.99
+Last Trade Price:=113.94
+
+(fisv)
+Low:=61.27
+Open:=62.20
+Last Trade Date:=7/15/2011
+Change:=-0.62
+Volume:=916902
+Last Trade Time:=4:00pm
+High:=62.91
+Last Trade Price:=61.37
+
+(flex)
+Low:=6.12
+Open:=6.26
+Last Trade Date:=7/15/2011
+Change:=-0.13
+Volume:=4642539
+Last Trade Time:=4:00pm
+High:=6.35
+Last Trade Price:=6.14
+
+(flir)
+Low:=27.90
+Open:=28.23
+Last Trade Date:=7/15/2011
+Change:=-3.19
+Volume:=7156802
+Last Trade Time:=4:00pm
+High:=28.99
+Last Trade Price:=28.92
+
+(flo)
+Low:=22.55
+Open:=22.76
+Last Trade Date:=7/15/2011
+Change:=+0.23
+Volume:=734155
+Last Trade Time:=4:00pm
+High:=23.00
+Last Trade Price:=22.96
+
+(flr)
+Low:=63.91
+Open:=64.61
+Last Trade Date:=7/15/2011
+Change:=+0.86
+Volume:=1600531
+Last Trade Time:=4:00pm
+High:=65.39
+Last Trade Price:=65.15
+
+(fls)
+Low:=102.00
+Open:=102.40
+Last Trade Date:=7/15/2011
+Change:=+3.80
+Volume:=914994
+Last Trade Time:=4:03pm
+High:=105.35
+Last Trade Price:=105.33
+
+(flws)
+Low:=3.01
+Open:=3.17
+Last Trade Date:=7/15/2011
+Change:=-0.06
+Volume:=98242
+Last Trade Time:=4:00pm
+High:=3.17
+Last Trade Price:=3.11
+
+(fmbi)
+Low:=11.95
+Open:=12.11
+Last Trade Date:=7/15/2011
+Change:=-0.05
+Volume:=291717
+Last Trade Time:=4:00pm
+High:=12.19
+Last Trade Price:=12.00
+
+(fmc)
+Low:=86.37
+Open:=86.95
+Last Trade Date:=7/15/2011
+Change:=+0.81
+Volume:=434884
+Last Trade Time:=4:01pm
+High:=87.48
+Last Trade Price:=87.42
+
+(fmd)
+Low:=1.60
+Open:=1.61
+Last Trade Date:=7/15/2011
+Change:=-0.01
+Volume:=157862
+Last Trade Time:=4:02pm
+High:=1.69
+Last Trade Price:=1.67
+
+(fnsr)
+Low:=16.76
+Open:=17.21
+Last Trade Date:=7/15/2011
+Change:=+0.39
+Volume:=4290033
+Last Trade Time:=4:00pm
+High:=17.3596
+Last Trade Price:=17.17
+
+(fosl)
+Low:=N/A
+Open:=N/A
+Last Trade Date:=7/14/2011
+Change:=0.00
+Volume:=275
+Last Trade Time:=4:00pm
+High:=N/A
+Last Trade Price:=128.03
+
+(frx)
+Low:=38.26
+Open:=38.91
+Last Trade Date:=7/15/2011
+Change:=-0.33
+Volume:=3055506
+Last Trade Time:=4:04pm
+High:=38.94
+Last Trade Price:=38.46
+
+(fsii)
+Low:=2.80
+Open:=2.85
+Last Trade Date:=7/15/2011
+Change:=+0.18
+Volume:=564500
+Last Trade Time:=4:00pm
+High:=3.04
+Last Trade Price:=3.00
+
+(fslr)
+Low:=122.35
+Open:=123.06
+Last Trade Date:=7/15/2011
+Change:=+1.45
+Volume:=1132482
+Last Trade Time:=4:00pm
+High:=125.06
+Last Trade Price:=124.64
+
+(fsp)
+Low:=12.88
+Open:=12.92
+Last Trade Date:=7/15/2011
+Change:=+0.09
+Volume:=250890
+Last Trade Time:=4:00pm
+High:=13.05
+Last Trade Price:=13.00
+
+(fst)
+Low:=23.40
+Open:=24.13
+Last Trade Date:=7/15/2011
+Change:=+2.00
+Volume:=10673216
+Last Trade Time:=4:00pm
+High:=25.06
+Last Trade Price:=24.93
+
+(fsys)
+Low:=23.72
+Open:=23.97
+Last Trade Date:=7/15/2011
+Change:=+0.26
+Volume:=199635
+Last Trade Time:=4:00pm
+High:=24.40
+Last Trade Price:=24.06
+
+(fto)
+Low:=N/A
+Open:=N/A
+Last Trade Date:=N/A
+Change:=N/A
+Volume:=N/A
+Last Trade Time:=N/A
+High:=N/A
+Last Trade Price:=0.00
+
+(ftr)
+Low:=7.70
+Open:=7.86
+Last Trade Date:=7/15/2011
+Change:=-0.11
+Volume:=11271623
+Last Trade Time:=4:01pm
+High:=7.86
+Last Trade Price:=7.71
+
+(fwrd)
+Low:=33.61
+Open:=34.09
+Last Trade Date:=7/15/2011
+Change:=-0.15
+Volume:=131060
+Last Trade Time:=4:00pm
+High:=34.13
+Last Trade Price:=33.81
+
+(g)
+Low:=17.52
+Open:=17.72
+Last Trade Date:=7/15/2011
+Change:=+0.05
+Volume:=282338
+Last Trade Time:=4:01pm
+High:=17.7762
+Last Trade Price:=17.65
+
+(gain)
+Low:=7.37
+Open:=7.41
+Last Trade Date:=7/15/2011
+Change:=+0.05
+Volume:=55134
+Last Trade Time:=4:00pm
+High:=7.53
+Last Trade Price:=7.41
+
+(gbdc)
+Low:=15.36
+Open:=15.50
+Last Trade Date:=7/15/2011
+Change:=+0.06
+Volume:=63577
+Last Trade Time:=4:00pm
+High:=15.75
+Last Trade Price:=15.45
+
+(gbl)
+Low:=48.17
+Open:=48.24
+Last Trade Date:=7/15/2011
+Change:=+0.30
+Volume:=12914
+Last Trade Time:=4:03pm
+High:=48.82
+Last Trade Price:=48.54
+
+(gd)
+Low:=N/A
+Open:=N/A
+Last Trade Date:=7/14/2011
+Change:=0.00
+Volume:=0
+Last Trade Time:=4:02pm
+High:=N/A
+Last Trade Price:=71.37
+
+(ge)
+Low:=18.29
+Open:=18.55
+Last Trade Date:=7/15/2011
+Change:=-0.12
+Volume:=49992432
+Last Trade Time:=4:00pm
+High:=18.68
+Last Trade Price:=18.41
+
+(gef)
+Low:=63.75
+Open:=64.38
+Last Trade Date:=7/15/2011
+Change:=+0.44
+Volume:=130527
+Last Trade Time:=4:05pm
+High:=64.98
+Last Trade Price:=64.80
+
+(geoi)
+Low:=26.36
+Open:=26.75
+Last Trade Date:=7/15/2011
+Change:=+1.46
+Volume:=612115
+Last Trade Time:=4:00pm
+High:=27.67
+Last Trade Price:=27.61
+
+(get)
+Low:=30.25
+Open:=30.44
+Last Trade Date:=7/15/2011
+Change:=+0.69
+Volume:=518365
+Last Trade Time:=4:03pm
+High:=31.13
+Last Trade Price:=31.02
+
+(ggp)
+Low:=16.21
+Open:=16.21
+Last Trade Date:=7/15/2011
+Change:=+0.15
+Volume:=392692
+Last Trade Time:=11:02am
+High:=16.41
+Last Trade Price:=16.35
+
+(ggs)
+Low:=16.82
+Open:=16.96
+Last Trade Date:=7/15/2011
+Change:=+0.07
+Volume:=115293
+Last Trade Time:=4:03pm
+High:=17.31
+Last Trade Price:=16.99
+
+(gild)
+Low:=40.705
+Open:=41.27
+Last Trade Date:=7/15/2011
+Change:=-0.27
+Volume:=5962270
+Last Trade Time:=4:00pm
+High:=41.36
+Last Trade Price:=41.00
+
+(gksr)
+Low:=32.69
+Open:=33.51
+Last Trade Date:=7/15/2011
+Change:=-0.45
+Volume:=87031
+Last Trade Time:=4:00pm
+High:=33.70
+Last Trade Price:=32.95
+
+(glad)
+Low:=9.50
+Open:=9.55
+Last Trade Date:=7/15/2011
+Change:=+0.03
+Volume:=77899
+Last Trade Time:=4:00pm
+High:=9.66
+Last Trade Price:=9.53
+
+(glng)
+Low:=37.79
+Open:=38.07
+Last Trade Date:=7/15/2011
+Change:=+0.38
+Volume:=540006
+Last Trade Time:=4:00pm
+High:=38.45
+Last Trade Price:=38.26
+
+(gmcr)
+Low:=87.31
+Open:=88.62
+Last Trade Date:=7/15/2011
+Change:=+1.75
+Volume:=1265167
+Last Trade Time:=4:00pm
+High:=90.09
+Last Trade Price:=90.06
+
+(gmt)
+Low:=36.16
+Open:=36.85
+Last Trade Date:=7/15/2011
+Change:=+0.02
+Volume:=139970
+Last Trade Time:=4:03pm
+High:=36.85
+Last Trade Price:=36.70
+
+(gntx)
+Low:=30.02
+Open:=30.54
+Last Trade Date:=7/15/2011
+Change:=-0.45
+Volume:=158220
+Last Trade Time:=1:25pm
+High:=30.7699
+Last Trade Price:=30.16
+
+(goog)
+Low:=588.1601
+Open:=597.87
+Last Trade Date:=7/15/2011
+Change:=+68.68
+Volume:=13635738
+Last Trade Time:=4:00pm
+High:=600.25
+Last Trade Price:=597.62
+
+(gps)
+Low:=18.71
+Open:=18.85
+Last Trade Date:=7/15/2011
+Change:=+0.10
+Volume:=5030005
+Last Trade Time:=4:00pm
+High:=19.03
+Last Trade Price:=18.91
+
+(grb)
+Low:=11.07
+Open:=11.17
+Last Trade Date:=7/15/2011
+Change:=-0.01
+Volume:=119109
+Last Trade Time:=4:00pm
+High:=11.1798
+Last Trade Price:=11.10
+
+(grmn)
+Low:=N/A
+Open:=N/A
+Last Trade Date:=7/14/2011
+Change:=0.00
+Volume:=0
+Last Trade Time:=4:00pm
+High:=N/A
+Last Trade Price:=32.45
+
+(gsat)
+Low:=1.13
+Open:=1.16
+Last Trade Date:=7/15/2011
+Change:=0.00
+Volume:=296688
+Last Trade Time:=4:00pm
+High:=1.17
+Last Trade Price:=1.15
+
+(gsbc)
+Low:=19.39
+Open:=19.51
+Last Trade Date:=7/15/2011
+Change:=0.00
+Volume:=20532
+Last Trade Time:=4:00pm
+High:=19.77
+Last Trade Price:=19.48
+
+(gsm)
+Low:=24.05
+Open:=24.62
+Last Trade Date:=7/15/2011
+Change:=-0.11
+Volume:=702358
+Last Trade Time:=4:00pm
+High:=24.92
+Last Trade Price:=24.26
+
+(gti)
+Low:=20.62
+Open:=20.94
+Last Trade Date:=7/15/2011
+Change:=+0.11
+Volume:=467927
+Last Trade Time:=4:02pm
+High:=21.01
+Last Trade Price:=20.93
+
+(gty)
+Low:=25.6246
+Open:=25.74
+Last Trade Date:=7/15/2011
+Change:=+0.37
+Volume:=126845
+Last Trade Time:=4:04pm
+High:=26.10
+Last Trade Price:=26.06
+
+(gymb)
+Low:=N/A
+Open:=N/A
+Last Trade Date:=N/A
+Change:=N/A
+Volume:=N/A
+Last Trade Time:=N/A
+High:=N/A
+Last Trade Price:=0.00
+
+(hafc)
+Low:=1.16
+Open:=1.17
+Last Trade Date:=7/15/2011
+Change:=+0.02
+Volume:=636931
+Last Trade Time:=4:00pm
+High:=1.22
+Last Trade Price:=1.20
+
+(hal)
+Low:=52.315
+Open:=52.34
+Last Trade Date:=7/15/2011
+Change:=+1.17
+Volume:=11288877
+Last Trade Time:=3:49pm
+High:=53.20
+Last Trade Price:=53.00
+
+(halo)
+Low:=6.86
+Open:=7.08
+Last Trade Date:=7/15/2011
+Change:=+0.07
+Volume:=318280
+Last Trade Time:=4:00pm
+High:=7.19
+Last Trade Price:=7.13
+
+(hans)
+Low:=77.80
+Open:=78.12
+Last Trade Date:=7/15/2011
+Change:=+0.05
+Volume:=866346
+Last Trade Time:=4:00pm
+High:=78.71
+Last Trade Price:=78.29
+
+(hbcp)
+Low:=14.30
+Open:=14.36
+Last Trade Date:=7/15/2011
+Change:=-0.02
+Volume:=63168
+Last Trade Time:=3:52pm
+High:=14.41
+Last Trade Price:=14.37
+
+(hckt)
+Low:=4.86
+Open:=4.92
+Last Trade Date:=7/15/2011
+Change:=-0.01
+Volume:=66467
+Last Trade Time:=4:00pm
+High:=5.03
+Last Trade Price:=4.89
+
+(hcp)
+Low:=36.97
+Open:=37.21
+Last Trade Date:=7/15/2011
+Change:=+0.42
+Volume:=1980073
+Last Trade Time:=4:00pm
+High:=37.51
+Last Trade Price:=37.46
+
+(hd)
+Low:=35.49
+Open:=36.09
+Last Trade Date:=7/15/2011
+Change:=-0.27
+Volume:=5924130
+Last Trade Time:=1:34pm
+High:=36.09
+Last Trade Price:=35.69
+
+(he)
+Low:=24.00
+Open:=24.15
+Last Trade Date:=7/15/2011
+Change:=-0.05
+Volume:=198223
+Last Trade Time:=4:02pm
+High:=24.23
+Last Trade Price:=24.11
+
+(hees)
+Low:=12.36
+Open:=13.02
+Last Trade Date:=7/15/2011
+Change:=-0.26
+Volume:=144840
+Last Trade Time:=4:00pm
+High:=13.03
+Last Trade Price:=12.69
+
+(hele)
+Low:=33.46
+Open:=33.62
+Last Trade Date:=7/15/2011
+Change:=+0.29
+Volume:=149078
+Last Trade Time:=4:00pm
+High:=34.00
+Last Trade Price:=33.77
+
+(hgr)
+Low:=24.44
+Open:=24.85
+Last Trade Date:=7/15/2011
+Change:=-0.03
+Volume:=141363
+Last Trade Time:=4:00pm
+High:=25.05
+Last Trade Price:=24.78
+
+(hgsi)
+Low:=22.71
+Open:=23.40
+Last Trade Date:=7/15/2011
+Change:=-0.12
+Volume:=3145868
+Last Trade Time:=4:00pm
+High:=23.47
+Last Trade Price:=23.20
+
+(hhgp)
+Low:=5.54
+Open:=5.61
+Last Trade Date:=7/15/2011
+Change:=+0.18
+Volume:=78043
+Last Trade Time:=4:00pm
+High:=5.80
+Last Trade Price:=5.77
+
+(hibb)
+Low:=40.44
+Open:=41.32
+Last Trade Date:=7/15/2011
+Change:=-0.02
+Volume:=284393
+Last Trade Time:=4:00pm
+High:=41.58
+Last Trade Price:=41.01
+
+(hig)
+Low:=24.17
+Open:=25.06
+Last Trade Date:=7/15/2011
+Change:=-0.50
+Volume:=7638589
+Last Trade Time:=4:00pm
+High:=25.07
+Last Trade Price:=24.38
+
+(hk)
+Low:=38.16
+Open:=38.36
+Last Trade Date:=7/15/2011
+Change:=+14.68
+Volume:=312044256
+Last Trade Time:=4:00pm
+High:=38.37
+Last Trade Price:=38.17
+
+(hls)
+Low:=24.06
+Open:=24.95
+Last Trade Date:=7/15/2011
+Change:=-0.53
+Volume:=1502797
+Last Trade Time:=4:08pm
+High:=25.079
+Last Trade Price:=24.30
+
+(hma)
+Low:=10.20
+Open:=10.39
+Last Trade Date:=7/15/2011
+Change:=+0.11
+Volume:=1939927
+Last Trade Time:=4:03pm
+High:=10.45
+Last Trade Price:=10.44
+
+(hme)
+Low:=63.40
+Open:=63.49
+Last Trade Date:=7/15/2011
+Change:=+0.96
+Volume:=420331
+Last Trade Time:=4:03pm
+High:=64.44
+Last Trade Price:=64.41
+
+(hmsy)
+Low:=76.41
+Open:=77.38
+Last Trade Date:=7/15/2011
+Change:=-0.48
+Volume:=136042
+Last Trade Time:=4:00pm
+High:=77.78
+Last Trade Price:=76.90
+
+(hog)
+Low:=41.386
+Open:=42.01
+Last Trade Date:=7/15/2011
+Change:=-0.16
+Volume:=858251
+Last Trade Time:=11:19am
+High:=42.12
+Last Trade Price:=41.64
+
+(hott)
+Low:=7.89
+Open:=8.05
+Last Trade Date:=7/15/2011
+Change:=+0.03
+Volume:=302431
+Last Trade Time:=11:33am
+High:=8.11
+Last Trade Price:=7.99
+
+(hp)
+Low:=67.42
+Open:=67.60
+Last Trade Date:=7/15/2011
+Change:=+1.61
+Volume:=520970
+Last Trade Time:=10:42am
+High:=68.84
+Last Trade Price:=68.59
+
+(hpq)
+Low:=34.97
+Open:=35.28
+Last Trade Date:=7/15/2011
+Change:=-0.04
+Volume:=15085479
+Last Trade Time:=4:00pm
+High:=35.39
+Last Trade Price:=35.09
+
+(hpt)
+Low:=24.31
+Open:=24.53
+Last Trade Date:=7/15/2011
+Change:=+0.34
+Volume:=1026339
+Last Trade Time:=4:01pm
+High:=24.86
+Last Trade Price:=24.84
+
+(hpy)
+Low:=20.11
+Open:=20.15
+Last Trade Date:=7/15/2011
+Change:=+0.16
+Volume:=110080
+Last Trade Time:=12:18pm
+High:=20.45
+Last Trade Price:=20.29
+
+(hrg)
+Low:=5.70
+Open:=5.82
+Last Trade Date:=7/15/2011
+Change:=-0.08
+Volume:=25335
+Last Trade Time:=4:02pm
+High:=5.82
+Last Trade Price:=5.73
+
+(hrs)
+Low:=42.11
+Open:=42.58
+Last Trade Date:=7/15/2011
+Change:=+0.16
+Volume:=870601
+Last Trade Time:=4:01pm
+High:=42.62
+Last Trade Price:=42.52
+
+(hrz)
+Low:=1.13
+Open:=1.14
+Last Trade Date:=7/15/2011
+Change:=-0.05
+Volume:=364697
+Last Trade Time:=4:01pm
+High:=1.19
+Last Trade Price:=1.13
+
+(hsic)
+Low:=72.46
+Open:=73.06
+Last Trade Date:=7/15/2011
+Change:=+0.16
+Volume:=294907
+Last Trade Time:=4:00pm
+High:=73.13
+Last Trade Price:=73.13
+
+(hsp)
+Low:=52.1201
+Open:=52.82
+Last Trade Date:=7/15/2011
+Change:=+0.78
+Volume:=1817692
+Last Trade Time:=4:01pm
+High:=53.47
+Last Trade Price:=53.46
+
+(ht)
+Low:=5.51
+Open:=5.59
+Last Trade Date:=7/15/2011
+Change:=-0.03
+Volume:=802200
+Last Trade Time:=4:03pm
+High:=5.63
+Last Trade Price:=5.53
+
+(htgc)
+Low:=10.30
+Open:=10.43
+Last Trade Date:=7/15/2011
+Change:=-0.09
+Volume:=155576
+Last Trade Time:=4:00pm
+High:=10.53
+Last Trade Price:=10.33
+
+(hts)
+Low:=28.26
+Open:=28.29
+Last Trade Date:=7/15/2011
+Change:=+0.13
+Volume:=939552
+Last Trade Time:=4:01pm
+High:=28.53
+Last Trade Price:=28.44
+
+(hurn)
+Low:=29.33
+Open:=29.33
+Last Trade Date:=7/15/2011
+Change:=+0.30
+Volume:=137320
+Last Trade Time:=4:00pm
+High:=30.23
+Last Trade Price:=29.60
+
+(hwkn)
+Low:=36.03
+Open:=36.68
+Last Trade Date:=7/15/2011
+Change:=+0.63
+Volume:=45138
+Last Trade Time:=4:00pm
+High:=36.99
+Last Trade Price:=36.83
+
+(iaci)
+Low:=36.67
+Open:=37.25
+Last Trade Date:=7/15/2011
+Change:=-0.21
+Volume:=1149506
+Last Trade Time:=4:00pm
+High:=37.64
+Last Trade Price:=36.88
+
+(ibm)
+Low:=174.07
+Open:=175.00
+Last Trade Date:=7/15/2011
+Change:=+1.31
+Volume:=5226764
+Last Trade Time:=4:00pm
+High:=175.94
+Last Trade Price:=175.54
+
+(iboc)
+Low:=16.54
+Open:=16.85
+Last Trade Date:=7/15/2011
+Change:=-0.08
+Volume:=140739
+Last Trade Time:=4:00pm
+High:=16.9392
+Last Trade Price:=16.72
+
+(icge)
+Low:=12.17
+Open:=12.29
+Last Trade Date:=7/15/2011
+Change:=+0.03
+Volume:=117262
+Last Trade Time:=4:00pm
+High:=12.36
+Last Trade Price:=12.26
+
+(icog)
+Low:=2.71
+Open:=2.76
+Last Trade Date:=7/15/2011
+Change:=+0.03
+Volume:=230712
+Last Trade Time:=4:00pm
+High:=2.81
+Last Trade Price:=2.78
+
+(idti)
+Low:=7.205
+Open:=7.26
+Last Trade Date:=7/15/2011
+Change:=+0.06
+Volume:=1272878
+Last Trade Time:=4:00pm
+High:=7.39
+Last Trade Price:=7.30
+
+(idxx)
+Low:=77.86
+Open:=79.30
+Last Trade Date:=7/15/2011
+Change:=+0.09
+Volume:=166088
+Last Trade Time:=4:00pm
+High:=79.35
+Last Trade Price:=78.49
+
+(ihs)
+Low:=79.80
+Open:=81.31
+Last Trade Date:=7/15/2011
+Change:=-0.88
+Volume:=209961
+Last Trade Time:=4:07pm
+High:=81.33
+Last Trade Price:=80.23
+
+(iilg)
+Low:=13.43
+Open:=13.58
+Last Trade Date:=7/15/2011
+Change:=+0.06
+Volume:=173013
+Last Trade Time:=4:00pm
+High:=13.60
+Last Trade Price:=13.56
+
+(iivi)
+Low:=26.28
+Open:=26.68
+Last Trade Date:=7/15/2011
+Change:=+0.19
+Volume:=316887
+Last Trade Time:=4:00pm
+High:=27.16
+Last Trade Price:=26.77
+
+(ikan)
+Low:=1.11
+Open:=1.18
+Last Trade Date:=7/15/2011
+Change:=-0.02
+Volume:=66477
+Last Trade Time:=4:00pm
+High:=1.18
+Last Trade Price:=1.11
+
+(ilmn)
+Low:=72.43
+Open:=73.69
+Last Trade Date:=7/15/2011
+Change:=-0.86
+Volume:=997810
+Last Trade Time:=4:00pm
+High:=74.17
+Last Trade Price:=72.82
+
+(im)
+Low:=17.1613
+Open:=17.38
+Last Trade Date:=7/15/2011
+Change:=-0.05
+Volume:=1718645
+Last Trade Time:=4:00pm
+High:=17.39
+Last Trade Price:=17.24
+
+(ima)
+Low:=N/A
+Open:=N/A
+Last Trade Date:=N/A
+Change:=N/A
+Volume:=N/A
+Last Trade Time:=N/A
+High:=N/A
+Last Trade Price:=0.00
+
+(imgn)
+Low:=14.905
+Open:=15.17
+Last Trade Date:=7/15/2011
+Change:=+0.24
+Volume:=690448
+Last Trade Time:=4:00pm
+High:=15.4399
+Last Trade Price:=15.40
+
+(imn)
+Low:=9.19
+Open:=9.43
+Last Trade Date:=7/15/2011
+Change:=-0.14
+Volume:=207974
+Last Trade Time:=4:02pm
+High:=9.47
+Last Trade Price:=9.23
+
+(in)
+Low:=10.85
+Open:=11.07
+Last Trade Date:=7/15/2011
+Change:=+0.07
+Volume:=405251
+Last Trade Time:=4:04pm
+High:=11.07
+Last Trade Price:=10.96
+
+(inap)
+Low:=6.97
+Open:=7.03
+Last Trade Date:=7/15/2011
+Change:=+0.12
+Volume:=276436
+Last Trade Time:=4:00pm
+High:=7.18
+Last Trade Price:=7.10
+
+(indm)
+Low:=N/A
+Open:=N/A
+Last Trade Date:=N/A
+Change:=N/A
+Volume:=N/A
+Last Trade Time:=N/A
+High:=N/A
+Last Trade Price:=0.00
+
+(infi)
+Low:=9.05
+Open:=9.07
+Last Trade Date:=7/15/2011
+Change:=+0.09
+Volume:=64173
+Last Trade Time:=4:00pm
+High:=9.19
+Last Trade Price:=9.16
+
+(infy)
+Low:=61.02
+Open:=61.60
+Last Trade Date:=7/15/2011
+Change:=+0.23
+Volume:=1301829
+Last Trade Time:=4:00pm
+High:=62.20
+Last Trade Price:=61.39
+
+(ino)
+Low:=0.6851
+Open:=0.77
+Last Trade Date:=7/15/2011
+Change:=-0.04
+Volume:=1053892
+Last Trade Time:=4:00pm
+High:=0.77
+Last Trade Price:=0.70
+
+(intc)
+Low:=22.20
+Open:=22.27
+Last Trade Date:=7/15/2011
+Change:=+0.10
+Volume:=49453936
+Last Trade Time:=4:00pm
+High:=22.56
+Last Trade Price:=22.37
+
+(intu)
+Low:=48.591
+Open:=49.42
+Last Trade Date:=7/15/2011
+Change:=+0.16
+Volume:=2298874
+Last Trade Time:=4:00pm
+High:=49.54
+Last Trade Price:=49.35
+
+(io)
+Low:=9.595
+Open:=9.68
+Last Trade Date:=7/15/2011
+Change:=+0.44
+Volume:=2146498
+Last Trade Time:=4:03pm
+High:=10.08
+Last Trade Price:=10.06
+
+(ipcc)
+Low:=54.12
+Open:=54.50
+Last Trade Date:=7/15/2011
+Change:=+0.03
+Volume:=25853
+Last Trade Time:=4:00pm
+High:=54.83
+Last Trade Price:=54.46
+
+(ipcm)
+Low:=49.2001
+Open:=49.79
+Last Trade Date:=7/15/2011
+Change:=+0.06
+Volume:=83776
+Last Trade Time:=4:00pm
+High:=50.67
+Last Trade Price:=49.77
+
+(ipg)
+Low:=11.90
+Open:=12.05
+Last Trade Date:=7/15/2011
+Change:=+0.20
+Volume:=6462152
+Last Trade Time:=4:02pm
+High:=12.16
+Last Trade Price:=12.12
+
+(ipgp)
+Low:=66.00
+Open:=68.73
+Last Trade Date:=7/15/2011
+Change:=-1.07
+Volume:=455343
+Last Trade Time:=4:00pm
+High:=69.43
+Last Trade Price:=67.59
+
+(ipi)
+Low:=31.67
+Open:=31.98
+Last Trade Date:=7/15/2011
+Change:=+0.45
+Volume:=558920
+Last Trade Time:=4:00pm
+High:=32.45
+Last Trade Price:=32.20
+
+(ipxl)
+Low:=21.1115
+Open:=21.27
+Last Trade Date:=7/15/2011
+Change:=+0.34
+Volume:=512990
+Last Trade Time:=4:00pm
+High:=21.58
+Last Trade Price:=21.56
+
+(ir)
+Low:=44.62
+Open:=45.49
+Last Trade Date:=7/15/2011
+Change:=-0.48
+Volume:=3359301
+Last Trade Time:=4:00pm
+High:=45.76
+Last Trade Price:=44.75
+
+(irc)
+Low:=8.93
+Open:=8.99
+Last Trade Date:=7/15/2011
+Change:=+0.09
+Volume:=381807
+Last Trade Time:=4:04pm
+High:=9.06
+Last Trade Price:=9.06
+
+(irm)
+Low:=34.18
+Open:=35.24
+Last Trade Date:=7/15/2011
+Change:=-0.59
+Volume:=2412457
+Last Trade Time:=4:01pm
+High:=35.25
+Last Trade Price:=34.52
+
+(isis)
+Low:=9.07
+Open:=9.23
+Last Trade Date:=7/15/2011
+Change:=-0.11
+Volume:=449990
+Last Trade Time:=4:00pm
+High:=9.25
+Last Trade Price:=9.12
+
+(isrg)
+Low:=356.20
+Open:=357.24
+Last Trade Date:=7/15/2011
+Change:=+2.83
+Volume:=246869
+Last Trade Time:=4:00pm
+High:=360.944
+Last Trade Price:=358.79
+
+(isrl)
+Low:=65.301
+Open:=66.96
+Last Trade Date:=7/15/2011
+Change:=+0.02
+Volume:=1952
+Last Trade Time:=4:00pm
+High:=66.96
+Last Trade Price:=66.61
+
+(itc)
+Low:=71.74
+Open:=72.40
+Last Trade Date:=7/15/2011
+Change:=+0.36
+Volume:=183478
+Last Trade Time:=4:05pm
+High:=72.65
+Last Trade Price:=72.65
+
+(itri)
+Low:=45.76
+Open:=46.14
+Last Trade Date:=7/15/2011
+Change:=+0.46
+Volume:=264740
+Last Trade Time:=4:00pm
+High:=46.58
+Last Trade Price:=46.55
+
+(ivac)
+Low:=9.60
+Open:=9.88
+Last Trade Date:=7/15/2011
+Change:=-0.14
+Volume:=44743
+Last Trade Time:=4:00pm
+High:=9.90
+Last Trade Price:=9.66
+
+(ivc)
+Low:=32.88
+Open:=33.42
+Last Trade Date:=7/15/2011
+Change:=-0.23
+Volume:=127969
+Last Trade Time:=4:00pm
+High:=33.63
+Last Trade Price:=33.12
+
+(ivz)
+Low:=21.91
+Open:=22.50
+Last Trade Date:=7/15/2011
+Change:=-0.14
+Volume:=4264025
+Last Trade Time:=4:04pm
+High:=22.51
+Last Trade Price:=22.19
+
+(ixys)
+Low:=14.53
+Open:=14.54
+Last Trade Date:=7/15/2011
+Change:=+0.06
+Volume:=80591
+Last Trade Time:=4:00pm
+High:=14.94
+Last Trade Price:=14.90
+
+(jakk)
+Low:=17.81
+Open:=18.00
+Last Trade Date:=7/15/2011
+Change:=+0.08
+Volume:=99661
+Last Trade Time:=4:00pm
+High:=18.05
+Last Trade Price:=17.94
+
+(jazz)
+Low:=36.63
+Open:=37.55
+Last Trade Date:=7/15/2011
+Change:=-0.03
+Volume:=825699
+Last Trade Time:=4:00pm
+High:=38.00
+Last Trade Price:=37.04
+
+(jbht)
+Low:=46.56
+Open:=47.445
+Last Trade Date:=7/15/2011
+Change:=+0.58
+Volume:=2692492
+Last Trade Time:=4:00pm
+High:=48.46
+Last Trade Price:=48.29
+
+(jcp)
+Low:=31.435
+Open:=31.95
+Last Trade Date:=7/15/2011
+Change:=-0.28
+Volume:=4049019
+Last Trade Time:=4:00pm
+High:=32.09
+Last Trade Price:=31.57
+
+(jec)
+Low:=40.82
+Open:=41.30
+Last Trade Date:=7/15/2011
+Change:=+0.32
+Volume:=1113025
+Last Trade Time:=4:00pm
+High:=41.56
+Last Trade Price:=41.56
+
+(jll)
+Low:=89.53
+Open:=90.26
+Last Trade Date:=7/15/2011
+Change:=+1.62
+Volume:=238601
+Last Trade Time:=4:01pm
+High:=91.25
+Last Trade Price:=91.24
+
+(jnj)
+Low:=66.99
+Open:=67.73
+Last Trade Date:=7/15/2011
+Change:=-0.21
+Volume:=10075475
+Last Trade Time:=4:00pm
+High:=67.95
+Last Trade Price:=67.45
+
+(jnpr)
+Low:=30.21
+Open:=30.55
+Last Trade Date:=7/15/2011
+Change:=+0.27
+Volume:=4871622
+Last Trade Time:=4:02pm
+High:=30.66
+Last Trade Price:=30.63
+
+(joyg)
+Low:=93.68
+Open:=95.94
+Last Trade Date:=7/15/2011
+Change:=+1.90
+Volume:=2777330
+Last Trade Time:=4:00pm
+High:=97.42
+Last Trade Price:=97.31
+
+(jpm)
+Low:=40.50
+Open:=40.69
+Last Trade Date:=7/15/2011
+Change:=+0.23
+Volume:=3541295
+Last Trade Time:=9:34am
+High:=40.75
+Last Trade Price:=40.58
+
+(kalu)
+Low:=53.27
+Open:=54.56
+Last Trade Date:=7/15/2011
+Change:=-0.23
+Volume:=103766
+Last Trade Time:=4:00pm
+High:=54.56
+Last Trade Price:=54.24
+
+(kar)
+Low:=18.08
+Open:=18.32
+Last Trade Date:=7/15/2011
+Change:=-0.06
+Volume:=119886
+Last Trade Time:=4:02pm
+High:=18.43
+Last Trade Price:=18.22
+
+(kbh)
+Low:=9.29
+Open:=9.63
+Last Trade Date:=7/15/2011
+Change:=-0.19
+Volume:=4654710
+Last Trade Time:=4:01pm
+High:=9.65
+Last Trade Price:=9.35
+
+(kbr)
+Low:=36.52
+Open:=37.00
+Last Trade Date:=7/15/2011
+Change:=+0.47
+Volume:=661738
+Last Trade Time:=4:03pm
+High:=37.17
+Last Trade Price:=37.13
+
+(kbw)
+Low:=17.30
+Open:=17.82
+Last Trade Date:=7/15/2011
+Change:=-0.35
+Volume:=191541
+Last Trade Time:=4:02pm
+High:=17.83
+Last Trade Price:=17.40
+
+(kcg)
+Low:=10.56
+Open:=10.86
+Last Trade Date:=7/15/2011
+Change:=-0.23
+Volume:=1497432
+Last Trade Time:=4:03pm
+High:=10.88
+Last Trade Price:=10.60
+
+(kcli)
+Low:=30.46
+Open:=31.08
+Last Trade Date:=7/15/2011
+Change:=-0.20
+Volume:=39835
+Last Trade Time:=4:00pm
+High:=31.50
+Last Trade Price:=30.60
+
+(kelya)
+Low:=15.57
+Open:=15.79
+Last Trade Date:=7/15/2011
+Change:=+0.13
+Volume:=96510
+Last Trade Time:=4:00pm
+High:=15.8498
+Last Trade Price:=15.71
+
+(kerx)
+Low:=4.85
+Open:=4.94
+Last Trade Date:=7/15/2011
+Change:=+0.01
+Volume:=599655
+Last Trade Time:=4:00pm
+High:=4.99
+Last Trade Price:=4.91
+
+(keyn)
+Low:=21.68
+Open:=21.86
+Last Trade Date:=7/15/2011
+Change:=+0.69
+Volume:=101609
+Last Trade Time:=4:00pm
+High:=22.30
+Last Trade Price:=22.22
+
+(kft)
+Low:=35.16
+Open:=35.39
+Last Trade Date:=7/15/2011
+Change:=0.00
+Volume:=11888992
+Last Trade Time:=4:00pm
+High:=35.46
+Last Trade Price:=35.37
+
+(kirk)
+Low:=11.15
+Open:=11.40
+Last Trade Date:=7/15/2011
+Change:=+0.01
+Volume:=179258
+Last Trade Time:=4:00pm
+High:=11.47
+Last Trade Price:=11.38
+
+(klac)
+Low:=40.29
+Open:=41.34
+Last Trade Date:=7/15/2011
+Change:=+0.20
+Volume:=2432115
+Last Trade Time:=4:00pm
+High:=41.35
+Last Trade Price:=40.95
+
+(klic)
+Low:=9.50
+Open:=9.70
+Last Trade Date:=7/15/2011
+Change:=-0.04
+Volume:=1394692
+Last Trade Time:=4:00pm
+High:=9.75
+Last Trade Price:=9.60
+
+(kmt)
+Low:=42.80
+Open:=42.90
+Last Trade Date:=7/15/2011
+Change:=+1.84
+Volume:=1150236
+Last Trade Time:=4:03pm
+High:=44.48
+Last Trade Price:=44.43
+
+(knol)
+Low:=14.15
+Open:=14.39
+Last Trade Date:=7/15/2011
+Change:=-0.06
+Volume:=93909
+Last Trade Time:=4:00pm
+High:=14.44
+Last Trade Price:=14.31
+
+(ko)
+Low:=67.28
+Open:=67.85
+Last Trade Date:=7/15/2011
+Change:=-0.14
+Volume:=8683312
+Last Trade Time:=4:00pm
+High:=67.87
+Last Trade Price:=67.53
+
+(ks)
+Low:=16.34
+Open:=16.50
+Last Trade Date:=7/15/2011
+Change:=+0.05
+Volume:=163502
+Last Trade Time:=4:03pm
+High:=16.58
+Last Trade Price:=16.50
+
+(kss)
+Low:=N/A
+Open:=N/A
+Last Trade Date:=7/14/2011
+Change:=0.00
+Volume:=0
+Last Trade Time:=4:00pm
+High:=N/A
+Last Trade Price:=55.97
+
+(ksws)
+Low:=11.22
+Open:=11.36
+Last Trade Date:=7/15/2011
+Change:=+0.14
+Volume:=98949
+Last Trade Time:=4:00pm
+High:=11.42
+Last Trade Price:=11.34
+
+(ktos)
+Low:=11.442
+Open:=11.67
+Last Trade Date:=7/15/2011
+Change:=-0.11
+Volume:=107294
+Last Trade Time:=4:00pm
+High:=11.76
+Last Trade Price:=11.52
+
+(kvhi)
+Low:=11.26
+Open:=11.39
+Last Trade Date:=7/15/2011
+Change:=-0.08
+Volume:=48361
+Last Trade Time:=4:00pm
+High:=11.42
+Last Trade Price:=11.29
+
+(kwk)
+Low:=13.79
+Open:=14.03
+Last Trade Date:=7/15/2011
+Change:=+0.32
+Volume:=3725075
+Last Trade Time:=4:01pm
+High:=14.26
+Last Trade Price:=13.98
+
+(labl)
+Low:=22.10
+Open:=22.58
+Last Trade Date:=7/15/2011
+Change:=+0.46
+Volume:=101632
+Last Trade Time:=4:00pm
+High:=23.25
+Last Trade Price:=23.00
+
+(lamr)
+Low:=25.94
+Open:=26.08
+Last Trade Date:=7/15/2011
+Change:=+0.14
+Volume:=201216
+Last Trade Time:=4:00pm
+High:=26.32
+Last Trade Price:=26.14
+
+(laws)
+Low:=19.36
+Open:=19.98
+Last Trade Date:=7/15/2011
+Change:=+0.37
+Volume:=8418
+Last Trade Time:=4:00pm
+High:=20.03
+Last Trade Price:=19.98
+
+(layn)
+Low:=29.26
+Open:=29.63
+Last Trade Date:=7/15/2011
+Change:=+0.25
+Volume:=81050
+Last Trade Time:=4:00pm
+High:=29.98
+Last Trade Price:=29.82
+
+(laz)
+Low:=33.50
+Open:=34.21
+Last Trade Date:=7/15/2011
+Change:=-0.27
+Volume:=495659
+Last Trade Time:=4:03pm
+High:=34.26
+Last Trade Price:=33.76
+
+(lb)
+Low:=N/A
+Open:=N/A
+Last Trade Date:=N/A
+Change:=N/A
+Volume:=N/A
+Last Trade Time:=N/A
+High:=N/A
+Last Trade Price:=0.00
+
+(lbai)
+Low:=9.76
+Open:=9.94
+Last Trade Date:=7/15/2011
+Change:=-0.04
+Volume:=84438
+Last Trade Time:=4:00pm
+High:=10.05
+Last Trade Price:=9.87
+
+(lci)
+Low:=4.66
+Open:=4.75
+Last Trade Date:=7/15/2011
+Change:=-0.05
+Volume:=159733
+Last Trade Time:=4:01pm
+High:=4.784
+Last Trade Price:=4.73
+
+(ldsh)
+Low:=N/A
+Open:=N/A
+Last Trade Date:=N/A
+Change:=N/A
+Volume:=N/A
+Last Trade Time:=N/A
+High:=N/A
+Last Trade Price:=0.00
+
+(lea)
+Low:=51.84
+Open:=53.19
+Last Trade Date:=7/15/2011
+Change:=-0.70
+Volume:=711209
+Last Trade Time:=4:02pm
+High:=53.49
+Last Trade Price:=52.36
+
+(leg)
+Low:=23.01
+Open:=23.42
+Last Trade Date:=7/15/2011
+Change:=-0.21
+Volume:=735533
+Last Trade Time:=2:34pm
+High:=23.42
+Last Trade Price:=23.07
+
+(lfus)
+Low:=55.01
+Open:=55.88
+Last Trade Date:=7/15/2011
+Change:=0.00
+Volume:=171443
+Last Trade Time:=4:00pm
+High:=55.99
+Last Trade Price:=55.50
+
+(life)
+Low:=49.84
+Open:=49.96
+Last Trade Date:=7/15/2011
+Change:=-0.22
+Volume:=711471
+Last Trade Time:=2:24pm
+High:=50.29
+Last Trade Price:=49.86
+
+(linc)
+Low:=18.62
+Open:=18.74
+Last Trade Date:=7/15/2011
+Change:=+0.34
+Volume:=193635
+Last Trade Time:=4:00pm
+High:=19.10
+Last Trade Price:=19.05
+
+(linta)
+Low:=17.02
+Open:=17.28
+Last Trade Date:=7/15/2011
+Change:=-0.08
+Volume:=3019410
+Last Trade Time:=4:00pm
+High:=17.37
+Last Trade Price:=17.15
+
+(llen)
+Low:=5.20
+Open:=5.44
+Last Trade Date:=7/15/2011
+Change:=+0.15
+Volume:=221781
+Last Trade Time:=1:24pm
+High:=5.44
+Last Trade Price:=5.29
+
+(lll)
+Low:=81.56
+Open:=82.61
+Last Trade Date:=7/15/2011
+Change:=-0.56
+Volume:=443142
+Last Trade Time:=2:05pm
+High:=82.65
+Last Trade Price:=81.81
+
+(lltc)
+Low:=30.08
+Open:=30.55
+Last Trade Date:=7/15/2011
+Change:=+0.17
+Volume:=2557039
+Last Trade Time:=4:00pm
+High:=30.59
+Last Trade Price:=30.48
+
+(lm)
+Low:=N/A
+Open:=N/A
+Last Trade Date:=7/14/2011
+Change:=0.00
+Volume:=0
+Last Trade Time:=4:02pm
+High:=N/A
+Last Trade Price:=31.63
+
+(lng)
+Low:=9.05
+Open:=9.13
+Last Trade Date:=7/15/2011
+Change:=+1.21
+Volume:=5140865
+Last Trade Time:=4:01pm
+High:=10.00
+Last Trade Price:=9.97
+
+(logm)
+Low:=36.09
+Open:=36.80
+Last Trade Date:=7/15/2011
+Change:=-0.12
+Volume:=261928
+Last Trade Time:=4:00pm
+High:=36.97
+Last Trade Price:=36.45
+
+(loop)
+Low:=18.26
+Open:=18.34
+Last Trade Date:=7/15/2011
+Change:=0.00
+Volume:=207177
+Last Trade Time:=4:00pm
+High:=18.36
+Last Trade Price:=18.30
+
+(lpnt)
+Low:=37.48
+Open:=37.68
+Last Trade Date:=7/15/2011
+Change:=+0.09
+Volume:=460189
+Last Trade Time:=4:00pm
+High:=38.24
+Last Trade Price:=37.89
+
+(lpx)
+Low:=8.09
+Open:=8.16
+Last Trade Date:=7/15/2011
+Change:=-0.09
+Volume:=1758170
+Last Trade Time:=4:00pm
+High:=8.25
+Last Trade Price:=8.10
+
+(lrcx)
+Low:=41.35
+Open:=42.04
+Last Trade Date:=7/15/2011
+Change:=+0.21
+Volume:=1671994
+Last Trade Time:=4:00pm
+High:=42.16
+Last Trade Price:=42.06
+
+(lse)
+Low:=4.74
+Open:=4.77
+Last Trade Date:=7/15/2011
+Change:=0.00
+Volume:=191042
+Last Trade Time:=4:01pm
+High:=4.83
+Last Trade Price:=4.76
+
+(lsi)
+Low:=6.59
+Open:=6.72
+Last Trade Date:=7/15/2011
+Change:=+0.01
+Volume:=5247679
+Last Trade Time:=4:04pm
+High:=6.72
+Last Trade Price:=6.69
+
+(lstr)
+Low:=45.95
+Open:=46.76
+Last Trade Date:=7/15/2011
+Change:=+0.11
+Volume:=437634
+Last Trade Time:=4:00pm
+High:=46.77
+Last Trade Price:=46.51
+
+(lstza)
+Low:=73.42
+Open:=74.47
+Last Trade Date:=7/15/2011
+Change:=+1.01
+Volume:=205940
+Last Trade Time:=4:00pm
+High:=75.05
+Last Trade Price:=74.80
+
+(ltm)
+Low:=38.81
+Open:=39.46
+Last Trade Date:=7/15/2011
+Change:=+0.48
+Volume:=426829
+Last Trade Time:=4:02pm
+High:=39.61
+Last Trade Price:=39.60
+
+(ltre)
+Low:=9.75
+Open:=9.82
+Last Trade Date:=7/15/2011
+Change:=-0.11
+Volume:=12412
+Last Trade Time:=4:00pm
+High:=9.9592
+Last Trade Price:=9.79
+
+(lvs)
+Low:=44.38
+Open:=44.90
+Last Trade Date:=7/15/2011
+Change:=+0.23
+Volume:=6076379
+Last Trade Time:=11:52am
+High:=45.20
+Last Trade Price:=44.80
+
+(lway)
+Low:=10.75
+Open:=11.02
+Last Trade Date:=7/15/2011
+Change:=+0.42
+Volume:=15619
+Last Trade Time:=4:00pm
+High:=11.19
+Last Trade Price:=11.13
+
+(lxp)
+Low:=8.91
+Open:=9.00
+Last Trade Date:=7/15/2011
+Change:=-0.01
+Volume:=1187272
+Last Trade Time:=4:02pm
+High:=9.03
+Last Trade Price:=8.99
+
+(lxrx)
+Low:=1.64
+Open:=1.64
+Last Trade Date:=7/15/2011
+Change:=+0.11
+Volume:=1280734
+Last Trade Time:=4:00pm
+High:=1.77
+Last Trade Price:=1.75
+
+(lxu)
+Low:=43.06
+Open:=43.92
+Last Trade Date:=7/15/2011
+Change:=+0.51
+Volume:=169422
+Last Trade Time:=4:03pm
+High:=44.09
+Last Trade Price:=44.01
+
+(ma)
+Low:=305.43
+Open:=306.57
+Last Trade Date:=7/15/2011
+Change:=+0.425
+Volume:=238915
+Last Trade Time:=10:16am
+High:=308.90
+Last Trade Price:=306.105
+
+(mako)
+Low:=31.14
+Open:=31.89
+Last Trade Date:=7/15/2011
+Change:=+0.06
+Volume:=529256
+Last Trade Time:=4:00pm
+High:=32.41
+Last Trade Price:=31.69
+
+(mapp)
+Low:=15.91
+Open:=15.925
+Last Trade Date:=7/15/2011
+Change:=+0.04
+Volume:=107107
+Last Trade Time:=4:00pm
+High:=16.10
+Last Trade Price:=16.04
+
+(mas)
+Low:=11.23
+Open:=11.34
+Last Trade Date:=7/15/2011
+Change:=+0.05
+Volume:=4284386
+Last Trade Time:=4:01pm
+High:=11.40
+Last Trade Price:=11.37
+
+(mat)
+Low:=27.06
+Open:=28.03
+Last Trade Date:=7/15/2011
+Change:=+0.50
+Volume:=8683752
+Last Trade Time:=4:00pm
+High:=28.49
+Last Trade Price:=27.29
+
+(matk)
+Low:=N/A
+Open:=N/A
+Last Trade Date:=N/A
+Change:=N/A
+Volume:=N/A
+Last Trade Time:=N/A
+High:=N/A
+Last Trade Price:=0.00
+
+(mblx)
+Low:=6.68
+Open:=6.75
+Last Trade Date:=7/15/2011
+Change:=+0.07
+Volume:=161483
+Last Trade Time:=4:00pm
+High:=6.96
+Last Trade Price:=6.81
+
+(mbvt)
+Low:=26.34
+Open:=26.44
+Last Trade Date:=7/15/2011
+Change:=+0.02
+Volume:=5930
+Last Trade Time:=4:00pm
+High:=26.67
+Last Trade Price:=26.34
+
+(mcd)
+Low:=84.92
+Open:=85.8801
+Last Trade Date:=7/15/2011
+Change:=-0.33
+Volume:=5874671
+Last Trade Time:=4:00pm
+High:=86.05
+Last Trade Price:=85.48
+
+(mchp)
+Low:=31.73
+Open:=32.22
+Last Trade Date:=7/15/2011
+Change:=+0.33
+Volume:=2788941
+Last Trade Time:=4:00pm
+High:=32.41
+Last Trade Price:=32.34
+
+(mcri)
+Low:=10.05
+Open:=10.16
+Last Trade Date:=7/15/2011
+Change:=+0.27
+Volume:=21378
+Last Trade Time:=4:00pm
+High:=10.3299
+Last Trade Price:=10.31
+
+(mcrl)
+Low:=9.36
+Open:=9.66
+Last Trade Date:=7/15/2011
+Change:=-0.02
+Volume:=581143
+Last Trade Time:=4:00pm
+High:=9.70
+Last Trade Price:=9.63
+
+(mcy)
+Low:=38.50
+Open:=38.77
+Last Trade Date:=7/15/2011
+Change:=-0.02
+Volume:=156338
+Last Trade Time:=4:01pm
+High:=38.80
+Last Trade Price:=38.64
+
+(mdr)
+Low:=19.76
+Open:=19.90
+Last Trade Date:=7/15/2011
+Change:=+0.26
+Volume:=1680575
+Last Trade Time:=4:01pm
+High:=20.09
+Last Trade Price:=20.05
+
+(mdso)
+Low:=22.25
+Open:=22.99
+Last Trade Date:=7/15/2011
+Change:=-1.07
+Volume:=456041
+Last Trade Time:=4:00pm
+High:=23.06
+Last Trade Price:=22.63
+
+(mdth)
+Low:=13.43
+Open:=13.61
+Last Trade Date:=7/15/2011
+Change:=-0.04
+Volume:=91013
+Last Trade Time:=4:00pm
+High:=13.71
+Last Trade Price:=13.50
+
+(mdvn)
+Low:=21.62
+Open:=22.37
+Last Trade Date:=7/15/2011
+Change:=+0.11
+Volume:=288641
+Last Trade Time:=4:00pm
+High:=22.37
+Last Trade Price:=22.00
+
+(me)
+Low:=N/A
+Open:=N/A
+Last Trade Date:=N/A
+Change:=N/A
+Volume:=N/A
+Last Trade Time:=N/A
+High:=N/A
+Last Trade Price:=0.00
+
+(ment)
+Low:=12.03
+Open:=12.18
+Last Trade Date:=7/15/2011
+Change:=-0.08
+Volume:=866611
+Last Trade Time:=4:00pm
+High:=12.25
+Last Trade Price:=12.08
+
+(meru)
+Low:=10.87
+Open:=10.99
+Last Trade Date:=7/15/2011
+Change:=+0.09
+Volume:=156581
+Last Trade Time:=4:00pm
+High:=11.10
+Last Trade Price:=10.99
+
+(mgln)
+Low:=55.13
+Open:=55.41
+Last Trade Date:=7/15/2011
+Change:=-0.08
+Volume:=144043
+Last Trade Time:=4:00pm
+High:=55.98
+Last Trade Price:=55.33
+
+(mgm)
+Low:=14.66
+Open:=14.85
+Last Trade Date:=7/15/2011
+Change:=+0.21
+Volume:=14843760
+Last Trade Time:=4:00pm
+High:=14.95
+Last Trade Price:=14.93
+
+(mgpi)
+Low:=8.02
+Open:=8.04
+Last Trade Date:=7/15/2011
+Change:=+0.08
+Volume:=24610
+Last Trade Time:=4:00pm
+High:=8.13
+Last Trade Price:=8.11
+
+(mgrc)
+Low:=28.03
+Open:=28.03
+Last Trade Date:=7/15/2011
+Change:=+0.36
+Volume:=59756
+Last Trade Time:=4:00pm
+High:=28.40
+Last Trade Price:=28.38
+
+(mho)
+Low:=11.79
+Open:=12.97
+Last Trade Date:=7/15/2011
+Change:=+0.26
+Volume:=83084
+Last Trade Time:=4:05pm
+High:=12.97
+Last Trade Price:=12.17
+
+(mhr)
+Low:=7.05
+Open:=7.12
+Last Trade Date:=7/15/2011
+Change:=+0.43
+Volume:=4594980
+Last Trade Time:=4:00pm
+High:=7.45
+Last Trade Price:=7.29
+
+(mhs)
+Low:=53.28
+Open:=54.32
+Last Trade Date:=7/15/2011
+Change:=-0.28
+Volume:=3493591
+Last Trade Time:=4:02pm
+High:=54.34
+Last Trade Price:=54.00
+
+(midd)
+Low:=89.37
+Open:=N/A
+Last Trade Date:=7/15/2011
+Change:=-1.84
+Volume:=123397
+Last Trade Time:=4:00pm
+High:=93.20
+Last Trade Price:=90.12
+
+(mig)
+Low:=9.69
+Open:=9.84
+Last Trade Date:=7/15/2011
+Change:=-0.09
+Volume:=306844
+Last Trade Time:=4:03pm
+High:=9.84
+Last Trade Price:=9.75
+
+(mil)
+Low:=N/A
+Open:=N/A
+Last Trade Date:=N/A
+Change:=N/A
+Volume:=N/A
+Last Trade Time:=5:47am
+High:=N/A
+Last Trade Price:=0.00
+
+(mjn)
+Low:=N/A
+Open:=N/A
+Last Trade Date:=7/14/2011
+Change:=0.00
+Volume:=0
+Last Trade Time:=4:03pm
+High:=N/A
+Last Trade Price:=68.79
+
+(mksi)
+Low:=24.77
+Open:=25.05
+Last Trade Date:=7/15/2011
+Change:=+0.20
+Volume:=552842
+Last Trade Time:=4:00pm
+High:=25.46
+Last Trade Price:=25.26
+
+(mlhr)
+Low:=25.705
+Open:=26.60
+Last Trade Date:=7/15/2011
+Change:=-0.30
+Volume:=704043
+Last Trade Time:=4:00pm
+High:=26.64
+Last Trade Price:=26.15
+
+(mlnk)
+Low:=4.422
+Open:=4.49
+Last Trade Date:=7/15/2011
+Change:=+0.01
+Volume:=119252
+Last Trade Time:=4:00pm
+High:=4.50
+Last Trade Price:=4.49
+
+(mlr)
+Low:=17.81
+Open:=17.95
+Last Trade Date:=7/15/2011
+Change:=+0.07
+Volume:=40571
+Last Trade Time:=4:03pm
+High:=18.03
+Last Trade Price:=17.89
+
+(mmm)
+Low:=94.72
+Open:=95.42
+Last Trade Date:=7/15/2011
+Change:=+0.49
+Volume:=3624740
+Last Trade Time:=4:00pm
+High:=95.63
+Last Trade Price:=95.47
+
+(mms)
+Low:=40.60
+Open:=40.96
+Last Trade Date:=7/15/2011
+Change:=+0.01
+Volume:=100257
+Last Trade Time:=4:01pm
+High:=41.34
+Last Trade Price:=40.91
+
+(mnro)
+Low:=36.27
+Open:=36.70
+Last Trade Date:=7/15/2011
+Change:=+0.38
+Volume:=169293
+Last Trade Time:=4:00pm
+High:=37.13
+Last Trade Price:=37.01
+
+(mot)
+Low:=N/A
+Open:=N/A
+Last Trade Date:=N/A
+Change:=N/A
+Volume:=N/A
+Last Trade Time:=N/A
+High:=N/A
+Last Trade Price:=0.00
+
+(mpg)
+Low:=3.46
+Open:=3.55
+Last Trade Date:=7/15/2011
+Change:=+0.07
+Volume:=422944
+Last Trade Time:=4:01pm
+High:=3.61
+Last Trade Price:=3.60
+
+(mpr)
+Low:=10.74
+Open:=10.83
+Last Trade Date:=7/15/2011
+Change:=-0.04
+Volume:=40737
+Last Trade Time:=4:03pm
+High:=10.94
+Last Trade Price:=10.78
+
+(mpx)
+Low:=5.45
+Open:=5.62
+Last Trade Date:=7/15/2011
+Change:=-0.20
+Volume:=40251
+Last Trade Time:=4:02pm
+High:=5.75
+Last Trade Price:=5.45
+
+(mrcy)
+Low:=17.87
+Open:=18.07
+Last Trade Date:=7/15/2011
+Change:=+0.01
+Volume:=133236
+Last Trade Time:=4:00pm
+High:=18.42
+Last Trade Price:=18.02
+
+(mrh)
+Low:=18.22
+Open:=18.33
+Last Trade Date:=7/15/2011
+Change:=-0.01
+Volume:=388999
+Last Trade Time:=4:04pm
+High:=18.38
+Last Trade Price:=18.25
+
+(mrk)
+Low:=35.68
+Open:=36.35
+Last Trade Date:=7/15/2011
+Change:=-0.37
+Volume:=13591319
+Last Trade Time:=4:00pm
+High:=36.435
+Last Trade Price:=35.94
+
+(mrvl)
+Low:=14.54
+Open:=14.70
+Last Trade Date:=7/15/2011
+Change:=+0.19
+Volume:=9379344
+Last Trade Time:=4:00pm
+High:=14.93
+Last Trade Price:=14.87
+
+(msft)
+Low:=26.47
+Open:=26.48
+Last Trade Date:=7/15/2011
+Change:=+0.31
+Volume:=48496924
+Last Trade Time:=4:00pm
+High:=26.9295
+Last Trade Price:=26.78
+
+(mtb)
+Low:=85.24
+Open:=86.34
+Last Trade Date:=7/15/2011
+Change:=-0.51
+Volume:=456866
+Last Trade Time:=1:45pm
+High:=86.47
+Last Trade Price:=85.49
+
+(mtn)
+Low:=44.58
+Open:=44.88
+Last Trade Date:=7/15/2011
+Change:=+0.48
+Volume:=163186
+Last Trade Time:=4:02pm
+High:=45.05
+Last Trade Price:=45.03
+
+(mtrx)
+Low:=13.54
+Open:=13.63
+Last Trade Date:=7/15/2011
+Change:=+0.28
+Volume:=81223
+Last Trade Time:=4:00pm
+High:=13.95
+Last Trade Price:=13.88
+
+(mu)
+Low:=
+Open:=
+Last Trade Date:=
+Change:=
+Volume:=
+Last Trade Time:=
+High:=
+Last Trade Price:=
+
+(mvis)
+Low:=1.15
+Open:=1.17
+Last Trade Date:=7/15/2011
+Change:=+0.11
+Volume:=2324455
+Last Trade Time:=4:00pm
+High:=1.31
+Last Trade Price:=1.26
+
+(mw)
+Low:=33.19
+Open:=33.73
+Last Trade Date:=7/15/2011
+Change:=-0.01
+Volume:=325625
+Last Trade Time:=1:37pm
+High:=33.74
+Last Trade Price:=33.48
+
+(mwa)
+Low:=3.66
+Open:=3.71
+Last Trade Date:=7/15/2011
+Change:=0.00
+Volume:=515317
+Last Trade Time:=4:03pm
+High:=3.76
+Last Trade Price:=3.68
+
+(mwv)
+Low:=32.89
+Open:=33.10
+Last Trade Date:=7/15/2011
+Change:=+0.14
+Volume:=3081087
+Last Trade Time:=4:01pm
+High:=33.30
+Last Trade Price:=33.15
+
+(mww)
+Low:=13.28
+Open:=13.29
+Last Trade Date:=7/15/2011
+Change:=+0.16
+Volume:=112658
+Last Trade Time:=9:34am
+High:=13.30
+Last Trade Price:=13.30
+
+(mxim)
+Low:=23.36
+Open:=23.63
+Last Trade Date:=7/15/2011
+Change:=-0.11
+Volume:=2131906
+Last Trade Time:=4:00pm
+High:=23.71
+Last Trade Price:=23.50
+
+(mxl)
+Low:=7.221
+Open:=7.60
+Last Trade Date:=7/15/2011
+Change:=-0.25
+Volume:=229149
+Last Trade Time:=4:05pm
+High:=7.62
+Last Trade Price:=7.37
+
+(myl)
+Low:=23.47
+Open:=23.87
+Last Trade Date:=7/15/2011
+Change:=-0.29
+Volume:=6339885
+Last Trade Time:=4:00pm
+High:=23.95
+Last Trade Price:=23.57
+
+(nafc)
+Low:=36.99
+Open:=37.09
+Last Trade Date:=7/15/2011
+Change:=+0.52
+Volume:=46582
+Last Trade Time:=4:00pm
+High:=37.51
+Last Trade Price:=37.42
+
+(nal)
+Low:=N/A
+Open:=N/A
+Last Trade Date:=N/A
+Change:=N/A
+Volume:=N/A
+Last Trade Time:=6:-230pm
+High:=N/A
+Last Trade Price:=0.00
+
+(natr)
+Low:=19.26
+Open:=19.49
+Last Trade Date:=7/15/2011
+Change:=+0.25
+Volume:=43247
+Last Trade Time:=4:00pm
+High:=19.78
+Last Trade Price:=19.50
+
+(nauh)
+Low:=9.00
+Open:=9.01
+Last Trade Date:=7/15/2011
+Change:=+0.09
+Volume:=38945
+Last Trade Time:=4:00pm
+High:=9.19
+Last Trade Price:=9.11
+
+(nc)
+Low:=95.16
+Open:=98.05
+Last Trade Date:=7/15/2011
+Change:=-0.62
+Volume:=28226
+Last Trade Time:=4:01pm
+High:=99.15
+Last Trade Price:=96.35
+
+(ncs)
+Low:=11.17
+Open:=11.34
+Last Trade Date:=7/15/2011
+Change:=+0.05
+Volume:=146095
+Last Trade Time:=4:03pm
+High:=11.54
+Last Trade Price:=11.35
+
+(nct)
+Low:=5.85
+Open:=5.97
+Last Trade Date:=7/15/2011
+Change:=-0.05
+Volume:=596212
+Last Trade Time:=4:01pm
+High:=6.07
+Last Trade Price:=5.88
+
+(ndsn)
+Low:=54.23
+Open:=55.39
+Last Trade Date:=7/15/2011
+Change:=-0.27
+Volume:=572007
+Last Trade Time:=4:00pm
+High:=55.49
+Last Trade Price:=54.82
+
+(nee)
+Low:=56.60
+Open:=57.08
+Last Trade Date:=7/15/2011
+Change:=-0.33
+Volume:=788315
+Last Trade Time:=11:05am
+High:=57.12
+Last Trade Price:=56.66
+
+(neog)
+Low:=45.75
+Open:=46.59
+Last Trade Date:=7/15/2011
+Change:=-0.16
+Volume:=91101
+Last Trade Time:=4:00pm
+High:=46.924
+Last Trade Price:=46.24
+
+(netl)
+Low:=37.63
+Open:=38.425
+Last Trade Date:=7/15/2011
+Change:=-0.23
+Volume:=1057526
+Last Trade Time:=4:00pm
+High:=38.63
+Last Trade Price:=38.04
+
+(newp)
+Low:=16.858
+Open:=17.14
+Last Trade Date:=7/15/2011
+Change:=-0.13
+Volume:=201364
+Last Trade Time:=4:00pm
+High:=17.31
+Last Trade Price:=16.99
+
+(nfg)
+Low:=70.10
+Open:=70.10
+Last Trade Date:=7/15/2011
+Change:=+0.89
+Volume:=1059670
+Last Trade Time:=4:03pm
+High:=71.54
+Last Trade Price:=70.51
+
+(nflx)
+Low:=281.62
+Open:=287.96
+Last Trade Date:=7/15/2011
+Change:=-1.97
+Volume:=3149496
+Last Trade Time:=2:06pm
+High:=289.62
+Last Trade Price:=284.65
+
+(ngpc)
+Low:=8.18
+Open:=8.48
+Last Trade Date:=7/15/2011
+Change:=+0.06
+Volume:=122460
+Last Trade Time:=4:00pm
+High:=8.48
+Last Trade Price:=8.27
+
+(ngsx)
+Low:=1.65
+Open:=1.73
+Last Trade Date:=7/15/2011
+Change:=+0.02
+Volume:=43780
+Last Trade Time:=3:59pm
+High:=1.75
+Last Trade Price:=1.71
+
+(nhi)
+Low:=45.00
+Open:=45.03
+Last Trade Date:=7/15/2011
+Change:=+0.67
+Volume:=102564
+Last Trade Time:=4:02pm
+High:=45.70
+Last Trade Price:=45.67
+
+(nihd)
+Low:=41.42
+Open:=41.99
+Last Trade Date:=7/15/2011
+Change:=-0.21
+Volume:=1149374
+Last Trade Time:=4:00pm
+High:=42.29
+Last Trade Price:=41.64
+
+(nktr)
+Low:=7.36
+Open:=7.46
+Last Trade Date:=7/15/2011
+Change:=+0.19
+Volume:=2301766
+Last Trade Time:=4:00pm
+High:=7.70
+Last Trade Price:=7.65
+
+(nor)
+Low:=13.295
+Open:=13.84
+Last Trade Date:=7/15/2011
+Change:=-0.25
+Volume:=284120
+Last Trade Time:=4:03pm
+High:=13.84
+Last Trade Price:=13.45
+
+(nsit)
+Low:=18.08
+Open:=18.54
+Last Trade Date:=7/15/2011
+Change:=+0.01
+Volume:=214972
+Last Trade Time:=4:00pm
+High:=18.55
+Last Trade Price:=18.27
+
+(nsr)
+Low:=25.85
+Open:=26.17
+Last Trade Date:=7/15/2011
+Change:=-0.09
+Volume:=234966
+Last Trade Time:=4:01pm
+High:=26.18
+Last Trade Price:=25.97
+
+(ntap)
+Low:=49.84
+Open:=49.90
+Last Trade Date:=7/15/2011
+Change:=+0.9984
+Volume:=2177420
+Last Trade Time:=11:36am
+High:=50.6284
+Last Trade Price:=50.6284
+
+(ntct)
+Low:=15.4675
+Open:=15.59
+Last Trade Date:=7/15/2011
+Change:=0.00
+Volume:=441908
+Last Trade Time:=4:00pm
+High:=15.8971
+Last Trade Price:=15.56
+
+(nty)
+Low:=N/A
+Open:=N/A
+Last Trade Date:=N/A
+Change:=N/A
+Volume:=N/A
+Last Trade Time:=N/A
+High:=N/A
+Last Trade Price:=0.00
+
+(nue)
+Low:=39.12
+Open:=39.35
+Last Trade Date:=7/15/2011
+Change:=-0.10
+Volume:=357168
+Last Trade Time:=9:49am
+High:=39.35
+Last Trade Price:=39.13
+
+(nutr)
+Low:=15.03
+Open:=15.17
+Last Trade Date:=7/15/2011
+Change:=-0.13
+Volume:=50145
+Last Trade Time:=4:00pm
+High:=15.31
+Last Trade Price:=15.03
+
+(nuva)
+Low:=31.03
+Open:=31.66
+Last Trade Date:=7/15/2011
+Change:=-0.32
+Volume:=562407
+Last Trade Time:=4:00pm
+High:=31.84
+Last Trade Price:=31.19
+
+(nvax)
+Low:=1.96
+Open:=1.97
+Last Trade Date:=7/15/2011
+Change:=-0.01
+Volume:=368716
+Last Trade Time:=4:00pm
+High:=2.00
+Last Trade Price:=1.96
+
+(nvda)
+Low:=13.81
+Open:=14.155
+Last Trade Date:=7/15/2011
+Change:=+0.02
+Volume:=20635954
+Last Trade Time:=4:00pm
+High:=14.25
+Last Trade Price:=14.10
+
+(nwbi)
+Low:=12.69
+Open:=12.90
+Last Trade Date:=7/15/2011
+Change:=-0.11
+Volume:=621715
+Last Trade Time:=4:00pm
+High:=12.93
+Last Trade Price:=12.74
+
+(nwe)
+Low:=33.37
+Open:=33.67
+Last Trade Date:=7/15/2011
+Change:=0.00
+Volume:=289495
+Last Trade Time:=4:05pm
+High:=33.69
+Last Trade Price:=33.69
+
+(nwl)
+Low:=15.02
+Open:=15.24
+Last Trade Date:=7/15/2011
+Change:=+0.19
+Volume:=2265440
+Last Trade Time:=4:00pm
+High:=15.38
+Last Trade Price:=15.38
+
+(nwsa)
+Low:=14.89
+Open:=15.24
+Last Trade Date:=7/15/2011
+Change:=+0.205
+Volume:=76018936
+Last Trade Time:=4:00pm
+High:=15.80
+Last Trade Price:=15.64
+
+(nxst)
+Low:=7.27
+Open:=7.72
+Last Trade Date:=7/15/2011
+Change:=-0.04
+Volume:=38114
+Last Trade Time:=4:00pm
+High:=7.72
+Last Trade Price:=7.39
+
+(nyny)
+Low:=0.9104
+Open:=1.04
+Last Trade Date:=7/15/2011
+Change:=-0.0599
+Volume:=417261
+Last Trade Time:=4:00pm
+High:=1.05
+Last Trade Price:=0.9701
+
+(nyt)
+Low:=8.44
+Open:=8.51
+Last Trade Date:=7/15/2011
+Change:=+0.26
+Volume:=1928952
+Last Trade Time:=4:03pm
+High:=8.70
+Last Trade Price:=8.67
+
+(nyx)
+Low:=34.04
+Open:=34.05
+Last Trade Date:=7/15/2011
+Change:=+0.54
+Volume:=3288021
+Last Trade Time:=4:00pm
+High:=34.52
+Last Trade Price:=34.35
+
+(oabc)
+Low:=14.54
+Open:=14.77
+Last Trade Date:=7/15/2011
+Change:=-0.07
+Volume:=26742
+Last Trade Time:=4:00pm
+High:=14.86
+Last Trade Price:=14.64
+
+(ob)
+Low:=13.05
+Open:=13.26
+Last Trade Date:=7/15/2011
+Change:=-0.11
+Volume:=76559
+Last Trade Time:=4:01pm
+High:=13.38
+Last Trade Price:=13.10
+
+(oclr)
+Low:=5.75
+Open:=6.12
+Last Trade Date:=7/15/2011
+Change:=+0.04
+Volume:=1884999
+Last Trade Time:=4:00pm
+High:=6.14
+Last Trade Price:=6.06
+
+(oeh)
+Low:=9.77
+Open:=9.83
+Last Trade Date:=7/15/2011
+Change:=+0.22
+Volume:=654615
+Last Trade Time:=4:02pm
+High:=10.08
+Last Trade Price:=9.96
+
+(ofix)
+Low:=43.13
+Open:=43.22
+Last Trade Date:=7/15/2011
+Change:=-0.05
+Volume:=109471
+Last Trade Time:=4:00pm
+High:=43.75
+Last Trade Price:=43.37
+
+(oksb)
+Low:=9.55
+Open:=9.86
+Last Trade Date:=7/15/2011
+Change:=+0.18
+Volume:=93485
+Last Trade Time:=4:00pm
+High:=10.09
+Last Trade Price:=10.00
+
+(ompi)
+Low:=10.46
+Open:=10.61
+Last Trade Date:=7/15/2011
+Change:=-0.04
+Volume:=55214
+Last Trade Time:=4:00pm
+High:=10.75
+Last Trade Price:=10.54
+
+(onb)
+Low:=10.53
+Open:=10.67
+Last Trade Date:=7/15/2011
+Change:=-0.06
+Volume:=390645
+Last Trade Time:=4:01pm
+High:=10.67
+Last Trade Price:=10.56
+
+(onxx)
+Low:=34.60
+Open:=35.28
+Last Trade Date:=7/15/2011
+Change:=-0.44
+Volume:=766932
+Last Trade Time:=4:00pm
+High:=35.49
+Last Trade Price:=34.66
+
+(opxt)
+Low:=2.17
+Open:=2.195
+Last Trade Date:=7/15/2011
+Change:=+0.06
+Volume:=715254
+Last Trade Time:=4:00pm
+High:=2.27
+Last Trade Price:=2.25
+
+(opy)
+Low:=26.00
+Open:=26.13
+Last Trade Date:=7/15/2011
+Change:=+0.18
+Volume:=16292
+Last Trade Time:=4:02pm
+High:=26.40
+Last Trade Price:=26.18
+
+(orb)
+Low:=16.565
+Open:=16.78
+Last Trade Date:=7/15/2011
+Change:=+0.01
+Volume:=365856
+Last Trade Time:=4:03pm
+High:=16.86
+Last Trade Price:=16.76
+
+(orcc)
+Low:=3.33
+Open:=3.34
+Last Trade Date:=7/15/2011
+Change:=+0.08
+Volume:=63853
+Last Trade Time:=3:59pm
+High:=3.45
+Last Trade Price:=3.43
+
+(orcl)
+Low:=31.84
+Open:=32.17
+Last Trade Date:=7/15/2011
+Change:=+0.04
+Volume:=25122152
+Last Trade Time:=4:00pm
+High:=32.26
+Last Trade Price:=32.09
+
+(orly)
+Low:=62.63
+Open:=N/A
+Last Trade Date:=7/15/2011
+Change:=-0.60
+Volume:=1179109
+Last Trade Time:=4:00pm
+High:=64.00
+Last Trade Price:=63.09
+
+(osir)
+Low:=7.89
+Open:=8.23
+Last Trade Date:=7/15/2011
+Change:=-0.28
+Volume:=103518
+Last Trade Time:=4:00pm
+High:=8.23
+Last Trade Price:=7.95
+
+(osur)
+Low:=9.64
+Open:=9.71
+Last Trade Date:=7/15/2011
+Change:=+0.12
+Volume:=151690
+Last Trade Time:=4:00pm
+High:=9.95
+Last Trade Price:=9.82
+
+(outd)
+Low:=6.70
+Open:=6.79
+Last Trade Date:=7/15/2011
+Change:=+0.24
+Volume:=30921
+Last Trade Time:=4:00pm
+High:=6.93
+Last Trade Price:=6.93
+
+(oxm)
+Low:=35.94
+Open:=36.46
+Last Trade Date:=7/15/2011
+Change:=-0.07
+Volume:=83397
+Last Trade Time:=2:23pm
+High:=36.60
+Last Trade Price:=36.29
+
+(oxps)
+Low:=N/A
+Open:=N/A
+Last Trade Date:=7/14/2011
+Change:=0.00
+Volume:=0
+Last Trade Time:=4:00pm
+High:=N/A
+Last Trade Price:=15.41
+
+(oxy)
+Low:=103.59
+Open:=103.83
+Last Trade Date:=7/15/2011
+Change:=+1.98
+Volume:=4745002
+Last Trade Time:=4:00pm
+High:=105.55
+Last Trade Price:=105.34
+
+(oyog)
+Low:=100.68
+Open:=102.19
+Last Trade Date:=7/15/2011
+Change:=+0.47
+Volume:=20533
+Last Trade Time:=4:00pm
+High:=102.56
+Last Trade Price:=101.87
+
+(ozrk)
+Low:=51.71
+Open:=51.77
+Last Trade Date:=7/15/2011
+Change:=+0.10
+Volume:=110909
+Last Trade Time:=4:00pm
+High:=52.71
+Last Trade Price:=52.43
+
+(pacr)
+Low:=4.90
+Open:=4.92
+Last Trade Date:=7/15/2011
+Change:=+0.02
+Volume:=315051
+Last Trade Time:=4:00pm
+High:=4.97
+Last Trade Price:=4.94
+
+(pag)
+Low:=23.25
+Open:=23.35
+Last Trade Date:=7/15/2011
+Change:=+0.48
+Volume:=1858644
+Last Trade Time:=4:01pm
+High:=23.62
+Last Trade Price:=23.48
+
+(panl)
+Low:=29.67
+Open:=30.54
+Last Trade Date:=7/15/2011
+Change:=-0.24
+Volume:=326664
+Last Trade Time:=10:13am
+High:=31.0278
+Last Trade Price:=30.19
+
+(pay)
+Low:=42.00
+Open:=42.56
+Last Trade Date:=7/15/2011
+Change:=+0.44
+Volume:=1021735
+Last Trade Time:=4:03pm
+High:=42.80
+Last Trade Price:=42.75
+
+(payx)
+Low:=29.92
+Open:=30.58
+Last Trade Date:=7/15/2011
+Change:=-0.44
+Volume:=2892218
+Last Trade Time:=4:00pm
+High:=30.60
+Last Trade Price:=30.07
+
+(pbct)
+Low:=13.51
+Open:=13.64
+Last Trade Date:=7/15/2011
+Change:=-0.01
+Volume:=799082
+Last Trade Time:=10:49am
+High:=13.652
+Last Trade Price:=13.54
+
+(pbh)
+Low:=13.27
+Open:=13.38
+Last Trade Date:=7/15/2011
+Change:=+0.11
+Volume:=230860
+Last Trade Time:=4:01pm
+High:=13.4893
+Last Trade Price:=13.44
+
+(pbi)
+Low:=21.97
+Open:=22.14
+Last Trade Date:=7/15/2011
+Change:=+0.04
+Volume:=2281426
+Last Trade Time:=4:01pm
+High:=22.1954
+Last Trade Price:=22.13
+
+(pbny)
+Low:=8.27
+Open:=8.34
+Last Trade Date:=7/15/2011
+Change:=+0.09
+Volume:=109390
+Last Trade Time:=4:00pm
+High:=8.51
+Last Trade Price:=8.45
+
+(pby)
+Low:=11.26
+Open:=11.29
+Last Trade Date:=7/15/2011
+Change:=+0.42
+Volume:=1042561
+Last Trade Time:=4:01pm
+High:=11.65
+Last Trade Price:=11.63
+
+(pcar)
+Low:=48.85
+Open:=49.31
+Last Trade Date:=7/15/2011
+Change:=+0.18
+Volume:=2519433
+Last Trade Time:=4:00pm
+High:=49.56
+Last Trade Price:=49.28
+
+(pccc)
+Low:=7.95
+Open:=8.07
+Last Trade Date:=7/15/2011
+Change:=+0.01
+Volume:=92089
+Last Trade Time:=4:00pm
+High:=8.20
+Last Trade Price:=8.05
+
+(pch)
+Low:=35.01
+Open:=35.41
+Last Trade Date:=7/15/2011
+Change:=+0.34
+Volume:=143195
+Last Trade Time:=4:00pm
+High:=35.50
+Last Trade Price:=35.32
+
+(pcln)
+Low:=515.804
+Open:=523.80
+Last Trade Date:=7/15/2011
+Change:=+2.78
+Volume:=667594
+Last Trade Time:=4:00pm
+High:=526.85
+Last Trade Price:=522.50
+
+(pcs)
+Low:=16.83
+Open:=16.90
+Last Trade Date:=7/15/2011
+Change:=+0.17
+Volume:=2544136
+Last Trade Time:=4:00pm
+High:=17.05
+Last Trade Price:=16.99
+
+(pdm)
+Low:=20.37
+Open:=20.45
+Last Trade Date:=7/15/2011
+Change:=+0.43
+Volume:=1161172
+Last Trade Time:=4:04pm
+High:=20.87
+Last Trade Price:=20.87
+
+(peb)
+Low:=19.88
+Open:=20.07
+Last Trade Date:=7/15/2011
+Change:=+0.17
+Volume:=378938
+Last Trade Time:=4:00pm
+High:=20.22
+Last Trade Price:=20.16
+
+(peet)
+Low:=58.94
+Open:=59.52
+Last Trade Date:=7/15/2011
+Change:=+1.17
+Volume:=152372
+Last Trade Time:=4:00pm
+High:=60.584
+Last Trade Price:=60.31
+
+(pei)
+Low:=15.63
+Open:=15.76
+Last Trade Date:=7/15/2011
+Change:=+0.21
+Volume:=273749
+Last Trade Time:=4:04pm
+High:=15.94
+Last Trade Price:=15.93
+
+(petm)
+Low:=44.46
+Open:=45.01
+Last Trade Date:=7/15/2011
+Change:=+0.14
+Volume:=756775
+Last Trade Time:=4:00pm
+High:=45.10
+Last Trade Price:=45.00
+
+(pfcb)
+Low:=40.23
+Open:=40.37
+Last Trade Date:=7/15/2011
+Change:=+0.52
+Volume:=392293
+Last Trade Time:=4:00pm
+High:=40.79
+Last Trade Price:=40.59
+
+(pfe)
+Low:=19.66
+Open:=19.82
+Last Trade Date:=7/15/2011
+Change:=-0.16
+Volume:=47495092
+Last Trade Time:=4:00pm
+High:=19.94
+Last Trade Price:=19.75
+
+(pg)
+Low:=64.35
+Open:=64.67
+Last Trade Date:=7/15/2011
+Change:=+0.23
+Volume:=10876783
+Last Trade Time:=4:01pm
+High:=64.85
+Last Trade Price:=64.83
+
+(pgi)
+Low:=7.90
+Open:=8.06
+Last Trade Date:=7/15/2011
+Change:=-0.01
+Volume:=196294
+Last Trade Time:=4:05pm
+High:=8.14
+Last Trade Price:=7.95
+
+(pgn)
+Low:=47.35
+Open:=47.77
+Last Trade Date:=7/15/2011
+Change:=-0.21
+Volume:=607498
+Last Trade Time:=12:21pm
+High:=47.79
+Last Trade Price:=47.46
+
+(pgnx)
+Low:=7.22
+Open:=N/A
+Last Trade Date:=7/15/2011
+Change:=-0.12
+Volume:=65469
+Last Trade Time:=4:00pm
+High:=7.50
+Last Trade Price:=7.37
+
+(pgti)
+Low:=1.79
+Open:=1.86
+Last Trade Date:=7/15/2011
+Change:=-0.03
+Volume:=23900
+Last Trade Time:=3:59pm
+High:=1.86
+Last Trade Price:=1.79
+
+(phh)
+Low:=19.43
+Open:=19.86
+Last Trade Date:=7/15/2011
+Change:=-0.27
+Volume:=555037
+Last Trade Time:=4:05pm
+High:=19.86
+Last Trade Price:=19.55
+
+(phiik)
+Low:=21.71
+Open:=21.87
+Last Trade Date:=7/15/2011
+Change:=+0.32
+Volume:=26811
+Last Trade Time:=4:00pm
+High:=22.28
+Last Trade Price:=22.20
+
+(phm)
+Low:=6.98
+Open:=7.16
+Last Trade Date:=7/15/2011
+Change:=0.00
+Volume:=7089020
+Last Trade Time:=4:00pm
+High:=7.17
+Last Trade Price:=7.09
+
+(pike)
+Low:=9.27
+Open:=9.27
+Last Trade Date:=7/15/2011
+Change:=+0.05
+Volume:=49163
+Last Trade Time:=4:02pm
+High:=9.60
+Last Trade Price:=9.30
+
+(pke)
+Low:=27.63
+Open:=27.69
+Last Trade Date:=7/15/2011
+Change:=+0.35
+Volume:=61871
+Last Trade Time:=4:02pm
+High:=28.12
+Last Trade Price:=27.95
+
+(pki)
+Low:=26.04
+Open:=26.26
+Last Trade Date:=7/15/2011
+Change:=-0.02
+Volume:=688188
+Last Trade Time:=4:02pm
+High:=26.33
+Last Trade Price:=26.19
+
+(pl)
+Low:=22.26
+Open:=22.82
+Last Trade Date:=7/15/2011
+Change:=-0.28
+Volume:=598336
+Last Trade Time:=4:02pm
+High:=23.09
+Last Trade Price:=22.34
+
+(plce)
+Low:=45.97
+Open:=46.74
+Last Trade Date:=7/15/2011
+Change:=+0.35
+Volume:=339647
+Last Trade Time:=4:00pm
+High:=46.84
+Last Trade Price:=46.80
+
+(plcm)
+Low:=30.35
+Open:=30.64
+Last Trade Date:=7/15/2011
+Change:=+0.45
+Volume:=1772995
+Last Trade Time:=4:00pm
+High:=31.16
+Last Trade Price:=31.02
+
+(plfe)
+Low:=11.04
+Open:=11.04
+Last Trade Date:=7/15/2011
+Change:=+0.23
+Volume:=41538
+Last Trade Time:=4:00pm
+High:=11.30
+Last Trade Price:=11.25
+
+(plpc)
+Low:=69.74
+Open:=69.74
+Last Trade Date:=7/15/2011
+Change:=+2.55
+Volume:=8583
+Last Trade Time:=4:00pm
+High:=72.80
+Last Trade Price:=71.89
+
+(pm)
+Low:=66.17
+Open:=66.62
+Last Trade Date:=7/15/2011
+Change:=+0.51
+Volume:=5453926
+Last Trade Time:=4:00pm
+High:=67.07
+Last Trade Price:=66.93
+
+(pnm)
+Low:=16.58
+Open:=16.64
+Last Trade Date:=7/15/2011
+Change:=+0.12
+Volume:=776503
+Last Trade Time:=4:03pm
+High:=16.77
+Last Trade Price:=16.76
+
+(pnra)
+Low:=129.11
+Open:=130.86
+Last Trade Date:=7/15/2011
+Change:=-0.36
+Volume:=305642
+Last Trade Time:=4:00pm
+High:=131.35
+Last Trade Price:=130.24
+
+(pnw)
+Low:=43.57
+Open:=43.99
+Last Trade Date:=7/15/2011
+Change:=+0.01
+Volume:=2217115
+Last Trade Time:=4:02pm
+High:=44.03
+Last Trade Price:=43.90
+
+(pnx)
+Low:=2.37
+Open:=2.42
+Last Trade Date:=7/15/2011
+Change:=-0.01
+Volume:=281510
+Last Trade Time:=4:03pm
+High:=2.44
+Last Trade Price:=2.41
+
+(podd)
+Low:=21.81
+Open:=22.02
+Last Trade Date:=7/15/2011
+Change:=+0.34
+Volume:=225170
+Last Trade Time:=4:00pm
+High:=22.37
+Last Trade Price:=22.21
+
+(powi)
+Low:=36.00
+Open:=N/A
+Last Trade Date:=7/15/2011
+Change:=+0.07
+Volume:=305641
+Last Trade Time:=4:00pm
+High:=36.72
+Last Trade Price:=36.48
+
+(ppc)
+Low:=4.93
+Open:=5.08
+Last Trade Date:=7/15/2011
+Change:=-0.01
+Volume:=1294694
+Last Trade Time:=4:02pm
+High:=5.11
+Last Trade Price:=5.08
+
+(ppd)
+Low:=N/A
+Open:=N/A
+Last Trade Date:=N/A
+Change:=N/A
+Volume:=N/A
+Last Trade Time:=N/A
+High:=N/A
+Last Trade Price:=0.00
+
+(ppg)
+Low:=88.59
+Open:=88.85
+Last Trade Date:=7/15/2011
+Change:=+1.22
+Volume:=1155860
+Last Trade Time:=4:02pm
+High:=89.75
+Last Trade Price:=89.67
+
+(pq)
+Low:=6.75
+Open:=6.75
+Last Trade Date:=7/15/2011
+Change:=+0.76
+Volume:=1524979
+Last Trade Time:=4:01pm
+High:=7.44
+Last Trade Price:=7.43
+
+(praa)
+Low:=78.77
+Open:=79.98
+Last Trade Date:=7/15/2011
+Change:=+0.54
+Volume:=77074
+Last Trade Time:=4:00pm
+High:=80.49
+Last Trade Price:=79.67
+
+(prgo)
+Low:=91.16
+Open:=92.73
+Last Trade Date:=7/15/2011
+Change:=-0.83
+Volume:=374897
+Last Trade Time:=4:00pm
+High:=93.19
+Last Trade Price:=91.80
+
+(prim)
+Low:=12.51
+Open:=12.92
+Last Trade Date:=7/15/2011
+Change:=-0.08
+Volume:=95439
+Last Trade Time:=4:00pm
+High:=13.01
+Last Trade Price:=12.80
+
+(prm)
+Low:=N/A
+Open:=N/A
+Last Trade Date:=N/A
+Change:=N/A
+Volume:=N/A
+Last Trade Time:=2:56pm
+High:=N/A
+Last Trade Price:=0.00
+
+(prs)
+Low:=5.96
+Open:=5.96
+Last Trade Date:=7/15/2011
+Change:=+0.05
+Volume:=48545
+Last Trade Time:=4:02pm
+High:=6.01
+Last Trade Price:=6.00
+
+(prsp)
+Low:=44.204
+Open:=44.78
+Last Trade Date:=7/15/2011
+Change:=-0.27
+Volume:=187193
+Last Trade Time:=4:00pm
+High:=44.85
+Last Trade Price:=44.48
+
+(prx)
+Low:=34.24
+Open:=34.77
+Last Trade Date:=7/15/2011
+Change:=-0.11
+Volume:=294735
+Last Trade Time:=4:02pm
+High:=34.85
+Last Trade Price:=34.49
+
+(pss)
+Low:=13.9498
+Open:=14.23
+Last Trade Date:=7/15/2011
+Change:=-0.07
+Volume:=1223650
+Last Trade Time:=4:00pm
+High:=14.26
+Last Trade Price:=14.09
+
+(ptv)
+Low:=N/A
+Open:=N/A
+Last Trade Date:=N/A
+Change:=N/A
+Volume:=N/A
+Last Trade Time:=N/A
+High:=N/A
+Last Trade Price:=0.00
+
+(pva)
+Low:=12.60
+Open:=12.60
+Last Trade Date:=7/15/2011
+Change:=+0.53
+Volume:=1618575
+Last Trade Time:=4:02pm
+High:=13.15
+Last Trade Price:=13.01
+
+(pvtb)
+Low:=13.24
+Open:=13.29
+Last Trade Date:=7/15/2011
+Change:=+0.22
+Volume:=420274
+Last Trade Time:=4:00pm
+High:=13.54
+Last Trade Price:=13.52
+
+(pzn)
+Low:=5.7944
+Open:=5.90
+Last Trade Date:=7/15/2011
+Change:=+0.04
+Volume:=42146
+Last Trade Time:=4:04pm
+High:=5.93
+Last Trade Price:=5.89
+
+(pzz)
+Low:=N/A
+Open:=N/A
+Last Trade Date:=N/A
+Change:=N/A
+Volume:=N/A
+Last Trade Time:=N/A
+High:=N/A
+Last Trade Price:=0.00
+
+(pzza)
+Low:=31.16
+Open:=N/A
+Last Trade Date:=7/15/2011
+Change:=-0.04
+Volume:=108873
+Last Trade Time:=4:00pm
+High:=31.70
+Last Trade Price:=31.54
+
+(qcom)
+Low:=54.64
+Open:=55.05
+Last Trade Date:=7/15/2011
+Change:=+0.04
+Volume:=17542520
+Last Trade Time:=4:00pm
+High:=55.50
+Last Trade Price:=54.96
+
+(qcor)
+Low:=26.19
+Open:=26.91
+Last Trade Date:=7/15/2011
+Change:=-0.52
+Volume:=728339
+Last Trade Time:=4:00pm
+High:=27.17
+Last Trade Price:=26.45
+
+(qdel)
+Low:=15.57
+Open:=15.69
+Last Trade Date:=7/15/2011
+Change:=-0.01
+Volume:=133940
+Last Trade Time:=4:00pm
+High:=15.84
+Last Trade Price:=15.67
+
+(qgen)
+Low:=18.07
+Open:=18.20
+Last Trade Date:=7/15/2011
+Change:=+0.03
+Volume:=1579950
+Last Trade Time:=4:00pm
+High:=18.31
+Last Trade Price:=18.28
+
+(qlty)
+Low:=12.665
+Open:=13.05
+Last Trade Date:=7/15/2011
+Change:=+0.10
+Volume:=52734
+Last Trade Time:=4:00pm
+High:=13.05
+Last Trade Price:=12.82
+
+(r)
+Low:=56.13
+Open:=57.02
+Last Trade Date:=7/15/2011
+Change:=+0.41
+Volume:=488459
+Last Trade Time:=4:02pm
+High:=57.0491
+Last Trade Price:=57.02
+
+(rad)
+Low:=N/A
+Open:=N/A
+Last Trade Date:=7/14/2011
+Change:=0.00
+Volume:=0
+Last Trade Time:=4:00pm
+High:=N/A
+Last Trade Price:=1.28
+
+(rah)
+Low:=84.19
+Open:=84.99
+Last Trade Date:=7/15/2011
+Change:=-0.62
+Volume:=3985990
+Last Trade Time:=4:00pm
+High:=86.03
+Last Trade Price:=86.00
+
+(ras)
+Low:=5.98
+Open:=6.05
+Last Trade Date:=7/15/2011
+Change:=+0.01
+Volume:=907003
+Last Trade Time:=4:01pm
+High:=6.14
+Last Trade Price:=6.05
+
+(rden)
+Low:=30.26
+Open:=30.45
+Last Trade Date:=7/15/2011
+Change:=+0.52
+Volume:=81357
+Last Trade Time:=4:00pm
+High:=30.725
+Last Trade Price:=30.58
+
+(recn)
+Low:=11.84
+Open:=13.00
+Last Trade Date:=7/15/2011
+Change:=+0.33
+Volume:=719918
+Last Trade Time:=4:00pm
+High:=13.07
+Last Trade Price:=12.51
+
+(reg)
+Low:=45.99
+Open:=46.34
+Last Trade Date:=7/15/2011
+Change:=+0.33
+Volume:=779499
+Last Trade Time:=4:03pm
+High:=46.56
+Last Trade Price:=46.55
+
+(ren)
+Low:=16.52
+Open:=16.52
+Last Trade Date:=7/15/2011
+Change:=+0.58
+Volume:=319864
+Last Trade Time:=4:02pm
+High:=17.12
+Last Trade Price:=17.05
+
+(rev)
+Low:=18.39
+Open:=19.33
+Last Trade Date:=7/15/2011
+Change:=-0.06
+Volume:=112724
+Last Trade Time:=4:00pm
+High:=19.33
+Last Trade Price:=19.13
+
+(revu)
+Low:=0.2205
+Open:=0.2299
+Last Trade Date:=7/15/2011
+Change:=+0.0008
+Volume:=171620
+Last Trade Time:=4:00pm
+High:=0.24
+Last Trade Price:=0.2299
+
+(rfmd)
+Low:=5.97
+Open:=6.05
+Last Trade Date:=7/15/2011
+Change:=+0.01
+Volume:=4252307
+Last Trade Time:=4:00pm
+High:=6.11
+Last Trade Price:=6.02
+
+(rgr)
+Low:=22.92
+Open:=23.23
+Last Trade Date:=7/15/2011
+Change:=+0.03
+Volume:=129720
+Last Trade Time:=4:02pm
+High:=23.38
+Last Trade Price:=23.07
+
+(rhi)
+Low:=25.075
+Open:=25.38
+Last Trade Date:=7/15/2011
+Change:=+0.03
+Volume:=591882
+Last Trade Time:=1:51pm
+High:=25.42
+Last Trade Price:=25.35
+
+(rigl)
+Low:=9.68
+Open:=9.88
+Last Trade Date:=7/15/2011
+Change:=+0.25
+Volume:=484534
+Last Trade Time:=4:00pm
+High:=10.15
+Last Trade Price:=10.15
+
+(rimm)
+Low:=27.21
+Open:=27.49
+Last Trade Date:=7/15/2011
+Change:=+0.25
+Volume:=11321213
+Last Trade Time:=4:00pm
+High:=27.77
+Last Trade Price:=27.52
+
+(rjet)
+Low:=4.87
+Open:=5.08
+Last Trade Date:=7/15/2011
+Change:=-0.17
+Volume:=267419
+Last Trade Time:=4:00pm
+High:=5.14
+Last Trade Price:=4.90
+
+(rkt)
+Low:=61.54
+Open:=63.00
+Last Trade Date:=7/15/2011
+Change:=+0.94
+Volume:=688481
+Last Trade Time:=4:02pm
+High:=63.09
+Last Trade Price:=62.19
+
+(rli)
+Low:=62.44
+Open:=62.61
+Last Trade Date:=7/15/2011
+Change:=+0.01
+Volume:=89269
+Last Trade Time:=4:06pm
+High:=62.82
+Last Trade Price:=62.63
+
+(rloc)
+Low:=19.62
+Open:=19.62
+Last Trade Date:=7/15/2011
+Change:=+0.88
+Volume:=214696
+Last Trade Time:=4:00pm
+High:=20.36
+Last Trade Price:=20.28
+
+(rnow)
+Low:=29.38
+Open:=29.85
+Last Trade Date:=7/15/2011
+Change:=0.00
+Volume:=149370
+Last Trade Time:=4:00pm
+High:=29.96
+Last Trade Price:=29.54
+
+(rnr)
+Low:=69.56
+Open:=70.63
+Last Trade Date:=7/15/2011
+Change:=-0.52
+Volume:=303112
+Last Trade Time:=4:06pm
+High:=70.63
+Last Trade Price:=69.69
+
+(rnst)
+Low:=14.81
+Open:=15.03
+Last Trade Date:=7/15/2011
+Change:=+0.07
+Volume:=47389
+Last Trade Time:=4:00pm
+High:=15.10
+Last Trade Price:=15.08
+
+(roc)
+Low:=56.94
+Open:=57.25
+Last Trade Date:=7/15/2011
+Change:=+0.70
+Volume:=754799
+Last Trade Time:=4:01pm
+High:=57.7294
+Last Trade Price:=57.58
+
+(rocm)
+Low:=8.76
+Open:=8.80
+Last Trade Date:=7/15/2011
+Change:=+0.02
+Volume:=19305
+Last Trade Time:=3:59pm
+High:=9.13
+Last Trade Price:=9.10
+
+(rodm)
+Low:=1.53
+Open:=1.55
+Last Trade Date:=7/15/2011
+Change:=+0.14
+Volume:=171238
+Last Trade Time:=3:59pm
+High:=1.73
+Last Trade Price:=1.65
+
+(roiak)
+Low:=1.62
+Open:=1.65
+Last Trade Date:=7/15/2011
+Change:=+0.01
+Volume:=51808
+Last Trade Time:=4:00pm
+High:=1.67
+Last Trade Price:=1.65
+
+(rok)
+Low:=80.32
+Open:=81.49
+Last Trade Date:=7/15/2011
+Change:=+0.31
+Volume:=1173904
+Last Trade Time:=4:02pm
+High:=81.63
+Last Trade Price:=81.10
+
+(rol)
+Low:=20.60
+Open:=20.68
+Last Trade Date:=7/15/2011
+Change:=+0.15
+Volume:=167964
+Last Trade Time:=4:02pm
+High:=20.79
+Last Trade Price:=20.78
+
+(roll)
+Low:=38.29
+Open:=38.31
+Last Trade Date:=7/15/2011
+Change:=+0.56
+Volume:=206991
+Last Trade Time:=4:00pm
+High:=39.43
+Last Trade Price:=39.21
+
+(rop)
+Low:=80.87
+Open:=81.50
+Last Trade Date:=7/15/2011
+Change:=+1.11
+Volume:=533352
+Last Trade Time:=4:01pm
+High:=82.21
+Last Trade Price:=82.17
+
+(rose)
+Low:=53.64
+Open:=54.99
+Last Trade Date:=7/15/2011
+Change:=+3.73
+Volume:=2230321
+Last Trade Time:=4:00pm
+High:=57.35
+Last Trade Price:=55.93
+
+(rost)
+Low:=76.92
+Open:=77.88
+Last Trade Date:=7/15/2011
+Change:=-0.10
+Volume:=1117919
+Last Trade Time:=4:00pm
+High:=78.01
+Last Trade Price:=77.67
+
+(rt)
+Low:=10.8605
+Open:=11.10
+Last Trade Date:=7/15/2011
+Change:=0.00
+Volume:=583941
+Last Trade Time:=4:02pm
+High:=11.14
+Last Trade Price:=11.07
+
+(rtec)
+Low:=10.33
+Open:=10.41
+Last Trade Date:=7/15/2011
+Change:=+0.13
+Volume:=189152
+Last Trade Time:=4:00pm
+High:=10.55
+Last Trade Price:=10.50
+
+(rtix)
+Low:=3.09
+Open:=3.21
+Last Trade Date:=7/15/2011
+Change:=-0.01
+Volume:=473924
+Last Trade Time:=4:00pm
+High:=3.25
+Last Trade Price:=3.09
+
+(rue)
+Low:=32.92
+Open:=34.37
+Last Trade Date:=7/15/2011
+Change:=-0.54
+Volume:=121338
+Last Trade Time:=1:35pm
+High:=34.86
+Last Trade Price:=33.52
+
+(rwt)
+Low:=14.73
+Open:=14.94
+Last Trade Date:=7/15/2011
+Change:=-0.06
+Volume:=587306
+Last Trade Time:=4:01pm
+High:=14.95
+Last Trade Price:=14.85
+
+(safm)
+Low:=45.35
+Open:=45.61
+Last Trade Date:=7/15/2011
+Change:=+0.24
+Volume:=192598
+Last Trade Time:=4:00pm
+High:=45.99
+Last Trade Price:=45.86
+
+(saft)
+Low:=41.60
+Open:=41.73
+Last Trade Date:=7/15/2011
+Change:=+0.13
+Volume:=44256
+Last Trade Time:=4:00pm
+High:=42.04
+Last Trade Price:=41.89
+
+(sam)
+Low:=89.70
+Open:=90.05
+Last Trade Date:=7/15/2011
+Change:=+0.07
+Volume:=54903
+Last Trade Time:=4:04pm
+High:=90.55
+Last Trade Price:=90.11
+
+(sanm)
+Low:=9.08
+Open:=9.32
+Last Trade Date:=7/15/2011
+Change:=+0.02
+Volume:=488632
+Last Trade Time:=4:00pm
+High:=9.35
+Last Trade Price:=9.20
+
+(sbib)
+Low:=7.63
+Open:=7.74
+Last Trade Date:=7/15/2011
+Change:=0.00
+Volume:=538012
+Last Trade Time:=4:00pm
+High:=7.76
+Last Trade Price:=7.69
+
+(sbp)
+Low:=N/A
+Open:=N/A
+Last Trade Date:=N/A
+Change:=N/A
+Volume:=N/A
+Last Trade Time:=N/A
+High:=N/A
+Last Trade Price:=0.00
+
+(sbsi)
+Low:=20.29
+Open:=20.42
+Last Trade Date:=7/15/2011
+Change:=+0.14
+Volume:=37472
+Last Trade Time:=4:00pm
+High:=20.58
+Last Trade Price:=20.56
+
+(sbux)
+Low:=39.08
+Open:=39.11
+Last Trade Date:=7/15/2011
+Change:=+0.67
+Volume:=6605387
+Last Trade Time:=4:00pm
+High:=39.80
+Last Trade Price:=39.80
+
+(scl)
+Low:=72.22
+Open:=73.23
+Last Trade Date:=7/15/2011
+Change:=-0.40
+Volume:=24320
+Last Trade Time:=4:05pm
+High:=73.23
+Last Trade Price:=72.70
+
+(scmp)
+Low:=4.02
+Open:=4.10
+Last Trade Date:=7/15/2011
+Change:=+0.03
+Volume:=21566
+Last Trade Time:=4:00pm
+High:=4.14
+Last Trade Price:=4.13
+
+(scs)
+Low:=10.64
+Open:=11.00
+Last Trade Date:=7/15/2011
+Change:=-0.32
+Volume:=874913
+Last Trade Time:=4:04pm
+High:=11.02
+Last Trade Price:=10.67
+
+(scvl)
+Low:=32.61
+Open:=32.87
+Last Trade Date:=7/15/2011
+Change:=-0.02
+Volume:=43265
+Last Trade Time:=4:00pm
+High:=33.11
+Last Trade Price:=32.71
+
+(seb)
+Low:=2453.3201
+Open:=2470.20
+Last Trade Date:=7/15/2011
+Change:=+15.00
+Volume:=868
+Last Trade Time:=4:00pm
+High:=2494.00
+Last Trade Price:=2473.00
+
+(see)
+Low:=22.86
+Open:=23.20
+Last Trade Date:=7/15/2011
+Change:=-0.05
+Volume:=1189202
+Last Trade Time:=4:01pm
+High:=23.29
+Last Trade Price:=23.04
+
+(seno)
+Low:=N/A
+Open:=N/A
+Last Trade Date:=N/A
+Change:=N/A
+Volume:=N/A
+Last Trade Time:=N/A
+High:=N/A
+Last Trade Price:=0.00
+
+(sf)
+Low:=36.83
+Open:=36.90
+Last Trade Date:=7/15/2011
+Change:=+0.43
+Volume:=678100
+Last Trade Time:=4:03pm
+High:=37.21
+Last Trade Price:=37.19
+
+(sfsf)
+Low:=27.88
+Open:=28.41
+Last Trade Date:=7/15/2011
+Change:=+0.14
+Volume:=955241
+Last Trade Time:=4:00pm
+High:=28.56
+Last Trade Price:=28.43
+
+(shld)
+Low:=73.60
+Open:=74.32
+Last Trade Date:=7/15/2011
+Change:=+0.40
+Volume:=110638
+Last Trade Time:=11:21am
+High:=74.77
+Last Trade Price:=74.54
+
+(shoo)
+Low:=40.0644
+Open:=40.65
+Last Trade Date:=7/15/2011
+Change:=+0.20
+Volume:=170756
+Last Trade Time:=1:41pm
+High:=40.65
+Last Trade Price:=40.50
+
+(shw)
+Low:=82.56
+Open:=83.40
+Last Trade Date:=7/15/2011
+Change:=+0.08
+Volume:=929941
+Last Trade Time:=4:00pm
+High:=83.40
+Last Trade Price:=83.20
+
+(sial)
+Low:=72.58
+Open:=73.32
+Last Trade Date:=7/15/2011
+Change:=+0.21
+Volume:=658798
+Last Trade Time:=4:00pm
+High:=73.38
+Last Trade Price:=73.22
+
+(simg)
+Low:=6.32
+Open:=6.46
+Last Trade Date:=7/15/2011
+Change:=-0.05
+Volume:=503281
+Last Trade Time:=4:00pm
+High:=6.5196
+Last Trade Price:=6.38
+
+(siro)
+Low:=54.242
+Open:=55.36
+Last Trade Date:=7/15/2011
+Change:=+0.43
+Volume:=144063
+Last Trade Time:=4:00pm
+High:=55.36
+Last Trade Price:=55.05
+
+(sivb)
+Low:=59.23
+Open:=60.25
+Last Trade Date:=7/15/2011
+Change:=-0.52
+Volume:=806786
+Last Trade Time:=4:00pm
+High:=60.56
+Last Trade Price:=59.58
+
+(sji)
+Low:=53.61
+Open:=53.75
+Last Trade Date:=7/15/2011
+Change:=+0.28
+Volume:=122283
+Last Trade Time:=4:03pm
+High:=54.04
+Last Trade Price:=54.03
+
+(sjm)
+Low:=75.65
+Open:=76.08
+Last Trade Date:=7/15/2011
+Change:=+0.34
+Volume:=702798
+Last Trade Time:=4:02pm
+High:=76.47
+Last Trade Price:=76.30
+
+(sjw)
+Low:=23.79
+Open:=23.88
+Last Trade Date:=7/15/2011
+Change:=+0.21
+Volume:=35092
+Last Trade Time:=4:05pm
+High:=24.28
+Last Trade Price:=24.16
+
+(slh)
+Low:=58.55
+Open:=59.17
+Last Trade Date:=7/15/2011
+Change:=+0.17
+Volume:=191510
+Last Trade Time:=4:05pm
+High:=59.39
+Last Trade Price:=58.97
+
+(slrc)
+Low:=24.45
+Open:=24.47
+Last Trade Date:=7/15/2011
+Change:=+0.05
+Volume:=37603
+Last Trade Time:=9:30am
+High:=24.55
+Last Trade Price:=24.47
+
+(smg)
+Low:=50.58
+Open:=50.96
+Last Trade Date:=7/15/2011
+Change:=+0.34
+Volume:=380429
+Last Trade Time:=3:44pm
+High:=51.08
+Last Trade Price:=51.08
+
+(smod)
+Low:=9.16
+Open:=9.19
+Last Trade Date:=7/15/2011
+Change:=-0.02
+Volume:=1559902
+Last Trade Time:=4:00pm
+High:=9.19
+Last Trade Price:=9.18
+
+(smrt)
+Low:=9.64
+Open:=9.97
+Last Trade Date:=7/15/2011
+Change:=-0.14
+Volume:=166230
+Last Trade Time:=4:00pm
+High:=10.00
+Last Trade Price:=9.78
+
+(smsi)
+Low:=3.91
+Open:=3.92
+Last Trade Date:=7/15/2011
+Change:=+0.18
+Volume:=412253
+Last Trade Time:=4:00pm
+High:=4.17
+Last Trade Price:=4.15
+
+(sndk)
+Low:=41.20
+Open:=41.50
+Last Trade Date:=7/15/2011
+Change:=+0.28
+Volume:=357675
+Last Trade Time:=9:36am
+High:=41.56
+Last Trade Price:=41.44
+
+(snh)
+Low:=23.27
+Open:=23.42
+Last Trade Date:=7/15/2011
+Change:=+0.142
+Volume:=531785
+Last Trade Time:=12:52pm
+High:=23.58
+Last Trade Price:=23.552
+
+(solr)
+Low:=14.74
+Open:=15.26
+Last Trade Date:=7/15/2011
+Change:=-0.03
+Volume:=2648490
+Last Trade Time:=4:00pm
+High:=15.27
+Last Trade Price:=15.14
+
+(sonc)
+Low:=10.54
+Open:=10.95
+Last Trade Date:=7/15/2011
+Change:=-0.14
+Volume:=687763
+Last Trade Time:=4:00pm
+High:=10.97
+Last Trade Price:=10.73
+
+(sone)
+Low:=7.00
+Open:=7.06
+Last Trade Date:=7/15/2011
+Change:=+0.06
+Volume:=228525
+Last Trade Time:=4:00pm
+High:=7.11
+Last Trade Price:=7.11
+
+(spec)
+Low:=N/A
+Open:=N/A
+Last Trade Date:=N/A
+Change:=N/A
+Volume:=N/A
+Last Trade Time:=N/A
+High:=N/A
+Last Trade Price:=0.00
+
+(spls)
+Low:=15.18
+Open:=15.25
+Last Trade Date:=7/15/2011
+Change:=+0.09
+Volume:=880463
+Last Trade Time:=9:36am
+High:=15.30
+Last Trade Price:=15.29
+
+(spmd)
+Low:=3.60
+Open:=3.84
+Last Trade Date:=7/15/2011
+Change:=+0.02
+Volume:=58374
+Last Trade Time:=4:00pm
+High:=3.94
+Last Trade Price:=3.86
+
+(spn)
+Low:=38.61
+Open:=38.62
+Last Trade Date:=7/15/2011
+Change:=+1.37
+Volume:=661917
+Last Trade Time:=4:02pm
+High:=39.72
+Last Trade Price:=39.63
+
+(sptn)
+Low:=19.95
+Open:=20.20
+Last Trade Date:=7/15/2011
+Change:=+0.14
+Volume:=135031
+Last Trade Time:=4:00pm
+High:=20.31
+Last Trade Price:=20.31
+
+(spw)
+Low:=80.13
+Open:=81.13
+Last Trade Date:=7/15/2011
+Change:=+0.32
+Volume:=111342
+Last Trade Time:=12:46pm
+High:=81.42
+Last Trade Price:=81.03
+
+(srcl)
+Low:=89.77
+Open:=90.13
+Last Trade Date:=7/15/2011
+Change:=+1.01
+Volume:=365918
+Last Trade Time:=4:00pm
+High:=90.93
+Last Trade Price:=90.91
+
+(srdx)
+Low:=11.58
+Open:=11.76
+Last Trade Date:=7/15/2011
+Change:=-0.025
+Volume:=35966
+Last Trade Time:=4:00pm
+High:=11.919
+Last Trade Price:=11.71
+
+(sri)
+Low:=14.49
+Open:=14.79
+Last Trade Date:=7/15/2011
+Change:=-0.07
+Volume:=130601
+Last Trade Time:=4:01pm
+High:=14.855
+Last Trade Price:=14.67
+
+(srsl)
+Low:=9.01
+Open:=9.40
+Last Trade Date:=7/15/2011
+Change:=+0.03
+Volume:=58847
+Last Trade Time:=4:00pm
+High:=9.63
+Last Trade Price:=9.41
+
+(srx)
+Low:=31.21
+Open:=31.22
+Last Trade Date:=7/15/2011
+Change:=+0.02
+Volume:=2434032
+Last Trade Time:=4:00pm
+High:=31.25
+Last Trade Price:=31.22
+
+(srz)
+Low:=9.40
+Open:=9.65
+Last Trade Date:=7/15/2011
+Change:=-0.01
+Volume:=650482
+Last Trade Time:=4:03pm
+High:=9.7394
+Last Trade Price:=9.53
+
+(ssp)
+Low:=8.61
+Open:=8.92
+Last Trade Date:=7/15/2011
+Change:=-0.04
+Volume:=237189
+Last Trade Time:=4:03pm
+High:=8.92
+Last Trade Price:=8.71
+
+(stba)
+Low:=17.25
+Open:=17.65
+Last Trade Date:=7/15/2011
+Change:=-0.14
+Volume:=80581
+Last Trade Time:=4:00pm
+High:=17.88
+Last Trade Price:=17.36
+
+(stfc)
+Low:=17.06
+Open:=17.12
+Last Trade Date:=7/15/2011
+Change:=+0.18
+Volume:=30255
+Last Trade Time:=4:00pm
+High:=17.37
+Last Trade Price:=17.29
+
+(sti)
+Low:=24.37
+Open:=24.79
+Last Trade Date:=7/15/2011
+Change:=0.00
+Volume:=5678389
+Last Trade Time:=4:00pm
+High:=24.83
+Last Trade Price:=24.64
+
+(stnr)
+Low:=49.26
+Open:=49.92
+Last Trade Date:=7/15/2011
+Change:=+0.29
+Volume:=30072
+Last Trade Time:=4:00pm
+High:=50.11
+Last Trade Price:=49.61
+
+(stu)
+Low:=N/A
+Open:=N/A
+Last Trade Date:=N/A
+Change:=N/A
+Volume:=N/A
+Last Trade Time:=N/A
+High:=N/A
+Last Trade Price:=0.00
+
+(stwd)
+Low:=20.37
+Open:=20.46
+Last Trade Date:=7/15/2011
+Change:=+0.19
+Volume:=695718
+Last Trade Time:=4:03pm
+High:=20.60
+Last Trade Price:=20.57
+
+(stx)
+Low:=16.59
+Open:=16.97
+Last Trade Date:=7/15/2011
+Change:=+0.13
+Volume:=5881759
+Last Trade Time:=4:00pm
+High:=17.03
+Last Trade Price:=16.81
+
+(sui)
+Low:=37.54
+Open:=37.67
+Last Trade Date:=7/15/2011
+Change:=+0.66
+Volume:=96931
+Last Trade Time:=4:04pm
+High:=38.37
+Last Trade Price:=38.28
+
+(sumr)
+Low:=8.47
+Open:=8.57
+Last Trade Date:=7/15/2011
+Change:=-0.03
+Volume:=70346
+Last Trade Time:=4:00pm
+High:=8.57
+Last Trade Price:=8.49
+
+(supx)
+Low:=21.00
+Open:=21.17
+Last Trade Date:=7/15/2011
+Change:=+0.39
+Volume:=54531
+Last Trade Time:=4:00pm
+High:=21.49
+Last Trade Price:=21.35
+
+(sur)
+Low:=N/A
+Open:=N/A
+Last Trade Date:=N/A
+Change:=N/A
+Volume:=N/A
+Last Trade Time:=N/A
+High:=N/A
+Last Trade Price:=0.00
+
+(svvs)
+Low:=N/A
+Open:=N/A
+Last Trade Date:=7/14/2011
+Change:=0.00
+Volume:=0
+Last Trade Time:=4:00pm
+High:=N/A
+Last Trade Price:=39.50
+
+(swk)
+Low:=68.25
+Open:=69.28
+Last Trade Date:=7/15/2011
+Change:=+0.70
+Volume:=1607698
+Last Trade Time:=4:01pm
+High:=69.74
+Last Trade Price:=69.69
+
+(swm)
+Low:=56.54
+Open:=56.54
+Last Trade Date:=7/15/2011
+Change:=+0.56
+Volume:=91271
+Last Trade Time:=4:03pm
+High:=57.15
+Last Trade Price:=57.00
+
+(sxt)
+Low:=37.47
+Open:=37.73
+Last Trade Date:=7/15/2011
+Change:=+0.29
+Volume:=148668
+Last Trade Time:=4:02pm
+High:=38.01
+Last Trade Price:=37.95
+
+(sy)
+Low:=N/A
+Open:=N/A
+Last Trade Date:=N/A
+Change:=N/A
+Volume:=N/A
+Last Trade Time:=N/A
+High:=N/A
+Last Trade Price:=0.00
+
+(syke)
+Low:=20.24
+Open:=20.69
+Last Trade Date:=7/15/2011
+Change:=-0.12
+Volume:=174276
+Last Trade Time:=4:00pm
+High:=20.76
+Last Trade Price:=20.38
+
+(symc)
+Low:=18.87
+Open:=19.02
+Last Trade Date:=7/15/2011
+Change:=0.00
+Volume:=7982733
+Last Trade Time:=4:00pm
+High:=19.11
+Last Trade Price:=18.97
+
+(symm)
+Low:=5.94
+Open:=5.97
+Last Trade Date:=7/15/2011
+Change:=+0.21
+Volume:=100988
+Last Trade Time:=4:00pm
+High:=6.17
+Last Trade Price:=6.17
+
+(synm)
+Low:=1.36
+Open:=1.38
+Last Trade Date:=7/15/2011
+Change:=0.00
+Volume:=856901
+Last Trade Time:=4:00pm
+High:=1.40
+Last Trade Price:=1.37
+
+(syno)
+Low:=17.55
+Open:=17.64
+Last Trade Date:=7/15/2011
+Change:=+0.13
+Volume:=24662
+Last Trade Time:=4:00pm
+High:=17.8867
+Last Trade Price:=17.73
+
+(synt)
+Low:=57.56
+Open:=58.39
+Last Trade Date:=7/15/2011
+Change:=0.00
+Volume:=116322
+Last Trade Time:=4:00pm
+High:=58.42
+Last Trade Price:=58.16
+
+(syx)
+Low:=15.84
+Open:=16.01
+Last Trade Date:=7/15/2011
+Change:=+0.14
+Volume:=61761
+Last Trade Time:=4:06pm
+High:=16.21
+Last Trade Price:=16.15
+
+(t)
+Low:=30.20
+Open:=30.70
+Last Trade Date:=7/15/2011
+Change:=-0.25
+Volume:=28355568
+Last Trade Time:=4:00pm
+High:=30.70
+Last Trade Price:=30.33
+
+(tal)
+Low:=30.96
+Open:=32.46
+Last Trade Date:=7/15/2011
+Change:=-0.82
+Volume:=587699
+Last Trade Time:=4:05pm
+High:=32.50
+Last Trade Price:=31.17
+
+(tap)
+Low:=44.45
+Open:=44.79
+Last Trade Date:=7/15/2011
+Change:=+0.25
+Volume:=1347245
+Last Trade Time:=4:00pm
+High:=44.95
+Last Trade Price:=44.82
+
+(tasr)
+Low:=4.25
+Open:=4.27
+Last Trade Date:=7/15/2011
+Change:=+0.03
+Volume:=219478
+Last Trade Time:=4:00pm
+High:=4.32
+Last Trade Price:=4.29
+
+(tast)
+Low:=10.08
+Open:=10.30
+Last Trade Date:=7/15/2011
+Change:=-0.025
+Volume:=70735
+Last Trade Time:=4:00pm
+High:=10.39
+Last Trade Price:=10.165
+
+(tat)
+Low:=1.49
+Open:=1.55
+Last Trade Date:=7/15/2011
+Change:=+0.15
+Volume:=1278599
+Last Trade Time:=4:01pm
+High:=1.69
+Last Trade Price:=1.69
+
+(tayc)
+Low:=9.13
+Open:=9.37
+Last Trade Date:=7/15/2011
+Change:=+0.02
+Volume:=19607
+Last Trade Time:=4:00pm
+High:=9.40
+Last Trade Price:=9.17
+
+(tbnk)
+Low:=20.87
+Open:=20.88
+Last Trade Date:=7/15/2011
+Change:=+0.10
+Volume:=24723
+Last Trade Time:=4:00pm
+High:=21.0399
+Last Trade Price:=21.00
+
+(tc)
+Low:=9.8399
+Open:=9.93
+Last Trade Date:=7/15/2011
+Change:=+0.10
+Volume:=1654440
+Last Trade Time:=4:04pm
+High:=10.07
+Last Trade Price:=9.92
+
+(tcb)
+Low:=13.13
+Open:=13.37
+Last Trade Date:=7/15/2011
+Change:=-0.05
+Volume:=1252697
+Last Trade Time:=4:03pm
+High:=13.37
+Last Trade Price:=13.25
+
+(tco)
+Low:=59.93
+Open:=60.38
+Last Trade Date:=7/15/2011
+Change:=+1.72
+Volume:=518537
+Last Trade Time:=4:03pm
+High:=61.93
+Last Trade Price:=61.76
+
+(tcrd)
+Low:=12.75
+Open:=12.85
+Last Trade Date:=7/15/2011
+Change:=-0.05
+Volume:=51679
+Last Trade Time:=4:00pm
+High:=12.96
+Last Trade Price:=12.77
+
+(tdy)
+Low:=48.83
+Open:=49.52
+Last Trade Date:=7/15/2011
+Change:=+0.24
+Volume:=232241
+Last Trade Time:=4:03pm
+High:=49.83
+Last Trade Price:=49.45
+
+(te)
+Low:=18.55
+Open:=18.69
+Last Trade Date:=7/15/2011
+Change:=+0.06
+Volume:=1116252
+Last Trade Time:=4:01pm
+High:=18.70
+Last Trade Price:=18.68
+
+(tecua)
+Low:=10.12
+Open:=10.26
+Last Trade Date:=7/15/2011
+Change:=+0.20
+Volume:=37836
+Last Trade Time:=4:00pm
+High:=10.49
+Last Trade Price:=10.43
+
+(ten)
+Low:=42.98
+Open:=43.45
+Last Trade Date:=7/15/2011
+Change:=+0.32
+Volume:=674018
+Last Trade Time:=4:03pm
+High:=43.80
+Last Trade Price:=43.68
+
+(ter)
+Low:=13.43
+Open:=13.71
+Last Trade Date:=7/15/2011
+Change:=+0.08
+Volume:=2801741
+Last Trade Time:=4:05pm
+High:=13.74
+Last Trade Price:=13.69
+
+(teva)
+Low:=47.86
+Open:=48.62
+Last Trade Date:=7/15/2011
+Change:=-0.5102
+Volume:=1361573
+Last Trade Time:=11:46am
+High:=48.67
+Last Trade Price:=47.9198
+
+(tfx)
+Low:=61.38
+Open:=62.02
+Last Trade Date:=7/15/2011
+Change:=+0.03
+Volume:=217418
+Last Trade Time:=4:00pm
+High:=62.02
+Last Trade Price:=61.78
+
+(tg)
+Low:=19.26
+Open:=19.43
+Last Trade Date:=7/15/2011
+Change:=+0.37
+Volume:=73496
+Last Trade Time:=4:03pm
+High:=19.91
+Last Trade Price:=19.65
+
+(tgh)
+Low:=28.05
+Open:=28.51
+Last Trade Date:=7/15/2011
+Change:=-0.09
+Volume:=80788
+Last Trade Time:=4:01pm
+High:=28.51
+Last Trade Price:=28.26
+
+(tgi)
+Low:=50.03
+Open:=50.80
+Last Trade Date:=7/15/2011
+Change:=-0.055
+Volume:=360409
+Last Trade Time:=4:02pm
+High:=50.85
+Last Trade Price:=50.49
+
+(thff)
+Low:=32.86
+Open:=32.86
+Last Trade Date:=7/15/2011
+Change:=+0.40
+Volume:=20356
+Last Trade Time:=4:00pm
+High:=33.55
+Last Trade Price:=33.23
+
+(thmd)
+Low:=N/A
+Open:=N/A
+Last Trade Date:=N/A
+Change:=N/A
+Volume:=N/A
+Last Trade Time:=6:-230pm
+High:=N/A
+Last Trade Price:=0.00
+
+(tho)
+Low:=27.04
+Open:=27.46
+Last Trade Date:=7/15/2011
+Change:=+0.03
+Volume:=417281
+Last Trade Time:=4:01pm
+High:=27.46
+Last Trade Price:=27.40
+
+(thrx)
+Low:=23.75
+Open:=24.15
+Last Trade Date:=7/15/2011
+Change:=+0.23
+Volume:=332500
+Last Trade Time:=4:00pm
+High:=24.58
+Last Trade Price:=24.18
+
+(tie)
+Low:=18.20
+Open:=18.39
+Last Trade Date:=7/15/2011
+Change:=+0.41
+Volume:=2647170
+Last Trade Time:=4:01pm
+High:=18.74
+Last Trade Price:=18.68
+
+(tif)
+Low:=80.95
+Open:=82.71
+Last Trade Date:=7/15/2011
+Change:=+0.41
+Volume:=1428951
+Last Trade Time:=4:01pm
+High:=82.90
+Last Trade Price:=81.88
+
+(tiny)
+Low:=5.19
+Open:=5.39
+Last Trade Date:=7/15/2011
+Change:=-0.03
+Volume:=94943
+Last Trade Time:=4:00pm
+High:=5.42
+Last Trade Price:=5.35
+
+(tisi)
+Low:=23.63
+Open:=23.70
+Last Trade Date:=7/15/2011
+Change:=+0.51
+Volume:=55304
+Last Trade Time:=4:00pm
+High:=24.29
+Last Trade Price:=24.16
+
+(tjx)
+Low:=54.59
+Open:=55.24
+Last Trade Date:=7/15/2011
+Change:=+0.17
+Volume:=2740442
+Last Trade Time:=4:00pm
+High:=55.27
+Last Trade Price:=55.26
+
+(tklc)
+Low:=8.40
+Open:=8.50
+Last Trade Date:=7/15/2011
+Change:=+0.11
+Volume:=1203150
+Last Trade Time:=4:00pm
+High:=8.62
+Last Trade Price:=8.55
+
+(tkr)
+Low:=47.68
+Open:=48.62
+Last Trade Date:=7/15/2011
+Change:=+0.04
+Volume:=1097871
+Last Trade Time:=4:06pm
+High:=48.85
+Last Trade Price:=48.45
+
+(tmp)
+Low:=39.50
+Open:=39.52
+Last Trade Date:=7/15/2011
+Change:=+0.55
+Volume:=18711
+Last Trade Time:=4:03pm
+High:=40.46
+Last Trade Price:=40.22
+
+(tmrk)
+Low:=N/A
+Open:=N/A
+Last Trade Date:=N/A
+Change:=N/A
+Volume:=N/A
+Last Trade Time:=-17:32am
+High:=N/A
+Last Trade Price:=0.00
+
+(tnc)
+Low:=40.13
+Open:=40.81
+Last Trade Date:=7/15/2011
+Change:=-0.06
+Volume:=95786
+Last Trade Time:=4:04pm
+High:=41.08
+Last Trade Price:=40.65
+
+(tnk)
+Low:=8.80
+Open:=8.86
+Last Trade Date:=7/15/2011
+Change:=+0.13
+Volume:=207390
+Last Trade Time:=4:04pm
+High:=8.9799
+Last Trade Price:=8.93
+
+(tpgi)
+Low:=3.27
+Open:=3.37
+Last Trade Date:=7/15/2011
+Change:=-0.04
+Volume:=40025
+Last Trade Time:=3:59pm
+High:=3.38
+Last Trade Price:=3.32
+
+(trad)
+Low:=N/A
+Open:=N/A
+Last Trade Date:=N/A
+Change:=N/A
+Volume:=N/A
+Last Trade Time:=N/A
+High:=N/A
+Last Trade Price:=0.00
+
+(trak)
+Low:=22.14
+Open:=22.80
+Last Trade Date:=7/15/2011
+Change:=-0.32
+Volume:=270561
+Last Trade Time:=4:00pm
+High:=22.83
+Last Trade Price:=22.37
+
+(trex)
+Low:=20.04
+Open:=20.28
+Last Trade Date:=7/15/2011
+Change:=+0.19
+Volume:=165250
+Last Trade Time:=4:03pm
+High:=20.48
+Last Trade Price:=20.39
+
+(trmk)
+Low:=22.80
+Open:=23.03
+Last Trade Date:=7/15/2011
+Change:=-0.05
+Volume:=270033
+Last Trade Time:=4:00pm
+High:=23.08
+Last Trade Price:=22.93
+
+(trow)
+Low:=57.44
+Open:=58.86
+Last Trade Date:=7/15/2011
+Change:=-0.10
+Volume:=2085782
+Last Trade Time:=4:00pm
+High:=58.94
+Last Trade Price:=58.34
+
+(trv)
+Low:=57.60
+Open:=58.14
+Last Trade Date:=7/15/2011
+Change:=+0.17
+Volume:=2914081
+Last Trade Time:=4:01pm
+High:=58.3097
+Last Trade Price:=57.90
+
+(tsn)
+Low:=18.26
+Open:=18.46
+Last Trade Date:=7/15/2011
+Change:=-0.03
+Volume:=2988384
+Last Trade Time:=4:02pm
+High:=18.52
+Last Trade Price:=18.43
+
+(tsra)
+Low:=15.50
+Open:=15.71
+Last Trade Date:=7/15/2011
+Change:=+0.12
+Volume:=339706
+Last Trade Time:=4:00pm
+High:=15.88
+Last Trade Price:=15.76
+
+(ttec)
+Low:=21.21
+Open:=21.51
+Last Trade Date:=7/15/2011
+Change:=+0.14
+Volume:=202370
+Last Trade Time:=4:00pm
+High:=21.67
+Last Trade Price:=21.59
+
+(ttek)
+Low:=21.75
+Open:=22.31
+Last Trade Date:=7/15/2011
+Change:=+0.08
+Volume:=328085
+Last Trade Time:=4:00pm
+High:=22.31
+Last Trade Price:=22.01
+
+(tti)
+Low:=12.17
+Open:=12.36
+Last Trade Date:=7/15/2011
+Change:=+0.22
+Volume:=430472
+Last Trade Time:=4:01pm
+High:=12.49
+Last Trade Price:=12.47
+
+(tues)
+Low:=3.95
+Open:=4.07
+Last Trade Date:=7/15/2011
+Change:=+0.03
+Volume:=248140
+Last Trade Time:=4:00pm
+High:=4.10
+Last Trade Price:=4.05
+
+(tvl)
+Low:=4.26
+Open:=4.35
+Last Trade Date:=7/15/2011
+Change:=+0.01
+Volume:=117917
+Last Trade Time:=4:03pm
+High:=4.35
+Last Trade Price:=4.33
+
+(tw)
+Low:=61.08
+Open:=62.27
+Last Trade Date:=7/15/2011
+Change:=-0.27
+Volume:=205632
+Last Trade Time:=4:04pm
+High:=62.27
+Last Trade Price:=61.72
+
+(twin)
+Low:=38.63
+Open:=39.31
+Last Trade Date:=7/15/2011
+Change:=+1.22
+Volume:=52797
+Last Trade Time:=4:00pm
+High:=40.22
+Last Trade Price:=40.15
+
+(two)
+Low:=10.1799
+Open:=10.32
+Last Trade Date:=7/15/2011
+Change:=-0.28
+Volume:=34247232
+Last Trade Time:=4:01pm
+High:=10.37
+Last Trade Price:=10.23
+
+(twx)
+Low:=35.27
+Open:=36.02
+Last Trade Date:=7/15/2011
+Change:=-0.13
+Volume:=7494106
+Last Trade Time:=4:00pm
+High:=36.21
+Last Trade Price:=35.63
+
+(txn)
+Low:=30.44
+Open:=30.92
+Last Trade Date:=7/15/2011
+Change:=+0.10
+Volume:=9349968
+Last Trade Time:=4:01pm
+High:=30.97
+Last Trade Price:=30.82
+
+(txt)
+Low:=21.59
+Open:=22.00
+Last Trade Date:=7/15/2011
+Change:=-0.10
+Volume:=3184275
+Last Trade Time:=4:02pm
+High:=22.10
+Last Trade Price:=21.81
+
+(tyl)
+Low:=26.00
+Open:=26.41
+Last Trade Date:=7/15/2011
+Change:=+0.09
+Volume:=210175
+Last Trade Time:=4:02pm
+High:=26.52
+Last Trade Price:=26.44
+
+(ueic)
+Low:=24.25
+Open:=24.66
+Last Trade Date:=7/15/2011
+Change:=-0.13
+Volume:=36470
+Last Trade Time:=4:00pm
+High:=24.83
+Last Trade Price:=24.49
+
+(ufcs)
+Low:=17.79
+Open:=17.79
+Last Trade Date:=7/15/2011
+Change:=+0.19
+Volume:=54910
+Last Trade Time:=4:00pm
+High:=18.17
+Last Trade Price:=18.08
+
+(ufpi)
+Low:=28.55
+Open:=29.03
+Last Trade Date:=7/15/2011
+Change:=-0.29
+Volume:=538464
+Last Trade Time:=4:00pm
+High:=30.22
+Last Trade Price:=28.84
+
+(ufs)
+Low:=92.67
+Open:=94.55
+Last Trade Date:=7/15/2011
+Change:=-0.51
+Volume:=553752
+Last Trade Time:=4:02pm
+High:=94.59
+Last Trade Price:=93.41
+
+(ugi)
+Low:=31.65
+Open:=31.81
+Last Trade Date:=7/15/2011
+Change:=+0.14
+Volume:=344754
+Last Trade Time:=4:03pm
+High:=31.93
+Last Trade Price:=31.88
+
+(uhs)
+Low:=51.37
+Open:=52.57
+Last Trade Date:=7/15/2011
+Change:=+0.18
+Volume:=1326537
+Last Trade Time:=4:04pm
+High:=52.57
+Last Trade Price:=52.48
+
+(uil)
+Low:=32.32
+Open:=32.49
+Last Trade Date:=7/15/2011
+Change:=-0.15
+Volume:=164877
+Last Trade Time:=1:57pm
+High:=32.58
+Last Trade Price:=32.34
+
+(ulta)
+Low:=62.18
+Open:=63.98
+Last Trade Date:=7/15/2011
+Change:=+0.98
+Volume:=584123
+Last Trade Time:=4:00pm
+High:=64.33
+Last Trade Price:=64.31
+
+(ulti)
+Low:=55.19
+Open:=56.18
+Last Trade Date:=7/15/2011
+Change:=+0.46
+Volume:=112363
+Last Trade Time:=4:00pm
+High:=56.38
+Last Trade Price:=56.38
+
+(umbf)
+Low:=42.99
+Open:=43.12
+Last Trade Date:=7/15/2011
+Change:=+0.15
+Volume:=131945
+Last Trade Time:=4:00pm
+High:=43.51
+Last Trade Price:=43.15
+
+(umh)
+Low:=10.83
+Open:=10.88
+Last Trade Date:=7/15/2011
+Change:=-0.04
+Volume:=22742
+Last Trade Time:=4:00pm
+High:=10.93
+Last Trade Price:=10.85
+
+(umpq)
+Low:=11.50
+Open:=11.61
+Last Trade Date:=7/15/2011
+Change:=0.00
+Volume:=602466
+Last Trade Time:=4:00pm
+High:=11.73
+Last Trade Price:=11.59
+
+(unca)
+Low:=N/A
+Open:=N/A
+Last Trade Date:=N/A
+Change:=N/A
+Volume:=N/A
+Last Trade Time:=N/A
+High:=N/A
+Last Trade Price:=0.00
+
+(unfi)
+Low:=44.24
+Open:=44.98
+Last Trade Date:=7/15/2011
+Change:=-0.07
+Volume:=162117
+Last Trade Time:=4:00pm
+High:=44.98
+Last Trade Price:=44.62
+
+(unp)
+Low:=99.07
+Open:=101.06
+Last Trade Date:=7/15/2011
+Change:=-0.39
+Volume:=1432699
+Last Trade Time:=1:40pm
+High:=101.25
+Last Trade Price:=100.32
+
+(untd)
+Low:=6.05
+Open:=6.12
+Last Trade Date:=7/15/2011
+Change:=+0.10
+Volume:=435837
+Last Trade Time:=4:00pm
+High:=6.23
+Last Trade Price:=6.22
+
+(upl)
+Low:=45.65
+Open:=46.39
+Last Trade Date:=7/15/2011
+Change:=+2.48
+Volume:=3026660
+Last Trade Time:=4:00pm
+High:=47.47
+Last Trade Price:=47.34
+
+(ups)
+Low:=72.33
+Open:=73.65
+Last Trade Date:=7/15/2011
+Change:=-0.28
+Volume:=4209634
+Last Trade Time:=4:00pm
+High:=73.65
+Last Trade Price:=73.08
+
+(urbn)
+Low:=31.03
+Open:=31.37
+Last Trade Date:=7/15/2011
+Change:=+0.11
+Volume:=2737201
+Last Trade Time:=4:00pm
+High:=31.60
+Last Trade Price:=31.41
+
+(uri)
+Low:=22.80
+Open:=23.51
+Last Trade Date:=7/15/2011
+Change:=-0.28
+Volume:=1883954
+Last Trade Time:=4:01pm
+High:=23.51
+Last Trade Price:=23.01
+
+(urs)
+Low:=43.29
+Open:=43.69
+Last Trade Date:=7/15/2011
+Change:=+0.49
+Volume:=434840
+Last Trade Time:=4:04pm
+High:=44.01
+Last Trade Price:=43.94
+
+(usap)
+Low:=45.741
+Open:=46.77
+Last Trade Date:=7/15/2011
+Change:=+0.32
+Volume:=136049
+Last Trade Time:=4:00pm
+High:=47.379
+Last Trade Price:=46.98
+
+(usb)
+Low:=N/A
+Open:=N/A
+Last Trade Date:=7/14/2011
+Change:=0.00
+Volume:=0
+Last Trade Time:=4:00pm
+High:=N/A
+Last Trade Price:=24.69
+
+(usph)
+Low:=23.81
+Open:=24.34
+Last Trade Date:=7/15/2011
+Change:=+0.47
+Volume:=44737
+Last Trade Time:=4:00pm
+High:=24.80
+Last Trade Price:=24.76
+
+(utek)
+Low:=26.28
+Open:=26.87
+Last Trade Date:=7/15/2011
+Change:=-0.43
+Volume:=479738
+Last Trade Time:=4:00pm
+High:=27.09
+Last Trade Price:=26.38
+
+(uti)
+Low:=19.47
+Open:=23.17
+Last Trade Date:=7/15/2011
+Change:=+0.04
+Volume:=106390
+Last Trade Time:=4:02pm
+High:=20.00
+Last Trade Price:=19.78
+
+(utr)
+Low:=28.21
+Open:=29.05
+Last Trade Date:=7/15/2011
+Change:=-0.47
+Volume:=219145
+Last Trade Time:=4:03pm
+High:=29.20
+Last Trade Price:=28.46
+
+(utx)
+Low:=87.62
+Open:=88.17
+Last Trade Date:=7/15/2011
+Change:=+0.50
+Volume:=4112306
+Last Trade Time:=4:01pm
+High:=88.56
+Last Trade Price:=88.32
+
+(uve)
+Low:=4.66
+Open:=4.66
+Last Trade Date:=7/15/2011
+Change:=+0.02
+Volume:=62979
+Last Trade Time:=4:00pm
+High:=4.71
+Last Trade Price:=4.68
+
+(uvv)
+Low:=36.05
+Open:=36.66
+Last Trade Date:=7/15/2011
+Change:=-0.33
+Volume:=147614
+Last Trade Time:=4:03pm
+High:=36.7384
+Last Trade Price:=36.26
+
+(vcbi)
+Low:=5.99
+Open:=5.99
+Last Trade Date:=7/15/2011
+Change:=+0.02
+Volume:=67373
+Last Trade Time:=4:00pm
+High:=6.03
+Last Trade Price:=6.01
+
+(vci)
+Low:=29.64
+Open:=30.21
+Last Trade Date:=7/15/2011
+Change:=+0.04
+Volume:=543490
+Last Trade Time:=4:02pm
+High:=30.30
+Last Trade Price:=30.20
+
+(vgr)
+Low:=17.87
+Open:=17.87
+Last Trade Date:=7/15/2011
+Change:=+0.15
+Volume:=250535
+Last Trade Time:=4:05pm
+High:=18.24
+Last Trade Price:=18.01
+
+(vlccf)
+Low:=21.92
+Open:=22.23
+Last Trade Date:=7/15/2011
+Change:=+0.46
+Volume:=133365
+Last Trade Time:=4:00pm
+High:=22.70
+Last Trade Price:=22.38
+
+(vlgea)
+Low:=27.15
+Open:=27.25
+Last Trade Date:=7/15/2011
+Change:=+0.03
+Volume:=11586
+Last Trade Time:=4:00pm
+High:=27.41
+Last Trade Price:=27.28
+
+(vmed)
+Low:=27.39
+Open:=27.77
+Last Trade Date:=7/15/2011
+Change:=-0.16
+Volume:=4383069
+Last Trade Time:=4:00pm
+High:=27.86
+Last Trade Price:=27.52
+
+(vnda)
+Low:=7.03
+Open:=7.14
+Last Trade Date:=7/15/2011
+Change:=+0.04
+Volume:=124841
+Last Trade Time:=4:00pm
+High:=7.27
+Last Trade Price:=7.15
+
+(vocs)
+Low:=30.91
+Open:=31.22
+Last Trade Date:=7/15/2011
+Change:=+0.14
+Volume:=102023
+Last Trade Time:=4:00pm
+High:=31.55
+Last Trade Price:=31.03
+
+(vod)
+Low:=25.66
+Open:=25.79
+Last Trade Date:=7/15/2011
+Change:=-0.01
+Volume:=5230707
+Last Trade Time:=4:00pm
+High:=25.90
+Last Trade Price:=25.77
+
+(volc)
+Low:=31.9761
+Open:=32.31
+Last Trade Date:=7/15/2011
+Change:=+0.41
+Volume:=294608
+Last Trade Time:=4:00pm
+High:=32.73
+Last Trade Price:=32.63
+
+(vpfg)
+Low:=13.77
+Open:=13.77
+Last Trade Date:=7/15/2011
+Change:=+0.10
+Volume:=263681
+Last Trade Time:=4:00pm
+High:=13.91
+Last Trade Price:=13.87
+
+(vphm)
+Low:=19.01
+Open:=19.38
+Last Trade Date:=7/15/2011
+Change:=-0.01
+Volume:=707498
+Last Trade Time:=4:00pm
+High:=19.47
+Last Trade Price:=19.34
+
+(vrad)
+Low:=N/A
+Open:=N/A
+Last Trade Date:=N/A
+Change:=N/A
+Volume:=N/A
+Last Trade Time:=10:23am
+High:=N/A
+Last Trade Price:=0.00
+
+(vrsn)
+Low:=33.13
+Open:=33.20
+Last Trade Date:=7/15/2011
+Change:=+0.87
+Volume:=2819030
+Last Trade Time:=4:00pm
+High:=33.74
+Last Trade Price:=33.66
+
+(vrtx)
+Low:=50.24
+Open:=50.32
+Last Trade Date:=7/15/2011
+Change:=+0.35
+Volume:=1768864
+Last Trade Time:=4:00pm
+High:=51.28
+Last Trade Price:=50.68
+
+(vrx)
+Low:=53.63
+Open:=53.73
+Last Trade Date:=7/15/2011
+Change:=+2.39
+Volume:=4538880
+Last Trade Time:=4:00pm
+High:=55.55
+Last Trade Price:=55.00
+
+(vsec)
+Low:=N/A
+Open:=N/A
+Last Trade Date:=7/14/2011
+Change:=0.00
+Volume:=0
+Last Trade Time:=4:00pm
+High:=N/A
+Last Trade Price:=23.14
+
+(vz)
+Low:=N/A
+Open:=N/A
+Last Trade Date:=7/14/2011
+Change:=0.00
+Volume:=0
+Last Trade Time:=4:01pm
+High:=N/A
+Last Trade Price:=36.88
+
+(wab)
+Low:=61.78
+Open:=62.93
+Last Trade Date:=7/15/2011
+Change:=+0.62
+Volume:=543573
+Last Trade Time:=4:01pm
+High:=63.33
+Last Trade Price:=63.31
+
+(wash)
+Low:=22.826
+Open:=22.95
+Last Trade Date:=7/15/2011
+Change:=+0.11
+Volume:=33336
+Last Trade Time:=4:00pm
+High:=23.1956
+Last Trade Price:=23.00
+
+(wat)
+Low:=92.81
+Open:=93.87
+Last Trade Date:=7/15/2011
+Change:=+0.25
+Volume:=332101
+Last Trade Time:=4:01pm
+High:=93.87
+Last Trade Price:=93.69
+
+(wbc)
+Low:=66.10
+Open:=67.15
+Last Trade Date:=7/15/2011
+Change:=+0.51
+Volume:=575641
+Last Trade Time:=4:03pm
+High:=67.15
+Last Trade Price:=66.79
+
+(wbsn)
+Low:=26.85
+Open:=27.03
+Last Trade Date:=7/15/2011
+Change:=+0.14
+Volume:=147822
+Last Trade Time:=4:00pm
+High:=27.3762
+Last Trade Price:=27.11
+
+(wcrx)
+Low:=23.57
+Open:=24.00
+Last Trade Date:=7/15/2011
+Change:=+0.04
+Volume:=2194162
+Last Trade Time:=4:00pm
+High:=24.04
+Last Trade Price:=23.97
+
+(wern)
+Low:=25.03
+Open:=25.41
+Last Trade Date:=7/15/2011
+Change:=-0.01
+Volume:=546041
+Last Trade Time:=4:00pm
+High:=25.42
+Last Trade Price:=25.35
+
+(weys)
+Low:=24.40
+Open:=25.14
+Last Trade Date:=7/15/2011
+Change:=-0.04
+Volume:=19889
+Last Trade Time:=4:00pm
+High:=25.27
+Last Trade Price:=25.03
+
+(wfd)
+Low:=8.49
+Open:=8.55
+Last Trade Date:=7/15/2011
+Change:=+0.15
+Volume:=66376
+Last Trade Time:=4:00pm
+High:=8.70
+Last Trade Price:=8.69
+
+(wfm)
+Low:=63.70
+Open:=64.43
+Last Trade Date:=7/15/2011
+Change:=+0.42
+Volume:=957931
+Last Trade Time:=4:00pm
+High:=64.53
+Last Trade Price:=64.52
+
+(wfmi)
+Low:=N/A
+Open:=N/A
+Last Trade Date:=N/A
+Change:=N/A
+Volume:=N/A
+Last Trade Time:=10:-230am
+High:=N/A
+Last Trade Price:=0.00
+
+(wgo)
+Low:=9.17
+Open:=9.22
+Last Trade Date:=7/15/2011
+Change:=+0.11
+Volume:=79476
+Last Trade Time:=12:11pm
+High:=9.49
+Last Trade Price:=9.25
+
+(wgov)
+Low:=N/A
+Open:=N/A
+Last Trade Date:=N/A
+Change:=N/A
+Volume:=N/A
+Last Trade Time:=N/A
+High:=N/A
+Last Trade Price:=0.00
+
+(win)
+Low:=12.57
+Open:=12.78
+Last Trade Date:=7/15/2011
+Change:=-0.07
+Volume:=5034076
+Last Trade Time:=4:00pm
+High:=12.79
+Last Trade Price:=12.60
+
+(wina)
+Low:=43.43
+Open:=44.00
+Last Trade Date:=7/15/2011
+Change:=+2.78
+Volume:=33833
+Last Trade Time:=4:00pm
+High:=47.00
+Last Trade Price:=46.51
+
+(wlk)
+Low:=50.24
+Open:=51.02
+Last Trade Date:=7/15/2011
+Change:=+0.74
+Volume:=288182
+Last Trade Time:=4:02pm
+High:=51.40
+Last Trade Price:=51.38
+
+(wll)
+Low:=57.76
+Open:=58.15
+Last Trade Date:=7/15/2011
+Change:=+2.96
+Volume:=1313915
+Last Trade Time:=11:54am
+High:=59.22
+Last Trade Price:=58.46
+
+(wlt)
+Low:=109.11
+Open:=111.25
+Last Trade Date:=7/15/2011
+Change:=+1.31
+Volume:=2221859
+Last Trade Time:=4:01pm
+High:=112.23
+Last Trade Price:=110.94
+
+(wmt)
+Low:=53.46
+Open:=53.73
+Last Trade Date:=7/15/2011
+Change:=0.00
+Volume:=10101325
+Last Trade Time:=4:00pm
+High:=53.9725
+Last Trade Price:=53.63
+
+(wnr)
+Low:=20.175
+Open:=20.19
+Last Trade Date:=7/15/2011
+Change:=+1.04
+Volume:=3796373
+Last Trade Time:=4:03pm
+High:=21.13
+Last Trade Price:=21.13
+
+(wor)
+Low:=21.96
+Open:=22.30
+Last Trade Date:=7/15/2011
+Change:=+0.52
+Volume:=870831
+Last Trade Time:=4:03pm
+High:=22.65
+Last Trade Price:=22.62
+
+(wr)
+Low:=26.36
+Open:=26.60
+Last Trade Date:=7/15/2011
+Change:=0.00
+Volume:=1009916
+Last Trade Time:=4:02pm
+High:=26.62
+Last Trade Price:=26.55
+
+(wrc)
+Low:=54.91
+Open:=55.54
+Last Trade Date:=7/15/2011
+Change:=+0.50
+Volume:=1127042
+Last Trade Time:=4:02pm
+High:=55.63
+Last Trade Price:=55.54
+
+(wri)
+Low:=25.43
+Open:=25.65
+Last Trade Date:=7/15/2011
+Change:=+0.23
+Volume:=877806
+Last Trade Time:=4:03pm
+High:=25.79
+Last Trade Price:=25.77
+
+(wsbc)
+Low:=19.18
+Open:=19.40
+Last Trade Date:=7/15/2011
+Change:=-0.07
+Volume:=44942
+Last Trade Time:=4:00pm
+High:=19.40
+Last Trade Price:=19.28
+
+(wso)
+Low:=63.43
+Open:=64.88
+Last Trade Date:=7/15/2011
+Change:=-0.82
+Volume:=455414
+Last Trade Time:=4:07pm
+High:=65.15
+Last Trade Price:=63.66
+
+(wts)
+Low:=36.18
+Open:=36.40
+Last Trade Date:=7/15/2011
+Change:=+0.12
+Volume:=279482
+Last Trade Time:=4:02pm
+High:=36.57
+Last Trade Price:=36.37
+
+(wtsla)
+Low:=4.84
+Open:=4.92
+Last Trade Date:=7/15/2011
+Change:=+0.01
+Volume:=1495113
+Last Trade Time:=4:00pm
+High:=5.05
+Last Trade Price:=5.00
+
+(wwon)
+Low:=5.49
+Open:=5.75
+Last Trade Date:=7/15/2011
+Change:=+0.02
+Volume:=10003
+Last Trade Time:=4:00pm
+High:=6.04
+Last Trade Price:=5.69
+
+(wynn)
+Low:=158.15
+Open:=160.37
+Last Trade Date:=7/15/2011
+Change:=+3.84
+Volume:=1820964
+Last Trade Time:=4:00pm
+High:=162.70
+Last Trade Price:=162.62
+
+(xco)
+Low:=15.72
+Open:=15.72
+Last Trade Date:=7/15/2011
+Change:=+1.26
+Volume:=12498966
+Last Trade Time:=4:00pm
+High:=16.51
+Last Trade Price:=16.42
+
+(xec)
+Low:=84.49
+Open:=84.49
+Last Trade Date:=7/15/2011
+Change:=+4.08
+Volume:=817694
+Last Trade Time:=4:04pm
+High:=87.74
+Last Trade Price:=87.62
+
+(xlnx)
+Low:=33.06
+Open:=33.65
+Last Trade Date:=7/15/2011
+Change:=-0.15
+Volume:=2217951
+Last Trade Time:=11:26am
+High:=33.70
+Last Trade Price:=33.38
+
+(xnpt)
+Low:=7.43
+Open:=7.65
+Last Trade Date:=7/15/2011
+Change:=-0.11
+Volume:=187131
+Last Trade Time:=4:00pm
+High:=7.69
+Last Trade Price:=7.48
+
+(xom)
+Low:=82.26
+Open:=82.42
+Last Trade Date:=7/15/2011
+Change:=+0.78
+Volume:=21243644
+Last Trade Time:=4:00pm
+High:=83.09
+Last Trade Price:=83.02
+
+(xprt)
+Low:=N/A
+Open:=N/A
+Last Trade Date:=N/A
+Change:=N/A
+Volume:=N/A
+Last Trade Time:=N/A
+High:=N/A
+Last Trade Price:=0.00
+
+(xray)
+Low:=38.99
+Open:=39.32
+Last Trade Date:=7/15/2011
+Change:=+0.11
+Volume:=978178
+Last Trade Time:=4:00pm
+High:=39.47
+Last Trade Price:=39.26
+
+(xrit)
+Low:=4.75
+Open:=4.82
+Last Trade Date:=7/15/2011
+Change:=+0.04
+Volume:=61046
+Last Trade Time:=4:00pm
+High:=4.88
+Last Trade Price:=4.85
+
+(xtxi)
+Low:=12.55
+Open:=12.65
+Last Trade Date:=7/15/2011
+Change:=+0.43
+Volume:=352510
+Last Trade Time:=4:00pm
+High:=13.00
+Last Trade Price:=12.87
+
+(xxia)
+Low:=10.12
+Open:=10.15
+Last Trade Date:=7/15/2011
+Change:=+0.09
+Volume:=403867
+Last Trade Time:=4:00pm
+High:=10.27
+Last Trade Price:=10.24
+
+(yhoo)
+Low:=14.61
+Open:=14.75
+Last Trade Date:=7/15/2011
+Change:=+0.06
+Volume:=19519060
+Last Trade Time:=4:00pm
+High:=14.94
+Last Trade Price:=14.69
+
+(ysi)
+Low:=10.36
+Open:=10.43
+Last Trade Date:=7/15/2011
+Change:=+0.23
+Volume:=1230252
+Last Trade Time:=4:01pm
+High:=10.66
+Last Trade Price:=10.63
+
+(yum)
+Low:=55.41
+Open:=56.66
+Last Trade Date:=7/15/2011
+Change:=-0.95
+Volume:=1429107
+Last Trade Time:=10:49am
+High:=56.73
+Last Trade Price:=55.42
+
+(zbra)
+Low:=41.31
+Open:=41.75
+Last Trade Date:=7/15/2011
+Change:=+0.29
+Volume:=133207
+Last Trade Time:=4:00pm
+High:=41.83
+Last Trade Price:=41.81
+
+(zgen)
+Low:=N/A
+Open:=N/A
+Last Trade Date:=N/A
+Change:=N/A
+Volume:=N/A
+Last Trade Time:=N/A
+High:=N/A
+Last Trade Price:=0.00
+
+(ziop)
+Low:=5.855
+Open:=5.92
+Last Trade Date:=7/15/2011
+Change:=+0.06
+Volume:=341556
+Last Trade Time:=4:00pm
+High:=5.98
+Last Trade Price:=5.95
+
+(zixi)
+Low:=3.91
+Open:=3.98
+Last Trade Date:=7/15/2011
+Change:=+0.03
+Volume:=505986
+Last Trade Time:=4:00pm
+High:=3.99
+Last Trade Price:=3.98
+
+(zoll)
+Low:=55.90
+Open:=56.33
+Last Trade Date:=7/15/2011
+Change:=+0.05
+Volume:=177184
+Last Trade Time:=4:00pm
+High:=57.42
+Last Trade Price:=56.73
+

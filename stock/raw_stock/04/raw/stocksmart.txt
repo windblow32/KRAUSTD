@@ -1,0 +1,9990 @@
+(aa)
+Low:=16.07
+Open:=15.2
+% +/-:=    .0 %
+Volume:=   1,418,183
+Net +/-:=0
+Price:=$16.12
+Last Trade:=06/01 3:56 PM
+High:=16.7
+
+(aan)
+Low:=27.01
+Open:=20.28
+% +/-:=%
+Volume:=      12,640
+Net +/-:=
+Price:=$27.36
+Last Trade:=05/26 3:59 PM
+High:=27.43
+
+(aapl)
+Low:=344.67
+Open:=323
+% +/-:=    .0 %
+Volume:=   1,825,990
+Net +/-:=0
+Price:=$345.56
+Last Trade:=06/01 3:57 PM
+High:=352.12
+
+(abat)
+Low:=1.52
+Open:=3.85
+% +/-:=    .0 %
+Volume:=      85,330
+Net +/-:=0
+Price:=$1.525
+Last Trade:=06/01 3:58 PM
+High:=1.55
+
+(abax)
+Low:=29.92
+Open:=27.37
+% +/-:=    .0 %
+Volume:=      11,519
+Net +/-:=0
+Price:=$29.98
+Last Trade:=06/01 3:57 PM
+High:=30.91
+
+(abbc)
+Low:=10.82
+Open:=12.03
+% +/-:=    .0 %
+Volume:=      10,029
+Net +/-:=0
+Price:=$10.84
+Last Trade:=06/01 3:56 PM
+High:=11.35
+
+(abcb)
+Low:=8.72
+Open:=10.75
+% +/-:=    .0 %
+Volume:=       3,461
+Net +/-:=0
+Price:=$8.72
+Last Trade:=06/01 3:57 PM
+High:=9.185
+
+(abg)
+Low:=16.04
+Open:=18.77
+% +/-:=    .0 %
+Volume:=      26,475
+Net +/-:=0
+Price:=$16.05
+Last Trade:=06/01 3:56 PM
+High:=16.64
+
+(abii)
+Low:=78.14
+Open:=78.57
+% +/-:=%
+Volume:=     195,385
+Net +/-:=
+Price:=$78.25
+Last Trade:=10/15
+High:=78.6
+
+(abmd)
+Low:=18.1
+Open:=9.7
+% +/-:=    .0 %
+Volume:=      18,145
+Net +/-:=0
+Price:=$18.12
+Last Trade:=06/01 3:58 PM
+High:=18.67
+
+(acas)
+Low:=9.42
+Open:=7.61
+% +/-:=    .0 %
+Volume:=     383,084
+Net +/-:=0
+Price:=$9.43
+Last Trade:=06/01 3:57 PM
+High:=9.86
+
+(acet)
+Low:=6.95
+Open:=9.06
+% +/-:=    .0 %
+Volume:=      34,418
+Net +/-:=0
+Price:=$6.95
+Last Trade:=06/01 3:52 PM
+High:=7.04
+
+(aco)
+Low:=34.83
+Open:=30.85
+% +/-:=    .0 %
+Volume:=      12,610
+Net +/-:=0
+Price:=$34.9
+Last Trade:=06/01 3:56 PM
+High:=36.4
+
+(acom)
+Low:=39.1
+Open:=29.04
+% +/-:=    .0 %
+Volume:=     148,406
+Net +/-:=0
+Price:=$39.42
+Last Trade:=06/01 3:57 PM
+High:=41.92
+
+(actg)
+Low:=37.14
+Open:=26
+% +/-:=    .0 %
+Volume:=      40,988
+Net +/-:=0
+Price:=$37.16
+Last Trade:=06/01 3:57 PM
+High:=38.99
+
+(actl)
+Low:=20.87
+Open:=20.88
+% +/-:=%
+Volume:=     230,133
+Net +/-:=
+Price:=$20.95
+Last Trade:=11/02
+High:=20.95
+
+(actu)
+Low:=null
+Open:=11/02 3:59 PM
+% +/-:=%
+Volume:=null
+Net +/-:=
+Price:=$5
+Last Trade:=null
+High:=null
+
+(acv)
+Low:=37.49
+Open:=37.07
+% +/-:=%
+Volume:=      92,782
+Net +/-:=
+Price:=$37.49
+Last Trade:=05/10 4:00 PM
+High:=37.5
+
+(adbe)
+Low:=34.11
+Open:=30.52
+% +/-:=    .0 %
+Volume:=     466,926
+Net +/-:=0
+Price:=$34.16
+Last Trade:=06/01 3:57 PM
+High:=34.82
+
+(adct)
+Low:=12.74
+Open:=12.76
+% +/-:=%
+Volume:=     102,135
+Net +/-:=
+Price:=$12.74
+Last Trade:=12/09 3:59 PM
+High:=12.76
+
+(adp)
+Low:=54.45
+Open:=46.34
+% +/-:=    .0 %
+Volume:=     498,881
+Net +/-:=0
+Price:=$54.46
+Last Trade:=06/01 3:57 PM
+High:=55.1
+
+(adpi)
+Low:=13.02
+Open:=13.51
+% +/-:=    .0 %
+Volume:=      18,468
+Net +/-:=0
+Price:=$13.11
+Last Trade:=06/01 3:51 PM
+High:=13.28
+
+(adpt)
+Low:=2.72
+Open:=2.76
+% +/-:=%
+Volume:=   4,728,596
+Net +/-:=
+Price:=$2.72
+Last Trade:=08/04 4:00 PM
+High:=2.82
+
+(adsk)
+Low:=41.41
+Open:=38.71
+% +/-:=    .0 %
+Volume:=     323,613
+Net +/-:=0
+Price:=$41.45
+Last Trade:=06/01 3:57 PM
+High:=42.96
+
+(adtn)
+Low:=41.41
+Open:=36.39
+% +/-:=    .0 %
+Volume:=     146,010
+Net +/-:=0
+Price:=$41.48
+Last Trade:=06/01 3:57 PM
+High:=43.37
+
+(aec)
+Low:=15.84
+Open:=15.13
+% +/-:=    .0 %
+Volume:=      23,750
+Net +/-:=0
+Price:=$15.89
+Last Trade:=06/01 3:56 PM
+High:=16.74
+
+(aeis)
+Low:=14.47
+Open:=13.7
+% +/-:=    .0 %
+Volume:=      37,967
+Net +/-:=0
+Price:=$14.49
+Last Trade:=06/01 3:57 PM
+High:=14.96
+
+(aet)
+Low:=43.21
+Open:=30.41
+% +/-:=    .0 %
+Volume:=     256,723
+Net +/-:=0
+Price:=$43.245
+Last Trade:=06/01 3:56 PM
+High:=43.75
+
+(afce)
+Low:=16.19
+Open:=14.58
+% +/-:=    .0 %
+Volume:=      11,726
+Net +/-:=0
+Price:=$16.365
+Last Trade:=06/01 3:57 PM
+High:=16.6
+
+(agam)
+Low:=20.78
+Open:=20.89
+% +/-:=%
+Volume:=     284,495
+Net +/-:=
+Price:=$21.2
+Last Trade:=11/18
+High:=21.3
+
+(agco)
+Low:=48.89
+Open:=50.6
+% +/-:=    .0 %
+Volume:=     147,439
+Net +/-:=0
+Price:=$48.97
+Last Trade:=06/01 3:56 PM
+High:=51.57
+
+(agx)
+Low:=9.09
+Open:=9.11
+% +/-:=    .0 %
+Volume:=         163
+Net +/-:=0
+Price:=$9.09
+Last Trade:=06/01 3:43 PM
+High:=9.65
+
+(agys)
+Low:=6.62
+Open:=5.87
+% +/-:=    .0 %
+Volume:=      29,729
+Net +/-:=0
+Price:=$7.01
+Last Trade:=06/01 3:57 PM
+High:=7.13
+
+(ahc)
+Low:=6.76
+Open:=8.73
+% +/-:=    .0 %
+Volume:=       2,341
+Net +/-:=0
+Price:=$6.76
+Last Trade:=06/01 3:31 PM
+High:=7.09
+
+(aht)
+Low:=13.51
+Open:=9.65
+% +/-:=    .0 %
+Volume:=      74,466
+Net +/-:=0
+Price:=$13.76
+Last Trade:=06/01 3:56 PM
+High:=13.97
+
+(aig)
+Low:=27.93
+Open:=57.5
+% +/-:=    .0 %
+Volume:=   1,825,290
+Net +/-:=0
+Price:=$28.005
+Last Trade:=06/01 3:56 PM
+High:=28.48
+
+(airm)
+Low:=59.35
+Open:=55.97
+% +/-:=    .0 %
+Volume:=      10,798
+Net +/-:=0
+Price:=$60.15
+Last Trade:=06/01 3:57 PM
+High:=61.35
+
+(ajg)
+Low:=28.3
+Open:=29.12
+% +/-:=    .0 %
+Volume:=      69,116
+Net +/-:=0
+Price:=$28.335
+Last Trade:=06/01 3:56 PM
+High:=28.72
+
+(akam)
+Low:=33.22
+Open:=47.56
+% +/-:=    .0 %
+Volume:=     531,043
+Net +/-:=0
+Price:=$33.25
+Last Trade:=06/01 3:57 PM
+High:=34.4
+
+(alb)
+Low:=68.4
+Open:=56.06
+% +/-:=    .0 %
+Volume:=      34,478
+Net +/-:=0
+Price:=$68.51
+Last Trade:=06/01 3:55 PM
+High:=71.1
+
+(alc)
+Low:=32.48
+Open:=33.25
+% +/-:=    .0 %
+Volume:=       3,328
+Net +/-:=0
+Price:=$32.5
+Last Trade:=06/01 3:51 PM
+High:=33.03
+
+(ale)
+Low:=39.45
+Open:=37.29
+% +/-:=    .0 %
+Volume:=      30,392
+Net +/-:=0
+Price:=$39.45
+Last Trade:=06/01 3:56 PM
+High:=40.1
+
+(alex)
+Low:=46.89
+Open:=40.03
+% +/-:=    .0 %
+Volume:=      22,159
+Net +/-:=0
+Price:=$46.92
+Last Trade:=06/01 3:56 PM
+High:=48.81
+
+(alnc)
+Low:=28.51
+Open:=32.23
+% +/-:=    .0 %
+Volume:=         307
+Net +/-:=0
+Price:=$28.51
+Last Trade:=06/01 3:39 PM
+High:=29.19
+
+(alth)
+Low:=2.15
+Open:=4.6
+% +/-:=    .0 %
+Volume:=     240,806
+Net +/-:=0
+Price:=$2.165
+Last Trade:=06/01 3:57 PM
+High:=2.21
+
+(altr)
+Low:=46.7
+Open:=35.95
+% +/-:=    .0 %
+Volume:=     652,275
+Net +/-:=0
+Price:=$46.755
+Last Trade:=06/01 3:57 PM
+High:=48.2
+
+(alxa)
+Low:=1.61
+Open:=1.26
+% +/-:=    .0 %
+Volume:=     170,659
+Net +/-:=0
+Price:=$1.63
+Last Trade:=06/01 3:53 PM
+High:=1.68
+
+(alxn)
+Low:=48.01
+Open:=80.69
+% +/-:=    .0 %
+Volume:=     214,206
+Net +/-:=0
+Price:=$48.18
+Last Trade:=06/01 3:57 PM
+High:=48.85
+
+(aly)
+Low:=6.59
+Open:=7.1
+% +/-:=%
+Volume:=     679,141
+Net +/-:=
+Price:=$6.62
+Last Trade:=02/23 3:59 PM
+High:=7.09
+
+(amat)
+Low:=13.08
+Open:=14.13
+% +/-:=    .0 %
+Volume:=   4,883,885
+Net +/-:=0
+Price:=$13.085
+Last Trade:=06/01 3:57 PM
+High:=13.735
+
+(amg)
+Low:=99.67
+Open:=98.83
+% +/-:=    .0 %
+Volume:=      53,062
+Net +/-:=0
+Price:=$99.84
+Last Trade:=06/01 3:56 PM
+High:=105.03
+
+(amgn)
+Low:=59.68
+Open:=55.47
+% +/-:=    .0 %
+Volume:=     507,499
+Net +/-:=0
+Price:=$59.74
+Last Trade:=06/01 3:57 PM
+High:=60.77
+
+(amn)
+Low:=65.04
+Open:=76
+% +/-:=    .0 %
+Volume:=       8,431
+Net +/-:=0
+Price:=$65.04
+Last Trade:=06/01 3:56 PM
+High:=66.82
+
+(amp)
+Low:=58.73
+Open:=57.51
+% +/-:=    .0 %
+Volume:=     189,851
+Net +/-:=0
+Price:=$58.83
+Last Trade:=06/01 3:56 PM
+High:=60.86
+
+(amph)
+Low:=32.47
+Open:=32.47
+% +/-:=%
+Volume:=      17,366
+Net +/-:=
+Price:=$32.47
+Last Trade:=11/30
+High:=32.49
+
+(amsg)
+Low:=25.7
+Open:=21.43
+% +/-:=    .0 %
+Volume:=      16,174
+Net +/-:=0
+Price:=$25.79
+Last Trade:=06/01 3:57 PM
+High:=25.93
+
+(amt)
+Low:=54.09
+Open:=51.43
+% +/-:=    .0 %
+Volume:=     218,436
+Net +/-:=0
+Price:=$54.13
+Last Trade:=06/01 3:56 PM
+High:=55.58
+
+(amzn)
+Low:=192.05
+Open:=181.96
+% +/-:=    .0 %
+Volume:=     332,906
+Net +/-:=0
+Price:=$192.53
+Last Trade:=06/01 3:57 PM
+High:=197.26
+
+(anf)
+Low:=74.1901
+Open:=58.02
+% +/-:=    .0 %
+Volume:=     122,187
+Net +/-:=0
+Price:=$74.29
+Last Trade:=06/01 3:56 PM
+High:=75.86
+
+(ango)
+Low:=15.5
+Open:=15.39
+% +/-:=    .0 %
+Volume:=       7,574
+Net +/-:=0
+Price:=$15.55
+Last Trade:=06/01 3:55 PM
+High:=15.72
+
+(anr)
+Low:=53.61
+Open:=60.15
+% +/-:=    .0 %
+Volume:=     787,613
+Net +/-:=0
+Price:=$54.1
+Last Trade:=06/01 3:56 PM
+High:=55.2
+
+(anth)
+Low:=7.6
+Open:=4.89
+% +/-:=    .0 %
+Volume:=       2,535
+Net +/-:=0
+Price:=$7.7
+Last Trade:=06/01 3:56 PM
+High:=7.92
+
+(anv)
+Low:=35.3
+Open:=26.29
+% +/-:=    .0 %
+Volume:=      89,763
+Net +/-:=0
+Price:=$35.49
+Last Trade:=06/01 3:58 PM
+High:=37.18
+
+(aoi)
+Low:=3.9
+Open:=4.29
+% +/-:=    .0 %
+Volume:=      31,970
+Net +/-:=0
+Price:=$3.9
+Last Trade:=06/01 3:55 PM
+High:=4.03
+
+(aon)
+Low:=51.475
+Open:=45.98
+% +/-:=    .0 %
+Volume:=     185,455
+Net +/-:=0
+Price:=$51.475
+Last Trade:=06/01 3:56 PM
+High:=52.17
+
+(apac)
+Low:=5.65
+Open:=5.98
+% +/-:=    .0 %
+Volume:=      45,013
+Net +/-:=0
+Price:=$5.67
+Last Trade:=06/01 3:56 PM
+High:=5.91
+
+(apd)
+Low:=91.975
+Open:=90.7
+% +/-:=    .0 %
+Volume:=     114,116
+Net +/-:=0
+Price:=$92.1
+Last Trade:=06/01 3:56 PM
+High:=95.06
+
+(apkt)
+Low:=72.28
+Open:=54.14
+% +/-:=    .0 %
+Volume:=     162,301
+Net +/-:=0
+Price:=$72.45
+Last Trade:=06/01 3:56 PM
+High:=77.48
+
+(apol)
+Low:=40.63
+Open:=39.76
+% +/-:=    .0 %
+Volume:=     575,266
+Net +/-:=0
+Price:=$42.145
+Last Trade:=06/01 3:57 PM
+High:=42.75
+
+(apsg)
+Low:=37.98
+Open:=37.89
+% +/-:=%
+Volume:=      31,100
+Net +/-:=
+Price:=$38
+Last Trade:=01/31 3:59 PM
+High:=38.01
+
+(aray)
+Low:=7.28
+Open:=6.79
+% +/-:=    .0 %
+Volume:=      67,193
+Net +/-:=0
+Price:=$7.3
+Last Trade:=06/01 3:57 PM
+High:=7.5
+
+(arb)
+Low:=41.36
+Open:=41.52
+% +/-:=    .0 %
+Volume:=      14,986
+Net +/-:=0
+Price:=$41.36
+Last Trade:=06/01 3:56 PM
+High:=42.62
+
+(are)
+Low:=79.64
+Open:=73.2
+% +/-:=    .0 %
+Volume:=      30,625
+Net +/-:=0
+Price:=$79.7
+Last Trade:=06/01 3:56 PM
+High:=82.64
+
+(ari)
+Low:=16.16
+Open:=16.33
+% +/-:=    .0 %
+Volume:=       2,600
+Net +/-:=0
+Price:=$16.16
+Last Trade:=06/01 3:50 PM
+High:=16.24
+
+(aria)
+Low:=8.15
+Open:=5.19
+% +/-:=    .0 %
+Volume:=     369,615
+Net +/-:=0
+Price:=$8.255
+Last Trade:=06/01 3:57 PM
+High:=8.72
+
+(arm)
+Low:=null
+Open:=03/29 3:59 PM
+% +/-:=%
+Volume:=null
+Net +/-:=
+Price:=$19.53
+Last Trade:=null
+High:=null
+
+(aro)
+Low:=18.29
+Open:=25.07
+% +/-:=    .0 %
+Volume:=     210,566
+Net +/-:=0
+Price:=$18.31
+Last Trade:=06/01 3:56 PM
+High:=18.99
+
+(arow)
+Low:=23.6
+Open:=27.61
+% +/-:=    .0 %
+Volume:=       1,583
+Net +/-:=0
+Price:=$23.61
+Last Trade:=06/01 3:56 PM
+High:=24.2
+
+(artg)
+Low:=5.99
+Open:=5.99
+% +/-:=%
+Volume:=     445,148
+Net +/-:=
+Price:=$6
+Last Trade:=01/05 3:59 PM
+High:=6.005
+
+(arw)
+Low:=42.87
+Open:=34.25
+% +/-:=    .0 %
+Volume:=      99,980
+Net +/-:=0
+Price:=$42.88
+Last Trade:=06/01 3:56 PM
+High:=44.66
+
+(asca)
+Low:=22.025
+Open:=15.76
+% +/-:=    .0 %
+Volume:=      59,891
+Net +/-:=0
+Price:=$22.04
+Last Trade:=06/01 3:57 PM
+High:=22.84
+
+(asfi)
+Low:=7.49
+Open:=8.09
+% +/-:=    .0 %
+Volume:=       7,682
+Net +/-:=0
+Price:=$7.53
+Last Trade:=06/01 3:45 PM
+High:=7.67
+
+(asgr)
+Low:=25.97
+Open:=15.31
+% +/-:=    .0 %
+Volume:=      13,977
+Net +/-:=0
+Price:=$25.98
+Last Trade:=06/01 3:51 PM
+High:=25.99
+
+(atac)
+Low:=24.96
+Open:=24.97
+% +/-:=%
+Volume:=     322,277
+Net +/-:=
+Price:=$24.99
+Last Trade:=10/22
+High:=25
+
+(athr)
+Low:=44.98
+Open:=35.65
+% +/-:=%
+Volume:=     209,040
+Net +/-:=
+Price:=$44.985
+Last Trade:=05/24 3:59 PM
+High:=45
+
+(atls)
+Low:=24.24
+Open:=43.89
+% +/-:=    .0 %
+Volume:=      19,579
+Net +/-:=0
+Price:=$24.47
+Last Trade:=06/01 3:56 PM
+High:=24.63
+
+(atni)
+Low:=37.62
+Open:=38.35
+% +/-:=    .0 %
+Volume:=       3,458
+Net +/-:=0
+Price:=$37.71
+Last Trade:=06/01 3:55 PM
+High:=39
+
+(atpg)
+Low:=17.69
+Open:=16.76
+% +/-:=    .0 %
+Volume:=      75,729
+Net +/-:=0
+Price:=$17.75
+Last Trade:=06/01 3:57 PM
+High:=18.57
+
+(atsg)
+Low:=7.04
+Open:=7.76
+% +/-:=    .0 %
+Volume:=      39,250
+Net +/-:=0
+Price:=$7.05
+Last Trade:=06/01 3:57 PM
+High:=7.38
+
+(atsi)
+Low:=3.99
+Open:=3.99
+% +/-:=%
+Volume:=      86,783
+Net +/-:=
+Price:=$4
+Last Trade:=08/12 3:59 PM
+High:=4
+
+(atvi)
+Low:=11.87
+Open:=12.57
+% +/-:=    .0 %
+Volume:=   1,736,688
+Net +/-:=0
+Price:=$11.925
+Last Trade:=06/01 3:57 PM
+High:=12.055
+
+(auxl)
+Low:=21.96
+Open:=21.12
+% +/-:=    .0 %
+Volume:=      39,277
+Net +/-:=0
+Price:=$22.02
+Last Trade:=06/01 3:56 PM
+High:=22.47
+
+(avid)
+Low:=16.82
+Open:=17.45
+% +/-:=    .0 %
+Volume:=      11,910
+Net +/-:=0
+Price:=$16.82
+Last Trade:=06/01 3:57 PM
+High:=17.54
+
+(avnw)
+Low:=4.4
+Open:=4.96
+% +/-:=    .0 %
+Volume:=      26,275
+Net +/-:=0
+Price:=$4.415
+Last Trade:=06/01 3:57 PM
+High:=4.65
+
+(avx)
+Low:=15.265
+Open:=15.62
+% +/-:=    .0 %
+Volume:=      24,566
+Net +/-:=0
+Price:=$15.27
+Last Trade:=06/01 3:56 PM
+High:=15.75
+
+(avy)
+Low:=41.29
+Open:=42.35
+% +/-:=    .0 %
+Volume:=     130,579
+Net +/-:=0
+Price:=$41.32
+Last Trade:=06/01 3:56 PM
+High:=42.13
+
+(awi)
+Low:=47.4
+Open:=42.94
+% +/-:=    .0 %
+Volume:=      24,005
+Net +/-:=0
+Price:=$47.49
+Last Trade:=06/01 3:56 PM
+High:=48.04
+
+(awr)
+Low:=34.17
+Open:=34.94
+% +/-:=    .0 %
+Volume:=       6,986
+Net +/-:=0
+Price:=$34.185
+Last Trade:=06/01 3:56 PM
+High:=34.64
+
+(axl)
+Low:=10.84
+Open:=12.76
+% +/-:=    .0 %
+Volume:=      91,105
+Net +/-:=0
+Price:=$10.84
+Last Trade:=06/01 3:56 PM
+High:=11.54
+
+(axp)
+Low:=49.88
+Open:=42.51
+% +/-:=    .0 %
+Volume:=     591,672
+Net +/-:=0
+Price:=$49.94
+Last Trade:=06/01 3:56 PM
+High:=51.33
+
+(axs)
+Low:=32.72
+Open:=35.67
+% +/-:=    .0 %
+Volume:=      82,586
+Net +/-:=0
+Price:=$32.725
+Last Trade:=06/01 3:56 PM
+High:=33.31
+
+(azo)
+Low:=293.21
+Open:=274.96
+% +/-:=    .0 %
+Volume:=      43,843
+Net +/-:=0
+Price:=$293.33
+Last Trade:=06/01 3:55 PM
+High:=294.59
+
+(ba)
+Low:=75.29
+Open:=64.9
+% +/-:=    .0 %
+Volume:=     470,982
+Net +/-:=0
+Price:=$75.405
+Last Trade:=06/01 3:56 PM
+High:=78.07
+
+(bac)
+Low:=11.245
+Open:=13.22
+% +/-:=    .0 %
+Volume:=  12,748,060
+Net +/-:=0
+Price:=$11.265
+Last Trade:=06/01 3:56 PM
+High:=11.72
+
+(bamm)
+Low:=3.57
+Open:=5.81
+% +/-:=    .0 %
+Volume:=      10,529
+Net +/-:=0
+Price:=$3.61
+Last Trade:=06/01 3:56 PM
+High:=3.68
+
+(bbbb)
+Low:=41.97
+Open:=41.4
+% +/-:=    .0 %
+Volume:=      44,450
+Net +/-:=0
+Price:=$42.04
+Last Trade:=06/01 3:57 PM
+High:=43.44
+
+(bbby)
+Low:=53.07
+Open:=49.33
+% +/-:=    .0 %
+Volume:=     421,612
+Net +/-:=0
+Price:=$53.105
+Last Trade:=06/01 3:57 PM
+High:=54.47
+
+(bbg)
+Low:=42.15
+Open:=41.01
+% +/-:=    .0 %
+Volume:=      65,596
+Net +/-:=0
+Price:=$42.28
+Last Trade:=06/01 3:56 PM
+High:=44.68
+
+(bbgi)
+Low:=4.68
+Open:=5.82
+% +/-:=    .0 %
+Volume:=         365
+Net +/-:=0
+Price:=$4.69
+Last Trade:=06/01 3:57 PM
+High:=4.77
+
+(bbw)
+Low:=6.565
+Open:=7.61
+% +/-:=    .0 %
+Volume:=       6,434
+Net +/-:=0
+Price:=$6.565
+Last Trade:=06/01 3:55 PM
+High:=6.74
+
+(bc)
+Low:=19.99
+Open:=18.74
+% +/-:=    .0 %
+Volume:=     167,664
+Net +/-:=0
+Price:=$20.035
+Last Trade:=06/01 3:56 PM
+High:=21.91
+
+(bcrx)
+Low:=3.4
+Open:=5.09
+% +/-:=    .0 %
+Volume:=      12,391
+Net +/-:=0
+Price:=$3.41
+Last Trade:=06/01 3:55 PM
+High:=3.51
+
+(bcsi)
+Low:=22.48
+Open:=30.27
+% +/-:=    .0 %
+Volume:=      89,648
+Net +/-:=0
+Price:=$22.52
+Last Trade:=06/01 3:57 PM
+High:=23.07
+
+(bdge)
+Low:=21.5
+Open:=25.07
+% +/-:=    .0 %
+Volume:=          50
+Net +/-:=0
+Price:=$21.8
+Last Trade:=05/31 3:47 PM
+High:=21.8
+
+(beat)
+Low:=5.42
+Open:=4.73
+% +/-:=    .0 %
+Volume:=      15,245
+Net +/-:=0
+Price:=$5.42
+Last Trade:=06/01 3:57 PM
+High:=5.52
+
+(beav)
+Low:=36.2
+Open:=36.72
+% +/-:=    .0 %
+Volume:=      64,569
+Net +/-:=0
+Price:=$36.27
+Last Trade:=06/01 3:57 PM
+High:=37.37
+
+(belfb)
+Low:=19.55
+Open:=23.89
+% +/-:=    .0 %
+Volume:=          22
+Net +/-:=0
+Price:=$19.55
+Last Trade:=06/01 3:57 PM
+High:=19.55
+
+(bez)
+Low:=63.475
+Open:=63.11
+% +/-:=%
+Volume:=       7,066
+Net +/-:=
+Price:=$63.49
+Last Trade:=01/27 3:59 PM
+High:=63.5
+
+(bfs)
+Low:=39.43
+Open:=47.88
+% +/-:=    .0 %
+Volume:=       3,067
+Net +/-:=0
+Price:=$39.43
+Last Trade:=06/01 3:55 PM
+High:=39.8
+
+(bgcp)
+Low:=7.93
+Open:=8.45
+% +/-:=    .0 %
+Volume:=     167,811
+Net +/-:=0
+Price:=$7.935
+Last Trade:=06/01 3:57 PM
+High:=8.28
+
+(bgs)
+Low:=18.54
+Open:=13.65
+% +/-:=    .0 %
+Volume:=      80,318
+Net +/-:=0
+Price:=$18.88
+Last Trade:=06/01 3:56 PM
+High:=19.25
+
+(bh)
+Low:=382.77
+Open:=418.3
+% +/-:=    .0 %
+Volume:=         621
+Net +/-:=0
+Price:=$382.77
+Last Trade:=06/01 3:56 PM
+High:=396.19
+
+(bidu)
+Low:=132.18
+Open:=98
+% +/-:=    .0 %
+Volume:=     477,623
+Net +/-:=0
+Price:=$132.56
+Last Trade:=06/01 3:57 PM
+High:=137.13
+
+(biib)
+Low:=93.21
+Open:=66.83
+% +/-:=    .0 %
+Volume:=     213,342
+Net +/-:=0
+Price:=$93.35
+Last Trade:=06/01 3:57 PM
+High:=94.51
+
+(bio)
+Low:=122.73
+Open:=104.51
+% +/-:=    .0 %
+Volume:=       6,280
+Net +/-:=0
+Price:=$122.96
+Last Trade:=06/01 3:56 PM
+High:=124.27
+
+(bj)
+Low:=49.67
+Open:=48.62
+% +/-:=    .0 %
+Volume:=      75,486
+Net +/-:=0
+Price:=$49.78
+Last Trade:=06/01 3:56 PM
+High:=50.83
+
+(bkmu)
+Low:=3.83
+Open:=4.8
+% +/-:=    .0 %
+Volume:=      12,005
+Net +/-:=0
+Price:=$3.85
+Last Trade:=06/01 3:55 PM
+High:=4
+
+(bldr)
+Low:=2.22
+Open:=1.88
+% +/-:=    .0 %
+Volume:=      12,066
+Net +/-:=0
+Price:=$2.27
+Last Trade:=06/01 3:57 PM
+High:=2.48
+
+(blk)
+Low:=199.59
+Open:=188.04
+% +/-:=    .0 %
+Volume:=      69,363
+Net +/-:=0
+Price:=$199.69
+Last Trade:=06/01 3:56 PM
+High:=207.77
+
+(bll)
+Low:=38.73
+Open:=68.85
+% +/-:=    .0 %
+Volume:=     120,395
+Net +/-:=0
+Price:=$38.77
+Last Trade:=06/01 3:56 PM
+High:=39.47
+
+(bmc)
+Low:=54.73
+Open:=47.6
+% +/-:=    .0 %
+Volume:=     146,392
+Net +/-:=0
+Price:=$54.755
+Last Trade:=06/01 3:57 PM
+High:=56.16
+
+(bmi)
+Low:=36.35
+Open:=45
+% +/-:=    .0 %
+Volume:=      14,660
+Net +/-:=0
+Price:=$36.64
+Last Trade:=06/01 3:56 PM
+High:=37.29
+
+(bmrn)
+Low:=28.02
+Open:=27.27
+% +/-:=    .0 %
+Volume:=     158,649
+Net +/-:=0
+Price:=$28.03
+Last Trade:=06/01 3:57 PM
+High:=28.56
+
+(bmtc)
+Low:=20.4
+Open:=17.36
+% +/-:=    .0 %
+Volume:=      16,132
+Net +/-:=0
+Price:=$20.45
+Last Trade:=06/01 3:57 PM
+High:=21.03
+
+(bokf)
+Low:=52.31
+Open:=53.76
+% +/-:=    .0 %
+Volume:=      16,928
+Net +/-:=0
+Price:=$52.35
+Last Trade:=06/01 3:57 PM
+High:=52.85
+
+(boom)
+Low:=21.18
+Open:=22.28
+% +/-:=    .0 %
+Volume:=       9,560
+Net +/-:=0
+Price:=$21.29
+Last Trade:=06/01 3:56 PM
+High:=22.6
+
+(bpop)
+Low:=2.76
+Open:=3.12
+% +/-:=    .0 %
+Volume:=     889,253
+Net +/-:=0
+Price:=$2.78
+Last Trade:=06/01 3:56 PM
+High:=2.9
+
+(brc)
+Low:=34.09
+Open:=32.84
+% +/-:=    .0 %
+Volume:=      48,550
+Net +/-:=0
+Price:=$34.09
+Last Trade:=06/01 3:56 PM
+High:=34.51
+
+(brcm)
+Low:=35.07
+Open:=43.71
+% +/-:=    .0 %
+Volume:=   1,000,664
+Net +/-:=0
+Price:=$35.15
+Last Trade:=06/01 3:57 PM
+High:=36.37
+
+(bre)
+Low:=49.55
+Open:=43.57
+% +/-:=    .0 %
+Volume:=      65,241
+Net +/-:=0
+Price:=$49.71
+Last Trade:=06/01 3:56 PM
+High:=50.96
+
+(brli)
+Low:=24.21
+Open:=22.5
+% +/-:=    .0 %
+Volume:=      44,206
+Net +/-:=0
+Price:=$24.22
+Last Trade:=06/01 3:57 PM
+High:=25
+
+(brs)
+Low:=44.34
+Open:=47.4
+% +/-:=    .0 %
+Volume:=      19,379
+Net +/-:=0
+Price:=$44.41
+Last Trade:=06/01 3:56 PM
+High:=46.1
+
+(bsrr)
+Low:=10.82
+Open:=10.57
+% +/-:=    .0 %
+Volume:=       1,800
+Net +/-:=0
+Price:=$10.86
+Last Trade:=06/01 3:57 PM
+High:=10.99
+
+(bstc)
+Low:=23.04
+Open:=25.47
+% +/-:=    .0 %
+Volume:=       1,091
+Net +/-:=0
+Price:=$23.5
+Last Trade:=06/01 3:44 PM
+High:=23.51
+
+(btn)
+Low:=5.49
+Open:=7.91
+% +/-:=    .0 %
+Volume:=      10,350
+Net +/-:=0
+Price:=$5.49
+Last Trade:=06/01 3:57 PM
+High:=5.7
+
+(buse)
+Low:=4.96
+Open:=4.71
+% +/-:=    .0 %
+Volume:=      42,824
+Net +/-:=0
+Price:=$5.02
+Last Trade:=06/01 3:57 PM
+High:=5.09
+
+(bxg)
+Low:=3.22
+Open:=3.2
+% +/-:=    .0 %
+Volume:=       6,000
+Net +/-:=0
+Price:=$3.22
+Last Trade:=06/01 3:40 PM
+High:=3.47
+
+(bxs)
+Low:=12.21
+Open:=16.17
+% +/-:=    .0 %
+Volume:=      71,642
+Net +/-:=0
+Price:=$12.21
+Last Trade:=06/01 3:55 PM
+High:=12.78
+
+(byi)
+Low:=39.27
+Open:=42.24
+% +/-:=    .0 %
+Volume:=      34,601
+Net +/-:=0
+Price:=$39.3
+Last Trade:=06/01 3:56 PM
+High:=39.73
+
+(bz)
+Low:=8.12
+Open:=7.84
+% +/-:=    .0 %
+Volume:=     105,837
+Net +/-:=0
+Price:=$8.13
+Last Trade:=06/01 3:56 PM
+High:=8.45
+
+(c)
+Low:=39.59
+Open:=4.75
+% +/-:=    .0 %
+Volume:=   3,224,305
+Net +/-:=0
+Price:=$39.685
+Last Trade:=06/01 3:56 PM
+High:=41
+
+(ca)
+Low:=23.07
+Open:=24.5
+% +/-:=    .0 %
+Volume:=   1,002,621
+Net +/-:=0
+Price:=$23.075
+Last Trade:=06/01 3:57 PM
+High:=23.52
+
+(cag)
+Low:=25.27
+Open:=22.6
+% +/-:=    .0 %
+Volume:=     583,550
+Net +/-:=0
+Price:=$25.28
+Last Trade:=06/01 3:56 PM
+High:=25.49
+
+(cah)
+Low:=44.46
+Open:=38.4
+% +/-:=    .0 %
+Volume:=     289,304
+Net +/-:=0
+Price:=$44.5
+Last Trade:=06/01 3:56 PM
+High:=45.4
+
+(cake)
+Low:=30.78
+Open:=30.86
+% +/-:=    .0 %
+Volume:=     130,067
+Net +/-:=0
+Price:=$30.8
+Last Trade:=06/01 3:57 PM
+High:=31.92
+
+(cap)
+Low:=22.28
+Open:=19.6
+% +/-:=    .0 %
+Volume:=       9,159
+Net +/-:=0
+Price:=$22.36
+Last Trade:=06/01 3:55 PM
+High:=23.1
+
+(cas)
+Low:=17.15
+Open:=18.93
+% +/-:=    .0 %
+Volume:=       8,788
+Net +/-:=0
+Price:=$17.16
+Last Trade:=06/01 3:54 PM
+High:=18.56
+
+(casc)
+Low:=39.05
+Open:=45.53
+% +/-:=    .0 %
+Volume:=       8,874
+Net +/-:=0
+Price:=$39.23
+Last Trade:=06/01 3:56 PM
+High:=40.4
+
+(cat)
+Low:=101
+Open:=93.87
+% +/-:=    .0 %
+Volume:=     543,803
+Net +/-:=0
+Price:=$101.23
+Last Trade:=06/01 3:56 PM
+High:=105.45
+
+(caty)
+Low:=15.56
+Open:=16.95
+% +/-:=    .0 %
+Volume:=      68,887
+Net +/-:=0
+Price:=$15.565
+Last Trade:=06/01 3:57 PM
+High:=16.34
+
+(cavm)
+Low:=42.28
+Open:=38.49
+% +/-:=    .0 %
+Volume:=     163,500
+Net +/-:=0
+Price:=$42.3
+Last Trade:=06/01 3:57 PM
+High:=44.53
+
+(cb)
+Low:=64.85
+Open:=59.66
+% +/-:=    .0 %
+Volume:=     327,303
+Net +/-:=0
+Price:=$64.88
+Last Trade:=06/01 3:56 PM
+High:=65.67
+
+(cbb)
+Low:=3
+Open:=2.82
+% +/-:=    .0 %
+Volume:=     118,351
+Net +/-:=0
+Price:=$3.04
+Last Trade:=06/01 3:56 PM
+High:=3.19
+
+(cbg)
+Low:=25.41
+Open:=20.75
+% +/-:=    .0 %
+Volume:=     318,007
+Net +/-:=0
+Price:=$25.45
+Last Trade:=06/01 3:56 PM
+High:=26.61
+
+(cbr)
+Low:=5.815
+Open:=4.77
+% +/-:=    .0 %
+Volume:=      50,915
+Net +/-:=0
+Price:=$5.85
+Last Trade:=06/01 3:55 PM
+High:=6.05
+
+(cbu)
+Low:=23.9
+Open:=27.8
+% +/-:=    .0 %
+Volume:=      37,734
+Net +/-:=0
+Price:=$23.93
+Last Trade:=06/01 3:56 PM
+High:=24.83
+
+(ccbg)
+Low:=10.1
+Open:=13.15
+% +/-:=    .0 %
+Volume:=       1,050
+Net +/-:=0
+Price:=$10.12
+Last Trade:=06/01 3:54 PM
+High:=10.66
+
+(ccc)
+Low:=16.51
+Open:=15.55
+% +/-:=    .0 %
+Volume:=      32,863
+Net +/-:=0
+Price:=$16.51
+Last Trade:=06/01 3:56 PM
+High:=17.22
+
+(cce)
+Low:=28.88
+Open:=24.99
+% +/-:=    .0 %
+Volume:=     413,119
+Net +/-:=0
+Price:=$29.055
+Last Trade:=06/01 3:56 PM
+High:=29.29
+
+(ccmp)
+Low:=48.17
+Open:=41.99
+% +/-:=    .0 %
+Volume:=      11,754
+Net +/-:=0
+Price:=$48.26
+Last Trade:=06/01 3:56 PM
+High:=50.175
+
+(ccne)
+Low:=13.06
+Open:=14.96
+% +/-:=    .0 %
+Volume:=       1,655
+Net +/-:=0
+Price:=$13.06
+Last Trade:=06/01 3:48 PM
+High:=13.75
+
+(ccoi)
+Low:=15.33
+Open:=14.29
+% +/-:=    .0 %
+Volume:=      51,799
+Net +/-:=0
+Price:=$15.385
+Last Trade:=06/01 3:57 PM
+High:=16.35
+
+(cdzi)
+Low:=10.2
+Open:=12.41
+% +/-:=    .0 %
+Volume:=      11,528
+Net +/-:=0
+Price:=$10.2
+Last Trade:=06/01 3:57 PM
+High:=10.35
+
+(cec)
+Low:=39.31
+Open:=38.92
+% +/-:=    .0 %
+Volume:=      13,688
+Net +/-:=0
+Price:=$39.31
+Last Trade:=06/01 3:55 PM
+High:=40.72
+
+(ceco)
+Low:=21.22
+Open:=21.06
+% +/-:=    .0 %
+Volume:=     275,970
+Net +/-:=0
+Price:=$22.889
+Last Trade:=06/01 3:57 PM
+High:=22.925
+
+(celg)
+Low:=59.86
+Open:=59.52
+% +/-:=    .0 %
+Volume:=     204,646
+Net +/-:=0
+Price:=$59.99
+Last Trade:=06/01 3:57 PM
+High:=60.98
+
+(ceph)
+Low:=79.69
+Open:=62.33
+% +/-:=    .0 %
+Volume:=     266,650
+Net +/-:=0
+Price:=$79.7
+Last Trade:=06/01 3:57 PM
+High:=79.78
+
+(cern)
+Low:=119.18
+Open:=95.6
+% +/-:=    .0 %
+Volume:=      88,122
+Net +/-:=0
+Price:=$119.19
+Last Trade:=06/01 3:57 PM
+High:=124.8
+
+(cers)
+Low:=2.87
+Open:=2.48
+% +/-:=    .0 %
+Volume:=      62,539
+Net +/-:=0
+Price:=$2.88
+Last Trade:=06/01 3:56 PM
+High:=2.97
+
+(cffn)
+Low:=11.66
+Open:=25.85
+% +/-:=    .0 %
+Volume:=     178,310
+Net +/-:=0
+Price:=$11.71
+Last Trade:=06/01 3:57 PM
+High:=11.89
+
+(cfnb)
+Low:=15.04
+Open:=14.32
+% +/-:=    .0 %
+Volume:=         219
+Net +/-:=0
+Price:=$15.05
+Last Trade:=05/31 3:59 PM
+High:=15.05
+
+(cfnl)
+Low:=10.68
+Open:=11.81
+% +/-:=    .0 %
+Volume:=      15,986
+Net +/-:=0
+Price:=$10.83
+Last Trade:=06/01 3:55 PM
+High:=11
+
+(cgc)
+Low:=6.42
+Open:=5.02
+% +/-:=%
+Volume:=     342,580
+Net +/-:=
+Price:=$6.55
+Last Trade:=04/08 3:59 PM
+High:=6.56
+
+(cgx)
+Low:=53.21
+Open:=48.45
+% +/-:=    .0 %
+Volume:=       3,206
+Net +/-:=0
+Price:=$53.21
+Last Trade:=06/01 3:52 PM
+High:=54.69
+
+(chdx)
+Low:=14.52
+Open:=16.46
+% +/-:=    .0 %
+Volume:=       6,270
+Net +/-:=0
+Price:=$14.52
+Last Trade:=06/01 3:57 PM
+High:=14.91
+
+(chg)
+Low:=53
+Open:=49.16
+% +/-:=    .0 %
+Volume:=       2,817
+Net +/-:=0
+Price:=$53
+Last Trade:=06/01 3:56 PM
+High:=54.25
+
+(chh)
+Low:=34.89
+Open:=38.52
+% +/-:=    .0 %
+Volume:=      10,823
+Net +/-:=0
+Price:=$34.91
+Last Trade:=06/01 3:55 PM
+High:=35.63
+
+(chkp)
+Low:=54.64
+Open:=45.99
+% +/-:=    .0 %
+Volume:=     268,502
+Net +/-:=0
+Price:=$55.7
+Last Trade:=06/01 3:56 PM
+High:=56.35
+
+(chrs)
+Low:=3.855
+Open:=3.56
+% +/-:=    .0 %
+Volume:=     146,257
+Net +/-:=0
+Price:=$3.87
+Last Trade:=06/01 3:56 PM
+High:=4.1
+
+(chrw)
+Low:=78.25
+Open:=79.92
+% +/-:=    .0 %
+Volume:=     133,702
+Net +/-:=0
+Price:=$78.27
+Last Trade:=06/01 3:56 PM
+High:=80.52
+
+(chs)
+Low:=14.62
+Open:=12.04
+% +/-:=    .0 %
+Volume:=     275,719
+Net +/-:=0
+Price:=$14.64
+Last Trade:=06/01 3:56 PM
+High:=15.19
+
+(chsp)
+Low:=17.17
+Open:=19.02
+% +/-:=    .0 %
+Volume:=       5,232
+Net +/-:=0
+Price:=$17.24
+Last Trade:=06/01 3:55 PM
+High:=17.83
+
+(cix)
+Low:=13.35
+Open:=11.5
+% +/-:=%
+Volume:=          61
+Net +/-:=
+Price:=$13.35
+Last Trade:=05/25 3:59 PM
+High:=13.35
+
+(ckh)
+Low:=97.57
+Open:=102.69
+% +/-:=    .0 %
+Volume:=      14,041
+Net +/-:=0
+Price:=$97.71
+Last Trade:=06/01 3:56 PM
+High:=99.5
+
+(ckp)
+Low:=17.43
+Open:=20.65
+% +/-:=    .0 %
+Volume:=      13,507
+Net +/-:=0
+Price:=$17.43
+Last Trade:=06/01 3:56 PM
+High:=18.03
+
+(ckr)
+Low:=12.54
+Open:=12.55
+% +/-:=%
+Volume:=     577,700
+Net +/-:=
+Price:=$12.55
+Last Trade:=07/12
+High:=12.55
+
+(ckxe)
+Low:=5.47
+Open:=4.01
+% +/-:=    .0 %
+Volume:=     135,796
+Net +/-:=0
+Price:=$5.47
+Last Trade:=06/01 3:52 PM
+High:=5.485
+
+(clc)
+Low:=41.05
+Open:=43.51
+% +/-:=    .0 %
+Volume:=      22,769
+Net +/-:=0
+Price:=$41.05
+Last Trade:=06/01 3:56 PM
+High:=42.5
+
+(cldt)
+Low:=16.13
+Open:=17.29
+% +/-:=    .0 %
+Volume:=       1,300
+Net +/-:=0
+Price:=$16.13
+Last Trade:=06/01 3:53 PM
+High:=16.39
+
+(clh)
+Low:=98.58
+Open:=83.93
+% +/-:=    .0 %
+Volume:=      23,267
+Net +/-:=0
+Price:=$98.58
+Last Trade:=06/01 3:56 PM
+High:=103.09
+
+(clne)
+Low:=13.67
+Open:=13.97
+% +/-:=    .0 %
+Volume:=     120,752
+Net +/-:=0
+Price:=$13.84
+Last Trade:=06/01 3:57 PM
+High:=14.27
+
+(clny)
+Low:=18.28
+Open:=19.85
+% +/-:=    .0 %
+Volume:=       6,023
+Net +/-:=0
+Price:=$18.28
+Last Trade:=06/01 3:56 PM
+High:=18.38
+
+(clp)
+Low:=20.24
+Open:=18.12
+% +/-:=    .0 %
+Volume:=      95,302
+Net +/-:=0
+Price:=$20.295
+Last Trade:=06/01 3:56 PM
+High:=21.12
+
+(clr)
+Low:=62.98
+Open:=58.41
+% +/-:=    .0 %
+Volume:=     125,020
+Net +/-:=0
+Price:=$63.1
+Last Trade:=06/01 3:56 PM
+High:=66.315
+
+(clrt)
+Low:=4.995
+Open:=5
+% +/-:=%
+Volume:=      26,947
+Net +/-:=
+Price:=$5
+Last Trade:=12/22 4:21 PM
+High:=5.01
+
+(clw)
+Low:=67.68
+Open:=80.24
+% +/-:=    .0 %
+Volume:=      13,690
+Net +/-:=0
+Price:=$67.72
+Last Trade:=06/01 3:53 PM
+High:=69.78
+
+(cmcsa)
+Low:=24.385
+Open:=22.03
+% +/-:=    .0 %
+Volume:=   2,192,917
+Net +/-:=0
+Price:=$24.45
+Last Trade:=06/01 3:56 PM
+High:=25.17
+
+(cml)
+Low:=27.73
+Open:=27.59
+% +/-:=%
+Volume:=     119,208
+Net +/-:=
+Price:=$27.74
+Last Trade:=02/22 4:01 PM
+High:=27.75
+
+(cmls)
+Low:=3.8
+Open:=4.36
+% +/-:=    .0 %
+Volume:=       7,921
+Net +/-:=0
+Price:=$3.93
+Last Trade:=06/01 3:55 PM
+High:=3.93
+
+(cmn)
+Low:=23.53
+Open:=23.28
+% +/-:=    .0 %
+Volume:=       4,808
+Net +/-:=0
+Price:=$23.53
+Last Trade:=06/01 3:55 PM
+High:=23.75
+
+(cmo)
+Low:=13.2
+Open:=12.63
+% +/-:=    .0 %
+Volume:=      62,606
+Net +/-:=0
+Price:=$13.2
+Last Trade:=06/01 3:56 PM
+High:=13.305
+
+(cmp)
+Low:=90.5
+Open:=89.34
+% +/-:=    .0 %
+Volume:=      13,641
+Net +/-:=0
+Price:=$90.63
+Last Trade:=06/01 3:56 PM
+High:=93.7
+
+(cmtl)
+Low:=27.35
+Open:=27.94
+% +/-:=    .0 %
+Volume:=      27,187
+Net +/-:=0
+Price:=$27.36
+Last Trade:=06/01 3:56 PM
+High:=27.86
+
+(cnbka)
+Low:=25.6
+Open:=27.04
+% +/-:=    .0 %
+Volume:=         448
+Net +/-:=0
+Price:=$25.73
+Last Trade:=06/01 2:04 PM
+High:=25.78
+
+(cnc)
+Low:=33.9
+Open:=25.73
+% +/-:=    .0 %
+Volume:=      35,451
+Net +/-:=0
+Price:=$34.01
+Last Trade:=06/01 3:56 PM
+High:=34.92
+
+(cnk)
+Low:=20.71
+Open:=17.37
+% +/-:=    .0 %
+Volume:=     129,848
+Net +/-:=0
+Price:=$20.74
+Last Trade:=06/01 3:56 PM
+High:=21.66
+
+(cnsl)
+Low:=18.82
+Open:=19.25
+% +/-:=    .0 %
+Volume:=      16,460
+Net +/-:=0
+Price:=$18.82
+Last Trade:=06/01 3:57 PM
+High:=19.08
+
+(cog)
+Low:=55.83
+Open:=37.7
+% +/-:=    .0 %
+Volume:=     123,307
+Net +/-:=0
+Price:=$56.04
+Last Trade:=06/01 3:56 PM
+High:=59.18
+
+(colb)
+Low:=17.2
+Open:=21.36
+% +/-:=    .0 %
+Volume:=      28,785
+Net +/-:=0
+Price:=$17.21
+Last Trade:=06/01 3:56 PM
+High:=17.9
+
+(comv)
+Low:=3.43
+Open:=7.13
+% +/-:=    .0 %
+Volume:=      26,197
+Net +/-:=0
+Price:=$3.44
+Last Trade:=06/01 3:57 PM
+High:=3.58
+
+(coo)
+Low:=73.51
+Open:=56.21
+% +/-:=    .0 %
+Volume:=      18,929
+Net +/-:=0
+Price:=$73.54
+Last Trade:=06/01 3:56 PM
+High:=75.3
+
+(cost)
+Low:=80.17
+Open:=72.69
+% +/-:=    .0 %
+Volume:=     284,779
+Net +/-:=0
+Price:=$80.19
+Last Trade:=06/01 3:56 PM
+High:=82.49
+
+(cov)
+Low:=54.54
+Open:=45.51
+% +/-:=%
+Volume:=     291,651
+Net +/-:=
+Price:=$54.65
+Last Trade:=05/26 3:59 PM
+High:=55.15
+
+(cown)
+Low:=4.01
+Open:=4.8
+% +/-:=    .0 %
+Volume:=      46,389
+Net +/-:=0
+Price:=$4.04
+Last Trade:=06/01 3:57 PM
+High:=4.2
+
+(cpa)
+Low:=61.19
+Open:=58.84
+% +/-:=    .0 %
+Volume:=       9,610
+Net +/-:=0
+Price:=$61.24
+Last Trade:=06/01 3:56 PM
+High:=62.41
+
+(cpe)
+Low:=6.59
+Open:=5.92
+% +/-:=    .0 %
+Volume:=      39,663
+Net +/-:=0
+Price:=$6.6
+Last Trade:=06/01 3:56 PM
+High:=7.02
+
+(cpn)
+Low:=15.46
+Open:=13.34
+% +/-:=    .0 %
+Volume:=     141,553
+Net +/-:=0
+Price:=$15.5
+Last Trade:=06/01 3:56 PM
+High:=15.85
+
+(cprt)
+Low:=46.03
+Open:=37.5
+% +/-:=    .0 %
+Volume:=      36,451
+Net +/-:=0
+Price:=$46.13
+Last Trade:=06/01 3:56 PM
+High:=47.1
+
+(cpst)
+Low:=1.66
+Open:=.949
+% +/-:=    .0 %
+Volume:=     113,532
+Net +/-:=0
+Price:=$1.67
+Last Trade:=06/01 3:57 PM
+High:=1.73
+
+(cpy)
+Low:=14.1
+Open:=22.19
+% +/-:=    .0 %
+Volume:=       1,344
+Net +/-:=0
+Price:=$14.16
+Last Trade:=06/01 3:53 PM
+High:=14.25
+
+(cr)
+Low:=47.61
+Open:=41.16
+% +/-:=    .0 %
+Volume:=      39,828
+Net +/-:=0
+Price:=$47.64
+Last Trade:=06/01 3:56 PM
+High:=49.19
+
+(cra)
+Low:=8.03
+Open:=6.16
+% +/-:=%
+Volume:=     128,234
+Net +/-:=
+Price:=$8.03
+Last Trade:=05/17 3:59 PM
+High:=8.06
+
+(crai)
+Low:=26.85
+Open:=23.77
+% +/-:=    .0 %
+Volume:=       2,101
+Net +/-:=0
+Price:=$26.85
+Last Trade:=06/01 3:56 PM
+High:=28.15
+
+(crbc)
+Low:=.8224
+Open:=.607
+% +/-:=    .0 %
+Volume:=      48,303
+Net +/-:=0
+Price:=$.8395
+Last Trade:=06/01 3:56 PM
+High:=.8501
+
+(crdn)
+Low:=42.65
+Open:=31.62
+% +/-:=    .0 %
+Volume:=      43,638
+Net +/-:=0
+Price:=$42.8
+Last Trade:=06/01 3:56 PM
+High:=44.8
+
+(cree)
+Low:=42
+Open:=66.09
+% +/-:=    .0 %
+Volume:=     292,886
+Net +/-:=0
+Price:=$42.05
+Last Trade:=06/01 3:56 PM
+High:=44.11
+
+(crmt)
+Low:=27.4
+Open:=26.93
+% +/-:=    .0 %
+Volume:=       7,222
+Net +/-:=0
+Price:=$27.66
+Last Trade:=06/01 3:56 PM
+High:=28.21
+
+(crn)
+Low:=27.76
+Open:=27.76
+% +/-:=%
+Volume:=     142,500
+Net +/-:=
+Price:=$29.45
+Last Trade:=08/12
+High:=29.46
+
+(crrc)
+Low:=10.87
+Open:=15.56
+% +/-:=    .0 %
+Volume:=       3,358
+Net +/-:=0
+Price:=$11.02
+Last Trade:=06/01 3:53 PM
+High:=11.32
+
+(crs)
+Low:=50.88
+Open:=40.89
+% +/-:=    .0 %
+Volume:=      36,567
+Net +/-:=0
+Price:=$50.89
+Last Trade:=06/01 3:56 PM
+High:=52.66
+
+(csco)
+Low:=16.36
+Open:=20.23
+% +/-:=    .0 %
+Volume:=   6,021,869
+Net +/-:=0
+Price:=$16.365
+Last Trade:=06/01 3:56 PM
+High:=16.77
+
+(csgp)
+Low:=61.05
+Open:=57.57
+% +/-:=    .0 %
+Volume:=      16,513
+Net +/-:=0
+Price:=$61.08
+Last Trade:=06/01 3:56 PM
+High:=62.96
+
+(cstr)
+Low:=51.83
+Open:=56.16
+% +/-:=    .0 %
+Volume:=      53,963
+Net +/-:=0
+Price:=$51.91
+Last Trade:=06/01 3:56 PM
+High:=53.59
+
+(csu)
+Low:=9.39
+Open:=6.79
+% +/-:=    .0 %
+Volume:=      12,741
+Net +/-:=0
+Price:=$9.5
+Last Trade:=06/01 3:56 PM
+High:=9.54
+
+(cswc)
+Low:=93.16
+Open:=104.41
+% +/-:=    .0 %
+Volume:=         200
+Net +/-:=0
+Price:=$93.16
+Last Trade:=06/01 1:52 PM
+High:=93.31
+
+(ctas)
+Low:=31.86
+Open:=28.01
+% +/-:=    .0 %
+Volume:=     183,150
+Net +/-:=0
+Price:=$31.87
+Last Trade:=06/01 3:56 PM
+High:=32.84
+
+(ctgx)
+Low:=12.73
+Open:=10.64
+% +/-:=    .0 %
+Volume:=       1,781
+Net +/-:=0
+Price:=$12.73
+Last Trade:=06/01 3:56 PM
+High:=13.53
+
+(ctl)
+Low:=42.61
+Open:=46.24
+% +/-:=    .0 %
+Volume:=     367,758
+Net +/-:=0
+Price:=$42.68
+Last Trade:=06/01 3:56 PM
+High:=43.27
+
+(ctrp)
+Low:=44.65
+Open:=41.34
+% +/-:=    .0 %
+Volume:=     272,160
+Net +/-:=0
+Price:=$45.035
+Last Trade:=06/01 3:56 PM
+High:=45.22
+
+(ctsh)
+Low:=74.39
+Open:=73.76
+% +/-:=    .0 %
+Volume:=     257,333
+Net +/-:=0
+Price:=$74.5
+Last Trade:=06/01 3:56 PM
+High:=76.35
+
+(ctxs)
+Low:=84.72
+Open:=68.24
+% +/-:=    .0 %
+Volume:=     218,898
+Net +/-:=0
+Price:=$84.91
+Last Trade:=06/01 3:56 PM
+High:=88.44
+
+(cvo)
+Low:=6.2
+Open:=5.54
+% +/-:=    .0 %
+Volume:=      13,407
+Net +/-:=0
+Price:=$6.2
+Last Trade:=06/01 3:56 PM
+High:=6.4
+
+(cvx)
+Low:=102.09
+Open:=91.58
+% +/-:=    .0 %
+Volume:=     616,359
+Net +/-:=0
+Price:=$102.5
+Last Trade:=06/01 3:56 PM
+High:=104.92
+
+(cxs)
+Low:=11.08
+Open:=13.09
+% +/-:=    .0 %
+Volume:=      21,293
+Net +/-:=0
+Price:=$11.095
+Last Trade:=06/01 3:54 PM
+High:=11.33
+
+(cyh)
+Low:=27.81
+Open:=37.45
+% +/-:=    .0 %
+Volume:=     194,128
+Net +/-:=0
+Price:=$27.9
+Last Trade:=06/01 3:56 PM
+High:=28.76
+
+(cyn)
+Low:=54.785
+Open:=62.07
+% +/-:=    .0 %
+Volume:=      82,724
+Net +/-:=0
+Price:=$54.81
+Last Trade:=06/01 3:56 PM
+High:=56.1
+
+(cypb)
+Low:=6.49
+Open:=6.47
+% +/-:=%
+Volume:=       6,683
+Net +/-:=
+Price:=$6.49
+Last Trade:=01/13 4:13 PM
+High:=6.495
+
+(cytk)
+Low:=1.33
+Open:=2.1
+% +/-:=    .0 %
+Volume:=      39,788
+Net +/-:=0
+Price:=$1.38
+Last Trade:=06/01 3:46 PM
+High:=1.48
+
+(cytr)
+Low:=.92
+Open:=1.01
+% +/-:=    .0 %
+Volume:=       5,153
+Net +/-:=0
+Price:=$.9269
+Last Trade:=06/01 3:58 PM
+High:=.95
+
+(dakt)
+Low:=11.315
+Open:=15.95
+% +/-:=    .0 %
+Volume:=      96,909
+Net +/-:=0
+Price:=$11.73
+Last Trade:=06/01 3:56 PM
+High:=12.21
+
+(dal)
+Low:=9.58
+Open:=12.45
+% +/-:=    .0 %
+Volume:=   1,114,396
+Net +/-:=0
+Price:=$9.68
+Last Trade:=06/01 3:56 PM
+High:=10.175
+
+(dar)
+Low:=18.72
+Open:=13.49
+% +/-:=    .0 %
+Volume:=     182,452
+Net +/-:=0
+Price:=$18.86
+Last Trade:=06/01 3:56 PM
+High:=19.55
+
+(dbd)
+Low:=32.29
+Open:=32.02
+% +/-:=    .0 %
+Volume:=      47,914
+Net +/-:=0
+Price:=$32.3
+Last Trade:=06/01 3:56 PM
+High:=33.37
+
+(dbtk)
+Low:=10.53
+Open:=10.54
+% +/-:=%
+Volume:=     156,969
+Net +/-:=
+Price:=$10.55
+Last Trade:=07/23 3:59 PM
+High:=10.55
+
+(dd)
+Low:=51.46
+Open:=49.61
+% +/-:=    .0 %
+Volume:=     496,957
+Net +/-:=0
+Price:=$51.625
+Last Trade:=06/01 3:56 PM
+High:=53.14
+
+(ddic)
+Low:=8.915
+Open:=11.7
+% +/-:=    .0 %
+Volume:=       5,496
+Net +/-:=0
+Price:=$8.92
+Last Trade:=06/01 3:57 PM
+High:=9.19
+
+(ddmx)
+Low:=24.96
+Open:=24.76
+% +/-:=%
+Volume:=      16,469
+Net +/-:=
+Price:=$24.995
+Last Trade:=02/22 3:59 PM
+High:=25
+
+(de)
+Low:=82.73
+Open:=83.25
+% +/-:=    .0 %
+Volume:=     347,047
+Net +/-:=0
+Price:=$82.79
+Last Trade:=06/01 3:56 PM
+High:=85.89
+
+(deck)
+Low:=88.45
+Open:=80.93
+% +/-:=    .0 %
+Volume:=      91,533
+Net +/-:=0
+Price:=$88.53
+Last Trade:=06/01 3:56 PM
+High:=92.44
+
+(dei)
+Low:=20.45
+Open:=16.82
+% +/-:=    .0 %
+Volume:=     115,363
+Net +/-:=0
+Price:=$20.475
+Last Trade:=06/01 3:56 PM
+High:=21.01
+
+(dell)
+Low:=15.465
+Open:=13.59
+% +/-:=    .0 %
+Volume:=   4,144,920
+Net +/-:=0
+Price:=$15.59
+Last Trade:=06/01 3:56 PM
+High:=16.06
+
+(dest)
+Low:=19.52
+Open:=37.91
+% +/-:=    .0 %
+Volume:=       3,728
+Net +/-:=0
+Price:=$19.52
+Last Trade:=06/01 3:56 PM
+High:=20.82
+
+(dfz)
+Low:=11.36
+Open:=11.28
+% +/-:=    .0 %
+Volume:=       2,159
+Net +/-:=0
+Price:=$11.36
+Last Trade:=06/01 3:55 PM
+High:=11.69
+
+(dgi)
+Low:=24
+Open:=31.32
+% +/-:=    .0 %
+Volume:=       8,051
+Net +/-:=0
+Price:=$24.01
+Last Trade:=06/01 3:56 PM
+High:=24.62
+
+(dhil)
+Low:=79
+Open:=72.36
+% +/-:=    .0 %
+Volume:=         437
+Net +/-:=0
+Price:=$79
+Last Trade:=06/01 3:47 PM
+High:=80.55
+
+(dhr)
+Low:=52.39
+Open:=47.14
+% +/-:=    .0 %
+Volume:=     378,832
+Net +/-:=0
+Price:=$52.415
+Last Trade:=06/01 3:56 PM
+High:=54.4499
+
+(dis)
+Low:=40.32
+Open:=37.37
+% +/-:=    .0 %
+Volume:=     841,612
+Net +/-:=0
+Price:=$40.4
+Last Trade:=06/01 3:56 PM
+High:=41.57
+
+(dk)
+Low:=14.43
+Open:=7.32
+% +/-:=    .0 %
+Volume:=      34,806
+Net +/-:=0
+Price:=$14.465
+Last Trade:=06/01 3:56 PM
+High:=15.19
+
+(dlb)
+Low:=45.08
+Open:=66.66
+% +/-:=    .0 %
+Volume:=      42,580
+Net +/-:=0
+Price:=$45.26
+Last Trade:=06/01 3:56 PM
+High:=47
+
+(dllr)
+Low:=22.28
+Open:=28.42
+% +/-:=    .0 %
+Volume:=      39,129
+Net +/-:=0
+Price:=$22.36
+Last Trade:=06/01 3:56 PM
+High:=22.73
+
+(dltr)
+Low:=62.3
+Open:=56.53
+% +/-:=    .0 %
+Volume:=     214,219
+Net +/-:=0
+Price:=$62.66
+Last Trade:=06/01 3:56 PM
+High:=63.39
+
+(dm)
+Low:=9.81
+Open:=14.05
+% +/-:=    .0 %
+Volume:=       4,352
+Net +/-:=0
+Price:=$9.81
+Last Trade:=06/01 3:50 PM
+High:=10.32
+
+(dmrc)
+Low:=28.56
+Open:=30.35
+% +/-:=    .0 %
+Volume:=       1,200
+Net +/-:=0
+Price:=$28.56
+Last Trade:=06/01 3:43 PM
+High:=29.79
+
+(dnbk)
+Low:=22.02
+Open:=17.7
+% +/-:=    .0 %
+Volume:=      40,200
+Net +/-:=0
+Price:=$22.05
+Last Trade:=06/01 3:53 PM
+High:=22.44
+
+(dndn)
+Low:=40.88
+Open:=35.39
+% +/-:=    .0 %
+Volume:=     254,965
+Net +/-:=0
+Price:=$40.97
+Last Trade:=06/01 3:57 PM
+High:=42.69
+
+(dnr)
+Low:=21.01
+Open:=18.99
+% +/-:=    .0 %
+Volume:=     445,031
+Net +/-:=0
+Price:=$21.095
+Last Trade:=06/01 3:56 PM
+High:=22.16
+
+(drc)
+Low:=51.37
+Open:=43.02
+% +/-:=    .0 %
+Volume:=      94,019
+Net +/-:=0
+Price:=$51.565
+Last Trade:=06/01 3:56 PM
+High:=52.81
+
+(dri)
+Low:=49.94
+Open:=46.74
+% +/-:=    .0 %
+Volume:=     288,342
+Net +/-:=0
+Price:=$50.02
+Last Trade:=06/01 3:56 PM
+High:=50.485
+
+(driv)
+Low:=31.36
+Open:=34.96
+% +/-:=    .0 %
+Volume:=      46,324
+Net +/-:=0
+Price:=$31.39
+Last Trade:=06/01 3:56 PM
+High:=32.5
+
+(drl)
+Low:=1.985
+Open:=1.42
+% +/-:=    .0 %
+Volume:=      59,491
+Net +/-:=0
+Price:=$1.985
+Last Trade:=06/01 3:51 PM
+High:=2.11
+
+(dtsi)
+Low:=44.12
+Open:=49.38
+% +/-:=    .0 %
+Volume:=       8,521
+Net +/-:=0
+Price:=$44.24
+Last Trade:=06/01 3:56 PM
+High:=46
+
+(dtv)
+Low:=49.62
+Open:=40.1
+% +/-:=    .0 %
+Volume:=     873,308
+Net +/-:=0
+Price:=$49.67
+Last Trade:=06/01 3:56 PM
+High:=50.45
+
+(dva)
+Low:=83.69
+Open:=69.67
+% +/-:=    .0 %
+Volume:=      71,324
+Net +/-:=0
+Price:=$83.92
+Last Trade:=06/01 3:56 PM
+High:=84.3
+
+(dvn)
+Low:=82.36
+Open:=78.12
+% +/-:=    .0 %
+Volume:=     460,329
+Net +/-:=0
+Price:=$82.71
+Last Trade:=06/01 3:56 PM
+High:=84.26
+
+(dvox)
+Low:=6.97
+Open:=5.09
+% +/-:=    .0 %
+Volume:=       4,419
+Net +/-:=0
+Price:=$6.98
+Last Trade:=06/01 3:56 PM
+High:=7.315
+
+(dw)
+Low:=25.57
+Open:=23.48
+% +/-:=    .0 %
+Volume:=       8,869
+Net +/-:=0
+Price:=$25.63
+Last Trade:=06/01 3:55 PM
+High:=26.72
+
+(dwa)
+Low:=23.02
+Open:=29.19
+% +/-:=    .0 %
+Volume:=     272,642
+Net +/-:=0
+Price:=$23.22
+Last Trade:=06/01 3:56 PM
+High:=23.85
+
+(dxpe)
+Low:=24.79
+Open:=24.18
+% +/-:=    .0 %
+Volume:=       6,249
+Net +/-:=0
+Price:=$24.99
+Last Trade:=06/01 3:57 PM
+High:=26.14
+
+(dy)
+Low:=16.04
+Open:=14.95
+% +/-:=    .0 %
+Volume:=      27,793
+Net +/-:=0
+Price:=$16.07
+Last Trade:=06/01 3:56 PM
+High:=17
+
+(dyn)
+Low:=5.85
+Open:=5.67
+% +/-:=    .0 %
+Volume:=     283,007
+Net +/-:=0
+Price:=$5.98
+Last Trade:=06/01 3:55 PM
+High:=6.06
+
+(ebay)
+Low:=30.61
+Open:=28.06
+% +/-:=    .0 %
+Volume:=   1,231,461
+Net +/-:=0
+Price:=$30.66
+Last Trade:=06/01 3:56 PM
+High:=31.2
+
+(ebsb)
+Low:=13.24
+Open:=11.65
+% +/-:=    .0 %
+Volume:=       1,548
+Net +/-:=0
+Price:=$13.29
+Last Trade:=05/31 3:59 PM
+High:=13.81
+
+(ecpg)
+Low:=32.69
+Open:=23.38
+% +/-:=    .0 %
+Volume:=      16,905
+Net +/-:=0
+Price:=$32.87
+Last Trade:=06/01 3:56 PM
+High:=32.99
+
+(edr)
+Low:=8.365
+Open:=7.78
+% +/-:=    .0 %
+Volume:=      61,686
+Net +/-:=0
+Price:=$8.39
+Last Trade:=06/01 3:56 PM
+High:=8.69
+
+(eeft)
+Low:=16.84
+Open:=17.41
+% +/-:=    .0 %
+Volume:=      15,533
+Net +/-:=0
+Price:=$16.86
+Last Trade:=06/01 3:56 PM
+High:=17.32
+
+(egn)
+Low:=60.95
+Open:=48.28
+% +/-:=    .0 %
+Volume:=      49,712
+Net +/-:=0
+Price:=$61.14
+Last Trade:=06/01 3:56 PM
+High:=62.63
+
+(egov)
+Low:=12.68
+Open:=9.79
+% +/-:=    .0 %
+Volume:=      25,095
+Net +/-:=0
+Price:=$12.73
+Last Trade:=06/01 3:56 PM
+High:=13.31
+
+(egy)
+Low:=6.67
+Open:=7.13
+% +/-:=    .0 %
+Volume:=      24,434
+Net +/-:=0
+Price:=$6.69
+Last Trade:=06/01 3:56 PM
+High:=7.09
+
+(ek)
+Low:=3.26
+Open:=5.52
+% +/-:=    .0 %
+Volume:=     584,961
+Net +/-:=0
+Price:=$3.265
+Last Trade:=06/01 3:56 PM
+High:=3.35
+
+(elos)
+Low:=12.2
+Open:=10.4
+% +/-:=    .0 %
+Volume:=      12,756
+Net +/-:=0
+Price:=$12.21
+Last Trade:=06/01 3:55 PM
+High:=12.85
+
+(els)
+Low:=57.69
+Open:=56.19
+% +/-:=    .0 %
+Volume:=      58,477
+Net +/-:=0
+Price:=$60.15
+Last Trade:=06/01 3:56 PM
+High:=60.33
+
+(endp)
+Low:=41.32
+Open:=35.88
+% +/-:=    .0 %
+Volume:=     133,212
+Net +/-:=0
+Price:=$41.5
+Last Trade:=06/01 3:56 PM
+High:=41.72
+
+(enh)
+Low:=40.32
+Open:=46.09
+% +/-:=    .0 %
+Volume:=      35,185
+Net +/-:=0
+Price:=$40.32
+Last Trade:=06/01 3:56 PM
+High:=41.08
+
+(enoc)
+Low:=17.06
+Open:=24.44
+% +/-:=    .0 %
+Volume:=      39,892
+Net +/-:=0
+Price:=$17.06
+Last Trade:=06/01 3:57 PM
+High:=17.96
+
+(ens)
+Low:=33.66
+Open:=32.33
+% +/-:=    .0 %
+Volume:=      25,876
+Net +/-:=0
+Price:=$33.72
+Last Trade:=06/01 3:56 PM
+High:=35.73
+
+(ep)
+Low:=20.58
+Open:=13.7
+% +/-:=    .0 %
+Volume:=   1,009,434
+Net +/-:=0
+Price:=$20.65
+Last Trade:=06/01 3:56 PM
+High:=21.28
+
+(epax)
+Low:=9.4
+Open:=11.51
+% +/-:=    .0 %
+Volume:=       7,076
+Net +/-:=0
+Price:=$9.4
+Last Trade:=06/01 3:56 PM
+High:=9.57
+
+(epic)
+Low:=12.49
+Open:=10.37
+% +/-:=%
+Volume:=      23,917
+Net +/-:=
+Price:=$12.5
+Last Trade:=05/13 4:00 PM
+High:=12.5
+
+(epl)
+Low:=15.59
+Open:=14.66
+% +/-:=    .0 %
+Volume:=      39,816
+Net +/-:=0
+Price:=$15.71
+Last Trade:=06/01 3:56 PM
+High:=15.99
+
+(epm)
+Low:=7.34
+Open:=6.6
+% +/-:=    .0 %
+Volume:=       7,803
+Net +/-:=0
+Price:=$7.35
+Last Trade:=06/01 3:58 PM
+High:=7.69
+
+(eqy)
+Low:=19.02
+Open:=18.4
+% +/-:=    .0 %
+Volume:=      67,103
+Net +/-:=0
+Price:=$19.03
+Last Trade:=06/01 3:56 PM
+High:=19.64
+
+(erie)
+Low:=69.99
+Open:=65.16
+% +/-:=    .0 %
+Volume:=       3,337
+Net +/-:=0
+Price:=$69.99
+Last Trade:=06/01 3:56 PM
+High:=71.5
+
+(erts)
+Low:=24.27
+Open:=16.59
+% +/-:=    .0 %
+Volume:=     739,029
+Net +/-:=0
+Price:=$24.41
+Last Trade:=06/01 3:56 PM
+High:=24.785
+
+(ese)
+Low:=36.37
+Open:=38.75
+% +/-:=    .0 %
+Volume:=      14,408
+Net +/-:=0
+Price:=$36.39
+Last Trade:=06/01 3:56 PM
+High:=37.48
+
+(esgr)
+Low:=99.99
+Open:=87.18
+% +/-:=    .0 %
+Volume:=       2,564
+Net +/-:=0
+Price:=$100.02
+Last Trade:=06/01 3:43 PM
+High:=102.88
+
+(esl)
+Low:=73.5
+Open:=68.28
+% +/-:=    .0 %
+Volume:=      44,627
+Net +/-:=0
+Price:=$73.56
+Last Trade:=06/01 3:56 PM
+High:=75.69
+
+(esrx)
+Low:=58.6
+Open:=54.07
+% +/-:=    .0 %
+Volume:=     507,823
+Net +/-:=0
+Price:=$59.05
+Last Trade:=06/01 3:56 PM
+High:=59.6
+
+(ess)
+Low:=133.83
+Open:=114.11
+% +/-:=    .0 %
+Volume:=      24,891
+Net +/-:=0
+Price:=$133.95
+Last Trade:=06/01 3:56 PM
+High:=137.52
+
+(etm)
+Low:=8.38
+Open:=11.51
+% +/-:=    .0 %
+Volume:=      12,608
+Net +/-:=0
+Price:=$8.4
+Last Trade:=06/01 3:56 PM
+High:=9.31
+
+(evr)
+Low:=35.855
+Open:=34.12
+% +/-:=    .0 %
+Volume:=      13,991
+Net +/-:=0
+Price:=$35.89
+Last Trade:=06/01 3:56 PM
+High:=36.75
+
+(exas)
+Low:=7.36
+Open:=6.12
+% +/-:=    .0 %
+Volume:=      49,638
+Net +/-:=0
+Price:=$7.4
+Last Trade:=06/01 3:58 PM
+High:=7.51
+
+(exbd)
+Low:=41.24
+Open:=38
+% +/-:=    .0 %
+Volume:=      30,704
+Net +/-:=0
+Price:=$41.29
+Last Trade:=06/01 3:56 PM
+High:=42.22
+
+(exls)
+Low:=23.05
+Open:=21.49
+% +/-:=    .0 %
+Volume:=      12,227
+Net +/-:=0
+Price:=$23.13
+Last Trade:=06/01 3:55 PM
+High:=23.82
+
+(exp)
+Low:=28.23
+Open:=28.25
+% +/-:=    .0 %
+Volume:=      14,578
+Net +/-:=0
+Price:=$28.24
+Last Trade:=06/01 3:55 PM
+High:=28.72
+
+(expd)
+Low:=51.27
+Open:=54.68
+% +/-:=    .0 %
+Volume:=     272,810
+Net +/-:=0
+Price:=$51.29
+Last Trade:=06/01 3:56 PM
+High:=53.08
+
+(expe)
+Low:=27.44
+Open:=25.31
+% +/-:=    .0 %
+Volume:=     914,408
+Net +/-:=0
+Price:=$27.79
+Last Trade:=06/01 3:56 PM
+High:=28.3
+
+(exxi)
+Low:=null
+Open:=06/01 3:58 PM
+% +/-:=    .0 %
+Volume:=null
+Net +/-:=0
+Price:=$32.83
+Last Trade:=null
+High:=null
+
+(fast)
+Low:=31.68
+Open:=60.01
+% +/-:=    .0 %
+Volume:=     318,498
+Net +/-:=0
+Price:=$31.68
+Last Trade:=06/01 3:56 PM
+High:=33.16
+
+(fbn)
+Low:=4.64
+Open:=5.08
+% +/-:=    .0 %
+Volume:=      23,489
+Net +/-:=0
+Price:=$4.68
+Last Trade:=06/01 3:56 PM
+High:=4.82
+
+(fbnc)
+Low:=11.52
+Open:=15.61
+% +/-:=    .0 %
+Volume:=       1,313
+Net +/-:=0
+Price:=$11.74
+Last Trade:=06/01 2:06 PM
+High:=11.81
+
+(fbp)
+Low:=4.84
+Open:=.45
+% +/-:=%
+Volume:=      27,191
+Net +/-:=
+Price:=$4.99
+Last Trade:=05/26 3:59 PM
+High:=4.99
+
+(fcel)
+Low:=1.76
+Open:=2.27
+% +/-:=    .0 %
+Volume:=     480,026
+Net +/-:=0
+Price:=$1.77
+Last Trade:=06/01 3:57 PM
+High:=1.91
+
+(fcnca)
+Low:=189.52
+Open:=191.84
+% +/-:=    .0 %
+Volume:=       5,355
+Net +/-:=0
+Price:=$191.03
+Last Trade:=06/01 3:53 PM
+High:=194.2
+
+(fcs)
+Low:=17.55
+Open:=15.94
+% +/-:=    .0 %
+Volume:=     139,039
+Net +/-:=0
+Price:=$17.605
+Last Trade:=06/01 3:56 PM
+High:=18.1
+
+(fcx)
+Low:=49.195
+Open:=119.15
+% +/-:=    .0 %
+Volume:=   1,563,392
+Net +/-:=0
+Price:=$49.43
+Last Trade:=06/01 3:56 PM
+High:=51.86
+
+(fdx)
+Low:=91.44
+Open:=92.53
+% +/-:=    .0 %
+Volume:=     308,401
+Net +/-:=0
+Price:=$91.48
+Last Trade:=06/01 3:56 PM
+High:=94.38
+
+(feic)
+Low:=38.88
+Open:=26.53
+% +/-:=    .0 %
+Volume:=     121,041
+Net +/-:=0
+Price:=$40.08
+Last Trade:=06/01 3:57 PM
+High:=40.82
+
+(ffic)
+Low:=12.82
+Open:=14.27
+% +/-:=    .0 %
+Volume:=       6,259
+Net +/-:=0
+Price:=$12.83
+Last Trade:=06/01 3:55 PM
+High:=13.31
+
+(ffiv)
+Low:=108.96
+Open:=132.35
+% +/-:=    .0 %
+Volume:=     262,922
+Net +/-:=0
+Price:=$109.36
+Last Trade:=06/01 3:56 PM
+High:=114.89
+
+(fisv)
+Low:=63.55
+Open:=59.12
+% +/-:=    .0 %
+Volume:=     169,976
+Net +/-:=0
+Price:=$63.6
+Last Trade:=06/01 3:56 PM
+High:=64.87
+
+(flex)
+Low:=7.05
+Open:=7.81
+% +/-:=    .0 %
+Volume:=   1,019,879
+Net +/-:=0
+Price:=$7.065
+Last Trade:=06/01 3:56 PM
+High:=7.27
+
+(flir)
+Low:=35.13
+Open:=29.96
+% +/-:=    .0 %
+Volume:=      72,721
+Net +/-:=0
+Price:=$35.14
+Last Trade:=06/01 3:56 PM
+High:=36.26
+
+(flo)
+Low:=33.02
+Open:=26.94
+% +/-:=    .0 %
+Volume:=      52,536
+Net +/-:=0
+Price:=$33.04
+Last Trade:=06/01 3:55 PM
+High:=33.41
+
+(flr)
+Low:=65.87
+Open:=66.1
+% +/-:=    .0 %
+Volume:=     114,125
+Net +/-:=0
+Price:=$65.96
+Last Trade:=06/01 3:56 PM
+High:=68.99
+
+(fls)
+Low:=115.69
+Open:=118.7
+% +/-:=    .0 %
+Volume:=      50,579
+Net +/-:=0
+Price:=$115.74
+Last Trade:=06/01 3:55 PM
+High:=121.13
+
+(flws)
+Low:=2.96
+Open:=2.7
+% +/-:=    .0 %
+Volume:=       9,880
+Net +/-:=0
+Price:=$2.96
+Last Trade:=06/01 3:56 PM
+High:=3.07
+
+(fmbi)
+Low:=11.82
+Open:=11.75
+% +/-:=    .0 %
+Volume:=      88,503
+Net +/-:=0
+Price:=$11.94
+Last Trade:=06/01 3:56 PM
+High:=12.18
+
+(fmc)
+Low:=81.44
+Open:=79.94
+% +/-:=    .0 %
+Volume:=      50,801
+Net +/-:=0
+Price:=$81.53
+Last Trade:=06/01 3:56 PM
+High:=84.08
+
+(fmd)
+Low:=1.745
+Open:=2.17
+% +/-:=    .0 %
+Volume:=       8,600
+Net +/-:=0
+Price:=$1.77
+Last Trade:=06/01 3:52 PM
+High:=1.78
+
+(fnsr)
+Low:=22.27
+Open:=28.42
+% +/-:=    .0 %
+Volume:=     311,561
+Net +/-:=0
+Price:=$22.37
+Last Trade:=06/01 3:56 PM
+High:=24.31
+
+(fosl)
+Low:=101.89
+Open:=71.95
+% +/-:=    .0 %
+Volume:=      49,827
+Net +/-:=0
+Price:=$102.1
+Last Trade:=06/01 3:56 PM
+High:=106.17
+
+(frx)
+Low:=35.48
+Open:=31.88
+% +/-:=    .0 %
+Volume:=     158,631
+Net +/-:=0
+Price:=$35.53
+Last Trade:=06/01 3:56 PM
+High:=36.09
+
+(fsii)
+Low:=4.01
+Open:=4.48
+% +/-:=    .0 %
+Volume:=     191,594
+Net +/-:=0
+Price:=$4.02
+Last Trade:=06/01 3:57 PM
+High:=4.5
+
+(fslr)
+Low:=119.5
+Open:=130.74
+% +/-:=    .0 %
+Volume:=     219,295
+Net +/-:=0
+Price:=$119.75
+Last Trade:=06/01 3:57 PM
+High:=125.68
+
+(fsp)
+Low:=12.85
+Open:=14.26
+% +/-:=    .0 %
+Volume:=      40,597
+Net +/-:=0
+Price:=$12.88
+Last Trade:=06/01 3:58 PM
+High:=13.69
+
+(fst)
+Low:=29.95
+Open:=38
+% +/-:=    .0 %
+Volume:=     244,001
+Net +/-:=0
+Price:=$30.04
+Last Trade:=06/01 3:56 PM
+High:=31.395
+
+(fsys)
+Low:=24.09
+Open:=30.02
+% +/-:=    .0 %
+Volume:=      10,823
+Net +/-:=0
+Price:=$24.15
+Last Trade:=06/01 3:57 PM
+High:=24.94
+
+(fto)
+Low:=29.1
+Open:=17.83
+% +/-:=    .0 %
+Volume:=     132,545
+Net +/-:=0
+Price:=$29.195
+Last Trade:=06/01 3:56 PM
+High:=30.46
+
+(ftr)
+Low:=8.7
+Open:=9.72
+% +/-:=    .0 %
+Volume:=     613,664
+Net +/-:=0
+Price:=$8.705
+Last Trade:=06/01 3:55 PM
+High:=8.82
+
+(fwrd)
+Low:=34.31
+Open:=28.93
+% +/-:=    .0 %
+Volume:=      11,980
+Net +/-:=0
+Price:=$34.4
+Last Trade:=06/01 3:56 PM
+High:=35.26
+
+(g)
+Low:=15.92
+Open:=15.33
+% +/-:=    .0 %
+Volume:=      50,673
+Net +/-:=0
+Price:=$15.95
+Last Trade:=06/01 3:56 PM
+High:=16.17
+
+(gain)
+Low:=7.29
+Open:=7.65
+% +/-:=    .0 %
+Volume:=       8,393
+Net +/-:=0
+Price:=$7.29
+Last Trade:=06/01 3:50 PM
+High:=7.4
+
+(gbdc)
+Low:=15.18
+Open:=17.75
+% +/-:=    .0 %
+Volume:=       5,553
+Net +/-:=0
+Price:=$15.26
+Last Trade:=06/01 3:50 PM
+High:=15.79
+
+(gbl)
+Low:=44.46
+Open:=49.19
+% +/-:=    .0 %
+Volume:=         738
+Net +/-:=0
+Price:=$44.46
+Last Trade:=06/01 3:53 PM
+High:=46.93
+
+(gd)
+Low:=71.79
+Open:=70.63
+% +/-:=    .0 %
+Volume:=     288,678
+Net +/-:=0
+Price:=$71.85
+Last Trade:=06/01 3:56 PM
+High:=73.97
+
+(ge)
+Low:=19.105
+Open:=18.15
+% +/-:=    .0 %
+Volume:=   4,746,121
+Net +/-:=0
+Price:=$19.165
+Last Trade:=06/01 3:56 PM
+High:=19.595
+
+(gef)
+Low:=64.79
+Open:=62.66
+% +/-:=    .0 %
+Volume:=       8,536
+Net +/-:=0
+Price:=$64.9
+Last Trade:=06/01 3:56 PM
+High:=66.3
+
+(geoi)
+Low:=23.03
+Open:=22.52
+% +/-:=    .0 %
+Volume:=      20,356
+Net +/-:=0
+Price:=$23.2
+Last Trade:=06/01 3:57 PM
+High:=24.85
+
+(get)
+Low:=31.11
+Open:=36.08
+% +/-:=    .0 %
+Volume:=      39,662
+Net +/-:=0
+Price:=$31.26
+Last Trade:=06/01 3:56 PM
+High:=31.97
+
+(ggp)
+Low:=16.07
+Open:=15.61
+% +/-:=    .0 %
+Volume:=     289,929
+Net +/-:=0
+Price:=$16.075
+Last Trade:=06/01 3:56 PM
+High:=16.42
+
+(ggs)
+Low:=15.77
+Open:=10.12
+% +/-:=    .0 %
+Volume:=      11,992
+Net +/-:=0
+Price:=$16.48
+Last Trade:=06/01 3:56 PM
+High:=17.29
+
+(gild)
+Low:=41.29
+Open:=36.19
+% +/-:=    .0 %
+Volume:=     910,164
+Net +/-:=0
+Price:=$41.31
+Last Trade:=06/01 3:56 PM
+High:=41.83
+
+(gksr)
+Low:=30.77
+Open:=31.22
+% +/-:=    .0 %
+Volume:=       8,622
+Net +/-:=0
+Price:=$31.01
+Last Trade:=06/01 3:56 PM
+High:=31.89
+
+(glad)
+Low:=9.76
+Open:=11.63
+% +/-:=    .0 %
+Volume:=       6,966
+Net +/-:=0
+Price:=$9.76
+Last Trade:=06/01 3:56 PM
+High:=10.02
+
+(glng)
+Low:=33.13
+Open:=14.84
+% +/-:=    .0 %
+Volume:=     119,663
+Net +/-:=0
+Price:=$33.31
+Last Trade:=06/01 3:56 PM
+High:=34.71
+
+(gmcr)
+Low:=79.6
+Open:=32.78
+% +/-:=    .0 %
+Volume:=     227,289
+Net +/-:=0
+Price:=$79.84
+Last Trade:=06/01 3:56 PM
+High:=82.62
+
+(gmt)
+Low:=37.86
+Open:=35.92
+% +/-:=    .0 %
+Volume:=      36,578
+Net +/-:=0
+Price:=$37.88
+Last Trade:=06/01 3:56 PM
+High:=39.7
+
+(gntx)
+Low:=28.44
+Open:=29.54
+% +/-:=    .0 %
+Volume:=      74,815
+Net +/-:=0
+Price:=$28.45
+Last Trade:=06/01 3:56 PM
+High:=29.53
+
+(goog)
+Low:=525.36
+Open:=596.74
+% +/-:=    .0 %
+Volume:=     314,719
+Net +/-:=0
+Price:=$525.82
+Last Trade:=06/01 3:56 PM
+High:=533.15
+
+(gps)
+Low:=18.88
+Open:=22.39
+% +/-:=    .0 %
+Volume:=     857,412
+Net +/-:=0
+Price:=$18.935
+Last Trade:=06/01 3:56 PM
+High:=19.31
+
+(grb)
+Low:=9.02
+Open:=7.91
+% +/-:=    .0 %
+Volume:=       3,151
+Net +/-:=0
+Price:=$9.05
+Last Trade:=06/01 3:56 PM
+High:=9.73
+
+(grmn)
+Low:=33.9
+Open:=30.87
+% +/-:=    .0 %
+Volume:=     243,255
+Net +/-:=0
+Price:=$34.05
+Last Trade:=06/01 3:56 PM
+High:=34.47
+
+(gsat)
+Low:=1.14
+Open:=1.43
+% +/-:=    .0 %
+Volume:=       7,166
+Net +/-:=0
+Price:=$1.15
+Last Trade:=06/01 3:56 PM
+High:=1.19
+
+(gsbc)
+Low:=17.27
+Open:=23.85
+% +/-:=    .0 %
+Volume:=       1,574
+Net +/-:=0
+Price:=$17.27
+Last Trade:=06/01 3:55 PM
+High:=18.45
+
+(gsm)
+Low:=21.18
+Open:=17.04
+% +/-:=    .0 %
+Volume:=      86,020
+Net +/-:=0
+Price:=$21.335
+Last Trade:=06/01 3:56 PM
+High:=22.72
+
+(gti)
+Low:=20.29
+Open:=19.68
+% +/-:=    .0 %
+Volume:=      57,040
+Net +/-:=0
+Price:=$20.32
+Last Trade:=06/01 3:56 PM
+High:=21.28
+
+(gty)
+Low:=24.76
+Open:=31.5
+% +/-:=    .0 %
+Volume:=      13,385
+Net +/-:=0
+Price:=$24.79
+Last Trade:=06/01 3:56 PM
+High:=26.05
+
+(gymb)
+Low:=65.2
+Open:=65.38
+% +/-:=%
+Volume:=     151,461
+Net +/-:=
+Price:=$65.38
+Last Trade:=11/22 3:59 PM
+High:=65.41
+
+(hafc)
+Low:=1.18
+Open:=1.16
+% +/-:=    .0 %
+Volume:=      41,778
+Net +/-:=0
+Price:=$1.18
+Last Trade:=06/01 3:52 PM
+High:=1.2
+
+(hal)
+Low:=48.9
+Open:=40.96
+% +/-:=    .0 %
+Volume:=     620,158
+Net +/-:=0
+Price:=$49.025
+Last Trade:=06/01 3:56 PM
+High:=50.49
+
+(halo)
+Low:=6.39
+Open:=7.88
+% +/-:=    .0 %
+Volume:=      28,046
+Net +/-:=0
+Price:=$6.395
+Last Trade:=06/01 3:37 PM
+High:=6.74
+
+(hans)
+Low:=71.48
+Open:=52.61
+% +/-:=    .0 %
+Volume:=      95,158
+Net +/-:=0
+Price:=$72.265
+Last Trade:=06/01 3:56 PM
+High:=73.78
+
+(hbcp)
+Low:=14.85
+Open:=14.17
+% +/-:=    .0 %
+Volume:=         600
+Net +/-:=0
+Price:=$14.85
+Last Trade:=06/01 2:08 PM
+High:=15.08
+
+(hckt)
+Low:=4.95
+Open:=3.51
+% +/-:=    .0 %
+Volume:=       9,469
+Net +/-:=0
+Price:=$5.17
+Last Trade:=06/01 3:37 PM
+High:=5.18
+
+(hcp)
+Low:=36.83
+Open:=36.74
+% +/-:=    .0 %
+Volume:=     362,433
+Net +/-:=0
+Price:=$36.88
+Last Trade:=06/01 3:56 PM
+High:=39.84
+
+(hd)
+Low:=35.4
+Open:=34.85
+% +/-:=    .0 %
+Volume:=     932,192
+Net +/-:=0
+Price:=$35.45
+Last Trade:=06/01 3:56 PM
+High:=36.26
+
+(he)
+Low:=24.36
+Open:=23
+% +/-:=    .0 %
+Volume:=      17,359
+Net +/-:=0
+Price:=$24.36
+Last Trade:=06/01 3:56 PM
+High:=24.82
+
+(hees)
+Low:=13.5
+Open:=11.85
+% +/-:=    .0 %
+Volume:=      11,683
+Net +/-:=0
+Price:=$13.5
+Last Trade:=06/01 3:55 PM
+High:=14.5
+
+(hele)
+Low:=31.33
+Open:=30.1
+% +/-:=    .0 %
+Volume:=      13,932
+Net +/-:=0
+Price:=$31.35
+Last Trade:=06/01 3:56 PM
+High:=32.33
+
+(hgr)
+Low:=23.4
+Open:=21.61
+% +/-:=    .0 %
+Volume:=      25,211
+Net +/-:=0
+Price:=$23.4
+Last Trade:=06/01 3:56 PM
+High:=25.01
+
+(hgsi)
+Low:=26.75
+Open:=24.2
+% +/-:=    .0 %
+Volume:=     135,251
+Net +/-:=0
+Price:=$26.775
+Last Trade:=06/01 3:37 PM
+High:=27.44
+
+(hhgp)
+Low:=4.75
+Open:=5.92
+% +/-:=    .0 %
+Volume:=         931
+Net +/-:=0
+Price:=$4.8
+Last Trade:=06/01 2:42 PM
+High:=5.13
+
+(hibb)
+Low:=39.9
+Open:=37.52
+% +/-:=    .0 %
+Volume:=      39,727
+Net +/-:=0
+Price:=$39.955
+Last Trade:=06/01 3:56 PM
+High:=41.69
+
+(hig)
+Low:=25.59
+Open:=26.2
+% +/-:=    .0 %
+Volume:=     314,126
+Net +/-:=0
+Price:=$25.63
+Last Trade:=06/01 3:56 PM
+High:=26.52
+
+(hk)
+Low:=25.86
+Open:=18.08
+% +/-:=    .0 %
+Volume:=     532,193
+Net +/-:=0
+Price:=$25.94
+Last Trade:=06/01 3:56 PM
+High:=27.43
+
+(hls)
+Low:=27.45
+Open:=20.94
+% +/-:=    .0 %
+Volume:=      52,489
+Net +/-:=0
+Price:=$27.585
+Last Trade:=06/01 3:56 PM
+High:=28.12
+
+(hma)
+Low:=11.08
+Open:=9.55
+% +/-:=    .0 %
+Volume:=     173,671
+Net +/-:=0
+Price:=$11.12
+Last Trade:=06/01 3:56 PM
+High:=11.44
+
+(hme)
+Low:=60.25
+Open:=55.94
+% +/-:=    .0 %
+Volume:=      46,550
+Net +/-:=0
+Price:=$60.34
+Last Trade:=06/01 3:56 PM
+High:=61.9
+
+(hmsy)
+Low:=76.16
+Open:=65.57
+% +/-:=    .0 %
+Volume:=       6,577
+Net +/-:=0
+Price:=$76.24
+Last Trade:=06/01 3:56 PM
+High:=78.12
+
+(hog)
+Low:=35.99
+Open:=34.6
+% +/-:=    .0 %
+Volume:=     113,168
+Net +/-:=0
+Price:=$35.99
+Last Trade:=06/01 3:56 PM
+High:=37.24
+
+(hott)
+Low:=7.51
+Open:=6.41
+% +/-:=    .0 %
+Volume:=      62,779
+Net +/-:=0
+Price:=$7.51
+Last Trade:=06/01 3:52 PM
+High:=7.76
+
+(hp)
+Low:=62.26
+Open:=48.91
+% +/-:=    .0 %
+Volume:=     237,224
+Net +/-:=0
+Price:=$62.65
+Last Trade:=06/01 3:56 PM
+High:=64.13
+
+(hpq)
+Low:=36.505
+Open:=42.22
+% +/-:=    .0 %
+Volume:=   1,400,011
+Net +/-:=0
+Price:=$36.65
+Last Trade:=06/01 3:56 PM
+High:=37.28
+
+(hpt)
+Low:=23.82
+Open:=23.06
+% +/-:=    .0 %
+Volume:=      52,229
+Net +/-:=0
+Price:=$23.845
+Last Trade:=06/01 3:56 PM
+High:=24.84
+
+(hpy)
+Low:=18.73
+Open:=15.56
+% +/-:=    .0 %
+Volume:=      20,941
+Net +/-:=0
+Price:=$18.75
+Last Trade:=06/01 3:55 PM
+High:=19
+
+(hrg)
+Low:=6.19
+Open:=6.21
+% +/-:=    .0 %
+Volume:=       1,300
+Net +/-:=0
+Price:=$6.24
+Last Trade:=06/01 3:44 PM
+High:=6.25
+
+(hrs)
+Low:=47.9401
+Open:=45.28
+% +/-:=    .0 %
+Volume:=     168,415
+Net +/-:=0
+Price:=$48.1
+Last Trade:=06/01 3:56 PM
+High:=49.24
+
+(hrz)
+Low:=1.01
+Open:=4.4
+% +/-:=    .0 %
+Volume:=      74,013
+Net +/-:=0
+Price:=$1.03
+Last Trade:=06/01 3:53 PM
+High:=1.11
+
+(hsic)
+Low:=70.62
+Open:=62.16
+% +/-:=    .0 %
+Volume:=      66,473
+Net +/-:=0
+Price:=$70.7
+Last Trade:=06/01 3:56 PM
+High:=72.22
+
+(hsp)
+Low:=54.84
+Open:=55.59
+% +/-:=    .0 %
+Volume:=      85,074
+Net +/-:=0
+Price:=$54.88
+Last Trade:=06/01 3:56 PM
+High:=55.74
+
+(ht)
+Low:=5.81
+Open:=6.58
+% +/-:=    .0 %
+Volume:=     106,091
+Net +/-:=0
+Price:=$5.83
+Last Trade:=06/01 3:56 PM
+High:=6.11
+
+(htgc)
+Low:=10.56
+Open:=10.44
+% +/-:=    .0 %
+Volume:=      10,027
+Net +/-:=0
+Price:=$10.7
+Last Trade:=06/01 3:36 PM
+High:=10.92
+
+(hts)
+Low:=28.99
+Open:=30.35
+% +/-:=    .0 %
+Volume:=      38,776
+Net +/-:=0
+Price:=$29.025
+Last Trade:=06/01 3:56 PM
+High:=29.23
+
+(hurn)
+Low:=29.52
+Open:=26.46
+% +/-:=    .0 %
+Volume:=      15,482
+Net +/-:=0
+Price:=$29.75
+Last Trade:=06/01 3:55 PM
+High:=29.89
+
+(hwkn)
+Low:=40.04
+Open:=44.5
+% +/-:=    .0 %
+Volume:=       6,395
+Net +/-:=0
+Price:=$40.04
+Last Trade:=06/01 3:29 PM
+High:=43.39
+
+(iaci)
+Low:=36.49
+Open:=29.36
+% +/-:=    .0 %
+Volume:=     173,437
+Net +/-:=0
+Price:=$36.87
+Last Trade:=06/01 3:56 PM
+High:=37.52
+
+(ibm)
+Low:=166.51
+Open:=146.69
+% +/-:=    .0 %
+Volume:=     318,384
+Net +/-:=0
+Price:=$166.71
+Last Trade:=06/01 3:56 PM
+High:=169.55
+
+(iboc)
+Low:=16.36
+Open:=20.35
+% +/-:=    .0 %
+Volume:=      50,650
+Net +/-:=0
+Price:=$16.36
+Last Trade:=06/01 3:56 PM
+High:=17.09
+
+(icge)
+Low:=12.32
+Open:=14.1
+% +/-:=    .0 %
+Volume:=       5,575
+Net +/-:=0
+Price:=$12.32
+Last Trade:=06/01 3:23 PM
+High:=12.94
+
+(icog)
+Low:=2.79
+Open:=1.53
+% +/-:=    .0 %
+Volume:=      23,224
+Net +/-:=0
+Price:=$2.795
+Last Trade:=06/01 3:33 PM
+High:=2.94
+
+(idti)
+Low:=7.925
+Open:=6.73
+% +/-:=    .0 %
+Volume:=     248,349
+Net +/-:=0
+Price:=$7.935
+Last Trade:=06/01 3:56 PM
+High:=8.37
+
+(idxx)
+Low:=76.94
+Open:=70.16
+% +/-:=    .0 %
+Volume:=      29,097
+Net +/-:=0
+Price:=$77.03
+Last Trade:=06/01 3:54 PM
+High:=78.58
+
+(ihs)
+Low:=86.56
+Open:=80.36
+% +/-:=    .0 %
+Volume:=      10,932
+Net +/-:=0
+Price:=$86.56
+Last Trade:=06/01 3:56 PM
+High:=87.94
+
+(iilg)
+Low:=13.245
+Open:=16.52
+% +/-:=    .0 %
+Volume:=      18,284
+Net +/-:=0
+Price:=$13.245
+Last Trade:=06/01 3:56 PM
+High:=13.51
+
+(iivi)
+Low:=54.63
+Open:=47.05
+% +/-:=    .0 %
+Volume:=      32,650
+Net +/-:=0
+Price:=$54.75
+Last Trade:=06/01 3:56 PM
+High:=56.43
+
+(ikan)
+Low:=1.53
+Open:=1.37
+% +/-:=    .0 %
+Volume:=      66,879
+Net +/-:=0
+Price:=$1.58
+Last Trade:=06/01 3:30 PM
+High:=1.62
+
+(ilmn)
+Low:=71.88
+Open:=64.03
+% +/-:=    .0 %
+Volume:=     129,060
+Net +/-:=0
+Price:=$72.52
+Last Trade:=06/01 3:37 PM
+High:=72.81
+
+(im)
+Low:=18.24
+Open:=19.25
+% +/-:=    .0 %
+Volume:=     131,220
+Net +/-:=0
+Price:=$18.275
+Last Trade:=06/01 3:57 PM
+High:=19.02
+
+(imgn)
+Low:=11.7
+Open:=9.43
+% +/-:=    .0 %
+Volume:=      37,563
+Net +/-:=0
+Price:=$11.72
+Last Trade:=06/01 3:37 PM
+High:=12.21
+
+(imn)
+Low:=9.71
+Open:=10.6
+% +/-:=    .0 %
+Volume:=      37,855
+Net +/-:=0
+Price:=$9.86
+Last Trade:=06/01 3:56 PM
+High:=9.99
+
+(in)
+Low:=11.7
+Open:=12.78
+% +/-:=    .0 %
+Volume:=      14,130
+Net +/-:=0
+Price:=$11.71
+Last Trade:=06/01 3:57 PM
+High:=12.05
+
+(inap)
+Low:=7.86
+Open:=6
+% +/-:=    .0 %
+Volume:=      22,049
+Net +/-:=0
+Price:=$7.875
+Last Trade:=06/01 3:36 PM
+High:=8.25
+
+(indm)
+Low:=7.13
+Open:=7.49
+% +/-:=%
+Volume:=      25,424
+Net +/-:=
+Price:=$7.23
+Last Trade:=07/02
+High:=7.49
+
+(infi)
+Low:=6.9
+Open:=6.06
+% +/-:=    .0 %
+Volume:=       4,315
+Net +/-:=0
+Price:=$6.9
+Last Trade:=06/01 3:35 PM
+High:=7.28
+
+(infy)
+Low:=61.71
+Open:=76.15
+% +/-:=    .0 %
+Volume:=     179,560
+Net +/-:=0
+Price:=$61.735
+Last Trade:=06/01 3:56 PM
+High:=63.02
+
+(ino)
+Low:=.77
+Open:=1.16
+% +/-:=    .0 %
+Volume:=       8,616
+Net +/-:=0
+Price:=$.7799
+Last Trade:=06/01 3:44 PM
+High:=.79
+
+(intc)
+Low:=21.98
+Open:=21.03
+% +/-:=    .0 %
+Volume:=   5,534,633
+Net +/-:=0
+Price:=$22.005
+Last Trade:=06/01 3:56 PM
+High:=22.49
+
+(intu)
+Low:=53.27
+Open:=49.44
+% +/-:=    .0 %
+Volume:=     255,490
+Net +/-:=0
+Price:=$53.32
+Last Trade:=06/01 3:56 PM
+High:=54
+
+(io)
+Low:=9.34
+Open:=8.47
+% +/-:=    .0 %
+Volume:=     214,471
+Net +/-:=0
+Price:=$9.505
+Last Trade:=06/01 3:56 PM
+High:=10.07
+
+(ipcc)
+Low:=51.07
+Open:=62.84
+% +/-:=    .0 %
+Volume:=       8,131
+Net +/-:=0
+Price:=$51.08
+Last Trade:=06/01 3:56 PM
+High:=52.88
+
+(ipcm)
+Low:=48.78
+Open:=39.46
+% +/-:=    .0 %
+Volume:=       6,972
+Net +/-:=0
+Price:=$48.78
+Last Trade:=06/01 3:37 PM
+High:=50.78
+
+(ipg)
+Low:=11.505
+Open:=10.59
+% +/-:=    .0 %
+Volume:=     640,330
+Net +/-:=0
+Price:=$11.52
+Last Trade:=06/01 3:57 PM
+High:=11.89
+
+(ipgp)
+Low:=73.83
+Open:=31.37
+% +/-:=    .0 %
+Volume:=      64,350
+Net +/-:=0
+Price:=$74.07
+Last Trade:=06/01 3:37 PM
+High:=78.59
+
+(ipi)
+Low:=30.9
+Open:=36.76
+% +/-:=    .0 %
+Volume:=      18,780
+Net +/-:=0
+Price:=$30.97
+Last Trade:=06/01 3:57 PM
+High:=32.18
+
+(ipxl)
+Low:=26.58
+Open:=20.5
+% +/-:=    .0 %
+Volume:=      24,487
+Net +/-:=0
+Price:=$26.59
+Last Trade:=06/01 3:36 PM
+High:=26.96
+
+(ir)
+Low:=47.45
+Open:=47.32
+% +/-:=    .0 %
+Volume:=     232,551
+Net +/-:=0
+Price:=$47.515
+Last Trade:=06/01 3:57 PM
+High:=49.7
+
+(irc)
+Low:=8.845
+Open:=8.85
+% +/-:=    .0 %
+Volume:=      45,028
+Net +/-:=0
+Price:=$8.845
+Last Trade:=06/01 3:56 PM
+High:=9.17
+
+(irm)
+Low:=33.05
+Open:=25
+% +/-:=    .0 %
+Volume:=     293,624
+Net +/-:=0
+Price:=$33.205
+Last Trade:=06/01 3:57 PM
+High:=33.83
+
+(isis)
+Low:=9.06
+Open:=10.1
+% +/-:=    .0 %
+Volume:=     104,138
+Net +/-:=0
+Price:=$9.12
+Last Trade:=06/01 3:33 PM
+High:=9.17
+
+(isrg)
+Low:=344.61
+Open:=256.91
+% +/-:=    .0 %
+Volume:=      39,961
+Net +/-:=0
+Price:=$344.82
+Last Trade:=06/01 3:56 PM
+High:=351.21
+
+(isrl)
+Low:=61
+Open:=86.05
+% +/-:=%
+Volume:=          18
+Net +/-:=
+Price:=$61
+Last Trade:=05/23 3:57 PM
+High:=61
+
+(itc)
+Low:=70.84
+Open:=61.71
+% +/-:=    .0 %
+Volume:=      18,735
+Net +/-:=0
+Price:=$70.84
+Last Trade:=06/01 3:56 PM
+High:=72.39
+
+(itri)
+Low:=50.56
+Open:=56.15
+% +/-:=    .0 %
+Volume:=      52,937
+Net +/-:=0
+Price:=$50.58
+Last Trade:=06/01 3:56 PM
+High:=51.56
+
+(ivac)
+Low:=11.28
+Open:=14.15
+% +/-:=    .0 %
+Volume:=       1,202
+Net +/-:=0
+Price:=$11.3
+Last Trade:=06/01 2:47 PM
+High:=11.67
+
+(ivc)
+Low:=32.97
+Open:=30.57
+% +/-:=    .0 %
+Volume:=      13,631
+Net +/-:=0
+Price:=$33.09
+Last Trade:=06/01 3:56 PM
+High:=33.53
+
+(ivz)
+Low:=23.485
+Open:=23.64
+% +/-:=    .0 %
+Volume:=     382,363
+Net +/-:=0
+Price:=$23.54
+Last Trade:=06/01 3:57 PM
+High:=24.57
+
+(ixys)
+Low:=13.16
+Open:=11.71
+% +/-:=    .0 %
+Volume:=       7,165
+Net +/-:=0
+Price:=$13.19
+Last Trade:=06/01 3:35 PM
+High:=13.81
+
+(jakk)
+Low:=19.14
+Open:=18.48
+% +/-:=    .0 %
+Volume:=      18,958
+Net +/-:=0
+Price:=$19.14
+Last Trade:=06/01 3:56 PM
+High:=19.89
+
+(jazz)
+Low:=29.09
+Open:=19.88
+% +/-:=    .0 %
+Volume:=     105,887
+Net +/-:=0
+Price:=$29.58
+Last Trade:=06/01 3:37 PM
+High:=29.64
+
+(jbht)
+Low:=44.12
+Open:=40.81
+% +/-:=    .0 %
+Volume:=     181,033
+Net +/-:=0
+Price:=$44.12
+Last Trade:=06/01 3:56 PM
+High:=45.98
+
+(jcp)
+Low:=33.54
+Open:=32.34
+% +/-:=    .0 %
+Volume:=     572,381
+Net +/-:=0
+Price:=$33.98
+Last Trade:=06/01 3:57 PM
+High:=35.68
+
+(jec)
+Low:=43.99
+Open:=45.82
+% +/-:=    .0 %
+Volume:=     124,556
+Net +/-:=0
+Price:=$44.045
+Last Trade:=06/01 3:56 PM
+High:=45.88
+
+(jll)
+Low:=93.55
+Open:=84.72
+% +/-:=    .0 %
+Volume:=      37,918
+Net +/-:=0
+Price:=$93.64
+Last Trade:=06/01 3:57 PM
+High:=97.49
+
+(jnj)
+Low:=66.47
+Open:=61.86
+% +/-:=    .0 %
+Volume:=     815,449
+Net +/-:=0
+Price:=$66.52
+Last Trade:=06/01 3:57 PM
+High:=67.29
+
+(jnpr)
+Low:=32.63
+Open:=37.09
+% +/-:=    .0 %
+Volume:=   2,220,843
+Net +/-:=0
+Price:=$33.15
+Last Trade:=06/01 3:57 PM
+High:=36.87
+
+(joyg)
+Low:=86.06
+Open:=87
+% +/-:=    .0 %
+Volume:=     235,938
+Net +/-:=0
+Price:=$86.26
+Last Trade:=06/01 3:56 PM
+High:=89.82
+
+(jpm)
+Low:=41.75
+Open:=42.1
+% +/-:=    .0 %
+Volume:=   2,816,664
+Net +/-:=0
+Price:=$41.83
+Last Trade:=06/01 3:57 PM
+High:=42.99
+
+(kalu)
+Low:=50.41
+Open:=50.52
+% +/-:=    .0 %
+Volume:=       7,156
+Net +/-:=0
+Price:=$50.52
+Last Trade:=06/01 3:37 PM
+High:=52.2
+
+(kar)
+Low:=20.52
+Open:=13.99
+% +/-:=    .0 %
+Volume:=      10,697
+Net +/-:=0
+Price:=$20.54
+Last Trade:=06/01 3:54 PM
+High:=20.94
+
+(kbh)
+Low:=11.81
+Open:=13.44
+% +/-:=    .0 %
+Volume:=     309,270
+Net +/-:=0
+Price:=$11.84
+Last Trade:=06/01 3:56 PM
+High:=12.25
+
+(kbr)
+Low:=36.43
+Open:=30.49
+% +/-:=    .0 %
+Volume:=      70,471
+Net +/-:=0
+Price:=$36.54
+Last Trade:=06/01 3:56 PM
+High:=37.53
+
+(kbw)
+Low:=19.92
+Open:=28.19
+% +/-:=    .0 %
+Volume:=      12,872
+Net +/-:=0
+Price:=$19.93
+Last Trade:=06/01 3:55 PM
+High:=21.21
+
+(kcg)
+Low:=11.74
+Open:=13.7
+% +/-:=    .0 %
+Volume:=     192,243
+Net +/-:=0
+Price:=$11.74
+Last Trade:=06/01 3:57 PM
+High:=12.3
+
+(kcli)
+Low:=29.15
+Open:=33.35
+% +/-:=    .0 %
+Volume:=       1,050
+Net +/-:=0
+Price:=$29.2
+Last Trade:=06/01 3:44 PM
+High:=29.74
+
+(kelya)
+Low:=16.79
+Open:=19.19
+% +/-:=    .0 %
+Volume:=      14,307
+Net +/-:=0
+Price:=$16.79
+Last Trade:=06/01 3:56 PM
+High:=17.65
+
+(kerx)
+Low:=5.17
+Open:=4.67
+% +/-:=    .0 %
+Volume:=      74,672
+Net +/-:=0
+Price:=$5.19
+Last Trade:=06/01 3:58 PM
+High:=5.42
+
+(keyn)
+Low:=20.52
+Open:=14.82
+% +/-:=    .0 %
+Volume:=       7,726
+Net +/-:=0
+Price:=$20.59
+Last Trade:=06/01 3:34 PM
+High:=21.15
+
+(kft)
+Low:=34.67
+Open:=31.5
+% +/-:=    .0 %
+Volume:=     534,452
+Net +/-:=0
+Price:=$34.72
+Last Trade:=06/01 3:57 PM
+High:=34.985
+
+(kirk)
+Low:=12.38
+Open:=14.21
+% +/-:=    .0 %
+Volume:=      15,681
+Net +/-:=0
+Price:=$12.43
+Last Trade:=06/01 3:36 PM
+High:=13.11
+
+(klac)
+Low:=41.23
+Open:=39.14
+% +/-:=    .0 %
+Volume:=     410,349
+Net +/-:=0
+Price:=$41.395
+Last Trade:=06/01 3:56 PM
+High:=43.43
+
+(klic)
+Low:=11.71
+Open:=7.21
+% +/-:=    .0 %
+Volume:=     231,667
+Net +/-:=0
+Price:=$11.71
+Last Trade:=06/01 3:37 PM
+High:=12.07
+
+(kmt)
+Low:=40.46
+Open:=39.15
+% +/-:=    .0 %
+Volume:=     136,891
+Net +/-:=0
+Price:=$40.67
+Last Trade:=06/01 3:55 PM
+High:=41.43
+
+(knol)
+Low:=15.38
+Open:=15.4
+% +/-:=    .0 %
+Volume:=       8,763
+Net +/-:=0
+Price:=$15.52
+Last Trade:=06/01 3:29 PM
+High:=15.59
+
+(ko)
+Low:=66.6
+Open:=65.48
+% +/-:=    .0 %
+Volume:=     461,929
+Net +/-:=0
+Price:=$66.795
+Last Trade:=06/01 3:57 PM
+High:=67.18
+
+(ks)
+Low:=15.36
+Open:=15.4
+% +/-:=    .0 %
+Volume:=      22,155
+Net +/-:=0
+Price:=$15.37
+Last Trade:=06/01 3:56 PM
+High:=16.36
+
+(kss)
+Low:=52.57
+Open:=54.45
+% +/-:=    .0 %
+Volume:=     352,594
+Net +/-:=0
+Price:=$52.92
+Last Trade:=06/01 3:57 PM
+High:=53.2
+
+(ksws)
+Low:=10.69
+Open:=12.51
+% +/-:=    .0 %
+Volume:=      10,560
+Net +/-:=0
+Price:=$10.7
+Last Trade:=06/01 3:55 PM
+High:=11.29
+
+(ktos)
+Low:=11.7
+Open:=13.2
+% +/-:=    .0 %
+Volume:=      23,560
+Net +/-:=0
+Price:=$11.71
+Last Trade:=06/01 3:55 PM
+High:=12.13
+
+(kvhi)
+Low:=11.36
+Open:=11.7
+% +/-:=    .0 %
+Volume:=       1,695
+Net +/-:=0
+Price:=$11.43
+Last Trade:=06/01 3:22 PM
+High:=12.05
+
+(kwk)
+Low:=14.09
+Open:=14.69
+% +/-:=    .0 %
+Volume:=     448,808
+Net +/-:=0
+Price:=$14.22
+Last Trade:=06/01 3:57 PM
+High:=14.495
+
+(labl)
+Low:=22
+Open:=19.75
+% +/-:=    .0 %
+Volume:=       1,872
+Net +/-:=0
+Price:=$22
+Last Trade:=06/01 1:29 PM
+High:=23.2
+
+(lamr)
+Low:=28.185
+Open:=39.27
+% +/-:=    .0 %
+Volume:=     103,710
+Net +/-:=0
+Price:=$28.325
+Last Trade:=06/01 3:56 PM
+High:=29.52
+
+(laws)
+Low:=18.38
+Open:=25.67
+% +/-:=    .0 %
+Volume:=       1,256
+Net +/-:=0
+Price:=$18.38
+Last Trade:=06/01 3:41 PM
+High:=18.98
+
+(layn)
+Low:=28.54
+Open:=34.34
+% +/-:=    .0 %
+Volume:=      11,956
+Net +/-:=0
+Price:=$28.65
+Last Trade:=06/01 3:56 PM
+High:=29.6
+
+(laz)
+Low:=37.28
+Open:=39.5
+% +/-:=    .0 %
+Volume:=      16,814
+Net +/-:=0
+Price:=$37.29
+Last Trade:=06/01 3:56 PM
+High:=38.73
+
+(lb)
+Low:=19.14
+Open:=15.92
+% +/-:=    .0 %
+Volume:=      50,195
+Net +/-:=0
+Price:=$19.15
+Last Trade:=06/01 3:52 PM
+High:=19.17
+
+(lbai)
+Low:=9.8
+Open:=11.17
+% +/-:=    .0 %
+Volume:=       2,073
+Net +/-:=0
+Price:=$9.8
+Last Trade:=06/01 3:56 PM
+High:=10.26
+
+(lci)
+Low:=5.18
+Open:=5.58
+% +/-:=    .0 %
+Volume:=       7,123
+Net +/-:=0
+Price:=$5.19
+Last Trade:=06/01 3:51 PM
+High:=5.27
+
+(ldsh)
+Low:=55.73
+Open:=48.85
+% +/-:=%
+Volume:=      39,644
+Net +/-:=
+Price:=$56.13
+Last Trade:=05/09 3:59 PM
+High:=56.54
+
+(lea)
+Low:=48.13
+Open:=97.06
+% +/-:=    .0 %
+Volume:=      68,350
+Net +/-:=0
+Price:=$48.55
+Last Trade:=06/01 3:56 PM
+High:=50.22
+
+(leg)
+Low:=25.13
+Open:=22.99
+% +/-:=    .0 %
+Volume:=      85,775
+Net +/-:=0
+Price:=$25.15
+Last Trade:=06/01 3:57 PM
+High:=25.88
+
+(lfus)
+Low:=58.8
+Open:=47.93
+% +/-:=    .0 %
+Volume:=      21,368
+Net +/-:=0
+Price:=$58.97
+Last Trade:=06/01 3:56 PM
+High:=60.22
+
+(life)
+Low:=51.19
+Open:=55.6
+% +/-:=    .0 %
+Volume:=     281,722
+Net +/-:=0
+Price:=$51.21
+Last Trade:=06/01 3:56 PM
+High:=52.2
+
+(linc)
+Low:=14.41
+Open:=15.71
+% +/-:=    .0 %
+Volume:=      16,628
+Net +/-:=0
+Price:=$14.67
+Last Trade:=06/01 3:30 PM
+High:=14.82
+
+(linta)
+Low:=17.885
+Open:=15.6
+% +/-:=    .0 %
+Volume:=     532,876
+Net +/-:=0
+Price:=$17.93
+Last Trade:=06/01 3:56 PM
+High:=18.34
+
+(llen)
+Low:=5.33
+Open:=10.2
+% +/-:=    .0 %
+Volume:=      26,620
+Net +/-:=0
+Price:=$5.37
+Last Trade:=06/01 3:32 PM
+High:=5.67
+
+(lll)
+Low:=80.37
+Open:=70.69
+% +/-:=    .0 %
+Volume:=      59,568
+Net +/-:=0
+Price:=$80.39
+Last Trade:=06/01 3:57 PM
+High:=81.77
+
+(lltc)
+Low:=33.52
+Open:=34.79
+% +/-:=    .0 %
+Volume:=     466,037
+Net +/-:=0
+Price:=$33.54
+Last Trade:=06/01 3:56 PM
+High:=34.375
+
+(lm)
+Low:=32.75
+Open:=36.13
+% +/-:=    .0 %
+Volume:=     209,726
+Net +/-:=0
+Price:=$32.79
+Last Trade:=06/01 3:57 PM
+High:=33.615
+
+(lng)
+Low:=10.5
+Open:=5.64
+% +/-:=    .0 %
+Volume:=   1,128,853
+Net +/-:=0
+Price:=$10.68
+Last Trade:=06/01 3:58 PM
+High:=11.25
+
+(logm)
+Low:=42.49
+Open:=45.23
+% +/-:=    .0 %
+Volume:=      31,489
+Net +/-:=0
+Price:=$42.53
+Last Trade:=06/01 3:33 PM
+High:=44.01
+
+(loop)
+Low:=18.39
+Open:=10.96
+% +/-:=    .0 %
+Volume:=      96,953
+Net +/-:=0
+Price:=$18.48
+Last Trade:=06/01 3:36 PM
+High:=18.48
+
+(lpnt)
+Low:=41
+Open:=37.3
+% +/-:=    .0 %
+Volume:=      36,222
+Net +/-:=0
+Price:=$41.03
+Last Trade:=06/01 3:56 PM
+High:=42.23
+
+(lpx)
+Low:=7.995
+Open:=9.6
+% +/-:=    .0 %
+Volume:=     174,811
+Net +/-:=0
+Price:=$8.015
+Last Trade:=06/01 3:56 PM
+High:=8.38
+
+(lrcx)
+Low:=46.2
+Open:=52.22
+% +/-:=    .0 %
+Volume:=     488,139
+Net +/-:=0
+Price:=$46.38
+Last Trade:=06/01 3:56 PM
+High:=48.85
+
+(lse)
+Low:=4.8
+Open:=5.86
+% +/-:=    .0 %
+Volume:=      33,885
+Net +/-:=0
+Price:=$4.825
+Last Trade:=06/01 3:56 PM
+High:=5.07
+
+(lsi)
+Low:=7.12
+Open:=5.98
+% +/-:=    .0 %
+Volume:=     668,784
+Net +/-:=0
+Price:=$7.125
+Last Trade:=06/01 3:57 PM
+High:=7.46
+
+(lstr)
+Low:=45.52
+Open:=40.85
+% +/-:=    .0 %
+Volume:=      51,147
+Net +/-:=0
+Price:=$45.54
+Last Trade:=06/01 3:56 PM
+High:=47.29
+
+(lstza)
+Low:=76.36
+Open:=66.4
+% +/-:=    .0 %
+Volume:=      54,384
+Net +/-:=0
+Price:=$77.9
+Last Trade:=06/01 3:58 PM
+High:=78.9
+
+(ltm)
+Low:=35.4
+Open:=41.26
+% +/-:=    .0 %
+Volume:=      28,699
+Net +/-:=0
+Price:=$35.4
+Last Trade:=06/01 3:56 PM
+High:=36.6
+
+(ltre)
+Low:=9.32
+Open:=9.56
+% +/-:=    .0 %
+Volume:=          16
+Net +/-:=0
+Price:=$9.32
+Last Trade:=06/01 10:13 AM
+High:=9.54
+
+(lvs)
+Low:=41.37
+Open:=44.3
+% +/-:=    .0 %
+Volume:=   1,228,074
+Net +/-:=0
+Price:=$41.985
+Last Trade:=06/01 3:57 PM
+High:=43.22
+
+(lway)
+Low:=10.24
+Open:=9.62
+% +/-:=    .0 %
+Volume:=         100
+Net +/-:=0
+Price:=$10.24
+Last Trade:=06/01 3:01 PM
+High:=10.24
+
+(lxp)
+Low:=9.02
+Open:=8
+% +/-:=    .0 %
+Volume:=      82,869
+Net +/-:=0
+Price:=$9.045
+Last Trade:=06/01 3:57 PM
+High:=9.48
+
+(lxrx)
+Low:=1.61
+Open:=1.49
+% +/-:=    .0 %
+Volume:=     136,824
+Net +/-:=0
+Price:=$1.625
+Last Trade:=06/01 3:21 PM
+High:=1.7
+
+(lxu)
+Low:=44.6
+Open:=24.37
+% +/-:=    .0 %
+Volume:=      32,480
+Net +/-:=0
+Price:=$44.86
+Last Trade:=06/01 3:57 PM
+High:=47.25
+
+(ma)
+Low:=280.83
+Open:=223.53
+% +/-:=    .0 %
+Volume:=     108,206
+Net +/-:=0
+Price:=$280.95
+Last Trade:=06/01 3:56 PM
+High:=287.1
+
+(mako)
+Low:=32.42
+Open:=15.54
+% +/-:=    .0 %
+Volume:=      43,143
+Net +/-:=0
+Price:=$32.51
+Last Trade:=06/01 3:35 PM
+High:=33.38
+
+(mapp)
+Low:=16.72
+Open:=16.66
+% +/-:=    .0 %
+Volume:=      15,182
+Net +/-:=0
+Price:=$16.76
+Last Trade:=06/01 3:31 PM
+High:=17.29
+
+(mas)
+Low:=13.81
+Open:=12.81
+% +/-:=    .0 %
+Volume:=     600,476
+Net +/-:=0
+Price:=$13.905
+Last Trade:=06/01 3:57 PM
+High:=14.25
+
+(mat)
+Low:=26.12
+Open:=25.59
+% +/-:=    .0 %
+Volume:=     598,554
+Net +/-:=0
+Price:=$26.125
+Last Trade:=06/01 3:57 PM
+High:=26.76
+
+(matk)
+Low:=31.48
+Open:=31.32
+% +/-:=%
+Volume:=      85,127
+Net +/-:=
+Price:=$31.48
+Last Trade:=02/25 3:59 PM
+High:=31.51
+
+(mblx)
+Low:=8.14
+Open:=11.83
+% +/-:=    .0 %
+Volume:=      13,526
+Net +/-:=0
+Price:=$8.17
+Last Trade:=06/01 3:34 PM
+High:=8.81
+
+(mbvt)
+Low:=25
+Open:=27.87
+% +/-:=    .0 %
+Volume:=         401
+Net +/-:=0
+Price:=$25.01
+Last Trade:=06/01 1:08 PM
+High:=25.01
+
+(mcd)
+Low:=81.01
+Open:=76.62
+% +/-:=    .0 %
+Volume:=     432,004
+Net +/-:=0
+Price:=$81.04
+Last Trade:=06/01 3:57 PM
+High:=81.71
+
+(mchp)
+Low:=38.285
+Open:=34.39
+% +/-:=    .0 %
+Volume:=     293,993
+Net +/-:=0
+Price:=$38.315
+Last Trade:=06/01 3:56 PM
+High:=39.48
+
+(mcri)
+Low:=9.12
+Open:=12.92
+% +/-:=    .0 %
+Volume:=       2,676
+Net +/-:=0
+Price:=$9.12
+Last Trade:=06/01 3:51 PM
+High:=9.29
+
+(mcrl)
+Low:=11.65
+Open:=13.32
+% +/-:=    .0 %
+Volume:=     154,142
+Net +/-:=0
+Price:=$11.72
+Last Trade:=06/01 3:56 PM
+High:=11.87
+
+(mcy)
+Low:=40.5
+Open:=43.08
+% +/-:=    .0 %
+Volume:=      30,051
+Net +/-:=0
+Price:=$40.5
+Last Trade:=06/01 3:57 PM
+High:=41.68
+
+(mdr)
+Low:=20.38
+Open:=20.48
+% +/-:=    .0 %
+Volume:=     179,425
+Net +/-:=0
+Price:=$20.455
+Last Trade:=06/01 3:57 PM
+High:=21.42
+
+(mdso)
+Low:=22.75
+Open:=23.82
+% +/-:=    .0 %
+Volume:=      12,949
+Net +/-:=0
+Price:=$22.95
+Last Trade:=06/01 3:33 PM
+High:=23.13
+
+(mdth)
+Low:=13.11
+Open:=14.17
+% +/-:=    .0 %
+Volume:=       5,510
+Net +/-:=0
+Price:=$13.21
+Last Trade:=06/01 3:27 PM
+High:=13.5
+
+(mdvn)
+Low:=23.1
+Open:=15.42
+% +/-:=    .0 %
+Volume:=      24,230
+Net +/-:=0
+Price:=$23.13
+Last Trade:=06/01 3:37 PM
+High:=24.45
+
+(me)
+Low:=26.25
+Open:=26.55
+% +/-:=%
+Volume:=   8,178,110
+Net +/-:=
+Price:=$26.25
+Last Trade:=11/10
+High:=26.72
+
+(ment)
+Low:=13.24
+Open:=12.17
+% +/-:=    .0 %
+Volume:=     343,167
+Net +/-:=0
+Price:=$13.33
+Last Trade:=06/01 3:56 PM
+High:=13.55
+
+(meru)
+Low:=15.88
+Open:=15.35
+% +/-:=    .0 %
+Volume:=      13,893
+Net +/-:=0
+Price:=$16.21
+Last Trade:=06/01 3:34 PM
+High:=17.91
+
+(mgln)
+Low:=52.04
+Open:=47.87
+% +/-:=    .0 %
+Volume:=      27,651
+Net +/-:=0
+Price:=$52.1
+Last Trade:=06/01 3:56 PM
+High:=53.04
+
+(mgm)
+Low:=14.49
+Open:=14.78
+% +/-:=    .0 %
+Volume:=   1,518,461
+Net +/-:=0
+Price:=$14.505
+Last Trade:=06/01 3:56 PM
+High:=15.18
+
+(mgpi)
+Low:=7.95
+Open:=11.11
+% +/-:=    .0 %
+Volume:=         846
+Net +/-:=0
+Price:=$7.95
+Last Trade:=06/01 3:42 PM
+High:=8.08
+
+(mgrc)
+Low:=26.87
+Open:=26.61
+% +/-:=    .0 %
+Volume:=       9,446
+Net +/-:=0
+Price:=$26.89
+Last Trade:=06/01 3:56 PM
+High:=27.99
+
+(mho)
+Low:=11.89
+Open:=15.94
+% +/-:=    .0 %
+Volume:=       7,853
+Net +/-:=0
+Price:=$11.9
+Last Trade:=06/01 3:57 PM
+High:=12.42
+
+(mhr)
+Low:=6.855
+Open:=7.58
+% +/-:=    .0 %
+Volume:=     219,345
+Net +/-:=0
+Price:=$6.855
+Last Trade:=06/01 3:56 PM
+High:=7.34
+
+(mhs)
+Low:=59.32
+Open:=61.49
+% +/-:=    .0 %
+Volume:=     224,602
+Net +/-:=0
+Price:=$60.26
+Last Trade:=06/01 3:57 PM
+High:=60.345
+
+(midd)
+Low:=83.71
+Open:=85.2
+% +/-:=    .0 %
+Volume:=      18,807
+Net +/-:=0
+Price:=$83.94
+Last Trade:=06/01 3:56 PM
+High:=85.62
+
+(mig)
+Low:=9.56
+Open:=10.33
+% +/-:=    .0 %
+Volume:=      23,643
+Net +/-:=0
+Price:=$9.57
+Last Trade:=06/01 3:56 PM
+High:=9.91
+
+(mil)
+Low:=106.95
+Open:=106.96
+% +/-:=%
+Volume:=   1,218,200
+Net +/-:=
+Price:=$106.95
+Last Trade:=07/14
+High:=106.98
+
+(mjn)
+Low:=66.965
+Open:=61.3
+% +/-:=    .0 %
+Volume:=     148,911
+Net +/-:=0
+Price:=$66.975
+Last Trade:=06/01 3:57 PM
+High:=67.72
+
+(mksi)
+Low:=25.28
+Open:=24.28
+% +/-:=    .0 %
+Volume:=      36,475
+Net +/-:=0
+Price:=$25.35
+Last Trade:=06/01 3:56 PM
+High:=26.28
+
+(mlhr)
+Low:=23.93
+Open:=25.68
+% +/-:=    .0 %
+Volume:=      50,551
+Net +/-:=0
+Price:=$23.93
+Last Trade:=06/01 3:56 PM
+High:=25
+
+(mlnk)
+Low:=4.62
+Open:=6.6
+% +/-:=    .0 %
+Volume:=      15,696
+Net +/-:=0
+Price:=$4.63
+Last Trade:=06/01 3:56 PM
+High:=4.83
+
+(mlr)
+Low:=16.9
+Open:=14.23
+% +/-:=    .0 %
+Volume:=       2,719
+Net +/-:=0
+Price:=$17.04
+Last Trade:=06/01 3:55 PM
+High:=17.19
+
+(mmm)
+Low:=91.35
+Open:=86.53
+% +/-:=    .0 %
+Volume:=     334,935
+Net +/-:=0
+Price:=$91.53
+Last Trade:=06/01 3:57 PM
+High:=94.24
+
+(mms)
+Low:=81.85
+Open:=66.49
+% +/-:=    .0 %
+Volume:=      10,532
+Net +/-:=0
+Price:=$81.92
+Last Trade:=06/01 3:57 PM
+High:=83.73
+
+(mnro)
+Low:=31.45
+Open:=35.29
+% +/-:=    .0 %
+Volume:=      32,675
+Net +/-:=0
+Price:=$31.53
+Last Trade:=06/01 3:56 PM
+High:=32.07
+
+(mot)
+Low:=9.09
+Open:=8.91
+% +/-:=%
+Volume:=   2,856,493
+Net +/-:=
+Price:=$9.1
+Last Trade:=01/03 3:59 PM
+High:=9.23
+
+(mpg)
+Low:=2.66
+Open:=2.69
+% +/-:=    .0 %
+Volume:=      40,100
+Net +/-:=0
+Price:=$2.8
+Last Trade:=06/01 3:55 PM
+High:=2.81
+
+(mpr)
+Low:=10.84
+Open:=11.82
+% +/-:=    .0 %
+Volume:=       2,428
+Net +/-:=0
+Price:=$10.84
+Last Trade:=06/01 3:50 PM
+High:=11.33
+
+(mpx)
+Low:=6.11
+Open:=6.66
+% +/-:=    .0 %
+Volume:=         100
+Net +/-:=0
+Price:=$6.11
+Last Trade:=06/01 2:21 PM
+High:=6.11
+
+(mrcy)
+Low:=18.38
+Open:=18.75
+% +/-:=    .0 %
+Volume:=      28,165
+Net +/-:=0
+Price:=$18.79
+Last Trade:=06/01 3:56 PM
+High:=19.04
+
+(mrh)
+Low:=18.29
+Open:=19.96
+% +/-:=    .0 %
+Volume:=      60,637
+Net +/-:=0
+Price:=$18.295
+Last Trade:=06/01 3:57 PM
+High:=18.88
+
+(mrk)
+Low:=36.2
+Open:=35.96
+% +/-:=    .0 %
+Volume:=     754,999
+Net +/-:=0
+Price:=$36.26
+Last Trade:=06/01 3:57 PM
+High:=36.7
+
+(mrvl)
+Low:=15.7
+Open:=18.36
+% +/-:=    .0 %
+Volume:=   2,098,257
+Net +/-:=0
+Price:=$15.725
+Last Trade:=06/01 3:56 PM
+High:=16.26
+
+(msft)
+Low:=24.37
+Open:=27.8
+% +/-:=    .0 %
+Volume:=   8,315,459
+Net +/-:=0
+Price:=$24.445
+Last Trade:=06/01 3:56 PM
+High:=25.1
+
+(mtb)
+Low:=85.8
+Open:=86.37
+% +/-:=    .0 %
+Volume:=      94,416
+Net +/-:=0
+Price:=$85.99
+Last Trade:=06/01 3:57 PM
+High:=88.105
+
+(mtn)
+Low:=46.48
+Open:=52.39
+% +/-:=    .0 %
+Volume:=      22,670
+Net +/-:=0
+Price:=$46.5
+Last Trade:=06/01 3:56 PM
+High:=48.2
+
+(mtrx)
+Low:=13.21
+Open:=12.42
+% +/-:=    .0 %
+Volume:=      31,792
+Net +/-:=0
+Price:=$13.39
+Last Trade:=06/01 3:36 PM
+High:=13.71
+
+(mu)
+Low:=9.52
+Open:=7.91
+% +/-:=    .0 %
+Volume:=   5,772,935
+Net +/-:=0
+Price:=$9.565
+Last Trade:=06/01 3:56 PM
+High:=10.04
+
+(mvis)
+Low:=1.22
+Open:=1.85
+% +/-:=    .0 %
+Volume:=      10,591
+Net +/-:=0
+Price:=$1.22
+Last Trade:=06/01 3:32 PM
+High:=1.26
+
+(mw)
+Low:=32.99
+Open:=25.1
+% +/-:=    .0 %
+Volume:=     114,351
+Net +/-:=0
+Price:=$33.12
+Last Trade:=06/01 3:56 PM
+High:=34.09
+
+(mwa)
+Low:=3.95
+Open:=4.15
+% +/-:=    .0 %
+Volume:=      67,423
+Net +/-:=0
+Price:=$3.95
+Last Trade:=06/01 3:56 PM
+High:=4.06
+
+(mwv)
+Low:=32.785
+Open:=26.27
+% +/-:=    .0 %
+Volume:=     119,729
+Net +/-:=0
+Price:=$32.85
+Last Trade:=06/01 3:57 PM
+High:=33.89
+
+(mww)
+Low:=14.32
+Open:=23.98
+% +/-:=    .0 %
+Volume:=     198,782
+Net +/-:=0
+Price:=$14.365
+Last Trade:=06/01 3:57 PM
+High:=15.33
+
+(mxim)
+Low:=26.43
+Open:=23.79
+% +/-:=    .0 %
+Volume:=     533,801
+Net +/-:=0
+Price:=$26.435
+Last Trade:=06/01 3:56 PM
+High:=27.3
+
+(mxl)
+Low:=8.96
+Open:=10.38
+% +/-:=    .0 %
+Volume:=       4,925
+Net +/-:=0
+Price:=$8.96
+Last Trade:=06/01 3:57 PM
+High:=9.37
+
+(myl)
+Low:=23.11
+Open:=21.11
+% +/-:=    .0 %
+Volume:=     643,144
+Net +/-:=0
+Price:=$23.18
+Last Trade:=06/01 3:56 PM
+High:=23.6
+
+(nafc)
+Low:=37.04
+Open:=42.45
+% +/-:=    .0 %
+Volume:=      23,159
+Net +/-:=0
+Price:=$37.74
+Last Trade:=06/01 3:56 PM
+High:=37.89
+
+(nal)
+Low:=14.71
+Open:=15.13
+% +/-:=%
+Volume:=      13,812
+Net +/-:=
+Price:=$14.78
+Last Trade:=04/15 3:59 PM
+High:=14.85
+
+(natr)
+Low:=13.32
+Open:=8.87
+% +/-:=    .0 %
+Volume:=       1,793
+Net +/-:=0
+Price:=$13.52
+Last Trade:=06/01 3:37 PM
+High:=13.87
+
+(nauh)
+Low:=6.96
+Open:=7.4
+% +/-:=%
+Volume:=       1,201
+Net +/-:=
+Price:=$6.96
+Last Trade:=01/18 3:50 PM
+High:=7.8
+
+(nc)
+Low:=93.64
+Open:=111.76
+% +/-:=    .0 %
+Volume:=       2,384
+Net +/-:=0
+Price:=$94.9
+Last Trade:=06/01 3:56 PM
+High:=97.37
+
+(ncs)
+Low:=10.47
+Open:=13.96
+% +/-:=    .0 %
+Volume:=       3,367
+Net +/-:=0
+Price:=$10.48
+Last Trade:=06/01 3:57 PM
+High:=10.7
+
+(nct)
+Low:=5.105
+Open:=6.7
+% +/-:=    .0 %
+Volume:=      49,292
+Net +/-:=0
+Price:=$5.14
+Last Trade:=06/01 3:56 PM
+High:=5.45
+
+(ndsn)
+Low:=50.47
+Open:=92.67
+% +/-:=    .0 %
+Volume:=      41,330
+Net +/-:=0
+Price:=$50.59
+Last Trade:=06/01 3:56 PM
+High:=52.54
+
+(nee)
+Low:=56.73
+Open:=51.87
+% +/-:=    .0 %
+Volume:=     183,294
+Net +/-:=0
+Price:=$56.75
+Last Trade:=06/01 3:57 PM
+High:=57.49
+
+(neog)
+Low:=42.95
+Open:=41.69
+% +/-:=    .0 %
+Volume:=      24,339
+Net +/-:=0
+Price:=$42.95
+Last Trade:=06/01 3:56 PM
+High:=45.49
+
+(netl)
+Low:=38.05
+Open:=31.7
+% +/-:=    .0 %
+Volume:=     251,311
+Net +/-:=0
+Price:=$38.19
+Last Trade:=06/01 3:37 PM
+High:=38.57
+
+(newp)
+Low:=17.97
+Open:=17.83
+% +/-:=    .0 %
+Volume:=      42,977
+Net +/-:=0
+Price:=$18.07
+Last Trade:=06/01 3:37 PM
+High:=18.36
+
+(nfg)
+Low:=69.09
+Open:=65.18
+% +/-:=    .0 %
+Volume:=      35,312
+Net +/-:=0
+Price:=$69.17
+Last Trade:=06/01 3:57 PM
+High:=72.33
+
+(nflx)
+Low:=265.5
+Open:=179.05
+% +/-:=    .0 %
+Volume:=     390,450
+Net +/-:=0
+Price:=$267.14
+Last Trade:=06/01 3:56 PM
+High:=273.6299
+
+(ngpc)
+Low:=7.77
+Open:=9.27
+% +/-:=    .0 %
+Volume:=       5,297
+Net +/-:=0
+Price:=$7.77
+Last Trade:=06/01 3:55 PM
+High:=8.03
+
+(ngsx)
+Low:=2.41
+Open:=6.32
+% +/-:=    .0 %
+Volume:=       2,484
+Net +/-:=0
+Price:=$2.41
+Last Trade:=06/01 3:23 PM
+High:=2.5
+
+(nhi)
+Low:=45.98
+Open:=45.14
+% +/-:=    .0 %
+Volume:=       7,750
+Net +/-:=0
+Price:=$45.99
+Last Trade:=06/01 3:57 PM
+High:=47.12
+
+(nihd)
+Low:=42.87
+Open:=44.23
+% +/-:=    .0 %
+Volume:=     223,925
+Net +/-:=0
+Price:=$42.935
+Last Trade:=06/01 3:56 PM
+High:=43.72
+
+(nktr)
+Low:=9.31
+Open:=12.83
+% +/-:=    .0 %
+Volume:=     120,124
+Net +/-:=0
+Price:=$9.35
+Last Trade:=06/01 3:56 PM
+High:=9.67
+
+(nor)
+Low:=14.21
+Open:=14.01
+% +/-:=    .0 %
+Volume:=       5,526
+Net +/-:=0
+Price:=$14.245
+Last Trade:=06/01 3:56 PM
+High:=14.93
+
+(nsit)
+Low:=16.23
+Open:=13.51
+% +/-:=    .0 %
+Volume:=      26,775
+Net +/-:=0
+Price:=$16.24
+Last Trade:=06/01 3:55 PM
+High:=17.05
+
+(nsr)
+Low:=26.56
+Open:=26.21
+% +/-:=    .0 %
+Volume:=      57,241
+Net +/-:=0
+Price:=$26.64
+Last Trade:=06/01 3:56 PM
+High:=26.84
+
+(ntap)
+Low:=53.21
+Open:=54.9
+% +/-:=    .0 %
+Volume:=     588,886
+Net +/-:=0
+Price:=$53.31
+Last Trade:=06/01 3:56 PM
+High:=55.04
+
+(ntct)
+Low:=21.96
+Open:=23.5
+% +/-:=    .0 %
+Volume:=      35,124
+Net +/-:=0
+Price:=$22.08
+Last Trade:=06/01 3:37 PM
+High:=23.14
+
+(nty)
+Low:=54.98
+Open:=0
+% +/-:=%
+Volume:=     323,721
+Net +/-:=
+Price:=$54.98
+Last Trade:=10/01
+High:=55
+
+(nue)
+Low:=40.83
+Open:=44.26
+% +/-:=    .0 %
+Volume:=     224,267
+Net +/-:=0
+Price:=$40.905
+Last Trade:=06/01 3:56 PM
+High:=42.05
+
+(nutr)
+Low:=14.96
+Open:=14.57
+% +/-:=    .0 %
+Volume:=       1,204
+Net +/-:=0
+Price:=$14.96
+Last Trade:=06/01 3:52 PM
+High:=15.48
+
+(nuva)
+Low:=33.1
+Open:=26.03
+% +/-:=    .0 %
+Volume:=      53,357
+Net +/-:=0
+Price:=$33.15
+Last Trade:=06/01 3:35 PM
+High:=33.7
+
+(nvax)
+Low:=2.32
+Open:=2.53
+% +/-:=    .0 %
+Volume:=     301,549
+Net +/-:=0
+Price:=$2.34
+Last Trade:=06/01 3:35 PM
+High:=2.4
+
+(nvda)
+Low:=19.1
+Open:=15
+% +/-:=    .0 %
+Volume:=   1,539,333
+Net +/-:=0
+Price:=$19.17
+Last Trade:=06/01 3:56 PM
+High:=19.97
+
+(nwbi)
+Low:=12.05
+Open:=11.76
+% +/-:=    .0 %
+Volume:=     112,926
+Net +/-:=0
+Price:=$12.08
+Last Trade:=06/01 3:58 PM
+High:=12.47
+
+(nwe)
+Low:=32.59
+Open:=29.02
+% +/-:=    .0 %
+Volume:=      29,246
+Net +/-:=0
+Price:=$32.635
+Last Trade:=06/01 3:56 PM
+High:=33.06
+
+(nwl)
+Low:=17.35
+Open:=17.96
+% +/-:=    .0 %
+Volume:=     193,634
+Net +/-:=0
+Price:=$17.365
+Last Trade:=06/01 3:56 PM
+High:=17.855
+
+(nwsa)
+Low:=17.58
+Open:=14.47
+% +/-:=    .0 %
+Volume:=   1,874,725
+Net +/-:=0
+Price:=$17.655
+Last Trade:=06/01 3:56 PM
+High:=18.34
+
+(nxst)
+Low:=6.83
+Open:=5.93
+% +/-:=    .0 %
+Volume:=       1,700
+Net +/-:=0
+Price:=$6.88
+Last Trade:=06/01 2:26 PM
+High:=6.95
+
+(nyny)
+Low:=.57
+Open:=1
+% +/-:=    .0 %
+Volume:=      16,703
+Net +/-:=0
+Price:=$.57
+Last Trade:=06/01 2:16 PM
+High:=.6077
+
+(nyt)
+Low:=7.65
+Open:=9.73
+% +/-:=    .0 %
+Volume:=     155,830
+Net +/-:=0
+Price:=$7.695
+Last Trade:=06/01 3:56 PM
+High:=8.04
+
+(nyx)
+Low:=35.42
+Open:=29.87
+% +/-:=    .0 %
+Volume:=     254,850
+Net +/-:=0
+Price:=$35.52
+Last Trade:=06/01 3:56 PM
+High:=36.25
+
+(oabc)
+Low:=14.32
+Open:=13.37
+% +/-:=    .0 %
+Volume:=         500
+Net +/-:=0
+Price:=$14.42
+Last Trade:=06/01 3:22 PM
+High:=14.42
+
+(ob)
+Low:=14.7
+Open:=15.22
+% +/-:=    .0 %
+Volume:=       5,351
+Net +/-:=0
+Price:=$14.72
+Last Trade:=06/01 3:55 PM
+High:=14.94
+
+(oclr)
+Low:=8.97
+Open:=13.04
+% +/-:=    .0 %
+Volume:=     109,994
+Net +/-:=0
+Price:=$9.01
+Last Trade:=06/01 3:37 PM
+High:=9.56
+
+(oeh)
+Low:=11.1
+Open:=12.97
+% +/-:=    .0 %
+Volume:=      75,086
+Net +/-:=0
+Price:=$11.13
+Last Trade:=06/01 3:56 PM
+High:=11.61
+
+(ofix)
+Low:=40.61
+Open:=29.02
+% +/-:=    .0 %
+Volume:=       8,080
+Net +/-:=0
+Price:=$40.8
+Last Trade:=06/01 3:56 PM
+High:=41.02
+
+(oksb)
+Low:=11.98
+Open:=12.35
+% +/-:=    .0 %
+Volume:=       6,022
+Net +/-:=0
+Price:=$11.98
+Last Trade:=06/01 3:56 PM
+High:=12.59
+
+(ompi)
+Low:=9.52
+Open:=11.46
+% +/-:=    .0 %
+Volume:=       5,611
+Net +/-:=0
+Price:=$9.52
+Last Trade:=06/01 3:37 PM
+High:=9.88
+
+(onb)
+Low:=10.46
+Open:=11.81
+% +/-:=    .0 %
+Volume:=      58,454
+Net +/-:=0
+Price:=$10.46
+Last Trade:=06/01 3:56 PM
+High:=10.77
+
+(onxx)
+Low:=41.42
+Open:=36.92
+% +/-:=    .0 %
+Volume:=      48,652
+Net +/-:=0
+Price:=$41.51
+Last Trade:=06/01 3:36 PM
+High:=42.45
+
+(opxt)
+Low:=2.71
+Open:=1.86
+% +/-:=    .0 %
+Volume:=     276,022
+Net +/-:=0
+Price:=$2.735
+Last Trade:=06/01 3:37 PM
+High:=3.05
+
+(opy)
+Low:=26.49
+Open:=26.8
+% +/-:=    .0 %
+Volume:=         978
+Net +/-:=0
+Price:=$26.49
+Last Trade:=06/01 3:56 PM
+High:=28.03
+
+(orb)
+Low:=18.12
+Open:=17.2
+% +/-:=    .0 %
+Volume:=      44,516
+Net +/-:=0
+Price:=$18.19
+Last Trade:=06/01 3:56 PM
+High:=18.79
+
+(orcc)
+Low:=3.24
+Open:=4.62
+% +/-:=    .0 %
+Volume:=      16,923
+Net +/-:=0
+Price:=$3.24
+Last Trade:=06/01 3:53 PM
+High:=3.32
+
+(orcl)
+Low:=32.83
+Open:=31.21
+% +/-:=    .0 %
+Volume:=   3,345,466
+Net +/-:=0
+Price:=$32.9
+Last Trade:=06/01 3:59 PM
+High:=34.3
+
+(orly)
+Low:=59.44
+Open:=60.96
+% +/-:=    .0 %
+Volume:=     165,925
+Net +/-:=0
+Price:=$59.5
+Last Trade:=06/01 3:56 PM
+High:=60.33
+
+(osir)
+Low:=7.19
+Open:=7.94
+% +/-:=    .0 %
+Volume:=       4,389
+Net +/-:=0
+Price:=$7.19
+Last Trade:=06/01 3:36 PM
+High:=7.4
+
+(osur)
+Low:=8.31
+Open:=5.93
+% +/-:=    .0 %
+Volume:=      11,756
+Net +/-:=0
+Price:=$8.525
+Last Trade:=06/01 3:35 PM
+High:=8.55
+
+(outd)
+Low:=5.97
+Open:=7.06
+% +/-:=    .0 %
+Volume:=       4,176
+Net +/-:=0
+Price:=$5.99
+Last Trade:=06/01 3:22 PM
+High:=6.1
+
+(oxm)
+Low:=37.13
+Open:=26.3
+% +/-:=    .0 %
+Volume:=      23,011
+Net +/-:=0
+Price:=$37.3
+Last Trade:=06/01 3:56 PM
+High:=37.87
+
+(oxps)
+Low:=17.4
+Open:=15.7
+% +/-:=    .0 %
+Volume:=     124,394
+Net +/-:=0
+Price:=$17.4
+Last Trade:=06/01 3:56 PM
+High:=18.1
+
+(oxy)
+Low:=103.34
+Open:=97.61
+% +/-:=    .0 %
+Volume:=     369,328
+Net +/-:=0
+Price:=$103.69
+Last Trade:=06/01 3:56 PM
+High:=108.09
+
+(oyog)
+Low:=88.83
+Open:=94.76
+% +/-:=    .0 %
+Volume:=       4,566
+Net +/-:=0
+Price:=$89.34
+Last Trade:=06/01 3:37 PM
+High:=93.87
+
+(ozrk)
+Low:=47.67
+Open:=43.33
+% +/-:=    .0 %
+Volume:=      15,466
+Net +/-:=0
+Price:=$47.75
+Last Trade:=06/01 3:56 PM
+High:=48.65
+
+(pacr)
+Low:=5.04
+Open:=6.85
+% +/-:=    .0 %
+Volume:=      38,276
+Net +/-:=0
+Price:=$5.05
+Last Trade:=06/01 3:56 PM
+High:=5.21
+
+(pag)
+Low:=19.99
+Open:=17.42
+% +/-:=    .0 %
+Volume:=      29,770
+Net +/-:=0
+Price:=$20.08
+Last Trade:=06/01 3:56 PM
+High:=20.9
+
+(panl)
+Low:=44.96
+Open:=31.14
+% +/-:=    .0 %
+Volume:=      66,937
+Net +/-:=0
+Price:=$44.96
+Last Trade:=06/01 3:37 PM
+High:=47.57
+
+(pay)
+Low:=46.34
+Open:=38.83
+% +/-:=    .0 %
+Volume:=     140,288
+Net +/-:=0
+Price:=$46.39
+Last Trade:=06/01 3:56 PM
+High:=48.44
+
+(payx)
+Low:=31.55
+Open:=30.92
+% +/-:=    .0 %
+Volume:=     345,033
+Net +/-:=0
+Price:=$31.56
+Last Trade:=06/01 3:56 PM
+High:=32.22
+
+(pbct)
+Low:=12.95
+Open:=14.11
+% +/-:=    .0 %
+Volume:=     612,371
+Net +/-:=0
+Price:=$12.995
+Last Trade:=06/01 3:56 PM
+High:=13.29
+
+(pbh)
+Low:=12.36
+Open:=11.79
+% +/-:=    .0 %
+Volume:=      22,762
+Net +/-:=0
+Price:=$12.39
+Last Trade:=06/01 3:56 PM
+High:=12.84
+
+(pbi)
+Low:=23.47
+Open:=24.43
+% +/-:=    .0 %
+Volume:=     222,842
+Net +/-:=0
+Price:=$23.48
+Last Trade:=06/01 3:56 PM
+High:=23.92
+
+(pbny)
+Low:=8.68
+Open:=10.51
+% +/-:=    .0 %
+Volume:=       6,920
+Net +/-:=0
+Price:=$8.7
+Last Trade:=06/01 3:55 PM
+High:=9.16
+
+(pby)
+Low:=13.72
+Open:=13.79
+% +/-:=    .0 %
+Volume:=      62,736
+Net +/-:=0
+Price:=$13.78
+Last Trade:=06/01 3:56 PM
+High:=14.13
+
+(pcar)
+Low:=47.59
+Open:=57.33
+% +/-:=    .0 %
+Volume:=     481,154
+Net +/-:=0
+Price:=$47.63
+Last Trade:=06/01 3:56 PM
+High:=50.02
+
+(pccc)
+Low:=8.55
+Open:=8.89
+% +/-:=    .0 %
+Volume:=         271
+Net +/-:=0
+Price:=$8.55
+Last Trade:=06/01 11:42 AM
+High:=8.67
+
+(pch)
+Low:=34.1
+Open:=32.61
+% +/-:=    .0 %
+Volume:=      31,315
+Net +/-:=0
+Price:=$34.12
+Last Trade:=06/01 3:56 PM
+High:=35.3
+
+(pcln)
+Low:=506.07
+Open:=403.07
+% +/-:=    .0 %
+Volume:=     119,550
+Net +/-:=0
+Price:=$507.68
+Last Trade:=06/01 3:56 PM
+High:=519.39
+
+(pcs)
+Low:=17.82
+Open:=12.65
+% +/-:=    .0 %
+Volume:=     944,736
+Net +/-:=0
+Price:=$18.18
+Last Trade:=06/01 3:56 PM
+High:=18.515
+
+(pdm)
+Low:=19.99
+Open:=20.13
+% +/-:=    .0 %
+Volume:=     116,899
+Net +/-:=0
+Price:=$20.03
+Last Trade:=06/01 3:56 PM
+High:=20.66
+
+(peb)
+Low:=21.21
+Open:=78.93
+% +/-:=    .0 %
+Volume:=      26,290
+Net +/-:=0
+Price:=$21.22
+Last Trade:=06/01 3:56 PM
+High:=21.6
+
+(peet)
+Low:=50.49
+Open:=42.72
+% +/-:=    .0 %
+Volume:=      26,754
+Net +/-:=0
+Price:=$50.72
+Last Trade:=06/01 3:56 PM
+High:=52.23
+
+(pei)
+Low:=16.28
+Open:=14.65
+% +/-:=    .0 %
+Volume:=      39,258
+Net +/-:=0
+Price:=$16.46
+Last Trade:=06/01 3:56 PM
+High:=17
+
+(petm)
+Low:=44.79
+Open:=40.09
+% +/-:=    .0 %
+Volume:=     167,735
+Net +/-:=0
+Price:=$44.82
+Last Trade:=06/01 3:56 PM
+High:=46.01
+
+(pfcb)
+Low:=39.76
+Open:=48.75
+% +/-:=    .0 %
+Volume:=      53,866
+Net +/-:=0
+Price:=$39.85
+Last Trade:=06/01 3:56 PM
+High:=40.14
+
+(pfe)
+Low:=20.98
+Open:=17.45
+% +/-:=    .0 %
+Volume:=   2,940,440
+Net +/-:=0
+Price:=$21.05
+Last Trade:=06/01 3:56 PM
+High:=21.435
+
+(pg)
+Low:=66.35
+Open:=64.08
+% +/-:=    .0 %
+Volume:=     611,727
+Net +/-:=0
+Price:=$66.44
+Last Trade:=06/01 3:56 PM
+High:=66.98
+
+(pgi)
+Low:=8.185
+Open:=6.81
+% +/-:=    .0 %
+Volume:=      18,426
+Net +/-:=0
+Price:=$8.19
+Last Trade:=06/01 3:56 PM
+High:=8.38
+
+(pgn)
+Low:=47.18
+Open:=43.48
+% +/-:=    .0 %
+Volume:=      53,533
+Net +/-:=0
+Price:=$47.23
+Last Trade:=06/01 3:56 PM
+High:=47.62
+
+(pgnx)
+Low:=7.83
+Open:=5.38
+% +/-:=    .0 %
+Volume:=       4,987
+Net +/-:=0
+Price:=$7.85
+Last Trade:=06/01 3:35 PM
+High:=8.2
+
+(pgti)
+Low:=2.4
+Open:=2.44
+% +/-:=    .0 %
+Volume:=         605
+Net +/-:=0
+Price:=$2.4
+Last Trade:=05/31 3:49 PM
+High:=2.43
+
+(phh)
+Low:=20.64
+Open:=23.28
+% +/-:=    .0 %
+Volume:=      31,752
+Net +/-:=0
+Price:=$20.65
+Last Trade:=06/01 3:56 PM
+High:=20.91
+
+(phiik)
+Low:=19.84
+Open:=19.44
+% +/-:=    .0 %
+Volume:=       1,160
+Net +/-:=0
+Price:=$20.01
+Last Trade:=06/01 3:23 PM
+High:=20.31
+
+(phm)
+Low:=8.02
+Open:=7.43
+% +/-:=    .0 %
+Volume:=     552,120
+Net +/-:=0
+Price:=$8.025
+Last Trade:=06/01 3:56 PM
+High:=8.38
+
+(pike)
+Low:=8.45
+Open:=8.86
+% +/-:=    .0 %
+Volume:=       3,432
+Net +/-:=0
+Price:=$8.45
+Last Trade:=06/01 3:51 PM
+High:=8.88
+
+(pke)
+Low:=28.91
+Open:=30.06
+% +/-:=    .0 %
+Volume:=       9,594
+Net +/-:=0
+Price:=$29.67
+Last Trade:=06/01 3:54 PM
+High:=29.75
+
+(pki)
+Low:=27.18
+Open:=25.86
+% +/-:=    .0 %
+Volume:=      69,580
+Net +/-:=0
+Price:=$27.21
+Last Trade:=06/01 3:56 PM
+High:=27.7
+
+(pl)
+Low:=23.51
+Open:=26.83
+% +/-:=    .0 %
+Volume:=      55,456
+Net +/-:=0
+Price:=$23.55
+Last Trade:=06/01 3:56 PM
+High:=23.96
+
+(plce)
+Low:=48.74
+Open:=50
+% +/-:=    .0 %
+Volume:=      44,555
+Net +/-:=0
+Price:=$48.75
+Last Trade:=06/01 3:56 PM
+High:=50.17
+
+(plcm)
+Low:=57.33
+Open:=39.01
+% +/-:=    .0 %
+Volume:=     203,511
+Net +/-:=0
+Price:=$57.6
+Last Trade:=06/01 3:56 PM
+High:=59
+
+(plfe)
+Low:=10.35
+Open:=9.99
+% +/-:=    .0 %
+Volume:=       5,502
+Net +/-:=0
+Price:=$10.53
+Last Trade:=06/01 3:48 PM
+High:=10.7
+
+(plpc)
+Low:=71.48
+Open:=59.91
+% +/-:=    .0 %
+Volume:=       9,636
+Net +/-:=0
+Price:=$76.27
+Last Trade:=06/01 3:34 PM
+High:=77.5
+
+(pm)
+Low:=71.04
+Open:=58.45
+% +/-:=    .0 %
+Volume:=     407,210
+Net +/-:=0
+Price:=$71.08
+Last Trade:=06/01 3:56 PM
+High:=71.75
+
+(pnm)
+Low:=16.08
+Open:=13.22
+% +/-:=    .0 %
+Volume:=      72,451
+Net +/-:=0
+Price:=$16.135
+Last Trade:=06/01 3:56 PM
+High:=16.49
+
+(pnra)
+Low:=121.2
+Open:=101.76
+% +/-:=    .0 %
+Volume:=      71,921
+Net +/-:=0
+Price:=$121.24
+Last Trade:=06/01 3:56 PM
+High:=124.63
+
+(pnw)
+Low:=44.445
+Open:=41.51
+% +/-:=    .0 %
+Volume:=     116,124
+Net +/-:=0
+Price:=$44.47
+Last Trade:=06/01 3:55 PM
+High:=45.19
+
+(pnx)
+Low:=2.33
+Open:=2.53
+% +/-:=    .0 %
+Volume:=      50,657
+Net +/-:=0
+Price:=$2.405
+Last Trade:=06/01 3:53 PM
+High:=2.42
+
+(podd)
+Low:=20.35
+Open:=15.5
+% +/-:=    .0 %
+Volume:=      93,643
+Net +/-:=0
+Price:=$20.51
+Last Trade:=06/01 3:37 PM
+High:=21.11
+
+(powi)
+Low:=36.71
+Open:=40.75
+% +/-:=    .0 %
+Volume:=      40,859
+Net +/-:=0
+Price:=$36.79
+Last Trade:=06/01 3:54 PM
+High:=37.3
+
+(ppc)
+Low:=4.76
+Open:=7.04
+% +/-:=    .0 %
+Volume:=      24,940
+Net +/-:=0
+Price:=$4.76
+Last Trade:=06/01 3:56 PM
+High:=4.95
+
+(ppd)
+Low:=66.26
+Open:=61.61
+% +/-:=    .0 %
+Volume:=       6,147
+Net +/-:=0
+Price:=$66.35
+Last Trade:=06/01 3:56 PM
+High:=66.36
+
+(ppg)
+Low:=86.72
+Open:=83.86
+% +/-:=    .0 %
+Volume:=      86,837
+Net +/-:=0
+Price:=$86.84
+Last Trade:=06/01 3:56 PM
+High:=88.62
+
+(pq)
+Low:=7.73
+Open:=7.44
+% +/-:=    .0 %
+Volume:=      96,563
+Net +/-:=0
+Price:=$7.815
+Last Trade:=06/01 3:56 PM
+High:=8.05
+
+(praa)
+Low:=84.39
+Open:=76.23
+% +/-:=    .0 %
+Volume:=       7,522
+Net +/-:=0
+Price:=$84.39
+Last Trade:=06/01 3:52 PM
+High:=86.57
+
+(prgo)
+Low:=84.2
+Open:=63.26
+% +/-:=    .0 %
+Volume:=      30,548
+Net +/-:=0
+Price:=$84.3
+Last Trade:=06/01 3:56 PM
+High:=85.73
+
+(prim)
+Low:=12.33
+Open:=9.47
+% +/-:=    .0 %
+Volume:=      15,090
+Net +/-:=0
+Price:=$12.58
+Last Trade:=06/01 3:37 PM
+High:=12.81
+
+(prm)
+Low:=7.04
+Open:=4.2
+% +/-:=    .0 %
+Volume:=       7,405
+Net +/-:=0
+Price:=$7.04
+Last Trade:=06/01 3:50 PM
+High:=7.05
+
+(prs)
+Low:=4.75
+Open:=4.88
+% +/-:=    .0 %
+Volume:=       1,811
+Net +/-:=0
+Price:=$4.82
+Last Trade:=06/01 3:38 PM
+High:=4.96
+
+(prsp)
+Low:=42.02
+Open:=39.64
+% +/-:=    .0 %
+Volume:=      45,690
+Net +/-:=0
+Price:=$42.13
+Last Trade:=06/01 3:56 PM
+High:=43.69
+
+(prx)
+Low:=33.77
+Open:=38.57
+% +/-:=    .0 %
+Volume:=      24,809
+Net +/-:=0
+Price:=$33.77
+Last Trade:=06/01 3:56 PM
+High:=34.445
+
+(pss)
+Low:=14.83
+Open:=20.93
+% +/-:=    .0 %
+Volume:=     143,623
+Net +/-:=0
+Price:=$14.9
+Last Trade:=06/01 3:56 PM
+High:=15.62
+
+(ptv)
+Low:=33.23
+Open:=33.24
+% +/-:=%
+Volume:=   5,161,621
+Net +/-:=
+Price:=$33.23
+Last Trade:=11/16
+High:=33.25
+
+(pva)
+Low:=14.22
+Open:=17.13
+% +/-:=    .0 %
+Volume:=      28,279
+Net +/-:=0
+Price:=$14.24
+Last Trade:=06/01 3:56 PM
+High:=14.67
+
+(pvtb)
+Low:=15.44
+Open:=14.61
+% +/-:=    .0 %
+Volume:=      74,831
+Net +/-:=0
+Price:=$15.53
+Last Trade:=06/01 3:55 PM
+High:=16.36
+
+(pzn)
+Low:=5.58
+Open:=7.36
+% +/-:=    .0 %
+Volume:=         530
+Net +/-:=0
+Price:=$5.58
+Last Trade:=06/01 3:45 PM
+High:=5.83
+
+(pzz)
+Low:=8.46
+Open:=8.51
+% +/-:=%
+Volume:=       5,172
+Net +/-:=
+Price:=$8.5
+Last Trade:=12/15 3:58 PM
+High:=8.51
+
+(pzza)
+Low:=32.42
+Open:=27.92
+% +/-:=    .0 %
+Volume:=      30,609
+Net +/-:=0
+Price:=$32.43
+Last Trade:=06/01 3:56 PM
+High:=33.29
+
+(qcom)
+Low:=56.98
+Open:=49.64
+% +/-:=    .0 %
+Volume:=   1,505,042
+Net +/-:=0
+Price:=$57.16
+Last Trade:=06/01 3:56 PM
+High:=58.94
+
+(qcor)
+Low:=22.79
+Open:=15.1
+% +/-:=    .0 %
+Volume:=      75,296
+Net +/-:=0
+Price:=$22.89
+Last Trade:=06/01 3:36 PM
+High:=23.43
+
+(qdel)
+Low:=15.09
+Open:=14.4
+% +/-:=    .0 %
+Volume:=      10,986
+Net +/-:=0
+Price:=$15.09
+Last Trade:=06/01 3:37 PM
+High:=15.53
+
+(qgen)
+Low:=19.375
+Open:=19.47
+% +/-:=    .0 %
+Volume:=     292,256
+Net +/-:=0
+Price:=$19.44
+Last Trade:=06/01 3:56 PM
+High:=19.74
+
+(qlty)
+Low:=11.23
+Open:=8.92
+% +/-:=    .0 %
+Volume:=      11,324
+Net +/-:=0
+Price:=$11.23
+Last Trade:=06/01 3:33 PM
+High:=12.02
+
+(r)
+Low:=52.91
+Open:=51.6
+% +/-:=    .0 %
+Volume:=      37,403
+Net +/-:=0
+Price:=$52.91
+Last Trade:=06/01 3:56 PM
+High:=54.87
+
+(rad)
+Low:=1.045
+Open:=.89
+% +/-:=    .0 %
+Volume:=   1,157,578
+Net +/-:=0
+Price:=$1.065
+Last Trade:=06/01 3:56 PM
+High:=1.09
+
+(rah)
+Low:=87.53
+Open:=65.14
+% +/-:=    .0 %
+Volume:=      22,875
+Net +/-:=0
+Price:=$87.53
+Last Trade:=06/01 3:56 PM
+High:=88.34
+
+(ras)
+Low:=2.03
+Open:=2.16
+% +/-:=    .0 %
+Volume:=     105,746
+Net +/-:=0
+Price:=$2.045
+Last Trade:=06/01 3:54 PM
+High:=2.16
+
+(rden)
+Low:=28.89
+Open:=23.45
+% +/-:=    .0 %
+Volume:=      33,587
+Net +/-:=0
+Price:=$28.9
+Last Trade:=06/01 3:56 PM
+High:=30.8
+
+(recn)
+Low:=13.47
+Open:=18.54
+% +/-:=    .0 %
+Volume:=      20,100
+Net +/-:=0
+Price:=$13.47
+Last Trade:=06/01 3:56 PM
+High:=14.11
+
+(reg)
+Low:=44.39
+Open:=42.03
+% +/-:=    .0 %
+Volume:=      78,604
+Net +/-:=0
+Price:=$44.45
+Last Trade:=06/01 3:56 PM
+High:=46.2
+
+(ren)
+Low:=16.82
+Open:=14.7
+% +/-:=    .0 %
+Volume:=      24,137
+Net +/-:=0
+Price:=$16.84
+Last Trade:=06/01 3:54 PM
+High:=17.53
+
+(rev)
+Low:=16.85
+Open:=9.8
+% +/-:=    .0 %
+Volume:=       1,575
+Net +/-:=0
+Price:=$16.85
+Last Trade:=06/01 3:54 PM
+High:=17.56
+
+(revu)
+Low:=.206
+Open:=1.15
+% +/-:=    .0 %
+Volume:=           7
+Net +/-:=0
+Price:=$.206
+Last Trade:=06/01 11:25 AM
+High:=.206
+
+(rfmd)
+Low:=6.02
+Open:=7.46
+% +/-:=    .0 %
+Volume:=     777,085
+Net +/-:=0
+Price:=$6.05
+Last Trade:=06/01 3:56 PM
+High:=6.29
+
+(rgr)
+Low:=20.92
+Open:=15.24
+% +/-:=    .0 %
+Volume:=       8,780
+Net +/-:=0
+Price:=$20.95
+Last Trade:=06/01 3:56 PM
+High:=21.98
+
+(rhi)
+Low:=26.73
+Open:=30.84
+% +/-:=    .0 %
+Volume:=     196,929
+Net +/-:=0
+Price:=$26.755
+Last Trade:=06/01 3:56 PM
+High:=27.43
+
+(rigl)
+Low:=8.01
+Open:=7.59
+% +/-:=    .0 %
+Volume:=      64,644
+Net +/-:=0
+Price:=$8.02
+Last Trade:=06/01 3:57 PM
+High:=8.39
+
+(rimm)
+Low:=40.04
+Open:=57.98
+% +/-:=    .0 %
+Volume:=   3,843,527
+Net +/-:=0
+Price:=$40.355
+Last Trade:=06/01 3:56 PM
+High:=42.49
+
+(rjet)
+Low:=4.65
+Open:=7.33
+% +/-:=    .0 %
+Volume:=      80,310
+Net +/-:=0
+Price:=$4.67
+Last Trade:=06/01 3:56 PM
+High:=4.85
+
+(rkt)
+Low:=73.42
+Open:=54.59
+% +/-:=    .0 %
+Volume:=     110,113
+Net +/-:=0
+Price:=$73.42
+Last Trade:=06/01 3:56 PM
+High:=76.64
+
+(rli)
+Low:=58.97
+Open:=52.65
+% +/-:=    .0 %
+Volume:=       8,099
+Net +/-:=0
+Price:=$59
+Last Trade:=06/01 3:55 PM
+High:=60.28
+
+(rloc)
+Low:=19.39
+Open:=19.46
+% +/-:=    .0 %
+Volume:=       7,186
+Net +/-:=0
+Price:=$19.63
+Last Trade:=06/01 3:57 PM
+High:=21
+
+(rnow)
+Low:=31.72
+Open:=23.68
+% +/-:=    .0 %
+Volume:=      23,511
+Net +/-:=0
+Price:=$31.85
+Last Trade:=06/01 3:56 PM
+High:=32.86
+
+(rnr)
+Low:=70.92
+Open:=64.26
+% +/-:=    .0 %
+Volume:=      57,452
+Net +/-:=0
+Price:=$71.04
+Last Trade:=06/01 3:56 PM
+High:=72.37
+
+(rnst)
+Low:=14.41
+Open:=17.03
+% +/-:=    .0 %
+Volume:=       3,920
+Net +/-:=0
+Price:=$14.41
+Last Trade:=06/01 3:54 PM
+High:=15.08
+
+(roc)
+Low:=50.61
+Open:=39.24
+% +/-:=    .0 %
+Volume:=      46,248
+Net +/-:=0
+Price:=$50.69
+Last Trade:=06/01 3:56 PM
+High:=52.67
+
+(rocm)
+Low:=9.58
+Open:=11.02
+% +/-:=    .0 %
+Volume:=         861
+Net +/-:=0
+Price:=$9.58
+Last Trade:=06/01 3:54 PM
+High:=9.89
+
+(rodm)
+Low:=1.29
+Open:=2.62
+% +/-:=    .0 %
+Volume:=       7,167
+Net +/-:=0
+Price:=$1.29
+Last Trade:=06/01 3:56 PM
+High:=1.39
+
+(roiak)
+Low:=1.23
+Open:=1.15
+% +/-:=%
+Volume:=      24,781
+Net +/-:=
+Price:=$1.26
+Last Trade:=01/31 3:59 PM
+High:=1.28
+
+(rok)
+Low:=80.89
+Open:=71.78
+% +/-:=    .0 %
+Volume:=     100,810
+Net +/-:=0
+Price:=$81.04
+Last Trade:=06/01 3:56 PM
+High:=83.79
+
+(rol)
+Low:=19.48
+Open:=19.86
+% +/-:=    .0 %
+Volume:=      44,292
+Net +/-:=0
+Price:=$19.48
+Last Trade:=06/01 3:56 PM
+High:=20.12
+
+(roll)
+Low:=38.57
+Open:=38.31
+% +/-:=    .0 %
+Volume:=      14,917
+Net +/-:=0
+Price:=$38.66
+Last Trade:=06/01 3:55 PM
+High:=39.94
+
+(rop)
+Low:=80.15
+Open:=76.76
+% +/-:=    .0 %
+Volume:=      66,109
+Net +/-:=0
+Price:=$80.17
+Last Trade:=06/01 3:56 PM
+High:=83.54
+
+(rose)
+Low:=46.36
+Open:=37.72
+% +/-:=    .0 %
+Volume:=      90,853
+Net +/-:=0
+Price:=$46.53
+Last Trade:=06/01 3:56 PM
+High:=51.86
+
+(rost)
+Low:=80.62
+Open:=63.7
+% +/-:=    .0 %
+Volume:=     190,687
+Net +/-:=0
+Price:=$80.83
+Last Trade:=06/01 3:56 PM
+High:=82.5
+
+(rt)
+Low:=10.05
+Open:=13.3
+% +/-:=    .0 %
+Volume:=      63,410
+Net +/-:=0
+Price:=$10.1
+Last Trade:=06/01 3:56 PM
+High:=10.49
+
+(rtec)
+Low:=11.04
+Open:=8.41
+% +/-:=    .0 %
+Volume:=      33,698
+Net +/-:=0
+Price:=$11.16
+Last Trade:=06/01 3:56 PM
+High:=11.73
+
+(rtix)
+Low:=2.92
+Open:=2.71
+% +/-:=    .0 %
+Volume:=      38,999
+Net +/-:=0
+Price:=$2.92
+Last Trade:=06/01 3:56 PM
+High:=3.19
+
+(rue)
+Low:=32.83
+Open:=30.47
+% +/-:=    .0 %
+Volume:=      56,698
+Net +/-:=0
+Price:=$33.22
+Last Trade:=06/01 3:54 PM
+High:=34.6
+
+(rwt)
+Low:=15.07
+Open:=14.96
+% +/-:=    .0 %
+Volume:=      22,801
+Net +/-:=0
+Price:=$15.105
+Last Trade:=06/01 3:56 PM
+High:=15.51
+
+(safm)
+Low:=43.325
+Open:=40.07
+% +/-:=    .0 %
+Volume:=      81,290
+Net +/-:=0
+Price:=$43.6
+Last Trade:=06/01 3:56 PM
+High:=44
+
+(saft)
+Low:=43.63
+Open:=47.95
+% +/-:=    .0 %
+Volume:=       5,495
+Net +/-:=0
+Price:=$43.67
+Last Trade:=06/01 3:54 PM
+High:=44.77
+
+(sam)
+Low:=82.33
+Open:=96.65
+% +/-:=    .0 %
+Volume:=      30,855
+Net +/-:=0
+Price:=$82.78
+Last Trade:=06/01 3:56 PM
+High:=85.09
+
+(sanm)
+Low:=10.25
+Open:=11.5
+% +/-:=    .0 %
+Volume:=     109,432
+Net +/-:=0
+Price:=$10.255
+Last Trade:=06/01 3:56 PM
+High:=10.72
+
+(sbib)
+Low:=8.09
+Open:=7.07
+% +/-:=    .0 %
+Volume:=     106,015
+Net +/-:=0
+Price:=$8.105
+Last Trade:=06/01 3:56 PM
+High:=8.46
+
+(sbp)
+Low:=12.68
+Open:=12.76
+% +/-:=%
+Volume:=       9,400
+Net +/-:=
+Price:=$12.68
+Last Trade:=07/29
+High:=12.76
+
+(sbsi)
+Low:=19.63
+Open:=21.56
+% +/-:=    .0 %
+Volume:=       1,195
+Net +/-:=0
+Price:=$19.63
+Last Trade:=06/01 3:51 PM
+High:=20.1
+
+(sbux)
+Low:=35.905
+Open:=32.41
+% +/-:=    .0 %
+Volume:=     691,638
+Net +/-:=0
+Price:=$35.99
+Last Trade:=06/01 3:56 PM
+High:=36.73
+
+(scl)
+Low:=67.3
+Open:=76.19
+% +/-:=    .0 %
+Volume:=       3,023
+Net +/-:=0
+Price:=$67.48
+Last Trade:=06/01 3:54 PM
+High:=67.96
+
+(scmp)
+Low:=4.24
+Open:=3.81
+% +/-:=    .0 %
+Volume:=       3,422
+Net +/-:=0
+Price:=$4.31
+Last Trade:=06/01 3:50 PM
+High:=4.32
+
+(scs)
+Low:=10.52
+Open:=10.68
+% +/-:=    .0 %
+Volume:=      34,481
+Net +/-:=0
+Price:=$10.61
+Last Trade:=06/01 3:56 PM
+High:=10.935
+
+(scvl)
+Low:=26.52
+Open:=26.89
+% +/-:=    .0 %
+Volume:=       6,020
+Net +/-:=0
+Price:=$26.525
+Last Trade:=06/01 3:51 PM
+High:=27.24
+
+(seb)
+Low:=2267
+Open:=2003
+% +/-:=    .0 %
+Volume:=          56
+Net +/-:=0
+Price:=$2291.87
+Last Trade:=06/01 3:52 PM
+High:=2352.91
+
+(see)
+Low:=23.7975
+Open:=25.57
+% +/-:=    .0 %
+Volume:=     883,662
+Net +/-:=0
+Price:=$23.87
+Last Trade:=06/01 3:56 PM
+High:=27.8
+
+(seno)
+Low:=10.98
+Open:=11
+% +/-:=%
+Volume:=      30,332
+Net +/-:=
+Price:=$11
+Last Trade:=07/02
+High:=11
+
+(sf)
+Low:=38.16
+Open:=62.27
+% +/-:=    .0 %
+Volume:=      28,369
+Net +/-:=0
+Price:=$38.19
+Last Trade:=06/01 3:56 PM
+High:=40.17
+
+(sfsf)
+Low:=33.545
+Open:=30.11
+% +/-:=    .0 %
+Volume:=     115,859
+Net +/-:=0
+Price:=$33.62
+Last Trade:=06/01 3:57 PM
+High:=35.32
+
+(shld)
+Low:=68.34
+Open:=74
+% +/-:=    .0 %
+Volume:=      73,637
+Net +/-:=0
+Price:=$68.34
+Last Trade:=06/01 3:56 PM
+High:=71.1
+
+(shoo)
+Low:=35.46
+Open:=42.06
+% +/-:=    .0 %
+Volume:=      65,844
+Net +/-:=0
+Price:=$35.56
+Last Trade:=06/01 3:56 PM
+High:=37.61
+
+(shw)
+Low:=86.11
+Open:=83.91
+% +/-:=    .0 %
+Volume:=     129,153
+Net +/-:=0
+Price:=$86.15
+Last Trade:=06/01 3:56 PM
+High:=87.83
+
+(sial)
+Low:=68.68
+Open:=66.85
+% +/-:=    .0 %
+Volume:=      70,847
+Net +/-:=0
+Price:=$68.76
+Last Trade:=06/01 3:56 PM
+High:=70.36
+
+(simg)
+Low:=7.12
+Open:=7.34
+% +/-:=    .0 %
+Volume:=      77,548
+Net +/-:=0
+Price:=$7.12
+Last Trade:=06/01 3:56 PM
+High:=7.59
+
+(siro)
+Low:=53.23
+Open:=42
+% +/-:=    .0 %
+Volume:=      25,578
+Net +/-:=0
+Price:=$53.23
+Last Trade:=06/01 3:56 PM
+High:=54.4
+
+(sivb)
+Low:=56.67
+Open:=53.74
+% +/-:=    .0 %
+Volume:=      53,304
+Net +/-:=0
+Price:=$57.12
+Last Trade:=06/01 3:56 PM
+High:=59.2
+
+(sji)
+Low:=54.6
+Open:=53.4
+% +/-:=    .0 %
+Volume:=      11,114
+Net +/-:=0
+Price:=$54.6
+Last Trade:=06/01 3:56 PM
+High:=55.95
+
+(sjm)
+Low:=78.83
+Open:=65.39
+% +/-:=    .0 %
+Volume:=      67,080
+Net +/-:=0
+Price:=$79.32
+Last Trade:=06/01 3:56 PM
+High:=79.83
+
+(sjw)
+Low:=22.7
+Open:=26.64
+% +/-:=    .0 %
+Volume:=         418
+Net +/-:=0
+Price:=$22.78
+Last Trade:=06/01 3:56 PM
+High:=23.08
+
+(slh)
+Low:=58.21
+Open:=52
+% +/-:=    .0 %
+Volume:=      21,293
+Net +/-:=0
+Price:=$58.22
+Last Trade:=06/01 3:56 PM
+High:=59.32
+
+(slrc)
+Low:=24.25
+Open:=25.01
+% +/-:=    .0 %
+Volume:=       5,757
+Net +/-:=0
+Price:=$24.25
+Last Trade:=06/01 3:58 PM
+High:=24.75
+
+(smg)
+Low:=56.59
+Open:=50.8
+% +/-:=    .0 %
+Volume:=      54,364
+Net +/-:=0
+Price:=$56.71
+Last Trade:=06/01 3:56 PM
+High:=57.67
+
+(smod)
+Low:=9.19
+Open:=5.79
+% +/-:=    .0 %
+Volume:=      74,771
+Net +/-:=0
+Price:=$9.2
+Last Trade:=06/01 3:55 PM
+High:=9.22
+
+(smrt)
+Low:=9.37
+Open:=9.58
+% +/-:=    .0 %
+Volume:=      13,081
+Net +/-:=0
+Price:=$9.38
+Last Trade:=06/01 3:56 PM
+High:=9.79
+
+(smsi)
+Low:=4.975
+Open:=15.81
+% +/-:=    .0 %
+Volume:=      90,824
+Net +/-:=0
+Price:=$5
+Last Trade:=06/01 3:57 PM
+High:=5.26
+
+(sndk)
+Low:=45.06
+Open:=50.29
+% +/-:=    .0 %
+Volume:=     829,730
+Net +/-:=0
+Price:=$45.11
+Last Trade:=06/01 3:56 PM
+High:=47.09
+
+(snh)
+Low:=23.415
+Open:=22.02
+% +/-:=    .0 %
+Volume:=      80,495
+Net +/-:=0
+Price:=$23.415
+Last Trade:=06/01 3:56 PM
+High:=24.33
+
+(solr)
+Low:=12.1
+Open:=9.04
+% +/-:=    .0 %
+Volume:=     467,563
+Net +/-:=0
+Price:=$12.11
+Last Trade:=06/01 3:56 PM
+High:=12.65
+
+(sonc)
+Low:=10.86
+Open:=10.12
+% +/-:=    .0 %
+Volume:=     163,069
+Net +/-:=0
+Price:=$10.86
+Last Trade:=06/01 3:56 PM
+High:=11.35
+
+(sone)
+Low:=7
+Open:=7.16
+% +/-:=    .0 %
+Volume:=      78,171
+Net +/-:=0
+Price:=$7.065
+Last Trade:=06/01 3:57 PM
+High:=7.27
+
+(spec)
+Low:=19.98
+Open:=14.73
+% +/-:=    .0 %
+Volume:=      45,408
+Net +/-:=0
+Price:=$20.01
+Last Trade:=06/01 3:57 PM
+High:=20.01
+
+(spls)
+Low:=16.48
+Open:=22.83
+% +/-:=    .0 %
+Volume:=   1,438,211
+Net +/-:=0
+Price:=$16.52
+Last Trade:=06/01 3:56 PM
+High:=16.76
+
+(spmd)
+Low:=4.03
+Open:=8.36
+% +/-:=    .0 %
+Volume:=      10,869
+Net +/-:=0
+Price:=$4.04
+Last Trade:=06/01 3:57 PM
+High:=4.29
+
+(spn)
+Low:=36.72
+Open:=35.21
+% +/-:=    .0 %
+Volume:=      38,393
+Net +/-:=0
+Price:=$36.83
+Last Trade:=06/01 3:56 PM
+High:=37.63
+
+(sptn)
+Low:=18.38
+Open:=17.13
+% +/-:=    .0 %
+Volume:=      57,410
+Net +/-:=0
+Price:=$18.91
+Last Trade:=06/01 3:57 PM
+High:=19
+
+(spw)
+Low:=79.68
+Open:=70.83
+% +/-:=    .0 %
+Volume:=      33,435
+Net +/-:=0
+Price:=$79.68
+Last Trade:=06/01 3:56 PM
+High:=82.52
+
+(srcl)
+Low:=87.24
+Open:=81.22
+% +/-:=    .0 %
+Volume:=      41,983
+Net +/-:=0
+Price:=$87.35
+Last Trade:=06/01 3:56 PM
+High:=89.08
+
+(srdx)
+Low:=14.14
+Open:=11.64
+% +/-:=    .0 %
+Volume:=       4,011
+Net +/-:=0
+Price:=$14.16
+Last Trade:=06/01 3:56 PM
+High:=14.67
+
+(sri)
+Low:=14.86
+Open:=16
+% +/-:=    .0 %
+Volume:=       4,667
+Net +/-:=0
+Price:=$14.86
+Last Trade:=06/01 3:56 PM
+High:=15.15
+
+(srsl)
+Low:=8.72
+Open:=8.61
+% +/-:=    .0 %
+Volume:=      13,391
+Net +/-:=0
+Price:=$8.76
+Last Trade:=06/01 3:50 PM
+High:=9.64
+
+(srx)
+Low:=30.9
+Open:=20.78
+% +/-:=    .0 %
+Volume:=      75,623
+Net +/-:=0
+Price:=$30.93
+Last Trade:=06/01 3:56 PM
+High:=30.95
+
+(srz)
+Low:=9.2
+Open:=5.42
+% +/-:=    .0 %
+Volume:=      66,343
+Net +/-:=0
+Price:=$9.3
+Last Trade:=06/01 3:55 PM
+High:=9.92
+
+(ssp)
+Low:=8.14
+Open:=10.15
+% +/-:=    .0 %
+Volume:=      44,383
+Net +/-:=0
+Price:=$8.15
+Last Trade:=06/01 3:56 PM
+High:=8.54
+
+(stba)
+Low:=17.86
+Open:=23.11
+% +/-:=    .0 %
+Volume:=      24,163
+Net +/-:=0
+Price:=$17.88
+Last Trade:=06/01 3:55 PM
+High:=18.54
+
+(stfc)
+Low:=16.35
+Open:=16.85
+% +/-:=    .0 %
+Volume:=       1,099
+Net +/-:=0
+Price:=$16.4
+Last Trade:=06/01 3:01 PM
+High:=16.69
+
+(sti)
+Low:=26.175
+Open:=29.26
+% +/-:=    .0 %
+Volume:=     707,583
+Net +/-:=0
+Price:=$26.31
+Last Trade:=06/01 3:56 PM
+High:=27.9
+
+(stnr)
+Low:=49.35
+Open:=46.57
+% +/-:=    .0 %
+Volume:=      10,642
+Net +/-:=0
+Price:=$49.75
+Last Trade:=06/01 3:56 PM
+High:=50.32
+
+(stu)
+Low:=32.39
+Open:=32.46
+% +/-:=%
+Volume:=       1,004
+Net +/-:=
+Price:=$32.44
+Last Trade:=12/31 3:59 PM
+High:=32.45
+
+(stwd)
+Low:=21.39
+Open:=21.52
+% +/-:=    .0 %
+Volume:=      37,216
+Net +/-:=0
+Price:=$21.39
+Last Trade:=06/01 3:56 PM
+High:=21.75
+
+(stx)
+Low:=16.23
+Open:=14.93
+% +/-:=    .0 %
+Volume:=   1,205,561
+Net +/-:=0
+Price:=$16.305
+Last Trade:=06/01 3:56 PM
+High:=16.83
+
+(sui)
+Low:=38.1
+Open:=33.47
+% +/-:=    .0 %
+Volume:=      23,634
+Net +/-:=0
+Price:=$38.15
+Last Trade:=06/01 3:56 PM
+High:=39.4
+
+(sumr)
+Low:=7.9
+Open:=7.72
+% +/-:=    .0 %
+Volume:=       6,766
+Net +/-:=0
+Price:=$8.1
+Last Trade:=06/01 3:58 PM
+High:=8.24
+
+(supx)
+Low:=21.01
+Open:=24.12
+% +/-:=    .0 %
+Volume:=      10,981
+Net +/-:=0
+Price:=$21.15
+Last Trade:=06/01 3:56 PM
+High:=22.06
+
+(sur)
+Low:=26.52
+Open:=23.65
+% +/-:=    .0 %
+Volume:=      10,015
+Net +/-:=0
+Price:=$26.52
+Last Trade:=06/01 3:32 PM
+High:=26.54
+
+(svvs)
+Low:=39.255
+Open:=25.88
+% +/-:=    .0 %
+Volume:=     483,929
+Net +/-:=0
+Price:=$39.3
+Last Trade:=06/01 3:57 PM
+High:=39.37
+
+(swk)
+Low:=70.26
+Open:=67.06
+% +/-:=    .0 %
+Volume:=     255,307
+Net +/-:=0
+Price:=$70.45
+Last Trade:=06/01 3:56 PM
+High:=73.79
+
+(swm)
+Low:=51.34
+Open:=63.11
+% +/-:=    .0 %
+Volume:=      11,689
+Net +/-:=0
+Price:=$51.37
+Last Trade:=06/01 3:53 PM
+High:=52.28
+
+(sxt)
+Low:=37.43
+Open:=37.12
+% +/-:=    .0 %
+Volume:=      28,598
+Net +/-:=0
+Price:=$37.43
+Last Trade:=06/01 3:56 PM
+High:=38.43
+
+(sy)
+Low:=64.97
+Open:=64.98
+% +/-:=%
+Volume:=      77,700
+Net +/-:=
+Price:=$64.98
+Last Trade:=07/29
+High:=64.99
+
+(syke)
+Low:=20.55
+Open:=20.71
+% +/-:=    .0 %
+Volume:=      37,938
+Net +/-:=0
+Price:=$20.62
+Last Trade:=06/01 3:56 PM
+High:=21.45
+
+(symc)
+Low:=19.01
+Open:=16.77
+% +/-:=    .0 %
+Volume:=   1,358,323
+Net +/-:=0
+Price:=$19.02
+Last Trade:=06/01 3:56 PM
+High:=19.64
+
+(symm)
+Low:=5.57
+Open:=7.24
+% +/-:=    .0 %
+Volume:=       7,870
+Net +/-:=0
+Price:=$5.59
+Last Trade:=06/01 3:57 PM
+High:=5.73
+
+(synm)
+Low:=1.73
+Open:=1.88
+% +/-:=    .0 %
+Volume:=      29,013
+Net +/-:=0
+Price:=$1.73
+Last Trade:=06/01 3:58 PM
+High:=1.82
+
+(syno)
+Low:=17.43
+Open:=16.17
+% +/-:=    .0 %
+Volume:=      11,473
+Net +/-:=0
+Price:=$17.52
+Last Trade:=06/01 3:57 PM
+High:=18.04
+
+(synt)
+Low:=52.2
+Open:=47.74
+% +/-:=    .0 %
+Volume:=      10,669
+Net +/-:=0
+Price:=$52.2
+Last Trade:=06/01 3:56 PM
+High:=53.52
+
+(syx)
+Low:=13.66
+Open:=14.04
+% +/-:=    .0 %
+Volume:=      12,791
+Net +/-:=0
+Price:=$13.93
+Last Trade:=06/01 3:54 PM
+High:=14.29
+
+(t)
+Low:=31.115
+Open:=29.34
+% +/-:=    .0 %
+Volume:=   1,473,213
+Net +/-:=0
+Price:=$31.17
+Last Trade:=06/01 3:56 PM
+High:=31.57
+
+(tal)
+Low:=32.38
+Open:=31.16
+% +/-:=    .0 %
+Volume:=      32,966
+Net +/-:=0
+Price:=$32.39
+Last Trade:=06/01 3:56 PM
+High:=33.65
+
+(tap)
+Low:=46.12
+Open:=50.36
+% +/-:=    .0 %
+Volume:=      83,598
+Net +/-:=0
+Price:=$46.12
+Last Trade:=06/01 3:56 PM
+High:=46.61
+
+(tasr)
+Low:=4.405
+Open:=4.7
+% +/-:=    .0 %
+Volume:=     140,568
+Net +/-:=0
+Price:=$4.45
+Last Trade:=06/01 3:56 PM
+High:=4.53
+
+(tast)
+Low:=9.25
+Open:=7.51
+% +/-:=    .0 %
+Volume:=       1,748
+Net +/-:=0
+Price:=$9.25
+Last Trade:=06/01 3:54 PM
+High:=9.38
+
+(tat)
+Low:=2.15
+Open:=3.32
+% +/-:=    .0 %
+Volume:=     204,238
+Net +/-:=0
+Price:=$2.155
+Last Trade:=06/01 3:58 PM
+High:=2.23
+
+(tayc)
+Low:=9.13
+Open:=13.05
+% +/-:=    .0 %
+Volume:=         114
+Net +/-:=0
+Price:=$9.5
+Last Trade:=06/01 1:57 PM
+High:=9.5
+
+(tbnk)
+Low:=19.41
+Open:=19.69
+% +/-:=    .0 %
+Volume:=       1,400
+Net +/-:=0
+Price:=$19.63
+Last Trade:=06/01 3:43 PM
+High:=19.7
+
+(tc)
+Low:=10.6
+Open:=14.79
+% +/-:=    .0 %
+Volume:=     328,232
+Net +/-:=0
+Price:=$10.64
+Last Trade:=06/01 3:56 PM
+High:=11.11
+
+(tcb)
+Low:=14.62
+Open:=14.88
+% +/-:=    .0 %
+Volume:=      96,110
+Net +/-:=0
+Price:=$14.65
+Last Trade:=06/01 3:56 PM
+High:=15.06
+
+(tco)
+Low:=58.7
+Open:=50.7
+% +/-:=    .0 %
+Volume:=      43,506
+Net +/-:=0
+Price:=$58.75
+Last Trade:=06/01 3:56 PM
+High:=60.63
+
+(tcrd)
+Low:=13.21
+Open:=12.7
+% +/-:=    .0 %
+Volume:=       1,404
+Net +/-:=0
+Price:=$13.27
+Last Trade:=06/01 3:44 PM
+High:=13.44
+
+(tdy)
+Low:=47.64
+Open:=44.24
+% +/-:=    .0 %
+Volume:=      22,907
+Net +/-:=0
+Price:=$47.67
+Last Trade:=06/01 3:56 PM
+High:=48.94
+
+(te)
+Low:=18.86
+Open:=17.72
+% +/-:=    .0 %
+Volume:=     236,488
+Net +/-:=0
+Price:=$18.895
+Last Trade:=06/01 3:55 PM
+High:=19.16
+
+(tecua)
+Low:=9.83
+Open:=13.15
+% +/-:=    .0 %
+Volume:=       6,706
+Net +/-:=0
+Price:=$9.98
+Last Trade:=06/01 3:52 PM
+High:=10.21
+
+(ten)
+Low:=39.99
+Open:=41.2
+% +/-:=    .0 %
+Volume:=      80,602
+Net +/-:=0
+Price:=$40
+Last Trade:=06/01 3:56 PM
+High:=41.72
+
+(ter)
+Low:=15.515
+Open:=14.2
+% +/-:=    .0 %
+Volume:=     224,534
+Net +/-:=0
+Price:=$15.515
+Last Trade:=06/01 3:56 PM
+High:=15.95
+
+(teva)
+Low:=49.96
+Open:=51.78
+% +/-:=    .0 %
+Volume:=     477,561
+Net +/-:=0
+Price:=$50.05
+Last Trade:=06/01 3:56 PM
+High:=50.98
+
+(tfx)
+Low:=61.28
+Open:=54.38
+% +/-:=    .0 %
+Volume:=      14,579
+Net +/-:=0
+Price:=$61.43
+Last Trade:=06/01 3:56 PM
+High:=61.86
+
+(tg)
+Low:=18.49
+Open:=19.58
+% +/-:=    .0 %
+Volume:=      14,545
+Net +/-:=0
+Price:=$18.51
+Last Trade:=06/01 3:55 PM
+High:=19.28
+
+(tgh)
+Low:=30.95
+Open:=28.74
+% +/-:=    .0 %
+Volume:=       3,664
+Net +/-:=0
+Price:=$30.95
+Last Trade:=06/01 3:41 PM
+High:=32.3
+
+(tgi)
+Low:=91.02
+Open:=89.63
+% +/-:=    .0 %
+Volume:=      27,408
+Net +/-:=0
+Price:=$91.22
+Last Trade:=06/01 3:56 PM
+High:=93.83
+
+(thff)
+Low:=31.41
+Open:=35.7
+% +/-:=    .0 %
+Volume:=       7,761
+Net +/-:=0
+Price:=$31.61
+Last Trade:=06/01 3:55 PM
+High:=32.34
+
+(thmd)
+Low:=14.98
+Open:=14.98
+% +/-:=%
+Volume:=       9,036
+Net +/-:=
+Price:=$14.99
+Last Trade:=12/02
+High:=14.99
+
+(tho)
+Low:=30.47
+Open:=33.94
+% +/-:=    .0 %
+Volume:=      24,219
+Net +/-:=0
+Price:=$30.48
+Last Trade:=06/01 3:56 PM
+High:=32.25
+
+(thrx)
+Low:=24.33
+Open:=25.56
+% +/-:=    .0 %
+Volume:=      36,148
+Net +/-:=0
+Price:=$24.4
+Last Trade:=06/01 3:57 PM
+High:=26.07
+
+(tie)
+Low:=17.92
+Open:=17.17
+% +/-:=    .0 %
+Volume:=     115,775
+Net +/-:=0
+Price:=$17.98
+Last Trade:=06/01 3:56 PM
+High:=18.65
+
+(tif)
+Low:=73.25
+Open:=63.08
+% +/-:=    .0 %
+Volume:=     164,840
+Net +/-:=0
+Price:=$73.31
+Last Trade:=06/01 3:56 PM
+High:=74.7799
+
+(tiny)
+Low:=5.36
+Open:=4.3
+% +/-:=    .0 %
+Volume:=      19,824
+Net +/-:=0
+Price:=$5.36
+Last Trade:=06/01 3:57 PM
+High:=5.74
+
+(tisi)
+Low:=21.87
+Open:=24.53
+% +/-:=    .0 %
+Volume:=       9,854
+Net +/-:=0
+Price:=$21.87
+Last Trade:=06/01 3:57 PM
+High:=22.6
+
+(tjx)
+Low:=51.96
+Open:=44.74
+% +/-:=    .0 %
+Volume:=     474,155
+Net +/-:=0
+Price:=$52.03
+Last Trade:=06/01 3:56 PM
+High:=53.14
+
+(tklc)
+Low:=8.65
+Open:=11.91
+% +/-:=    .0 %
+Volume:=     424,948
+Net +/-:=0
+Price:=$8.74
+Last Trade:=06/01 3:57 PM
+High:=9.22
+
+(tkr)
+Low:=50.13
+Open:=47.92
+% +/-:=    .0 %
+Volume:=      93,164
+Net +/-:=0
+Price:=$50.16
+Last Trade:=06/01 3:56 PM
+High:=51.74
+
+(tmp)
+Low:=36.89
+Open:=39.86
+% +/-:=    .0 %
+Volume:=       3,963
+Net +/-:=0
+Price:=$36.89
+Last Trade:=06/01 3:57 PM
+High:=38.51
+
+(tmrk)
+Low:=18.98
+Open:=13.03
+% +/-:=%
+Volume:=      24,226
+Net +/-:=
+Price:=$18.99
+Last Trade:=04/08 4:00 PM
+High:=19
+
+(tnc)
+Low:=36.5
+Open:=38.39
+% +/-:=    .0 %
+Volume:=       4,828
+Net +/-:=0
+Price:=$36.5
+Last Trade:=06/01 3:56 PM
+High:=38.3
+
+(tnk)
+Low:=9.21
+Open:=12.26
+% +/-:=    .0 %
+Volume:=      46,427
+Net +/-:=0
+Price:=$9.25
+Last Trade:=06/01 3:56 PM
+High:=9.32
+
+(tpgi)
+Low:=3.08
+Open:=4.21
+% +/-:=    .0 %
+Volume:=      12,167
+Net +/-:=0
+Price:=$3.15
+Last Trade:=06/01 3:50 PM
+High:=3.24
+
+(trad)
+Low:=9.72
+Open:=6.84
+% +/-:=    .0 %
+Volume:=      39,946
+Net +/-:=0
+Price:=$9.72
+Last Trade:=06/01 3:54 PM
+High:=9.73
+
+(trak)
+Low:=21.56
+Open:=20.49
+% +/-:=    .0 %
+Volume:=      35,183
+Net +/-:=0
+Price:=$21.64
+Last Trade:=06/01 3:57 PM
+High:=23.27
+
+(trex)
+Low:=29.45
+Open:=24.31
+% +/-:=    .0 %
+Volume:=      15,087
+Net +/-:=0
+Price:=$29.47
+Last Trade:=06/01 3:56 PM
+High:=30.59
+
+(trmk)
+Low:=23.31
+Open:=25
+% +/-:=    .0 %
+Volume:=      57,576
+Net +/-:=0
+Price:=$23.38
+Last Trade:=06/01 3:56 PM
+High:=24.47
+
+(trow)
+Low:=59.43
+Open:=64.16
+% +/-:=    .0 %
+Volume:=     649,247
+Net +/-:=0
+Price:=$59.51
+Last Trade:=06/01 3:56 PM
+High:=61.64
+
+(trv)
+Low:=61.18
+Open:=55.51
+% +/-:=    .0 %
+Volume:=     362,567
+Net +/-:=0
+Price:=$61.25
+Last Trade:=06/01 3:56 PM
+High:=62.24
+
+(tsn)
+Low:=18.75
+Open:=17.56
+% +/-:=    .0 %
+Volume:=     282,640
+Net +/-:=0
+Price:=$18.88
+Last Trade:=06/01 3:56 PM
+High:=19.04
+
+(tsra)
+Low:=16.49
+Open:=22.1
+% +/-:=    .0 %
+Volume:=      60,738
+Net +/-:=0
+Price:=$16.49
+Last Trade:=06/01 3:56 PM
+High:=17.35
+
+(ttec)
+Low:=17.79
+Open:=20.78
+% +/-:=    .0 %
+Volume:=      35,458
+Net +/-:=0
+Price:=$17.8
+Last Trade:=06/01 3:56 PM
+High:=18.2
+
+(ttek)
+Low:=23.75
+Open:=25.29
+% +/-:=    .0 %
+Volume:=      35,801
+Net +/-:=0
+Price:=$23.77
+Last Trade:=06/01 3:56 PM
+High:=24.18
+
+(tti)
+Low:=13.15
+Open:=12.12
+% +/-:=    .0 %
+Volume:=      35,764
+Net +/-:=0
+Price:=$13.17
+Last Trade:=06/01 3:56 PM
+High:=13.81
+
+(tues)
+Low:=4.77
+Open:=5.36
+% +/-:=    .0 %
+Volume:=      13,616
+Net +/-:=0
+Price:=$4.77
+Last Trade:=06/01 3:56 PM
+High:=4.9
+
+(tvl)
+Low:=4.51
+Open:=5.36
+% +/-:=    .0 %
+Volume:=       9,951
+Net +/-:=0
+Price:=$4.6
+Last Trade:=06/01 3:49 PM
+High:=4.73
+
+(tw)
+Low:=62.87
+Open:=53.01
+% +/-:=    .0 %
+Volume:=      12,886
+Net +/-:=0
+Price:=$62.9
+Last Trade:=06/01 3:56 PM
+High:=63.47
+
+(twin)
+Low:=31.15
+Open:=28.79
+% +/-:=    .0 %
+Volume:=      16,017
+Net +/-:=0
+Price:=$31.21
+Last Trade:=06/01 3:57 PM
+High:=33.15
+
+(two)
+Low:=10.59
+Open:=9.9
+% +/-:=    .0 %
+Volume:=      81,086
+Net +/-:=0
+Price:=$10.605
+Last Trade:=06/01 3:56 PM
+High:=10.79
+
+(twx)
+Low:=35.32
+Open:=32.01
+% +/-:=    .0 %
+Volume:=     619,251
+Net +/-:=0
+Price:=$35.365
+Last Trade:=06/01 3:56 PM
+High:=36.3
+
+(txn)
+Low:=33.94
+Open:=32.5
+% +/-:=    .0 %
+Volume:=     818,285
+Net +/-:=0
+Price:=$33.96
+Last Trade:=06/01 3:56 PM
+High:=35.15
+
+(txt)
+Low:=22.31
+Open:=23.54
+% +/-:=    .0 %
+Volume:=     340,889
+Net +/-:=0
+Price:=$22.32
+Last Trade:=06/01 3:56 PM
+High:=22.85
+
+(tyl)
+Low:=25.25
+Open:=21.2
+% +/-:=    .0 %
+Volume:=      11,486
+Net +/-:=0
+Price:=$25.33
+Last Trade:=06/01 3:56 PM
+High:=25.4
+
+(ueic)
+Low:=24.61
+Open:=29.88
+% +/-:=    .0 %
+Volume:=       4,633
+Net +/-:=0
+Price:=$24.61
+Last Trade:=06/01 3:50 PM
+High:=25.59
+
+(ufcs)
+Low:=18.17
+Open:=22.66
+% +/-:=    .0 %
+Volume:=      12,593
+Net +/-:=0
+Price:=$18.23
+Last Trade:=06/01 3:55 PM
+High:=19.04
+
+(ufpi)
+Low:=28.04
+Open:=39.01
+% +/-:=    .0 %
+Volume:=       4,787
+Net +/-:=0
+Price:=$28.04
+Last Trade:=06/01 3:52 PM
+High:=28.91
+
+(ufs)
+Low:=99.5
+Open:=75.77
+% +/-:=    .0 %
+Volume:=      41,545
+Net +/-:=0
+Price:=$99.63
+Last Trade:=06/01 3:56 PM
+High:=102.03
+
+(ugi)
+Low:=32.61
+Open:=31.7
+% +/-:=    .0 %
+Volume:=      95,590
+Net +/-:=0
+Price:=$32.74
+Last Trade:=06/01 3:56 PM
+High:=32.96
+
+(uhs)
+Low:=53.95
+Open:=43.63
+% +/-:=    .0 %
+Volume:=     134,968
+Net +/-:=0
+Price:=$54.39
+Last Trade:=06/01 3:56 PM
+High:=54.5
+
+(uil)
+Low:=32.61
+Open:=30.07
+% +/-:=    .0 %
+Volume:=      37,668
+Net +/-:=0
+Price:=$32.61
+Last Trade:=06/01 3:56 PM
+High:=33.25
+
+(ulta)
+Low:=54.04
+Open:=34.24
+% +/-:=    .0 %
+Volume:=      48,312
+Net +/-:=0
+Price:=$54.13
+Last Trade:=06/01 3:56 PM
+High:=56.61
+
+(ulti)
+Low:=54.02
+Open:=49.48
+% +/-:=    .0 %
+Volume:=      22,856
+Net +/-:=0
+Price:=$54.16
+Last Trade:=06/01 3:57 PM
+High:=56.45
+
+(umbf)
+Low:=41.8
+Open:=41.79
+% +/-:=    .0 %
+Volume:=      31,338
+Net +/-:=0
+Price:=$41.91
+Last Trade:=06/01 3:56 PM
+High:=42.45
+
+(umh)
+Low:=9.72
+Open:=10.15
+% +/-:=    .0 %
+Volume:=       2,139
+Net +/-:=0
+Price:=$9.73
+Last Trade:=06/01 3:57 PM
+High:=9.96
+
+(umpq)
+Low:=11.52
+Open:=12.31
+% +/-:=    .0 %
+Volume:=     167,248
+Net +/-:=0
+Price:=$11.55
+Last Trade:=06/01 3:56 PM
+High:=11.95
+
+(unca)
+Low:=20.99
+Open:=21
+% +/-:=%
+Volume:=      26,812
+Net +/-:=
+Price:=$21
+Last Trade:=10/05
+High:=21
+
+(unfi)
+Low:=41.95
+Open:=37.63
+% +/-:=    .0 %
+Volume:=      55,537
+Net +/-:=0
+Price:=$42.06
+Last Trade:=06/01 3:56 PM
+High:=43.67
+
+(unp)
+Low:=100.82
+Open:=92
+% +/-:=    .0 %
+Volume:=     419,867
+Net +/-:=0
+Price:=$100.92
+Last Trade:=06/01 3:56 PM
+High:=105.17
+
+(untd)
+Low:=5.74
+Open:=6.72
+% +/-:=    .0 %
+Volume:=     155,905
+Net +/-:=0
+Price:=$5.755
+Last Trade:=06/01 3:55 PM
+High:=6.13
+
+(upl)
+Low:=47.26
+Open:=47.73
+% +/-:=    .0 %
+Volume:=     113,648
+Net +/-:=0
+Price:=$47.43
+Last Trade:=06/01 3:56 PM
+High:=48.82
+
+(ups)
+Low:=72.32
+Open:=72.65
+% +/-:=    .0 %
+Volume:=     457,724
+Net +/-:=0
+Price:=$72.35
+Last Trade:=06/01 3:56 PM
+High:=73.68
+
+(urbn)
+Low:=30
+Open:=36.3
+% +/-:=    .0 %
+Volume:=     208,491
+Net +/-:=0
+Price:=$30.025
+Last Trade:=06/01 3:56 PM
+High:=30.51
+
+(uri)
+Low:=25.43
+Open:=22.7
+% +/-:=    .0 %
+Volume:=     143,762
+Net +/-:=0
+Price:=$25.55
+Last Trade:=06/01 3:56 PM
+High:=27.18
+
+(urs)
+Low:=42.96
+Open:=41.81
+% +/-:=    .0 %
+Volume:=      25,504
+Net +/-:=0
+Price:=$42.96
+Last Trade:=06/01 3:56 PM
+High:=44.26
+
+(usap)
+Low:=34.23
+Open:=32.16
+% +/-:=    .0 %
+Volume:=       4,984
+Net +/-:=0
+Price:=$34.44
+Last Trade:=06/01 3:55 PM
+High:=36.35
+
+(usb)
+Low:=24.675
+Open:=26.92
+% +/-:=    .0 %
+Volume:=   1,162,870
+Net +/-:=0
+Price:=$24.745
+Last Trade:=06/01 3:56 PM
+High:=25.49
+
+(usph)
+Low:=24.01
+Open:=19.7
+% +/-:=    .0 %
+Volume:=       3,837
+Net +/-:=0
+Price:=$24.025
+Last Trade:=06/01 3:48 PM
+High:=25.44
+
+(utek)
+Low:=30.51
+Open:=19.58
+% +/-:=    .0 %
+Volume:=      28,217
+Net +/-:=0
+Price:=$30.7
+Last Trade:=06/01 3:57 PM
+High:=31.93
+
+(uti)
+Low:=17.36
+Open:=22.14
+% +/-:=    .0 %
+Volume:=       5,147
+Net +/-:=0
+Price:=$17.36
+Last Trade:=06/01 3:50 PM
+High:=18.09
+
+(utr)
+Low:=28.72
+Open:=24.58
+% +/-:=    .0 %
+Volume:=      20,807
+Net +/-:=0
+Price:=$28.72
+Last Trade:=06/01 3:56 PM
+High:=29.87
+
+(utx)
+Low:=84.25
+Open:=78.8
+% +/-:=    .0 %
+Volume:=     679,954
+Net +/-:=0
+Price:=$84.335
+Last Trade:=06/01 3:56 PM
+High:=87.53
+
+(uve)
+Low:=5.31
+Open:=4.87
+% +/-:=    .0 %
+Volume:=       3,476
+Net +/-:=0
+Price:=$5.31
+Last Trade:=06/01 3:56 PM
+High:=5.41
+
+(uvv)
+Low:=41.2
+Open:=40.98
+% +/-:=    .0 %
+Volume:=      14,682
+Net +/-:=0
+Price:=$41.32
+Last Trade:=06/01 3:56 PM
+High:=42.2
+
+(vcbi)
+Low:=5.56
+Open:=6.24
+% +/-:=    .0 %
+Volume:=       1,620
+Net +/-:=0
+Price:=$5.57
+Last Trade:=06/01 3:53 PM
+High:=5.82
+
+(vci)
+Low:=28.56
+Open:=32.21
+% +/-:=    .0 %
+Volume:=      50,501
+Net +/-:=0
+Price:=$28.58
+Last Trade:=06/01 3:56 PM
+High:=29.25
+
+(vgr)
+Low:=19.01
+Open:=17.31
+% +/-:=    .0 %
+Volume:=      14,217
+Net +/-:=0
+Price:=$19.03
+Last Trade:=06/01 3:55 PM
+High:=19.21
+
+(vlccf)
+Low:=21.19
+Open:=22.36
+% +/-:=    .0 %
+Volume:=       9,035
+Net +/-:=0
+Price:=$21.19
+Last Trade:=06/01 3:54 PM
+High:=21.95
+
+(vlgea)
+Low:=26.45
+Open:=33.03
+% +/-:=    .0 %
+Volume:=         125
+Net +/-:=0
+Price:=$26.48
+Last Trade:=06/01 1:05 PM
+High:=26.48
+
+(vmed)
+Low:=32.09
+Open:=27.14
+% +/-:=    .0 %
+Volume:=     372,514
+Net +/-:=0
+Price:=$32.22
+Last Trade:=06/01 3:56 PM
+High:=32.94
+
+(vnda)
+Low:=7.08
+Open:=9.39
+% +/-:=    .0 %
+Volume:=      34,364
+Net +/-:=0
+Price:=$7.08
+Last Trade:=06/01 3:57 PM
+High:=7.41
+
+(vocs)
+Low:=27.005
+Open:=27.85
+% +/-:=    .0 %
+Volume:=      39,776
+Net +/-:=0
+Price:=$27.12
+Last Trade:=06/01 3:57 PM
+High:=27.55
+
+(vod)
+Low:=26.455
+Open:=26.1
+% +/-:=    .0 %
+Volume:=   1,747,435
+Net +/-:=0
+Price:=$26.465
+Last Trade:=06/01 3:56 PM
+High:=26.94
+
+(volc)
+Low:=30.54
+Open:=27.61
+% +/-:=    .0 %
+Volume:=      78,949
+Net +/-:=0
+Price:=$30.56
+Last Trade:=06/01 3:57 PM
+High:=31.18
+
+(vpfg)
+Low:=12.99
+Open:=11.71
+% +/-:=    .0 %
+Volume:=       8,680
+Net +/-:=0
+Price:=$13.01
+Last Trade:=06/01 3:56 PM
+High:=13.07
+
+(vphm)
+Low:=18.9
+Open:=17.6
+% +/-:=    .0 %
+Volume:=     115,488
+Net +/-:=0
+Price:=$19.0395
+Last Trade:=06/01 3:56 PM
+High:=19.3
+
+(vrad)
+Low:=17.2
+Open:=17.24
+% +/-:=%
+Volume:=       9,018
+Net +/-:=
+Price:=$17.2
+Last Trade:=07/12
+High:=17.24
+
+(vrsn)
+Low:=34.42
+Open:=32.95
+% +/-:=    .0 %
+Volume:=     685,783
+Net +/-:=0
+Price:=$34.5
+Last Trade:=06/01 3:56 PM
+High:=34.95
+
+(vrtx)
+Low:=53.08
+Open:=35.37
+% +/-:=    .0 %
+Volume:=     156,139
+Net +/-:=0
+Price:=$53.08
+Last Trade:=06/01 3:56 PM
+High:=54.61
+
+(vrx)
+Low:=50.5
+Open:=28.29
+% +/-:=    .0 %
+Volume:=     184,230
+Net +/-:=0
+Price:=$50.6
+Last Trade:=06/01 3:56 PM
+High:=52.15
+
+(vsec)
+Low:=26.34
+Open:=33.77
+% +/-:=    .0 %
+Volume:=         152
+Net +/-:=0
+Price:=$26.34
+Last Trade:=06/01 1:30 PM
+High:=26.805
+
+(vz)
+Low:=36.22
+Open:=35.65
+% +/-:=    .0 %
+Volume:=   1,021,827
+Net +/-:=0
+Price:=$36.29
+Last Trade:=06/01 3:56 PM
+High:=36.87
+
+(wab)
+Low:=65.11
+Open:=53.2
+% +/-:=    .0 %
+Volume:=      43,043
+Net +/-:=0
+Price:=$65.12
+Last Trade:=06/01 3:56 PM
+High:=67.64
+
+(wash)
+Low:=22.56
+Open:=22.06
+% +/-:=    .0 %
+Volume:=       2,397
+Net +/-:=0
+Price:=$22.56
+Last Trade:=06/01 3:50 PM
+High:=23.36
+
+(wat)
+Low:=95.93
+Open:=78.29
+% +/-:=    .0 %
+Volume:=      63,964
+Net +/-:=0
+Price:=$95.95
+Last Trade:=06/01 3:56 PM
+High:=98.33
+
+(wbc)
+Low:=66.66
+Open:=60.67
+% +/-:=    .0 %
+Volume:=      77,751
+Net +/-:=0
+Price:=$66.77
+Last Trade:=06/01 3:54 PM
+High:=68.73
+
+(wbsn)
+Low:=24.285
+Open:=20.71
+% +/-:=    .0 %
+Volume:=      37,214
+Net +/-:=0
+Price:=$24.285
+Last Trade:=06/01 3:56 PM
+High:=24.9
+
+(wcrx)
+Low:=23.28
+Open:=22.32
+% +/-:=    .0 %
+Volume:=     219,364
+Net +/-:=0
+Price:=$23.34
+Last Trade:=06/01 3:56 PM
+High:=24.25
+
+(wern)
+Low:=24.27
+Open:=22.56
+% +/-:=    .0 %
+Volume:=      91,568
+Net +/-:=0
+Price:=$24.27
+Last Trade:=06/01 3:56 PM
+High:=25.2
+
+(weys)
+Low:=23.31
+Open:=25.11
+% +/-:=    .0 %
+Volume:=       1,765
+Net +/-:=0
+Price:=$23.93
+Last Trade:=05/31 3:58 PM
+High:=23.94
+
+(wfd)
+Low:=8
+Open:=9.33
+% +/-:=    .0 %
+Volume:=      12,890
+Net +/-:=0
+Price:=$8
+Last Trade:=06/01 3:56 PM
+High:=8.45
+
+(wfm)
+Low:=null
+Open:=06/01 3:58 PM
+% +/-:=    .0 %
+Volume:=null
+Net +/-:=0
+Price:=$59.59
+Last Trade:=null
+High:=null
+
+(wfmi)
+Low:=58.85
+Open:=50.62
+% +/-:=    .0 %
+Volume:=     140,646
+Net +/-:=0
+Price:=$59.53
+Last Trade:=06/01 3:56 PM
+High:=61.49
+
+(wgo)
+Low:=10.95
+Open:=15.01
+% +/-:=    .0 %
+Volume:=      22,190
+Net +/-:=0
+Price:=$10.96
+Last Trade:=06/01 3:56 PM
+High:=11.33
+
+(wgov)
+Low:=32.91
+Open:=37.54
+% +/-:=    .0 %
+Volume:=      39,663
+Net +/-:=0
+Price:=$33
+Last Trade:=06/01 3:56 PM
+High:=35.52
+
+(win)
+Low:=13.2
+Open:=13.96
+% +/-:=    .0 %
+Volume:=     566,572
+Net +/-:=0
+Price:=$13.215
+Last Trade:=06/01 3:56 PM
+High:=13.41
+
+(wina)
+Low:=37.64
+Open:=33.2
+% +/-:=%
+Volume:=         251
+Net +/-:=
+Price:=$37.66
+Last Trade:=05/27 3:51 PM
+High:=37.87
+
+(wlk)
+Low:=54.64
+Open:=43.49
+% +/-:=    .0 %
+Volume:=      21,844
+Net +/-:=0
+Price:=$54.7
+Last Trade:=06/01 3:56 PM
+High:=56.33
+
+(wll)
+Low:=64.59
+Open:=116.22
+% +/-:=    .0 %
+Volume:=     141,023
+Net +/-:=0
+Price:=$64.87
+Last Trade:=06/01 3:56 PM
+High:=67.425
+
+(wlt)
+Low:=121.81
+Open:=128.8
+% +/-:=    .0 %
+Volume:=     154,421
+Net +/-:=0
+Price:=$122.13
+Last Trade:=06/01 3:56 PM
+High:=126.52
+
+(wmt)
+Low:=54.25
+Open:=53.98
+% +/-:=    .0 %
+Volume:=     727,637
+Net +/-:=0
+Price:=$54.33
+Last Trade:=06/01 3:56 PM
+High:=55.16
+
+(wnr)
+Low:=16.68
+Open:=10.48
+% +/-:=    .0 %
+Volume:=     195,513
+Net +/-:=0
+Price:=$16.72
+Last Trade:=06/01 3:56 PM
+High:=17.59
+
+(wor)
+Low:=20.7
+Open:=18.56
+% +/-:=    .0 %
+Volume:=      99,264
+Net +/-:=0
+Price:=$20.73
+Last Trade:=06/01 3:56 PM
+High:=21.68
+
+(wr)
+Low:=26.895
+Open:=25.22
+% +/-:=    .0 %
+Volume:=     101,114
+Net +/-:=0
+Price:=$26.895
+Last Trade:=06/01 3:56 PM
+High:=27.28
+
+(wrc)
+Low:=52.63
+Open:=55.17
+% +/-:=    .0 %
+Volume:=     128,224
+Net +/-:=0
+Price:=$52.78
+Last Trade:=06/01 3:56 PM
+High:=55.63
+
+(wri)
+Low:=25.61
+Open:=23.89
+% +/-:=    .0 %
+Volume:=     121,704
+Net +/-:=0
+Price:=$25.71
+Last Trade:=06/01 3:56 PM
+High:=26.37
+
+(wsbc)
+Low:=18.66
+Open:=19.33
+% +/-:=    .0 %
+Volume:=      23,282
+Net +/-:=0
+Price:=$19.1
+Last Trade:=06/01 3:56 PM
+High:=19.63
+
+(wso)
+Low:=64.31
+Open:=64.23
+% +/-:=    .0 %
+Volume:=      13,845
+Net +/-:=0
+Price:=$64.44
+Last Trade:=06/01 3:55 PM
+High:=67.27
+
+(wts)
+Low:=33.41
+Open:=37.04
+% +/-:=    .0 %
+Volume:=      13,722
+Net +/-:=0
+Price:=$33.41
+Last Trade:=06/01 3:56 PM
+High:=34.82
+
+(wtsla)
+Low:=4.155
+Open:=3.74
+% +/-:=    .0 %
+Volume:=     270,086
+Net +/-:=0
+Price:=$4.19
+Last Trade:=06/01 3:57 PM
+High:=4.29
+
+(wwon)
+Low:=5.62
+Open:=9.34
+% +/-:=    .0 %
+Volume:=         149
+Net +/-:=0
+Price:=$5.62
+Last Trade:=06/01 3:32 PM
+High:=5.73
+
+(wynn)
+Low:=145.57
+Open:=101.58
+% +/-:=    .0 %
+Volume:=     273,588
+Net +/-:=0
+Price:=$145.91
+Last Trade:=06/01 3:56 PM
+High:=149.8
+
+(xco)
+Low:=20.09
+Open:=19.31
+% +/-:=    .0 %
+Volume:=     160,354
+Net +/-:=0
+Price:=$20.12
+Last Trade:=06/01 3:56 PM
+High:=20.28
+
+(xec)
+Low:=93.35
+Open:=89.42
+% +/-:=    .0 %
+Volume:=     191,731
+Net +/-:=0
+Price:=$93.44
+Last Trade:=06/01 3:56 PM
+High:=96.33
+
+(xlnx)
+Low:=34.68
+Open:=29.08
+% +/-:=    .0 %
+Volume:=     550,238
+Net +/-:=0
+Price:=$34.685
+Last Trade:=06/01 3:56 PM
+High:=35.69
+
+(xnpt)
+Low:=7.6
+Open:=8.62
+% +/-:=    .0 %
+Volume:=      41,699
+Net +/-:=0
+Price:=$7.6
+Last Trade:=06/01 3:57 PM
+High:=7.8
+
+(xom)
+Low:=81.77
+Open:=73.25
+% +/-:=    .0 %
+Volume:=   1,406,886
+Net +/-:=0
+Price:=$82.06
+Last Trade:=06/01 3:56 PM
+High:=83.63
+
+(xprt)
+Low:=.0802
+Open:=1.42
+% +/-:=%
+Volume:=      87,042
+Net +/-:=
+Price:=$.0802
+Last Trade:=04/21 4:02 PM
+High:=.1009
+
+(xray)
+Low:=38.41
+Open:=34.33
+% +/-:=    .0 %
+Volume:=     104,405
+Net +/-:=0
+Price:=$38.41
+Last Trade:=06/01 3:56 PM
+High:=39.32
+
+(xrit)
+Low:=4.61
+Open:=4.67
+% +/-:=    .0 %
+Volume:=       8,177
+Net +/-:=0
+Price:=$4.61
+Last Trade:=06/01 3:54 PM
+High:=4.76
+
+(xtxi)
+Low:=11.15
+Open:=8.81
+% +/-:=    .0 %
+Volume:=      44,684
+Net +/-:=0
+Price:=$11.4
+Last Trade:=06/01 3:56 PM
+High:=11.57
+
+(xxia)
+Low:=14.77
+Open:=16.79
+% +/-:=    .0 %
+Volume:=      26,816
+Net +/-:=0
+Price:=$14.84
+Last Trade:=06/01 3:56 PM
+High:=15.8
+
+(yhoo)
+Low:=15.8
+Open:=16.74
+% +/-:=    .0 %
+Volume:=   4,025,065
+Net +/-:=0
+Price:=$15.865
+Last Trade:=06/01 3:56 PM
+High:=16.43
+
+(ysi)
+Low:=10.79
+Open:=9.51
+% +/-:=    .0 %
+Volume:=      51,895
+Net +/-:=0
+Price:=$10.81
+Last Trade:=06/01 3:56 PM
+High:=11.29
+
+(yum)
+Low:=54.52
+Open:=49.18
+% +/-:=    .0 %
+Volume:=     287,022
+Net +/-:=0
+Price:=$54.53
+Last Trade:=06/01 3:56 PM
+High:=55.37
+
+(zbra)
+Low:=42.74
+Open:=38.16
+% +/-:=    .0 %
+Volume:=      43,599
+Net +/-:=0
+Price:=$42.79
+Last Trade:=06/01 3:56 PM
+High:=44.52
+
+(zgen)
+Low:=9.74
+Open:=9.74
+% +/-:=%
+Volume:=      14,484
+Net +/-:=
+Price:=$9.76
+Last Trade:=10/12
+High:=9.76
+
+(ziop)
+Low:=6.73
+Open:=4.75
+% +/-:=    .0 %
+Volume:=      60,965
+Net +/-:=0
+Price:=$6.75
+Last Trade:=06/01 3:58 PM
+High:=7.1
+
+(zixi)
+Low:=3.635
+Open:=4.32
+% +/-:=    .0 %
+Volume:=      71,693
+Net +/-:=0
+Price:=$3.64
+Last Trade:=06/01 3:54 PM
+High:=3.84
+
+(zoll)
+Low:=58.32
+Open:=38.05
+% +/-:=    .0 %
+Volume:=      21,442
+Net +/-:=0
+Price:=$58.62
+Last Trade:=06/01 3:56 PM
+High:=60.25
+

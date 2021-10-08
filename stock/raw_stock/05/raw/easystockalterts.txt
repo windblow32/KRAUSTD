@@ -1,0 +1,11000 @@
+(aa)
+52 Week Range:= 9.88 - 18.47
+Open:= 16.40
+EPS:=0.71
+P/E:=23.10
+Change:=+0.09 (0.55%)
+Volume:=18262822
+Prev Close:=16.31
+Last Trade:=16.40
+Days Range:=16.20 &ndash; 16.42
+
+(aan)
+52 Week Range:= 16.16 - 29.29
+Open:= 28.86
+EPS:=1.54
+P/E:=18.68
+Change:=-0.04 (-0.14%)
+Volume:=426107
+Prev Close:=28.81
+Last Trade:=28.77
+Days Range:=28.71 &ndash; 29.06
+
+(aapl)
+52 Week Range:= 235.56 - 364.90
+Open:= 343.00
+EPS:=20.98
+P/E:=16.65
+Change:=+6.05 (1.76%)
+Volume:=11960468
+Prev Close:=343.26
+Last Trade:=349.31
+Days Range:=342.50 &ndash; 349.83
+
+(abat)
+52 Week Range:= 0.79 - 4.35
+Open:= 1.10
+EPS:=0.57
+P/E:=1.96
+Change:=+0.05 (4.55%)
+Volume:=3241398
+Prev Close:=1.07
+Last Trade:=1.12
+Days Range:=1.08 &ndash; 1.14
+
+(abax)
+52 Week Range:= 17.54 - 31.69
+Open:= 27.82
+EPS:=0.64
+P/E:=45.03
+Change:=+1.05 (3.77%)
+Volume:=108498
+Prev Close:=27.77
+Last Trade:=28.82
+Days Range:=27.82 &ndash; 28.96
+
+(abbc)
+52 Week Range:= 8.72 - 13.23
+Open:= 10.57
+EPS:=0.39
+P/E:=26.69
+Change:=-0.17 (-1.61%)
+Volume:=21527
+Prev Close:=10.58
+Last Trade:=10.41
+Days Range:=10.28 &ndash; 10.57
+
+(abcb)
+52 Week Range:= 7.75 - 11.20
+Open:= 8.81
+EPS:=-0.18
+P/E:=N/A
+Change:=-0.10 (-1.14%)
+Volume:=55535
+Prev Close:=8.89
+Last Trade:=8.79
+Days Range:=8.74 &ndash; 8.88
+
+(abg)
+52 Week Range:= 9.69 - 20.12
+Open:= 18.72
+EPS:=0.99
+P/E:=19.00
+Change:=+0.09 (0.48%)
+Volume:=267567
+Prev Close:=18.72
+Last Trade:=18.81
+Days Range:=18.32 &ndash; 18.83
+
+(abii)
+52 Week Range:= 31.82 - 78.62
+Open:= 0.26
+EPS:=-1.87
+P/E:=N/A
+Change:=+0.00 (0.00%)
+Volume:=3500
+Prev Close:=78.25
+Last Trade:=78.25
+Days Range:=78.25 &ndash; 78.25
+
+(abmd)
+52 Week Range:= 8.63 - 19.19
+Open:= 16.75
+EPS:=-0.32
+P/E:=N/A
+Change:=-0.05 (-0.30%)
+Volume:=85929
+Prev Close:=16.75
+Last Trade:=16.70
+Days Range:=16.48 &ndash; 16.86
+
+(acas)
+52 Week Range:= 4.48 - 10.85
+Open:= 9.94
+EPS:=3.59
+P/E:=2.78
+Change:=-0.01 (-0.10%)
+Volume:=3044497
+Prev Close:=9.99
+Last Trade:=9.98
+Days Range:=9.82 &ndash; 10.02
+
+(acet)
+52 Week Range:= 5.31 - 9.47
+Open:= 6.72
+EPS:=0.37
+P/E:=17.68
+Change:=-0.19 (-2.83%)
+Volume:=58333
+Prev Close:=6.73
+Last Trade:=6.54
+Days Range:=6.53 &ndash; 6.72
+
+(aco)
+52 Week Range:= 22.78 - 38.63
+Open:= 38.25
+EPS:=1.14
+P/E:=33.74
+Change:=+0.27 (0.71%)
+Volume:=92397
+Prev Close:=38.19
+Last Trade:=38.46
+Days Range:=37.80 &ndash; 38.75
+
+(acom)
+52 Week Range:= 16.98 - 45.79
+Open:= 41.27
+EPS:=0.86
+P/E:=48.74
+Change:=+0.92 (2.23%)
+Volume:=1591036
+Prev Close:=41.00
+Last Trade:=41.92
+Days Range:=41.11 &ndash; 42.55
+
+(actg)
+52 Week Range:= 12.87 - 41.89
+Open:= 38.48
+EPS:=0.75
+P/E:=51.45
+Change:=+0.21 (0.55%)
+Volume:=259164
+Prev Close:=38.38
+Last Trade:=38.59
+Days Range:=37.90 &ndash; 38.99
+
+(actl)
+52 Week Range:= 10.25 - 21.31
+Open:= 10.05
+EPS:=0.36
+P/E:=58.19
+Change:=+0.00 (0.00%)
+Volume:=13577
+Prev Close:=20.95
+Last Trade:=20.95
+Days Range:=20.95 &ndash; 20.95
+
+(actu)
+52 Week Range:= 3.89 - 6.07
+Open:= 10.65
+EPS:=0.15
+P/E:=33.33
+Change:=+0.00 (0.00%)
+Volume:=53579
+Prev Close:=5.00
+Last Trade:=5.00
+Days Range:=5.00 &ndash; 5.00
+
+(acv)
+52 Week Range:= 26.36 - 37.93
+Open:= 5.00
+EPS:=1.70
+P/E:=22.05
+Change:=+0.00 (0.00%)
+Volume:=1614966
+Prev Close:=37.49
+Last Trade:=37.49
+Days Range:=37.49 &ndash; 37.49
+
+(adbe)
+52 Week Range:= 25.45 - 35.99
+Open:= 31.42
+EPS:=1.87
+P/E:=16.86
+Change:=-0.01 (-0.03%)
+Volume:=3158339
+Prev Close:=31.53
+Last Trade:=31.52
+Days Range:=31.24 &ndash; 31.60
+
+(adct)
+52 Week Range:= 5.18 - 12.76
+Open:= 3.70
+EPS:=0.78
+P/E:=16.33
+Change:=+0.00 (0.00%)
+Volume:=2174
+Prev Close:=12.74
+Last Trade:=12.74
+Days Range:=12.74 &ndash; 12.74
+
+(adp)
+52 Week Range:= 38.41 - 55.12
+Open:= 54.00
+EPS:=2.45
+P/E:=21.91
+Change:=-0.22 (-0.41%)
+Volume:=2014659
+Prev Close:=53.89
+Last Trade:=53.67
+Days Range:=53.51 &ndash; 54.00
+
+(adpi)
+52 Week Range:= 10.05 - 13.86
+Open:= 13.00
+EPS:=0.74
+P/E:=17.69
+Change:=+0.07 (0.54%)
+Volume:=72461
+Prev Close:=13.02
+Last Trade:=13.09
+Days Range:=12.96 &ndash; 13.09
+
+(adpt)
+52 Week Range:= 2.68 - 3.12
+Open:= 3.00
+EPS:=0.00
+P/E:=N/A
+Change:=+0.00 (0.00%)
+Volume:=267704
+Prev Close:=2.71
+Last Trade:=2.71
+Days Range:=2.71 &ndash; 2.71
+
+(adsk)
+52 Week Range:= 23.81 - 46.15
+Open:= 38.83
+EPS:=1.03
+P/E:=37.73
+Change:=+0.16 (0.41%)
+Volume:=2052289
+Prev Close:=38.70
+Last Trade:=38.86
+Days Range:=38.44 &ndash; 38.93
+
+(adtn)
+52 Week Range:= 26.86 - 47.70
+Open:= 39.47
+EPS:=2.01
+P/E:=19.87
+Change:=+0.54 (1.37%)
+Volume:=646064
+Prev Close:=39.39
+Last Trade:=39.93
+Days Range:=39.29 &ndash; 40.04
+
+(aec)
+52 Week Range:= 12.14 - 16.97
+Open:= 16.51
+EPS:=-0.30
+P/E:=N/A
+Change:=+0.14 (0.85%)
+Volume:=148895
+Prev Close:=16.50
+Last Trade:=16.64
+Days Range:=16.45 &ndash; 16.68
+
+(aeis)
+52 Week Range:= 11.40 - 18.53
+Open:= 13.83
+EPS:=1.11
+P/E:=11.95
+Change:=-1.75 (-12.65%)
+Volume:=2290772
+Prev Close:=15.02
+Last Trade:=13.27
+Days Range:=13.11 &ndash; 14.02
+
+(aet)
+52 Week Range:= 25.97 - 46.01
+Open:= 45.26
+EPS:=4.40
+P/E:=10.16
+Change:=-0.54 (-1.19%)
+Volume:=2767188
+Prev Close:=45.23
+Last Trade:=44.69
+Days Range:=44.47 &ndash; 45.27
+
+(afce)
+52 Week Range:= 8.56 - 17.57
+Open:= 16.96
+EPS:=0.94
+P/E:=18.12
+Change:=+0.13 (0.77%)
+Volume:=167151
+Prev Close:=16.90
+Last Trade:=17.03
+Days Range:=16.76 &ndash; 17.25
+
+(agam)
+52 Week Range:= 11.61 - 21.05
+Open:= 1.06
+EPS:=-0.33
+P/E:=N/A
+Change:=+0.00 (0.00%)
+Volume:=17750
+Prev Close:=21.20
+Last Trade:=21.20
+Days Range:=21.20 &ndash; 21.20
+
+(agco)
+52 Week Range:= 26.31 - 59.81
+Open:= 50.06
+EPS:=3.00
+P/E:=16.69
+Change:=-0.24 (-0.48%)
+Volume:=1119235
+Prev Close:=50.31
+Last Trade:=50.07
+Days Range:=49.48 &ndash; 50.46
+
+(agx)
+52 Week Range:= 7.40 - 10.91
+Open:= 10.44
+EPS:=0.63
+P/E:=16.49
+Change:=-0.03 (-0.29%)
+Volume:=5558
+Prev Close:=10.42
+Last Trade:=10.39
+Days Range:=10.24 &ndash; 10.47
+
+(agys)
+52 Week Range:= 4.25 - 8.62
+Open:= 8.27
+EPS:=-2.44
+P/E:=N/A
+Change:=+0.01 (0.12%)
+Volume:=255519
+Prev Close:=8.33
+Last Trade:=8.34
+Days Range:=8.12 &ndash; 8.48
+
+(ahc)
+52 Week Range:= 6.01 - 9.33
+Open:= 7.40
+EPS:=-5.81
+P/E:=N/A
+Change:=+0.09 (1.22%)
+Volume:=29795
+Prev Close:=7.35
+Last Trade:=7.44
+Days Range:=7.27 &ndash; 7.44
+
+(aht)
+52 Week Range:= 6.46 - 14.32
+Open:= 12.68
+EPS:=-1.20
+P/E:=N/A
+Change:=+0.04 (0.32%)
+Volume:=895183
+Prev Close:=12.63
+Last Trade:=12.67
+Days Range:=12.59 &ndash; 12.90
+
+(aig)
+52 Week Range:= 27.10 - 62.87
+Open:= 30.20
+EPS:=8.88
+P/E:=3.34
+Change:=-0.30 (-0.99%)
+Volume:=6660807
+Prev Close:=29.98
+Last Trade:=29.68
+Days Range:=29.59 &ndash; 30.32
+
+(airm)
+52 Week Range:= 27.00 - 76.72
+Open:= 75.56
+EPS:=3.96
+P/E:=19.22
+Change:=+0.77 (1.02%)
+Volume:=88923
+Prev Close:=75.33
+Last Trade:=76.10
+Days Range:=74.66 &ndash; 77.22
+
+(ajg)
+52 Week Range:= 24.13 - 31.92
+Open:= 28.75
+EPS:=1.42
+P/E:=20.18
+Change:=-0.08 (-0.28%)
+Volume:=337018
+Prev Close:=28.73
+Last Trade:=28.65
+Days Range:=28.52 &ndash; 28.77
+
+(akam)
+52 Week Range:= 28.69 - 54.65
+Open:= 31.35
+EPS:=0.94
+P/E:=33.18
+Change:=-0.30 (-0.96%)
+Volume:=2665132
+Prev Close:=31.49
+Last Trade:=31.19
+Days Range:=30.95 &ndash; 31.49
+
+(alb)
+52 Week Range:= 38.74 - 71.77
+Open:= 70.76
+EPS:=3.98
+P/E:=17.60
+Change:=-0.42 (-0.59%)
+Volume:=585696
+Prev Close:=70.48
+Last Trade:=70.06
+Days Range:=69.83 &ndash; 70.76
+
+(alc)
+52 Week Range:= 15.94 - 39.22
+Open:= 16.77
+EPS:=0.77
+P/E:=21.87
+Change:=+0.09 (0.54%)
+Volume:=26289
+Prev Close:=16.75
+Last Trade:=16.84
+Days Range:=16.72 &ndash; 16.92
+
+(ale)
+52 Week Range:= 33.16 - 41.66
+Open:= 41.60
+EPS:=2.58
+P/E:=16.12
+Change:=+0.06 (0.14%)
+Volume:=141557
+Prev Close:=41.53
+Last Trade:=41.59
+Days Range:=41.33 &ndash; 41.83
+
+(alex)
+52 Week Range:= 29.06 - 55.50
+Open:= 50.09
+EPS:=1.38
+P/E:=36.13
+Change:=-0.26 (-0.52%)
+Volume:=177217
+Prev Close:=50.12
+Last Trade:=49.86
+Days Range:=49.66 &ndash; 50.29
+
+(alnc)
+52 Week Range:= 27.31 - 33.89
+Open:= 31.11
+EPS:=2.59
+P/E:=11.95
+Change:=-0.10 (-0.32%)
+Volume:=11849
+Prev Close:=31.05
+Last Trade:=30.95
+Days Range:=30.56 &ndash; 31.14
+
+(alth)
+52 Week Range:= 1.84 - 6.16
+Open:= 2.14
+EPS:=-0.69
+P/E:=N/A
+Change:=-0.04 (-1.87%)
+Volume:=699475
+Prev Close:=2.15
+Last Trade:=2.11
+Days Range:=2.07 &ndash; 2.17
+
+(altr)
+52 Week Range:= 24.43 - 49.59
+Open:= 47.63
+EPS:=2.66
+P/E:=17.71
+Change:=-0.41 (-0.86%)
+Volume:=2834191
+Prev Close:=47.53
+Last Trade:=47.12
+Days Range:=46.82 &ndash; 47.80
+
+(alxa)
+52 Week Range:= 0.86 - 3.64
+Open:= 1.87
+EPS:=0.08
+P/E:=22.88
+Change:=-0.03 (-1.60%)
+Volume:=638804
+Prev Close:=1.86
+Last Trade:=1.83
+Days Range:=1.80 &ndash; 1.88
+
+(alxn)
+52 Week Range:= 43.78 - 105.00
+Open:= 47.37
+EPS:=0.55
+P/E:=87.24
+Change:=+0.47 (0.99%)
+Volume:=904004
+Prev Close:=47.51
+Last Trade:=47.98
+Days Range:=46.73 &ndash; 48.00
+
+(aly)
+52 Week Range:= 1.79 - 8.02
+Open:= 0.00
+EPS:=-0.41
+P/E:=N/A
+Change:=+0.00 (0.00%)
+Volume:=151000
+Prev Close:=6.55
+Last Trade:=6.55
+Days Range:=6.55 &ndash; 6.55
+
+(amat)
+52 Week Range:= 10.27 - 16.93
+Open:= 13.29
+EPS:=1.19
+P/E:=10.99
+Change:=-0.21 (-1.58%)
+Volume:=12525835
+Prev Close:=13.29
+Last Trade:=13.08
+Days Range:=13.00 &ndash; 13.30
+
+(amg)
+52 Week Range:= 59.11 - 113.00
+Open:= 103.61
+EPS:=3.16
+P/E:=32.89
+Change:=-0.26 (-0.25%)
+Volume:=456292
+Prev Close:=104.20
+Last Trade:=103.94
+Days Range:=102.21 &ndash; 104.34
+
+(amgn)
+52 Week Range:= 50.26 - 61.53
+Open:= 58.18
+EPS:=4.81
+P/E:=12.04
+Change:=-0.35 (-0.60%)
+Volume:=4193617
+Prev Close:=58.28
+Last Trade:=57.93
+Days Range:=57.68 &ndash; 58.25
+
+(amn)
+52 Week Range:= 55.42 - 85.25
+Open:= 84.29
+EPS:=4.52
+P/E:=18.82
+Change:=+18.81 (22.32%)
+Volume:=2118461
+Prev Close:=66.27
+Last Trade:=85.08
+Days Range:=84.07 &ndash; 85.24
+
+(amp)
+52 Week Range:= 35.70 - 65.12
+Open:= 58.15
+EPS:=4.32
+P/E:=13.30
+Change:=-0.92 (-1.58%)
+Volume:=1621572
+Prev Close:=58.39
+Last Trade:=57.47
+Days Range:=57.40 &ndash; 58.21
+
+(amph)
+52 Week Range:= 21.51 - 32.54
+Open:= 23.94
+EPS:=3.45
+P/E:=9.41
+Change:=+0.00 (0.00%)
+Volume:=321474
+Prev Close:=32.47
+Last Trade:=32.47
+Days Range:=32.47 &ndash; 32.47
+
+(amsg)
+52 Week Range:= 16.35 - 28.00
+Open:= 26.87
+EPS:=1.65
+P/E:=16.47
+Change:=+0.37 (1.38%)
+Volume:=164164
+Prev Close:=26.81
+Last Trade:=27.18
+Days Range:=26.75 &ndash; 27.20
+
+(amt)
+52 Week Range:= 43.37 - 56.84
+Open:= 54.16
+EPS:=0.92
+P/E:=58.25
+Change:=-0.69 (-1.27%)
+Volume:=2475560
+Prev Close:=54.28
+Last Trade:=53.59
+Days Range:=53.53 &ndash; 54.39
+
+(amzn)
+52 Week Range:= 105.80 - 210.27
+Open:= 208.76
+EPS:=2.31
+P/E:=92.29
+Change:=+3.70 (1.77%)
+Volume:=3366110
+Prev Close:=209.49
+Last Trade:=213.19
+Days Range:=208.73 &ndash; 214.45
+
+(anf)
+52 Week Range:= 30.56 - 77.65
+Open:= 69.17
+EPS:=2.08
+P/E:=34.33
+Change:=+2.69 (3.89%)
+Volume:=2965515
+Prev Close:=68.72
+Last Trade:=71.41
+Days Range:=68.65 &ndash; 71.67
+
+(ango)
+52 Week Range:= 12.91 - 17.73
+Open:= 14.27
+EPS:=0.51
+P/E:=27.84
+Change:=-0.07 (-0.49%)
+Volume:=46634
+Prev Close:=14.27
+Last Trade:=14.20
+Days Range:=14.05 &ndash; 14.27
+
+(anr)
+52 Week Range:= 32.60 - 68.05
+Open:= 47.10
+EPS:=1.09
+P/E:=42.28
+Change:=-0.67 (-1.42%)
+Volume:=3978363
+Prev Close:=46.75
+Last Trade:=46.08
+Days Range:=45.55 &ndash; 47.25
+
+(anth)
+52 Week Range:= 2.82 - 9.08
+Open:= 8.20
+EPS:=-1.64
+P/E:=N/A
+Change:=-0.12 (-1.46%)
+Volume:=97341
+Prev Close:=8.18
+Last Trade:=8.06
+Days Range:=7.96 &ndash; 8.42
+
+(anv)
+52 Week Range:= 15.51 - 43.49
+Open:= 35.20
+EPS:=0.37
+P/E:=100.41
+Change:=+2.34 (6.65%)
+Volume:=1132808
+Prev Close:=34.81
+Last Trade:=37.15
+Days Range:=35.20 &ndash; 37.49
+
+(aoi)
+52 Week Range:= 2.93 - 4.83
+Open:= 3.30
+EPS:=-0.81
+P/E:=N/A
+Change:=-0.05 (-1.52%)
+Volume:=1354049
+Prev Close:=3.32
+Last Trade:=3.27
+Days Range:=3.22 &ndash; 3.33
+
+(aon)
+52 Week Range:= 35.10 - 54.58
+Open:= 51.46
+EPS:=2.53
+P/E:=20.37
+Change:=-0.18 (-0.35%)
+Volume:=1780287
+Prev Close:=51.71
+Last Trade:=51.53
+Days Range:=51.14 &ndash; 51.79
+
+(apac)
+52 Week Range:= 4.61 - 6.50
+Open:= 5.31
+EPS:=0.43
+P/E:=12.35
+Change:=-0.01 (-0.19%)
+Volume:=154677
+Prev Close:=5.32
+Last Trade:=5.31
+Days Range:=5.28 &ndash; 5.36
+
+(apd)
+52 Week Range:= 64.13 - 96.73
+Open:= 96.40
+EPS:=5.04
+P/E:=19.11
+Change:=-0.16 (-0.17%)
+Volume:=846478
+Prev Close:=96.45
+Last Trade:=96.29
+Days Range:=95.99 &ndash; 96.80
+
+(apkt)
+52 Week Range:= 26.00 - 84.50
+Open:= 72.00
+EPS:=0.68
+P/E:=108.53
+Change:=+1.78 (2.47%)
+Volume:=1637788
+Prev Close:=72.02
+Last Trade:=73.80
+Days Range:=72.00 &ndash; 74.16
+
+(apol)
+52 Week Range:= 33.75 - 53.61
+Open:= 46.47
+EPS:=2.65
+P/E:=17.75
+Change:=+0.58 (1.25%)
+Volume:=2510676
+Prev Close:=46.46
+Last Trade:=47.04
+Days Range:=45.99 &ndash; 47.41
+
+(apsg)
+52 Week Range:= 17.08 - 38.01
+Open:= 0.04
+EPS:=0.98
+P/E:=38.79
+Change:=+0.00 (0.00%)
+Volume:=11000
+Prev Close:=38.01
+Last Trade:=38.01
+Days Range:=38.01 &ndash; 38.01
+
+(aray)
+52 Week Range:= 5.85 - 11.16
+Open:= 8.11
+EPS:=0.06
+P/E:=135.33
+Change:=-0.02 (-0.25%)
+Volume:=348255
+Prev Close:=8.14
+Last Trade:=8.12
+Days Range:=8.05 &ndash; 8.23
+
+(arb)
+52 Week Range:= 23.71 - 44.95
+Open:= 41.32
+EPS:=1.72
+P/E:=24.01
+Change:=+0.04 (0.10%)
+Volume:=104317
+Prev Close:=41.26
+Last Trade:=41.30
+Days Range:=40.97 &ndash; 41.46
+
+(are)
+52 Week Range:= 60.11 - 82.82
+Open:= 78.97
+EPS:=2.15
+P/E:=37.42
+Change:=+1.45 (1.84%)
+Volume:=407828
+Prev Close:=79.01
+Last Trade:=80.46
+Days Range:=78.53 &ndash; 80.50
+
+(ari)
+52 Week Range:= 15.81 - 17.61
+Open:= 16.22
+EPS:=1.00
+P/E:=16.16
+Change:=-0.08 (-0.49%)
+Volume:=66799
+Prev Close:=16.24
+Last Trade:=16.16
+Days Range:=16.12 &ndash; 16.25
+
+(aria)
+52 Week Range:= 2.57 - 11.94
+Open:= 11.76
+EPS:=0.58
+P/E:=20.52
+Change:=+0.36 (3.06%)
+Volume:=3050807
+Prev Close:=11.54
+Last Trade:=11.90
+Days Range:=11.54 &ndash; 12.10
+
+(arm)
+52 Week Range:= 11.95 - 22.65
+Open:= 17.74
+EPS:=-0.09
+P/E:=N/A
+Change:=+0.00 (0.00%)
+Volume:=175883
+Prev Close:=19.53
+Last Trade:=19.53
+Days Range:=19.53 &ndash; 19.53
+
+(aro)
+52 Week Range:= 17.05 - 31.12
+Open:= 17.64
+EPS:=2.21
+P/E:=7.96
+Change:=+0.03 (0.17%)
+Volume:=1685030
+Prev Close:=17.56
+Last Trade:=17.59
+Days Range:=17.27 &ndash; 17.80
+
+(arow)
+52 Week Range:= 21.93 - 28.51
+Open:= 24.67
+EPS:=1.93
+P/E:=12.72
+Change:=-0.11 (-0.45%)
+Volume:=7664
+Prev Close:=24.66
+Last Trade:=24.55
+Days Range:=24.29 &ndash; 24.67
+
+(artg)
+52 Week Range:= 2.98 - 6.01
+Open:= 7.34
+EPS:=0.11
+P/E:=54.55
+Change:=+0.00 (0.00%)
+Volume:=1439
+Prev Close:=6.00
+Last Trade:=6.00
+Days Range:=6.00 &ndash; 6.00
+
+(arw)
+52 Week Range:= 21.76 - 47.50
+Open:= 42.05
+EPS:=4.45
+P/E:=9.27
+Change:=-0.65 (-1.55%)
+Volume:=985760
+Prev Close:=41.89
+Last Trade:=41.24
+Days Range:=40.88 &ndash; 42.14
+
+(asca)
+52 Week Range:= 13.44 - 24.04
+Open:= 23.74
+EPS:=0.33
+P/E:=72.45
+Change:=+0.16 (0.67%)
+Volume:=468926
+Prev Close:=23.75
+Last Trade:=23.91
+Days Range:=23.69 &ndash; 24.01
+
+(asfi)
+52 Week Range:= 6.40 - 9.61
+Open:= 8.18
+EPS:=0.22
+P/E:=36.95
+Change:=+0.00 (0.00%)
+Volume:=28733
+Prev Close:=8.13
+Last Trade:=8.13
+Days Range:=8.03 &ndash; 8.24
+
+(asgr)
+52 Week Range:= 12.84 - 26.10
+Open:= 5.60
+EPS:=0.93
+P/E:=27.97
+Change:=+0.00 (0.00%)
+Volume:=27015
+Prev Close:=26.01
+Last Trade:=26.01
+Days Range:=26.01 &ndash; 26.01
+
+(atac)
+52 Week Range:= 14.95 - 25.00
+Open:= 9.06
+EPS:=1.80
+P/E:=13.88
+Change:=+0.00 (0.00%)
+Volume:=570
+Prev Close:=24.99
+Last Trade:=24.99
+Days Range:=24.99 &ndash; 24.99
+
+(athr)
+52 Week Range:= 22.77 - 45.00
+Open:= 0.54
+EPS:=0.76
+P/E:=59.20
+Change:=+0.00 (0.00%)
+Volume:=90200
+Prev Close:=44.99
+Last Trade:=44.99
+Days Range:=44.99 &ndash; 44.99
+
+(atls)
+52 Week Range:= 20.57 - 46.53
+Open:= 21.84
+EPS:=0.34
+P/E:=66.82
+Change:=+0.93 (4.26%)
+Volume:=331613
+Prev Close:=21.79
+Last Trade:=22.72
+Days Range:=21.73 &ndash; 22.74
+
+(atni)
+52 Week Range:= 30.42 - 55.40
+Open:= 38.20
+EPS:=2.51
+P/E:=15.10
+Change:=-0.23 (-0.60%)
+Volume:=23342
+Prev Close:=38.14
+Last Trade:=37.91
+Days Range:=37.50 &ndash; 38.20
+
+(atpg)
+52 Week Range:= 8.85 - 21.40
+Open:= 15.73
+EPS:=-9.19
+P/E:=N/A
+Change:=-0.11 (-0.70%)
+Volume:=672676
+Prev Close:=15.65
+Last Trade:=15.54
+Days Range:=15.43 &ndash; 15.94
+
+(atsg)
+52 Week Range:= 4.48 - 8.65
+Open:= 6.90
+EPS:=0.55
+P/E:=12.55
+Change:=+0.01 (0.14%)
+Volume:=328538
+Prev Close:=6.89
+Last Trade:=6.90
+Days Range:=6.86 &ndash; 7.00
+
+(atsi)
+52 Week Range:= 2.25 - 4.04
+Open:= 53.10
+EPS:=-0.12
+P/E:=N/A
+Change:=+0.00 (0.00%)
+Volume:=5046266
+Prev Close:=4.00
+Last Trade:=4.00
+Days Range:=4.00 &ndash; 4.00
+
+(atvi)
+52 Week Range:= 10.35 - 12.65
+Open:= 11.83
+EPS:=0.44
+P/E:=26.82
+Change:=-0.04 (-0.34%)
+Volume:=2944419
+Prev Close:=11.84
+Last Trade:=11.80
+Days Range:=11.70 &ndash; 11.84
+
+(auxl)
+52 Week Range:= 18.55 - 28.56
+Open:= 19.79
+EPS:=-1.14
+P/E:=N/A
+Change:=-0.32 (-1.62%)
+Volume:=669296
+Prev Close:=19.79
+Last Trade:=19.47
+Days Range:=19.22 &ndash; 19.80
+
+(avid)
+52 Week Range:= 11.04 - 23.35
+Open:= 19.52
+EPS:=-0.75
+P/E:=N/A
+Change:=+0.05 (0.26%)
+Volume:=113172
+Prev Close:=19.40
+Last Trade:=19.45
+Days Range:=19.15 &ndash; 19.60
+
+(avnw)
+52 Week Range:= 3.36 - 6.50
+Open:= 3.95
+EPS:=-2.50
+P/E:=N/A
+Change:=+0.02 (0.51%)
+Volume:=360768
+Prev Close:=3.96
+Last Trade:=3.98
+Days Range:=3.89 &ndash; 4.02
+
+(avx)
+52 Week Range:= 12.12 - 16.60
+Open:= 15.60
+EPS:=1.43
+P/E:=10.82
+Change:=-0.08 (-0.51%)
+Volume:=165983
+Prev Close:=15.55
+Last Trade:=15.47
+Days Range:=15.37 &ndash; 15.60
+
+(avy)
+52 Week Range:= 31.34 - 43.52
+Open:= 38.97
+EPS:=2.87
+P/E:=13.44
+Change:=-0.45 (-1.15%)
+Volume:=613720
+Prev Close:=39.02
+Last Trade:=38.57
+Days Range:=38.40 &ndash; 38.97
+
+(awi)
+52 Week Range:= 28.35 - 54.58
+Open:= 46.99
+EPS:=0.75
+P/E:=62.72
+Change:=+0.05 (0.11%)
+Volume:=185463
+Prev Close:=46.99
+Last Trade:=47.04
+Days Range:=46.11 &ndash; 47.33
+
+(awr)
+52 Week Range:= 31.24 - 38.59
+Open:= 35.05
+EPS:=1.59
+P/E:=22.04
+Change:=+0.02 (0.06%)
+Volume:=71095
+Prev Close:=35.02
+Last Trade:=35.04
+Days Range:=34.54 &ndash; 35.13
+
+(axl)
+52 Week Range:= 6.69 - 16.20
+Open:= 10.95
+EPS:=1.83
+P/E:=5.98
+Change:=+0.02 (0.18%)
+Volume:=1753808
+Prev Close:=10.93
+Last Trade:=10.95
+Days Range:=10.90 &ndash; 11.18
+
+(axp)
+52 Week Range:= 37.33 - 52.50
+Open:= 52.27
+EPS:=3.59
+P/E:=14.57
+Change:=-0.03 (-0.06%)
+Volume:=4831809
+Prev Close:=52.34
+Last Trade:=52.31
+Days Range:=52.23 &ndash; 52.63
+
+(axs)
+52 Week Range:= 29.32 - 37.81
+Open:= 31.14
+EPS:=0.00
+P/E:=N/A
+Change:=-0.29 (-0.93%)
+Volume:=772813
+Prev Close:=31.13
+Last Trade:=30.84
+Days Range:=30.70 &ndash; 31.14
+
+(azo)
+52 Week Range:= 192.65 - 299.60
+Open:= 296.14
+EPS:=18.00
+P/E:=16.51
+Change:=-0.48 (-0.16%)
+Volume:=289638
+Prev Close:=297.62
+Last Trade:=297.14
+Days Range:=294.51 &ndash; 298.53
+
+(ba)
+52 Week Range:= 59.48 - 80.42
+Open:= 74.17
+EPS:=4.53
+P/E:=16.37
+Change:=-0.12 (-0.16%)
+Volume:=2764730
+Prev Close:=74.27
+Last Trade:=74.15
+Days Range:=73.85 &ndash; 74.73
+
+(bac)
+52 Week Range:= 10.40 - 15.72
+Open:= 11.06
+EPS:=-0.49
+P/E:=N/A
+Change:=-0.10 (-0.90%)
+Volume:=104986361
+Prev Close:=11.09
+Last Trade:=10.99
+Days Range:=10.91 &ndash; 11.07
+
+(bamm)
+52 Week Range:= 3.15 - 7.07
+Open:= 3.44
+EPS:=0.22
+P/E:=15.05
+Change:=-0.13 (-3.78%)
+Volume:=32679
+Prev Close:=3.44
+Last Trade:=3.31
+Days Range:=3.31 &ndash; 3.44
+
+(bbbb)
+52 Week Range:= 32.55 - 50.26
+Open:= 44.18
+EPS:=0.23
+P/E:=191.96
+Change:=-0.02 (-0.05%)
+Volume:=5895384
+Prev Close:=44.17
+Last Trade:=44.15
+Days Range:=44.11 &ndash; 44.21
+
+(bbby)
+52 Week Range:= 35.55 - 59.53
+Open:= 59.49
+EPS:=3.28
+P/E:=18.08
+Change:=-0.09 (-0.15%)
+Volume:=2307642
+Prev Close:=59.39
+Last Trade:=59.30
+Days Range:=58.99 &ndash; 59.50
+
+(bbg)
+52 Week Range:= 29.52 - 46.96
+Open:= 46.76
+EPS:=1.56
+P/E:=30.01
+Change:=+0.15 (0.32%)
+Volume:=871019
+Prev Close:=46.66
+Last Trade:=46.81
+Days Range:=46.53 &ndash; 47.75
+
+(bbgi)
+52 Week Range:= 3.20 - 9.34
+Open:= 4.19
+EPS:=0.39
+P/E:=10.87
+Change:=-0.01 (-0.24%)
+Volume:=6051
+Prev Close:=4.25
+Last Trade:=4.24
+Days Range:=4.01 &ndash; 4.25
+
+(bbw)
+52 Week Range:= 4.85 - 9.24
+Open:= 6.30
+EPS:=-0.19
+P/E:=N/A
+Change:=-0.28 (-4.44%)
+Volume:=113962
+Prev Close:=6.33
+Last Trade:=6.05
+Days Range:=6.05 &ndash; 6.35
+
+(bc)
+52 Week Range:= 12.02 - 66.94
+Open:= 21.35
+EPS:=-0.81
+P/E:=N/A
+Change:=-0.09 (-0.42%)
+Volume:=920113
+Prev Close:=21.40
+Last Trade:=21.31
+Days Range:=20.70 &ndash; 21.40
+
+(bcrx)
+52 Week Range:= 3.17 - 6.24
+Open:= 3.78
+EPS:=-0.99
+P/E:=N/A
+Change:=-0.03 (-0.79%)
+Volume:=230888
+Prev Close:=3.78
+Last Trade:=3.75
+Days Range:=3.63 &ndash; 3.79
+
+(bcsi)
+52 Week Range:= 17.21 - 32.22
+Open:= 22.29
+EPS:=0.98
+P/E:=22.41
+Change:=-0.23 (-1.03%)
+Volume:=390817
+Prev Close:=22.19
+Last Trade:=21.96
+Days Range:=21.74 &ndash; 22.70
+
+(bdge)
+52 Week Range:= 20.66 - 26.89
+Open:= 21.65
+EPS:=1.46
+P/E:=14.92
+Change:=+0.12 (0.55%)
+Volume:=7032
+Prev Close:=21.67
+Last Trade:=21.79
+Days Range:=21.63 &ndash; 21.90
+
+(beat)
+52 Week Range:= 4.00 - 6.11
+Open:= 5.21
+EPS:=-0.65
+P/E:=N/A
+Change:=+0.01 (0.19%)
+Volume:=76257
+Prev Close:=5.23
+Last Trade:=5.24
+Days Range:=5.16 &ndash; 5.25
+
+(beav)
+52 Week Range:= 24.26 - 41.35
+Open:= 41.26
+EPS:=1.58
+P/E:=26.16
+Change:=+0.05 (0.12%)
+Volume:=658176
+Prev Close:=41.29
+Last Trade:=41.34
+Days Range:=40.89 &ndash; 41.59
+
+(belfb)
+52 Week Range:= 16.27 - 26.77
+Open:= 21.76
+EPS:=1.44
+P/E:=15.22
+Change:=+0.04 (0.18%)
+Volume:=23205
+Prev Close:=21.87
+Last Trade:=21.91
+Days Range:=21.75 &ndash; 22.10
+
+(bez)
+52 Week Range:= 25.20 - 63.88
+Open:= 21.00
+EPS:=1.40
+P/E:=45.36
+Change:=+0.00 (0.00%)
+Volume:=58075
+Prev Close:=63.50
+Last Trade:=63.50
+Days Range:=63.50 &ndash; 63.50
+
+(bfs)
+52 Week Range:= 37.04 - 48.70
+Open:= 39.73
+EPS:=0.80
+P/E:=49.78
+Change:=+0.00 (0.00%)
+Volume:=109076
+Prev Close:=39.82
+Last Trade:=39.82
+Days Range:=39.52 &ndash; 39.92
+
+(bgcp)
+52 Week Range:= 4.69 - 10.07
+Open:= 7.82
+EPS:=0.38
+P/E:=20.58
+Change:=+0.00 (0.00%)
+Volume:=906172
+Prev Close:=7.82
+Last Trade:=7.82
+Days Range:=7.76 &ndash; 7.87
+
+(bgs)
+52 Week Range:= 10.25 - 21.29
+Open:= 20.71
+EPS:=0.94
+P/E:=22.51
+Change:=+0.47 (2.27%)
+Volume:=329588
+Prev Close:=20.69
+Last Trade:=21.16
+Days Range:=20.69 &ndash; 21.31
+
+(bh)
+52 Week Range:= 258.92 - 464.77
+Open:= 398.29
+EPS:=23.71
+P/E:=16.96
+Change:=+2.38 (0.60%)
+Volume:=3596
+Prev Close:=399.67
+Last Trade:=402.05
+Days Range:=392.69 &ndash; 402.73
+
+(bidu)
+52 Week Range:= 66.85 - 156.04
+Open:= 145.81
+EPS:=0.00
+P/E:=N/A
+Change:=+2.52 (1.73%)
+Volume:=9599607
+Prev Close:=143.35
+Last Trade:=145.87
+Days Range:=142.92 &ndash; 146.30
+
+(biib)
+52 Week Range:= 47.50 - 109.63
+Open:= 108.62
+EPS:=4.36
+P/E:=24.75
+Change:=-0.59 (-0.54%)
+Volume:=1276742
+Prev Close:=108.50
+Last Trade:=107.91
+Days Range:=107.56 &ndash; 109.14
+
+(bio)
+52 Week Range:= 80.00 - 126.98
+Open:= 121.76
+EPS:=6.51
+P/E:=18.65
+Change:=-0.10 (-0.08%)
+Volume:=38426
+Prev Close:=121.54
+Last Trade:=121.44
+Days Range:=120.08 &ndash; 122.04
+
+(bj)
+52 Week Range:= 40.31 - 52.46
+Open:= 50.42
+EPS:=2.45
+P/E:=20.55
+Change:=-0.02 (-0.04%)
+Volume:=3308225
+Prev Close:=50.36
+Last Trade:=50.34
+Days Range:=50.34 &ndash; 50.44
+
+(bkmu)
+52 Week Range:= 3.52 - 6.25
+Open:= 3.68
+EPS:=-1.61
+P/E:=N/A
+Change:=+0.11 (2.99%)
+Volume:=107169
+Prev Close:=3.68
+Last Trade:=3.79
+Days Range:=3.67 &ndash; 3.81
+
+(bldr)
+52 Week Range:= 1.43 - 3.39
+Open:= 2.18
+EPS:=-0.89
+P/E:=N/A
+Change:=-0.01 (-0.46%)
+Volume:=71400
+Prev Close:=2.18
+Last Trade:=2.17
+Days Range:=2.09 &ndash; 2.18
+
+(blk)
+52 Week Range:= 139.16 - 209.77
+Open:= 195.44
+EPS:=11.27
+P/E:=17.26
+Change:=-1.91 (-0.98%)
+Volume:=393854
+Prev Close:=196.42
+Last Trade:=194.51
+Days Range:=194.18 &ndash; 196.35
+
+(bll)
+52 Week Range:= 33.48 - 74.42
+Open:= 39.01
+EPS:=2.67
+P/E:=14.72
+Change:=+0.15 (0.38%)
+Volume:=999908
+Prev Close:=39.14
+Last Trade:=39.29
+Days Range:=38.91 &ndash; 39.45
+
+(bmc)
+52 Week Range:= 34.47 - 56.16
+Open:= 55.75
+EPS:=2.50
+P/E:=22.19
+Change:=-0.31 (-0.56%)
+Volume:=979821
+Prev Close:=55.79
+Last Trade:=55.48
+Days Range:=55.24 &ndash; 55.90
+
+(bmi)
+52 Week Range:= 33.98 - 45.49
+Open:= 37.46
+EPS:=1.77
+P/E:=21.27
+Change:=+0.16 (0.43%)
+Volume:=54927
+Prev Close:=37.49
+Last Trade:=37.65
+Days Range:=37.14 &ndash; 37.68
+
+(bmrn)
+52 Week Range:= 18.04 - 28.64
+Open:= 27.70
+EPS:=1.62
+P/E:=17.15
+Change:=-0.07 (-0.25%)
+Volume:=456353
+Prev Close:=27.86
+Last Trade:=27.79
+Days Range:=27.56 &ndash; 27.88
+
+(bmtc)
+52 Week Range:= 15.97 - 21.45
+Open:= 20.38
+EPS:=1.05
+P/E:=19.15
+Change:=-0.27 (-1.32%)
+Volume:=24690
+Prev Close:=20.38
+Last Trade:=20.11
+Days Range:=19.78 &ndash; 20.38
+
+(bokf)
+52 Week Range:= 42.56 - 56.58
+Open:= 55.73
+EPS:=3.67
+P/E:=15.07
+Change:=-0.41 (-0.74%)
+Volume:=57369
+Prev Close:=55.73
+Last Trade:=55.32
+Days Range:=54.94 &ndash; 55.73
+
+(boom)
+52 Week Range:= 13.50 - 29.69
+Open:= 22.95
+EPS:=0.49
+P/E:=47.22
+Change:=+0.11 (0.48%)
+Volume:=41569
+Prev Close:=23.03
+Last Trade:=23.14
+Days Range:=22.55 &ndash; 23.20
+
+(bpop)
+52 Week Range:= 2.37 - 3.59
+Open:= 2.75
+EPS:=0.00
+P/E:=N/A
+Change:=-0.05 (-1.82%)
+Volume:=12320669
+Prev Close:=2.74
+Last Trade:=2.69
+Days Range:=2.65 &ndash; 2.76
+
+(brc)
+52 Week Range:= 24.22 - 38.73
+Open:= 32.92
+EPS:=1.91
+P/E:=17.27
+Change:=+0.05 (0.15%)
+Volume:=200791
+Prev Close:=32.93
+Last Trade:=32.98
+Days Range:=32.60 &ndash; 33.13
+
+(brcm)
+52 Week Range:= 29.90 - 47.39
+Open:= 34.29
+EPS:=1.99
+P/E:=17.23
+Change:=-0.12 (-0.35%)
+Volume:=5027293
+Prev Close:=34.41
+Last Trade:=34.29
+Days Range:=34.01 &ndash; 34.48
+
+(bre)
+52 Week Range:= 35.09 - 51.15
+Open:= 50.87
+EPS:=0.02
+P/E:=2,567.00
+Change:=+0.42 (0.83%)
+Volume:=413555
+Prev Close:=50.92
+Last Trade:=51.34
+Days Range:=50.60 &ndash; 51.40
+
+(brli)
+52 Week Range:= 18.02 - 25.99
+Open:= 20.85
+EPS:=1.16
+P/E:=17.70
+Change:=-0.32 (-1.53%)
+Volume:=290469
+Prev Close:=20.85
+Last Trade:=20.53
+Days Range:=20.49 &ndash; 20.87
+
+(brs)
+52 Week Range:= 29.21 - 52.39
+Open:= 50.43
+EPS:=3.60
+P/E:=13.99
+Change:=-0.44 (-0.87%)
+Volume:=324987
+Prev Close:=50.82
+Last Trade:=50.38
+Days Range:=50.06 &ndash; 50.94
+
+(bsrr)
+52 Week Range:= 10.06 - 13.10
+Open:= 11.22
+EPS:=0.52
+P/E:=21.15
+Change:=-0.26 (-2.32%)
+Volume:=24667
+Prev Close:=11.26
+Last Trade:=11.00
+Days Range:=10.91 &ndash; 11.22
+
+(bstc)
+52 Week Range:= 18.74 - 27.99
+Open:= 21.77
+EPS:=0.30
+P/E:=74.73
+Change:=+0.75 (3.45%)
+Volume:=43761
+Prev Close:=21.67
+Last Trade:=22.42
+Days Range:=21.25 &ndash; 23.00
+
+(btn)
+52 Week Range:= 4.60 - 9.74
+Open:= 4.73
+EPS:=0.63
+P/E:=7.41
+Change:=-0.10 (-2.11%)
+Volume:=265578
+Prev Close:=4.77
+Last Trade:=4.67
+Days Range:=4.66 &ndash; 4.77
+
+(buse)
+52 Week Range:= 4.04 - 5.70
+Open:= 5.27
+EPS:=0.32
+P/E:=16.34
+Change:=-0.04 (-0.76%)
+Volume:=200768
+Prev Close:=5.27
+Last Trade:=5.23
+Days Range:=5.16 &ndash; 5.27
+
+(bxg)
+52 Week Range:= 2.53 - 4.73
+Open:= 2.91
+EPS:=-1.08
+P/E:=N/A
+Change:=-0.17 (-5.84%)
+Volume:=251381
+Prev Close:=2.91
+Last Trade:=2.74
+Days Range:=2.74 &ndash; 2.93
+
+(bxs)
+52 Week Range:= 11.57 - 18.73
+Open:= 12.57
+EPS:=0.16
+P/E:=76.75
+Change:=-0.29 (-2.31%)
+Volume:=534768
+Prev Close:=12.57
+Last Trade:=12.28
+Days Range:=12.22 &ndash; 12.58
+
+(byi)
+52 Week Range:= 30.00 - 43.67
+Open:= 41.13
+EPS:=1.79
+P/E:=22.97
+Change:=-0.03 (-0.07%)
+Volume:=411210
+Prev Close:=41.15
+Last Trade:=41.12
+Days Range:=40.68 &ndash; 41.39
+
+(bz)
+52 Week Range:= 4.90 - 9.85
+Open:= 7.93
+EPS:=1.12
+P/E:=7.02
+Change:=-0.04 (-0.50%)
+Volume:=805870
+Prev Close:=7.90
+Last Trade:=7.86
+Days Range:=7.76 &ndash; 7.93
+
+(c)
+52 Week Range:= 3.63 - 125.25
+Open:= 42.89
+EPS:=3.00
+P/E:=14.19
+Change:=-0.31 (-0.72%)
+Volume:=34271894
+Prev Close:=42.88
+Last Trade:=42.57
+Days Range:=42.21 &ndash; 43.00
+
+(ca)
+52 Week Range:= 17.70 - 25.68
+Open:= 23.09
+EPS:=1.60
+P/E:=14.31
+Change:=-0.28 (-1.21%)
+Volume:=3104385
+Prev Close:=23.17
+Last Trade:=22.89
+Days Range:=22.77 &ndash; 23.09
+
+(cag)
+52 Week Range:= 21.02 - 25.92
+Open:= 25.86
+EPS:=1.90
+P/E:=13.55
+Change:=-0.16 (-0.62%)
+Volume:=2269662
+Prev Close:=25.90
+Last Trade:=25.74
+Days Range:=25.64 &ndash; 25.89
+
+(cah)
+52 Week Range:= 29.69 - 46.41
+Open:= 46.22
+EPS:=2.69
+P/E:=17.24
+Change:=+0.06 (0.13%)
+Volume:=2270262
+Prev Close:=46.32
+Last Trade:=46.38
+Days Range:=46.04 &ndash; 46.51
+
+(cake)
+52 Week Range:= 21.56 - 34.00
+Open:= 32.87
+EPS:=1.39
+P/E:=23.99
+Change:=+0.51 (1.55%)
+Volume:=1046728
+Prev Close:=32.83
+Last Trade:=33.34
+Days Range:=32.53 &ndash; 33.40
+
+(cap)
+52 Week Range:= 11.47 - 28.57
+Open:= 20.66
+EPS:=2.03
+P/E:=9.90
+Change:=-0.61 (-2.95%)
+Volume:=181972
+Prev Close:=20.71
+Last Trade:=20.10
+Days Range:=19.91 &ndash; 20.74
+
+(cas)
+52 Week Range:= 12.66 - 19.29
+Open:= 17.06
+EPS:=0.07
+P/E:=245.00
+Change:=+0.10 (0.59%)
+Volume:=25021
+Prev Close:=17.05
+Last Trade:=17.15
+Days Range:=16.79 &ndash; 17.16
+
+(casc)
+52 Week Range:= 27.55 - 52.53
+Open:= 49.06
+EPS:=2.87
+P/E:=17.21
+Change:=+0.40 (0.82%)
+Volume:=97647
+Prev Close:=49.00
+Last Trade:=49.40
+Days Range:=48.86 &ndash; 49.49
+
+(cat)
+52 Week Range:= 58.62 - 116.25
+Open:= 107.92
+EPS:=5.62
+P/E:=19.29
+Change:=-0.21 (-0.19%)
+Volume:=6639227
+Prev Close:=108.62
+Last Trade:=108.41
+Days Range:=107.34 &ndash; 108.78
+
+(caty)
+52 Week Range:= 9.32 - 18.98
+Open:= 16.65
+EPS:=0.56
+P/E:=29.45
+Change:=-0.17 (-1.02%)
+Volume:=225707
+Prev Close:=16.66
+Last Trade:=16.49
+Days Range:=16.27 &ndash; 16.78
+
+(cavm)
+52 Week Range:= 22.16 - 48.30
+Open:= 44.22
+EPS:=0.86
+P/E:=50.76
+Change:=-0.72 (-1.63%)
+Volume:=612280
+Prev Close:=44.37
+Last Trade:=43.65
+Days Range:=43.37 &ndash; 44.54
+
+(cb)
+52 Week Range:= 48.86 - 66.00
+Open:= 62.98
+EPS:=7.09
+P/E:=8.77
+Change:=-0.83 (-1.32%)
+Volume:=2224623
+Prev Close:=63.03
+Last Trade:=62.20
+Days Range:=62.20 &ndash; 63.14
+
+(cbb)
+52 Week Range:= 2.27 - 3.42
+Open:= 3.30
+EPS:=0.07
+P/E:=46.71
+Change:=-0.02 (-0.61%)
+Volume:=1937071
+Prev Close:=3.29
+Last Trade:=3.27
+Days Range:=3.19 &ndash; 3.35
+
+(cbg)
+52 Week Range:= 12.81 - 29.88
+Open:= 25.31
+EPS:=0.73
+P/E:=34.78
+Change:=+0.00 (0.00%)
+Volume:=1870625
+Prev Close:=25.39
+Last Trade:=25.39
+Days Range:=25.06 &ndash; 25.43
+
+(cbr)
+52 Week Range:= 2.52 - 6.98
+Open:= 5.60
+EPS:=-1.10
+P/E:=N/A
+Change:=+0.03 (0.54%)
+Volume:=286542
+Prev Close:=5.60
+Last Trade:=5.63
+Days Range:=5.58 &ndash; 5.65
+
+(cbu)
+52 Week Range:= 21.76 - 28.95
+Open:= 25.14
+EPS:=1.94
+P/E:=12.96
+Change:=+0.01 (0.04%)
+Volume:=200338
+Prev Close:=25.14
+Last Trade:=25.15
+Days Range:=24.86 &ndash; 25.28
+
+(ccbg)
+52 Week Range:= 9.94 - 14.25
+Open:= 10.26
+EPS:=0.26
+P/E:=39.58
+Change:=+0.02 (0.19%)
+Volume:=23749
+Prev Close:=10.27
+Last Trade:=10.29
+Days Range:=10.19 &ndash; 10.29
+
+(ccc)
+52 Week Range:= 11.75 - 18.20
+Open:= 17.06
+EPS:=0.59
+P/E:=28.88
+Change:=-0.01 (-0.06%)
+Volume:=442505
+Prev Close:=17.05
+Last Trade:=17.04
+Days Range:=16.89 &ndash; 17.16
+
+(cce)
+52 Week Range:= 21.66 - 31.80
+Open:= 29.78
+EPS:=1.89
+P/E:=15.75
+Change:=-0.05 (-0.17%)
+Volume:=3446226
+Prev Close:=29.81
+Last Trade:=29.76
+Days Range:=29.59 &ndash; 29.88
+
+(ccmp)
+52 Week Range:= 29.60 - 52.69
+Open:= 47.93
+EPS:=2.36
+P/E:=20.06
+Change:=-0.67 (-1.40%)
+Volume:=115207
+Prev Close:=48.02
+Last Trade:=47.35
+Days Range:=47.30 &ndash; 48.55
+
+(ccne)
+52 Week Range:= 10.75 - 15.83
+Open:= 13.86
+EPS:=1.09
+P/E:=12.56
+Change:=-0.17 (-1.23%)
+Volume:=8686
+Prev Close:=13.86
+Last Trade:=13.69
+Days Range:=13.60 &ndash; 13.86
+
+(ccoi)
+52 Week Range:= 6.98 - 17.27
+Open:= 17.12
+EPS:=0.01
+P/E:=1,726.00
+Change:=+0.21 (1.23%)
+Volume:=251929
+Prev Close:=17.05
+Last Trade:=17.26
+Days Range:=16.92 &ndash; 17.31
+
+(cdzi)
+52 Week Range:= 9.30 - 13.74
+Open:= 11.21
+EPS:=-1.09
+P/E:=N/A
+Change:=+0.09 (0.80%)
+Volume:=13329
+Prev Close:=11.18
+Last Trade:=11.27
+Days Range:=11.06 &ndash; 11.27
+
+(cec)
+52 Week Range:= 30.44 - 42.71
+Open:= 41.98
+EPS:=2.70
+P/E:=15.34
+Change:=-0.51 (-1.21%)
+Volume:=170043
+Prev Close:=41.94
+Last Trade:=41.43
+Days Range:=41.15 &ndash; 41.98
+
+(ceco)
+52 Week Range:= 16.36 - 27.93
+Open:= 21.70
+EPS:=2.35
+P/E:=9.29
+Change:=+0.19 (0.88%)
+Volume:=822887
+Prev Close:=21.64
+Last Trade:=21.83
+Days Range:=21.63 &ndash; 21.88
+
+(celg)
+52 Week Range:= 48.02 - 63.46
+Open:= 60.94
+EPS:=1.91
+P/E:=31.59
+Change:=-0.54 (-0.89%)
+Volume:=2143683
+Prev Close:=60.88
+Last Trade:=60.34
+Days Range:=60.02 &ndash; 60.99
+
+(ceph)
+52 Week Range:= 54.15 - 81.11
+Open:= 80.23
+EPS:=6.57
+P/E:=12.18
+Change:=-0.15 (-0.19%)
+Volume:=1163263
+Prev Close:=80.18
+Last Trade:=80.03
+Days Range:=80.00 &ndash; 80.24
+
+(cern)
+52 Week Range:= 57.81 - 125.91
+Open:= 62.59
+EPS:=1.47
+P/E:=42.87
+Change:=+0.48 (0.77%)
+Volume:=711180
+Prev Close:=62.54
+Last Trade:=63.02
+Days Range:=62.30 &ndash; 63.05
+
+(cers)
+52 Week Range:= 2.11 - 4.01
+Open:= 3.00
+EPS:=-0.40
+P/E:=N/A
+Change:=-0.07 (-2.33%)
+Volume:=140039
+Prev Close:=3.02
+Last Trade:=2.95
+Days Range:=2.93 &ndash; 3.02
+
+(cffn)
+52 Week Range:= 10.93 - 34.10
+Open:= 11.79
+EPS:=0.22
+P/E:=53.73
+Change:=-0.03 (-0.25%)
+Volume:=842465
+Prev Close:=11.85
+Last Trade:=11.82
+Days Range:=11.69 &ndash; 11.84
+
+(cfnb)
+52 Week Range:= 11.75 - 15.40
+Open:= 15.88
+EPS:=1.00
+P/E:=15.77
+Change:=+0.40 (2.52%)
+Volume:=1401
+Prev Close:=15.37
+Last Trade:=15.77
+Days Range:=15.52 &ndash; 16.45
+
+(cfnl)
+52 Week Range:= 8.56 - 12.15
+Open:= 11.06
+EPS:=0.67
+P/E:=16.64
+Change:=+0.07 (0.63%)
+Volume:=64336
+Prev Close:=11.08
+Last Trade:=11.15
+Days Range:=10.94 &ndash; 11.15
+
+(cgc)
+52 Week Range:= 2.30 - 6.57
+Open:= 1.59
+EPS:=0.28
+P/E:=23.43
+Change:=+0.00 (0.00%)
+Volume:=19500
+Prev Close:=6.56
+Last Trade:=6.56
+Days Range:=6.56 &ndash; 6.56
+
+(cgx)
+52 Week Range:= 33.71 - 60.84
+Open:= 55.55
+EPS:=3.57
+P/E:=15.82
+Change:=+0.95 (1.71%)
+Volume:=96550
+Prev Close:=55.54
+Last Trade:=56.49
+Days Range:=55.55 &ndash; 56.75
+
+(chdx)
+52 Week Range:= 11.26 - 18.64
+Open:= 13.56
+EPS:=0.36
+P/E:=37.67
+Change:=+0.06 (0.44%)
+Volume:=16669
+Prev Close:=13.50
+Last Trade:=13.56
+Days Range:=13.50 &ndash; 13.61
+
+(chg)
+52 Week Range:= 38.60 - 54.38
+Open:= 54.05
+EPS:=2.18
+P/E:=24.79
+Change:=+0.03 (0.06%)
+Volume:=29275
+Prev Close:=54.01
+Last Trade:=54.04
+Days Range:=53.97 &ndash; 54.44
+
+(chh)
+52 Week Range:= 29.25 - 41.42
+Open:= 34.39
+EPS:=2.05
+P/E:=16.74
+Change:=-0.12 (-0.35%)
+Volume:=104167
+Prev Close:=34.43
+Last Trade:=34.31
+Days Range:=34.05 &ndash; 34.44
+
+(chkp)
+52 Week Range:= 28.90 - 56.92
+Open:= 56.98
+EPS:=0.00
+P/E:=N/A
+Change:=+0.90 (1.58%)
+Volume:=2238792
+Prev Close:=56.75
+Last Trade:=57.65
+Days Range:=56.67 &ndash; 57.91
+
+(chrs)
+52 Week Range:= 2.84 - 4.93
+Open:= 4.19
+EPS:=-0.28
+P/E:=N/A
+Change:=+0.02 (0.48%)
+Volume:=797055
+Prev Close:=4.20
+Last Trade:=4.22
+Days Range:=4.06 &ndash; 4.24
+
+(chrw)
+52 Week Range:= 54.50 - 82.05
+Open:= 80.80
+EPS:=2.42
+P/E:=33.24
+Change:=-0.17 (-0.21%)
+Volume:=770091
+Prev Close:=80.62
+Last Trade:=80.45
+Days Range:=80.10 &ndash; 80.94
+
+(chs)
+52 Week Range:= 8.22 - 15.64
+Open:= 15.48
+EPS:=0.70
+P/E:=22.16
+Change:=+0.05 (0.32%)
+Volume:=1436072
+Prev Close:=15.46
+Last Trade:=15.51
+Days Range:=15.30 &ndash; 15.62
+
+(chsp)
+52 Week Range:= 15.34 - 20.22
+Open:= 16.74
+EPS:=0.08
+P/E:=209.25
+Change:=+0.03 (0.18%)
+Volume:=139367
+Prev Close:=16.71
+Last Trade:=16.74
+Days Range:=16.65 &ndash; 16.80
+
+(cix)
+52 Week Range:= 8.56 - 17.90
+Open:= 12.93
+EPS:=0.64
+P/E:=20.50
+Change:=-0.06 (-0.46%)
+Volume:=1854
+Prev Close:=13.18
+Last Trade:=13.12
+Days Range:=12.93 &ndash; 13.23
+
+(ckh)
+52 Week Range:= 68.39 - 116.00
+Open:= 102.23
+EPS:=11.85
+P/E:=8.68
+Change:=+1.03 (1.01%)
+Volume:=108242
+Prev Close:=101.87
+Last Trade:=102.90
+Days Range:=100.30 &ndash; 103.33
+
+(ckp)
+52 Week Range:= 15.89 - 23.00
+Open:= 18.11
+EPS:=0.35
+P/E:=51.23
+Change:=-0.22 (-1.21%)
+Volume:=149582
+Prev Close:=18.15
+Last Trade:=17.93
+Days Range:=17.86 &ndash; 18.11
+
+(ckr)
+52 Week Range:= 8.00 - 12.90
+Open:= 0.27
+EPS:=0.54
+P/E:=23.24
+Change:=+0.00 (0.00%)
+Volume:=5000
+Prev Close:=12.55
+Last Trade:=12.55
+Days Range:=12.55 &ndash; 12.55
+
+(ckxe)
+52 Week Range:= 2.91 - 5.82
+Open:= 11.16
+EPS:=-0.04
+P/E:=N/A
+Change:=+0.00 (0.00%)
+Volume:=231707
+Prev Close:=5.51
+Last Trade:=5.51
+Days Range:=5.51 &ndash; 5.51
+
+(clc)
+52 Week Range:= 33.22 - 48.11
+Open:= 47.91
+EPS:=2.19
+P/E:=21.78
+Change:=-0.21 (-0.44%)
+Volume:=217486
+Prev Close:=47.91
+Last Trade:=47.70
+Days Range:=47.65 &ndash; 48.07
+
+(cldt)
+52 Week Range:= 14.25 - 19.46
+Open:= 16.48
+EPS:=-0.15
+P/E:=N/A
+Change:=-0.08 (-0.49%)
+Volume:=30649
+Prev Close:=16.44
+Last Trade:=16.36
+Days Range:=16.28 &ndash; 16.48
+
+(clh)
+52 Week Range:= 58.30 - 106.61
+Open:= 105.10
+EPS:=5.39
+P/E:=19.80
+Change:=+1.88 (1.79%)
+Volume:=270266
+Prev Close:=104.82
+Last Trade:=106.70
+Days Range:=104.51 &ndash; 107.16
+
+(clne)
+52 Week Range:= 11.75 - 19.36
+Open:= 13.30
+EPS:=0.20
+P/E:=67.40
+Change:=+0.21 (1.58%)
+Volume:=841392
+Prev Close:=13.27
+Last Trade:=13.48
+Days Range:=13.30 &ndash; 13.78
+
+(clny)
+52 Week Range:= 16.55 - 21.45
+Open:= 18.17
+EPS:=1.45
+P/E:=12.66
+Change:=+0.19 (1.05%)
+Volume:=119096
+Prev Close:=18.17
+Last Trade:=18.36
+Days Range:=18.17 &ndash; 18.44
+
+(clp)
+52 Week Range:= 13.20 - 21.48
+Open:= 20.69
+EPS:=-0.61
+P/E:=N/A
+Change:=+0.04 (0.19%)
+Volume:=884496
+Prev Close:=20.72
+Last Trade:=20.76
+Days Range:=20.45 &ndash; 20.78
+
+(clr)
+52 Week Range:= 38.23 - 73.48
+Open:= 66.01
+EPS:=-0.24
+P/E:=N/A
+Change:=+0.80 (1.21%)
+Volume:=1016814
+Prev Close:=65.93
+Last Trade:=66.73
+Days Range:=65.68 &ndash; 67.69
+
+(clrt)
+52 Week Range:= 1.88 - 5.03
+Open:= 0.10
+EPS:=-0.06
+P/E:=N/A
+Change:=+0.00 (0.00%)
+Volume:=338
+Prev Close:=4.99
+Last Trade:=4.99
+Days Range:=4.99 &ndash; 4.99
+
+(clw)
+52 Week Range:= 50.75 - 85.25
+Open:= 70.24
+EPS:=6.68
+P/E:=10.26
+Change:=-1.94 (-2.76%)
+Volume:=159890
+Prev Close:=70.46
+Last Trade:=68.52
+Days Range:=67.30 &ndash; 70.68
+
+(cmcsa)
+52 Week Range:= 16.76 - 27.16
+Open:= 25.75
+EPS:=1.32
+P/E:=19.67
+Change:=+0.24 (0.93%)
+Volume:=12565960
+Prev Close:=25.73
+Last Trade:=25.97
+Days Range:=25.70 &ndash; 26.14
+
+(cml)
+52 Week Range:= 11.00 - 34.16
+Open:= 0.00
+EPS:=0.11
+P/E:=252.27
+Change:=+0.00 (0.00%)
+Volume:=12395028
+Prev Close:=27.75
+Last Trade:=27.75
+Days Range:=27.75 &ndash; 27.75
+
+(cmls)
+52 Week Range:= 2.03 - 5.78
+Open:= 3.58
+EPS:=1.07
+P/E:=3.21
+Change:=-0.15 (-4.19%)
+Volume:=175932
+Prev Close:=3.59
+Last Trade:=3.44
+Days Range:=3.39 &ndash; 3.58
+
+(cmn)
+52 Week Range:= 13.39 - 28.00
+Open:= 26.94
+EPS:=1.19
+P/E:=22.97
+Change:=+0.34 (1.26%)
+Volume:=80600
+Prev Close:=27.00
+Last Trade:=27.34
+Days Range:=26.92 &ndash; 27.53
+
+(cmo)
+52 Week Range:= 10.69 - 13.95
+Open:= 13.46
+EPS:=1.43
+P/E:=9.41
+Change:=+0.03 (0.22%)
+Volume:=1148188
+Prev Close:=13.43
+Last Trade:=13.46
+Days Range:=13.32 &ndash; 13.48
+
+(cmp)
+52 Week Range:= 68.50 - 98.10
+Open:= 86.62
+EPS:=4.44
+P/E:=19.55
+Change:=+0.22 (0.25%)
+Volume:=164949
+Prev Close:=86.58
+Last Trade:=86.80
+Days Range:=86.16 &ndash; 87.23
+
+(cmtl)
+52 Week Range:= 20.19 - 32.00
+Open:= 28.31
+EPS:=2.21
+P/E:=12.97
+Change:=+0.26 (0.92%)
+Volume:=383751
+Prev Close:=28.41
+Last Trade:=28.67
+Days Range:=28.15 &ndash; 28.73
+
+(cnbka)
+52 Week Range:= 19.40 - 28.38
+Open:= 26.93
+EPS:=2.51
+P/E:=10.74
+Change:=+0.00 (0.00%)
+Volume:=6878
+Prev Close:=26.95
+Last Trade:=26.95
+Days Range:=26.61 &ndash; 26.97
+
+(cnc)
+52 Week Range:= 20.00 - 39.25
+Open:= 36.04
+EPS:=1.85
+P/E:=19.68
+Change:=+0.48 (1.33%)
+Volume:=294256
+Prev Close:=35.93
+Last Trade:=36.41
+Days Range:=35.67 &ndash; 36.49
+
+(cnk)
+52 Week Range:= 12.86 - 22.09
+Open:= 20.73
+EPS:=1.19
+P/E:=16.97
+Change:=-0.92 (-4.44%)
+Volume:=1802120
+Prev Close:=21.12
+Last Trade:=20.20
+Days Range:=20.16 &ndash; 20.80
+
+(cnsl)
+52 Week Range:= 16.50 - 19.59
+Open:= 19.55
+EPS:=1.12
+P/E:=17.63
+Change:=+0.21 (1.07%)
+Volume:=220051
+Prev Close:=19.53
+Last Trade:=19.74
+Days Range:=19.48 &ndash; 19.77
+
+(cog)
+52 Week Range:= 26.62 - 67.49
+Open:= 66.38
+EPS:=0.83
+P/E:=80.92
+Change:=-0.05 (-0.08%)
+Volume:=1722820
+Prev Close:=67.21
+Last Trade:=67.16
+Days Range:=66.38 &ndash; 68.79
+
+(colb)
+52 Week Range:= 15.91 - 22.14
+Open:= 17.27
+EPS:=0.66
+P/E:=26.36
+Change:=+0.10 (0.58%)
+Volume:=241972
+Prev Close:=17.30
+Last Trade:=17.40
+Days Range:=17.23 &ndash; 17.53
+
+(comv)
+52 Week Range:= 2.50 - 10.43
+Open:= 3.02
+EPS:=-1.25
+P/E:=N/A
+Change:=-0.07 (-2.32%)
+Volume:=128296
+Prev Close:=2.98
+Last Trade:=2.91
+Days Range:=2.87 &ndash; 3.02
+
+(coo)
+52 Week Range:= 37.43 - 80.39
+Open:= 80.38
+EPS:=3.58
+P/E:=22.34
+Change:=-0.30 (-0.37%)
+Volume:=296301
+Prev Close:=80.29
+Last Trade:=79.99
+Days Range:=79.67 &ndash; 80.50
+
+(cost)
+52 Week Range:= 53.41 - 83.95
+Open:= 81.69
+EPS:=3.20
+P/E:=25.41
+Change:=-0.22 (-0.27%)
+Volume:=1659382
+Prev Close:=81.54
+Last Trade:=81.32
+Days Range:=80.97 &ndash; 81.95
+
+(cov)
+52 Week Range:= 35.12 - 57.65
+Open:= 54.17
+EPS:=0.00
+P/E:=N/A
+Change:=-0.44 (-0.81%)
+Volume:=2576273
+Prev Close:=54.22
+Last Trade:=53.78
+Days Range:=53.52 &ndash; 54.17
+
+(cown)
+52 Week Range:= 2.99 - 5.04
+Open:= 3.96
+EPS:=-0.44
+P/E:=N/A
+Change:=+0.02 (0.51%)
+Volume:=720728
+Prev Close:=3.94
+Last Trade:=3.96
+Days Range:=3.92 &ndash; 4.06
+
+(cpa)
+52 Week Range:= 43.59 - 68.44
+Open:= 68.17
+EPS:=0.00
+P/E:=N/A
+Change:=-0.70 (-1.03%)
+Volume:=255067
+Prev Close:=67.85
+Last Trade:=67.15
+Days Range:=66.71 &ndash; 68.17
+
+(cpe)
+52 Week Range:= 3.54 - 9.36
+Open:= 7.06
+EPS:=0.26
+P/E:=27.19
+Change:=+0.02 (0.28%)
+Volume:=261809
+Prev Close:=7.05
+Last Trade:=7.07
+Days Range:=6.94 &ndash; 7.15
+
+(cpn)
+52 Week Range:= 11.88 - 16.89
+Open:= 16.37
+EPS:=-0.83
+P/E:=N/A
+Change:=-0.24 (-1.47%)
+Volume:=2130713
+Prev Close:=16.32
+Last Trade:=16.08
+Days Range:=16.07 &ndash; 16.39
+
+(cprt)
+52 Week Range:= 31.28 - 47.45
+Open:= 47.25
+EPS:=2.04
+P/E:=23.10
+Change:=-0.07 (-0.15%)
+Volume:=359406
+Prev Close:=47.19
+Last Trade:=47.12
+Days Range:=46.96 &ndash; 47.55
+
+(cpst)
+52 Week Range:= 0.62 - 2.14
+Open:= 1.59
+EPS:=-0.16
+P/E:=N/A
+Change:=-0.02 (-1.26%)
+Volume:=1814164
+Prev Close:=1.56
+Last Trade:=1.54
+Days Range:=1.52 &ndash; 1.59
+
+(cpy)
+52 Week Range:= 11.76 - 31.00
+Open:= 13.26
+EPS:=0.86
+P/E:=14.80
+Change:=-0.56 (-4.22%)
+Volume:=109761
+Prev Close:=13.29
+Last Trade:=12.73
+Days Range:=12.49 &ndash; 13.27
+
+(cr)
+52 Week Range:= 28.69 - 51.15
+Open:= 50.52
+EPS:=2.85
+P/E:=17.67
+Change:=-0.23 (-0.46%)
+Volume:=177903
+Prev Close:=50.58
+Last Trade:=50.35
+Days Range:=50.22 &ndash; 50.84
+
+(cra)
+52 Week Range:= 5.35 - 8.42
+Open:= 1.35
+EPS:=-0.20
+P/E:=N/A
+Change:=+0.00 (0.00%)
+Volume:=19309
+Prev Close:=8.04
+Last Trade:=8.04
+Days Range:=8.04 &ndash; 8.04
+
+(crai)
+52 Week Range:= 14.98 - 29.80
+Open:= 28.04
+EPS:=0.18
+P/E:=156.11
+Change:=+0.11 (0.39%)
+Volume:=28151
+Prev Close:=27.99
+Last Trade:=28.10
+Days Range:=27.41 &ndash; 28.18
+
+(crbc)
+52 Week Range:= 0.55 - 1.07
+Open:= 1.70
+EPS:=-0.76
+P/E:=N/A
+Change:=+0.00 (0.00%)
+Volume:=504329
+Prev Close:=0.69
+Last Trade:=0.69
+Days Range:=0.69 &ndash; 0.69
+
+(crdn)
+52 Week Range:= 19.82 - 53.56
+Open:= 38.17
+EPS:=1.90
+P/E:=20.23
+Change:=+0.20 (0.52%)
+Volume:=165472
+Prev Close:=38.24
+Last Trade:=38.44
+Days Range:=37.82 &ndash; 38.89
+
+(cree)
+52 Week Range:= 32.40 - 76.14
+Open:= 33.70
+EPS:=1.63
+P/E:=20.13
+Change:=-1.05 (-3.12%)
+Volume:=3354768
+Prev Close:=33.86
+Last Trade:=32.81
+Days Range:=32.52 &ndash; 33.90
+
+(crmt)
+52 Week Range:= 20.40 - 33.88
+Open:= 33.68
+EPS:=2.54
+P/E:=13.44
+Change:=+0.55 (1.63%)
+Volume:=99632
+Prev Close:=33.58
+Last Trade:=34.13
+Days Range:=33.68 &ndash; 34.17
+
+(crn)
+52 Week Range:= 17.61 - 29.46
+Open:= 0.04
+EPS:=1.37
+P/E:=21.50
+Change:=+0.00 (0.00%)
+Volume:=716617
+Prev Close:=29.45
+Last Trade:=29.45
+Days Range:=29.45 &ndash; 29.45
+
+(crrc)
+52 Week Range:= 10.41 - 16.89
+Open:= 11.00
+EPS:=-0.01
+P/E:=N/A
+Change:=-0.05 (-0.45%)
+Volume:=19072
+Prev Close:=11.05
+Last Trade:=11.00
+Days Range:=10.85 &ndash; 11.07
+
+(crs)
+52 Week Range:= 30.17 - 59.04
+Open:= 57.96
+EPS:=1.15
+P/E:=50.59
+Change:=+0.27 (0.47%)
+Volume:=459379
+Prev Close:=57.91
+Last Trade:=58.18
+Days Range:=57.79 &ndash; 58.78
+
+(csco)
+52 Week Range:= 14.78 - 26.00
+Open:= 15.87
+EPS:=1.28
+P/E:=12.24
+Change:=-0.19 (-1.20%)
+Volume:=43186628
+Prev Close:=15.86
+Last Trade:=15.67
+Days Range:=15.55 &ndash; 15.92
+
+(csgp)
+52 Week Range:= 37.50 - 73.43
+Open:= 59.35
+EPS:=0.72
+P/E:=82.64
+Change:=+0.25 (0.42%)
+Volume:=71542
+Prev Close:=59.25
+Last Trade:=59.50
+Days Range:=59.15 &ndash; 59.92
+
+(cstr)
+52 Week Range:= 37.80 - 67.56
+Open:= 55.32
+EPS:=2.19
+P/E:=25.79
+Change:=+1.14 (2.06%)
+Volume:=722708
+Prev Close:=55.34
+Last Trade:=56.48
+Days Range:=54.88 &ndash; 56.58
+
+(csu)
+52 Week Range:= 4.73 - 10.82
+Open:= 9.69
+EPS:=0.18
+P/E:=54.44
+Change:=+0.15 (1.55%)
+Volume:=111805
+Prev Close:=9.65
+Last Trade:=9.80
+Days Range:=9.55 &ndash; 9.83
+
+(cswc)
+52 Week Range:= 85.03 - 112.37
+Open:= 94.00
+EPS:=25.96
+P/E:=3.72
+Change:=+2.49 (2.65%)
+Volume:=9720
+Prev Close:=94.14
+Last Trade:=96.63
+Days Range:=93.88 &ndash; 96.76
+
+(ctas)
+52 Week Range:= 23.50 - 34.10
+Open:= 33.78
+EPS:=1.55
+P/E:=21.82
+Change:=-0.15 (-0.44%)
+Volume:=1190136
+Prev Close:=33.97
+Last Trade:=33.82
+Days Range:=33.44 &ndash; 34.03
+
+(ctgx)
+52 Week Range:= 6.23 - 15.00
+Open:= 12.53
+EPS:=0.58
+P/E:=21.76
+Change:=+0.15 (1.20%)
+Volume:=44134
+Prev Close:=12.47
+Last Trade:=12.62
+Days Range:=12.21 &ndash; 12.83
+
+(ctl)
+52 Week Range:= 32.92 - 46.87
+Open:= 40.98
+EPS:=2.98
+P/E:=13.76
+Change:=-0.03 (-0.07%)
+Volume:=2933685
+Prev Close:=41.03
+Last Trade:=41.00
+Days Range:=40.69 &ndash; 41.14
+
+(ctrp)
+52 Week Range:= 31.35 - 53.16
+Open:= 43.43
+EPS:=0.00
+P/E:=N/A
+Change:=+0.10 (0.23%)
+Volume:=2420035
+Prev Close:=44.05
+Last Trade:=44.15
+Days Range:=43.07 &ndash; 44.64
+
+(ctsh)
+52 Week Range:= 48.98 - 83.48
+Open:= 74.54
+EPS:=2.55
+P/E:=29.67
+Change:=+0.87 (1.17%)
+Volume:=1825715
+Prev Close:=74.80
+Last Trade:=75.67
+Days Range:=74.34 &ndash; 75.71
+
+(ctxs)
+52 Week Range:= 41.62 - 88.49
+Open:= 80.74
+EPS:=1.59
+P/E:=51.00
+Change:=+0.31 (0.38%)
+Volume:=1152599
+Prev Close:=80.78
+Last Trade:=81.09
+Days Range:=79.93 &ndash; 81.49
+
+(cvo)
+52 Week Range:= 4.80 - 6.95
+Open:= 6.45
+EPS:=-2.80
+P/E:=N/A
+Change:=-0.03 (-0.47%)
+Volume:=185808
+Prev Close:=6.44
+Last Trade:=6.41
+Days Range:=6.25 &ndash; 6.47
+
+(cvx)
+52 Week Range:= 66.86 - 109.94
+Open:= 104.11
+EPS:=10.30
+P/E:=10.21
+Change:=+1.05 (1.01%)
+Volume:=6607100
+Prev Close:=104.09
+Last Trade:=105.14
+Days Range:=104.11 &ndash; 105.76
+
+(cxs)
+52 Week Range:= 10.19 - 13.51
+Open:= 11.35
+EPS:=0.79
+P/E:=14.15
+Change:=-0.10 (-0.88%)
+Volume:=607480
+Prev Close:=11.28
+Last Trade:=11.18
+Days Range:=11.05 &ndash; 11.36
+
+(cyh)
+52 Week Range:= 22.33 - 42.50
+Open:= 26.15
+EPS:=3.05
+P/E:=8.44
+Change:=-0.47 (-1.80%)
+Volume:=855903
+Prev Close:=26.20
+Last Trade:=25.73
+Days Range:=25.57 &ndash; 26.38
+
+(cyn)
+52 Week Range:= 47.19 - 63.71
+Open:= 55.26
+EPS:=2.91
+P/E:=18.89
+Change:=-0.47 (-0.85%)
+Volume:=409259
+Prev Close:=55.44
+Last Trade:=54.97
+Days Range:=54.63 &ndash; 55.74
+
+(cypb)
+52 Week Range:= 2.06 - 6.55
+Open:= 6.38
+EPS:=-1.34
+P/E:=N/A
+Change:=+0.00 (0.00%)
+Volume:=81205
+Prev Close:=6.50
+Last Trade:=6.50
+Days Range:=6.50 &ndash; 6.50
+
+(cytk)
+52 Week Range:= 1.12 - 2.96
+Open:= 1.21
+EPS:=-0.76
+P/E:=N/A
+Change:=+0.02 (1.65%)
+Volume:=354363
+Prev Close:=1.21
+Last Trade:=1.23
+Days Range:=1.20 &ndash; 1.25
+
+(cytr)
+52 Week Range:= 0.62 - 1.11
+Open:= 0.76
+EPS:=-0.04
+P/E:=N/A
+Change:=+0.03 (3.95%)
+Volume:=1083340
+Prev Close:=0.68
+Last Trade:=0.71
+Days Range:=0.70 &ndash; 0.76
+
+(dakt)
+52 Week Range:= 7.30 - 17.30
+Open:= 10.88
+EPS:=0.34
+P/E:=33.00
+Change:=+0.30 (2.76%)
+Volume:=147065
+Prev Close:=10.92
+Last Trade:=11.22
+Days Range:=10.70 &ndash; 11.23
+
+(dal)
+52 Week Range:= 8.91 - 14.54
+Open:= 9.37
+EPS:=0.62
+P/E:=14.71
+Change:=-0.17 (-1.81%)
+Volume:=10994912
+Prev Close:=9.29
+Last Trade:=9.12
+Days Range:=9.11 &ndash; 9.41
+
+(dar)
+52 Week Range:= 7.00 - 19.62
+Open:= 17.11
+EPS:=0.83
+P/E:=20.75
+Change:=+0.25 (1.46%)
+Volume:=1529082
+Prev Close:=16.97
+Last Trade:=17.22
+Days Range:=16.78 &ndash; 17.41
+
+(dbd)
+52 Week Range:= 25.00 - 37.12
+Open:= 31.68
+EPS:=-0.64
+P/E:=N/A
+Change:=+0.06 (0.19%)
+Volume:=303175
+Prev Close:=31.61
+Last Trade:=31.67
+Days Range:=31.52 &ndash; 31.88
+
+(dbtk)
+52 Week Range:= 7.51 - 11.14
+Open:= 17.52
+EPS:=0.58
+P/E:=18.19
+Change:=+0.00 (0.00%)
+Volume:=328103
+Prev Close:=10.55
+Last Trade:=10.55
+Days Range:=10.55 &ndash; 10.55
+
+(dd)
+52 Week Range:= 33.73 - 56.88
+Open:= 54.36
+EPS:=3.57
+P/E:=15.25
+Change:=-0.03 (-0.06%)
+Volume:=4217382
+Prev Close:=54.47
+Last Trade:=54.44
+Days Range:=54.36 &ndash; 54.90
+
+(ddic)
+52 Week Range:= 7.24 - 12.35
+Open:= 9.58
+EPS:=1.05
+P/E:=9.02
+Change:=-0.10 (-1.04%)
+Volume:=104715
+Prev Close:=9.57
+Last Trade:=9.47
+Days Range:=9.29 &ndash; 9.60
+
+(ddmx)
+52 Week Range:= 12.05 - 25.40
+Open:= 0.20
+EPS:=0.92
+P/E:=27.16
+Change:=+0.00 (0.00%)
+Volume:=1000
+Prev Close:=24.99
+Last Trade:=24.99
+Days Range:=24.99 &ndash; 24.99
+
+(de)
+52 Week Range:= 53.92 - 99.80
+Open:= 84.76
+EPS:=5.83
+P/E:=14.55
+Change:=+0.30 (0.35%)
+Volume:=4812694
+Prev Close:=84.54
+Last Trade:=84.84
+Days Range:=84.50 &ndash; 85.97
+
+(deck)
+52 Week Range:= 42.92 - 142.69
+Open:= 89.85
+EPS:=4.06
+P/E:=22.35
+Change:=+0.72 (0.80%)
+Volume:=737114
+Prev Close:=90.03
+Last Trade:=90.75
+Days Range:=88.60 &ndash; 91.00
+
+(dei)
+52 Week Range:= 13.10 - 21.08
+Open:= 20.28
+EPS:=-0.15
+P/E:=N/A
+Change:=+0.15 (0.74%)
+Volume:=1149953
+Prev Close:=20.26
+Last Trade:=20.41
+Days Range:=20.11 &ndash; 20.44
+
+(dell)
+52 Week Range:= 11.34 - 17.00
+Open:= 16.94
+EPS:=1.67
+P/E:=10.17
+Change:=+0.00 (0.00%)
+Volume:=18073560
+Prev Close:=16.98
+Last Trade:=16.98
+Days Range:=16.93 &ndash; 17.15
+
+(dest)
+52 Week Range:= 15.66 - 46.48
+Open:= 20.49
+EPS:=1.84
+P/E:=11.25
+Change:=+0.22 (1.07%)
+Volume:=119170
+Prev Close:=20.48
+Last Trade:=20.70
+Days Range:=20.21 &ndash; 20.72
+
+(dfz)
+52 Week Range:= 9.48 - 13.35
+Open:= 11.43
+EPS:=0.60
+P/E:=19.05
+Change:=-0.01 (-0.09%)
+Volume:=4490
+Prev Close:=11.44
+Last Trade:=11.43
+Days Range:=11.18 &ndash; 11.43
+
+(dgi)
+52 Week Range:= 23.31 - 33.16
+Open:= 25.74
+EPS:=0.04
+P/E:=640.75
+Change:=-0.13 (-0.51%)
+Volume:=274194
+Prev Close:=25.76
+Last Trade:=25.63
+Days Range:=25.43 &ndash; 25.85
+
+(dhil)
+52 Week Range:= 50.52 - 86.15
+Open:= 81.58
+EPS:=4.78
+P/E:=17.30
+Change:=+0.13 (0.16%)
+Volume:=4103
+Prev Close:=82.58
+Last Trade:=82.71
+Days Range:=81.58 &ndash; 82.71
+
+(dhr)
+52 Week Range:= 35.24 - 56.09
+Open:= 54.32
+EPS:=2.80
+P/E:=19.42
+Change:=-0.14 (-0.26%)
+Volume:=2917732
+Prev Close:=54.52
+Last Trade:=54.38
+Days Range:=53.88 &ndash; 54.59
+
+(dis)
+52 Week Range:= 30.72 - 44.34
+Open:= 39.77
+EPS:=2.27
+P/E:=17.61
+Change:=+0.26 (0.65%)
+Volume:=8617692
+Prev Close:=39.72
+Last Trade:=39.98
+Days Range:=39.60 &ndash; 40.18
+
+(dk)
+52 Week Range:= 6.22 - 15.90
+Open:= 15.78
+EPS:=-0.89
+P/E:=N/A
+Change:=-0.12 (-0.76%)
+Volume:=188686
+Prev Close:=15.76
+Last Trade:=15.64
+Days Range:=15.35 &ndash; 15.86
+
+(dlb)
+52 Week Range:= 41.44 - 70.14
+Open:= 43.05
+EPS:=2.60
+P/E:=16.11
+Change:=-1.26 (-2.93%)
+Volume:=693692
+Prev Close:=43.15
+Last Trade:=41.89
+Days Range:=41.67 &ndash; 43.08
+
+(dllr)
+52 Week Range:= 14.90 - 32.47
+Open:= 21.70
+EPS:=1.13
+P/E:=19.43
+Change:=+0.36 (1.66%)
+Volume:=347841
+Prev Close:=21.60
+Last Trade:=21.96
+Days Range:=21.58 &ndash; 22.13
+
+(dltr)
+52 Week Range:= 40.60 - 68.50
+Open:= 68.67
+EPS:=3.44
+P/E:=20.12
+Change:=+0.98 (1.43%)
+Volume:=1255529
+Prev Close:=68.23
+Last Trade:=69.21
+Days Range:=68.10 &ndash; 69.45
+
+(dm)
+52 Week Range:= 8.19 - 15.00
+Open:= 8.43
+EPS:=0.92
+P/E:=9.05
+Change:=-0.07 (-0.83%)
+Volume:=135908
+Prev Close:=8.40
+Last Trade:=8.33
+Days Range:=8.28 &ndash; 8.56
+
+(dmrc)
+52 Week Range:= 18.07 - 36.55
+Open:= 36.01
+EPS:=0.14
+P/E:=257.29
+Change:=+0.01 (0.03%)
+Volume:=28933
+Prev Close:=36.01
+Last Trade:=36.02
+Days Range:=35.88 &ndash; 36.50
+
+(dnbk)
+52 Week Range:= 14.50 - 22.63
+Open:= 0.00
+EPS:=0.86
+P/E:=25.31
+Change:=+0.00 (0.00%)
+Volume:=230000
+Prev Close:=21.77
+Last Trade:=21.77
+Days Range:=21.77 &ndash; 21.77
+
+(dndn)
+52 Week Range:= 25.78 - 43.96
+Open:= 41.41
+EPS:=-3.01
+P/E:=N/A
+Change:=+0.24 (0.58%)
+Volume:=1884587
+Prev Close:=41.40
+Last Trade:=41.64
+Days Range:=40.77 &ndash; 41.74
+
+(dnr)
+52 Week Range:= 14.02 - 26.03
+Open:= 20.06
+EPS:=0.38
+P/E:=53.24
+Change:=+0.18 (0.90%)
+Volume:=2794157
+Prev Close:=20.05
+Last Trade:=20.23
+Days Range:=20.03 &ndash; 20.46
+
+(drc)
+52 Week Range:= 30.40 - 55.88
+Open:= 54.31
+EPS:=1.53
+P/E:=35.98
+Change:=+0.63 (1.16%)
+Volume:=760876
+Prev Close:=54.42
+Last Trade:=55.05
+Days Range:=54.19 &ndash; 55.27
+
+(dri)
+52 Week Range:= 37.08 - 53.63
+Open:= 53.19
+EPS:=3.23
+P/E:=16.56
+Change:=+0.69 (1.30%)
+Volume:=2895178
+Prev Close:=52.79
+Last Trade:=53.48
+Days Range:=52.40 &ndash; 53.70
+
+(driv)
+52 Week Range:= 23.96 - 39.85
+Open:= 32.50
+EPS:=0.40
+P/E:=81.78
+Change:=+0.15 (0.46%)
+Volume:=221462
+Prev Close:=32.56
+Last Trade:=32.71
+Days Range:=32.41 &ndash; 32.94
+
+(drl)
+52 Week Range:= 1.03 - 3.39
+Open:= 2.09
+EPS:=0.00
+P/E:=N/A
+Change:=+0.11 (5.26%)
+Volume:=1249948
+Prev Close:=2.08
+Last Trade:=2.19
+Days Range:=2.05 &ndash; 2.31
+
+(dtsi)
+52 Week Range:= 31.48 - 50.57
+Open:= 40.77
+EPS:=0.94
+P/E:=43.21
+Change:=-0.14 (-0.34%)
+Volume:=97829
+Prev Close:=40.76
+Last Trade:=40.62
+Days Range:=40.50 &ndash; 41.04
+
+(dtv)
+52 Week Range:= 33.44 - 51.84
+Open:= 51.85
+EPS:=2.73
+P/E:=19.05
+Change:=+0.25 (0.48%)
+Volume:=4199239
+Prev Close:=51.76
+Last Trade:=52.01
+Days Range:=51.61 &ndash; 52.39
+
+(dva)
+52 Week Range:= 56.58 - 89.42
+Open:= 87.51
+EPS:=3.87
+P/E:=22.75
+Change:=+0.85 (0.97%)
+Volume:=979732
+Prev Close:=87.20
+Last Trade:=88.05
+Days Range:=87.51 &ndash; 89.01
+
+(dvn)
+52 Week Range:= 59.07 - 93.56
+Open:= 78.54
+EPS:=3.79
+P/E:=21.06
+Change:=+1.04 (1.32%)
+Volume:=2794600
+Prev Close:=78.76
+Last Trade:=79.80
+Days Range:=78.49 &ndash; 80.43
+
+(dvox)
+52 Week Range:= 3.80 - 16.80
+Open:= 7.47
+EPS:=0.04
+P/E:=192.75
+Change:=+0.21 (2.81%)
+Volume:=48212
+Prev Close:=7.50
+Last Trade:=7.71
+Days Range:=7.47 &ndash; 7.85
+
+(dw)
+52 Week Range:= 17.89 - 26.78
+Open:= 25.05
+EPS:=1.35
+P/E:=18.27
+Change:=-0.44 (-1.76%)
+Volume:=81413
+Prev Close:=25.11
+Last Trade:=24.67
+Days Range:=24.23 &ndash; 25.15
+
+(dwa)
+52 Week Range:= 19.81 - 37.74
+Open:= 20.83
+EPS:=1.82
+P/E:=11.35
+Change:=-0.10 (-0.48%)
+Volume:=1423749
+Prev Close:=20.76
+Last Trade:=20.66
+Days Range:=20.24 &ndash; 20.92
+
+(dxpe)
+52 Week Range:= 14.84 - 26.71
+Open:= 25.95
+EPS:=1.48
+P/E:=17.61
+Change:=+0.01 (0.04%)
+Volume:=30520
+Prev Close:=26.05
+Last Trade:=26.06
+Days Range:=25.62 &ndash; 26.30
+
+(dy)
+52 Week Range:= 7.30 - 18.23
+Open:= 16.49
+EPS:=0.20
+P/E:=83.20
+Change:=+0.16 (0.97%)
+Volume:=207603
+Prev Close:=16.48
+Last Trade:=16.64
+Days Range:=16.34 &ndash; 16.75
+
+(dyn)
+52 Week Range:= 2.76 - 6.67
+Open:= 6.25
+EPS:=-3.80
+P/E:=N/A
+Change:=+0.00 (0.00%)
+Volume:=881918
+Prev Close:=6.25
+Last Trade:=6.25
+Days Range:=6.14 &ndash; 6.27
+
+(ebay)
+52 Week Range:= 19.16 - 35.35
+Open:= 32.75
+EPS:=1.42
+P/E:=22.99
+Change:=-0.10 (-0.31%)
+Volume:=8881649
+Prev Close:=32.74
+Last Trade:=32.64
+Days Range:=32.37 &ndash; 32.88
+
+(ebsb)
+52 Week Range:= 9.85 - 14.30
+Open:= 13.68
+EPS:=0.63
+P/E:=21.98
+Change:=+0.15 (1.10%)
+Volume:=8270
+Prev Close:=13.70
+Last Trade:=13.85
+Days Range:=13.57 &ndash; 13.86
+
+(ecpg)
+52 Week Range:= 16.70 - 33.16
+Open:= 31.04
+EPS:=2.06
+P/E:=15.05
+Change:=-0.08 (-0.26%)
+Volume:=83794
+Prev Close:=31.09
+Last Trade:=31.01
+Days Range:=30.89 &ndash; 31.78
+
+(edr)
+52 Week Range:= 5.87 - 8.78
+Open:= 8.76
+EPS:=-0.28
+P/E:=N/A
+Change:=+0.07 (0.80%)
+Volume:=535167
+Prev Close:=8.76
+Last Trade:=8.83
+Days Range:=8.75 &ndash; 8.85
+
+(eeft)
+52 Week Range:= 12.65 - 20.25
+Open:= 15.74
+EPS:=-0.47
+P/E:=N/A
+Change:=-0.03 (-0.19%)
+Volume:=114304
+Prev Close:=15.69
+Last Trade:=15.66
+Days Range:=15.59 &ndash; 15.80
+
+(egn)
+52 Week Range:= 42.09 - 65.02
+Open:= 57.48
+EPS:=3.72
+P/E:=15.59
+Change:=+0.59 (1.03%)
+Volume:=390123
+Prev Close:=57.40
+Last Trade:=57.99
+Days Range:=57.26 &ndash; 58.36
+
+(egov)
+52 Week Range:= 6.31 - 13.80
+Open:= 13.53
+EPS:=0.31
+P/E:=44.03
+Change:=+0.13 (0.96%)
+Volume:=316611
+Prev Close:=13.52
+Last Trade:=13.65
+Days Range:=13.47 &ndash; 13.68
+
+(egy)
+52 Week Range:= 5.07 - 8.40
+Open:= 6.15
+EPS:=0.74
+P/E:=8.36
+Change:=+0.04 (0.65%)
+Volume:=523189
+Prev Close:=6.15
+Last Trade:=6.19
+Days Range:=6.09 &ndash; 6.33
+
+(ek)
+52 Week Range:= 2.75 - 5.95
+Open:= 3.11
+EPS:=-3.87
+P/E:=N/A
+Change:=-0.14 (-4.50%)
+Volume:=12970282
+Prev Close:=3.07
+Last Trade:=2.93
+Days Range:=2.93 &ndash; 3.12
+
+(elos)
+52 Week Range:= 7.60 - 14.92
+Open:= 12.21
+EPS:=0.00
+P/E:=N/A
+Change:=+0.01 (0.08%)
+Volume:=114369
+Prev Close:=12.18
+Last Trade:=12.19
+Days Range:=12.12 &ndash; 12.26
+
+(els)
+52 Week Range:= 46.61 - 64.92
+Open:= 64.03
+EPS:=1.36
+P/E:=47.86
+Change:=+1.25 (1.95%)
+Volume:=289645
+Prev Close:=63.84
+Last Trade:=65.09
+Days Range:=63.51 &ndash; 65.15
+
+(endp)
+52 Week Range:= 21.97 - 44.53
+Open:= 40.67
+EPS:=2.14
+P/E:=19.10
+Change:=+0.22 (0.54%)
+Volume:=663672
+Prev Close:=40.66
+Last Trade:=40.88
+Days Range:=40.31 &ndash; 40.94
+
+(enh)
+52 Week Range:= 35.62 - 50.65
+Open:= 41.63
+EPS:=0.00
+P/E:=N/A
+Change:=-0.60 (-1.44%)
+Volume:=234689
+Prev Close:=41.50
+Last Trade:=40.90
+Days Range:=40.85 &ndash; 41.63
+
+(enoc)
+52 Week Range:= 15.30 - 36.75
+Open:= 15.93
+EPS:=0.14
+P/E:=112.93
+Change:=-0.09 (-0.56%)
+Volume:=147240
+Prev Close:=15.90
+Last Trade:=15.81
+Days Range:=15.61 &ndash; 15.99
+
+(ens)
+52 Week Range:= 20.93 - 40.32
+Open:= 35.26
+EPS:=2.27
+P/E:=15.48
+Change:=-0.06 (-0.17%)
+Volume:=449886
+Prev Close:=35.21
+Last Trade:=35.15
+Days Range:=34.99 &ndash; 35.37
+
+(ep)
+52 Week Range:= 10.87 - 21.54
+Open:= 20.44
+EPS:=0.58
+P/E:=35.31
+Change:=+0.05 (0.24%)
+Volume:=6208870
+Prev Close:=20.43
+Last Trade:=20.48
+Days Range:=20.30 &ndash; 20.75
+
+(epax)
+52 Week Range:= 8.55 - 12.29
+Open:= 8.76
+EPS:=0.32
+P/E:=27.50
+Change:=-0.08 (-0.91%)
+Volume:=17911
+Prev Close:=8.88
+Last Trade:=8.80
+Days Range:=8.67 &ndash; 8.82
+
+(epic)
+52 Week Range:= 6.36 - 12.72
+Open:= 14.92
+EPS:=-0.13
+P/E:=N/A
+Change:=+0.00 (0.00%)
+Volume:=878773
+Prev Close:=12.50
+Last Trade:=12.50
+Days Range:=12.50 &ndash; 12.50
+
+(epl)
+52 Week Range:= 9.61 - 18.56
+Open:= 15.07
+EPS:=-0.71
+P/E:=N/A
+Change:=+0.20 (1.33%)
+Volume:=238447
+Prev Close:=15.05
+Last Trade:=15.25
+Days Range:=14.98 &ndash; 15.87
+
+(epm)
+52 Week Range:= 4.10 - 8.80
+Open:= 7.04
+EPS:=-0.05
+P/E:=N/A
+Change:=+0.31 (4.40%)
+Volume:=56641
+Prev Close:=7.05
+Last Trade:=7.36
+Days Range:=7.04 &ndash; 7.40
+
+(eqy)
+52 Week Range:= 14.58 - 20.09
+Open:= 19.03
+EPS:=0.69
+P/E:=27.78
+Change:=+0.14 (0.74%)
+Volume:=517169
+Prev Close:=19.03
+Last Trade:=19.17
+Days Range:=18.97 &ndash; 19.21
+
+(erie)
+52 Week Range:= 44.29 - 72.95
+Open:= 70.36
+EPS:=2.81
+P/E:=25.20
+Change:=+0.13 (0.18%)
+Volume:=49347
+Prev Close:=70.69
+Last Trade:=70.82
+Days Range:=70.24 &ndash; 71.19
+
+(erts)
+52 Week Range:= 14.30 - 24.79
+Open:= 24.25
+EPS:=-0.84
+P/E:=N/A
+Change:=+0.13 (0.54%)
+Volume:=4971940
+Prev Close:=24.19
+Last Trade:=24.32
+Days Range:=24.15 &ndash; 24.84
+
+(ese)
+52 Week Range:= 24.55 - 43.15
+Open:= 37.31
+EPS:=2.33
+P/E:=16.12
+Change:=+0.19 (0.51%)
+Volume:=114166
+Prev Close:=37.37
+Last Trade:=37.56
+Days Range:=37.16 &ndash; 37.84
+
+(esgr)
+52 Week Range:= 65.56 - 114.56
+Open:= 106.00
+EPS:=0.00
+P/E:=N/A
+Change:=-1.95 (-1.84%)
+Volume:=15593
+Prev Close:=106.04
+Last Trade:=104.09
+Days Range:=103.81 &ndash; 106.00
+
+(esl)
+52 Week Range:= 43.58 - 78.26
+Open:= 78.57
+EPS:=5.30
+P/E:=14.87
+Change:=+0.80 (1.02%)
+Volume:=158375
+Prev Close:=78.01
+Last Trade:=78.81
+Days Range:=78.12 &ndash; 79.00
+
+(esrx)
+52 Week Range:= 41.55 - 60.89
+Open:= 53.79
+EPS:=2.35
+P/E:=22.83
+Change:=-0.30 (-0.56%)
+Volume:=5369656
+Prev Close:=53.96
+Last Trade:=53.66
+Days Range:=53.38 &ndash; 53.98
+
+(ess)
+52 Week Range:= 92.62 - 138.31
+Open:= 137.77
+EPS:=0.95
+P/E:=146.24
+Change:=+1.34 (0.97%)
+Volume:=201276
+Prev Close:=137.59
+Last Trade:=138.93
+Days Range:=136.79 &ndash; 139.09
+
+(etm)
+52 Week Range:= 4.97 - 13.63
+Open:= 9.20
+EPS:=1.15
+P/E:=7.61
+Change:=-0.47 (-5.11%)
+Volume:=141202
+Prev Close:=9.22
+Last Trade:=8.75
+Days Range:=8.52 &ndash; 9.20
+
+(evr)
+52 Week Range:= 21.02 - 37.26
+Open:= 33.61
+EPS:=0.45
+P/E:=74.33
+Change:=-0.15 (-0.45%)
+Volume:=192431
+Prev Close:=33.60
+Last Trade:=33.45
+Days Range:=33.24 &ndash; 33.66
+
+(exas)
+52 Week Range:= 3.15 - 9.24
+Open:= 8.46
+EPS:=-0.30
+P/E:=N/A
+Change:=+0.30 (3.55%)
+Volume:=538370
+Prev Close:=8.48
+Last Trade:=8.78
+Days Range:=8.40 &ndash; 8.79
+
+(exbd)
+52 Week Range:= 24.94 - 45.24
+Open:= 44.20
+EPS:=1.16
+P/E:=25.47
+Change:=+0.00 (0.00%)
+Volume:=168639
+Prev Close:=29.54
+Last Trade:=29.54
+Days Range:=29.54 &ndash; 29.54
+
+(exls)
+52 Week Range:= 15.96 - 24.75
+Open:= 23.62
+EPS:=0.97
+P/E:=23.91
+Change:=-0.38 (-1.61%)
+Volume:=60038
+Prev Close:=23.57
+Last Trade:=23.19
+Days Range:=22.85 &ndash; 23.68
+
+(exp)
+52 Week Range:= 21.16 - 33.22
+Open:= 28.30
+EPS:=0.34
+P/E:=82.65
+Change:=-0.21 (-0.74%)
+Volume:=157579
+Prev Close:=28.31
+Last Trade:=28.10
+Days Range:=27.75 &ndash; 28.35
+
+(expd)
+52 Week Range:= 33.65 - 57.15
+Open:= 52.41
+EPS:=1.73
+P/E:=30.21
+Change:=-0.16 (-0.31%)
+Volume:=1165662
+Prev Close:=52.43
+Last Trade:=52.27
+Days Range:=51.86 &ndash; 52.51
+
+(expe)
+52 Week Range:= 18.30 - 29.85
+Open:= 29.49
+EPS:=1.46
+P/E:=20.50
+Change:=+0.39 (1.32%)
+Volume:=4704485
+Prev Close:=29.54
+Last Trade:=29.93
+Days Range:=29.26 &ndash; 29.95
+
+(exxi)
+52 Week Range:= 14.76 - 37.20
+Open:= 33.97
+EPS:=0.00
+P/E:=N/A
+Change:=+0.59 (1.74%)
+Volume:=790021
+Prev Close:=34.08
+Last Trade:=34.67
+Days Range:=33.77 &ndash; 35.10
+
+(fast)
+52 Week Range:= 30.93 - 69.75
+Open:= 36.70
+EPS:=0.98
+P/E:=37.34
+Change:=-0.06 (-0.16%)
+Volume:=1934881
+Prev Close:=36.65
+Last Trade:=36.59
+Days Range:=36.31 &ndash; 36.73
+
+(fbn)
+52 Week Range:= 3.74 - 6.28
+Open:= 4.20
+EPS:=-0.88
+P/E:=N/A
+Change:=-0.11 (-2.62%)
+Volume:=225886
+Prev Close:=4.19
+Last Trade:=4.08
+Days Range:=4.08 &ndash; 4.20
+
+(fbnc)
+52 Week Range:= 9.82 - 16.90
+Open:= 10.40
+EPS:=0.47
+P/E:=22.47
+Change:=+0.14 (1.35%)
+Volume:=17797
+Prev Close:=10.42
+Last Trade:=10.56
+Days Range:=10.40 &ndash; 10.57
+
+(fbp)
+52 Week Range:= 0.24 - 7.50
+Open:= 4.21
+EPS:=0.00
+P/E:=N/A
+Change:=-0.03 (-0.71%)
+Volume:=211196
+Prev Close:=4.27
+Last Trade:=4.24
+Days Range:=4.12 &ndash; 4.29
+
+(fcel)
+52 Week Range:= 0.98 - 2.41
+Open:= 1.37
+EPS:=-0.60
+P/E:=N/A
+Change:=+0.06 (4.38%)
+Volume:=1346634
+Prev Close:=1.34
+Last Trade:=1.40
+Days Range:=1.35 &ndash; 1.44
+
+(fcnca)
+52 Week Range:= 165.36 - 208.55
+Open:= 191.66
+EPS:=14.29
+P/E:=13.11
+Change:=-2.77 (-1.45%)
+Volume:=5346
+Prev Close:=190.17
+Last Trade:=187.40
+Days Range:=187.40 &ndash; 191.66
+
+(fcs)
+52 Week Range:= 7.71 - 20.99
+Open:= 17.48
+EPS:=1.35
+P/E:=12.83
+Change:=-0.06 (-0.34%)
+Volume:=1788037
+Prev Close:=17.38
+Last Trade:=17.32
+Days Range:=16.89 &ndash; 17.50
+
+(fcx)
+52 Week Range:= 46.06 - 122.69
+Open:= 53.52
+EPS:=2.86
+P/E:=18.75
+Change:=+0.12 (0.22%)
+Volume:=15678362
+Prev Close:=53.50
+Last Trade:=53.62
+Days Range:=53.15 &ndash; 53.98
+
+(fdx)
+52 Week Range:= 70.06 - 98.52
+Open:= 96.17
+EPS:=4.57
+P/E:=20.90
+Change:=-1.02 (-1.06%)
+Volume:=1869514
+Prev Close:=96.52
+Last Trade:=95.50
+Days Range:=95.20 &ndash; 96.25
+
+(feic)
+52 Week Range:= 16.51 - 41.56
+Open:= 39.03
+EPS:=1.76
+P/E:=22.15
+Change:=+0.12 (0.31%)
+Volume:=347168
+Prev Close:=38.86
+Last Trade:=38.98
+Days Range:=38.27 &ndash; 39.32
+
+(ffic)
+52 Week Range:= 10.51 - 15.15
+Open:= 13.13
+EPS:=1.27
+P/E:=10.39
+Change:=+0.08 (0.61%)
+Volume:=68332
+Prev Close:=13.12
+Last Trade:=13.20
+Days Range:=13.01 &ndash; 13.21
+
+(ffiv)
+52 Week Range:= 67.97 - 145.76
+Open:= 113.01
+EPS:=2.45
+P/E:=46.33
+Change:=+0.35 (0.31%)
+Volume:=1328037
+Prev Close:=113.16
+Last Trade:=113.51
+Days Range:=111.37 &ndash; 113.83
+
+(fisv)
+52 Week Range:= 44.85 - 64.89
+Open:= 63.76
+EPS:=3.31
+P/E:=19.34
+Change:=+0.28 (0.44%)
+Volume:=970649
+Prev Close:=63.75
+Last Trade:=64.03
+Days Range:=63.44 &ndash; 64.14
+
+(flex)
+52 Week Range:= 4.86 - 8.50
+Open:= 6.47
+EPS:=0.00
+P/E:=N/A
+Change:=-0.05 (-0.77%)
+Volume:=2655479
+Prev Close:=6.60
+Last Trade:=6.55
+Days Range:=6.47 &ndash; 6.69
+
+(flir)
+52 Week Range:= 24.00 - 37.29
+Open:= 34.20
+EPS:=1.51
+P/E:=22.54
+Change:=-0.16 (-0.47%)
+Volume:=916943
+Prev Close:=34.20
+Last Trade:=34.04
+Days Range:=33.90 &ndash; 34.21
+
+(flo)
+52 Week Range:= 21.54 - 33.43
+Open:= 22.33
+EPS:=1.01
+P/E:=22.15
+Change:=+0.12 (0.54%)
+Volume:=735536
+Prev Close:=22.25
+Last Trade:=22.37
+Days Range:=22.09 &ndash; 22.48
+
+(flr)
+52 Week Range:= 41.21 - 75.76
+Open:= 64.27
+EPS:=2.00
+P/E:=32.33
+Change:=+0.56 (0.87%)
+Volume:=2899799
+Prev Close:=64.09
+Last Trade:=64.65
+Days Range:=63.69 &ndash; 65.65
+
+(fls)
+52 Week Range:= 85.48 - 135.72
+Open:= 110.91
+EPS:=7.17
+P/E:=15.40
+Change:=-0.55 (-0.50%)
+Volume:=468246
+Prev Close:=110.97
+Last Trade:=110.42
+Days Range:=110.02 &ndash; 111.83
+
+(flws)
+52 Week Range:= 1.52 - 3.84
+Open:= 3.12
+EPS:=0.04
+P/E:=80.00
+Change:=+0.06 (1.92%)
+Volume:=91399
+Prev Close:=3.14
+Last Trade:=3.20
+Days Range:=3.05 &ndash; 3.21
+
+(fmbi)
+52 Week Range:= 9.26 - 13.48
+Open:= 12.50
+EPS:=-0.25
+P/E:=N/A
+Change:=-0.19 (-1.52%)
+Volume:=285533
+Prev Close:=12.53
+Last Trade:=12.34
+Days Range:=12.22 &ndash; 12.51
+
+(fmc)
+52 Week Range:= 55.64 - 89.06
+Open:= 87.46
+EPS:=3.10
+P/E:=28.40
+Change:=+0.51 (0.58%)
+Volume:=534069
+Prev Close:=87.53
+Last Trade:=88.04
+Days Range:=87.11 &ndash; 88.70
+
+(fmd)
+52 Week Range:= 1.31 - 2.90
+Open:= 1.78
+EPS:=-0.61
+P/E:=N/A
+Change:=+0.00 (0.00%)
+Volume:=107803
+Prev Close:=1.78
+Last Trade:=1.78
+Days Range:=1.71 &ndash; 1.78
+
+(fnsr)
+52 Week Range:= 11.98 - 46.09
+Open:= 18.78
+EPS:=1.00
+P/E:=18.55
+Change:=-0.28 (-1.49%)
+Volume:=3098883
+Prev Close:=18.83
+Last Trade:=18.55
+Days Range:=18.44 &ndash; 18.92
+
+(fosl)
+52 Week Range:= 35.49 - 122.00
+Open:= 122.58
+EPS:=4.10
+P/E:=29.91
+Change:=+0.67 (0.55%)
+Volume:=824405
+Prev Close:=121.96
+Last Trade:=122.63
+Days Range:=121.28 &ndash; 123.47
+
+(frx)
+52 Week Range:= 26.92 - 40.52
+Open:= 40.24
+EPS:=3.59
+P/E:=11.03
+Change:=-0.56 (-1.39%)
+Volume:=4084880
+Prev Close:=40.17
+Last Trade:=39.61
+Days Range:=39.54 &ndash; 40.34
+
+(fsii)
+52 Week Range:= 2.22 - 5.41
+Open:= 2.88
+EPS:=0.44
+P/E:=6.52
+Change:=-0.01 (-0.35%)
+Volume:=346217
+Prev Close:=2.88
+Last Trade:=2.87
+Days Range:=2.81 &ndash; 2.92
+
+(fslr)
+52 Week Range:= 111.40 - 175.45
+Open:= 132.03
+EPS:=7.01
+P/E:=18.84
+Change:=-0.97 (-0.73%)
+Volume:=963640
+Prev Close:=133.06
+Last Trade:=132.09
+Days Range:=131.21 &ndash; 133.21
+
+(fsp)
+52 Week Range:= 10.99 - 15.63
+Open:= 13.23
+EPS:=0.22
+P/E:=60.68
+Change:=+0.12 (0.91%)
+Volume:=256924
+Prev Close:=13.23
+Last Trade:=13.35
+Days Range:=12.90 &ndash; 13.61
+
+(fst)
+52 Week Range:= 24.56 - 40.23
+Open:= 27.25
+EPS:=1.00
+P/E:=28.15
+Change:=+0.97 (3.56%)
+Volume:=4036529
+Prev Close:=27.18
+Last Trade:=28.15
+Days Range:=27.20 &ndash; 28.18
+
+(fsys)
+52 Week Range:= 22.54 - 42.65
+Open:= 25.32
+EPS:=0.66
+P/E:=37.11
+Change:=-0.78 (-3.08%)
+Volume:=138093
+Prev Close:=25.27
+Last Trade:=24.49
+Days Range:=24.41 &ndash; 25.37
+
+(fto)
+52 Week Range:= 11.38 - 33.58
+Open:= 34.78
+EPS:=2.07
+P/E:=15.61
+Change:=+0.00 (0.00%)
+Volume:=51535
+Prev Close:=32.31
+Last Trade:=32.31
+Days Range:=32.31 &ndash; 32.31
+
+(ftr)
+52 Week Range:= 6.99 - 9.84
+Open:= 8.20
+EPS:=0.24
+P/E:=33.79
+Change:=-0.09 (-1.10%)
+Volume:=9446220
+Prev Close:=8.20
+Last Trade:=8.11
+Days Range:=8.07 &ndash; 8.20
+
+(fwrd)
+52 Week Range:= 22.39 - 35.53
+Open:= 34.39
+EPS:=1.26
+P/E:=27.54
+Change:=+0.26 (0.76%)
+Volume:=123523
+Prev Close:=34.44
+Last Trade:=34.70
+Days Range:=34.10 &ndash; 34.75
+
+(g)
+52 Week Range:= 13.09 - 18.71
+Open:= 17.31
+EPS:=0.00
+P/E:=N/A
+Change:=+0.16 (0.92%)
+Volume:=508572
+Prev Close:=17.39
+Last Trade:=17.55
+Days Range:=17.12 &ndash; 17.56
+
+(gain)
+52 Week Range:= 5.50 - 8.55
+Open:= 7.22
+EPS:=0.74
+P/E:=9.76
+Change:=+0.00 (0.00%)
+Volume:=87100
+Prev Close:=7.22
+Last Trade:=7.22
+Days Range:=7.15 &ndash; 7.28
+
+(gbdc)
+52 Week Range:= 13.62 - 17.99
+Open:= 15.16
+EPS:=0.96
+P/E:=15.81
+Change:=+0.07 (0.46%)
+Volume:=59754
+Prev Close:=15.11
+Last Trade:=15.18
+Days Range:=14.92 &ndash; 15.18
+
+(gbl)
+52 Week Range:= 33.63 - 51.79
+Open:= 46.83
+EPS:=2.67
+P/E:=17.46
+Change:=-0.23 (-0.49%)
+Volume:=7489
+Prev Close:=46.85
+Last Trade:=46.62
+Days Range:=45.99 &ndash; 46.83
+
+(gd)
+52 Week Range:= 55.46 - 78.27
+Open:= 75.54
+EPS:=6.93
+P/E:=10.81
+Change:=-0.91 (-1.20%)
+Volume:=1879498
+Prev Close:=75.81
+Last Trade:=74.90
+Days Range:=74.42 &ndash; 75.81
+
+(ge)
+52 Week Range:= 13.75 - 21.65
+Open:= 19.22
+EPS:=1.25
+P/E:=15.24
+Change:=-0.15 (-0.78%)
+Volume:=38345395
+Prev Close:=19.20
+Last Trade:=19.05
+Days Range:=18.91 &ndash; 19.25
+
+(gef)
+52 Week Range:= 54.10 - 67.57
+Open:= 65.86
+EPS:=4.94
+P/E:=13.40
+Change:=+0.46 (0.70%)
+Volume:=94898
+Prev Close:=65.76
+Last Trade:=66.22
+Days Range:=65.11 &ndash; 66.26
+
+(geoi)
+52 Week Range:= 13.01 - 32.94
+Open:= 23.24
+EPS:=1.12
+P/E:=21.29
+Change:=+0.68 (2.93%)
+Volume:=300249
+Prev Close:=23.16
+Last Trade:=23.84
+Days Range:=23.16 &ndash; 24.15
+
+(get)
+52 Week Range:= 21.66 - 38.22
+Open:= 31.40
+EPS:=-1.94
+P/E:=N/A
+Change:=-0.15 (-0.48%)
+Volume:=276582
+Prev Close:=31.41
+Last Trade:=31.26
+Days Range:=31.00 &ndash; 31.44
+
+(ggp)
+52 Week Range:= 12.23 - 18.27
+Open:= 16.77
+EPS:=-2.16
+P/E:=N/A
+Change:=+0.23 (1.37%)
+Volume:=3224900
+Prev Close:=16.72
+Last Trade:=16.95
+Days Range:=16.66 &ndash; 16.99
+
+(ggs)
+52 Week Range:= 5.86 - 19.12
+Open:= 17.52
+EPS:=-0.75
+P/E:=N/A
+Change:=+0.19 (1.08%)
+Volume:=328103
+Prev Close:=17.62
+Last Trade:=17.81
+Days Range:=17.46 &ndash; 17.97
+
+(gild)
+52 Week Range:= 31.73 - 42.93
+Open:= 41.88
+EPS:=3.19
+P/E:=13.03
+Change:=-0.38 (-0.91%)
+Volume:=4245630
+Prev Close:=41.95
+Last Trade:=41.57
+Days Range:=41.43 &ndash; 41.99
+
+(gksr)
+52 Week Range:= 19.28 - 34.90
+Open:= 34.39
+EPS:=2.00
+P/E:=17.56
+Change:=+0.55 (1.60%)
+Volume:=78216
+Prev Close:=34.56
+Last Trade:=35.11
+Days Range:=34.18 &ndash; 35.12
+
+(glad)
+52 Week Range:= 9.22 - 12.73
+Open:= 9.31
+EPS:=-0.20
+P/E:=N/A
+Change:=-0.04 (-0.43%)
+Volume:=54980
+Prev Close:=9.34
+Last Trade:=9.30
+Days Range:=9.28 &ndash; 9.34
+
+(glng)
+52 Week Range:= 9.42 - 36.83
+Open:= 36.83
+EPS:=0.00
+P/E:=N/A
+Change:=+0.95 (2.58%)
+Volume:=741588
+Prev Close:=36.20
+Last Trade:=37.15
+Days Range:=36.73 &ndash; 37.33
+
+(gmcr)
+52 Week Range:= 25.38 - 90.94
+Open:= 90.48
+EPS:=0.77
+P/E:=119.44
+Change:=+1.62 (1.79%)
+Volume:=2002394
+Prev Close:=90.35
+Last Trade:=91.97
+Days Range:=90.35 &ndash; 92.97
+
+(gmt)
+52 Week Range:= 25.40 - 42.67
+Open:= 38.55
+EPS:=1.74
+P/E:=21.91
+Change:=-0.43 (-1.12%)
+Volume:=213110
+Prev Close:=38.55
+Last Trade:=38.12
+Days Range:=37.95 &ndash; 38.60
+
+(gntx)
+52 Week Range:= 16.69 - 35.35
+Open:= 30.92
+EPS:=1.03
+P/E:=29.94
+Change:=+0.06 (0.19%)
+Volume:=359376
+Prev Close:=30.78
+Last Trade:=30.84
+Days Range:=30.46 &ndash; 31.00
+
+(goog)
+52 Week Range:= 433.63 - 642.96
+Open:= 525.30
+EPS:=25.76
+P/E:=20.67
+Change:=+11.41 (2.17%)
+Volume:=3786899
+Prev Close:=521.03
+Last Trade:=532.44
+Days Range:=525.30 &ndash; 535.40
+
+(gps)
+52 Week Range:= 16.62 - 23.73
+Open:= 18.34
+EPS:=1.83
+P/E:=9.93
+Change:=-0.11 (-0.60%)
+Volume:=6076758
+Prev Close:=18.28
+Last Trade:=18.17
+Days Range:=18.14 &ndash; 18.50
+
+(grb)
+52 Week Range:= 4.64 - 11.18
+Open:= 11.14
+EPS:=-0.27
+P/E:=N/A
+Change:=-0.06 (-0.54%)
+Volume:=106165
+Prev Close:=11.17
+Last Trade:=11.11
+Days Range:=11.06 &ndash; 11.17
+
+(grmn)
+52 Week Range:= 26.11 - 36.42
+Open:= 33.71
+EPS:=0.00
+P/E:=N/A
+Change:=-0.33 (-0.98%)
+Volume:=990163
+Prev Close:=33.58
+Last Trade:=33.25
+Days Range:=32.96 &ndash; 33.71
+
+(gsat)
+52 Week Range:= 1.00 - 1.95
+Open:= 1.21
+EPS:=-0.24
+P/E:=N/A
+Change:=-0.03 (-2.48%)
+Volume:=366037
+Prev Close:=1.22
+Last Trade:=1.19
+Days Range:=1.16 &ndash; 1.23
+
+(gsbc)
+52 Week Range:= 16.69 - 24.60
+Open:= 18.87
+EPS:=1.48
+P/E:=12.70
+Change:=-0.01 (-0.05%)
+Volume:=30916
+Prev Close:=18.80
+Last Trade:=18.79
+Days Range:=18.46 &ndash; 18.87
+
+(gsm)
+52 Week Range:= 9.73 - 24.80
+Open:= 24.00
+EPS:=0.57
+P/E:=41.12
+Change:=-0.10 (-0.42%)
+Volume:=1338077
+Prev Close:=23.54
+Last Trade:=23.44
+Days Range:=23.40 &ndash; 24.12
+
+(gti)
+52 Week Range:= 13.87 - 23.89
+Open:= 20.86
+EPS:=1.33
+P/E:=16.03
+Change:=+0.31 (1.49%)
+Volume:=1380359
+Prev Close:=21.01
+Last Trade:=21.32
+Days Range:=20.86 &ndash; 21.39
+
+(gty)
+52 Week Range:= 21.01 - 32.20
+Open:= 25.24
+EPS:=1.67
+P/E:=15.37
+Change:=+0.42 (1.66%)
+Volume:=176588
+Prev Close:=25.25
+Last Trade:=25.67
+Days Range:=25.15 &ndash; 25.73
+
+(gymb)
+52 Week Range:= 37.26 - 65.41
+Open:= 4.80
+EPS:=3.79
+P/E:=17.26
+Change:=+0.00 (0.00%)
+Volume:=57944
+Prev Close:=65.40
+Last Trade:=65.40
+Days Range:=65.40 &ndash; 65.40
+
+(hafc)
+52 Week Range:= 0.78 - 1.74
+Open:= 1.18
+EPS:=-0.31
+P/E:=N/A
+Change:=+0.07 (5.93%)
+Volume:=3057906
+Prev Close:=1.18
+Last Trade:=1.25
+Days Range:=1.15 &ndash; 1.27
+
+(hal)
+52 Week Range:= 25.03 - 51.45
+Open:= 51.20
+EPS:=2.29
+P/E:=22.77
+Change:=+0.86 (1.68%)
+Volume:=10630404
+Prev Close:=51.29
+Last Trade:=52.15
+Days Range:=50.97 &ndash; 52.50
+
+(halo)
+52 Week Range:= 5.79 - 8.31
+Open:= 7.05
+EPS:=-0.53
+P/E:=N/A
+Change:=+0.10 (1.42%)
+Volume:=373348
+Prev Close:=7.02
+Last Trade:=7.12
+Days Range:=6.96 &ndash; 7.12
+
+(hans)
+52 Week Range:= 39.33 - 83.93
+Open:= 83.94
+EPS:=2.53
+P/E:=32.49
+Change:=-1.44 (-1.72%)
+Volume:=1096594
+Prev Close:=83.63
+Last Trade:=82.19
+Days Range:=81.96 &ndash; 84.00
+
+(hbcp)
+52 Week Range:= 12.34 - 16.19
+Open:= 15.24
+EPS:=0.62
+P/E:=23.61
+Change:=-0.06 (-0.39%)
+Volume:=6911
+Prev Close:=14.70
+Last Trade:=14.64
+Days Range:=14.57 &ndash; 15.24
+
+(hckt)
+52 Week Range:= 2.70 - 5.21
+Open:= 5.10
+EPS:=0.35
+P/E:=14.71
+Change:=+0.07 (1.37%)
+Volume:=217623
+Prev Close:=5.08
+Last Trade:=5.15
+Days Range:=5.01 &ndash; 5.20
+
+(hcp)
+52 Week Range:= 31.08 - 40.75
+Open:= 37.11
+EPS:=0.86
+P/E:=43.60
+Change:=+0.27 (0.73%)
+Volume:=2254870
+Prev Close:=37.23
+Last Trade:=37.50
+Days Range:=36.90 &ndash; 37.56
+
+(hd)
+52 Week Range:= 18.00 - 39.38
+Open:= 36.63
+EPS:=2.09
+P/E:=17.51
+Change:=-0.14 (-0.38%)
+Volume:=9233069
+Prev Close:=36.73
+Last Trade:=36.59
+Days Range:=36.43 &ndash; 36.85
+
+(he)
+52 Week Range:= 21.77 - 26.40
+Open:= 24.53
+EPS:=1.22
+P/E:=20.00
+Change:=-0.12 (-0.49%)
+Volume:=299705
+Prev Close:=24.52
+Last Trade:=24.40
+Days Range:=24.35 &ndash; 24.60
+
+(hees)
+52 Week Range:= 6.60 - 20.40
+Open:= 14.59
+EPS:=-0.57
+P/E:=N/A
+Change:=-0.29 (-1.99%)
+Volume:=68973
+Prev Close:=14.57
+Last Trade:=14.28
+Days Range:=14.15 &ndash; 14.75
+
+(hele)
+52 Week Range:= 21.00 - 35.29
+Open:= 34.87
+EPS:=0.00
+P/E:=N/A
+Change:=+0.04 (0.11%)
+Volume:=177383
+Prev Close:=34.99
+Last Trade:=35.03
+Days Range:=34.79 &ndash; 35.39
+
+(hgr)
+52 Week Range:= 13.01 - 28.47
+Open:= 25.15
+EPS:=0.71
+P/E:=35.61
+Change:=+0.12 (0.48%)
+Volume:=137226
+Prev Close:=25.16
+Last Trade:=25.28
+Days Range:=24.93 &ndash; 25.67
+
+(hgsi)
+52 Week Range:= 21.55 - 30.48
+Open:= 24.97
+EPS:=-1.67
+P/E:=N/A
+Change:=-0.34 (-1.36%)
+Volume:=1691648
+Prev Close:=24.96
+Last Trade:=24.62
+Days Range:=24.40 &ndash; 24.98
+
+(hhgp)
+52 Week Range:= 2.93 - 7.11
+Open:= 5.38
+EPS:=-0.15
+P/E:=N/A
+Change:=-0.12 (-2.23%)
+Volume:=29266
+Prev Close:=5.37
+Last Trade:=5.25
+Days Range:=5.09 &ndash; 5.38
+
+(hibb)
+52 Week Range:= 22.09 - 41.67
+Open:= 41.72
+EPS:=1.78
+P/E:=23.26
+Change:=-0.17 (-0.41%)
+Volume:=331074
+Prev Close:=41.57
+Last Trade:=41.40
+Days Range:=40.42 &ndash; 41.74
+
+(hig)
+52 Week Range:= 18.81 - 31.08
+Open:= 26.93
+EPS:=3.45
+P/E:=7.68
+Change:=-0.54 (-2.01%)
+Volume:=4212702
+Prev Close:=27.05
+Last Trade:=26.51
+Days Range:=26.27 &ndash; 27.03
+
+(hk)
+52 Week Range:= 14.32 - 27.45
+Open:= 25.34
+EPS:=0.26
+P/E:=97.73
+Change:=+0.05 (0.20%)
+Volume:=3394493
+Prev Close:=25.36
+Last Trade:=25.41
+Days Range:=25.19 &ndash; 25.81
+
+(hls)
+52 Week Range:= 16.20 - 28.50
+Open:= 26.81
+EPS:=8.49
+P/E:=3.15
+Change:=-0.08 (-0.30%)
+Volume:=479944
+Prev Close:=26.84
+Last Trade:=26.76
+Days Range:=26.47 &ndash; 26.84
+
+(hma)
+52 Week Range:= 6.13 - 11.74
+Open:= 10.98
+EPS:=0.68
+P/E:=16.01
+Change:=-0.07 (-0.64%)
+Volume:=1997912
+Prev Close:=10.96
+Last Trade:=10.89
+Days Range:=10.74 &ndash; 11.05
+
+(hme)
+52 Week Range:= 42.56 - 63.72
+Open:= 62.72
+EPS:=0.67
+P/E:=94.79
+Change:=+0.72 (1.15%)
+Volume:=359740
+Prev Close:=62.79
+Last Trade:=63.51
+Days Range:=62.09 &ndash; 63.55
+
+(hmsy)
+52 Week Range:= 50.58 - 84.82
+Open:= 78.00
+EPS:=1.48
+P/E:=52.89
+Change:=+0.29 (0.37%)
+Volume:=117544
+Prev Close:=77.98
+Last Trade:=78.27
+Days Range:=77.78 &ndash; 78.71
+
+(hog)
+52 Week Range:= 21.26 - 43.15
+Open:= 42.21
+EPS:=1.32
+P/E:=32.46
+Change:=+0.76 (1.80%)
+Volume:=3287069
+Prev Close:=42.09
+Last Trade:=42.85
+Days Range:=41.95 &ndash; 43.04
+
+(hott)
+52 Week Range:= 4.58 - 8.03
+Open:= 7.59
+EPS:=-0.31
+P/E:=N/A
+Change:=+0.08 (1.05%)
+Volume:=1207018
+Prev Close:=7.61
+Last Trade:=7.69
+Days Range:=7.51 &ndash; 7.72
+
+(hp)
+52 Week Range:= 35.56 - 70.47
+Open:= 67.23
+EPS:=3.25
+P/E:=20.76
+Change:=-0.01 (-0.01%)
+Volume:=1190574
+Prev Close:=67.47
+Last Trade:=67.46
+Days Range:=66.98 &ndash; 67.87
+
+(hpq)
+52 Week Range:= 33.95 - 49.39
+Open:= 36.78
+EPS:=4.06
+P/E:=8.98
+Change:=-0.58 (-1.58%)
+Volume:=15484502
+Prev Close:=37.05
+Last Trade:=36.47
+Days Range:=36.27 &ndash; 37.00
+
+(hpt)
+52 Week Range:= 18.99 - 25.94
+Open:= 24.85
+EPS:=0.04
+P/E:=623.00
+Change:=+0.07 (0.28%)
+Volume:=688512
+Prev Close:=24.85
+Last Trade:=24.92
+Days Range:=24.56 &ndash; 24.97
+
+(hpy)
+52 Week Range:= 13.48 - 22.06
+Open:= 20.88
+EPS:=0.72
+P/E:=28.63
+Change:=-0.27 (-1.29%)
+Volume:=188687
+Prev Close:=20.88
+Last Trade:=20.61
+Days Range:=20.49 &ndash; 21.05
+
+(hrg)
+52 Week Range:= 4.28 - 6.71
+Open:= 6.09
+EPS:=-1.16
+P/E:=N/A
+Change:=-0.01 (-0.16%)
+Volume:=17582
+Prev Close:=6.08
+Last Trade:=6.07
+Days Range:=6.00 &ndash; 6.09
+
+(hrs)
+52 Week Range:= 40.83 - 53.34
+Open:= 45.26
+EPS:=4.70
+P/E:=9.54
+Change:=-0.71 (-1.57%)
+Volume:=989006
+Prev Close:=45.55
+Last Trade:=44.84
+Days Range:=44.58 &ndash; 45.26
+
+(hrz)
+52 Week Range:= 0.83 - 5.95
+Open:= 1.17
+EPS:=-2.15
+P/E:=N/A
+Change:=-0.04 (-3.42%)
+Volume:=757968
+Prev Close:=1.16
+Last Trade:=1.12
+Days Range:=1.11 &ndash; 1.20
+
+(hsic)
+52 Week Range:= 50.96 - 74.48
+Open:= 73.30
+EPS:=3.65
+P/E:=20.03
+Change:=+0.18 (0.25%)
+Volume:=309594
+Prev Close:=72.94
+Last Trade:=73.12
+Days Range:=72.55 &ndash; 73.30
+
+(hsp)
+52 Week Range:= 49.51 - 60.49
+Open:= 55.45
+EPS:=2.15
+P/E:=25.18
+Change:=-1.54 (-2.78%)
+Volume:=3199037
+Prev Close:=55.67
+Last Trade:=54.13
+Days Range:=53.52 &ndash; 55.45
+
+(ht)
+52 Week Range:= 4.16 - 6.94
+Open:= 5.74
+EPS:=-0.14
+P/E:=N/A
+Change:=-0.01 (-0.17%)
+Volume:=732077
+Prev Close:=5.74
+Last Trade:=5.73
+Days Range:=5.68 &ndash; 5.77
+
+(htgc)
+52 Week Range:= 9.07 - 11.55
+Open:= 10.60
+EPS:=-0.08
+P/E:=N/A
+Change:=+0.01 (0.09%)
+Volume:=133909
+Prev Close:=10.55
+Last Trade:=10.56
+Days Range:=10.44 &ndash; 10.73
+
+(hts)
+52 Week Range:= 26.73 - 31.98
+Open:= 28.71
+EPS:=4.06
+P/E:=7.07
+Change:=-0.01 (-0.03%)
+Volume:=690165
+Prev Close:=28.71
+Last Trade:=28.70
+Days Range:=28.51 &ndash; 28.72
+
+(hurn)
+52 Week Range:= 17.30 - 31.63
+Open:= 30.55
+EPS:=0.65
+P/E:=47.57
+Change:=+0.42 (1.37%)
+Volume:=58035
+Prev Close:=30.50
+Last Trade:=30.92
+Days Range:=30.44 &ndash; 30.92
+
+(hwkn)
+52 Week Range:= 24.51 - 50.18
+Open:= 36.86
+EPS:=1.96
+P/E:=18.45
+Change:=-0.81 (-2.20%)
+Volume:=36701
+Prev Close:=36.97
+Last Trade:=36.16
+Days Range:=35.82 &ndash; 37.76
+
+(iaci)
+52 Week Range:= 21.47 - 38.37
+Open:= 37.96
+EPS:=0.34
+P/E:=114.91
+Change:=+1.03 (2.71%)
+Volume:=1248533
+Prev Close:=38.04
+Last Trade:=39.07
+Days Range:=37.78 &ndash; 39.39
+
+(ibm)
+52 Week Range:= 110.00 - 174.65
+Open:= 173.52
+EPS:=11.88
+P/E:=14.76
+Change:=+0.75 (0.43%)
+Volume:=4031592
+Prev Close:=174.54
+Last Trade:=175.29
+Days Range:=173.52 &ndash; 175.40
+
+(iboc)
+52 Week Range:= 15.11 - 21.20
+Open:= 17.21
+EPS:=1.75
+P/E:=9.73
+Change:=-0.21 (-1.22%)
+Volume:=140276
+Prev Close:=17.23
+Last Trade:=17.02
+Days Range:=16.79 &ndash; 17.22
+
+(icge)
+52 Week Range:= 7.20 - 14.50
+Open:= 12.50
+EPS:=0.89
+P/E:=14.16
+Change:=+0.04 (0.32%)
+Volume:=106690
+Prev Close:=12.56
+Last Trade:=12.60
+Days Range:=12.30 &ndash; 12.64
+
+(icog)
+52 Week Range:= 1.20 - 3.26
+Open:= 2.93
+EPS:=1.19
+P/E:=2.49
+Change:=+0.04 (1.37%)
+Volume:=248591
+Prev Close:=2.92
+Last Trade:=2.96
+Days Range:=2.83 &ndash; 2.96
+
+(idti)
+52 Week Range:= 4.82 - 8.74
+Open:= 8.01
+EPS:=0.47
+P/E:=17.06
+Change:=-0.05 (-0.62%)
+Volume:=1140722
+Prev Close:=8.07
+Last Trade:=8.02
+Days Range:=7.91 &ndash; 8.07
+
+(idxx)
+52 Week Range:= 54.80 - 82.91
+Open:= 78.51
+EPS:=2.44
+P/E:=32.15
+Change:=-0.22 (-0.28%)
+Volume:=219173
+Prev Close:=78.67
+Last Trade:=78.45
+Days Range:=77.84 &ndash; 78.90
+
+(ihs)
+52 Week Range:= 57.76 - 89.87
+Open:= 83.57
+EPS:=2.22
+P/E:=37.81
+Change:=+0.05 (0.06%)
+Volume:=136918
+Prev Close:=83.88
+Last Trade:=83.93
+Days Range:=83.48 &ndash; 84.07
+
+(iilg)
+52 Week Range:= 11.61 - 17.94
+Open:= 13.97
+EPS:=0.69
+P/E:=20.25
+Change:=-0.03 (-0.21%)
+Volume:=191849
+Prev Close:=14.00
+Last Trade:=13.97
+Days Range:=13.70 &ndash; 14.10
+
+(iivi)
+52 Week Range:= 24.35 - 59.92
+Open:= 26.01
+EPS:=1.21
+P/E:=22.06
+Change:=+0.78 (3.00%)
+Volume:=352631
+Prev Close:=25.91
+Last Trade:=26.69
+Days Range:=26.01 &ndash; 26.87
+
+(ikan)
+52 Week Range:= 0.86 - 2.00
+Open:= 1.22
+EPS:=-0.83
+P/E:=N/A
+Change:=+0.02 (1.64%)
+Volume:=128301
+Prev Close:=1.20
+Last Trade:=1.22
+Days Range:=1.22 &ndash; 1.28
+
+(ilmn)
+52 Week Range:= 41.16 - 76.81
+Open:= 76.25
+EPS:=0.87
+P/E:=89.46
+Change:=+1.82 (2.39%)
+Volume:=2337807
+Prev Close:=76.01
+Last Trade:=77.83
+Days Range:=75.36 &ndash; 78.43
+
+(im)
+52 Week Range:= 14.72 - 21.63
+Open:= 18.33
+EPS:=1.87
+P/E:=9.61
+Change:=-0.32 (-1.75%)
+Volume:=2951580
+Prev Close:=18.29
+Last Trade:=17.97
+Days Range:=17.91 &ndash; 18.38
+
+(ima)
+52 Week Range:= 25.36 - 44.87
+Open:= 26.68
+EPS:=0.00
+P/E:=N/A
+Change:=+0.00 (0.00%)
+Volume:=829533
+Prev Close:=26.68
+Last Trade:=26.68
+Days Range:=26.56 &ndash; 27.70
+
+(imgn)
+52 Week Range:= 4.96 - 14.10
+Open:= 12.35
+EPS:=-0.83
+P/E:=N/A
+Change:=-0.16 (-1.30%)
+Volume:=325600
+Prev Close:=12.37
+Last Trade:=12.21
+Days Range:=11.94 &ndash; 12.40
+
+(imn)
+52 Week Range:= 8.41 - 12.36
+Open:= 9.54
+EPS:=-4.32
+P/E:=N/A
+Change:=-0.06 (-0.63%)
+Volume:=67122
+Prev Close:=9.53
+Last Trade:=9.47
+Days Range:=9.40 &ndash; 9.58
+
+(in)
+52 Week Range:= 9.51 - 13.08
+Open:= 11.03
+EPS:=-0.13
+P/E:=N/A
+Change:=+0.09 (0.82%)
+Volume:=249561
+Prev Close:=11.01
+Last Trade:=11.10
+Days Range:=10.98 &ndash; 11.19
+
+(inap)
+52 Week Range:= 3.90 - 8.56
+Open:= 7.28
+EPS:=-0.10
+P/E:=N/A
+Change:=+0.12 (1.65%)
+Volume:=217663
+Prev Close:=7.28
+Last Trade:=7.40
+Days Range:=7.19 &ndash; 7.47
+
+(indm)
+52 Week Range:= 4.94 - 10.18
+Open:= 10.60
+EPS:=0.00
+P/E:=N/A
+Change:=+0.00 (0.00%)
+Volume:=67950
+Prev Close:=7.23
+Last Trade:=7.23
+Days Range:=7.23 &ndash; 7.23
+
+(infi)
+52 Week Range:= 4.42 - 8.34
+Open:= 8.20
+EPS:=-1.64
+P/E:=N/A
+Change:=+0.17 (2.07%)
+Volume:=69299
+Prev Close:=8.24
+Last Trade:=8.41
+Days Range:=8.11 &ndash; 8.43
+
+(infy)
+52 Week Range:= 56.73 - 77.92
+Open:= 66.50
+EPS:=0.00
+P/E:=N/A
+Change:=+0.65 (0.98%)
+Volume:=1119781
+Prev Close:=66.07
+Last Trade:=66.72
+Days Range:=66.10 &ndash; 66.75
+
+(ino)
+52 Week Range:= 0.56 - 1.56
+Open:= 0.63
+EPS:=-0.16
+P/E:=N/A
+Change:=+0.05 (7.94%)
+Volume:=2383142
+Prev Close:=0.61
+Last Trade:=0.66
+Days Range:=0.63 &ndash; 0.69
+
+(intc)
+52 Week Range:= 17.60 - 23.96
+Open:= 22.69
+EPS:=2.15
+P/E:=10.44
+Change:=-0.09 (-0.40%)
+Volume:=32697347
+Prev Close:=22.53
+Last Trade:=22.44
+Days Range:=22.36 &ndash; 22.69
+
+(intu)
+52 Week Range:= 34.06 - 56.46
+Open:= 52.29
+EPS:=2.07
+P/E:=25.29
+Change:=+0.12 (0.23%)
+Volume:=2019115
+Prev Close:=52.24
+Last Trade:=52.36
+Days Range:=51.99 &ndash; 52.70
+
+(io)
+52 Week Range:= 3.33 - 13.92
+Open:= 9.88
+EPS:=0.24
+P/E:=42.08
+Change:=+0.21 (2.13%)
+Volume:=1678471
+Prev Close:=9.89
+Last Trade:=10.10
+Days Range:=9.78 &ndash; 10.19
+
+(ipcc)
+52 Week Range:= 45.01 - 64.42
+Open:= 55.23
+EPS:=6.71
+P/E:=8.27
+Change:=+0.03 (0.05%)
+Volume:=23076
+Prev Close:=55.46
+Last Trade:=55.49
+Days Range:=55.05 &ndash; 55.72
+
+(ipcm)
+52 Week Range:= 22.66 - 52.25
+Open:= 47.28
+EPS:=1.58
+P/E:=30.08
+Change:=+0.38 (0.80%)
+Volume:=102614
+Prev Close:=47.14
+Last Trade:=47.52
+Days Range:=46.98 &ndash; 48.10
+
+(ipg)
+52 Week Range:= 6.86 - 13.35
+Open:= 12.68
+EPS:=0.49
+P/E:=26.02
+Change:=+0.04 (0.32%)
+Volume:=7182389
+Prev Close:=12.71
+Last Trade:=12.75
+Days Range:=12.64 &ndash; 12.87
+
+(ipgp)
+52 Week Range:= 13.93 - 78.59
+Open:= 74.41
+EPS:=1.53
+P/E:=49.59
+Change:=+0.63 (0.85%)
+Volume:=493946
+Prev Close:=75.25
+Last Trade:=75.88
+Days Range:=73.66 &ndash; 76.07
+
+(ipi)
+52 Week Range:= 19.73 - 40.22
+Open:= 32.59
+EPS:=0.83
+P/E:=38.98
+Change:=-0.12 (-0.37%)
+Volume:=726349
+Prev Close:=32.47
+Last Trade:=32.35
+Days Range:=31.98 &ndash; 32.77
+
+(ipxl)
+52 Week Range:= 14.70 - 28.75
+Open:= 21.87
+EPS:=2.01
+P/E:=10.64
+Change:=-0.47 (-2.15%)
+Volume:=721134
+Prev Close:=21.86
+Last Trade:=21.39
+Days Range:=21.33 &ndash; 21.93
+
+(ir)
+52 Week Range:= 32.42 - 52.33
+Open:= 46.92
+EPS:=0.00
+P/E:=N/A
+Change:=-1.22 (-2.60%)
+Volume:=3843300
+Prev Close:=47.06
+Last Trade:=45.84
+Days Range:=45.69 &ndash; 47.00
+
+(irc)
+52 Week Range:= 7.17 - 9.99
+Open:= 8.92
+EPS:=-0.02
+P/E:=N/A
+Change:=+0.09 (1.01%)
+Volume:=247345
+Prev Close:=8.92
+Last Trade:=9.01
+Days Range:=8.86 &ndash; 9.01
+
+(irm)
+52 Week Range:= 19.93 - 35.50
+Open:= 34.30
+EPS:=-0.03
+P/E:=N/A
+Change:=+0.24 (0.70%)
+Volume:=1650438
+Prev Close:=34.39
+Last Trade:=34.63
+Days Range:=34.20 &ndash; 34.78
+
+(isis)
+52 Week Range:= 7.59 - 10.63
+Open:= 9.26
+EPS:=-0.72
+P/E:=N/A
+Change:=-0.27 (-2.92%)
+Volume:=560135
+Prev Close:=9.30
+Last Trade:=9.03
+Days Range:=8.95 &ndash; 9.27
+
+(isrg)
+52 Week Range:= 246.05 - 379.40
+Open:= 379.00
+EPS:=9.94
+P/E:=38.37
+Change:=+2.72 (0.72%)
+Volume:=278467
+Prev Close:=378.65
+Last Trade:=381.37
+Days Range:=376.00 &ndash; 382.96
+
+(isrl)
+52 Week Range:= 47.66 - 91.43
+Open:= 66.13
+EPS:=-3.10
+P/E:=N/A
+Change:=+0.50 (0.76%)
+Volume:=779
+Prev Close:=66.10
+Last Trade:=66.60
+Days Range:=65.47 &ndash; 66.60
+
+(itc)
+52 Week Range:= 51.65 - 74.67
+Open:= 73.13
+EPS:=2.98
+P/E:=24.22
+Change:=-0.58 (-0.79%)
+Volume:=235085
+Prev Close:=72.75
+Last Trade:=72.17
+Days Range:=71.97 &ndash; 73.13
+
+(itri)
+52 Week Range:= 46.17 - 67.58
+Open:= 48.71
+EPS:=2.56
+P/E:=19.30
+Change:=+0.56 (1.15%)
+Volume:=557632
+Prev Close:=48.84
+Last Trade:=49.40
+Days Range:=48.63 &ndash; 49.71
+
+(ivac)
+52 Week Range:= 8.97 - 15.39
+Open:= 10.16
+EPS:=0.85
+P/E:=11.84
+Change:=-0.11 (-1.08%)
+Volume:=47883
+Prev Close:=10.17
+Last Trade:=10.06
+Days Range:=9.99 &ndash; 10.39
+
+(ivc)
+52 Week Range:= 19.58 - 33.95
+Open:= 33.82
+EPS:=0.91
+P/E:=37.25
+Change:=+0.10 (0.30%)
+Volume:=96578
+Prev Close:=33.80
+Last Trade:=33.90
+Days Range:=33.76 &ndash; 34.00
+
+(ivz)
+52 Week Range:= 16.37 - 29.94
+Open:= 23.48
+EPS:=0.00
+P/E:=N/A
+Change:=-0.16 (-0.68%)
+Volume:=3696175
+Prev Close:=23.56
+Last Trade:=23.40
+Days Range:=23.29 &ndash; 23.55
+
+(ixys)
+52 Week Range:= 8.00 - 15.98
+Open:= 15.03
+EPS:=1.14
+P/E:=13.37
+Change:=+0.20 (1.33%)
+Volume:=105464
+Prev Close:=15.04
+Last Trade:=15.24
+Days Range:=14.93 &ndash; 15.27
+
+(jakk)
+52 Week Range:= 13.17 - 21.21
+Open:= 18.77
+EPS:=1.21
+P/E:=15.49
+Change:=+0.02 (0.11%)
+Volume:=108726
+Prev Close:=18.72
+Last Trade:=18.74
+Days Range:=18.44 &ndash; 18.84
+
+(jazz)
+52 Week Range:= 7.51 - 34.97
+Open:= 34.94
+EPS:=1.23
+P/E:=28.98
+Change:=+0.84 (2.40%)
+Volume:=1043525
+Prev Close:=34.80
+Last Trade:=35.64
+Days Range:=33.93 &ndash; 36.47
+
+(jbht)
+52 Week Range:= 32.03 - 48.53
+Open:= 47.70
+EPS:=1.67
+P/E:=28.48
+Change:=-0.18 (-0.38%)
+Volume:=503001
+Prev Close:=47.74
+Last Trade:=47.56
+Days Range:=47.28 &ndash; 47.83
+
+(jcp)
+52 Week Range:= 19.42 - 41.00
+Open:= 35.08
+EPS:=1.62
+P/E:=21.21
+Change:=-0.67 (-1.91%)
+Volume:=4706905
+Prev Close:=35.03
+Last Trade:=34.36
+Days Range:=34.05 &ndash; 35.19
+
+(jec)
+52 Week Range:= 34.39 - 55.73
+Open:= 43.32
+EPS:=1.91
+P/E:=22.54
+Change:=-0.30 (-0.69%)
+Volume:=666129
+Prev Close:=43.35
+Last Trade:=43.05
+Days Range:=42.81 &ndash; 43.37
+
+(jll)
+52 Week Range:= 61.83 - 107.84
+Open:= 95.26
+EPS:=3.50
+P/E:=27.40
+Change:=+0.81 (0.85%)
+Volume:=173331
+Prev Close:=95.10
+Last Trade:=95.91
+Days Range:=94.95 &ndash; 96.66
+
+(jnj)
+52 Week Range:= 56.86 - 67.37
+Open:= 67.29
+EPS:=4.41
+P/E:=15.34
+Change:=+0.36 (0.53%)
+Volume:=8711927
+Prev Close:=67.30
+Last Trade:=67.66
+Days Range:=67.25 &ndash; 67.67
+
+(jnpr)
+52 Week Range:= 23.05 - 45.01
+Open:= 32.12
+EPS:=1.08
+P/E:=29.44
+Change:=-0.18 (-0.56%)
+Volume:=6725057
+Prev Close:=31.97
+Last Trade:=31.79
+Days Range:=31.51 &ndash; 32.29
+
+(joyg)
+52 Week Range:= 50.05 - 103.44
+Open:= 96.64
+EPS:=5.00
+P/E:=19.34
+Change:=-0.44 (-0.46%)
+Volume:=1307331
+Prev Close:=97.14
+Last Trade:=96.70
+Days Range:=95.20 &ndash; 96.99
+
+(jpm)
+52 Week Range:= 35.34 - 48.36
+Open:= 41.51
+EPS:=4.50
+P/E:=9.12
+Change:=-0.54 (-1.30%)
+Volume:=21612512
+Prev Close:=41.58
+Last Trade:=41.04
+Days Range:=40.97 &ndash; 41.51
+
+(kalu)
+52 Week Range:= 33.90 - 55.76
+Open:= 55.04
+EPS:=0.87
+P/E:=62.60
+Change:=-1.06 (-1.93%)
+Volume:=179761
+Prev Close:=55.52
+Last Trade:=54.46
+Days Range:=54.05 &ndash; 55.04
+
+(kar)
+52 Week Range:= 11.03 - 21.00
+Open:= 19.35
+EPS:=0.74
+P/E:=26.35
+Change:=+0.15 (0.78%)
+Volume:=310634
+Prev Close:=19.35
+Last Trade:=19.50
+Days Range:=19.29 &ndash; 19.64
+
+(kbh)
+52 Week Range:= 9.43 - 16.11
+Open:= 10.02
+EPS:=-1.68
+P/E:=N/A
+Change:=-0.23 (-2.30%)
+Volume:=8296312
+Prev Close:=10.17
+Last Trade:=9.94
+Days Range:=9.58 &ndash; 10.07
+
+(kbr)
+52 Week Range:= 19.53 - 38.79
+Open:= 37.84
+EPS:=2.48
+P/E:=15.37
+Change:=+0.31 (0.82%)
+Volume:=792112
+Prev Close:=37.81
+Last Trade:=38.12
+Days Range:=37.66 &ndash; 38.21
+
+(kbw)
+52 Week Range:= 18.16 - 29.21
+Open:= 18.93
+EPS:=0.52
+P/E:=35.31
+Change:=-0.55 (-2.91%)
+Volume:=195939
+Prev Close:=18.91
+Last Trade:=18.36
+Days Range:=18.29 &ndash; 19.07
+
+(kcg)
+52 Week Range:= 10.72 - 14.95
+Open:= 11.12
+EPS:=1.00
+P/E:=10.95
+Change:=-0.22 (-1.98%)
+Volume:=761079
+Prev Close:=11.17
+Last Trade:=10.95
+Days Range:=10.94 &ndash; 11.14
+
+(kcli)
+52 Week Range:= 28.09 - 35.10
+Open:= 31.36
+EPS:=2.29
+P/E:=13.69
+Change:=-0.05 (-0.16%)
+Volume:=16435
+Prev Close:=31.41
+Last Trade:=31.36
+Days Range:=30.75 &ndash; 31.37
+
+(kelya)
+52 Week Range:= 10.07 - 22.99
+Open:= 16.80
+EPS:=0.79
+P/E:=20.96
+Change:=-0.23 (-1.37%)
+Volume:=166251
+Prev Close:=16.79
+Last Trade:=16.56
+Days Range:=16.49 &ndash; 16.80
+
+(kerx)
+52 Week Range:= 3.20 - 5.91
+Open:= 4.85
+EPS:=-0.37
+P/E:=N/A
+Change:=-0.05 (-1.03%)
+Volume:=886663
+Prev Close:=4.89
+Last Trade:=4.84
+Days Range:=4.76 &ndash; 4.89
+
+(keyn)
+52 Week Range:= 8.89 - 23.75
+Open:= 21.39
+EPS:=0.47
+P/E:=46.55
+Change:=+0.44 (2.06%)
+Volume:=65719
+Prev Close:=21.44
+Last Trade:=21.88
+Days Range:=21.37 &ndash; 21.88
+
+(kft)
+52 Week Range:= 27.59 - 35.50
+Open:= 35.39
+EPS:=1.72
+P/E:=20.73
+Change:=+0.18 (0.51%)
+Volume:=8434179
+Prev Close:=35.47
+Last Trade:=35.65
+Days Range:=35.39 &ndash; 35.70
+
+(kirk)
+52 Week Range:= 10.62 - 18.70
+Open:= 12.20
+EPS:=1.11
+P/E:=10.81
+Change:=-0.22 (-1.80%)
+Volume:=166883
+Prev Close:=12.22
+Last Trade:=12.00
+Days Range:=11.76 &ndash; 12.20
+
+(klac)
+52 Week Range:= 26.73 - 51.83
+Open:= 41.24
+EPS:=3.88
+P/E:=10.47
+Change:=-0.84 (-2.04%)
+Volume:=2442133
+Prev Close:=41.45
+Last Trade:=40.61
+Days Range:=40.41 &ndash; 41.36
+
+(klic)
+52 Week Range:= 5.27 - 12.72
+Open:= 11.54
+EPS:=2.17
+P/E:=5.24
+Change:=-0.03 (-0.26%)
+Volume:=1495112
+Prev Close:=11.41
+Last Trade:=11.38
+Days Range:=11.25 &ndash; 11.67
+
+(kmt)
+52 Week Range:= 24.08 - 44.11
+Open:= 43.81
+EPS:=2.21
+P/E:=19.86
+Change:=+0.10 (0.23%)
+Volume:=733430
+Prev Close:=43.78
+Last Trade:=43.88
+Days Range:=43.28 &ndash; 44.08
+
+(knol)
+52 Week Range:= 10.42 - 16.13
+Open:= 15.05
+EPS:=0.32
+P/E:=47.25
+Change:=+0.03 (0.20%)
+Volume:=94126
+Prev Close:=15.09
+Last Trade:=15.12
+Days Range:=14.93 &ndash; 15.14
+
+(ko)
+52 Week Range:= 49.85 - 68.77
+Open:= 68.08
+EPS:=5.19
+P/E:=13.17
+Change:=+0.24 (0.35%)
+Volume:=6599406
+Prev Close:=68.09
+Last Trade:=68.33
+Days Range:=68.08 &ndash; 68.79
+
+(ks)
+52 Week Range:= 9.84 - 17.90
+Open:= 16.85
+EPS:=1.56
+P/E:=10.79
+Change:=-0.02 (-0.12%)
+Volume:=165850
+Prev Close:=16.85
+Last Trade:=16.83
+Days Range:=16.67 &ndash; 16.88
+
+(kss)
+52 Week Range:= 44.07 - 58.00
+Open:= 51.72
+EPS:=3.73
+P/E:=13.81
+Change:=-0.27 (-0.52%)
+Volume:=2909555
+Prev Close:=51.79
+Last Trade:=51.52
+Days Range:=51.25 &ndash; 51.81
+
+(ksws)
+52 Week Range:= 8.75 - 13.19
+Open:= 10.67
+EPS:=-2.08
+P/E:=N/A
+Change:=+0.00 (0.00%)
+Volume:=47300
+Prev Close:=10.65
+Last Trade:=10.65
+Days Range:=10.41 &ndash; 10.70
+
+(ktos)
+52 Week Range:= 9.36 - 14.77
+Open:= 12.09
+EPS:=0.72
+P/E:=16.92
+Change:=+0.05 (0.41%)
+Volume:=118482
+Prev Close:=12.13
+Last Trade:=12.18
+Days Range:=12.05 &ndash; 12.24
+
+(kvhi)
+52 Week Range:= 10.27 - 16.68
+Open:= 11.30
+EPS:=0.32
+P/E:=35.34
+Change:=+0.12 (1.06%)
+Volume:=44094
+Prev Close:=11.19
+Last Trade:=11.31
+Days Range:=11.14 &ndash; 11.65
+
+(kwk)
+52 Week Range:= 10.85 - 15.98
+Open:= 14.73
+EPS:=1.97
+P/E:=7.44
+Change:=-0.05 (-0.34%)
+Volume:=1692118
+Prev Close:=14.71
+Last Trade:=14.66
+Days Range:=14.64 &ndash; 14.90
+
+(labl)
+52 Week Range:= 10.14 - 25.18
+Open:= 25.21
+EPS:=1.40
+P/E:=17.91
+Change:=-0.07 (-0.28%)
+Volume:=79879
+Prev Close:=25.14
+Last Trade:=25.07
+Days Range:=24.98 &ndash; 25.27
+
+(lamr)
+52 Week Range:= 24.02 - 41.88
+Open:= 28.54
+EPS:=-0.31
+P/E:=N/A
+Change:=-0.58 (-2.03%)
+Volume:=708287
+Prev Close:=28.53
+Last Trade:=27.95
+Days Range:=27.67 &ndash; 28.96
+
+(laws)
+52 Week Range:= 13.41 - 27.21
+Open:= 20.28
+EPS:=1.15
+P/E:=18.26
+Change:=+0.80 (3.94%)
+Volume:=12527
+Prev Close:=20.20
+Last Trade:=21.00
+Days Range:=19.83 &ndash; 21.10
+
+(layn)
+52 Week Range:= 23.01 - 38.00
+Open:= 30.79
+EPS:=1.85
+P/E:=16.69
+Change:=+0.08 (0.26%)
+Volume:=82190
+Prev Close:=30.80
+Last Trade:=30.88
+Days Range:=30.55 &ndash; 31.17
+
+(laz)
+52 Week Range:= 26.15 - 46.54
+Open:= 37.88
+EPS:=0.00
+P/E:=N/A
+Change:=-0.69 (-1.82%)
+Volume:=493003
+Prev Close:=37.98
+Last Trade:=37.29
+Days Range:=36.97 &ndash; 37.88
+
+(lb)
+52 Week Range:= 9.54 - 19.41
+Open:= 9.64
+EPS:=1.12
+P/E:=17.19
+Change:=+0.00 (0.00%)
+Volume:=14873
+Prev Close:=19.25
+Last Trade:=19.25
+Days Range:=19.25 &ndash; 19.25
+
+(lbai)
+52 Week Range:= 7.61 - 11.75
+Open:= 10.36
+EPS:=0.60
+P/E:=17.28
+Change:=+0.02 (0.19%)
+Volume:=27918
+Prev Close:=10.35
+Last Trade:=10.37
+Days Range:=10.12 &ndash; 10.37
+
+(lci)
+52 Week Range:= 3.66 - 7.00
+Open:= 5.06
+EPS:=0.17
+P/E:=29.59
+Change:=-0.06 (-1.19%)
+Volume:=96929
+Prev Close:=5.09
+Last Trade:=5.03
+Days Range:=4.99 &ndash; 5.09
+
+(ldsh)
+52 Week Range:= 20.93 - 57.49
+Open:= 24.80
+EPS:=1.88
+P/E:=29.88
+Change:=+0.00 (0.00%)
+Volume:=30109
+Prev Close:=56.17
+Last Trade:=56.17
+Days Range:=56.17 &ndash; 56.17
+
+(lea)
+52 Week Range:= 45.41 - 114.06
+Open:= 53.85
+EPS:=4.89
+P/E:=10.85
+Change:=-0.78 (-1.45%)
+Volume:=1158341
+Prev Close:=53.85
+Last Trade:=53.07
+Days Range:=52.55 &ndash; 53.85
+
+(leg)
+52 Week Range:= 18.83 - 26.95
+Open:= 24.80
+EPS:=1.16
+P/E:=21.34
+Change:=-0.14 (-0.56%)
+Volume:=1852799
+Prev Close:=24.90
+Last Trade:=24.76
+Days Range:=24.71 &ndash; 24.99
+
+(lfus)
+52 Week Range:= 30.74 - 66.38
+Open:= 60.59
+EPS:=3.78
+P/E:=16.34
+Change:=+1.22 (2.01%)
+Volume:=129855
+Prev Close:=60.54
+Last Trade:=61.76
+Days Range:=60.59 &ndash; 62.50
+
+(life)
+52 Week Range:= 41.10 - 57.25
+Open:= 51.99
+EPS:=2.01
+P/E:=25.87
+Change:=-0.33 (-0.63%)
+Volume:=1750183
+Prev Close:=52.33
+Last Trade:=52.00
+Days Range:=51.54 &ndash; 52.20
+
+(linc)
+52 Week Range:= 9.73 - 21.60
+Open:= 18.46
+EPS:=2.71
+P/E:=6.79
+Change:=-0.21 (-1.14%)
+Volume:=457631
+Prev Close:=18.60
+Last Trade:=18.39
+Days Range:=17.75 &ndash; 18.50
+
+(linta)
+52 Week Range:= 10.10 - 18.65
+Open:= 17.16
+EPS:=0.99
+P/E:=17.45
+Change:=+0.09 (0.52%)
+Volume:=3374500
+Prev Close:=17.19
+Last Trade:=17.28
+Days Range:=16.94 &ndash; 17.31
+
+(llen)
+52 Week Range:= 4.29 - 13.56
+Open:= 5.12
+EPS:=1.51
+P/E:=3.54
+Change:=+0.24 (4.69%)
+Volume:=302191
+Prev Close:=5.10
+Last Trade:=5.34
+Days Range:=5.00 &ndash; 5.34
+
+(lll)
+52 Week Range:= 66.11 - 88.55
+Open:= 88.00
+EPS:=8.23
+P/E:=10.54
+Change:=-1.54 (-1.75%)
+Volume:=817865
+Prev Close:=88.31
+Last Trade:=86.77
+Days Range:=86.57 &ndash; 88.00
+
+(lltc)
+52 Week Range:= 27.03 - 36.14
+Open:= 33.45
+EPS:=2.36
+P/E:=13.93
+Change:=-0.56 (-1.67%)
+Volume:=2181626
+Prev Close:=33.43
+Last Trade:=32.87
+Days Range:=32.79 &ndash; 33.45
+
+(lm)
+52 Week Range:= 24.94 - 37.72
+Open:= 33.66
+EPS:=1.63
+P/E:=20.34
+Change:=-0.59 (-1.75%)
+Volume:=1367559
+Prev Close:=33.74
+Last Trade:=33.15
+Days Range:=33.03 &ndash; 33.66
+
+(lng)
+52 Week Range:= 2.30 - 12.81
+Open:= 9.41
+EPS:=-2.00
+P/E:=N/A
+Change:=+0.13 (1.38%)
+Volume:=2039132
+Prev Close:=9.19
+Last Trade:=9.32
+Days Range:=9.15 &ndash; 9.44
+
+(logm)
+52 Week Range:= 25.06 - 49.50
+Open:= 37.50
+EPS:=0.74
+P/E:=51.05
+Change:=+0.28 (0.75%)
+Volume:=480712
+Prev Close:=37.50
+Last Trade:=37.78
+Days Range:=37.43 &ndash; 38.20
+
+(loop)
+52 Week Range:= 9.73 - 18.95
+Open:= 18.38
+EPS:=0.34
+P/E:=54.12
+Change:=+0.02 (0.11%)
+Volume:=232775
+Prev Close:=18.38
+Last Trade:=18.40
+Days Range:=18.34 &ndash; 18.40
+
+(lpnt)
+52 Week Range:= 29.33 - 43.45
+Open:= 39.69
+EPS:=3.00
+P/E:=13.16
+Change:=-0.13 (-0.33%)
+Volume:=291032
+Prev Close:=39.61
+Last Trade:=39.48
+Days Range:=39.29 &ndash; 39.84
+
+(lpx)
+52 Week Range:= 6.25 - 11.63
+Open:= 8.38
+EPS:=-0.26
+P/E:=N/A
+Change:=-0.02 (-0.24%)
+Volume:=2479093
+Prev Close:=8.38
+Last Trade:=8.36
+Days Range:=8.21 &ndash; 8.45
+
+(lrcx)
+52 Week Range:= 35.39 - 59.10
+Open:= 45.29
+EPS:=2.71
+P/E:=16.43
+Change:=-0.74 (-1.63%)
+Volume:=1586880
+Prev Close:=45.27
+Last Trade:=44.53
+Days Range:=44.23 &ndash; 45.42
+
+(lse)
+52 Week Range:= 4.42 - 6.32
+Open:= 4.94
+EPS:=-0.33
+P/E:=N/A
+Change:=+0.01 (0.20%)
+Volume:=159579
+Prev Close:=4.95
+Last Trade:=4.96
+Days Range:=4.91 &ndash; 4.97
+
+(lsi)
+52 Week Range:= 3.89 - 7.74
+Open:= 7.23
+EPS:=0.06
+P/E:=120.00
+Change:=-0.05 (-0.69%)
+Volume:=2832206
+Prev Close:=7.25
+Last Trade:=7.20
+Days Range:=7.14 &ndash; 7.25
+
+(lstr)
+52 Week Range:= 35.10 - 48.31
+Open:= 47.23
+EPS:=1.86
+P/E:=25.24
+Change:=-0.35 (-0.74%)
+Volume:=206542
+Prev Close:=47.29
+Last Trade:=46.94
+Days Range:=46.91 &ndash; 47.68
+
+(lstza)
+52 Week Range:= 50.77 - 81.36
+Open:= 75.42
+EPS:=0.52
+P/E:=146.50
+Change:=+0.74 (0.98%)
+Volume:=301700
+Prev Close:=75.44
+Last Trade:=76.18
+Days Range:=74.91 &ndash; 77.32
+
+(ltm)
+52 Week Range:= 31.79 - 44.25
+Open:= 39.40
+EPS:=2.06
+P/E:=19.08
+Change:=-0.05 (-0.13%)
+Volume:=278957
+Prev Close:=39.35
+Last Trade:=39.30
+Days Range:=39.04 &ndash; 39.65
+
+(ltre)
+52 Week Range:= 7.69 - 13.40
+Open:= 9.45
+EPS:=0.31
+P/E:=30.29
+Change:=+0.14 (1.48%)
+Volume:=24075
+Prev Close:=9.25
+Last Trade:=9.39
+Days Range:=9.23 &ndash; 9.49
+
+(lvs)
+52 Week Range:= 21.02 - 55.47
+Open:= 43.78
+EPS:=0.82
+P/E:=53.78
+Change:=+0.21 (0.48%)
+Volume:=12336053
+Prev Close:=43.89
+Last Trade:=44.10
+Days Range:=43.28 &ndash; 44.35
+
+(lway)
+52 Week Range:= 8.25 - 11.27
+Open:= 11.20
+EPS:=0.23
+P/E:=49.13
+Change:=+0.08 (0.71%)
+Volume:=24878
+Prev Close:=11.22
+Last Trade:=11.30
+Days Range:=10.88 &ndash; 11.30
+
+(lxp)
+52 Week Range:= 5.39 - 10.14
+Open:= 9.30
+EPS:=-0.16
+P/E:=N/A
+Change:=+0.08 (0.86%)
+Volume:=680205
+Prev Close:=9.30
+Last Trade:=9.38
+Days Range:=9.22 &ndash; 9.40
+
+(lxrx)
+52 Week Range:= 1.17 - 2.30
+Open:= 1.70
+EPS:=-0.31
+P/E:=N/A
+Change:=-0.05 (-2.94%)
+Volume:=299978
+Prev Close:=1.72
+Last Trade:=1.67
+Days Range:=1.66 &ndash; 1.70
+
+(lxu)
+52 Week Range:= 12.71 - 49.21
+Open:= 43.92
+EPS:=2.15
+P/E:=20.21
+Change:=-0.13 (-0.30%)
+Volume:=283043
+Prev Close:=43.58
+Last Trade:=43.45
+Days Range:=43.27 &ndash; 44.29
+
+(ma)
+52 Week Range:= 191.00 - 315.64
+Open:= 312.42
+EPS:=14.88
+P/E:=21.23
+Change:=+1.49 (0.48%)
+Volume:=1038486
+Prev Close:=314.47
+Last Trade:=315.96
+Days Range:=312.00 &ndash; 317.73
+
+(mako)
+52 Week Range:= 9.28 - 35.90
+Open:= 31.27
+EPS:=-1.06
+P/E:=N/A
+Change:=+0.50 (1.60%)
+Volume:=510905
+Prev Close:=31.27
+Last Trade:=31.77
+Days Range:=31.08 &ndash; 32.00
+
+(mapp)
+52 Week Range:= 10.61 - 17.35
+Open:= 16.00
+EPS:=-0.90
+P/E:=N/A
+Change:=+0.00 (0.00%)
+Volume:=131510
+Prev Close:=16.00
+Last Trade:=16.00
+Days Range:=15.92 &ndash; 16.01
+
+(mas)
+52 Week Range:= 9.94 - 15.03
+Open:= 12.41
+EPS:=-3.11
+P/E:=N/A
+Change:=-0.19 (-1.53%)
+Volume:=3808002
+Prev Close:=12.46
+Last Trade:=12.27
+Days Range:=12.14 &ndash; 12.43
+
+(mat)
+52 Week Range:= 20.57 - 28.00
+Open:= 28.04
+EPS:=1.85
+P/E:=15.09
+Change:=-0.08 (-0.29%)
+Volume:=2879903
+Prev Close:=27.99
+Last Trade:=27.91
+Days Range:=27.76 &ndash; 28.10
+
+(matk)
+52 Week Range:= 17.95 - 32.75
+Open:= 0.01
+EPS:=0.83
+P/E:=37.94
+Change:=+0.00 (0.00%)
+Volume:=94700
+Prev Close:=31.49
+Last Trade:=31.49
+Days Range:=31.49 &ndash; 31.49
+
+(mblx)
+52 Week Range:= 6.50 - 18.44
+Open:= 6.92
+EPS:=-1.44
+P/E:=N/A
+Change:=-0.01 (-0.14%)
+Volume:=137242
+Prev Close:=6.95
+Last Trade:=6.94
+Days Range:=6.76 &ndash; 6.98
+
+(mbvt)
+52 Week Range:= 22.05 - 29.31
+Open:= 24.83
+EPS:=2.38
+P/E:=10.57
+Change:=+0.40 (1.61%)
+Volume:=5038
+Prev Close:=24.75
+Last Trade:=25.15
+Days Range:=24.76 &ndash; 25.15
+
+(mcd)
+52 Week Range:= 65.63 - 85.80
+Open:= 85.41
+EPS:=4.73
+P/E:=18.11
+Change:=+0.00 (0.00%)
+Volume:=4654715
+Prev Close:=85.65
+Last Trade:=85.65
+Days Range:=85.33 &ndash; 85.99
+
+(mchp)
+52 Week Range:= 27.19 - 41.50
+Open:= 38.41
+EPS:=2.20
+P/E:=17.23
+Change:=-0.45 (-1.17%)
+Volume:=1548135
+Prev Close:=38.35
+Last Trade:=37.90
+Days Range:=37.80 &ndash; 38.45
+
+(mcri)
+52 Week Range:= 8.77 - 13.51
+Open:= 10.05
+EPS:=0.45
+P/E:=22.62
+Change:=+0.11 (1.09%)
+Volume:=13577
+Prev Close:=10.07
+Last Trade:=10.18
+Days Range:=9.82 &ndash; 10.18
+
+(mcrl)
+52 Week Range:= 8.80 - 14.98
+Open:= 10.64
+EPS:=0.80
+P/E:=13.36
+Change:=+0.01 (0.09%)
+Volume:=393101
+Prev Close:=10.68
+Last Trade:=10.69
+Days Range:=10.48 &ndash; 10.71
+
+(mcy)
+52 Week Range:= 37.29 - 45.08
+Open:= 39.92
+EPS:=2.72
+P/E:=14.59
+Change:=-0.34 (-0.85%)
+Volume:=112955
+Prev Close:=40.03
+Last Trade:=39.69
+Days Range:=39.59 &ndash; 40.05
+
+(mdr)
+52 Week Range:= 12.10 - 26.14
+Open:= 19.82
+EPS:=0.00
+P/E:=N/A
+Change:=-0.10 (-0.50%)
+Volume:=2562371
+Prev Close:=19.84
+Last Trade:=19.74
+Days Range:=19.65 &ndash; 19.92
+
+(mdso)
+52 Week Range:= 14.75 - 27.39
+Open:= 24.15
+EPS:=1.01
+P/E:=24.18
+Change:=+0.35 (1.45%)
+Volume:=163052
+Prev Close:=24.07
+Last Trade:=24.42
+Days Range:=24.15 &ndash; 24.51
+
+(mdth)
+52 Week Range:= 7.00 - 14.96
+Open:= 13.61
+EPS:=-2.10
+P/E:=N/A
+Change:=+0.17 (1.25%)
+Volume:=57268
+Prev Close:=13.55
+Last Trade:=13.72
+Days Range:=13.44 &ndash; 13.75
+
+(mdvn)
+52 Week Range:= 8.76 - 25.50
+Open:= 21.53
+EPS:=-0.72
+P/E:=N/A
+Change:=-0.01 (-0.05%)
+Volume:=233224
+Prev Close:=21.50
+Last Trade:=21.49
+Days Range:=21.29 &ndash; 21.90
+
+(me)
+52 Week Range:= 11.35 - 26.42
+Open:= 25.25
+EPS:=1.16
+P/E:=22.63
+Change:=+0.00 (0.00%)
+Volume:=4907
+Prev Close:=26.25
+Last Trade:=26.25
+Days Range:=26.25 &ndash; 26.25
+
+(ment)
+52 Week Range:= 8.21 - 16.56
+Open:= 12.91
+EPS:=0.46
+P/E:=27.59
+Change:=-0.31 (-2.40%)
+Volume:=1039723
+Prev Close:=13.00
+Last Trade:=12.69
+Days Range:=12.53 &ndash; 13.00
+
+(meru)
+52 Week Range:= 10.44 - 27.33
+Open:= 12.46
+EPS:=0.11
+P/E:=110.91
+Change:=+0.20 (1.61%)
+Volume:=398869
+Prev Close:=12.00
+Last Trade:=12.20
+Days Range:=11.92 &ndash; 13.12
+
+(mgln)
+52 Week Range:= 34.59 - 54.93
+Open:= 54.71
+EPS:=4.33
+P/E:=12.65
+Change:=+0.16 (0.29%)
+Volume:=219771
+Prev Close:=54.63
+Last Trade:=54.79
+Days Range:=54.47 &ndash; 54.93
+
+(mgm)
+52 Week Range:= 8.92 - 16.94
+Open:= 13.71
+EPS:=-3.15
+P/E:=N/A
+Change:=+0.01 (0.07%)
+Volume:=13909637
+Prev Close:=13.69
+Last Trade:=13.70
+Days Range:=13.36 &ndash; 13.79
+
+(mgpi)
+52 Week Range:= 6.40 - 11.92
+Open:= 8.68
+EPS:=0.64
+P/E:=13.66
+Change:=-0.01 (-0.12%)
+Volume:=12966
+Prev Close:=8.75
+Last Trade:=8.74
+Days Range:=8.45 &ndash; 8.82
+
+(mgrc)
+52 Week Range:= 19.93 - 29.21
+Open:= 28.78
+EPS:=1.62
+P/E:=17.48
+Change:=-0.40 (-1.39%)
+Volume:=37346
+Prev Close:=28.71
+Last Trade:=28.31
+Days Range:=28.11 &ndash; 28.78
+
+(mho)
+52 Week Range:= 8.85 - 17.50
+Open:= 12.48
+EPS:=-1.89
+P/E:=N/A
+Change:=-0.17 (-1.36%)
+Volume:=64270
+Prev Close:=12.50
+Last Trade:=12.33
+Days Range:=12.14 &ndash; 12.49
+
+(mhr)
+52 Week Range:= 3.75 - 8.66
+Open:= 6.76
+EPS:=-0.43
+P/E:=N/A
+Change:=+0.20 (2.96%)
+Volume:=2429514
+Prev Close:=6.76
+Last Trade:=6.96
+Days Range:=6.71 &ndash; 7.05
+
+(mhs)
+52 Week Range:= 43.45 - 65.39
+Open:= 56.72
+EPS:=3.30
+P/E:=17.03
+Change:=-0.64 (-1.13%)
+Volume:=3105662
+Prev Close:=56.83
+Last Trade:=56.19
+Days Range:=55.91 &ndash; 56.90
+
+(midd)
+52 Week Range:= 52.60 - 96.25
+Open:= 96.02
+EPS:=4.19
+P/E:=22.96
+Change:=+0.08 (0.08%)
+Volume:=43359
+Prev Close:=96.11
+Last Trade:=96.19
+Days Range:=95.31 &ndash; 96.22
+
+(mig)
+52 Week Range:= 8.10 - 10.64
+Open:= 9.94
+EPS:=1.09
+P/E:=9.18
+Change:=+0.04 (0.40%)
+Volume:=134459
+Prev Close:=9.97
+Last Trade:=10.01
+Days Range:=9.89 &ndash; 10.01
+
+(mil)
+52 Week Range:= 26.73 - 152.68
+Open:= 8.66
+EPS:=3.19
+P/E:=33.53
+Change:=+0.00 (0.00%)
+Volume:=1817332
+Prev Close:=106.95
+Last Trade:=106.95
+Days Range:=106.95 &ndash; 106.95
+
+(mjn)
+52 Week Range:= 50.43 - 69.10
+Open:= 68.80
+EPS:=2.30
+P/E:=30.40
+Change:=+0.89 (1.29%)
+Volume:=1723602
+Prev Close:=69.04
+Last Trade:=69.93
+Days Range:=68.55 &ndash; 69.99
+
+(mksi)
+52 Week Range:= 16.50 - 33.85
+Open:= 26.93
+EPS:=2.77
+P/E:=9.57
+Change:=-0.38 (-1.41%)
+Volume:=249207
+Prev Close:=26.90
+Last Trade:=26.52
+Days Range:=26.29 &ndash; 26.99
+
+(mlhr)
+52 Week Range:= 16.23 - 28.14
+Open:= 27.54
+EPS:=1.06
+P/E:=26.08
+Change:=+0.08 (0.29%)
+Volume:=409621
+Prev Close:=27.57
+Last Trade:=27.65
+Days Range:=27.46 &ndash; 27.73
+
+(mlnk)
+52 Week Range:= 4.20 - 7.44
+Open:= 4.49
+EPS:=-1.49
+P/E:=N/A
+Change:=+0.05 (1.11%)
+Volume:=52725
+Prev Close:=4.51
+Last Trade:=4.56
+Days Range:=4.47 &ndash; 4.57
+
+(mlr)
+52 Week Range:= 11.41 - 18.91
+Open:= 18.59
+EPS:=1.40
+P/E:=13.02
+Change:=-0.44 (-2.37%)
+Volume:=112547
+Prev Close:=18.67
+Last Trade:=18.23
+Days Range:=18.07 &ndash; 18.59
+
+(mmm)
+52 Week Range:= 77.04 - 97.50
+Open:= 96.40
+EPS:=5.83
+P/E:=16.49
+Change:=-0.53 (-0.55%)
+Volume:=2355074
+Prev Close:=96.67
+Last Trade:=96.14
+Days Range:=96.06 &ndash; 96.86
+
+(mms)
+52 Week Range:= 41.14 - 85.14
+Open:= 41.55
+EPS:=4.10
+P/E:=10.16
+Change:=-0.01 (-0.02%)
+Volume:=168292
+Prev Close:=41.68
+Last Trade:=41.67
+Days Range:=41.38 &ndash; 42.07
+
+(mnro)
+52 Week Range:= 28.70 - 54.74
+Open:= 37.63
+EPS:=1.44
+P/E:=26.01
+Change:=-0.03 (-0.08%)
+Volume:=190703
+Prev Close:=37.49
+Last Trade:=37.46
+Days Range:=37.03 &ndash; 37.70
+
+(mot)
+52 Week Range:= 6.04 - 9.23
+Open:= 15.03
+EPS:=0.16
+P/E:=56.94
+Change:=+0.00 (0.00%)
+Volume:=111447
+Prev Close:=9.11
+Last Trade:=9.11
+Days Range:=9.11 &ndash; 9.11
+
+(mpg)
+52 Week Range:= 1.98 - 4.28
+Open:= 3.05
+EPS:=-6.61
+P/E:=N/A
+Change:=+0.15 (4.92%)
+Volume:=456921
+Prev Close:=3.06
+Last Trade:=3.21
+Days Range:=3.01 &ndash; 3.21
+
+(mpr)
+52 Week Range:= 8.91 - 12.50
+Open:= 11.42
+EPS:=0.43
+P/E:=25.70
+Change:=-0.35 (-3.06%)
+Volume:=25643
+Prev Close:=11.40
+Last Trade:=11.05
+Days Range:=10.96 &ndash; 11.42
+
+(mpx)
+52 Week Range:= 5.02 - 8.04
+Open:= 6.74
+EPS:=0.14
+P/E:=48.07
+Change:=-0.05 (-0.74%)
+Volume:=10506
+Prev Close:=6.78
+Last Trade:=6.73
+Days Range:=6.64 &ndash; 6.74
+
+(mrcy)
+52 Week Range:= 10.57 - 21.92
+Open:= 19.04
+EPS:=1.36
+P/E:=13.96
+Change:=+0.01 (0.05%)
+Volume:=122191
+Prev Close:=18.98
+Last Trade:=18.99
+Days Range:=18.98 &ndash; 19.30
+
+(mrh)
+52 Week Range:= 14.70 - 21.03
+Open:= 17.99
+EPS:=0.00
+P/E:=N/A
+Change:=-0.26 (-1.45%)
+Volume:=480014
+Prev Close:=18.03
+Last Trade:=17.77
+Days Range:=17.55 &ndash; 17.99
+
+(mrk)
+52 Week Range:= 31.06 - 37.68
+Open:= 35.51
+EPS:=0.53
+P/E:=66.98
+Change:=-0.10 (-0.28%)
+Volume:=7949339
+Prev Close:=35.60
+Last Trade:=35.50
+Days Range:=35.44 &ndash; 35.69
+
+(mrvl)
+52 Week Range:= 13.17 - 22.01
+Open:= 15.30
+EPS:=0.00
+P/E:=N/A
+Change:=+0.08 (0.52%)
+Volume:=10721712
+Prev Close:=15.11
+Last Trade:=15.19
+Days Range:=15.05 &ndash; 15.34
+
+(msft)
+52 Week Range:= 23.05 - 29.46
+Open:= 26.10
+EPS:=2.51
+P/E:=10.37
+Change:=+0.01 (0.04%)
+Volume:=37014097
+Prev Close:=26.02
+Last Trade:=26.03
+Days Range:=25.90 &ndash; 26.15
+
+(mtb)
+52 Week Range:= 72.03 - 95.00
+Open:= 88.75
+EPS:=6.12
+P/E:=14.38
+Change:=-1.03 (-1.16%)
+Volume:=601489
+Prev Close:=89.03
+Last Trade:=88.00
+Days Range:=87.38 &ndash; 88.75
+
+(mtn)
+52 Week Range:= 32.37 - 53.84
+Open:= 46.70
+EPS:=1.22
+P/E:=38.32
+Change:=-0.09 (-0.19%)
+Volume:=167072
+Prev Close:=46.84
+Last Trade:=46.75
+Days Range:=46.18 &ndash; 47.31
+
+(mtrx)
+52 Week Range:= 8.25 - 14.60
+Open:= 13.44
+EPS:=0.34
+P/E:=39.91
+Change:=+0.14 (1.04%)
+Volume:=74137
+Prev Close:=13.43
+Last Trade:=13.57
+Days Range:=13.29 &ndash; 13.60
+
+(mu)
+52 Week Range:= 6.36 - 11.95
+Open:= 7.88
+EPS:=0.59
+P/E:=13.19
+Change:=-0.05 (-0.63%)
+Volume:=32043580
+Prev Close:=7.83
+Last Trade:=7.78
+Days Range:=7.69 &ndash; 7.99
+
+(mvis)
+52 Week Range:= 1.02 - 3.11
+Open:= 1.23
+EPS:=-0.50
+P/E:=N/A
+Change:=+0.01 (0.81%)
+Volume:=474825
+Prev Close:=1.21
+Last Trade:=1.22
+Days Range:=1.20 &ndash; 1.24
+
+(mw)
+52 Week Range:= 17.96 - 35.03
+Open:= 35.08
+EPS:=1.52
+P/E:=22.99
+Change:=-0.03 (-0.09%)
+Volume:=704423
+Prev Close:=34.97
+Last Trade:=34.94
+Days Range:=34.00 &ndash; 35.09
+
+(mwa)
+52 Week Range:= 2.21 - 4.80
+Open:= 3.98
+EPS:=-0.23
+P/E:=N/A
+Change:=-0.06 (-1.51%)
+Volume:=714637
+Prev Close:=3.97
+Last Trade:=3.91
+Days Range:=3.88 &ndash; 4.03
+
+(mwv)
+52 Week Range:= 20.81 - 34.51
+Open:= 33.86
+EPS:=1.74
+P/E:=19.41
+Change:=-0.13 (-0.38%)
+Volume:=1692175
+Prev Close:=33.91
+Last Trade:=33.78
+Days Range:=33.20 &ndash; 33.91
+
+(mww)
+52 Week Range:= 10.01 - 25.90
+Open:= 14.85
+EPS:=-0.07
+P/E:=N/A
+Change:=+0.00 (0.00%)
+Volume:=1880525
+Prev Close:=14.87
+Last Trade:=14.87
+Days Range:=14.51 &ndash; 14.91
+
+(mxim)
+52 Week Range:= 15.67 - 28.44
+Open:= 25.93
+EPS:=1.39
+P/E:=18.53
+Change:=-0.14 (-0.54%)
+Volume:=1216111
+Prev Close:=25.89
+Last Trade:=25.75
+Days Range:=25.55 &ndash; 25.93
+
+(mxl)
+52 Week Range:= 7.32 - 14.71
+Open:= 9.02
+EPS:=0.23
+P/E:=38.91
+Change:=-0.28 (-3.10%)
+Volume:=87433
+Prev Close:=9.23
+Last Trade:=8.95
+Days Range:=8.68 &ndash; 9.09
+
+(myl)
+52 Week Range:= 16.64 - 25.46
+Open:= 24.87
+EPS:=0.69
+P/E:=35.91
+Change:=-0.19 (-0.76%)
+Volume:=4225652
+Prev Close:=24.97
+Last Trade:=24.78
+Days Range:=24.69 &ndash; 24.91
+
+(nafc)
+52 Week Range:= 33.38 - 44.94
+Open:= 35.91
+EPS:=3.85
+P/E:=9.41
+Change:=+0.40 (1.11%)
+Volume:=58726
+Prev Close:=35.83
+Last Trade:=36.23
+Days Range:=35.91 &ndash; 36.49
+
+(nal)
+52 Week Range:= 10.98 - 16.10
+Open:= 53.65
+EPS:=0.59
+P/E:=25.05
+Change:=+0.00 (0.00%)
+Volume:=349964
+Prev Close:=14.78
+Last Trade:=14.78
+Days Range:=14.78 &ndash; 14.78
+
+(natr)
+52 Week Range:= 7.72 - 20.12
+Open:= 19.64
+EPS:=0.64
+P/E:=29.86
+Change:=-0.39 (-1.99%)
+Volume:=118548
+Prev Close:=19.50
+Last Trade:=19.11
+Days Range:=18.58 &ndash; 19.64
+
+(nauh)
+52 Week Range:= 4.57 - 9.90
+Open:= 9.40
+EPS:=0.15
+P/E:=62.33
+Change:=-0.04 (-0.43%)
+Volume:=10519
+Prev Close:=9.39
+Last Trade:=9.35
+Days Range:=9.02 &ndash; 9.83
+
+(nc)
+52 Week Range:= 75.21 - 132.69
+Open:= 100.32
+EPS:=15.61
+P/E:=6.29
+Change:=-2.02 (-2.01%)
+Volume:=17103
+Prev Close:=100.17
+Last Trade:=98.15
+Days Range:=97.01 &ndash; 100.32
+
+(ncs)
+52 Week Range:= 8.12 - 15.15
+Open:= 11.84
+EPS:=-3.52
+P/E:=N/A
+Change:=-0.40 (-3.38%)
+Volume:=218466
+Prev Close:=11.85
+Last Trade:=11.45
+Days Range:=11.34 &ndash; 11.84
+
+(nct)
+52 Week Range:= 2.24 - 8.85
+Open:= 6.03
+EPS:=9.43
+P/E:=0.66
+Change:=+0.18 (2.99%)
+Volume:=1351353
+Prev Close:=6.01
+Last Trade:=6.19
+Days Range:=6.03 &ndash; 6.25
+
+(ndsn)
+52 Week Range:= 48.63 - 118.83
+Open:= 56.01
+EPS:=3.20
+P/E:=17.53
+Change:=-0.03 (-0.05%)
+Volume:=348115
+Prev Close:=56.12
+Last Trade:=56.09
+Days Range:=55.76 &ndash; 56.42
+
+(nee)
+52 Week Range:= 48.83 - 58.98
+Open:= 57.97
+EPS:=4.02
+P/E:=14.35
+Change:=-0.49 (-0.85%)
+Volume:=1450770
+Prev Close:=58.18
+Last Trade:=57.69
+Days Range:=57.48 &ndash; 58.08
+
+(neog)
+52 Week Range:= 24.84 - 45.90
+Open:= 45.50
+EPS:=0.92
+P/E:=50.29
+Change:=+0.94 (2.07%)
+Volume:=72720
+Prev Close:=45.33
+Last Trade:=46.27
+Days Range:=45.40 &ndash; 46.80
+
+(netl)
+52 Week Range:= 22.94 - 43.71
+Open:= 41.29
+EPS:=-0.07
+P/E:=N/A
+Change:=-0.84 (-2.03%)
+Volume:=1534210
+Prev Close:=41.43
+Last Trade:=40.59
+Days Range:=40.40 &ndash; 41.56
+
+(newp)
+52 Week Range:= 8.41 - 19.84
+Open:= 18.28
+EPS:=1.49
+P/E:=12.41
+Change:=+0.21 (1.15%)
+Volume:=157559
+Prev Close:=18.28
+Last Trade:=18.49
+Days Range:=18.05 &ndash; 18.57
+
+(nfg)
+52 Week Range:= 42.83 - 75.75
+Open:= 74.21
+EPS:=2.97
+P/E:=25.09
+Change:=+0.25 (0.34%)
+Volume:=411831
+Prev Close:=74.28
+Last Trade:=74.53
+Days Range:=73.99 &ndash; 75.05
+
+(nflx)
+52 Week Range:= 95.33 - 277.70
+Open:= 276.00
+EPS:=3.48
+P/E:=83.23
+Change:=+21.64 (7.84%)
+Volume:=8953226
+Prev Close:=267.99
+Last Trade:=289.63
+Days Range:=275.71 &ndash; 291.23
+
+(ngpc)
+52 Week Range:= 7.07 - 10.89
+Open:= 8.39
+EPS:=0.10
+P/E:=85.80
+Change:=+0.21 (2.50%)
+Volume:=54935
+Prev Close:=8.37
+Last Trade:=8.58
+Days Range:=8.34 &ndash; 8.58
+
+(ngsx)
+52 Week Range:= 1.55 - 7.55
+Open:= 1.70
+EPS:=-2.75
+P/E:=N/A
+Change:=-0.07 (-4.12%)
+Volume:=77759
+Prev Close:=1.71
+Last Trade:=1.64
+Days Range:=1.60 &ndash; 1.75
+
+(nhi)
+52 Week Range:= 35.85 - 49.55
+Open:= 44.99
+EPS:=2.27
+P/E:=19.96
+Change:=+0.35 (0.78%)
+Volume:=62911
+Prev Close:=44.96
+Last Trade:=45.31
+Days Range:=44.90 &ndash; 45.43
+
+(nihd)
+52 Week Range:= 32.36 - 46.32
+Open:= 43.24
+EPS:=2.25
+P/E:=19.07
+Change:=-0.25 (-0.58%)
+Volume:=1222726
+Prev Close:=43.15
+Last Trade:=42.90
+Days Range:=42.67 &ndash; 43.24
+
+(nktr)
+52 Week Range:= 7.08 - 16.06
+Open:= 7.40
+EPS:=-0.67
+P/E:=N/A
+Change:=-0.05 (-0.68%)
+Volume:=483958
+Prev Close:=7.40
+Last Trade:=7.35
+Days Range:=7.26 &ndash; 7.45
+
+(nor)
+52 Week Range:= 5.87 - 17.77
+Open:= 15.40
+EPS:=1.78
+P/E:=8.70
+Change:=+0.08 (0.52%)
+Volume:=113207
+Prev Close:=15.40
+Last Trade:=15.48
+Days Range:=15.30 &ndash; 15.50
+
+(nsit)
+52 Week Range:= 12.24 - 19.56
+Open:= 17.95
+EPS:=1.70
+P/E:=10.95
+Change:=+0.70 (3.90%)
+Volume:=254325
+Prev Close:=17.92
+Last Trade:=18.62
+Days Range:=17.94 &ndash; 18.68
+
+(nsr)
+52 Week Range:= 20.49 - 27.96
+Open:= 26.54
+EPS:=2.02
+P/E:=13.18
+Change:=+0.15 (0.57%)
+Volume:=352903
+Prev Close:=26.48
+Last Trade:=26.63
+Days Range:=26.27 &ndash; 26.68
+
+(ntap)
+52 Week Range:= 36.66 - 61.02
+Open:= 54.13
+EPS:=1.71
+P/E:=31.54
+Change:=-0.38 (-0.70%)
+Volume:=4721228
+Prev Close:=54.32
+Last Trade:=53.94
+Days Range:=53.46 &ndash; 54.32
+
+(ntct)
+52 Week Range:= 13.50 - 27.83
+Open:= 17.64
+EPS:=0.87
+P/E:=19.70
+Change:=-4.04 (-22.90%)
+Volume:=2900701
+Prev Close:=21.18
+Last Trade:=17.14
+Days Range:=17.00 &ndash; 18.57
+
+(nty)
+52 Week Range:= 31.80 - 55.01
+Open:= 88.09
+EPS:=3.93
+P/E:=13.99
+Change:=+0.00 (0.00%)
+Volume:=1991449
+Prev Close:=54.98
+Last Trade:=54.98
+Days Range:=54.98 &ndash; 54.98
+
+(nue)
+52 Week Range:= 35.71 - 49.24
+Open:= 41.40
+EPS:=0.82
+P/E:=50.26
+Change:=-0.36 (-0.87%)
+Volume:=2543151
+Prev Close:=41.57
+Last Trade:=41.21
+Days Range:=40.98 &ndash; 41.49
+
+(nutr)
+52 Week Range:= 11.86 - 16.99
+Open:= 15.33
+EPS:=1.52
+P/E:=10.03
+Change:=-0.06 (-0.39%)
+Volume:=20733
+Prev Close:=15.31
+Last Trade:=15.25
+Days Range:=15.13 &ndash; 15.34
+
+(nuva)
+52 Week Range:= 22.11 - 37.87
+Open:= 32.47
+EPS:=1.89
+P/E:=17.71
+Change:=+1.05 (3.23%)
+Volume:=803374
+Prev Close:=32.42
+Last Trade:=33.47
+Days Range:=32.47 &ndash; 33.78
+
+(nvax)
+52 Week Range:= 1.94 - 3.50
+Open:= 1.98
+EPS:=-0.30
+P/E:=N/A
+Change:=-0.10 (-5.05%)
+Volume:=1427663
+Prev Close:=1.97
+Last Trade:=1.87
+Days Range:=1.84 &ndash; 2.00
+
+(nvda)
+52 Week Range:= 8.65 - 26.17
+Open:= 16.13
+EPS:=0.41
+P/E:=38.73
+Change:=-0.27 (-1.67%)
+Volume:=13276984
+Prev Close:=16.15
+Last Trade:=15.88
+Days Range:=15.74 &ndash; 16.28
+
+(nwbi)
+52 Week Range:= 10.24 - 12.93
+Open:= 12.84
+EPS:=0.57
+P/E:=22.54
+Change:=+0.02 (0.16%)
+Volume:=1395597
+Prev Close:=12.83
+Last Trade:=12.85
+Days Range:=12.70 &ndash; 12.88
+
+(nwe)
+52 Week Range:= 25.90 - 33.65
+Open:= 33.58
+EPS:=2.24
+P/E:=14.97
+Change:=-0.06 (-0.18%)
+Volume:=137664
+Prev Close:=33.59
+Last Trade:=33.53
+Days Range:=33.32 &ndash; 33.59
+
+(nwl)
+52 Week Range:= 14.14 - 20.38
+Open:= 16.13
+EPS:=1.01
+P/E:=15.81
+Change:=-0.16 (-0.99%)
+Volume:=2961086
+Prev Close:=16.13
+Last Trade:=15.97
+Days Range:=15.86 &ndash; 16.19
+
+(nwsa)
+52 Week Range:= 11.65 - 18.35
+Open:= 17.90
+EPS:=1.12
+P/E:=16.19
+Change:=+0.07 (0.39%)
+Volume:=13985382
+Prev Close:=18.06
+Last Trade:=18.13
+Days Range:=17.84 &ndash; 18.20
+
+(nxst)
+52 Week Range:= 3.64 - 9.26
+Open:= 8.13
+EPS:=-0.15
+P/E:=N/A
+Change:=-0.07 (-0.86%)
+Volume:=63492
+Prev Close:=8.43
+Last Trade:=8.36
+Days Range:=8.07 &ndash; 8.45
+
+(nyny)
+52 Week Range:= 0.45 - 1.75
+Open:= 0.93
+EPS:=-0.25
+P/E:=N/A
+Change:=+0.09 (9.68%)
+Volume:=306862
+Prev Close:=0.93
+Last Trade:=1.02
+Days Range:=0.93 &ndash; 1.05
+
+(nyt)
+52 Week Range:= 7.06 - 11.72
+Open:= 8.86
+EPS:=0.67
+P/E:=13.18
+Change:=+0.12 (1.35%)
+Volume:=3280842
+Prev Close:=8.71
+Last Trade:=8.83
+Days Range:=8.71 &ndash; 8.99
+
+(nyx)
+52 Week Range:= 26.58 - 41.60
+Open:= 34.65
+EPS:=2.29
+P/E:=15.14
+Change:=-0.05 (-0.14%)
+Volume:=1702750
+Prev Close:=34.72
+Last Trade:=34.67
+Days Range:=34.60 &ndash; 34.92
+
+(oabc)
+52 Week Range:= 11.00 - 15.93
+Open:= 14.97
+EPS:=0.16
+P/E:=90.69
+Change:=-0.43 (-2.87%)
+Volume:=19429
+Prev Close:=14.94
+Last Trade:=14.51
+Days Range:=14.50 &ndash; 14.99
+
+(ob)
+52 Week Range:= 12.46 - 16.63
+Open:= 13.26
+EPS:=0.00
+P/E:=N/A
+Change:=-0.13 (-0.98%)
+Volume:=99932
+Prev Close:=13.28
+Last Trade:=13.15
+Days Range:=12.95 &ndash; 13.26
+
+(oclr)
+52 Week Range:= 6.00 - 18.95
+Open:= 6.79
+EPS:=0.06
+P/E:=111.83
+Change:=-0.03 (-0.44%)
+Volume:=898989
+Prev Close:=6.74
+Last Trade:=6.71
+Days Range:=6.58 &ndash; 6.80
+
+(oeh)
+52 Week Range:= 6.80 - 14.24
+Open:= 11.26
+EPS:=0.00
+P/E:=N/A
+Change:=-0.06 (-0.53%)
+Volume:=299012
+Prev Close:=11.20
+Last Trade:=11.14
+Days Range:=11.01 &ndash; 11.26
+
+(ofix)
+52 Week Range:= 26.00 - 43.47
+Open:= 42.94
+EPS:=0.00
+P/E:=N/A
+Change:=-0.12 (-0.28%)
+Volume:=92825
+Prev Close:=42.94
+Last Trade:=42.82
+Days Range:=42.57 &ndash; 43.13
+
+(oksb)
+52 Week Range:= 8.91 - 15.61
+Open:= 9.89
+EPS:=0.57
+P/E:=17.23
+Change:=-0.10 (-1.01%)
+Volume:=67217
+Prev Close:=9.92
+Last Trade:=9.82
+Days Range:=9.78 &ndash; 9.93
+
+(ompi)
+52 Week Range:= 8.61 - 13.00
+Open:= 9.58
+EPS:=0.22
+P/E:=44.64
+Change:=+0.21 (2.19%)
+Volume:=44461
+Prev Close:=9.61
+Last Trade:=9.82
+Days Range:=9.49 &ndash; 9.85
+
+(onb)
+52 Week Range:= 9.10 - 12.18
+Open:= 10.88
+EPS:=0.49
+P/E:=21.96
+Change:=-0.15 (-1.38%)
+Volume:=378088
+Prev Close:=10.91
+Last Trade:=10.76
+Days Range:=10.63 &ndash; 10.89
+
+(onxx)
+52 Week Range:= 19.64 - 45.90
+Open:= 35.12
+EPS:=-1.94
+P/E:=N/A
+Change:=+0.13 (0.37%)
+Volume:=326780
+Prev Close:=35.25
+Last Trade:=35.38
+Days Range:=35.04 &ndash; 35.65
+
+(opxt)
+52 Week Range:= 1.29 - 4.45
+Open:= 2.40
+EPS:=-0.35
+P/E:=N/A
+Change:=-0.06 (-2.50%)
+Volume:=512262
+Prev Close:=2.40
+Last Trade:=2.34
+Days Range:=2.32 &ndash; 2.45
+
+(opy)
+52 Week Range:= 22.11 - 34.87
+Open:= 28.67
+EPS:=2.46
+P/E:=11.38
+Change:=-0.80 (-2.79%)
+Volume:=22323
+Prev Close:=28.80
+Last Trade:=28.00
+Days Range:=27.69 &ndash; 28.79
+
+(orb)
+52 Week Range:= 12.66 - 19.38
+Open:= 17.15
+EPS:=0.86
+P/E:=19.66
+Change:=-0.24 (-1.40%)
+Volume:=309539
+Prev Close:=17.15
+Last Trade:=16.91
+Days Range:=16.77 &ndash; 17.15
+
+(orcc)
+52 Week Range:= 2.95 - 7.05
+Open:= 3.23
+EPS:=-0.36
+P/E:=N/A
+Change:=-0.11 (-3.41%)
+Volume:=118076
+Prev Close:=3.27
+Last Trade:=3.16
+Days Range:=3.15 &ndash; 3.33
+
+(orcl)
+52 Week Range:= 21.49 - 36.50
+Open:= 33.01
+EPS:=1.67
+P/E:=19.80
+Change:=+0.01 (0.03%)
+Volume:=21029574
+Prev Close:=33.05
+Last Trade:=33.06
+Days Range:=32.79 &ndash; 33.14
+
+(orly)
+52 Week Range:= 45.65 - 66.52
+Open:= 66.22
+EPS:=2.97
+P/E:=22.24
+Change:=-0.17 (-0.26%)
+Volume:=1129455
+Prev Close:=66.21
+Last Trade:=66.04
+Days Range:=65.65 &ndash; 66.35
+
+(osir)
+52 Week Range:= 5.79 - 8.58
+Open:= 8.00
+EPS:=0.45
+P/E:=17.71
+Change:=+0.37 (4.63%)
+Volume:=262658
+Prev Close:=7.60
+Last Trade:=7.97
+Days Range:=7.78 &ndash; 8.00
+
+(osur)
+52 Week Range:= 3.18 - 9.00
+Open:= 8.85
+EPS:=-0.09
+P/E:=N/A
+Change:=+0.08 (0.90%)
+Volume:=298865
+Prev Close:=8.87
+Last Trade:=8.95
+Days Range:=8.85 &ndash; 9.03
+
+(outd)
+52 Week Range:= 4.50 - 8.50
+Open:= 6.80
+EPS:=0.08
+P/E:=85.38
+Change:=+0.04 (0.59%)
+Volume:=19485
+Prev Close:=6.79
+Last Trade:=6.83
+Days Range:=6.65 &ndash; 6.83
+
+(oxm)
+52 Week Range:= 18.66 - 39.59
+Open:= 34.06
+EPS:=1.65
+P/E:=21.23
+Change:=+0.91 (2.67%)
+Volume:=146040
+Prev Close:=34.12
+Last Trade:=35.03
+Days Range:=33.70 &ndash; 35.07
+
+(oxps)
+52 Week Range:= 13.86 - 21.07
+Open:= 16.94
+EPS:=0.94
+P/E:=17.72
+Change:=-0.31 (-1.83%)
+Volume:=381767
+Prev Close:=16.97
+Last Trade:=16.66
+Days Range:=16.56 &ndash; 16.94
+
+(oxy)
+52 Week Range:= 72.13 - 115.93
+Open:= 105.60
+EPS:=6.02
+P/E:=17.73
+Change:=+1.23 (1.16%)
+Volume:=3283543
+Prev Close:=105.52
+Last Trade:=106.75
+Days Range:=105.49 &ndash; 107.50
+
+(oyog)
+52 Week Range:= 45.17 - 109.99
+Open:= 100.01
+EPS:=4.31
+P/E:=24.35
+Change:=+3.73 (3.73%)
+Volume:=215142
+Prev Close:=101.24
+Last Trade:=104.97
+Days Range:=99.06 &ndash; 105.00
+
+(ozrk)
+52 Week Range:= 34.12 - 52.89
+Open:= 52.93
+EPS:=3.66
+P/E:=14.54
+Change:=+0.42 (0.79%)
+Volume:=100149
+Prev Close:=52.81
+Last Trade:=53.23
+Days Range:=52.67 &ndash; 53.39
+
+(pacr)
+52 Week Range:= 4.42 - 8.76
+Open:= 5.00
+EPS:=0.10
+P/E:=49.30
+Change:=-0.09 (-1.80%)
+Volume:=110256
+Prev Close:=5.02
+Last Trade:=4.93
+Days Range:=4.88 &ndash; 5.00
+
+(pag)
+52 Week Range:= 10.89 - 23.24
+Open:= 22.94
+EPS:=1.38
+P/E:=16.45
+Change:=-0.28 (-1.22%)
+Volume:=1165524
+Prev Close:=22.98
+Last Trade:=22.70
+Days Range:=22.51 &ndash; 22.94
+
+(panl)
+52 Week Range:= 17.29 - 63.58
+Open:= 35.20
+EPS:=-0.76
+P/E:=N/A
+Change:=+0.83 (2.36%)
+Volume:=831126
+Prev Close:=35.32
+Last Trade:=36.15
+Days Range:=34.45 &ndash; 36.42
+
+(pay)
+52 Week Range:= 18.27 - 56.84
+Open:= 44.22
+EPS:=1.39
+P/E:=32.31
+Change:=+0.81 (1.83%)
+Volume:=1862424
+Prev Close:=44.10
+Last Trade:=44.91
+Days Range:=43.77 &ndash; 45.20
+
+(payx)
+52 Week Range:= 24.65 - 33.91
+Open:= 31.04
+EPS:=1.42
+P/E:=21.80
+Change:=-0.09 (-0.29%)
+Volume:=1461456
+Prev Close:=31.05
+Last Trade:=30.96
+Days Range:=30.79 &ndash; 31.18
+
+(pbct)
+52 Week Range:= 12.17 - 14.49
+Open:= 13.60
+EPS:=0.35
+P/E:=39.03
+Change:=+0.08 (0.59%)
+Volume:=3886561
+Prev Close:=13.58
+Last Trade:=13.66
+Days Range:=13.45 &ndash; 13.66
+
+(pbh)
+52 Week Range:= 7.08 - 13.21
+Open:= 13.17
+EPS:=0.58
+P/E:=22.50
+Change:=-0.09 (-0.68%)
+Volume:=296410
+Prev Close:=13.14
+Last Trade:=13.05
+Days Range:=12.99 &ndash; 13.17
+
+(pbi)
+52 Week Range:= 19.06 - 26.36
+Open:= 23.30
+EPS:=1.53
+P/E:=15.12
+Change:=-0.23 (-0.99%)
+Volume:=2341064
+Prev Close:=23.37
+Last Trade:=23.14
+Days Range:=23.02 &ndash; 23.31
+
+(pbny)
+52 Week Range:= 7.86 - 11.09
+Open:= 8.45
+EPS:=0.55
+P/E:=15.33
+Change:=-0.02 (-0.24%)
+Volume:=49203
+Prev Close:=8.45
+Last Trade:=8.43
+Days Range:=8.31 &ndash; 8.45
+
+(pby)
+52 Week Range:= 7.86 - 15.96
+Open:= 11.35
+EPS:=0.70
+P/E:=16.07
+Change:=-0.04 (-0.35%)
+Volume:=350834
+Prev Close:=11.29
+Last Trade:=11.25
+Days Range:=11.06 &ndash; 11.40
+
+(pcar)
+52 Week Range:= 38.75 - 58.75
+Open:= 52.00
+EPS:=1.59
+P/E:=32.69
+Change:=-0.08 (-0.15%)
+Volume:=2344354
+Prev Close:=52.05
+Last Trade:=51.97
+Days Range:=51.26 &ndash; 52.20
+
+(pccc)
+52 Week Range:= 5.75 - 9.91
+Open:= 8.44
+EPS:=0.93
+P/E:=9.11
+Change:=+0.04 (0.47%)
+Volume:=30881
+Prev Close:=8.43
+Last Trade:=8.47
+Days Range:=8.24 &ndash; 8.48
+
+(pch)
+52 Week Range:= 31.33 - 40.93
+Open:= 36.25
+EPS:=1.15
+P/E:=31.43
+Change:=+0.01 (0.03%)
+Volume:=165947
+Prev Close:=36.13
+Last Trade:=36.14
+Days Range:=36.01 &ndash; 36.42
+
+(pcln)
+52 Week Range:= 175.75 - 561.88
+Open:= 525.00
+EPS:=11.37
+P/E:=47.09
+Change:=+10.57 (2.01%)
+Volume:=870301
+Prev Close:=524.80
+Last Trade:=535.37
+Days Range:=521.11 &ndash; 537.10
+
+(pcs)
+52 Week Range:= 8.24 - 18.79
+Open:= 17.71
+EPS:=0.63
+P/E:=27.73
+Change:=-0.30 (-1.69%)
+Volume:=3900088
+Prev Close:=17.77
+Last Trade:=17.47
+Days Range:=17.25 &ndash; 17.71
+
+(pdm)
+52 Week Range:= 15.46 - 21.11
+Open:= 20.62
+EPS:=0.74
+P/E:=28.38
+Change:=+0.25 (1.21%)
+Volume:=1082471
+Prev Close:=20.75
+Last Trade:=21.00
+Days Range:=20.60 &ndash; 21.00
+
+(peb)
+52 Week Range:= 16.85 - 22.47
+Open:= 20.44
+EPS:=-0.33
+P/E:=N/A
+Change:=+0.04 (0.20%)
+Volume:=274582
+Prev Close:=20.44
+Last Trade:=20.48
+Days Range:=20.20 &ndash; 20.66
+
+(peet)
+52 Week Range:= 33.20 - 59.75
+Open:= 59.48
+EPS:=1.47
+P/E:=41.41
+Change:=+1.45 (2.44%)
+Volume:=274141
+Prev Close:=59.42
+Last Trade:=60.87
+Days Range:=59.40 &ndash; 61.52
+
+(pei)
+52 Week Range:= 10.03 - 17.34
+Open:= 15.78
+EPS:=-1.27
+P/E:=N/A
+Change:=+0.09 (0.57%)
+Volume:=352662
+Prev Close:=15.79
+Last Trade:=15.88
+Days Range:=15.51 &ndash; 15.92
+
+(petm)
+52 Week Range:= 28.88 - 46.01
+Open:= 45.71
+EPS:=2.16
+P/E:=21.31
+Change:=+0.26 (0.57%)
+Volume:=986370
+Prev Close:=45.77
+Last Trade:=46.03
+Days Range:=45.71 &ndash; 46.60
+
+(pfcb)
+52 Week Range:= 37.36 - 53.39
+Open:= 41.48
+EPS:=2.09
+P/E:=20.02
+Change:=+0.25 (0.60%)
+Volume:=393987
+Prev Close:=41.59
+Last Trade:=41.84
+Days Range:=40.93 &ndash; 41.94
+
+(pfe)
+52 Week Range:= 14.10 - 21.45
+Open:= 20.68
+EPS:=1.06
+P/E:=19.61
+Change:=+0.04 (0.19%)
+Volume:=28450069
+Prev Close:=20.75
+Last Trade:=20.79
+Days Range:=20.65 &ndash; 20.80
+
+(pg)
+52 Week Range:= 58.92 - 67.72
+Open:= 64.10
+EPS:=3.80
+P/E:=16.91
+Change:=-0.01 (-0.02%)
+Volume:=8264712
+Prev Close:=64.27
+Last Trade:=64.26
+Days Range:=63.95 &ndash; 64.50
+
+(pgi)
+52 Week Range:= 4.87 - 8.83
+Open:= 8.07
+EPS:=0.07
+P/E:=113.71
+Change:=-0.09 (-1.12%)
+Volume:=141536
+Prev Close:=8.05
+Last Trade:=7.96
+Days Range:=7.89 &ndash; 8.07
+
+(pgn)
+52 Week Range:= 4.57 - 49.03
+Open:= 48.70
+EPS:=2.91
+P/E:=16.76
+Change:=+0.21 (0.43%)
+Volume:=1739279
+Prev Close:=48.57
+Last Trade:=48.78
+Days Range:=48.37 &ndash; 48.89
+
+(pgnx)
+52 Week Range:= 4.00 - 8.69
+Open:= 7.41
+EPS:=-2.25
+P/E:=N/A
+Change:=-0.16 (-2.16%)
+Volume:=24433
+Prev Close:=7.40
+Last Trade:=7.24
+Days Range:=7.20 &ndash; 7.41
+
+(pgti)
+52 Week Range:= 1.62 - 2.76
+Open:= 1.76
+EPS:=-0.35
+P/E:=N/A
+Change:=+0.02 (1.14%)
+Volume:=49239
+Prev Close:=1.77
+Last Trade:=1.79
+Days Range:=1.76 &ndash; 1.82
+
+(phh)
+52 Week Range:= 17.45 - 25.55
+Open:= 20.62
+EPS:=1.55
+P/E:=13.05
+Change:=-0.43 (-2.09%)
+Volume:=668209
+Prev Close:=20.65
+Last Trade:=20.22
+Days Range:=20.13 &ndash; 20.63
+
+(phiik)
+52 Week Range:= 12.65 - 23.20
+Open:= 22.17
+EPS:=0.03
+P/E:=755.67
+Change:=+0.56 (2.53%)
+Volume:=29791
+Prev Close:=22.11
+Last Trade:=22.67
+Days Range:=22.15 &ndash; 22.69
+
+(phm)
+52 Week Range:= 6.13 - 9.31
+Open:= 7.81
+EPS:=-2.97
+P/E:=N/A
+Change:=-0.11 (-1.41%)
+Volume:=5138720
+Prev Close:=7.82
+Last Trade:=7.71
+Days Range:=7.54 &ndash; 7.81
+
+(pike)
+52 Week Range:= 6.66 - 10.49
+Open:= 9.19
+EPS:=-0.15
+P/E:=N/A
+Change:=+0.18 (1.96%)
+Volume:=50371
+Prev Close:=9.15
+Last Trade:=9.33
+Days Range:=9.08 &ndash; 9.34
+
+(pke)
+52 Week Range:= 23.56 - 33.65
+Open:= 28.04
+EPS:=1.58
+P/E:=18.08
+Change:=+0.42 (1.50%)
+Volume:=41375
+Prev Close:=28.14
+Last Trade:=28.56
+Days Range:=27.92 &ndash; 28.56
+
+(pki)
+52 Week Range:= 18.69 - 28.75
+Open:= 27.44
+EPS:=1.26
+P/E:=21.54
+Change:=-0.32 (-1.17%)
+Volume:=699955
+Prev Close:=27.46
+Last Trade:=27.14
+Days Range:=27.09 &ndash; 27.44
+
+(pl)
+52 Week Range:= 18.18 - 29.54
+Open:= 23.52
+EPS:=2.94
+P/E:=7.90
+Change:=-0.33 (-1.40%)
+Volume:=579084
+Prev Close:=23.56
+Last Trade:=23.23
+Days Range:=23.05 &ndash; 23.52
+
+(plce)
+52 Week Range:= 39.84 - 57.63
+Open:= 45.07
+EPS:=3.16
+P/E:=14.41
+Change:=+0.28 (0.62%)
+Volume:=305852
+Prev Close:=45.24
+Last Trade:=45.52
+Days Range:=44.54 &ndash; 45.70
+
+(plcm)
+52 Week Range:= 25.38 - 65.00
+Open:= 32.61
+EPS:=1.10
+P/E:=29.66
+Change:=-32.07 (-98.34%)
+Volume:=1643377
+Prev Close:=64.70
+Last Trade:=32.63
+Days Range:=32.01 &ndash; 32.96
+
+(plfe)
+52 Week Range:= 8.34 - 11.34
+Open:= 10.72
+EPS:=0.91
+P/E:=12.00
+Change:=+0.22 (2.05%)
+Volume:=51249
+Prev Close:=10.70
+Last Trade:=10.92
+Days Range:=10.70 &ndash; 10.99
+
+(plpc)
+52 Week Range:= 26.70 - 79.50
+Open:= 71.58
+EPS:=5.42
+P/E:=13.36
+Change:=+1.78 (2.49%)
+Volume:=15320
+Prev Close:=70.65
+Last Trade:=72.43
+Days Range:=70.72 &ndash; 72.95
+
+(pm)
+52 Week Range:= 46.23 - 71.75
+Open:= 66.90
+EPS:=4.08
+P/E:=16.47
+Change:=+0.44 (0.66%)
+Volume:=7142892
+Prev Close:=66.75
+Last Trade:=67.19
+Days Range:=66.79 &ndash; 68.16
+
+(pnm)
+52 Week Range:= 10.85 - 17.10
+Open:= 16.95
+EPS:=-0.22
+P/E:=N/A
+Change:=-0.13 (-0.77%)
+Volume:=906281
+Prev Close:=16.95
+Last Trade:=16.82
+Days Range:=16.74 &ndash; 17.00
+
+(pnra)
+52 Week Range:= 72.64 - 130.98
+Open:= 130.56
+EPS:=3.89
+P/E:=33.88
+Change:=+1.53 (1.17%)
+Volume:=292444
+Prev Close:=130.28
+Last Trade:=131.81
+Days Range:=128.53 &ndash; 132.24
+
+(pnw)
+52 Week Range:= 36.10 - 45.64
+Open:= 44.95
+EPS:=2.81
+P/E:=15.98
+Change:=-0.19 (-0.42%)
+Volume:=531575
+Prev Close:=45.10
+Last Trade:=44.91
+Days Range:=44.82 &ndash; 45.11
+
+(pnx)
+52 Week Range:= 1.61 - 2.86
+Open:= 2.40
+EPS:=-0.37
+P/E:=N/A
+Change:=+0.01 (0.42%)
+Volume:=494850
+Prev Close:=2.41
+Last Trade:=2.42
+Days Range:=2.40 &ndash; 2.49
+
+(podd)
+52 Week Range:= 12.58 - 22.58
+Open:= 22.60
+EPS:=-1.38
+P/E:=N/A
+Change:=+0.08 (0.35%)
+Volume:=322639
+Prev Close:=22.52
+Last Trade:=22.60
+Days Range:=22.49 &ndash; 22.81
+
+(powi)
+52 Week Range:= 26.26 - 43.88
+Open:= 39.35
+EPS:=1.58
+P/E:=24.53
+Change:=-0.74 (-1.88%)
+Volume:=198101
+Prev Close:=39.49
+Last Trade:=38.75
+Days Range:=38.66 &ndash; 39.50
+
+(ppc)
+52 Week Range:= 3.96 - 8.61
+Open:= 5.31
+EPS:=0.06
+P/E:=82.50
+Change:=-0.38 (-7.16%)
+Volume:=1418261
+Prev Close:=5.33
+Last Trade:=4.95
+Days Range:=4.86 &ndash; 5.32
+
+(ppd)
+52 Week Range:= 44.05 - 68.66
+Open:= 165.80
+EPS:=6.65
+P/E:=10.00
+Change:=+0.00 (0.00%)
+Volume:=859866
+Prev Close:=66.49
+Last Trade:=66.49
+Days Range:=66.49 &ndash; 66.49
+
+(ppg)
+52 Week Range:= 59.92 - 97.81
+Open:= 91.60
+EPS:=5.85
+P/E:=15.64
+Change:=-0.36 (-0.39%)
+Volume:=994933
+Prev Close:=91.85
+Last Trade:=91.49
+Days Range:=91.00 &ndash; 91.76
+
+(pq)
+52 Week Range:= 5.15 - 9.75
+Open:= 7.04
+EPS:=0.22
+P/E:=32.95
+Change:=+0.17 (2.41%)
+Volume:=1080087
+Prev Close:=7.08
+Last Trade:=7.25
+Days Range:=7.04 &ndash; 7.50
+
+(praa)
+52 Week Range:= 58.82 - 90.95
+Open:= 86.07
+EPS:=4.76
+P/E:=18.27
+Change:=+0.88 (1.02%)
+Volume:=116442
+Prev Close:=86.07
+Last Trade:=86.95
+Days Range:=86.07 &ndash; 88.49
+
+(prgo)
+52 Week Range:= 54.58 - 92.30
+Open:= 89.39
+EPS:=3.26
+P/E:=27.60
+Change:=+0.70 (0.78%)
+Volume:=324460
+Prev Close:=89.29
+Last Trade:=89.99
+Days Range:=89.23 &ndash; 90.25
+
+(prim)
+52 Week Range:= 5.62 - 13.62
+Open:= 13.48
+EPS:=0.82
+P/E:=16.77
+Change:=+0.36 (2.67%)
+Volume:=290106
+Prev Close:=13.39
+Last Trade:=13.75
+Days Range:=13.29 &ndash; 13.86
+
+(prm)
+52 Week Range:= 2.52 - 7.16
+Open:= 7.09
+EPS:=0.51
+P/E:=13.90
+Change:=+0.00 (0.00%)
+Volume:=76032
+Prev Close:=7.09
+Last Trade:=7.09
+Days Range:=7.08 &ndash; 7.09
+
+(prs)
+52 Week Range:= 3.41 - 5.66
+Open:= 5.28
+EPS:=0.00
+P/E:=N/A
+Change:=+0.01 (0.19%)
+Volume:=31246
+Prev Close:=5.28
+Last Trade:=5.29
+Days Range:=5.25 &ndash; 5.30
+
+(prsp)
+52 Week Range:= 28.27 - 46.75
+Open:= 44.47
+EPS:=2.79
+P/E:=15.96
+Change:=+0.09 (0.20%)
+Volume:=144123
+Prev Close:=44.45
+Last Trade:=44.54
+Days Range:=44.00 &ndash; 44.75
+
+(prx)
+52 Week Range:= 25.58 - 39.57
+Open:= 33.36
+EPS:=-1.22
+P/E:=N/A
+Change:=+0.34 (1.02%)
+Volume:=170125
+Prev Close:=33.37
+Last Trade:=33.71
+Days Range:=33.29 &ndash; 33.73
+
+(pss)
+52 Week Range:= 12.41 - 23.96
+Open:= 15.29
+EPS:=1.34
+P/E:=11.34
+Change:=-0.10 (-0.65%)
+Volume:=1056605
+Prev Close:=15.30
+Last Trade:=15.20
+Days Range:=14.82 &ndash; 15.31
+
+(ptv)
+52 Week Range:= 21.55 - 33.22
+Open:= 5.15
+EPS:=1.81
+P/E:=18.36
+Change:=+0.00 (0.00%)
+Volume:=5000
+Prev Close:=33.23
+Last Trade:=33.23
+Days Range:=33.23 &ndash; 33.23
+
+(pva)
+52 Week Range:= 12.82 - 20.26
+Open:= 13.51
+EPS:=-2.25
+P/E:=N/A
+Change:=+0.17 (1.26%)
+Volume:=793568
+Prev Close:=13.46
+Last Trade:=13.63
+Days Range:=13.51 &ndash; 14.00
+
+(pvtb)
+52 Week Range:= 10.24 - 16.49
+Open:= 14.04
+EPS:=0.27
+P/E:=50.81
+Change:=-0.34 (-2.42%)
+Volume:=403439
+Prev Close:=14.06
+Last Trade:=13.72
+Days Range:=13.58 &ndash; 14.04
+
+(pzn)
+52 Week Range:= 5.00 - 8.03
+Open:= 5.70
+EPS:=0.34
+P/E:=16.88
+Change:=+0.03 (0.53%)
+Volume:=30358
+Prev Close:=5.71
+Last Trade:=5.74
+Days Range:=5.41 &ndash; 5.75
+
+(pzz)
+52 Week Range:= 4.02 - 8.81
+Open:= 0.28
+EPS:=0.25
+P/E:=33.96
+Change:=+0.00 (0.00%)
+Volume:=16200
+Prev Close:=8.49
+Last Trade:=8.49
+Days Range:=8.49 &ndash; 8.49
+
+(pzza)
+52 Week Range:= 22.51 - 34.75
+Open:= 32.71
+EPS:=1.97
+P/E:=16.35
+Change:=-1.59 (-4.86%)
+Volume:=400194
+Prev Close:=33.79
+Last Trade:=32.20
+Days Range:=31.54 &ndash; 32.99
+
+(qcom)
+52 Week Range:= 31.65 - 59.84
+Open:= 57.75
+EPS:=2.30
+P/E:=25.28
+Change:=+0.26 (0.45%)
+Volume:=10669106
+Prev Close:=57.88
+Last Trade:=58.14
+Days Range:=57.51 &ndash; 58.25
+
+(qcor)
+52 Week Range:= 8.89 - 27.24
+Open:= 26.25
+EPS:=0.58
+P/E:=45.88
+Change:=+0.11 (0.42%)
+Volume:=961449
+Prev Close:=26.50
+Last Trade:=26.61
+Days Range:=25.77 &ndash; 26.82
+
+(qdel)
+52 Week Range:= 10.75 - 16.30
+Open:= 15.37
+EPS:=0.04
+P/E:=397.50
+Change:=+0.60 (3.90%)
+Volume:=191873
+Prev Close:=15.30
+Last Trade:=15.90
+Days Range:=15.32 &ndash; 15.90
+
+(qgen)
+52 Week Range:= 16.86 - 22.20
+Open:= 19.74
+EPS:=0.00
+P/E:=N/A
+Change:=+0.26 (1.32%)
+Volume:=2919888
+Prev Close:=19.07
+Last Trade:=19.33
+Days Range:=19.24 &ndash; 19.75
+
+(qlty)
+52 Week Range:= 4.60 - 13.65
+Open:= 13.24
+EPS:=-0.28
+P/E:=N/A
+Change:=-0.20 (-1.51%)
+Volume:=129169
+Prev Close:=13.24
+Last Trade:=13.04
+Days Range:=12.99 &ndash; 13.27
+
+(r)
+52 Week Range:= 37.00 - 59.25
+Open:= 58.35
+EPS:=2.64
+P/E:=21.86
+Change:=-0.90 (-1.54%)
+Volume:=489199
+Prev Close:=58.60
+Last Trade:=57.70
+Days Range:=57.44 &ndash; 58.50
+
+(rad)
+52 Week Range:= 0.86 - 1.47
+Open:= 1.32
+EPS:=-0.63
+P/E:=N/A
+Change:=-0.07 (-5.30%)
+Volume:=9291616
+Prev Close:=1.34
+Last Trade:=1.27
+Days Range:=1.23 &ndash; 1.33
+
+(rah)
+52 Week Range:= 53.90 - 91.35
+Open:= 86.97
+EPS:=4.49
+P/E:=19.40
+Change:=+0.10 (0.11%)
+Volume:=491190
+Prev Close:=87.00
+Last Trade:=87.10
+Days Range:=86.95 &ndash; 87.45
+
+(ras)
+52 Week Range:= 1.30 - 7.19
+Open:= 6.83
+EPS:=0.00
+P/E:=N/A
+Change:=+0.24 (3.51%)
+Volume:=1751618
+Prev Close:=6.86
+Last Trade:=7.10
+Days Range:=6.80 &ndash; 7.31
+
+(rden)
+52 Week Range:= 13.69 - 31.84
+Open:= 29.56
+EPS:=1.32
+P/E:=22.92
+Change:=+0.70 (2.37%)
+Volume:=142425
+Prev Close:=29.55
+Last Trade:=30.25
+Days Range:=29.34 &ndash; 30.37
+
+(recn)
+52 Week Range:= 11.00 - 21.94
+Open:= 12.49
+EPS:=0.48
+P/E:=25.73
+Change:=-0.19 (-1.52%)
+Volume:=277353
+Prev Close:=12.54
+Last Trade:=12.35
+Days Range:=12.22 &ndash; 12.49
+
+(reg)
+52 Week Range:= 31.94 - 47.41
+Open:= 44.97
+EPS:=-0.23
+P/E:=N/A
+Change:=+0.52 (1.16%)
+Volume:=708261
+Prev Close:=44.99
+Last Trade:=45.51
+Days Range:=44.80 &ndash; 45.54
+
+(ren)
+52 Week Range:= 10.48 - 18.55
+Open:= 16.54
+EPS:=-0.29
+P/E:=N/A
+Change:=+0.30 (1.81%)
+Volume:=281236
+Prev Close:=16.52
+Last Trade:=16.82
+Days Range:=16.54 &ndash; 16.89
+
+(rev)
+52 Week Range:= 9.22 - 17.75
+Open:= 17.20
+EPS:=6.41
+P/E:=2.70
+Change:=+0.06 (0.35%)
+Volume:=50557
+Prev Close:=17.27
+Last Trade:=17.33
+Days Range:=17.00 &ndash; 17.49
+
+(revu)
+52 Week Range:= 0.18 - 2.51
+Open:= 0.22
+EPS:=-1.06
+P/E:=N/A
+Change:=+0.00 (0.00%)
+Volume:=183764
+Prev Close:=0.23
+Last Trade:=0.23
+Days Range:=0.21 &ndash; 0.24
+
+(rfmd)
+52 Week Range:= 3.65 - 8.48
+Open:= 6.35
+EPS:=0.44
+P/E:=14.43
+Change:=-0.02 (-0.31%)
+Volume:=4062697
+Prev Close:=6.37
+Last Trade:=6.35
+Days Range:=6.23 &ndash; 6.42
+
+(rgr)
+52 Week Range:= 12.66 - 24.05
+Open:= 22.18
+EPS:=1.44
+P/E:=15.85
+Change:=+0.68 (3.07%)
+Volume:=94762
+Prev Close:=22.14
+Last Trade:=22.82
+Days Range:=21.91 &ndash; 22.87
+
+(rhi)
+52 Week Range:= 21.16 - 34.26
+Open:= 27.51
+EPS:=0.57
+P/E:=47.33
+Change:=-0.56 (-2.04%)
+Volume:=1371725
+Prev Close:=27.54
+Last Trade:=26.98
+Days Range:=26.96 &ndash; 27.51
+
+(rigl)
+52 Week Range:= 6.42 - 9.41
+Open:= 9.24
+EPS:=0.74
+P/E:=12.54
+Change:=-0.01 (-0.11%)
+Volume:=312573
+Prev Close:=9.29
+Last Trade:=9.28
+Days Range:=9.19 &ndash; 9.35
+
+(rimm)
+52 Week Range:= 25.82 - 70.54
+Open:= 29.34
+EPS:=0.00
+P/E:=N/A
+Change:=-0.01 (-0.03%)
+Volume:=15499434
+Prev Close:=28.93
+Last Trade:=28.92
+Days Range:=28.61 &ndash; 29.76
+
+(rjet)
+52 Week Range:= 4.20 - 9.58
+Open:= 5.60
+EPS:=0.19
+P/E:=27.68
+Change:=-0.31 (-5.54%)
+Volume:=398661
+Prev Close:=5.57
+Last Trade:=5.26
+Days Range:=5.26 &ndash; 5.60
+
+(rkt)
+52 Week Range:= 46.61 - 78.64
+Open:= 66.83
+EPS:=5.64
+P/E:=11.55
+Change:=-2.13 (-3.19%)
+Volume:=1367230
+Prev Close:=67.30
+Last Trade:=65.17
+Days Range:=64.34 &ndash; 66.83
+
+(rli)
+52 Week Range:= 50.86 - 62.52
+Open:= 62.38
+EPS:=6.11
+P/E:=10.29
+Change:=+0.44 (0.71%)
+Volume:=72518
+Prev Close:=62.42
+Last Trade:=62.86
+Days Range:=62.13 &ndash; 62.91
+
+(rloc)
+52 Week Range:= 12.25 - 28.39
+Open:= 20.74
+EPS:=-0.58
+P/E:=N/A
+Change:=+0.24 (1.16%)
+Volume:=105439
+Prev Close:=20.79
+Last Trade:=21.03
+Days Range:=20.38 &ndash; 21.28
+
+(rnow)
+52 Week Range:= 14.00 - 36.70
+Open:= 31.69
+EPS:=0.85
+P/E:=36.82
+Change:=-0.39 (-1.23%)
+Volume:=835335
+Prev Close:=31.69
+Last Trade:=31.30
+Days Range:=31.12 &ndash; 31.97
+
+(rnr)
+52 Week Range:= 54.75 - 73.93
+Open:= 70.49
+EPS:=0.00
+P/E:=N/A
+Change:=-1.16 (-1.65%)
+Volume:=319352
+Prev Close:=70.56
+Last Trade:=69.40
+Days Range:=69.08 &ndash; 70.49
+
+(rnst)
+52 Week Range:= 12.85 - 18.09
+Open:= 14.87
+EPS:=1.46
+P/E:=10.20
+Change:=+0.08 (0.54%)
+Volume:=45926
+Prev Close:=14.81
+Last Trade:=14.89
+Days Range:=14.76 &ndash; 15.01
+
+(roc)
+52 Week Range:= 21.59 - 57.14
+Open:= 56.57
+EPS:=3.15
+P/E:=18.37
+Change:=+1.39 (2.46%)
+Volume:=1157329
+Prev Close:=56.47
+Last Trade:=57.86
+Days Range:=56.47 &ndash; 58.18
+
+(rocm)
+52 Week Range:= 8.27 - 11.84
+Open:= 9.00
+EPS:=-0.09
+P/E:=N/A
+Change:=-0.14 (-1.56%)
+Volume:=95320
+Prev Close:=8.99
+Last Trade:=8.85
+Days Range:=8.85 &ndash; 9.29
+
+(rodm)
+52 Week Range:= 1.20 - 3.33
+Open:= 1.35
+EPS:=-0.21
+P/E:=N/A
+Change:=-0.05 (-3.70%)
+Volume:=49514
+Prev Close:=1.35
+Last Trade:=1.30
+Days Range:=1.30 &ndash; 1.36
+
+(roiak)
+52 Week Range:= 0.55 - 3.04
+Open:= 1.72
+EPS:=-1.70
+P/E:=N/A
+Change:=+0.00 (0.00%)
+Volume:=191707
+Prev Close:=1.71
+Last Trade:=1.71
+Days Range:=1.69 &ndash; 1.73
+
+(rok)
+52 Week Range:= 48.35 - 98.19
+Open:= 88.61
+EPS:=3.92
+P/E:=22.51
+Change:=-0.75 (-0.85%)
+Volume:=932122
+Prev Close:=88.99
+Last Trade:=88.24
+Days Range:=87.97 &ndash; 89.03
+
+(rol)
+52 Week Range:= 18.68 - 28.99
+Open:= 20.74
+EPS:=0.63
+P/E:=33.06
+Change:=+0.12 (0.58%)
+Volume:=150462
+Prev Close:=20.71
+Last Trade:=20.83
+Days Range:=20.66 &ndash; 20.90
+
+(roll)
+52 Week Range:= 26.53 - 40.78
+Open:= 38.28
+EPS:=1.58
+P/E:=24.49
+Change:=+0.31 (0.81%)
+Volume:=99620
+Prev Close:=38.39
+Last Trade:=38.70
+Days Range:=38.27 &ndash; 39.25
+
+(rop)
+52 Week Range:= 54.21 - 88.76
+Open:= 83.72
+EPS:=3.63
+P/E:=23.02
+Change:=-0.17 (-0.20%)
+Volume:=761845
+Prev Close:=83.75
+Last Trade:=83.58
+Days Range:=83.18 &ndash; 83.97
+
+(rose)
+52 Week Range:= 18.84 - 53.87
+Open:= 52.40
+EPS:=0.44
+P/E:=122.48
+Change:=+1.51 (2.88%)
+Volume:=1013479
+Prev Close:=52.38
+Last Trade:=53.89
+Days Range:=52.05 &ndash; 54.84
+
+(rost)
+52 Week Range:= 48.71 - 83.11
+Open:= 81.25
+EPS:=4.94
+P/E:=16.44
+Change:=-0.07 (-0.09%)
+Volume:=932238
+Prev Close:=81.27
+Last Trade:=81.20
+Days Range:=80.82 &ndash; 81.72
+
+(rt)
+52 Week Range:= 7.63 - 15.57
+Open:= 11.25
+EPS:=0.84
+P/E:=13.27
+Change:=-0.08 (-0.71%)
+Volume:=681988
+Prev Close:=11.23
+Last Trade:=11.15
+Days Range:=10.93 &ndash; 11.25
+
+(rtec)
+52 Week Range:= 7.01 - 12.75
+Open:= 10.79
+EPS:=1.00
+P/E:=10.70
+Change:=-0.09 (-0.83%)
+Volume:=185557
+Prev Close:=10.79
+Last Trade:=10.70
+Days Range:=10.62 &ndash; 10.81
+
+(rtix)
+52 Week Range:= 2.02 - 3.18
+Open:= 2.86
+EPS:=-2.33
+P/E:=N/A
+Change:=+0.06 (2.10%)
+Volume:=254549
+Prev Close:=2.84
+Last Trade:=2.90
+Days Range:=2.85 &ndash; 2.91
+
+(rue)
+52 Week Range:= 20.28 - 35.60
+Open:= 34.00
+EPS:=1.37
+P/E:=24.93
+Change:=+0.26 (0.76%)
+Volume:=245819
+Prev Close:=33.89
+Last Trade:=34.15
+Days Range:=33.43 &ndash; 34.22
+
+(rwt)
+52 Week Range:= 13.49 - 17.16
+Open:= 15.28
+EPS:=1.00
+P/E:=14.91
+Change:=-0.40 (-2.62%)
+Volume:=974258
+Prev Close:=15.31
+Last Trade:=14.91
+Days Range:=14.82 &ndash; 15.28
+
+(safm)
+52 Week Range:= 38.17 - 53.64
+Open:= 47.15
+EPS:=1.40
+P/E:=33.56
+Change:=-0.35 (-0.74%)
+Volume:=219697
+Prev Close:=47.33
+Last Trade:=46.98
+Days Range:=46.50 &ndash; 47.54
+
+(saft)
+52 Week Range:= 37.12 - 50.10
+Open:= 42.52
+EPS:=2.64
+P/E:=16.13
+Change:=+0.11 (0.26%)
+Volume:=34441
+Prev Close:=42.48
+Last Trade:=42.59
+Days Range:=42.29 &ndash; 42.60
+
+(sam)
+52 Week Range:= 60.95 - 100.93
+Open:= 90.21
+EPS:=3.37
+P/E:=26.82
+Change:=+0.16 (0.18%)
+Volume:=42772
+Prev Close:=90.21
+Last Trade:=90.37
+Days Range:=89.34 &ndash; 90.73
+
+(sanm)
+52 Week Range:= 8.92 - 17.32
+Open:= 10.41
+EPS:=1.14
+P/E:=8.79
+Change:=-0.39 (-3.75%)
+Volume:=471566
+Prev Close:=10.41
+Last Trade:=10.02
+Days Range:=9.98 &ndash; 10.41
+
+(sbib)
+52 Week Range:= 4.34 - 9.37
+Open:= 8.36
+EPS:=0.07
+P/E:=115.57
+Change:=-0.27 (-3.23%)
+Volume:=517818
+Prev Close:=8.36
+Last Trade:=8.09
+Days Range:=8.07 &ndash; 8.36
+
+(sbp)
+52 Week Range:= 5.97 - 13.12
+Open:= 1.21
+EPS:=0.00
+P/E:=N/A
+Change:=+0.00 (0.00%)
+Volume:=5000
+Prev Close:=12.68
+Last Trade:=12.68
+Days Range:=12.68 &ndash; 12.68
+
+(sbsi)
+52 Week Range:= 17.78 - 23.00
+Open:= 20.17
+EPS:=2.14
+P/E:=9.40
+Change:=-0.05 (-0.25%)
+Volume:=17324
+Prev Close:=20.16
+Last Trade:=20.11
+Days Range:=19.87 &ndash; 20.17
+
+(sbux)
+52 Week Range:= 22.50 - 40.26
+Open:= 40.17
+EPS:=1.43
+P/E:=28.64
+Change:=+0.76 (1.89%)
+Volume:=7170631
+Prev Close:=40.19
+Last Trade:=40.95
+Days Range:=39.77 &ndash; 41.11
+
+(scl)
+52 Week Range:= 53.55 - 78.86
+Open:= 71.94
+EPS:=5.70
+P/E:=12.63
+Change:=-0.14 (-0.19%)
+Volume:=35786
+Prev Close:=72.11
+Last Trade:=71.97
+Days Range:=71.41 &ndash; 72.30
+
+(scmp)
+52 Week Range:= 3.25 - 4.75
+Open:= 4.15
+EPS:=-0.23
+P/E:=N/A
+Change:=-0.03 (-0.72%)
+Volume:=10382
+Prev Close:=4.13
+Last Trade:=4.10
+Days Range:=4.01 &ndash; 4.15
+
+(scs)
+52 Week Range:= 6.17 - 12.12
+Open:= 11.52
+EPS:=0.30
+P/E:=38.27
+Change:=-0.01 (-0.09%)
+Volume:=507762
+Prev Close:=11.49
+Last Trade:=11.48
+Days Range:=11.36 &ndash; 11.54
+
+(scvl)
+52 Week Range:= 16.24 - 31.43
+Open:= 31.21
+EPS:=2.09
+P/E:=14.85
+Change:=-0.21 (-0.67%)
+Volume:=57654
+Prev Close:=31.25
+Last Trade:=31.04
+Days Range:=30.76 &ndash; 31.34
+
+(seb)
+52 Week Range:= 1370.00 - 2470.00
+Open:= 2410.00
+EPS:=276.82
+P/E:=8.72
+Change:=-6.05 (-0.25%)
+Volume:=357
+Prev Close:=2,420.05
+Last Trade:=2,414.00
+Days Range:=2,395.00 &ndash; 2,414.00
+
+(see)
+52 Week Range:= 19.34 - 28.77
+Open:= 23.89
+EPS:=1.44
+P/E:=16.40
+Change:=-0.26 (-1.09%)
+Volume:=945171
+Prev Close:=23.87
+Last Trade:=23.61
+Days Range:=23.52 &ndash; 23.92
+
+(seno)
+52 Week Range:= 3.52 - 11.03
+Open:= 0.00
+EPS:=-0.17
+P/E:=N/A
+Change:=+0.00 (0.00%)
+Volume:=18726967
+Prev Close:=11.00
+Last Trade:=11.00
+Days Range:=11.00 &ndash; 11.00
+
+(sf)
+52 Week Range:= 34.97 - 74.91
+Open:= 36.32
+EPS:=0.11
+P/E:=329.27
+Change:=-0.24 (-0.66%)
+Volume:=353651
+Prev Close:=36.46
+Last Trade:=36.22
+Days Range:=36.05 &ndash; 36.50
+
+(sfsf)
+52 Week Range:= 19.12 - 40.44
+Open:= 29.70
+EPS:=-0.13
+P/E:=N/A
+Change:=-0.27 (-0.91%)
+Volume:=1630131
+Prev Close:=29.70
+Last Trade:=29.43
+Days Range:=29.13 &ndash; 29.86
+
+(shld)
+52 Week Range:= 59.21 - 94.79
+Open:= 71.74
+EPS:=-0.57
+P/E:=N/A
+Change:=-1.36 (-1.90%)
+Volume:=214392
+Prev Close:=72.13
+Last Trade:=70.77
+Days Range:=70.59 &ndash; 72.00
+
+(shoo)
+52 Week Range:= 30.30 - 58.01
+Open:= 38.43
+EPS:=1.84
+P/E:=21.26
+Change:=+0.69 (1.80%)
+Volume:=407205
+Prev Close:=38.43
+Last Trade:=39.12
+Days Range:=38.00 &ndash; 39.24
+
+(shw)
+52 Week Range:= 66.13 - 87.87
+Open:= 85.50
+EPS:=4.55
+P/E:=18.64
+Change:=-0.88 (-1.03%)
+Volume:=849588
+Prev Close:=85.69
+Last Trade:=84.81
+Days Range:=84.40 &ndash; 85.50
+
+(sial)
+52 Week Range:= 48.80 - 74.27
+Open:= 74.11
+EPS:=3.28
+P/E:=22.61
+Change:=-0.09 (-0.12%)
+Volume:=714685
+Prev Close:=74.24
+Last Trade:=74.15
+Days Range:=73.74 &ndash; 74.43
+
+(simg)
+52 Week Range:= 2.98 - 10.20
+Open:= 6.58
+EPS:=0.18
+P/E:=38.33
+Change:=+0.33 (5.02%)
+Volume:=888721
+Prev Close:=6.57
+Last Trade:=6.90
+Days Range:=6.54 &ndash; 6.92
+
+(siro)
+52 Week Range:= 29.55 - 57.87
+Open:= 55.06
+EPS:=1.99
+P/E:=27.56
+Change:=-0.10 (-0.18%)
+Volume:=560058
+Prev Close:=54.94
+Last Trade:=54.84
+Days Range:=54.56 &ndash; 55.52
+
+(sivb)
+52 Week Range:= 36.72 - 60.76
+Open:= 60.31
+EPS:=2.56
+P/E:=23.69
+Change:=+0.19 (0.32%)
+Volume:=309649
+Prev Close:=60.46
+Last Trade:=60.65
+Days Range:=60.15 &ndash; 60.92
+
+(sji)
+52 Week Range:= 42.27 - 58.03
+Open:= 54.95
+EPS:=2.92
+P/E:=18.79
+Change:=-0.06 (-0.11%)
+Volume:=111486
+Prev Close:=54.94
+Last Trade:=54.88
+Days Range:=54.74 &ndash; 55.43
+
+(sjm)
+52 Week Range:= 57.20 - 79.84
+Open:= 76.73
+EPS:=4.05
+P/E:=18.90
+Change:=-0.33 (-0.43%)
+Volume:=622801
+Prev Close:=76.86
+Last Trade:=76.53
+Days Range:=76.14 &ndash; 76.95
+
+(sjw)
+52 Week Range:= 21.88 - 28.00
+Open:= 24.38
+EPS:=1.28
+P/E:=19.16
+Change:=+0.15 (0.62%)
+Volume:=36838
+Prev Close:=24.38
+Last Trade:=24.53
+Days Range:=24.18 &ndash; 24.70
+
+(slh)
+52 Week Range:= 35.93 - 60.48
+Open:= 60.48
+EPS:=2.24
+P/E:=27.17
+Change:=+0.40 (0.66%)
+Volume:=275428
+Prev Close:=60.45
+Last Trade:=60.85
+Days Range:=60.25 &ndash; 60.91
+
+(slrc)
+52 Week Range:= 18.75 - 25.93
+Open:= 24.87
+EPS:=3.73
+P/E:=6.65
+Change:=-0.14 (-0.56%)
+Volume:=241524
+Prev Close:=24.94
+Last Trade:=24.80
+Days Range:=24.69 &ndash; 24.90
+
+(smg)
+52 Week Range:= 43.88 - 60.62
+Open:= 51.69
+EPS:=3.28
+P/E:=15.37
+Change:=-1.19 (-2.30%)
+Volume:=1648246
+Prev Close:=51.61
+Last Trade:=50.42
+Days Range:=49.86 &ndash; 51.88
+
+(smod)
+52 Week Range:= 4.31 - 9.31
+Open:= 9.17
+EPS:=0.00
+P/E:=N/A
+Change:=-0.02 (-0.22%)
+Volume:=1059825
+Prev Close:=9.17
+Last Trade:=9.15
+Days Range:=9.15 &ndash; 9.18
+
+(smrt)
+52 Week Range:= 5.90 - 10.95
+Open:= 9.82
+EPS:=1.11
+P/E:=9.01
+Change:=+0.28 (2.85%)
+Volume:=141272
+Prev Close:=9.72
+Last Trade:=10.00
+Days Range:=9.77 &ndash; 10.04
+
+(smsi)
+52 Week Range:= 3.94 - 17.03
+Open:= 4.00
+EPS:=0.09
+P/E:=43.44
+Change:=-0.13 (-3.25%)
+Volume:=675342
+Prev Close:=4.04
+Last Trade:=3.91
+Days Range:=3.79 &ndash; 4.04
+
+(sndk)
+52 Week Range:= 33.03 - 53.61
+Open:= 43.60
+EPS:=5.37
+P/E:=8.09
+Change:=+0.65 (1.49%)
+Volume:=6732495
+Prev Close:=42.80
+Last Trade:=43.45
+Days Range:=43.22 &ndash; 43.99
+
+(snh)
+52 Week Range:= 19.31 - 25.28
+Open:= 23.84
+EPS:=0.89
+P/E:=26.82
+Change:=+0.03 (0.13%)
+Volume:=2252247
+Prev Close:=23.84
+Last Trade:=23.87
+Days Range:=23.66 &ndash; 23.89
+
+(solr)
+52 Week Range:= 5.50 - 16.40
+Open:= 16.19
+EPS:=1.24
+P/E:=13.80
+Change:=+0.93 (5.74%)
+Volume:=4929108
+Prev Close:=16.18
+Last Trade:=17.11
+Days Range:=16.11 &ndash; 17.19
+
+(sonc)
+52 Week Range:= 7.28 - 11.86
+Open:= 10.85
+EPS:=0.25
+P/E:=43.20
+Change:=-0.08 (-0.74%)
+Volume:=552645
+Prev Close:=10.88
+Last Trade:=10.80
+Days Range:=10.63 &ndash; 10.93
+
+(sone)
+52 Week Range:= 4.73 - 7.75
+Open:= 7.50
+EPS:=-0.08
+P/E:=N/A
+Change:=-0.04 (-0.53%)
+Volume:=370272
+Prev Close:=7.49
+Last Trade:=7.45
+Days Range:=7.37 &ndash; 7.52
+
+(spec)
+52 Week Range:= 11.16 - 20.04
+Open:= 6.29
+EPS:=1.05
+P/E:=19.06
+Change:=+0.00 (0.00%)
+Volume:=141575
+Prev Close:=20.01
+Last Trade:=20.01
+Days Range:=20.01 &ndash; 20.01
+
+(spls)
+52 Week Range:= 14.75 - 23.75
+Open:= 15.90
+EPS:=1.24
+P/E:=12.79
+Change:=-0.06 (-0.38%)
+Volume:=8974425
+Prev Close:=15.92
+Last Trade:=15.86
+Days Range:=15.79 &ndash; 15.96
+
+(spmd)
+52 Week Range:= 3.31 - 22.50
+Open:= 4.00
+EPS:=-1.58
+P/E:=N/A
+Change:=+0.14 (3.50%)
+Volume:=128267
+Prev Close:=3.91
+Last Trade:=4.05
+Days Range:=3.94 &ndash; 4.14
+
+(spn)
+52 Week Range:= 18.44 - 41.49
+Open:= 37.64
+EPS:=0.95
+P/E:=40.44
+Change:=+0.63 (1.67%)
+Volume:=639940
+Prev Close:=37.79
+Last Trade:=38.42
+Days Range:=37.31 &ndash; 38.74
+
+(sptn)
+52 Week Range:= 12.76 - 19.81
+Open:= 19.51
+EPS:=1.43
+P/E:=14.08
+Change:=+0.57 (2.92%)
+Volume:=281530
+Prev Close:=19.56
+Last Trade:=20.13
+Days Range:=19.48 &ndash; 20.17
+
+(spw)
+52 Week Range:= 50.80 - 86.97
+Open:= 85.38
+EPS:=3.98
+P/E:=21.24
+Change:=-0.66 (-0.77%)
+Volume:=167948
+Prev Close:=85.21
+Last Trade:=84.55
+Days Range:=84.40 &ndash; 85.38
+
+(srcl)
+52 Week Range:= 61.02 - 95.71
+Open:= 90.99
+EPS:=2.47
+P/E:=37.13
+Change:=+0.50 (0.55%)
+Volume:=532093
+Prev Close:=91.22
+Last Trade:=91.72
+Days Range:=90.89 &ndash; 92.10
+
+(srdx)
+52 Week Range:= 8.29 - 16.68
+Open:= 11.21
+EPS:=-1.17
+P/E:=N/A
+Change:=+0.04 (0.36%)
+Volume:=62090
+Prev Close:=11.25
+Last Trade:=11.29
+Days Range:=10.95 &ndash; 11.44
+
+(sri)
+52 Week Range:= 7.02 - 17.22
+Open:= 14.88
+EPS:=0.50
+P/E:=29.64
+Change:=-0.10 (-0.67%)
+Volume:=86310
+Prev Close:=14.92
+Last Trade:=14.82
+Days Range:=14.62 &ndash; 15.00
+
+(srsl)
+52 Week Range:= 7.56 - 11.07
+Open:= 9.87
+EPS:=0.12
+P/E:=80.17
+Change:=-0.24 (-2.43%)
+Volume:=74812
+Prev Close:=9.86
+Last Trade:=9.62
+Days Range:=9.20 &ndash; 10.00
+
+(srx)
+52 Week Range:= 18.31 - 31.31
+Open:= 31.01
+EPS:=1.45
+P/E:=21.38
+Change:=-0.02 (-0.06%)
+Volume:=477268
+Prev Close:=31.02
+Last Trade:=31.00
+Days Range:=30.97 &ndash; 31.03
+
+(srz)
+52 Week Range:= 2.18 - 12.44
+Open:= 9.84
+EPS:=0.45
+P/E:=22.16
+Change:=+0.14 (1.42%)
+Volume:=582426
+Prev Close:=9.83
+Last Trade:=9.97
+Days Range:=9.75 &ndash; 9.98
+
+(ssp)
+52 Week Range:= 6.71 - 10.56
+Open:= 9.70
+EPS:=0.33
+P/E:=29.64
+Change:=+0.05 (0.52%)
+Volume:=149299
+Prev Close:=9.73
+Last Trade:=9.78
+Days Range:=9.62 &ndash; 9.80
+
+(stba)
+52 Week Range:= 16.64 - 23.91
+Open:= 18.92
+EPS:=1.15
+P/E:=16.23
+Change:=-0.33 (-1.74%)
+Volume:=106231
+Prev Close:=19.00
+Last Trade:=18.67
+Days Range:=18.53 &ndash; 19.05
+
+(stfc)
+52 Week Range:= 13.40 - 18.35
+Open:= 17.54
+EPS:=0.61
+P/E:=28.41
+Change:=-0.24 (-1.37%)
+Volume:=13895
+Prev Close:=17.57
+Last Trade:=17.33
+Days Range:=17.21 &ndash; 17.54
+
+(sti)
+52 Week Range:= 21.94 - 33.14
+Open:= 26.40
+EPS:=0.37
+P/E:=69.92
+Change:=-0.54 (-2.05%)
+Volume:=4275108
+Prev Close:=26.41
+Last Trade:=25.87
+Days Range:=25.54 &ndash; 26.40
+
+(stnr)
+52 Week Range:= 33.47 - 51.09
+Open:= 46.13
+EPS:=0.00
+P/E:=N/A
+Change:=+1.18 (2.56%)
+Volume:=104272
+Prev Close:=46.01
+Last Trade:=47.19
+Days Range:=46.13 &ndash; 48.15
+
+(stu)
+52 Week Range:= 17.81 - 50.22
+Open:= 20.90
+EPS:=-24.02
+P/E:=N/A
+Change:=+0.00 (0.00%)
+Volume:=364635
+Prev Close:=32.44
+Last Trade:=32.44
+Days Range:=32.44 &ndash; 32.44
+
+(stwd)
+52 Week Range:= 16.57 - 23.67
+Open:= 20.68
+EPS:=1.45
+P/E:=14.24
+Change:=-0.06 (-0.29%)
+Volume:=653467
+Prev Close:=20.71
+Last Trade:=20.65
+Days Range:=20.43 &ndash; 20.80
+
+(stx)
+52 Week Range:= 9.84 - 18.35
+Open:= 16.29
+EPS:=0.00
+P/E:=N/A
+Change:=-0.16 (-0.98%)
+Volume:=6424511
+Prev Close:=16.36
+Last Trade:=16.20
+Days Range:=16.01 &ndash; 16.29
+
+(sui)
+52 Week Range:= 25.60 - 40.21
+Open:= 38.01
+EPS:=-0.11
+P/E:=N/A
+Change:=+0.42 (1.10%)
+Volume:=93207
+Prev Close:=37.96
+Last Trade:=38.38
+Days Range:=37.86 &ndash; 38.52
+
+(sumr)
+52 Week Range:= 6.26 - 9.48
+Open:= 8.16
+EPS:=0.36
+P/E:=23.56
+Change:=+0.30 (3.68%)
+Volume:=214486
+Prev Close:=8.18
+Last Trade:=8.48
+Days Range:=8.08 &ndash; 8.48
+
+(supx)
+52 Week Range:= 18.70 - 27.91
+Open:= 22.10
+EPS:=0.94
+P/E:=23.66
+Change:=+0.04 (0.18%)
+Volume:=30845
+Prev Close:=22.20
+Last Trade:=22.24
+Days Range:=21.97 &ndash; 22.38
+
+(sur)
+52 Week Range:= 15.48 - 26.65
+Open:= 31.80
+EPS:=3.01
+P/E:=8.81
+Change:=+0.00 (0.00%)
+Volume:=177501
+Prev Close:=26.53
+Last Trade:=26.53
+Days Range:=26.53 &ndash; 26.53
+
+(svvs)
+52 Week Range:= 14.62 - 39.68
+Open:= 39.61
+EPS:=-0.80
+P/E:=N/A
+Change:=-0.02 (-0.05%)
+Volume:=661740
+Prev Close:=39.62
+Last Trade:=39.60
+Days Range:=39.54 &ndash; 39.65
+
+(swk)
+52 Week Range:= 49.01 - 78.19
+Open:= 73.67
+EPS:=2.83
+P/E:=26.11
+Change:=+0.23 (0.31%)
+Volume:=1490651
+Prev Close:=73.67
+Last Trade:=73.90
+Days Range:=73.21 &ndash; 74.19
+
+(swm)
+52 Week Range:= 42.62 - 69.33
+Open:= 56.84
+EPS:=3.65
+P/E:=15.58
+Change:=+0.00 (0.00%)
+Volume:=125933
+Prev Close:=56.87
+Last Trade:=56.87
+Days Range:=56.29 &ndash; 57.01
+
+(sxt)
+52 Week Range:= 25.69 - 38.44
+Open:= 37.92
+EPS:=2.22
+P/E:=17.03
+Change:=-0.09 (-0.24%)
+Volume:=167796
+Prev Close:=37.90
+Last Trade:=37.81
+Days Range:=37.66 &ndash; 37.92
+
+(sy)
+52 Week Range:= 33.54 - 66.00
+Open:= 14.95
+EPS:=2.06
+P/E:=31.54
+Change:=+0.00 (0.00%)
+Volume:=47028
+Prev Close:=64.98
+Last Trade:=64.98
+Days Range:=64.98 &ndash; 64.98
+
+(syke)
+52 Week Range:= 10.85 - 22.88
+Open:= 21.59
+EPS:=0.90
+P/E:=24.18
+Change:=+0.13 (0.60%)
+Volume:=175034
+Prev Close:=21.63
+Last Trade:=21.76
+Days Range:=21.52 &ndash; 21.76
+
+(symc)
+52 Week Range:= 12.04 - 20.50
+Open:= 19.80
+EPS:=0.76
+P/E:=26.00
+Change:=-0.07 (-0.35%)
+Volume:=5444335
+Prev Close:=19.83
+Last Trade:=19.76
+Days Range:=19.66 &ndash; 19.84
+
+(symm)
+52 Week Range:= 4.69 - 7.50
+Open:= 5.84
+EPS:=-0.02
+P/E:=N/A
+Change:=+0.27 (4.62%)
+Volume:=113282
+Prev Close:=5.83
+Last Trade:=6.10
+Days Range:=5.84 &ndash; 6.10
+
+(synm)
+52 Week Range:= 1.45 - 2.45
+Open:= 1.49
+EPS:=-0.17
+P/E:=N/A
+Change:=-0.09 (-6.04%)
+Volume:=1111124
+Prev Close:=1.46
+Last Trade:=1.37
+Days Range:=1.36 &ndash; 1.49
+
+(syno)
+52 Week Range:= 13.64 - 21.34
+Open:= 17.91
+EPS:=0.59
+P/E:=30.19
+Change:=-0.05 (-0.28%)
+Volume:=27777
+Prev Close:=17.86
+Last Trade:=17.81
+Days Range:=17.59 &ndash; 17.91
+
+(synt)
+52 Week Range:= 33.81 - 60.20
+Open:= 60.15
+EPS:=2.72
+P/E:=22.49
+Change:=+1.01 (1.68%)
+Volume:=117491
+Prev Close:=60.17
+Last Trade:=61.18
+Days Range:=59.77 &ndash; 61.28
+
+(syx)
+52 Week Range:= 11.42 - 17.19
+Open:= 14.91
+EPS:=1.18
+P/E:=12.69
+Change:=-0.01 (-0.07%)
+Volume:=61608
+Prev Close:=14.98
+Last Trade:=14.97
+Days Range:=14.77 &ndash; 15.00
+
+(t)
+52 Week Range:= 23.88 - 31.94
+Open:= 31.74
+EPS:=3.38
+P/E:=9.36
+Change:=-0.03 (-0.09%)
+Volume:=17185562
+Prev Close:=31.68
+Last Trade:=31.65
+Days Range:=31.56 &ndash; 31.78
+
+(tal)
+52 Week Range:= 20.94 - 38.45
+Open:= 35.27
+EPS:=2.73
+P/E:=12.77
+Change:=-0.40 (-1.13%)
+Volume:=236581
+Prev Close:=35.27
+Last Trade:=34.87
+Days Range:=34.75 &ndash; 35.38
+
+(tap)
+52 Week Range:= 42.10 - 51.11
+Open:= 45.34
+EPS:=3.68
+P/E:=12.24
+Change:=-0.26 (-0.57%)
+Volume:=968218
+Prev Close:=45.32
+Last Trade:=45.06
+Days Range:=45.01 &ndash; 45.50
+
+(tasr)
+52 Week Range:= 3.52 - 5.10
+Open:= 4.55
+EPS:=-0.06
+P/E:=N/A
+Change:=-0.08 (-1.76%)
+Volume:=180549
+Prev Close:=4.57
+Last Trade:=4.49
+Days Range:=4.46 &ndash; 4.58
+
+(tast)
+52 Week Range:= 4.00 - 10.64
+Open:= 10.64
+EPS:=0.54
+P/E:=19.85
+Change:=+0.08 (0.75%)
+Volume:=31520
+Prev Close:=10.64
+Last Trade:=10.72
+Days Range:=10.61 &ndash; 10.72
+
+(tat)
+52 Week Range:= 1.62 - 3.59
+Open:= 1.70
+EPS:=0.00
+P/E:=N/A
+Change:=+0.01 (0.59%)
+Volume:=1094605
+Prev Close:=1.70
+Last Trade:=1.71
+Days Range:=1.66 &ndash; 1.72
+
+(tayc)
+52 Week Range:= 7.37 - 13.90
+Open:= 8.33
+EPS:=-4.98
+P/E:=N/A
+Change:=+0.01 (0.12%)
+Volume:=24159
+Prev Close:=8.33
+Last Trade:=8.34
+Days Range:=8.19 &ndash; 8.37
+
+(tbnk)
+52 Week Range:= 16.46 - 20.92
+Open:= 20.78
+EPS:=1.11
+P/E:=18.19
+Change:=-0.58 (-2.79%)
+Volume:=23752
+Prev Close:=20.77
+Last Trade:=20.19
+Days Range:=20.02 &ndash; 20.78
+
+(tc)
+52 Week Range:= 8.01 - 16.06
+Open:= 10.19
+EPS:=0.00
+P/E:=N/A
+Change:=-0.03 (-0.29%)
+Volume:=2267294
+Prev Close:=10.13
+Last Trade:=10.10
+Days Range:=10.01 &ndash; 10.24
+
+(tcb)
+52 Week Range:= 12.90 - 17.66
+Open:= 14.25
+EPS:=0.99
+P/E:=14.11
+Change:=-0.27 (-1.89%)
+Volume:=926874
+Prev Close:=14.24
+Last Trade:=13.97
+Days Range:=13.97 &ndash; 14.25
+
+(tco)
+52 Week Range:= 35.60 - 60.88
+Open:= 60.63
+EPS:=0.94
+P/E:=64.72
+Change:=+0.14 (0.23%)
+Volume:=333430
+Prev Close:=60.70
+Last Trade:=60.84
+Days Range:=60.30 &ndash; 61.16
+
+(tcrd)
+52 Week Range:= 10.58 - 14.86
+Open:= 13.06
+EPS:=0.39
+P/E:=33.23
+Change:=-0.01 (-0.08%)
+Volume:=21584
+Prev Close:=12.97
+Last Trade:=12.96
+Days Range:=12.89 &ndash; 13.06
+
+(tdy)
+52 Week Range:= 35.34 - 53.35
+Open:= 50.89
+EPS:=3.44
+P/E:=14.75
+Change:=-0.23 (-0.45%)
+Volume:=127710
+Prev Close:=50.97
+Last Trade:=50.74
+Days Range:=50.37 &ndash; 50.89
+
+(te)
+52 Week Range:= 14.95 - 19.66
+Open:= 19.15
+EPS:=1.09
+P/E:=17.44
+Change:=-0.15 (-0.78%)
+Volume:=1383784
+Prev Close:=19.16
+Last Trade:=19.01
+Days Range:=18.96 &ndash; 19.15
+
+(tecua)
+52 Week Range:= 8.44 - 14.21
+Open:= 10.40
+EPS:=-1.37
+P/E:=N/A
+Change:=-0.13 (-1.25%)
+Volume:=49640
+Prev Close:=10.45
+Last Trade:=10.32
+Days Range:=10.20 &ndash; 10.40
+
+(ten)
+52 Week Range:= 19.29 - 46.81
+Open:= 45.43
+EPS:=1.27
+P/E:=35.68
+Change:=-0.13 (-0.29%)
+Volume:=894634
+Prev Close:=45.44
+Last Trade:=45.31
+Days Range:=45.24 &ndash; 45.75
+
+(ter)
+52 Week Range:= 8.84 - 19.19
+Open:= 15.17
+EPS:=1.78
+P/E:=8.46
+Change:=-0.13 (-0.86%)
+Volume:=2163244
+Prev Close:=15.18
+Last Trade:=15.05
+Days Range:=14.85 &ndash; 15.17
+
+(teva)
+52 Week Range:= 44.86 - 57.08
+Open:= 48.86
+EPS:=0.00
+P/E:=N/A
+Change:=-0.08 (-0.16%)
+Volume:=2782491
+Prev Close:=49.00
+Last Trade:=48.92
+Days Range:=48.84 &ndash; 49.10
+
+(tfx)
+52 Week Range:= 47.92 - 64.05
+Open:= 62.40
+EPS:=2.64
+P/E:=23.60
+Change:=-0.12 (-0.19%)
+Volume:=236045
+Prev Close:=62.43
+Last Trade:=62.31
+Days Range:=61.94 &ndash; 62.40
+
+(tg)
+52 Week Range:= 15.74 - 23.20
+Open:= 18.68
+EPS:=0.87
+P/E:=21.61
+Change:=+0.08 (0.43%)
+Volume:=65718
+Prev Close:=18.72
+Last Trade:=18.80
+Days Range:=18.52 &ndash; 18.85
+
+(tgh)
+52 Week Range:= 23.33 - 37.87
+Open:= 31.86
+EPS:=0.00
+P/E:=N/A
+Change:=-0.66 (-2.07%)
+Volume:=81062
+Prev Close:=32.04
+Last Trade:=31.38
+Days Range:=31.21 &ndash; 32.11
+
+(tgi)
+52 Week Range:= 63.69 - 100.99
+Open:= 100.88
+EPS:=6.42
+P/E:=15.73
+Change:=+0.08 (0.08%)
+Volume:=171881
+Prev Close:=100.88
+Last Trade:=100.96
+Days Range:=100.43 &ndash; 101.30
+
+(thff)
+52 Week Range:= 25.12 - 37.10
+Open:= 33.16
+EPS:=2.38
+P/E:=14.06
+Change:=+0.11 (0.33%)
+Volume:=17392
+Prev Close:=33.35
+Last Trade:=33.46
+Days Range:=32.98 &ndash; 33.50
+
+(thmd)
+52 Week Range:= 6.07 - 15.26
+Open:= 13.01
+EPS:=0.58
+P/E:=25.84
+Change:=+0.00 (0.00%)
+Volume:=127599
+Prev Close:=14.99
+Last Trade:=14.99
+Days Range:=14.99 &ndash; 14.99
+
+(tho)
+52 Week Range:= 22.50 - 39.12
+Open:= 28.90
+EPS:=2.03
+P/E:=14.23
+Change:=-0.06 (-0.21%)
+Volume:=876057
+Prev Close:=28.95
+Last Trade:=28.89
+Days Range:=28.49 &ndash; 29.10
+
+(thrx)
+52 Week Range:= 11.74 - 28.95
+Open:= 22.73
+EPS:=-1.10
+P/E:=N/A
+Change:=+0.29 (1.28%)
+Volume:=214330
+Prev Close:=22.63
+Last Trade:=22.92
+Days Range:=22.58 &ndash; 23.03
+
+(tie)
+52 Week Range:= 16.03 - 22.93
+Open:= 18.41
+EPS:=0.52
+P/E:=35.38
+Change:=-0.06 (-0.33%)
+Volume:=1236967
+Prev Close:=18.46
+Last Trade:=18.40
+Days Range:=18.29 &ndash; 18.55
+
+(tif)
+52 Week Range:= 35.81 - 79.58
+Open:= 79.36
+EPS:=3.00
+P/E:=27.05
+Change:=+1.74 (2.19%)
+Volume:=1846398
+Prev Close:=79.40
+Last Trade:=81.14
+Days Range:=79.07 &ndash; 81.57
+
+(tiny)
+52 Week Range:= 3.70 - 6.30
+Open:= 5.14
+EPS:=0.25
+P/E:=20.76
+Change:=+0.03 (0.58%)
+Volume:=144198
+Prev Close:=5.16
+Last Trade:=5.19
+Days Range:=5.10 &ndash; 5.19
+
+(tisi)
+52 Week Range:= 12.75 - 28.71
+Open:= 24.43
+EPS:=1.09
+P/E:=22.36
+Change:=-0.01 (-0.04%)
+Volume:=92509
+Prev Close:=24.38
+Last Trade:=24.37
+Days Range:=23.78 &ndash; 24.43
+
+(tjx)
+52 Week Range:= 39.56 - 54.94
+Open:= 53.24
+EPS:=3.17
+P/E:=16.95
+Change:=+0.56 (1.05%)
+Volume:=2821873
+Prev Close:=53.17
+Last Trade:=53.73
+Days Range:=52.92 &ndash; 53.97
+
+(tklc)
+52 Week Range:= 7.21 - 14.55
+Open:= 9.14
+EPS:=-0.20
+P/E:=N/A
+Change:=-0.09 (-0.98%)
+Volume:=1390209
+Prev Close:=9.17
+Last Trade:=9.08
+Days Range:=8.96 &ndash; 9.21
+
+(tkr)
+52 Week Range:= 24.84 - 57.83
+Open:= 51.93
+EPS:=3.57
+P/E:=14.71
+Change:=+0.64 (1.23%)
+Volume:=1224906
+Prev Close:=51.86
+Last Trade:=52.50
+Days Range:=51.67 &ndash; 52.77
+
+(tmp)
+52 Week Range:= 35.93 - 42.50
+Open:= 39.41
+EPS:=3.13
+P/E:=12.58
+Change:=-0.21 (-0.53%)
+Volume:=8891
+Prev Close:=39.60
+Last Trade:=39.39
+Days Range:=39.10 &ndash; 39.45
+
+(tmrk)
+52 Week Range:= 6.74 - 19.02
+Open:= 0.02
+EPS:=-0.53
+P/E:=N/A
+Change:=+0.00 (0.00%)
+Volume:=25000
+Prev Close:=18.99
+Last Trade:=18.99
+Days Range:=18.99 &ndash; 18.99
+
+(tnc)
+52 Week Range:= 28.11 - 43.84
+Open:= 40.96
+EPS:=1.80
+P/E:=22.92
+Change:=+0.22 (0.54%)
+Volume:=53681
+Prev Close:=41.03
+Last Trade:=41.25
+Days Range:=40.59 &ndash; 41.40
+
+(tnk)
+52 Week Range:= 8.42 - 13.96
+Open:= 9.33
+EPS:=0.00
+P/E:=N/A
+Change:=-0.08 (-0.86%)
+Volume:=274186
+Prev Close:=9.33
+Last Trade:=9.25
+Days Range:=9.18 &ndash; 9.35
+
+(tpgi)
+52 Week Range:= 2.51 - 4.60
+Open:= 3.26
+EPS:=-0.35
+P/E:=N/A
+Change:=+0.05 (1.53%)
+Volume:=46247
+Prev Close:=3.28
+Last Trade:=3.33
+Days Range:=3.21 &ndash; 3.36
+
+(trad)
+52 Week Range:= 5.22 - 9.91
+Open:= 0.25
+EPS:=0.25
+P/E:=38.96
+Change:=+0.00 (0.00%)
+Volume:=1500
+Prev Close:=9.74
+Last Trade:=9.74
+Days Range:=9.74 &ndash; 9.74
+
+(trak)
+52 Week Range:= 14.40 - 26.80
+Open:= 23.51
+EPS:=-0.04
+P/E:=N/A
+Change:=+0.45 (1.91%)
+Volume:=197195
+Prev Close:=23.44
+Last Trade:=23.89
+Days Range:=23.27 &ndash; 24.17
+
+(trex)
+52 Week Range:= 16.38 - 34.00
+Open:= 24.06
+EPS:=-0.07
+P/E:=N/A
+Change:=+0.75 (3.12%)
+Volume:=82684
+Prev Close:=24.00
+Last Trade:=24.75
+Days Range:=23.68 &ndash; 24.77
+
+(trmk)
+52 Week Range:= 18.83 - 26.14
+Open:= 23.74
+EPS:=1.57
+P/E:=14.96
+Change:=-0.37 (-1.56%)
+Volume:=303565
+Prev Close:=23.85
+Last Trade:=23.48
+Days Range:=23.29 &ndash; 23.98
+
+(trow)
+52 Week Range:= 43.02 - 71.29
+Open:= 61.01
+EPS:=2.67
+P/E:=22.76
+Change:=-0.23 (-0.38%)
+Volume:=1700894
+Prev Close:=61.00
+Last Trade:=60.77
+Days Range:=60.19 &ndash; 61.25
+
+(trv)
+52 Week Range:= 48.17 - 64.17
+Open:= 59.08
+EPS:=7.32
+P/E:=8.00
+Change:=-0.58 (-0.98%)
+Volume:=2725055
+Prev Close:=59.11
+Last Trade:=58.53
+Days Range:=58.46 &ndash; 59.50
+
+(tsn)
+52 Week Range:= 14.59 - 20.12
+Open:= 19.55
+EPS:=2.42
+P/E:=7.95
+Change:=-0.29 (-1.48%)
+Volume:=4546090
+Prev Close:=19.53
+Last Trade:=19.24
+Days Range:=19.18 &ndash; 19.58
+
+(tsra)
+52 Week Range:= 14.96 - 23.18
+Open:= 17.22
+EPS:=1.17
+P/E:=14.79
+Change:=+0.03 (0.17%)
+Volume:=334942
+Prev Close:=17.28
+Last Trade:=17.31
+Days Range:=17.20 &ndash; 17.41
+
+(ttec)
+52 Week Range:= 12.17 - 23.46
+Open:= 21.11
+EPS:=0.79
+P/E:=27.29
+Change:=+0.51 (2.42%)
+Volume:=152535
+Prev Close:=21.05
+Last Trade:=21.56
+Days Range:=21.11 &ndash; 21.60
+
+(ttek)
+52 Week Range:= 18.00 - 27.16
+Open:= 22.88
+EPS:=1.35
+P/E:=17.09
+Change:=+0.11 (0.48%)
+Volume:=324554
+Prev Close:=22.96
+Last Trade:=23.07
+Days Range:=22.88 &ndash; 23.21
+
+(tti)
+52 Week Range:= 8.00 - 16.00
+Open:= 13.04
+EPS:=-0.67
+P/E:=N/A
+Change:=-0.16 (-1.23%)
+Volume:=476401
+Prev Close:=13.00
+Last Trade:=12.84
+Days Range:=12.79 &ndash; 13.15
+
+(tues)
+52 Week Range:= 3.51 - 5.93
+Open:= 4.66
+EPS:=0.29
+P/E:=16.21
+Change:=+0.03 (0.64%)
+Volume:=208623
+Prev Close:=4.67
+Last Trade:=4.70
+Days Range:=4.53 &ndash; 4.70
+
+(tvl)
+52 Week Range:= 3.89 - 6.56
+Open:= 4.90
+EPS:=0.63
+P/E:=7.54
+Change:=-0.17 (-3.47%)
+Volume:=102843
+Prev Close:=4.92
+Last Trade:=4.75
+Days Range:=4.60 &ndash; 4.90
+
+(tw)
+52 Week Range:= 38.07 - 66.00
+Open:= 65.50
+EPS:=2.91
+P/E:=22.79
+Change:=+0.56 (0.85%)
+Volume:=223722
+Prev Close:=65.75
+Last Trade:=66.31
+Days Range:=65.50 &ndash; 66.31
+
+(twin)
+52 Week Range:= 10.52 - 40.13
+Open:= 40.00
+EPS:=1.17
+P/E:=35.23
+Change:=+1.27 (3.18%)
+Volume:=92255
+Prev Close:=39.95
+Last Trade:=41.22
+Days Range:=39.46 &ndash; 41.70
+
+(two)
+52 Week Range:= 8.13 - 11.51
+Open:= 10.97
+EPS:=1.72
+P/E:=6.38
+Change:=+0.11 (1.00%)
+Volume:=2567251
+Prev Close:=10.87
+Last Trade:=10.98
+Days Range:=10.86 &ndash; 11.00
+
+(twx)
+52 Week Range:= 27.99 - 38.34
+Open:= 36.77
+EPS:=2.22
+P/E:=16.61
+Change:=-0.04 (-0.11%)
+Volume:=4312423
+Prev Close:=36.92
+Last Trade:=36.88
+Days Range:=36.56 &ndash; 37.14
+
+(txn)
+52 Week Range:= 22.71 - 36.71
+Open:= 33.40
+EPS:=2.65
+P/E:=12.42
+Change:=-0.60 (-1.80%)
+Volume:=9269707
+Prev Close:=33.52
+Last Trade:=32.92
+Days Range:=32.81 &ndash; 33.50
+
+(txt)
+52 Week Range:= 15.88 - 28.87
+Open:= 23.87
+EPS:=0.30
+P/E:=75.77
+Change:=-1.21 (-5.07%)
+Volume:=8253359
+Prev Close:=23.94
+Last Trade:=22.73
+Days Range:=22.59 &ndash; 23.87
+
+(tyl)
+52 Week Range:= 15.00 - 27.14
+Open:= 27.00
+EPS:=0.74
+P/E:=36.76
+Change:=+0.16 (0.59%)
+Volume:=205038
+Prev Close:=27.04
+Last Trade:=27.20
+Days Range:=26.92 &ndash; 27.24
+
+(ueic)
+52 Week Range:= 15.75 - 30.27
+Open:= 25.36
+EPS:=1.06
+P/E:=24.11
+Change:=+0.25 (0.99%)
+Volume:=42826
+Prev Close:=25.31
+Last Trade:=25.56
+Days Range:=24.79 &ndash; 25.66
+
+(ufcs)
+52 Week Range:= 17.10 - 23.41
+Open:= 17.43
+EPS:=1.28
+P/E:=13.38
+Change:=-0.35 (-2.01%)
+Volume:=136944
+Prev Close:=17.48
+Last Trade:=17.13
+Days Range:=17.07 &ndash; 17.43
+
+(ufpi)
+52 Week Range:= 23.14 - 39.84
+Open:= 24.40
+EPS:=0.64
+P/E:=38.19
+Change:=+0.11 (0.45%)
+Volume:=91005
+Prev Close:=24.33
+Last Trade:=24.44
+Days Range:=23.87 &ndash; 24.63
+
+(ufs)
+52 Week Range:= 46.24 - 105.82
+Open:= 96.63
+EPS:=15.81
+P/E:=6.19
+Change:=+1.46 (1.51%)
+Volume:=548776
+Prev Close:=96.45
+Last Trade:=97.91
+Days Range:=95.88 &ndash; 98.28
+
+(ugi)
+52 Week Range:= 25.04 - 33.48
+Open:= 32.54
+EPS:=2.37
+P/E:=13.62
+Change:=-0.19 (-0.58%)
+Volume:=504932
+Prev Close:=32.47
+Last Trade:=32.28
+Days Range:=32.18 &ndash; 32.54
+
+(uhs)
+52 Week Range:= 30.51 - 56.46
+Open:= 53.43
+EPS:=2.77
+P/E:=19.18
+Change:=-0.36 (-0.67%)
+Volume:=755162
+Prev Close:=53.49
+Last Trade:=53.13
+Days Range:=52.61 &ndash; 53.45
+
+(uil)
+52 Week Range:= 25.04 - 34.34
+Open:= 32.78
+EPS:=2.01
+P/E:=16.26
+Change:=-0.10 (-0.31%)
+Volume:=300845
+Prev Close:=32.78
+Last Trade:=32.68
+Days Range:=32.56 &ndash; 32.78
+
+(ulta)
+52 Week Range:= 20.67 - 65.35
+Open:= 65.18
+EPS:=1.31
+P/E:=51.01
+Change:=+1.64 (2.52%)
+Volume:=686704
+Prev Close:=65.18
+Last Trade:=66.82
+Days Range:=65.08 &ndash; 67.03
+
+(ulti)
+52 Week Range:= 31.38 - 60.43
+Open:= 54.70
+EPS:=0.11
+P/E:=502.91
+Change:=+0.89 (1.63%)
+Volume:=81783
+Prev Close:=54.43
+Last Trade:=55.32
+Days Range:=54.61 &ndash; 55.78
+
+(umbf)
+52 Week Range:= 31.77 - 44.35
+Open:= 42.84
+EPS:=2.38
+P/E:=18.24
+Change:=+0.57 (1.33%)
+Volume:=211395
+Prev Close:=42.84
+Last Trade:=43.41
+Days Range:=42.39 &ndash; 43.63
+
+(umh)
+52 Week Range:= 7.44 - 11.93
+Open:= 10.81
+EPS:=0.52
+P/E:=21.46
+Change:=+0.35 (3.24%)
+Volume:=61012
+Prev Close:=10.81
+Last Trade:=11.16
+Days Range:=10.77 &ndash; 11.16
+
+(umpq)
+52 Week Range:= 10.20 - 13.15
+Open:= 11.67
+EPS:=0.28
+P/E:=41.64
+Change:=-0.06 (-0.51%)
+Volume:=401474
+Prev Close:=11.72
+Last Trade:=11.66
+Days Range:=11.43 &ndash; 11.68
+
+(unca)
+52 Week Range:= 6.18 - 21.24
+Open:= 43.05
+EPS:=0.09
+P/E:=233.33
+Change:=+0.00 (0.00%)
+Volume:=693692
+Prev Close:=21.00
+Last Trade:=21.00
+Days Range:=21.00 &ndash; 21.00
+
+(unfi)
+52 Week Range:= 29.07 - 46.05
+Open:= 43.34
+EPS:=1.66
+P/E:=26.51
+Change:=+0.66 (1.52%)
+Volume:=122982
+Prev Close:=43.34
+Last Trade:=44.00
+Days Range:=43.23 &ndash; 44.00
+
+(unp)
+52 Week Range:= 66.84 - 107.04
+Open:= 106.61
+EPS:=5.80
+P/E:=18.23
+Change:=-1.04 (-0.98%)
+Volume:=1989615
+Prev Close:=106.76
+Last Trade:=105.72
+Days Range:=105.18 &ndash; 106.64
+
+(untd)
+52 Week Range:= 4.75 - 7.50
+Open:= 6.19
+EPS:=0.59
+P/E:=10.59
+Change:=+0.02 (0.32%)
+Volume:=792334
+Prev Close:=6.23
+Last Trade:=6.25
+Days Range:=6.05 &ndash; 6.26
+
+(upl)
+52 Week Range:= 37.10 - 50.97
+Open:= 46.24
+EPS:=2.13
+P/E:=21.77
+Change:=+0.19 (0.41%)
+Volume:=878566
+Prev Close:=46.18
+Last Trade:=46.37
+Days Range:=46.14 &ndash; 46.96
+
+(ups)
+52 Week Range:= 56.47 - 77.00
+Open:= 74.00
+EPS:=3.83
+P/E:=19.26
+Change:=-0.18 (-0.24%)
+Volume:=2829060
+Prev Close:=73.96
+Last Trade:=73.78
+Days Range:=73.36 &ndash; 74.00
+
+(urbn)
+52 Week Range:= 27.96 - 39.26
+Open:= 28.96
+EPS:=1.52
+P/E:=19.15
+Change:=+0.19 (0.66%)
+Volume:=2414185
+Prev Close:=28.92
+Last Trade:=29.11
+Days Range:=28.51 &ndash; 29.19
+
+(uri)
+52 Week Range:= 8.20 - 34.78
+Open:= 26.63
+EPS:=-0.12
+P/E:=N/A
+Change:=-0.84 (-3.15%)
+Volume:=1359062
+Prev Close:=26.69
+Last Trade:=25.85
+Days Range:=25.72 &ndash; 26.80
+
+(urs)
+52 Week Range:= 35.09 - 48.32
+Open:= 45.17
+EPS:=3.17
+P/E:=14.25
+Change:=+0.06 (0.13%)
+Volume:=424341
+Prev Close:=45.12
+Last Trade:=45.18
+Days Range:=44.75 &ndash; 45.23
+
+(usap)
+52 Week Range:= 16.44 - 47.37
+Open:= 46.75
+EPS:=2.37
+P/E:=20.15
+Change:=+1.01 (2.16%)
+Volume:=139048
+Prev Close:=46.75
+Last Trade:=47.76
+Days Range:=46.37 &ndash; 48.00
+
+(usb)
+52 Week Range:= 20.44 - 28.94
+Open:= 26.01
+EPS:=1.91
+P/E:=13.40
+Change:=-0.47 (-1.81%)
+Volume:=12200080
+Prev Close:=26.06
+Last Trade:=25.59
+Days Range:=25.48 &ndash; 26.04
+
+(usph)
+52 Week Range:= 15.30 - 26.06
+Open:= 24.34
+EPS:=1.37
+P/E:=18.09
+Change:=+0.46 (1.89%)
+Volume:=50951
+Prev Close:=24.33
+Last Trade:=24.79
+Days Range:=24.07 &ndash; 24.88
+
+(utek)
+52 Week Range:= 15.21 - 33.85
+Open:= 30.93
+EPS:=0.90
+P/E:=33.88
+Change:=-0.50 (-1.62%)
+Volume:=250655
+Prev Close:=30.99
+Last Trade:=30.49
+Days Range:=30.20 &ndash; 31.50
+
+(uti)
+52 Week Range:= 14.55 - 23.73
+Open:= 19.20
+EPS:=1.25
+P/E:=15.77
+Change:=+0.51 (2.66%)
+Volume:=103121
+Prev Close:=19.20
+Last Trade:=19.71
+Days Range:=19.12 &ndash; 19.77
+
+(utr)
+52 Week Range:= 22.70 - 31.69
+Open:= 29.84
+EPS:=3.10
+P/E:=9.42
+Change:=-0.66 (-2.21%)
+Volume:=261379
+Prev Close:=29.85
+Last Trade:=29.19
+Days Range:=29.16 &ndash; 29.89
+
+(utx)
+52 Week Range:= 63.84 - 90.56
+Open:= 89.86
+EPS:=4.92
+P/E:=18.20
+Change:=-0.60 (-0.67%)
+Volume:=3715682
+Prev Close:=90.13
+Last Trade:=89.53
+Days Range:=89.22 &ndash; 90.57
+
+(uve)
+52 Week Range:= 4.00 - 6.05
+Open:= 4.74
+EPS:=1.09
+P/E:=4.36
+Change:=+0.05 (1.05%)
+Volume:=89112
+Prev Close:=4.70
+Last Trade:=4.75
+Days Range:=4.71 &ndash; 4.75
+
+(uvv)
+52 Week Range:= 35.36 - 45.96
+Open:= 38.13
+EPS:=5.42
+P/E:=6.98
+Change:=-0.31 (-0.81%)
+Volume:=192494
+Prev Close:=38.12
+Last Trade:=37.81
+Days Range:=37.75 &ndash; 38.41
+
+(vcbi)
+52 Week Range:= 4.62 - 7.52
+Open:= 5.90
+EPS:=0.58
+P/E:=10.21
+Change:=+0.02 (0.34%)
+Volume:=26862
+Prev Close:=5.90
+Last Trade:=5.92
+Days Range:=5.75 &ndash; 5.93
+
+(vci)
+52 Week Range:= 25.70 - 37.44
+Open:= 30.48
+EPS:=1.63
+P/E:=18.60
+Change:=-0.17 (-0.56%)
+Volume:=252288
+Prev Close:=30.48
+Last Trade:=30.31
+Days Range:=30.05 &ndash; 30.55
+
+(vgr)
+52 Week Range:= 15.37 - 20.80
+Open:= 17.91
+EPS:=0.74
+P/E:=24.14
+Change:=-0.07 (-0.39%)
+Volume:=177504
+Prev Close:=17.93
+Last Trade:=17.86
+Days Range:=17.85 &ndash; 18.11
+
+(vlccf)
+52 Week Range:= 16.82 - 25.80
+Open:= 22.36
+EPS:=0.00
+P/E:=N/A
+Change:=-0.32 (-1.43%)
+Volume:=86424
+Prev Close:=22.36
+Last Trade:=22.04
+Days Range:=21.79 &ndash; 22.41
+
+(vlgea)
+52 Week Range:= 24.52 - 33.99
+Open:= 27.73
+EPS:=0.94
+P/E:=29.76
+Change:=+0.27 (0.97%)
+Volume:=12271
+Prev Close:=27.70
+Last Trade:=27.97
+Days Range:=27.51 &ndash; 28.00
+
+(vmed)
+52 Week Range:= 16.25 - 33.32
+Open:= 30.26
+EPS:=-0.01
+P/E:=N/A
+Change:=+0.33 (1.09%)
+Volume:=5978503
+Prev Close:=30.24
+Last Trade:=30.57
+Days Range:=29.96 &ndash; 30.66
+
+(vnda)
+52 Week Range:= 6.04 - 10.32
+Open:= 7.19
+EPS:=0.22
+P/E:=32.00
+Change:=-0.15 (-2.09%)
+Volume:=110147
+Prev Close:=7.19
+Last Trade:=7.04
+Days Range:=6.95 &ndash; 7.19
+
+(vocs)
+52 Week Range:= 13.21 - 31.51
+Open:= 31.26
+EPS:=-0.28
+P/E:=N/A
+Change:=+0.58 (1.86%)
+Volume:=158365
+Prev Close:=31.23
+Last Trade:=31.81
+Days Range:=30.79 &ndash; 32.17
+
+(vod)
+52 Week Range:= 20.71 - 32.70
+Open:= 26.83
+EPS:=0.00
+P/E:=N/A
+Change:=-0.06 (-0.22%)
+Volume:=8001608
+Prev Close:=26.90
+Last Trade:=26.84
+Days Range:=26.76 &ndash; 27.01
+
+(volc)
+52 Week Range:= 20.49 - 33.06
+Open:= 32.43
+EPS:=0.19
+P/E:=172.74
+Change:=+0.30 (0.93%)
+Volume:=289910
+Prev Close:=32.52
+Last Trade:=32.82
+Days Range:=32.28 &ndash; 33.00
+
+(vpfg)
+52 Week Range:= 8.82 - 14.05
+Open:= 13.95
+EPS:=0.67
+P/E:=20.90
+Change:=+0.06 (0.43%)
+Volume:=130671
+Prev Close:=13.94
+Last Trade:=14.00
+Days Range:=13.88 &ndash; 14.00
+
+(vphm)
+52 Week Range:= 10.29 - 22.16
+Open:= 19.41
+EPS:=1.62
+P/E:=11.94
+Change:=-0.03 (-0.15%)
+Volume:=845029
+Prev Close:=19.38
+Last Trade:=19.35
+Days Range:=19.23 &ndash; 19.43
+
+(vrad)
+52 Week Range:= 9.85 - 17.27
+Open:= 7.35
+EPS:=0.52
+P/E:=33.08
+Change:=+0.00 (0.00%)
+Volume:=41369
+Prev Close:=17.20
+Last Trade:=17.20
+Days Range:=17.20 &ndash; 17.20
+
+(vrsn)
+52 Week Range:= 25.73 - 37.73
+Open:= 33.76
+EPS:=0.48
+P/E:=71.33
+Change:=+0.36 (1.07%)
+Volume:=1837363
+Prev Close:=33.88
+Last Trade:=34.24
+Days Range:=33.76 &ndash; 34.30
+
+(vrtx)
+52 Week Range:= 31.86 - 58.87
+Open:= 51.84
+EPS:=-3.81
+P/E:=N/A
+Change:=+0.49 (0.95%)
+Volume:=1157218
+Prev Close:=51.70
+Last Trade:=52.19
+Days Range:=51.62 &ndash; 52.22
+
+(vrx)
+52 Week Range:= 24.06 - 66.31
+Open:= 52.79
+EPS:=0.00
+P/E:=N/A
+Change:=+1.44 (2.73%)
+Volume:=1583562
+Prev Close:=52.31
+Last Trade:=53.75
+Days Range:=52.59 &ndash; 53.99
+
+(vsec)
+52 Week Range:= 24.12 - 39.93
+Open:= 24.29
+EPS:=4.32
+P/E:=5.62
+Change:=-0.03 (-0.12%)
+Volume:=12037
+Prev Close:=24.29
+Last Trade:=24.26
+Days Range:=24.24 &ndash; 24.70
+
+(vz)
+52 Week Range:= 25.99 - 38.78
+Open:= 37.74
+EPS:=1.26
+P/E:=30.02
+Change:=+0.03 (0.08%)
+Volume:=11532284
+Prev Close:=37.80
+Last Trade:=37.83
+Days Range:=37.55 &ndash; 37.86
+
+(wab)
+52 Week Range:= 38.44 - 72.43
+Open:= 67.32
+EPS:=2.77
+P/E:=24.20
+Change:=-0.27 (-0.40%)
+Volume:=252612
+Prev Close:=67.31
+Last Trade:=67.04
+Days Range:=66.63 &ndash; 67.86
+
+(wash)
+52 Week Range:= 16.70 - 24.96
+Open:= 22.94
+EPS:=1.59
+P/E:=14.28
+Change:=-0.24 (-1.05%)
+Volume:=23170
+Prev Close:=22.94
+Last Trade:=22.70
+Days Range:=22.50 &ndash; 22.94
+
+(wat)
+52 Week Range:= 60.01 - 100.00
+Open:= 97.30
+EPS:=4.28
+P/E:=22.88
+Change:=+0.30 (0.31%)
+Volume:=415895
+Prev Close:=97.63
+Last Trade:=97.93
+Days Range:=96.84 &ndash; 98.03
+
+(wbc)
+52 Week Range:= 30.94 - 74.43
+Open:= 70.87
+EPS:=-2.34
+P/E:=N/A
+Change:=-0.61 (-0.86%)
+Volume:=1092123
+Prev Close:=71.21
+Last Trade:=70.60
+Days Range:=70.39 &ndash; 71.65
+
+(wbsn)
+52 Week Range:= 17.03 - 27.96
+Open:= 26.23
+EPS:=0.61
+P/E:=44.15
+Change:=+0.71 (2.71%)
+Volume:=429736
+Prev Close:=26.22
+Last Trade:=26.93
+Days Range:=26.23 &ndash; 27.05
+
+(wcrx)
+52 Week Range:= 19.01 - 30.57
+Open:= 24.33
+EPS:=0.00
+P/E:=N/A
+Change:=-0.18 (-0.74%)
+Volume:=903781
+Prev Close:=24.33
+Last Trade:=24.15
+Days Range:=24.11 &ndash; 24.33
+
+(wern)
+52 Week Range:= 19.67 - 27.17
+Open:= 25.48
+EPS:=1.17
+P/E:=21.70
+Change:=-0.12 (-0.47%)
+Volume:=427840
+Prev Close:=25.51
+Last Trade:=25.39
+Days Range:=25.37 &ndash; 25.67
+
+(weys)
+52 Week Range:= 22.25 - 26.80
+Open:= 24.11
+EPS:=1.16
+P/E:=20.89
+Change:=-0.29 (-1.20%)
+Volume:=3628
+Prev Close:=24.52
+Last Trade:=24.23
+Days Range:=23.95 &ndash; 24.26
+
+(wfd)
+52 Week Range:= 7.23 - 9.45
+Open:= 8.10
+EPS:=0.12
+P/E:=68.25
+Change:=-0.03 (-0.37%)
+Volume:=24522
+Prev Close:=8.22
+Last Trade:=8.19
+Days Range:=8.02 &ndash; 8.20
+
+(wfm)
+52 Week Range:= 53.92 - 64.41
+Open:= 64.12
+EPS:=1.73
+P/E:=36.89
+Change:=-0.59 (-0.92%)
+Volume:=1579210
+Prev Close:=64.41
+Last Trade:=63.82
+Days Range:=62.37 &ndash; 64.23
+
+(wfmi)
+52 Week Range:= 33.96 - 66.87
+Open:= 62.42
+EPS:=1.61
+P/E:=37.24
+Change:=+0.00 (0.00%)
+Volume:=6806722
+Prev Close:=59.95
+Last Trade:=59.95
+Days Range:=59.55 &ndash; 62.98
+
+(wgo)
+52 Week Range:= 8.10 - 16.60
+Open:= 9.84
+EPS:=0.45
+P/E:=21.38
+Change:=-0.19 (-1.93%)
+Volume:=210393
+Prev Close:=9.81
+Last Trade:=9.62
+Days Range:=9.48 &ndash; 9.84
+
+(wgov)
+52 Week Range:= 24.44 - 39.52
+Open:= 35.50
+EPS:=1.59
+P/E:=21.21
+Change:=+0.22 (0.62%)
+Volume:=221473
+Prev Close:=33.51
+Last Trade:=33.73
+Days Range:=33.61 &ndash; 35.51
+
+(win)
+52 Week Range:= 10.50 - 14.40
+Open:= 13.12
+EPS:=0.55
+P/E:=24.02
+Change:=+0.09 (0.69%)
+Volume:=8845207
+Prev Close:=13.12
+Last Trade:=13.21
+Days Range:=13.06 &ndash; 13.25
+
+(wina)
+52 Week Range:= 29.13 - 47.85
+Open:= 43.28
+EPS:=2.13
+P/E:=20.16
+Change:=-0.07 (-0.16%)
+Volume:=12684
+Prev Close:=43.02
+Last Trade:=42.95
+Days Range:=42.28 &ndash; 43.28
+
+(wlk)
+52 Week Range:= 17.34 - 67.51
+Open:= 52.70
+EPS:=4.33
+P/E:=12.30
+Change:=+0.47 (0.89%)
+Volume:=786260
+Prev Close:=52.80
+Last Trade:=53.27
+Days Range:=52.48 &ndash; 53.80
+
+(wll)
+52 Week Range:= 52.08 - 129.87
+Open:= 57.27
+EPS:=1.83
+P/E:=31.66
+Change:=+0.40 (0.70%)
+Volume:=2601875
+Prev Close:=57.54
+Last Trade:=57.94
+Days Range:=56.69 &ndash; 58.57
+
+(wlt)
+52 Week Range:= 59.38 - 143.76
+Open:= 121.34
+EPS:=8.01
+P/E:=15.16
+Change:=+0.51 (0.42%)
+Volume:=1840321
+Prev Close:=120.92
+Last Trade:=121.43
+Days Range:=120.50 &ndash; 124.59
+
+(wmt)
+52 Week Range:= 45.00 - 57.90
+Open:= 53.34
+EPS:=4.29
+P/E:=12.45
+Change:=-0.10 (-0.19%)
+Volume:=8622709
+Prev Close:=53.51
+Last Trade:=53.41
+Days Range:=53.02 &ndash; 53.56
+
+(wnr)
+52 Week Range:= 4.01 - 19.50
+Open:= 18.65
+EPS:=0.29
+P/E:=64.03
+Change:=-0.12 (-0.64%)
+Volume:=2563570
+Prev Close:=18.69
+Last Trade:=18.57
+Days Range:=18.47 &ndash; 19.09
+
+(wor)
+52 Week Range:= 12.00 - 23.48
+Open:= 23.00
+EPS:=1.26
+P/E:=18.58
+Change:=+0.04 (0.17%)
+Volume:=1121751
+Prev Close:=23.37
+Last Trade:=23.41
+Days Range:=22.96 &ndash; 23.75
+
+(wr)
+52 Week Range:= 21.36 - 27.98
+Open:= 27.08
+EPS:=1.79
+P/E:=15.12
+Change:=-0.15 (-0.55%)
+Volume:=476590
+Prev Close:=27.21
+Last Trade:=27.06
+Days Range:=26.98 &ndash; 27.19
+
+(wrc)
+52 Week Range:= 34.59 - 65.01
+Open:= 53.21
+EPS:=3.14
+P/E:=16.89
+Change:=-0.56 (-1.05%)
+Volume:=878214
+Prev Close:=53.61
+Last Trade:=53.05
+Days Range:=52.25 &ndash; 53.68
+
+(wri)
+52 Week Range:= 18.21 - 26.95
+Open:= 25.74
+EPS:=0.06
+P/E:=433.50
+Change:=+0.30 (1.17%)
+Volume:=965246
+Prev Close:=25.71
+Last Trade:=26.01
+Days Range:=25.61 &ndash; 26.07
+
+(wsbc)
+52 Week Range:= 14.15 - 21.44
+Open:= 20.03
+EPS:=1.43
+P/E:=13.83
+Change:=-0.31 (-1.55%)
+Volume:=65707
+Prev Close:=20.08
+Last Trade:=19.77
+Days Range:=19.53 &ndash; 20.03
+
+(wso)
+52 Week Range:= 50.80 - 73.38
+Open:= 68.72
+EPS:=2.59
+P/E:=26.21
+Change:=-1.00 (-1.46%)
+Volume:=166091
+Prev Close:=68.89
+Last Trade:=67.89
+Days Range:=67.68 &ndash; 68.86
+
+(wts)
+52 Week Range:= 27.51 - 40.75
+Open:= 36.20
+EPS:=1.65
+P/E:=21.77
+Change:=-0.34 (-0.94%)
+Volume:=323344
+Prev Close:=36.26
+Last Trade:=35.92
+Days Range:=35.71 &ndash; 36.20
+
+(wtsla)
+52 Week Range:= 2.77 - 4.94
+Open:= 4.63
+EPS:=0.18
+P/E:=25.94
+Change:=+0.04 (0.86%)
+Volume:=1301655
+Prev Close:=4.63
+Last Trade:=4.67
+Days Range:=4.52 &ndash; 4.69
+
+(wwon)
+52 Week Range:= 4.27 - 11.60
+Open:= 5.34
+EPS:=-1.62
+P/E:=N/A
+Change:=+0.00 (0.00%)
+Volume:=8870
+Prev Close:=5.33
+Last Trade:=5.33
+Days Range:=4.99 &ndash; 5.71
+
+(wynn)
+52 Week Range:= 73.12 - 151.73
+Open:= 149.87
+EPS:=2.46
+P/E:=61.45
+Change:=+1.59 (1.06%)
+Volume:=1532810
+Prev Close:=149.57
+Last Trade:=151.16
+Days Range:=148.41 &ndash; 151.44
+
+(xco)
+52 Week Range:= 13.25 - 21.04
+Open:= 17.72
+EPS:=2.68
+P/E:=6.55
+Change:=-0.18 (-1.02%)
+Volume:=1667484
+Prev Close:=17.73
+Last Trade:=17.55
+Days Range:=17.45 &ndash; 17.74
+
+(xec)
+52 Week Range:= 62.88 - 117.95
+Open:= 90.49
+EPS:=5.70
+P/E:=15.94
+Change:=+0.09 (0.10%)
+Volume:=768754
+Prev Close:=90.77
+Last Trade:=90.86
+Days Range:=90.14 &ndash; 91.92
+
+(xlnx)
+52 Week Range:= 23.96 - 37.23
+Open:= 37.07
+EPS:=2.39
+P/E:=15.33
+Change:=-0.43 (-1.16%)
+Volume:=3125691
+Prev Close:=37.06
+Last Trade:=36.63
+Days Range:=36.53 &ndash; 37.15
+
+(xnpt)
+52 Week Range:= 5.66 - 11.34
+Open:= 7.30
+EPS:=-2.24
+P/E:=N/A
+Change:=+0.04 (0.55%)
+Volume:=253206
+Prev Close:=7.27
+Last Trade:=7.31
+Days Range:=7.16 &ndash; 7.39
+
+(xom)
+52 Week Range:= 17.00 - 88.23
+Open:= 81.30
+EPS:=7.03
+P/E:=11.61
+Change:=-0.40 (-0.49%)
+Volume:=16234105
+Prev Close:=82.01
+Last Trade:=81.61
+Days Range:=81.26 &ndash; 82.12
+
+(xprt)
+52 Week Range:= 0.02 - 2.70
+Open:= 0.03
+EPS:=-1.14
+P/E:=N/A
+Change:=+0.00 (0.00%)
+Volume:=174412
+Prev Close:=0.09
+Last Trade:=0.09
+Days Range:=0.09 &ndash; 0.09
+
+(xray)
+52 Week Range:= 27.76 - 40.16
+Open:= 38.53
+EPS:=1.88
+P/E:=20.52
+Change:=+0.06 (0.16%)
+Volume:=3382446
+Prev Close:=38.52
+Last Trade:=38.58
+Days Range:=38.23 &ndash; 38.62
+
+(xrit)
+52 Week Range:= 3.19 - 5.08
+Open:= 4.94
+EPS:=-0.07
+P/E:=N/A
+Change:=-0.02 (-0.40%)
+Volume:=25976
+Prev Close:=4.96
+Last Trade:=4.94
+Days Range:=4.89 &ndash; 4.95
+
+(xtxi)
+52 Week Range:= 5.60 - 12.25
+Open:= 11.82
+EPS:=-0.16
+P/E:=N/A
+Change:=+0.13 (1.10%)
+Volume:=326012
+Prev Close:=11.85
+Last Trade:=11.98
+Days Range:=11.76 &ndash; 12.37
+
+(xxia)
+52 Week Range:= 8.36 - 19.10
+Open:= 12.70
+EPS:=0.25
+P/E:=51.52
+Change:=+0.16 (1.26%)
+Volume:=301242
+Prev Close:=12.72
+Last Trade:=12.88
+Days Range:=12.65 &ndash; 12.92
+
+(yhoo)
+52 Week Range:= 12.94 - 18.84
+Open:= 15.40
+EPS:=0.85
+P/E:=18.22
+Change:=+0.04 (0.26%)
+Volume:=19840907
+Prev Close:=15.45
+Last Trade:=15.49
+Days Range:=15.25 &ndash; 15.67
+
+(ysi)
+52 Week Range:= 6.77 - 11.45
+Open:= 10.74
+EPS:=-0.09
+P/E:=N/A
+Change:=-0.01 (-0.09%)
+Volume:=612046
+Prev Close:=10.78
+Last Trade:=10.77
+Days Range:=10.69 &ndash; 10.83
+
+(yum)
+52 Week Range:= 38.41 - 57.04
+Open:= 56.97
+EPS:=2.43
+P/E:=23.29
+Change:=-0.15 (-0.26%)
+Volume:=2870488
+Prev Close:=56.75
+Last Trade:=56.60
+Days Range:=56.38 &ndash; 56.97
+
+(zbra)
+52 Week Range:= 24.14 - 44.53
+Open:= 42.88
+EPS:=1.88
+P/E:=22.70
+Change:=-0.19 (-0.44%)
+Volume:=104656
+Prev Close:=42.87
+Last Trade:=42.68
+Days Range:=42.56 &ndash; 43.03
+
+(zgen)
+52 Week Range:= 3.70 - 9.79
+Open:= 38.41
+EPS:=-0.04
+P/E:=N/A
+Change:=+0.00 (0.00%)
+Volume:=161134
+Prev Close:=9.76
+Last Trade:=9.76
+Days Range:=9.76 &ndash; 9.76
+
+(ziop)
+52 Week Range:= 3.05 - 7.85
+Open:= 6.10
+EPS:=-0.95
+P/E:=N/A
+Change:=-0.14 (-2.30%)
+Volume:=369020
+Prev Close:=6.07
+Last Trade:=5.93
+Days Range:=5.90 &ndash; 6.25
+
+(zixi)
+52 Week Range:= 2.10 - 4.88
+Open:= 3.88
+EPS:=0.63
+P/E:=6.48
+Change:=+0.19 (4.90%)
+Volume:=1899523
+Prev Close:=3.89
+Last Trade:=4.08
+Days Range:=3.87 &ndash; 4.09
+
+(zoll)
+52 Week Range:= 23.07 - 61.51
+Open:= 57.05
+EPS:=1.04
+P/E:=55.77
+Change:=+0.53 (0.93%)
+Volume:=287951
+Prev Close:=57.47
+Last Trade:=58.00
+Days Range:=56.79 &ndash; 58.10
+

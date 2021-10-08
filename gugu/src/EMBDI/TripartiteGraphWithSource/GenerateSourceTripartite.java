@@ -46,9 +46,9 @@ public class GenerateSourceTripartite{
             FileReader fd = new FileReader(file);
             BufferedReader br = new BufferedReader(fd);
             // 文件操作所需变量
-            String str;
+            String str = null;
             // 存储str读取的一行的值
-            String[] data;
+            String[] data = null;
             // 首先读取一行，作为属性
             str = br.readLine();
             data = str.split(",");
@@ -87,7 +87,8 @@ public class GenerateSourceTripartite{
                     column = 0;
                     List<String> row_i = new ArrayList<>();
                     // add node row_id
-                    // row_1_s1来自第1个数据源的第一行
+                    // row_1代表第一个元组
+                    // row_1_s1来自第1个数据源的第一行，来自真值
                     // String Ri = "row_" + row_id + "_s" + fileNum;
                     String Ri;
                     if(truthFlag == 0){
@@ -120,7 +121,7 @@ public class GenerateSourceTripartite{
                     }
                     // row_i暂存每行的数据
                     row_i.addAll(Arrays.asList(data));
-                    String[] value;
+                    String[] value = null;
                     List<String> value_i = new ArrayList<>();
 
                     for(String Vk:row_i ){

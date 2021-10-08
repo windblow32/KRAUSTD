@@ -38,7 +38,7 @@ public class TripartiteWithSourceBasedStock {
         long trainTime = afterTrainTime - preTrainTime;
         // word2vec training memory
         long trainMemory = afterTrainMemory - preTrainMemory;
-        int EMSize = 20;
+        int EMSize = 5;
         Map<String,List<Double>> K_map = new HashMap<>();
         try {
             long preGetRandomMemory = used();
@@ -54,7 +54,7 @@ public class TripartiteWithSourceBasedStock {
             // word2vec embedding memory
             long embeddingCalcMemory = afterGetRandomMemory - preGetRandomMemory;
             // System.out.println(word2VecService.getEmbeddings());
-            File f=new File("log/newStock/SourceThreeEMBDI6.txt");
+            File f=new File("log/newStock/SourceThreeEMBDI7.txt");
             f.createNewFile();
             FileOutputStream fileOutputStream = new FileOutputStream(f);
             PrintStream printStream = new PrintStream(fileOutputStream);

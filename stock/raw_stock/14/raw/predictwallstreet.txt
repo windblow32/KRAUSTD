@@ -1,0 +1,4785 @@
+(aa)
+Last:=15.45
+Change:=-0.40 (-2.52%)
+Volume:=20,993,702
+
+(aan)
+Last:=27.67
+Change:=-0.21 (-0.75%)
+Volume:=491,169
+
+(aapl)
+Last:=357.90
+Change:=-0.12 (-0.03%)
+Volume:=8,122,132
+
+(abat)
+Last:=1.01
+Change:=+0.06 (+5.94%)
+Volume:=2,215,999
+
+(abax)
+Last:=29.79
+Change:=-1.03 (-3.46%)
+Volume:=60,889
+
+(abbc)
+Last:=10.32
+Change:=-0.20 (-1.90%)
+Volume:=18,920
+
+(abcb)
+Last:=9.14
+Change:=-0.15 (-1.61%)
+Volume:=19,452
+
+(abg)
+Last:=18.79
+Change:=-0.63 (-3.24%)
+Volume:=216,446
+
+(abmd)
+Last:=16.34
+Change:=-0.24 (-1.45%)
+Volume:=169,667
+
+(acas)
+Last:=9.86
+Change:=-0.10 (-1.00%)
+Volume:=3,008,279
+
+(acet)
+Last:=6.33
+Change:=-0.12 (-1.86%)
+Volume:=94,456
+
+(aco)
+Last:=37.18
+Change:=-1.50 (-3.88%)
+Volume:=80,831
+
+(acom)
+Last:=43.45
+Change:=-0.23 (-0.53%)
+Volume:=1,075,110
+
+(actg)
+Last:=38.02
+Change:=-1.06 (-2.79%)
+Volume:=194,595
+
+(actl)
+Last:=20.95
+Change:=0.00 (&plusmn;0.00%)
+Volume:=
+
+(adbe)
+Last:=29.35
+Change:=-0.72 (-2.39%)
+Volume:=7,030,053
+
+(adct)
+Last:=12.74
+Change:=0.00 (&plusmn;0.00%)
+Volume:=
+
+(adp)
+Last:=53.37
+Change:=-0.32 (-0.60%)
+Volume:=808,947
+
+(adpi)
+Last:=13.18
+Change:=-0.02 (-0.15%)
+Volume:=48,222
+
+(adpt)
+Last:=2.99
+Change:=-0.01 (-0.33%)
+Volume:=27,754
+
+(adsk)
+Last:=36.35
+Change:=-0.91 (-2.44%)
+Volume:=2,909,022
+
+(adtn)
+Last:=35.26
+Change:=-0.85 (-2.35%)
+Volume:=2,124,492
+
+(aec)
+Last:=16.86
+Change:=+0.04 (+0.24%)
+Volume:=217,826
+
+(aeis)
+Last:=12.73
+Change:=-0.27 (-2.08%)
+Volume:=555,092
+
+(aet)
+Last:=43.39
+Change:=0.00 (&plusmn;0.00%)
+Volume:=
+
+(afce)
+Last:=16.33
+Change:=-0.47 (-2.80%)
+Volume:=77,072
+
+(agco)
+Last:=48.73
+Change:=-1.39 (-2.77%)
+Volume:=1,600,611
+
+(agx)
+Last:=10.39
+Change:=-0.11 (-1.05%)
+Volume:=11,426
+
+(agys)
+Last:=9.67
+Change:=+0.28 (+2.98%)
+Volume:=594,910
+
+(ahc)
+Last:=7.09
+Change:=-0.26 (-3.54%)
+Volume:=1,116,247
+
+(aht)
+Last:=12.23
+Change:=-0.15 (-1.21%)
+Volume:=555,364
+
+(aig)
+Last:=28.84
+Change:=+0.12 (+0.42%)
+Volume:=4,413,562
+
+(airm)
+Last:=73.30
+Change:=-1.60 (-2.14%)
+Volume:=78,933
+
+(ajg)
+Last:=28.08
+Change:=-0.29 (-1.02%)
+Volume:=500,928
+
+(akam)
+Last:=29.71
+Change:=-1.24 (-4.01%)
+Volume:=3,495,713
+
+(alb)
+Last:=67.95
+Change:=-0.49 (-0.72%)
+Volume:=741,629
+
+(alc)
+Last:=16.28
+Change:=-0.20 (-1.21%)
+Volume:=29,088
+
+(ale)
+Last:=41.09
+Change:=-0.41 (-0.99%)
+Volume:=105,905
+
+(alex)
+Last:=49.63
+Change:=-0.71 (-1.41%)
+Volume:=130,574
+
+(alnc)
+Last:=31.66
+Change:=+0.43 (+1.38%)
+Volume:=22,490
+
+(alth)
+Last:=2.02
+Change:=-0.05 (-2.42%)
+Volume:=427,887
+
+(altr)
+Last:=42.81
+Change:=-0.85 (-1.95%)
+Volume:=3,360,304
+
+(alxa)
+Last:=1.72
+Change:=-0.04 (-2.27%)
+Volume:=256,016
+
+(alxn)
+Last:=51.27
+Change:=+0.02 (+0.04%)
+Volume:=1,302,145
+
+(amat)
+Last:=12.27
+Change:=-0.17 (-1.37%)
+Volume:=22,446,851
+
+(amg)
+Last:=99.68
+Change:=-1.63 (-1.61%)
+Volume:=415,341
+
+(amgn)
+Last:=55.92
+Change:=-0.69 (-1.22%)
+Volume:=2,378,036
+
+(amn)
+Last:=85.21
+Change:=-0.03 (-0.04%)
+Volume:=197,286
+
+(amp)
+Last:=54.75
+Change:=-1.12 (-2.00%)
+Volume:=2,089,591
+
+(amsg)
+Last:=26.23
+Change:=-0.57 (-2.13%)
+Volume:=131,805
+
+(amt)
+Last:=52.32
+Change:=-0.80 (-1.51%)
+Volume:=1,736,856
+
+(amzn)
+Last:=210.58
+Change:=-2.92 (-1.37%)
+Volume:=3,679,250
+
+(anf)
+Last:=73.35
+Change:=+0.18 (+0.25%)
+Volume:=2,069,001
+
+(ango)
+Last:=14.20
+Change:=-0.24 (-1.66%)
+Volume:=68,138
+
+(anr)
+Last:=44.27
+Change:=-0.73 (-1.62%)
+Volume:=3,848,225
+
+(anth)
+Last:=7.98
+Change:=-0.14 (-1.72%)
+Volume:=63,670
+
+(anv)
+Last:=38.11
+Change:=-1.09 (-2.78%)
+Volume:=879,487
+
+(aoi)
+Last:=3.22
+Change:=-0.03 (-0.92%)
+Volume:=576,997
+
+(aon)
+Last:=50.26
+Change:=-0.42 (-0.83%)
+Volume:=1,242,817
+
+(apac)
+Last:=8.46
+Change:=+0.01 (+0.12%)
+Volume:=465,336
+
+(apd)
+Last:=93.94
+Change:=-0.98 (-1.03%)
+Volume:=865,646
+
+(apkt)
+Last:=65.30
+Change:=-1.67 (-2.49%)
+Volume:=1,127,760
+
+(apol)
+Last:=49.14
+Change:=-0.68 (-1.36%)
+Volume:=1,378,274
+
+(apsg)
+Last:=38.01
+Change:=0.00 (&plusmn;0.00%)
+Volume:=
+
+(aray)
+Last:=8.50
+Change:=-0.10 (-1.18%)
+Volume:=360,580
+
+(arb)
+Last:=39.94
+Change:=-0.63 (-1.55%)
+Volume:=93,501
+
+(are)
+Last:=80.02
+Change:=-0.41 (-0.51%)
+Volume:=440,731
+
+(ari)
+Last:=15.92
+Change:=-0.18 (-1.12%)
+Volume:=125,060
+
+(aria)
+Last:=12.18
+Change:=-0.06 (-0.49%)
+Volume:=2,634,211
+
+(aro)
+Last:=17.17
+Change:=-0.30 (-1.72%)
+Volume:=1,540,421
+
+(arow)
+Last:=23.82
+Change:=-0.43 (-1.77%)
+Volume:=13,145
+
+(artg)
+Last:=5.99
+Change:=0.00 (&plusmn;0.00%)
+Volume:=
+
+(arw)
+Last:=37.07
+Change:=-0.20 (-0.54%)
+Volume:=2,005,593
+
+(asca)
+Last:=22.91
+Change:=-0.19 (-0.82%)
+Volume:=253,440
+
+(asfi)
+Last:=7.77
+Change:=-0.03 (-0.38%)
+Volume:=14,003
+
+(atac)
+Last:=24.99
+Change:=0.00 (&plusmn;0.00%)
+Volume:=
+
+(atls)
+Last:=22.93
+Change:=-0.22 (-0.95%)
+Volume:=155,035
+
+(atni)
+Last:=38.68
+Change:=-1.62 (-4.19%)
+Volume:=18,501
+
+(atpg)
+Last:=15.32
+Change:=-0.36 (-2.30%)
+Volume:=769,517
+
+(atsg)
+Last:=6.34
+Change:=-0.23 (-3.50%)
+Volume:=339,569
+
+(atvi)
+Last:=11.84
+Change:=-0.06 (-0.50%)
+Volume:=5,680,549
+
+(auxl)
+Last:=20.52
+Change:=+0.32 (+1.56%)
+Volume:=762,391
+
+(avid)
+Last:=20.00
+Change:=+0.05 (+0.25%)
+Volume:=190,290
+
+(avnw)
+Last:=3.73
+Change:=-0.07 (-1.84%)
+Volume:=375,492
+
+(avx)
+Last:=14.04
+Change:=-0.49 (-3.37%)
+Volume:=466,007
+
+(avy)
+Last:=38.18
+Change:=-0.15 (-0.39%)
+Volume:=662,850
+
+(awi)
+Last:=44.62
+Change:=-0.63 (-1.39%)
+Volume:=190,761
+
+(awr)
+Last:=35.00
+Change:=-0.40 (-1.13%)
+Volume:=45,823
+
+(axl)
+Last:=11.35
+Change:=+0.01 (+0.09%)
+Volume:=2,011,834
+
+(axp)
+Last:=51.35
+Change:=-0.60 (-1.16%)
+Volume:=6,272,799
+
+(axs)
+Last:=31.00
+Change:=+0.20 (+0.65%)
+Volume:=1,179,151
+
+(azo)
+Last:=297.88
+Change:=+0.94 (+0.32%)
+Volume:=416,405
+
+(ba)
+Last:=72.17
+Change:=0.00 (&plusmn;0.00%)
+Volume:=
+
+(bac)
+Last:=10.07
+Change:=-0.13 (-1.27%)
+Volume:=146,738,688
+
+(bamm)
+Last:=3.06
+Change:=-0.06 (-1.92%)
+Volume:=70,794
+
+(bbbb)
+Last:=44.13
+Change:=-0.05 (-0.11%)
+Volume:=2,246,428
+
+(bbby)
+Last:=58.81
+Change:=-0.63 (-1.06%)
+Volume:=1,971,266
+
+(bbg)
+Last:=43.86
+Change:=-1.68 (-3.69%)
+Volume:=1,526,802
+
+(bbgi)
+Last:=4.08
+Change:=+0.04 (+0.99%)
+Volume:=166
+
+(bbw)
+Last:=6.33
+Change:=-0.16 (-2.47%)
+Volume:=27,969
+
+(bc)
+Last:=18.85
+Change:=-0.63 (-3.23%)
+Volume:=1,509,054
+
+(bcrx)
+Last:=3.92
+Change:=-0.02 (-0.51%)
+Volume:=189,243
+
+(bcsi)
+Last:=21.30
+Change:=-0.78 (-3.53%)
+Volume:=416,733
+
+(bdge)
+Last:=20.63
+Change:=-0.99 (-4.58%)
+Volume:=18,509
+
+(beat)
+Last:=5.10
+Change:=-0.13 (-2.49%)
+Volume:=88,931
+
+(beav)
+Last:=40.87
+Change:=-0.33 (-0.80%)
+Volume:=1,010,811
+
+(belfb)
+Last:=19.77
+Change:=-1.25 (-5.95%)
+Volume:=30,307
+
+(bfs)
+Last:=39.45
+Change:=-0.47 (-1.18%)
+Volume:=44,723
+
+(bgcp)
+Last:=7.90
+Change:=-0.28 (-3.42%)
+Volume:=900,931
+
+(bgs)
+Last:=20.34
+Change:=-0.02 (-0.10%)
+Volume:=394,788
+
+(bh)
+Last:=390.95
+Change:=-9.46 (-2.36%)
+Volume:=5,003
+
+(bidu)
+Last:=140.89
+Change:=-1.40 (-0.98%)
+Volume:=6,345,610
+
+(biib)
+Last:=103.87
+Change:=-1.44 (-1.37%)
+Volume:=560,658
+
+(bio)
+Last:=118.34
+Change:=-1.02 (-0.85%)
+Volume:=63,075
+
+(bj)
+Last:=50.35
+Change:=0.00 (&plusmn;0.00%)
+Volume:=1,919,414
+
+(bkmu)
+Last:=3.79
+Change:=-0.12 (-3.07%)
+Volume:=97,086
+
+(bldr)
+Last:=2.22
+Change:=+0.03 (+1.37%)
+Volume:=76,106
+
+(blk)
+Last:=182.27
+Change:=-2.78 (-1.50%)
+Volume:=668,946
+
+(bll)
+Last:=39.28
+Change:=-0.48 (-1.21%)
+Volume:=1,340,066
+
+(bmc)
+Last:=52.62
+Change:=-1.29 (-2.39%)
+Volume:=1,621,841
+
+(bmi)
+Last:=36.87
+Change:=-0.42 (-1.13%)
+Volume:=118,599
+
+(bmrn)
+Last:=29.25
+Change:=+0.62 (+2.12%)
+Volume:=1,889,272
+
+(bmtc)
+Last:=20.62
+Change:=-0.05 (-0.24%)
+Volume:=22,793
+
+(bokf)
+Last:=55.22
+Change:=-0.94 (-1.70%)
+Volume:=61,538
+
+(boom)
+Last:=21.94
+Change:=-0.38 (-1.70%)
+Volume:=63,268
+
+(bpop)
+Last:=2.63
+Change:=-0.04 (-1.52%)
+Volume:=6,582,608
+
+(brc)
+Last:=32.53
+Change:=-0.65 (-1.96%)
+Volume:=160,640
+
+(brcm)
+Last:=32.88
+Change:=-0.42 (-1.26%)
+Volume:=9,940,363
+
+(bre)
+Last:=51.63
+Change:=-0.37 (-0.71%)
+Volume:=953,439
+
+(brli)
+Last:=20.45
+Change:=-0.15 (-0.73%)
+Volume:=346,790
+
+(brs)
+Last:=51.05
+Change:=-0.05 (-0.10%)
+Volume:=307,337
+
+(bsrr)
+Last:=11.22
+Change:=+0.04 (+0.36%)
+Volume:=10,967
+
+(bstc)
+Last:=24.13
+Change:=-0.25 (-1.03%)
+Volume:=4,931
+
+(btn)
+Last:=4.24
+Change:=-0.24 (-5.36%)
+Volume:=336,537
+
+(buse)
+Last:=5.22
+Change:=-0.07 (-1.32%)
+Volume:=164,878
+
+(bxg)
+Last:=2.71
+Change:=-0.03 (-1.09%)
+Volume:=45,080
+
+(bxs)
+Last:=12.09
+Change:=-0.08 (-0.66%)
+Volume:=956,900
+
+(byi)
+Last:=40.95
+Change:=-0.29 (-0.70%)
+Volume:=467,437
+
+(bz)
+Last:=7.52
+Change:=-0.25 (-3.22%)
+Volume:=1,917,192
+
+(c)
+Last:=39.03
+Change:=-0.44 (-1.11%)
+Volume:=31,781,849
+
+(ca)
+Last:=22.11
+Change:=-0.32 (-1.43%)
+Volume:=5,600,314
+
+(cag)
+Last:=26.26
+Change:=-0.01 (-0.04%)
+Volume:=10,618,789
+
+(cah)
+Last:=46.18
+Change:=-0.21 (-0.45%)
+Volume:=2,880,011
+
+(cake)
+Last:=32.70
+Change:=-0.72 (-2.15%)
+Volume:=1,164,690
+
+(cap)
+Last:=18.70
+Change:=-0.76 (-3.91%)
+Volume:=165,217
+
+(cas)
+Last:=17.14
+Change:=-0.32 (-1.83%)
+Volume:=37,107
+
+(casc)
+Last:=52.21
+Change:=-1.03 (-1.93%)
+Volume:=97,847
+
+(cat)
+Last:=107.59
+Change:=-1.06 (-0.97%)
+Volume:=7,190,115
+
+(caty)
+Last:=15.78
+Change:=-0.67 (-4.07%)
+Volume:=362,916
+
+(cavm)
+Last:=39.58
+Change:=-1.01 (-2.49%)
+Volume:=953,115
+
+(cb)
+Last:=62.25
+Change:=-0.35 (-0.56%)
+Volume:=1,493,281
+
+(cbb)
+Last:=3.26
+Change:=-0.02 (-0.61%)
+Volume:=966,872
+
+(cbg)
+Last:=22.80
+Change:=-0.69 (-2.94%)
+Volume:=3,994,133
+
+(cbr)
+Last:=5.65
+Change:=-0.02 (-0.35%)
+Volume:=359,480
+
+(cbu)
+Last:=24.75
+Change:=-0.43 (-1.71%)
+Volume:=178,435
+
+(ccbg)
+Last:=10.29
+Change:=-0.09 (-0.87%)
+Volume:=8,935
+
+(ccc)
+Last:=16.16
+Change:=-0.40 (-2.42%)
+Volume:=384,044
+
+(cce)
+Last:=28.16
+Change:=-0.39 (-1.37%)
+Volume:=3,512,118
+
+(ccmp)
+Last:=43.17
+Change:=+0.07 (+0.16%)
+Volume:=243,490
+
+(ccne)
+Last:=13.83
+Change:=-0.19 (-1.36%)
+Volume:=5,181
+
+(ccoi)
+Last:=16.75
+Change:=-0.52 (-3.01%)
+Volume:=182,817
+
+(cdzi)
+Last:=10.98
+Change:=+0.06 (+0.55%)
+Volume:=29,558
+
+(cec)
+Last:=41.55
+Change:=-0.74 (-1.75%)
+Volume:=131,694
+
+(ceco)
+Last:=23.39
+Change:=-0.40 (-1.71%)
+Volume:=879,739
+
+(celg)
+Last:=60.58
+Change:=-0.50 (-0.82%)
+Volume:=1,677,841
+
+(ceph)
+Last:=80.14
+Change:=+0.04 (+0.05%)
+Volume:=1,343,615
+
+(cern)
+Last:=61.81
+Change:=-0.75 (-1.20%)
+Volume:=477,152
+
+(cers)
+Last:=2.90
+Change:=-0.03 (-1.02%)
+Volume:=184,891
+
+(cffn)
+Last:=11.77
+Change:=-0.07 (-0.55%)
+Volume:=1,378,645
+
+(cfnb)
+Last:=15.87
+Change:=-0.51 (-3.11%)
+Volume:=5,320
+
+(cfnl)
+Last:=11.21
+Change:=-0.10 (-0.88%)
+Volume:=58,535
+
+(cgx)
+Last:=52.78
+Change:=-1.12 (-2.08%)
+Volume:=38,984
+
+(chdx)
+Last:=12.21
+Change:=-0.95 (-7.22%)
+Volume:=69,560
+
+(chg)
+Last:=53.40
+Change:=-0.38 (-0.71%)
+Volume:=34,970
+
+(chh)
+Last:=32.25
+Change:=-0.78 (-2.36%)
+Volume:=150,126
+
+(chkp)
+Last:=56.59
+Change:=-0.87 (-1.51%)
+Volume:=3,443,375
+
+(chrs)
+Last:=4.41
+Change:=-0.02 (-0.45%)
+Volume:=929,787
+
+(chrw)
+Last:=78.92
+Change:=-0.68 (-0.85%)
+Volume:=683,201
+
+(chs)
+Last:=15.82
+Change:=-0.07 (-0.44%)
+Volume:=3,810,086
+
+(chsp)
+Last:=16.82
+Change:=-0.20 (-1.18%)
+Volume:=95,083
+
+(cix)
+Last:=13.29
+Change:=-0.21 (-1.56%)
+Volume:=627
+
+(ckh)
+Last:=103.74
+Change:=-0.11 (-0.11%)
+Volume:=129,310
+
+(ckp)
+Last:=16.90
+Change:=-0.70 (-3.98%)
+Volume:=250,226
+
+(clc)
+Last:=46.77
+Change:=-0.95 (-1.99%)
+Volume:=217,709
+
+(cldt)
+Last:=15.92
+Change:=+0.10 (+0.63%)
+Volume:=36,597
+
+(clh)
+Last:=107.41
+Change:=-3.07 (-2.78%)
+Volume:=174,385
+
+(clne)
+Last:=15.34
+Change:=-1.67 (-9.82%)
+Volume:=5,805,701
+
+(clny)
+Last:=17.94
+Change:=-0.15 (-0.83%)
+Volume:=134,597
+
+(clp)
+Last:=20.84
+Change:=-0.18 (-0.86%)
+Volume:=855,931
+
+(clr)
+Last:=65.57
+Change:=-0.98 (-1.47%)
+Volume:=701,086
+
+(clrt)
+Last:=4.99
+Change:=0.00 (&plusmn;0.00%)
+Volume:=
+
+(clw)
+Last:=66.83
+Change:=-0.48 (-0.71%)
+Volume:=95,251
+
+(cmcsa)
+Last:=24.64
+Change:=+0.07 (+0.28%)
+Volume:=10,711,325
+
+(cmls)
+Last:=3.36
+Change:=-0.08 (-2.33%)
+Volume:=149,945
+
+(cmn)
+Last:=26.79
+Change:=-1.13 (-4.05%)
+Volume:=77,539
+
+(cmo)
+Last:=13.14
+Change:=-0.23 (-1.72%)
+Volume:=1,188,021
+
+(cmp)
+Last:=83.84
+Change:=-1.77 (-2.07%)
+Volume:=171,487
+
+(cmtl)
+Last:=28.69
+Change:=-0.30 (-1.03%)
+Volume:=249,656
+
+(cnbka)
+Last:=27.78
+Change:=+0.28 (+1.02%)
+Volume:=13,531
+
+(cnc)
+Last:=35.79
+Change:=-0.58 (-1.59%)
+Volume:=366,456
+
+(cnk)
+Last:=19.81
+Change:=-0.33 (-1.64%)
+Volume:=529,691
+
+(cnsl)
+Last:=19.59
+Change:=-0.39 (-1.99%)
+Volume:=176,323
+
+(cog)
+Last:=62.60
+Change:=-1.83 (-2.84%)
+Volume:=1,561,011
+
+(colb)
+Last:=17.74
+Change:=-0.12 (-0.68%)
+Volume:=462,789
+
+(comv)
+Last:=3.16
+Change:=+0.03 (+0.96%)
+Volume:=87,501
+
+(coo)
+Last:=80.28
+Change:=-0.49 (-0.61%)
+Volume:=367,294
+
+(cost)
+Last:=81.10
+Change:=+0.26 (+0.32%)
+Volume:=290,623
+
+(cov)
+Last:=52.58
+Change:=-0.36 (-0.68%)
+Volume:=2,791,227
+
+(cown)
+Last:=3.85
+Change:=+0.03 (+0.78%)
+Volume:=328,238
+
+(cpa)
+Last:=68.58
+Change:=-0.08 (-0.12%)
+Volume:=210,016
+
+(cpe)
+Last:=6.74
+Change:=-0.22 (-3.16%)
+Volume:=489,466
+
+(cpn)
+Last:=16.31
+Change:=-0.03 (-0.18%)
+Volume:=3,806,097
+
+(cprt)
+Last:=45.95
+Change:=-0.34 (-0.74%)
+Volume:=270,072
+
+(cpst)
+Last:=1.54
+Change:=+0.04 (+2.67%)
+Volume:=4,513,866
+
+(cpy)
+Last:=12.64
+Change:=-0.43 (-3.29%)
+Volume:=54,769
+
+(cr)
+Last:=48.00
+Change:=-0.91 (-1.86%)
+Volume:=203,581
+
+(crai)
+Last:=27.60
+Change:=-0.18 (-0.65%)
+Volume:=32,085
+
+(crdn)
+Last:=35.01
+Change:=-0.97 (-2.70%)
+Volume:=159,289
+
+(cree)
+Last:=30.63
+Change:=-0.96 (-3.04%)
+Volume:=3,233,532
+
+(crmt)
+Last:=35.33
+Change:=+0.48 (+1.38%)
+Volume:=34,770
+
+(crrc)
+Last:=11.17
+Change:=-0.12 (-1.06%)
+Volume:=29,557
+
+(crs)
+Last:=54.49
+Change:=-1.12 (-2.01%)
+Volume:=530,523
+
+(csco)
+Last:=15.67
+Change:=+0.10 (+0.64%)
+Volume:=19,896,785
+
+(csgp)
+Last:=57.05
+Change:=-1.53 (-2.61%)
+Volume:=166,382
+
+(cstr)
+Last:=58.80
+Change:=-0.72 (-1.22%)
+Volume:=1,128,065
+
+(csu)
+Last:=8.63
+Change:=-0.39 (-4.32%)
+Volume:=204,227
+
+(cswc)
+Last:=97.72
+Change:=-2.05 (-2.05%)
+Volume:=3,000
+
+(ctas)
+Last:=31.57
+Change:=-0.35 (-1.11%)
+Volume:=1,975,220
+
+(ctgx)
+Last:=13.12
+Change:=-0.17 (-1.28%)
+Volume:=30,842
+
+(ctl)
+Last:=38.54
+Change:=-0.24 (-0.62%)
+Volume:=10,379,070
+
+(ctrp)
+Last:=44.50
+Change:=0.00 (&plusmn;0.00%)
+Volume:=1,354,964
+
+(ctsh)
+Last:=74.02
+Change:=0.00 (&plusmn;0.00%)
+Volume:=
+
+(ctxs)
+Last:=74.22
+Change:=-1.66 (-2.19%)
+Volume:=1,835,421
+
+(cvo)
+Last:=6.14
+Change:=-0.20 (-3.15%)
+Volume:=184,500
+
+(cvx)
+Last:=104.67
+Change:=-0.42 (-0.40%)
+Volume:=7,234,154
+
+(cxs)
+Last:=11.05
+Change:=-0.14 (-1.25%)
+Volume:=442,467
+
+(cyh)
+Last:=25.21
+Change:=-0.41 (-1.60%)
+Volume:=1,238,512
+
+(cyn)
+Last:=53.20
+Change:=-1.06 (-1.95%)
+Volume:=288,931
+
+(cypb)
+Last:=6.50
+Change:=0.00 (&plusmn;0.00%)
+Volume:=
+
+(cytk)
+Last:=1.30
+Change:=+0.02 (+1.56%)
+Volume:=249,211
+
+(cytr)
+Last:=0.73
+Change:=-0.02 (-2.72%)
+Volume:=210,781
+
+(dakt)
+Last:=10.94
+Change:=-0.43 (-3.93%)
+Volume:=77,677
+
+(dal)
+Last:=8.51
+Change:=-0.19 (-2.18%)
+Volume:=10,181,807
+
+(dar)
+Last:=16.80
+Change:=-1.01 (-5.67%)
+Volume:=1,689,964
+
+(dbd)
+Last:=31.32
+Change:=-0.12 (-0.38%)
+Volume:=371,835
+
+(dd)
+Last:=53.79
+Change:=-0.81 (-1.48%)
+Volume:=6,298,211
+
+(ddic)
+Last:=9.57
+Change:=-0.08 (-0.84%)
+Volume:=184,067
+
+(de)
+Last:=81.43
+Change:=-0.46 (-0.56%)
+Volume:=4,975,081
+
+(deck)
+Last:=91.87
+Change:=-2.54 (-2.69%)
+Volume:=613,753
+
+(dei)
+Last:=19.31
+Change:=-0.43 (-2.18%)
+Volume:=2,311,056
+
+(dell)
+Last:=16.69
+Change:=+0.16 (+0.97%)
+Volume:=24,784,630
+
+(dest)
+Last:=18.91
+Change:=-0.16 (-0.84%)
+Volume:=59,801
+
+(dfz)
+Last:=11.38
+Change:=-0.12 (-1.04%)
+Volume:=18,378
+
+(dgi)
+Last:=24.62
+Change:=-0.42 (-1.68%)
+Volume:=181,601
+
+(dhil)
+Last:=82.18
+Change:=-1.82 (-2.17%)
+Volume:=16,007
+
+(dhr)
+Last:=52.48
+Change:=-0.92 (-1.72%)
+Volume:=3,872,108
+
+(dis)
+Last:=39.58
+Change:=+0.02 (+0.05%)
+Volume:=13,244,819
+
+(dk)
+Last:=16.31
+Change:=+0.02 (+0.12%)
+Volume:=178,991
+
+(dlb)
+Last:=41.51
+Change:=-0.08 (-0.19%)
+Volume:=887,501
+
+(dllr)
+Last:=22.03
+Change:=-0.43 (-1.91%)
+Volume:=218,285
+
+(dltr)
+Last:=68.92
+Change:=-0.26 (-0.38%)
+Volume:=1,340,686
+
+(dm)
+Last:=8.50
+Change:=-0.17 (-1.96%)
+Volume:=153,105
+
+(dmrc)
+Last:=38.11
+Change:=-0.82 (-2.11%)
+Volume:=24,116
+
+(dndn)
+Last:=39.14
+Change:=+0.54 (+1.40%)
+Volume:=2,026,781
+
+(dnr)
+Last:=18.59
+Change:=-0.47 (-2.47%)
+Volume:=2,610,313
+
+(drc)
+Last:=52.97
+Change:=-0.29 (-0.54%)
+Volume:=964,742
+
+(dri)
+Last:=52.45
+Change:=-0.31 (-0.59%)
+Volume:=1,852,760
+
+(driv)
+Last:=32.42
+Change:=-0.35 (-1.07%)
+Volume:=356,849
+
+(drl)
+Last:=2.05
+Change:=-0.20 (-8.89%)
+Volume:=2,024,558
+
+(dtsi)
+Last:=38.24
+Change:=-1.56 (-3.92%)
+Volume:=84,171
+
+(dtv)
+Last:=52.18
+Change:=-0.65 (-1.23%)
+Volume:=5,071,330
+
+(dva)
+Last:=87.00
+Change:=-0.19 (-0.22%)
+Volume:=368,514
+
+(dvn)
+Last:=77.88
+Change:=-0.42 (-0.54%)
+Volume:=2,465,460
+
+(dvox)
+Last:=7.19
+Change:=-0.37 (-4.90%)
+Volume:=196,632
+
+(dw)
+Last:=23.40
+Change:=-0.55 (-2.30%)
+Volume:=82,690
+
+(dwa)
+Last:=21.16
+Change:=-0.37 (-1.75%)
+Volume:=1,220,385
+
+(dxpe)
+Last:=26.50
+Change:=-0.03 (-0.11%)
+Volume:=59,642
+
+(dy)
+Last:=16.67
+Change:=-0.40 (-2.34%)
+Volume:=193,065
+
+(dyn)
+Last:=6.15
+Change:=-0.49 (-7.38%)
+Volume:=3,310,744
+
+(ebay)
+Last:=32.19
+Change:=-0.19 (-0.59%)
+Volume:=10,842,631
+
+(ebsb)
+Last:=13.70
+Change:=-0.09 (-0.65%)
+Volume:=10,516
+
+(ecpg)
+Last:=25.87
+Change:=-1.97 (-7.08%)
+Volume:=407,455
+
+(edr)
+Last:=8.95
+Change:=-0.07 (-0.78%)
+Volume:=477,457
+
+(eeft)
+Last:=15.62
+Change:=+0.22 (+1.43%)
+Volume:=531,526
+
+(egn)
+Last:=57.30
+Change:=+0.18 (+0.32%)
+Volume:=820,186
+
+(egov)
+Last:=13.27
+Change:=-0.15 (-1.12%)
+Volume:=135,811
+
+(egy)
+Last:=6.33
+Change:=-0.19 (-2.91%)
+Volume:=554,359
+
+(ek)
+Last:=2.76
+Change:=-0.03 (-1.08%)
+Volume:=4,552,662
+
+(elos)
+Last:=11.87
+Change:=-0.38 (-3.10%)
+Volume:=344,350
+
+(els)
+Last:=65.23
+Change:=-0.41 (-0.62%)
+Volume:=141,856
+
+(endp)
+Last:=40.37
+Change:=-0.22 (-0.54%)
+Volume:=1,295,553
+
+(enh)
+Last:=40.90
+Change:=-0.08 (-0.20%)
+Volume:=333,535
+
+(enoc)
+Last:=16.82
+Change:=+0.30 (+1.78%)
+Volume:=373,005
+
+(ens)
+Last:=35.54
+Change:=+0.85 (+2.45%)
+Volume:=745,279
+
+(ep)
+Last:=19.32
+Change:=-0.25 (-1.28%)
+Volume:=9,087,796
+
+(epax)
+Last:=8.82
+Change:=-0.02 (-0.23%)
+Volume:=69,111
+
+(epic)
+Last:=12.50
+Change:=0.00 (&plusmn;0.00%)
+Volume:=
+
+(epl)
+Last:=15.26
+Change:=-0.42 (-2.68%)
+Volume:=324,231
+
+(epm)
+Last:=7.22
+Change:=-0.15 (-2.04%)
+Volume:=38,375
+
+(eqy)
+Last:=19.17
+Change:=-0.12 (-0.62%)
+Volume:=330,447
+
+(erie)
+Last:=73.55
+Change:=+0.25 (+0.34%)
+Volume:=87,532
+
+(erts)
+Last:=23.51
+Change:=-0.40 (-1.67%)
+Volume:=9,344,643
+
+(ese)
+Last:=36.09
+Change:=-0.99 (-2.67%)
+Volume:=113,992
+
+(esgr)
+Last:=107.50
+Change:=+0.15 (+0.14%)
+Volume:=37,240
+
+(esl)
+Last:=78.55
+Change:=-0.45 (-0.57%)
+Volume:=369,283
+
+(esrx)
+Last:=52.57
+Change:=-0.60 (-1.13%)
+Volume:=2,743,919
+
+(ess)
+Last:=138.83
+Change:=-1.14 (-0.81%)
+Volume:=250,080
+
+(etm)
+Last:=8.43
+Change:=-0.18 (-2.09%)
+Volume:=138,201
+
+(evr)
+Last:=31.58
+Change:=-0.41 (-1.28%)
+Volume:=131,831
+
+(exas)
+Last:=8.28
+Change:=-0.29 (-3.38%)
+Volume:=562,562
+
+(exbd)
+Last:=42.87
+Change:=-0.97 (-2.21%)
+Volume:=148,743
+
+(exls)
+Last:=22.12
+Change:=-0.76 (-3.32%)
+Volume:=42,067
+
+(exp)
+Last:=24.57
+Change:=-0.51 (-2.03%)
+Volume:=281,534
+
+(expd)
+Last:=49.99
+Change:=-0.59 (-1.17%)
+Volume:=523,808
+
+(expe)
+Last:=30.14
+Change:=-0.47 (-1.54%)
+Volume:=1,631,032
+
+(exxi)
+Last:=32.75
+Change:=-0.97 (-2.88%)
+Volume:=901,415
+
+(fast)
+Last:=34.32
+Change:=-0.18 (-0.52%)
+Volume:=820,717
+
+(fbn)
+Last:=4.09
+Change:=-0.03 (-0.73%)
+Volume:=275,544
+
+(fbnc)
+Last:=11.09
+Change:=-0.23 (-2.03%)
+Volume:=18,206
+
+(fbp)
+Last:=4.38
+Change:=-0.08 (-1.79%)
+Volume:=66,103
+
+(fcel)
+Last:=1.32
+Change:=-0.04 (-2.94%)
+Volume:=906,255
+
+(fcnca)
+Last:=184.13
+Change:=-2.61 (-1.40%)
+Volume:=14,741
+
+(fcs)
+Last:=16.59
+Change:=+0.46 (+2.85%)
+Volume:=6,065,905
+
+(fcx)
+Last:=54.25
+Change:=-0.64 (-1.17%)
+Volume:=16,530,229
+
+(fdx)
+Last:=93.06
+Change:=-1.19 (-1.26%)
+Volume:=2,825,497
+
+(feic)
+Last:=36.05
+Change:=-1.10 (-2.96%)
+Volume:=630,520
+
+(ffic)
+Last:=13.06
+Change:=-0.24 (-1.84%)
+Volume:=59,371
+
+(ffiv)
+Last:=110.96
+Change:=-1.76 (-1.56%)
+Volume:=1,803,066
+
+(fisv)
+Last:=62.18
+Change:=-0.51 (-0.81%)
+Volume:=245,214
+
+(flex)
+Last:=6.27
+Change:=-0.13 (-2.03%)
+Volume:=5,318,033
+
+(flir)
+Last:=32.11
+Change:=-0.55 (-1.68%)
+Volume:=913,710
+
+(flo)
+Last:=22.73
+Change:=-0.06 (-0.26%)
+Volume:=630,684
+
+(flr)
+Last:=64.29
+Change:=-0.59 (-0.91%)
+Volume:=1,725,824
+
+(fls)
+Last:=101.53
+Change:=-1.94 (-1.87%)
+Volume:=645,077
+
+(flws)
+Last:=3.17
+Change:=0.00 (&plusmn;0.00%)
+Volume:=48,659
+
+(fmbi)
+Last:=12.05
+Change:=-0.33 (-2.67%)
+Volume:=251,585
+
+(fmc)
+Last:=86.61
+Change:=-0.90 (-1.03%)
+Volume:=467,249
+
+(fmd)
+Last:=1.68
+Change:=+0.01 (+0.60%)
+Volume:=140,302
+
+(fnsr)
+Last:=16.78
+Change:=-0.63 (-3.62%)
+Volume:=3,813,826
+
+(fosl)
+Last:=128.03
+Change:=-0.55 (-0.43%)
+Volume:=1,124,905
+
+(frx)
+Last:=38.79
+Change:=-0.23 (-0.59%)
+Volume:=2,620,116
+
+(fsii)
+Last:=2.82
+Change:=-0.05 (-1.74%)
+Volume:=330,210
+
+(fslr)
+Last:=123.29
+Change:=-1.89 (-1.51%)
+Volume:=1,125,995
+
+(fsp)
+Last:=12.91
+Change:=-0.26 (-1.97%)
+Volume:=163,191
+
+(fst)
+Last:=22.93
+Change:=-0.52 (-2.22%)
+Volume:=3,398,322
+
+(fsys)
+Last:=23.80
+Change:=-0.57 (-2.34%)
+Volume:=135,561
+
+(ftr)
+Last:=7.82
+Change:=-0.11 (-1.39%)
+Volume:=7,338,046
+
+(fwrd)
+Last:=34.62
+Change:=-0.66 (-1.91%)
+Volume:=57,085
+
+(g)
+Last:=17.60
+Change:=+0.13 (+0.74%)
+Volume:=1,070,045
+
+(gain)
+Last:=7.36
+Change:=-0.12 (-1.60%)
+Volume:=67,617
+
+(gbdc)
+Last:=15.39
+Change:=+0.02 (+0.13%)
+Volume:=69,125
+
+(gbl)
+Last:=48.24
+Change:=-2.04 (-4.06%)
+Volume:=21,777
+
+(gd)
+Last:=71.37
+Change:=-1.28 (-1.76%)
+Volume:=2,358,242
+
+(ge)
+Last:=18.57
+Change:=+0.06 (+0.30%)
+Volume:=33,170,663
+
+(gef)
+Last:=64.36
+Change:=-1.09 (-1.67%)
+Volume:=84,185
+
+(geoi)
+Last:=26.38
+Change:=-0.23 (-0.87%)
+Volume:=530,291
+
+(get)
+Last:=30.33
+Change:=-1.05 (-3.35%)
+Volume:=789,209
+
+(ggp)
+Last:=16.20
+Change:=-0.28 (-1.70%)
+Volume:=2,650,412
+
+(ggs)
+Last:=16.92
+Change:=-0.30 (-1.74%)
+Volume:=152,274
+
+(gild)
+Last:=41.27
+Change:=-0.34 (-0.82%)
+Volume:=4,722,730
+
+(gksr)
+Last:=34.19
+Change:=-0.79 (-2.31%)
+Volume:=41,061
+
+(glad)
+Last:=9.51
+Change:=-0.16 (-1.68%)
+Volume:=39,197
+
+(glng)
+Last:=37.88
+Change:=+0.13 (+0.34%)
+Volume:=520,334
+
+(gmcr)
+Last:=88.31
+Change:=-2.22 (-2.45%)
+Volume:=2,007,155
+
+(gmt)
+Last:=36.68
+Change:=-1.02 (-2.71%)
+Volume:=198,114
+
+(gntx)
+Last:=31.20
+Change:=-0.59 (-1.89%)
+Volume:=575,508
+
+(goog)
+Last:=528.21
+Change:=-10.05 (-1.87%)
+Volume:=3,672,180
+
+(gps)
+Last:=18.81
+Change:=+0.09 (+0.48%)
+Volume:=6,473,023
+
+(grb)
+Last:=11.11
+Change:=-0.04 (-0.36%)
+Volume:=72,995
+
+(grmn)
+Last:=32.45
+Change:=-0.51 (-1.55%)
+Volume:=1,152,369
+
+(gsat)
+Last:=1.15
+Change:=0.00 (&plusmn;0.00%)
+Volume:=155,651
+
+(gsbc)
+Last:=19.48
+Change:=-0.21 (-1.07%)
+Volume:=36,106
+
+(gsm)
+Last:=24.90
+Change:=-0.53 (-2.13%)
+Volume:=1,230,341
+
+(gti)
+Last:=20.82
+Change:=-0.44 (-2.07%)
+Volume:=987,138
+
+(gty)
+Last:=25.69
+Change:=-0.16 (-0.62%)
+Volume:=151,524
+
+(gymb)
+Last:=65.40
+Change:=0.00 (&plusmn;0.00%)
+Volume:=
+
+(hafc)
+Last:=1.18
+Change:=-0.01 (-0.84%)
+Volume:=681,256
+
+(hal)
+Last:=51.97
+Change:=-0.65 (-1.24%)
+Volume:=10,623,526
+
+(halo)
+Last:=7.06
+Change:=-0.11 (-1.53%)
+Volume:=277,685
+
+(hans)
+Last:=78.30
+Change:=-0.57 (-0.72%)
+Volume:=255,471
+
+(hbcp)
+Last:=14.39
+Change:=+0.03 (+0.21%)
+Volume:=3,890
+
+(hckt)
+Last:=4.90
+Change:=-0.15 (-2.97%)
+Volume:=67,696
+
+(hcp)
+Last:=37.04
+Change:=-0.48 (-1.28%)
+Volume:=2,600,876
+
+(hd)
+Last:=35.96
+Change:=-0.17 (-0.47%)
+Volume:=10,796,954
+
+(he)
+Last:=24.16
+Change:=-0.22 (-0.90%)
+Volume:=335,882
+
+(hees)
+Last:=12.95
+Change:=-0.87 (-6.30%)
+Volume:=212,934
+
+(hele)
+Last:=34.02
+Change:=-0.54 (-1.59%)
+Volume:=218,335
+
+(hgr)
+Last:=24.81
+Change:=-0.92 (-3.58%)
+Volume:=134,299
+
+(hgsi)
+Last:=23.68
+Change:=-0.36 (-1.52%)
+Volume:=1,772,385
+
+(hhgp)
+Last:=5.59
+Change:=-0.12 (-2.10%)
+Volume:=44,431
+
+(hibb)
+Last:=41.03
+Change:=-0.63 (-1.51%)
+Volume:=213,361
+
+(hig)
+Last:=24.88
+Change:=-0.72 (-2.81%)
+Volume:=8,271,782
+
+(hk)
+Last:=23.49
+Change:=-0.44 (-1.84%)
+Volume:=3,877,630
+
+(hls)
+Last:=24.83
+Change:=-0.76 (-2.97%)
+Volume:=1,344,694
+
+(hma)
+Last:=10.33
+Change:=-0.16 (-1.53%)
+Volume:=2,386,454
+
+(hme)
+Last:=63.45
+Change:=-0.11 (-0.17%)
+Volume:=524,565
+
+(hmsy)
+Last:=77.38
+Change:=-1.59 (-2.01%)
+Volume:=90,950
+
+(hog)
+Last:=41.80
+Change:=-0.34 (-0.81%)
+Volume:=2,242,480
+
+(hott)
+Last:=7.64
+Change:=+0.32 (+4.19%)
+Volume:=893,491
+
+(hp)
+Last:=66.98
+Change:=-1.31 (-1.92%)
+Volume:=1,071,747
+
+(hpq)
+Last:=35.13
+Change:=-0.31 (-0.87%)
+Volume:=14,974,909
+
+(hpt)
+Last:=24.50
+Change:=-0.39 (-1.57%)
+Volume:=1,539,309
+
+(hpy)
+Last:=20.13
+Change:=-0.05 (-0.25%)
+Volume:=270,649
+
+(hrg)
+Last:=5.81
+Change:=-0.11 (-1.86%)
+Volume:=29,937
+
+(hrs)
+Last:=42.36
+Change:=-0.52 (-1.21%)
+Volume:=856,721
+
+(hrz)
+Last:=1.18
+Change:=+0.02 (+1.72%)
+Volume:=710,190
+
+(hsic)
+Last:=73.14
+Change:=-0.74 (-1.00%)
+Volume:=195,858
+
+(hsp)
+Last:=52.68
+Change:=-0.29 (-0.55%)
+Volume:=1,064,641
+
+(ht)
+Last:=5.56
+Change:=-0.12 (-2.11%)
+Volume:=589,307
+
+(htgc)
+Last:=10.42
+Change:=-0.06 (-0.57%)
+Volume:=196,127
+
+(hts)
+Last:=28.31
+Change:=-0.29 (-1.01%)
+Volume:=1,427,996
+
+(hurn)
+Last:=29.30
+Change:=-0.64 (-2.14%)
+Volume:=42,559
+
+(hwkn)
+Last:=37.43
+Change:=-1.23 (-3.29%)
+Volume:=44,239
+
+(iaci)
+Last:=37.09
+Change:=-0.65 (-1.72%)
+Volume:=1,113,328
+
+(ibm)
+Last:=174.32
+Change:=0.00 (&plusmn;0.00%)
+Volume:=
+
+(iboc)
+Last:=16.80
+Change:=-0.31 (-1.81%)
+Volume:=198,250
+
+(icge)
+Last:=12.23
+Change:=-0.31 (-2.47%)
+Volume:=123,566
+
+(icog)
+Last:=2.75
+Change:=-0.12 (-4.18%)
+Volume:=187,255
+
+(idti)
+Last:=7.22
+Change:=+0.02 (+0.28%)
+Volume:=1,509,402
+
+(idxx)
+Last:=79.27
+Change:=-0.87 (-1.10%)
+Volume:=307,741
+
+(ihs)
+Last:=81.11
+Change:=-0.88 (-1.07%)
+Volume:=325,808
+
+(iilg)
+Last:=13.50
+Change:=-0.41 (-2.95%)
+Volume:=176,295
+
+(iivi)
+Last:=27.27
+Change:=-0.69 (-2.53%)
+Volume:=260,190
+
+(ikan)
+Last:=1.13
+Change:=-0.01 (-0.88%)
+Volume:=56,667
+
+(ilmn)
+Last:=73.68
+Change:=-0.33 (-0.45%)
+Volume:=1,435,476
+
+(im)
+Last:=17.29
+Change:=-0.02 (-0.12%)
+Volume:=2,097,256
+
+(imgn)
+Last:=15.05
+Change:=+0.11 (+0.73%)
+Volume:=796,247
+
+(imn)
+Last:=9.37
+Change:=-0.23 (-2.40%)
+Volume:=108,361
+
+(in)
+Last:=10.89
+Change:=-0.18 (-1.63%)
+Volume:=336,437
+
+(inap)
+Last:=6.98
+Change:=-0.17 (-2.38%)
+Volume:=222,494
+
+(indm)
+Last:=7.23
+Change:=0.00 (&plusmn;0.00%)
+Volume:=
+
+(infi)
+Last:=9.07
+Change:=+0.07 (+0.78%)
+Volume:=45,725
+
+(infy)
+Last:=61.16
+Change:=-0.10 (-0.16%)
+Volume:=1,962,332
+
+(ino)
+Last:=0.74
+Change:=-0.01 (-1.33%)
+Volume:=735,868
+
+(intc)
+Last:=22.39
+Change:=-0.09 (-0.40%)
+Volume:=26,172,092
+
+(intu)
+Last:=49.19
+Change:=-0.67 (-1.34%)
+Volume:=2,120,787
+
+(io)
+Last:=9.62
+Change:=-0.14 (-1.43%)
+Volume:=1,246,226
+
+(ipcc)
+Last:=54.43
+Change:=-1.25 (-2.25%)
+Volume:=20,454
+
+(ipcm)
+Last:=49.84
+Change:=-0.13 (-0.26%)
+Volume:=116,112
+
+(ipg)
+Last:=11.92
+Change:=-0.24 (-1.97%)
+Volume:=7,356,169
+
+(ipgp)
+Last:=70.05
+Change:=-1.39 (-1.98%)
+Volume:=311,972
+
+(ipi)
+Last:=31.75
+Change:=+0.14 (+0.44%)
+Volume:=703,513
+
+(ipxl)
+Last:=21.29
+Change:=-0.07 (-0.33%)
+Volume:=475,805
+
+(ir)
+Last:=45.23
+Change:=-0.68 (-1.48%)
+Volume:=4,154,010
+
+(irc)
+Last:=8.97
+Change:=-0.09 (-0.99%)
+Volume:=340,110
+
+(irm)
+Last:=35.11
+Change:=-0.23 (-0.65%)
+Volume:=2,795,706
+
+(isis)
+Last:=9.23
+Change:=+0.01 (+0.11%)
+Volume:=411,007
+
+(isrg)
+Last:=356.24
+Change:=-3.16 (-0.88%)
+Volume:=243,346
+
+(isrl)
+Last:=66.59
+Change:=+0.24 (+0.36%)
+Volume:=17,622
+
+(itc)
+Last:=72.29
+Change:=-0.15 (-0.21%)
+Volume:=255,766
+
+(itri)
+Last:=46.09
+Change:=-1.16 (-2.46%)
+Volume:=561,740
+
+(ivac)
+Last:=9.99
+Change:=-0.19 (-1.90%)
+Volume:=73,246
+
+(ivc)
+Last:=33.35
+Change:=-0.17 (-0.51%)
+Volume:=116,267
+
+(ivz)
+Last:=22.33
+Change:=-0.35 (-1.54%)
+Volume:=2,948,661
+
+(ixys)
+Last:=14.84
+Change:=+0.65 (+4.58%)
+Volume:=180,966
+
+(jakk)
+Last:=17.86
+Change:=-0.40 (-2.19%)
+Volume:=134,124
+
+(jazz)
+Last:=37.07
+Change:=+2.09 (+5.97%)
+Volume:=1,338,727
+
+(jbht)
+Last:=47.39
+Change:=-0.58 (-1.21%)
+Volume:=689,773
+
+(jcp)
+Last:=31.85
+Change:=-0.25 (-0.78%)
+Volume:=5,672,287
+
+(jec)
+Last:=41.24
+Change:=-0.34 (-0.82%)
+Volume:=1,251,665
+
+(jll)
+Last:=89.62
+Change:=-3.45 (-3.71%)
+Volume:=335,458
+
+(jnj)
+Last:=67.63
+Change:=0.00 (&plusmn;0.00%)
+Volume:=
+
+(jnpr)
+Last:=30.36
+Change:=-0.67 (-2.16%)
+Volume:=7,506,244
+
+(joyg)
+Last:=94.88
+Change:=+0.01 (+0.01%)
+Volume:=1,624,332
+
+(jpm)
+Last:=40.35
+Change:=+0.73 (+1.84%)
+Volume:=65,026,574
+
+(kalu)
+Last:=54.47
+Change:=-0.36 (-0.66%)
+Volume:=262,811
+
+(kar)
+Last:=18.28
+Change:=-0.44 (-2.35%)
+Volume:=116,325
+
+(kbh)
+Last:=9.54
+Change:=-0.01 (-0.10%)
+Volume:=4,161,475
+
+(kbr)
+Last:=36.66
+Change:=-0.38 (-1.03%)
+Volume:=1,009,609
+
+(kbw)
+Last:=17.75
+Change:=-0.08 (-0.45%)
+Volume:=448,531
+
+(kcg)
+Last:=10.83
+Change:=-0.11 (-1.01%)
+Volume:=1,850,160
+
+(kcli)
+Last:=30.80
+Change:=-0.49 (-1.57%)
+Volume:=2,612
+
+(kelya)
+Last:=15.58
+Change:=-0.59 (-3.65%)
+Volume:=133,767
+
+(kerx)
+Last:=4.93
+Change:=-0.03 (-0.61%)
+Volume:=908,770
+
+(keyn)
+Last:=21.53
+Change:=-0.26 (-1.19%)
+Volume:=90,596
+
+(kft)
+Last:=35.37
+Change:=+0.01 (+0.03%)
+Volume:=9,723,793
+
+(kirk)
+Last:=11.63
+Change:=-0.26 (-2.24%)
+Volume:=292,839
+
+(klac)
+Last:=40.75
+Change:=-0.88 (-2.11%)
+Volume:=3,090,844
+
+(klic)
+Last:=9.64
+Change:=-0.22 (-2.23%)
+Volume:=1,826,325
+
+(kmt)
+Last:=42.59
+Change:=-0.75 (-1.73%)
+Volume:=571,874
+
+(knol)
+Last:=14.37
+Change:=-0.31 (-2.11%)
+Volume:=67,992
+
+(ko)
+Last:=67.65
+Change:=-0.41 (-0.60%)
+Volume:=7,101,016
+
+(ks)
+Last:=16.45
+Change:=-0.01 (-0.06%)
+Volume:=151,517
+
+(kss)
+Last:=55.97
+Change:=+0.19 (+0.34%)
+Volume:=2,728,979
+
+(ksws)
+Last:=11.38
+Change:=-0.18 (-1.58%)
+Volume:=153,112
+
+(ktos)
+Last:=11.63
+Change:=-0.32 (-2.68%)
+Volume:=100,749
+
+(kvhi)
+Last:=11.37
+Change:=-0.37 (-3.15%)
+Volume:=51,678
+
+(kwk)
+Last:=13.66
+Change:=-0.10 (-0.73%)
+Volume:=2,841,346
+
+(labl)
+Last:=22.54
+Change:=-0.83 (-3.55%)
+Volume:=27,030
+
+(lamr)
+Last:=26.00
+Change:=-0.55 (-2.07%)
+Volume:=978,373
+
+(laws)
+Last:=19.61
+Change:=-0.52 (-2.58%)
+Volume:=15,670
+
+(layn)
+Last:=29.57
+Change:=-0.63 (-2.09%)
+Volume:=54,496
+
+(laz)
+Last:=34.03
+Change:=-0.19 (-0.56%)
+Volume:=737,255
+
+(lbai)
+Last:=9.91
+Change:=-0.85 (-7.90%)
+Volume:=88,717
+
+(lci)
+Last:=4.78
+Change:=-0.13 (-2.65%)
+Volume:=150,860
+
+(ldsh)
+Last:=56.17
+Change:=0.00 (&plusmn;0.00%)
+Volume:=
+
+(lea)
+Last:=53.06
+Change:=-0.22 (-0.41%)
+Volume:=829,099
+
+(leg)
+Last:=23.28
+Change:=-0.32 (-1.36%)
+Volume:=1,087,432
+
+(lfus)
+Last:=56.87
+Change:=-1.37 (-2.41%)
+Volume:=122,219
+
+(life)
+Last:=50.08
+Change:=-0.42 (-0.83%)
+Volume:=1,289,526
+
+(linc)
+Last:=18.71
+Change:=-0.14 (-0.74%)
+Volume:=215,286
+
+(linta)
+Last:=17.23
+Change:=-0.35 (-1.99%)
+Volume:=3,951,407
+
+(llen)
+Last:=5.14
+Change:=-0.01 (-0.19%)
+Volume:=507,089
+
+(lll)
+Last:=82.37
+Change:=-1.60 (-1.91%)
+Volume:=874,714
+
+(lltc)
+Last:=30.34
+Change:=-0.50 (-1.62%)
+Volume:=2,648,064
+
+(lm)
+Last:=31.63
+Change:=-0.71 (-2.20%)
+Volume:=1,634,439
+
+(lng)
+Last:=8.76
+Change:=-0.36 (-3.95%)
+Volume:=2,103,033
+
+(logm)
+Last:=36.57
+Change:=-1.34 (-3.53%)
+Volume:=271,521
+
+(loop)
+Last:=18.40
+Change:=-0.10 (-0.54%)
+Volume:=106,585
+
+(lpnt)
+Last:=37.80
+Change:=-0.87 (-2.25%)
+Volume:=433,245
+
+(lpx)
+Last:=8.19
+Change:=-0.13 (-1.56%)
+Volume:=3,256,996
+
+(lrcx)
+Last:=41.85
+Change:=-0.83 (-1.94%)
+Volume:=3,019,352
+
+(lse)
+Last:=4.76
+Change:=-0.07 (-1.45%)
+Volume:=85,847
+
+(lsi)
+Last:=6.68
+Change:=-0.09 (-1.33%)
+Volume:=6,290,106
+
+(lstr)
+Last:=46.40
+Change:=-0.65 (-1.38%)
+Volume:=258,525
+
+(lstza)
+Last:=73.79
+Change:=-0.52 (-0.70%)
+Volume:=199,295
+
+(ltm)
+Last:=39.12
+Change:=-0.53 (-1.34%)
+Volume:=240,083
+
+(ltre)
+Last:=9.91
+Change:=-0.02 (-0.20%)
+Volume:=4,713
+
+(lvs)
+Last:=44.57
+Change:=+0.27 (+0.61%)
+Volume:=13,743,377
+
+(lway)
+Last:=10.71
+Change:=-0.21 (-1.92%)
+Volume:=42,225
+
+(lxp)
+Last:=9.00
+Change:=+0.01 (+0.11%)
+Volume:=6,188,906
+
+(lxrx)
+Last:=1.75
+Change:=-0.11 (-6.29%)
+Volume:=927,575
+
+(lxu)
+Last:=43.50
+Change:=-0.22 (-0.50%)
+Volume:=247,551
+
+(ma)
+Last:=305.68
+Change:=-0.21 (-0.07%)
+Volume:=818,339
+
+(mako)
+Last:=31.32
+Change:=+0.31 (+0.99%)
+Volume:=464,256
+
+(mapp)
+Last:=16.00
+Change:=-0.11 (-0.68%)
+Volume:=102,162
+
+(mas)
+Last:=11.32
+Change:=-0.26 (-2.25%)
+Volume:=9,646,146
+
+(mat)
+Last:=26.79
+Change:=-0.24 (-0.89%)
+Volume:=4,209,610
+
+(matk)
+Last:=31.49
+Change:=0.00 (&plusmn;0.00%)
+Volume:=
+
+(mblx)
+Last:=6.74
+Change:=-0.26 (-3.71%)
+Volume:=189,641
+
+(mbvt)
+Last:=26.32
+Change:=-0.35 (-1.31%)
+Volume:=10,505
+
+(mcd)
+Last:=86.15
+Change:=+1.19 (+1.40%)
+Volume:=1,302,739
+
+(mchp)
+Last:=31.95
+Change:=-0.46 (-1.42%)
+Volume:=3,193,122
+
+(mcri)
+Last:=10.04
+Change:=-0.09 (-0.89%)
+Volume:=46,247
+
+(mcrl)
+Last:=9.65
+Change:=-0.43 (-4.27%)
+Volume:=616,282
+
+(mcy)
+Last:=38.66
+Change:=-0.47 (-1.20%)
+Volume:=114,388
+
+(mdr)
+Last:=19.79
+Change:=-0.13 (-0.65%)
+Volume:=2,999,717
+
+(mdso)
+Last:=23.70
+Change:=-0.37 (-1.54%)
+Volume:=77,732
+
+(mdth)
+Last:=13.54
+Change:=-0.27 (-1.96%)
+Volume:=135,172
+
+(mdvn)
+Last:=21.89
+Change:=-0.42 (-1.88%)
+Volume:=155,527
+
+(ment)
+Last:=12.12
+Change:=-0.16 (-1.30%)
+Volume:=728,477
+
+(meru)
+Last:=10.96
+Change:=-0.23 (-2.06%)
+Volume:=118,173
+
+(mgln)
+Last:=55.92
+Change:=0.00 (&plusmn;0.00%)
+Volume:=
+
+(mgm)
+Last:=14.72
+Change:=-0.13 (-0.88%)
+Volume:=22,685,117
+
+(mgpi)
+Last:=8.03
+Change:=-0.28 (-3.37%)
+Volume:=26,474
+
+(mgrc)
+Last:=28.02
+Change:=-0.37 (-1.30%)
+Volume:=26,672
+
+(mho)
+Last:=11.91
+Change:=-0.71 (-5.63%)
+Volume:=144,273
+
+(mhr)
+Last:=6.86
+Change:=-0.06 (-0.87%)
+Volume:=3,306,616
+
+(mhs)
+Last:=54.70
+Change:=+0.10 (+0.18%)
+Volume:=3,923,602
+
+(midd)
+Last:=93.27
+Change:=-1.31 (-1.40%)
+Volume:=56,478
+
+(mig)
+Last:=9.84
+Change:=-0.19 (-1.89%)
+Volume:=239,652
+
+(mjn)
+Last:=68.79
+Change:=-0.17 (-0.25%)
+Volume:=1,060,451
+
+(mksi)
+Last:=25.06
+Change:=+0.20 (+0.80%)
+Volume:=458,776
+
+(mlhr)
+Last:=26.45
+Change:=-0.96 (-3.50%)
+Volume:=324,545
+
+(mlnk)
+Last:=4.48
+Change:=-0.04 (-0.89%)
+Volume:=83,295
+
+(mlr)
+Last:=17.82
+Change:=-0.11 (-0.61%)
+Volume:=62,907
+
+(mmm)
+Last:=95.32
+Change:=-0.87 (-0.90%)
+Volume:=1,319,292
+
+(mms)
+Last:=40.90
+Change:=-0.53 (-1.28%)
+Volume:=89,555
+
+(mnro)
+Last:=36.63
+Change:=-0.16 (-0.43%)
+Volume:=258,373
+
+(mpg)
+Last:=3.53
+Change:=-0.03 (-0.84%)
+Volume:=372,001
+
+(mpr)
+Last:=10.82
+Change:=-0.20 (-1.81%)
+Volume:=25,622
+
+(mpx)
+Last:=5.65
+Change:=-0.43 (-7.07%)
+Volume:=25,309
+
+(mrcy)
+Last:=18.48
+Change:=-0.47 (-2.54%)
+Volume:=96,789
+
+(mrh)
+Last:=18.26
+Change:=-0.07 (-0.38%)
+Volume:=402,204
+
+(mrk)
+Last:=36.41
+Change:=+0.38 (+1.05%)
+Volume:=12,635,569
+
+(mrvl)
+Last:=14.68
+Change:=-0.04 (-0.27%)
+Volume:=12,429,716
+
+(msft)
+Last:=26.63
+Change:=0.00 (&plusmn;0.00%)
+Volume:=23,291,886
+
+(mtb)
+Last:=86.00
+Change:=-1.08 (-1.24%)
+Volume:=1,079,051
+
+(mtn)
+Last:=44.55
+Change:=-0.65 (-1.44%)
+Volume:=258,429
+
+(mtrx)
+Last:=14.15
+Change:=-0.55 (-3.89%)
+Volume:=108,659
+
+(mu)
+Last:=7.29
+Change:=-0.20 (-2.67%)
+Volume:=31,629,935
+
+(mvis)
+Last:=1.15
+Change:=0.00 (&plusmn;0.00%)
+Volume:=480,329
+
+(mw)
+Last:=33.49
+Change:=-0.78 (-2.28%)
+Volume:=592,538
+
+(mwa)
+Last:=3.68
+Change:=-0.01 (-0.27%)
+Volume:=577,911
+
+(mwv)
+Last:=33.01
+Change:=-0.12 (-0.36%)
+Volume:=2,319,829
+
+(mww)
+Last:=13.14
+Change:=-0.44 (-3.24%)
+Volume:=2,799,862
+
+(mxim)
+Last:=23.68
+Change:=-0.18 (-0.73%)
+Volume:=915,189
+
+(mxl)
+Last:=7.62
+Change:=-0.32 (-4.03%)
+Volume:=135,804
+
+(myl)
+Last:=23.86
+Change:=-0.16 (-0.67%)
+Volume:=4,606,434
+
+(nafc)
+Last:=37.74
+Change:=-0.75 (-1.99%)
+Volume:=51,600
+
+(natr)
+Last:=19.25
+Change:=-0.51 (-2.58%)
+Volume:=56,291
+
+(nauh)
+Last:=9.02
+Change:=+0.02 (+0.22%)
+Volume:=15,114
+
+(nc)
+Last:=96.97
+Change:=-3.10 (-3.10%)
+Volume:=28,998
+
+(ncs)
+Last:=11.30
+Change:=-0.37 (-3.17%)
+Volume:=186,186
+
+(nct)
+Last:=5.93
+Change:=-0.19 (-3.10%)
+Volume:=713,477
+
+(ndsn)
+Last:=55.09
+Change:=-0.76 (-1.36%)
+Volume:=279,293
+
+(nee)
+Last:=56.99
+Change:=-0.21 (-0.37%)
+Volume:=1,480,408
+
+(neog)
+Last:=46.40
+Change:=-0.48 (-1.02%)
+Volume:=53,804
+
+(netl)
+Last:=38.27
+Change:=-0.51 (-1.32%)
+Volume:=1,053,160
+
+(newp)
+Last:=17.60
+Change:=-0.48 (-2.73%)
+Volume:=279,013
+
+(nfg)
+Last:=69.62
+Change:=-1.20 (-1.69%)
+Volume:=550,084
+
+(nflx)
+Last:=286.62
+Change:=-12.11 (-4.05%)
+Volume:=5,819,846
+
+(ngpc)
+Last:=8.21
+Change:=-0.76 (-8.47%)
+Volume:=273,608
+
+(ngsx)
+Last:=1.69
+Change:=-0.05 (-2.87%)
+Volume:=104,504
+
+(nhi)
+Last:=45.00
+Change:=-0.39 (-0.86%)
+Volume:=94,665
+
+(nihd)
+Last:=42.15
+Change:=-1.36 (-3.13%)
+Volume:=835,524
+
+(nktr)
+Last:=7.46
+Change:=+0.03 (+0.40%)
+Volume:=1,107,490
+
+(nor)
+Last:=13.70
+Change:=-0.74 (-5.12%)
+Volume:=340,505
+
+(nsit)
+Last:=18.67
+Change:=-0.41 (-2.20%)
+Volume:=194,138
+
+(nsr)
+Last:=26.06
+Change:=-0.40 (-1.51%)
+Volume:=285,124
+
+(ntap)
+Last:=50.12
+Change:=-1.11 (-2.17%)
+Volume:=3,162,095
+
+(ntct)
+Last:=15.56
+Change:=-0.14 (-0.89%)
+Volume:=677,885
+
+(nty)
+Last:=55.01
+Change:=0.00 (&plusmn;0.00%)
+Volume:=
+
+(nue)
+Last:=39.23
+Change:=-0.59 (-1.48%)
+Volume:=3,447,791
+
+(nutr)
+Last:=15.16
+Change:=-0.11 (-0.72%)
+Volume:=15,592
+
+(nuva)
+Last:=31.51
+Change:=-0.54 (-1.68%)
+Volume:=702,472
+
+(nvax)
+Last:=1.97
+Change:=-0.01 (-0.51%)
+Volume:=358,839
+
+(nvda)
+Last:=14.08
+Change:=-0.58 (-3.96%)
+Volume:=27,145,904
+
+(nwbi)
+Last:=12.97
+Change:=-0.12 (-0.93%)
+Volume:=654,156
+
+(nwe)
+Last:=33.69
+Change:=-0.22 (-0.65%)
+Volume:=314,131
+
+(nwl)
+Last:=15.19
+Change:=-0.12 (-0.78%)
+Volume:=2,319,888
+
+(nwsa)
+Last:=15.98
+Change:=+0.05 (+0.31%)
+Volume:=22,476,515
+
+(nxst)
+Last:=7.43
+Change:=-0.27 (-3.51%)
+Volume:=146,365
+
+(nyny)
+Last:=1.02
+Change:=-0.02 (-1.92%)
+Volume:=88,131
+
+(nyt)
+Last:=8.41
+Change:=-0.48 (-5.40%)
+Volume:=2,966,661
+
+(nyx)
+Last:=34.02
+Change:=+0.17 (+0.50%)
+Volume:=1,394,847
+
+(oabc)
+Last:=14.71
+Change:=-0.15 (-1.01%)
+Volume:=13,716
+
+(ob)
+Last:=13.21
+Change:=-0.28 (-2.08%)
+Volume:=51,560
+
+(oclr)
+Last:=6.21
+Change:=-0.19 (-3.06%)
+Volume:=719,588
+
+(oeh)
+Last:=9.74
+Change:=-0.59 (-5.71%)
+Volume:=1,062,566
+
+(ofix)
+Last:=43.42
+Change:=-0.21 (-0.48%)
+Volume:=68,017
+
+(oksb)
+Last:=9.82
+Change:=-0.26 (-2.58%)
+Volume:=33,173
+
+(ompi)
+Last:=10.58
+Change:=-0.05 (-0.47%)
+Volume:=76,404
+
+(onb)
+Last:=10.62
+Change:=-0.24 (-2.21%)
+Volume:=451,366
+
+(onxx)
+Last:=35.10
+Change:=+1.03 (+3.02%)
+Volume:=950,584
+
+(opxt)
+Last:=2.19
+Change:=-0.05 (-2.23%)
+Volume:=783,412
+
+(opy)
+Last:=26.00
+Change:=-0.74 (-2.77%)
+Volume:=29,576
+
+(orb)
+Last:=16.75
+Change:=-0.25 (-1.47%)
+Volume:=308,595
+
+(orcc)
+Last:=3.35
+Change:=0.00 (&plusmn;0.00%)
+Volume:=77,332
+
+(orcl)
+Last:=32.05
+Change:=-0.64 (-1.96%)
+Volume:=31,969,833
+
+(orly)
+Last:=63.69
+Change:=-0.65 (-1.01%)
+Volume:=984,625
+
+(osir)
+Last:=8.23
+Change:=+0.07 (+0.86%)
+Volume:=65,380
+
+(osur)
+Last:=9.70
+Change:=-0.05 (-0.51%)
+Volume:=217,013
+
+(outd)
+Last:=6.69
+Change:=-0.14 (-2.05%)
+Volume:=25,158
+
+(oxm)
+Last:=36.36
+Change:=-0.26 (-0.71%)
+Volume:=218,651
+
+(oxps)
+Last:=15.41
+Change:=-0.25 (-1.60%)
+Volume:=500,682
+
+(oxy)
+Last:=103.36
+Change:=+0.39 (+0.38%)
+Volume:=4,236,067
+
+(oyog)
+Last:=101.40
+Change:=-3.45 (-3.29%)
+Volume:=27,344
+
+(ozrk)
+Last:=52.33
+Change:=-0.87 (-1.64%)
+Volume:=102,200
+
+(pacr)
+Last:=5.00
+Change:=-0.08 (-1.60%)
+Volume:=235,545
+
+(pag)
+Last:=23.00
+Change:=-0.26 (-1.12%)
+Volume:=600,458
+
+(panl)
+Last:=30.43
+Change:=-1.56 (-4.88%)
+Volume:=700,097
+
+(pay)
+Last:=42.31
+Change:=-0.66 (-1.54%)
+Volume:=1,152,448
+
+(payx)
+Last:=30.70
+Change:=0.00 (&plusmn;0.00%)
+Volume:=
+
+(pbct)
+Last:=13.55
+Change:=-0.23 (-1.67%)
+Volume:=9,814,237
+
+(pbh)
+Last:=13.33
+Change:=+0.08 (+0.60%)
+Volume:=228,274
+
+(pbi)
+Last:=22.09
+Change:=-0.25 (-1.12%)
+Volume:=2,784,047
+
+(pbny)
+Last:=8.36
+Change:=-0.13 (-1.53%)
+Volume:=48,859
+
+(pby)
+Last:=11.21
+Change:=+0.10 (+0.90%)
+Volume:=799,999
+
+(pcar)
+Last:=49.10
+Change:=-1.16 (-2.31%)
+Volume:=4,288,112
+
+(pccc)
+Last:=8.14
+Change:=-0.14 (-1.71%)
+Volume:=38,078
+
+(pch)
+Last:=34.98
+Change:=-1.16 (-3.21%)
+Volume:=328,983
+
+(pcln)
+Last:=520.27
+Change:=-12.00 (-2.25%)
+Volume:=668,526
+
+(pcs)
+Last:=16.82
+Change:=-0.27 (-1.58%)
+Volume:=4,078,989
+
+(pdm)
+Last:=20.44
+Change:=-0.19 (-0.92%)
+Volume:=772,758
+
+(peb)
+Last:=19.99
+Change:=-0.20 (-0.99%)
+Volume:=485,827
+
+(peet)
+Last:=59.14
+Change:=-1.21 (-2.01%)
+Volume:=167,580
+
+(pei)
+Last:=15.72
+Change:=-0.20 (-1.26%)
+Volume:=329,630
+
+(petm)
+Last:=44.86
+Change:=-0.78 (-1.71%)
+Volume:=867,001
+
+(pfcb)
+Last:=40.07
+Change:=-1.05 (-2.55%)
+Volume:=438,825
+
+(pfe)
+Last:=19.91
+Change:=-0.08 (-0.40%)
+Volume:=34,396,525
+
+(pg)
+Last:=64.64
+Change:=0.00 (&plusmn;0.00%)
+Volume:=
+
+(pgi)
+Last:=7.96
+Change:=-0.21 (-2.57%)
+Volume:=93,575
+
+(pgn)
+Last:=47.67
+Change:=-0.28 (-0.58%)
+Volume:=902,358
+
+(pgnx)
+Last:=7.49
+Change:=-0.20 (-2.60%)
+Volume:=32,807
+
+(pgti)
+Last:=1.82
+Change:=+0.01 (+0.55%)
+Volume:=11,547
+
+(phh)
+Last:=19.82
+Change:=-0.29 (-1.44%)
+Volume:=509,517
+
+(phiik)
+Last:=21.88
+Change:=-0.19 (-0.86%)
+Volume:=10,981
+
+(phm)
+Last:=7.09
+Change:=-0.15 (-2.07%)
+Volume:=7,473,146
+
+(pike)
+Last:=9.25
+Change:=-0.11 (-1.18%)
+Volume:=16,765
+
+(pke)
+Last:=27.60
+Change:=-0.82 (-2.89%)
+Volume:=54,543
+
+(pki)
+Last:=26.21
+Change:=-0.26 (-0.98%)
+Volume:=616,125
+
+(pl)
+Last:=22.62
+Change:=+0.29 (+1.30%)
+Volume:=1,263,395
+
+(plce)
+Last:=46.45
+Change:=-0.52 (-1.11%)
+Volume:=306,873
+
+(plcm)
+Last:=30.57
+Change:=-0.44 (-1.42%)
+Volume:=1,466,501
+
+(plfe)
+Last:=11.02
+Change:=-0.28 (-2.48%)
+Volume:=55,217
+
+(plpc)
+Last:=69.34
+Change:=-1.40 (-1.98%)
+Volume:=10,838
+
+(pm)
+Last:=66.42
+Change:=-0.42 (-0.63%)
+Volume:=4,553,221
+
+(pnm)
+Last:=16.64
+Change:=-0.22 (-1.30%)
+Volume:=679,580
+
+(pnra)
+Last:=130.60
+Change:=-1.15 (-0.87%)
+Volume:=436,009
+
+(pnw)
+Last:=43.89
+Change:=-0.49 (-1.10%)
+Volume:=2,219,166
+
+(pnx)
+Last:=2.42
+Change:=-0.02 (-0.82%)
+Volume:=191,491
+
+(podd)
+Last:=22.04
+Change:=-0.43 (-1.91%)
+Volume:=58,428
+
+(powi)
+Last:=37.02
+Change:=-0.61 (-1.65%)
+Volume:=362,621
+
+(ppc)
+Last:=5.06
+Change:=+0.02 (+0.40%)
+Volume:=586,849
+
+(ppg)
+Last:=88.46
+Change:=-1.47 (-1.63%)
+Volume:=1,047,599
+
+(pq)
+Last:=6.67
+Change:=-0.31 (-4.44%)
+Volume:=958,232
+
+(praa)
+Last:=79.13
+Change:=-3.12 (-3.79%)
+Volume:=177,702
+
+(prgo)
+Last:=92.13
+Change:=+0.50 (+0.54%)
+Volume:=572,123
+
+(prim)
+Last:=12.88
+Change:=-0.58 (-4.31%)
+Volume:=156,017
+
+(prs)
+Last:=5.95
+Change:=-0.07 (-1.16%)
+Volume:=27,695
+
+(prsp)
+Last:=44.75
+Change:=-0.64 (-1.41%)
+Volume:=273,569
+
+(prx)
+Last:=34.60
+Change:=+0.33 (+0.96%)
+Volume:=236,914
+
+(pss)
+Last:=14.16
+Change:=-0.30 (-2.07%)
+Volume:=1,035,703
+
+(pva)
+Last:=12.48
+Change:=-0.32 (-2.50%)
+Volume:=910,898
+
+(pvtb)
+Last:=13.30
+Change:=-0.34 (-2.49%)
+Volume:=325,439
+
+(pzn)
+Last:=5.85
+Change:=-0.04 (-0.68%)
+Volume:=24,230
+
+(pzz)
+Last:=8.49
+Change:=0.00 (&plusmn;0.00%)
+Volume:=
+
+(pzza)
+Last:=31.58
+Change:=-0.32 (-1.00%)
+Volume:=170,400
+
+(qcom)
+Last:=54.46
+Change:=-1.63 (-2.91%)
+Volume:=10,388,258
+
+(qcor)
+Last:=26.97
+Change:=-0.48 (-1.75%)
+Volume:=773,569
+
+(qdel)
+Last:=15.68
+Change:=-0.14 (-0.89%)
+Volume:=77,640
+
+(qgen)
+Last:=18.25
+Change:=+0.02 (+0.11%)
+Volume:=1,373,277
+
+(qlty)
+Last:=12.72
+Change:=-0.33 (-2.53%)
+Volume:=41,850
+
+(r)
+Last:=56.61
+Change:=-0.21 (-0.37%)
+Volume:=420,899
+
+(rad)
+Last:=1.29
+Change:=0.00 (&plusmn;0.00%)
+Volume:=2,405,311
+
+(rah)
+Last:=86.62
+Change:=-0.14 (-0.16%)
+Volume:=1,151,162
+
+(ras)
+Last:=6.04
+Change:=-0.40 (-6.21%)
+Volume:=1,162,474
+
+(rden)
+Last:=30.19
+Change:=-0.13 (-0.43%)
+Volume:=132,628
+
+(recn)
+Last:=12.18
+Change:=-0.38 (-3.03%)
+Volume:=402,722
+
+(reg)
+Last:=46.22
+Change:=-0.32 (-0.69%)
+Volume:=1,114,007
+
+(ren)
+Last:=16.47
+Change:=-0.10 (-0.60%)
+Volume:=389,171
+
+(rev)
+Last:=19.19
+Change:=+0.40 (+2.13%)
+Volume:=245,080
+
+(revu)
+Last:=0.23
+Change:=+0.0040 (+1.78%)
+Volume:=71,020
+
+(rfmd)
+Last:=6.01
+Change:=-0.15 (-2.44%)
+Volume:=4,950,442
+
+(rgr)
+Last:=23.04
+Change:=-0.44 (-1.87%)
+Volume:=116,786
+
+(rhi)
+Last:=25.32
+Change:=-0.48 (-1.86%)
+Volume:=1,439,058
+
+(rigl)
+Last:=9.90
+Change:=+0.01 (+0.10%)
+Volume:=449,369
+
+(rimm)
+Last:=27.23
+Change:=-0.92 (-3.27%)
+Volume:=12,028,500
+
+(rjet)
+Last:=5.27
+Change:=-0.20 (-3.80%)
+Volume:=329,003
+
+(rkt)
+Last:=61.25
+Change:=-0.85 (-1.37%)
+Volume:=645,758
+
+(rli)
+Last:=62.62
+Change:=-0.51 (-0.81%)
+Volume:=77,216
+
+(rloc)
+Last:=19.40
+Change:=-0.45 (-2.27%)
+Volume:=294,170
+
+(rnow)
+Last:=29.54
+Change:=-0.67 (-2.22%)
+Volume:=114,410
+
+(rnr)
+Last:=70.21
+Change:=-0.28 (-0.40%)
+Volume:=340,432
+
+(rnst)
+Last:=15.01
+Change:=-0.12 (-0.79%)
+Volume:=44,079
+
+(roc)
+Last:=56.84
+Change:=-1.34 (-2.30%)
+Volume:=683,910
+
+(rocm)
+Last:=9.08
+Change:=+0.02 (+0.22%)
+Volume:=60,054
+
+(rodm)
+Last:=1.51
+Change:=+0.03 (+2.03%)
+Volume:=45,660
+
+(roiak)
+Last:=1.64
+Change:=-0.09 (-5.20%)
+Volume:=146,609
+
+(rok)
+Last:=80.79
+Change:=-2.80 (-3.35%)
+Volume:=1,796,505
+
+(rol)
+Last:=20.63
+Change:=-0.32 (-1.53%)
+Volume:=217,295
+
+(roll)
+Last:=39.53
+Change:=-0.88 (-2.23%)
+Volume:=75,868
+
+(rop)
+Last:=82.10
+Change:=+0.55 (+0.67%)
+Volume:=400,062
+
+(rose)
+Last:=52.20
+Change:=-0.53 (-1.01%)
+Volume:=885,013
+
+(rost)
+Last:=77.79
+Change:=-0.73 (-0.93%)
+Volume:=916,777
+
+(rt)
+Last:=11.07
+Change:=+0.06 (+0.55%)
+Volume:=940,499
+
+(rtec)
+Last:=10.37
+Change:=-0.07 (-0.67%)
+Volume:=226,250
+
+(rtix)
+Last:=3.10
+Change:=-0.05 (-1.59%)
+Volume:=626,974
+
+(rue)
+Last:=34.06
+Change:=-1.29 (-3.65%)
+Volume:=217,317
+
+(rwt)
+Last:=14.91
+Change:=-0.20 (-1.32%)
+Volume:=396,408
+
+(safm)
+Last:=45.62
+Change:=-0.66 (-1.43%)
+Volume:=259,275
+
+(saft)
+Last:=41.91
+Change:=-0.15 (-0.36%)
+Volume:=40,669
+
+(sam)
+Last:=90.04
+Change:=-0.72 (-0.79%)
+Volume:=70,750
+
+(sanm)
+Last:=9.18
+Change:=-0.28 (-2.96%)
+Volume:=456,645
+
+(sbib)
+Last:=7.69
+Change:=-0.12 (-1.54%)
+Volume:=735,373
+
+(sbsi)
+Last:=20.42
+Change:=-0.08 (-0.39%)
+Volume:=19,788
+
+(sbux)
+Last:=39.13
+Change:=-0.45 (-1.14%)
+Volume:=6,660,899
+
+(scl)
+Last:=73.10
+Change:=-1.70 (-2.27%)
+Volume:=29,356
+
+(scmp)
+Last:=4.10
+Change:=-0.05 (-1.20%)
+Volume:=6,697
+
+(scs)
+Last:=10.99
+Change:=-0.17 (-1.52%)
+Volume:=839,714
+
+(scvl)
+Last:=32.73
+Change:=-0.06 (-0.18%)
+Volume:=53,525
+
+(seb)
+Last:=2,458.00
+Change:=-18.00 (-0.73%)
+Volume:=920
+
+(see)
+Last:=23.09
+Change:=-0.44 (-1.87%)
+Volume:=1,176,007
+
+(sf)
+Last:=36.76
+Change:=-0.76 (-2.03%)
+Volume:=546,920
+
+(sfsf)
+Last:=28.29
+Change:=-0.97 (-3.32%)
+Volume:=1,349,477
+
+(shld)
+Last:=74.01
+Change:=-1.25 (-1.66%)
+Volume:=97,249
+
+(shoo)
+Last:=40.30
+Change:=-0.07 (-0.17%)
+Volume:=337,703
+
+(shw)
+Last:=83.12
+Change:=-0.51 (-0.61%)
+Volume:=914,094
+
+(sial)
+Last:=72.98
+Change:=-0.82 (-1.11%)
+Volume:=306,285
+
+(simg)
+Last:=6.43
+Change:=+0.01 (+0.16%)
+Volume:=792,841
+
+(siro)
+Last:=55.40
+Change:=-0.78 (-1.41%)
+Volume:=127,796
+
+(sivb)
+Last:=60.33
+Change:=-0.23 (-0.38%)
+Volume:=618,300
+
+(sji)
+Last:=53.75
+Change:=-0.60 (-1.10%)
+Volume:=95,279
+
+(sjm)
+Last:=75.96
+Change:=-0.48 (-0.63%)
+Volume:=434,568
+
+(sjw)
+Last:=23.95
+Change:=-0.29 (-1.20%)
+Volume:=38,287
+
+(slh)
+Last:=58.80
+Change:=-0.61 (-1.03%)
+Volume:=224,325
+
+(slrc)
+Last:=24.42
+Change:=-0.38 (-1.53%)
+Volume:=212,042
+
+(smg)
+Last:=50.74
+Change:=-0.82 (-1.59%)
+Volume:=538,939
+
+(smod)
+Last:=9.20
+Change:=+0.02 (+0.22%)
+Volume:=1,674,019
+
+(smrt)
+Last:=9.92
+Change:=-0.18 (-1.78%)
+Volume:=205,506
+
+(smsi)
+Last:=3.88
+Change:=+0.09 (+2.32%)
+Volume:=346,637
+
+(sndk)
+Last:=41.16
+Change:=-0.72 (-1.72%)
+Volume:=5,615,219
+
+(snh)
+Last:=23.41
+Change:=-0.09 (-0.38%)
+Volume:=1,283,435
+
+(solr)
+Last:=15.17
+Change:=+0.02 (+0.13%)
+Volume:=4,069,253
+
+(sonc)
+Last:=10.76
+Change:=+0.12 (+1.12%)
+Volume:=923,907
+
+(sone)
+Last:=7.05
+Change:=-0.18 (-2.49%)
+Volume:=209,634
+
+(spls)
+Last:=15.20
+Change:=-0.29 (-1.87%)
+Volume:=9,758,920
+
+(spmd)
+Last:=3.87
+Change:=-0.03 (-0.78%)
+Volume:=81,397
+
+(spn)
+Last:=38.26
+Change:=-1.40 (-3.53%)
+Volume:=886,558
+
+(sptn)
+Last:=20.50
+Change:=-0.33 (-1.61%)
+Volume:=98,509
+
+(spw)
+Last:=80.71
+Change:=-1.76 (-2.13%)
+Volume:=328,975
+
+(srcl)
+Last:=89.90
+Change:=-1.59 (-1.74%)
+Volume:=297,627
+
+(srdx)
+Last:=11.74
+Change:=-0.33 (-2.69%)
+Volume:=48,623
+
+(sri)
+Last:=14.74
+Change:=-0.32 (-2.12%)
+Volume:=64,422
+
+(srsl)
+Last:=9.38
+Change:=-0.54 (-5.44%)
+Volume:=94,617
+
+(srx)
+Last:=31.20
+Change:=-0.02 (-0.06%)
+Volume:=881,002
+
+(srz)
+Last:=9.54
+Change:=-0.07 (-0.73%)
+Volume:=706,400
+
+(ssp)
+Last:=8.75
+Change:=-0.56 (-6.02%)
+Volume:=468,616
+
+(stba)
+Last:=17.50
+Change:=-0.56 (-3.10%)
+Volume:=66,718
+
+(stfc)
+Last:=17.11
+Change:=-0.07 (-0.41%)
+Volume:=19,995
+
+(sti)
+Last:=24.64
+Change:=-0.47 (-1.87%)
+Volume:=6,927,370
+
+(stnr)
+Last:=49.82
+Change:=-0.50 (-1.00%)
+Volume:=23,045
+
+(stwd)
+Last:=20.38
+Change:=-0.36 (-1.74%)
+Volume:=389,663
+
+(stx)
+Last:=16.68
+Change:=-0.15 (-0.89%)
+Volume:=8,569,991
+
+(sui)
+Last:=37.62
+Change:=-0.42 (-1.10%)
+Volume:=74,435
+
+(sumr)
+Last:=8.52
+Change:=-0.02 (-0.23%)
+Volume:=50,648
+
+(supx)
+Last:=20.96
+Change:=-0.68 (-3.14%)
+Volume:=31,762
+
+(svvs)
+Last:=39.53
+Change:=-0.06 (-0.15%)
+Volume:=2,979,512
+
+(swk)
+Last:=68.99
+Change:=-2.11 (-2.97%)
+Volume:=2,556,174
+
+(swm)
+Last:=56.44
+Change:=-0.41 (-0.72%)
+Volume:=89,842
+
+(sxt)
+Last:=37.66
+Change:=-0.58 (-1.52%)
+Volume:=178,974
+
+(syke)
+Last:=20.95
+Change:=-0.50 (-2.38%)
+Volume:=84,786
+
+(symc)
+Last:=18.97
+Change:=-0.30 (-1.56%)
+Volume:=7,563,520
+
+(symm)
+Last:=5.96
+Change:=-0.25 (-4.03%)
+Volume:=104,134
+
+(synm)
+Last:=1.37
+Change:=-0.05 (-3.52%)
+Volume:=1,113,275
+
+(syno)
+Last:=17.60
+Change:=-0.30 (-1.68%)
+Volume:=12,639
+
+(synt)
+Last:=58.50
+Change:=-0.34 (-0.58%)
+Volume:=193,074
+
+(syx)
+Last:=16.01
+Change:=-0.02 (-0.12%)
+Volume:=40,455
+
+(t)
+Last:=30.82
+Change:=+0.05 (+0.16%)
+Volume:=15,750,029
+
+(tal)
+Last:=31.99
+Change:=-0.47 (-1.45%)
+Volume:=364,189
+
+(tap)
+Last:=44.57
+Change:=+0.54 (+1.23%)
+Volume:=1,554,042
+
+(tasr)
+Last:=4.26
+Change:=-0.09 (-2.07%)
+Volume:=170,161
+
+(tast)
+Last:=10.19
+Change:=-0.09 (-0.88%)
+Volume:=77,506
+
+(tat)
+Last:=1.54
+Change:=-0.05 (-3.14%)
+Volume:=8,708,779
+
+(tayc)
+Last:=9.15
+Change:=-0.13 (-1.40%)
+Volume:=7,915
+
+(tbnk)
+Last:=20.90
+Change:=-0.11 (-0.52%)
+Volume:=12,217
+
+(tc)
+Last:=9.82
+Change:=-0.21 (-2.09%)
+Volume:=2,662,893
+
+(tcb)
+Last:=13.30
+Change:=-0.20 (-1.48%)
+Volume:=1,078,601
+
+(tco)
+Last:=60.04
+Change:=-0.95 (-1.56%)
+Volume:=578,497
+
+(tcrd)
+Last:=12.82
+Change:=-0.22 (-1.69%)
+Volume:=38,359
+
+(tdy)
+Last:=49.21
+Change:=-0.90 (-1.80%)
+Volume:=199,227
+
+(te)
+Last:=18.62
+Change:=-0.20 (-1.06%)
+Volume:=1,524,265
+
+(tecua)
+Last:=10.23
+Change:=-0.55 (-5.10%)
+Volume:=26,082
+
+(ten)
+Last:=43.36
+Change:=-0.24 (-0.55%)
+Volume:=665,478
+
+(ter)
+Last:=13.61
+Change:=-0.19 (-1.38%)
+Volume:=3,609,601
+
+(teva)
+Last:=48.43
+Change:=-0.80 (-1.63%)
+Volume:=4,886,419
+
+(tfx)
+Last:=61.75
+Change:=-1.10 (-1.75%)
+Volume:=226,091
+
+(tg)
+Last:=19.28
+Change:=-0.19 (-0.98%)
+Volume:=88,588
+
+(tgh)
+Last:=28.35
+Change:=-1.25 (-4.22%)
+Volume:=139,633
+
+(tgi)
+Last:=101.09
+Change:=-1.63 (-1.59%)
+Volume:=207,620
+
+(thff)
+Last:=32.83
+Change:=-0.69 (-2.06%)
+Volume:=8,954
+
+(thmd)
+Last:=14.99
+Change:=0.00 (&plusmn;0.00%)
+Volume:=
+
+(tho)
+Last:=27.37
+Change:=-0.86 (-3.05%)
+Volume:=375,968
+
+(thrx)
+Last:=24.61
+Change:=-0.66 (-2.68%)
+Volume:=351,945
+
+(tie)
+Last:=18.27
+Change:=-0.63 (-3.33%)
+Volume:=3,378,097
+
+(tif)
+Last:=81.47
+Change:=-0.61 (-0.74%)
+Volume:=1,612,531
+
+(tiny)
+Last:=5.38
+Change:=-0.12 (-2.18%)
+Volume:=119,638
+
+(tisi)
+Last:=23.65
+Change:=-0.34 (-1.42%)
+Volume:=29,135
+
+(tjx)
+Last:=55.09
+Change:=-0.18 (-0.33%)
+Volume:=2,309,693
+
+(tklc)
+Last:=8.44
+Change:=-0.52 (-5.80%)
+Volume:=2,485,245
+
+(tkr)
+Last:=48.41
+Change:=-1.52 (-3.04%)
+Volume:=996,878
+
+(tmp)
+Last:=39.67
+Change:=-0.97 (-2.39%)
+Volume:=13,618
+
+(tnc)
+Last:=40.71
+Change:=-0.63 (-1.52%)
+Volume:=47,758
+
+(tnk)
+Last:=8.80
+Change:=-0.15 (-1.68%)
+Volume:=231,821
+
+(tpgi)
+Last:=3.36
+Change:=-0.09 (-2.61%)
+Volume:=23,826
+
+(trad)
+Last:=9.74
+Change:=0.00 (&plusmn;0.00%)
+Volume:=
+
+(trak)
+Last:=23.47
+Change:=-0.78 (-3.32%)
+Volume:=187,036
+
+(trex)
+Last:=20.20
+Change:=+0.19 (+0.95%)
+Volume:=160,884
+
+(trmk)
+Last:=22.98
+Change:=-0.61 (-2.59%)
+Volume:=277,484
+
+(trow)
+Last:=58.44
+Change:=-0.46 (-0.78%)
+Volume:=2,189,008
+
+(trv)
+Last:=57.73
+Change:=-0.74 (-1.27%)
+Volume:=3,272,971
+
+(tsn)
+Last:=18.46
+Change:=-0.11 (-0.59%)
+Volume:=2,371,301
+
+(tsra)
+Last:=15.89
+Change:=-0.25 (-1.57%)
+Volume:=287,703
+
+(ttec)
+Last:=21.67
+Change:=-0.41 (-1.88%)
+Volume:=141,013
+
+(ttek)
+Last:=21.93
+Change:=-0.57 (-2.53%)
+Volume:=170,021
+
+(tti)
+Last:=12.25
+Change:=-0.16 (-1.29%)
+Volume:=538,688
+
+(tues)
+Last:=4.18
+Change:=-0.16 (-3.83%)
+Volume:=321,914
+
+(tvl)
+Last:=4.32
+Change:=-0.15 (-3.36%)
+Volume:=152,946
+
+(tw)
+Last:=61.99
+Change:=-1.01 (-1.60%)
+Volume:=280,710
+
+(twin)
+Last:=39.52
+Change:=-0.32 (-0.82%)
+Volume:=66,575
+
+(two)
+Last:=10.51
+Change:=-0.15 (-1.41%)
+Volume:=2,536,415
+
+(twx)
+Last:=35.76
+Change:=-0.05 (-0.14%)
+Volume:=7,890,052
+
+(txn)
+Last:=30.72
+Change:=-0.28 (-0.90%)
+Volume:=10,907,046
+
+(txt)
+Last:=21.91
+Change:=-0.27 (-1.22%)
+Volume:=4,752,210
+
+(tyl)
+Last:=26.35
+Change:=-0.43 (-1.61%)
+Volume:=175,351
+
+(ueic)
+Last:=24.62
+Change:=-0.71 (-2.80%)
+Volume:=28,811
+
+(ufcs)
+Last:=17.89
+Change:=-0.25 (-1.38%)
+Volume:=34,451
+
+(ufpi)
+Last:=24.07
+Change:=+5.06 (+21.02%)
+Volume:=1,016,913
+
+(ufs)
+Last:=93.92
+Change:=-1.14 (-1.20%)
+Volume:=369,640
+
+(ugi)
+Last:=31.74
+Change:=-0.30 (-0.94%)
+Volume:=396,217
+
+(uhs)
+Last:=52.30
+Change:=-0.73 (-1.38%)
+Volume:=1,292,643
+
+(uil)
+Last:=32.49
+Change:=-0.34 (-1.04%)
+Volume:=244,059
+
+(ulta)
+Last:=64.87
+Change:=-1.54 (-2.37%)
+Volume:=591,595
+
+(ulti)
+Last:=56.66
+Change:=-0.74 (-1.31%)
+Volume:=102,148
+
+(umbf)
+Last:=44.36
+Change:=-1.36 (-3.07%)
+Volume:=151,581
+
+(umh)
+Last:=10.89
+Change:=-0.03 (-0.27%)
+Volume:=15,279
+
+(umpq)
+Last:=11.59
+Change:=-0.19 (-1.61%)
+Volume:=747,148
+
+(unfi)
+Last:=44.74
+Change:=-0.05 (-0.11%)
+Volume:=237,008
+
+(unp)
+Last:=100.71
+Change:=-1.44 (-1.41%)
+Volume:=3,577,700
+
+(untd)
+Last:=6.24
+Change:=-0.12 (-1.92%)
+Volume:=604,553
+
+(upl)
+Last:=44.86
+Change:=-0.33 (-0.73%)
+Volume:=1,797,016
+
+(ups)
+Last:=73.36
+Change:=-0.06 (-0.08%)
+Volume:=3,550,711
+
+(urbn)
+Last:=31.30
+Change:=-0.55 (-1.73%)
+Volume:=3,003,623
+
+(uri)
+Last:=23.29
+Change:=-0.52 (-2.18%)
+Volume:=1,784,416
+
+(urs)
+Last:=43.45
+Change:=-0.23 (-0.53%)
+Volume:=939,235
+
+(usap)
+Last:=46.66
+Change:=-2.44 (-4.97%)
+Volume:=137,898
+
+(usb)
+Last:=24.69
+Change:=-0.43 (-1.71%)
+Volume:=11,416,213
+
+(usph)
+Last:=24.31
+Change:=-0.75 (-3.00%)
+Volume:=28,616
+
+(utek)
+Last:=26.81
+Change:=+1.92 (+7.71%)
+Volume:=1,315,228
+
+(uti)
+Last:=19.74
+Change:=-1.35 (-6.40%)
+Volume:=114,928
+
+(utr)
+Last:=28.93
+Change:=-0.73 (-2.46%)
+Volume:=213,424
+
+(utx)
+Last:=87.82
+Change:=-0.35 (-0.40%)
+Volume:=3,127,415
+
+(uve)
+Last:=4.66
+Change:=-0.09 (-1.89%)
+Volume:=95,798
+
+(uvv)
+Last:=36.59
+Change:=-0.22 (-0.60%)
+Volume:=222,941
+
+(vcbi)
+Last:=5.99
+Change:=+0.03 (+0.50%)
+Volume:=39,516
+
+(vci)
+Last:=30.16
+Change:=-0.26 (-0.85%)
+Volume:=431,505
+
+(vgr)
+Last:=17.99
+Change:=+0.22 (+1.24%)
+Volume:=164,616
+
+(vlccf)
+Last:=21.92
+Change:=-0.05 (-0.23%)
+Volume:=69,059
+
+(vlgea)
+Last:=27.25
+Change:=-0.14 (-0.51%)
+Volume:=17,553
+
+(vmed)
+Last:=27.68
+Change:=-0.04 (-0.14%)
+Volume:=5,892,820
+
+(vnda)
+Last:=7.31
+Change:=-0.20 (-2.74%)
+Volume:=146,307
+
+(vocs)
+Last:=30.89
+Change:=-0.42 (-1.34%)
+Volume:=95,807
+
+(vod)
+Last:=25.84
+Change:=-0.20 (-0.78%)
+Volume:=5,719,170
+
+(volc)
+Last:=32.22
+Change:=-0.55 (-1.68%)
+Volume:=534,671
+
+(vpfg)
+Last:=13.77
+Change:=-0.19 (-1.36%)
+Volume:=272,976
+
+(vphm)
+Last:=19.35
+Change:=-0.16 (-0.82%)
+Volume:=486,950
+
+(vrsn)
+Last:=32.79
+Change:=-0.61 (-1.83%)
+Volume:=2,086,981
+
+(vrtx)
+Last:=50.76
+Change:=-0.74 (-1.43%)
+Volume:=972,545
+
+(vrx)
+Last:=52.61
+Change:=-0.38 (-0.72%)
+Volume:=774,404
+
+(vsec)
+Last:=23.14
+Change:=-0.79 (-3.30%)
+Volume:=17,583
+
+(vz)
+Last:=36.94
+Change:=0.00 (&plusmn;0.00%)
+Volume:=
+
+(wab)
+Last:=62.69
+Change:=-1.75 (-2.72%)
+Volume:=576,393
+
+(wash)
+Last:=22.89
+Change:=-0.10 (-0.44%)
+Volume:=63,322
+
+(wat)
+Last:=93.44
+Change:=-1.03 (-1.09%)
+Volume:=297,762
+
+(wbc)
+Last:=66.28
+Change:=-2.28 (-3.33%)
+Volume:=979,834
+
+(wbsn)
+Last:=27.10
+Change:=-0.13 (-0.48%)
+Volume:=263,754
+
+(wcrx)
+Last:=23.68
+Change:=-0.22 (-0.90%)
+Volume:=687,748
+
+(wern)
+Last:=25.36
+Change:=-0.27 (-1.05%)
+Volume:=365,700
+
+(weys)
+Last:=25.07
+Change:=-0.33 (-1.30%)
+Volume:=9,263
+
+(wfd)
+Last:=8.54
+Change:=-0.03 (-0.35%)
+Volume:=28,408
+
+(wfm)
+Last:=64.10
+Change:=-1.61 (-2.45%)
+Volume:=1,673,921
+
+(wgo)
+Last:=9.14
+Change:=-0.18 (-1.93%)
+Volume:=217,480
+
+(win)
+Last:=12.67
+Change:=-0.14 (-1.09%)
+Volume:=4,926,372
+
+(wina)
+Last:=43.73
+Change:=-1.16 (-2.58%)
+Volume:=7,045
+
+(wlk)
+Last:=50.64
+Change:=-0.87 (-1.69%)
+Volume:=298,072
+
+(wll)
+Last:=55.50
+Change:=-0.94 (-1.67%)
+Volume:=1,847,216
+
+(wlt)
+Last:=109.63
+Change:=-3.99 (-3.51%)
+Volume:=1,937,525
+
+(wmt)
+Last:=54.02
+Change:=0.00 (&plusmn;0.00%)
+Volume:=
+
+(wnr)
+Last:=20.09
+Change:=+0.26 (+1.31%)
+Volume:=4,566,996
+
+(wor)
+Last:=22.10
+Change:=-0.22 (-0.99%)
+Volume:=1,031,820
+
+(wr)
+Last:=26.55
+Change:=-0.24 (-0.90%)
+Volume:=903,994
+
+(wrc)
+Last:=55.04
+Change:=+0.98 (+1.81%)
+Volume:=2,915,577
+
+(wri)
+Last:=25.54
+Change:=-0.38 (-1.47%)
+Volume:=732,430
+
+(wsbc)
+Last:=19.35
+Change:=-0.35 (-1.78%)
+Volume:=31,164
+
+(wso)
+Last:=64.48
+Change:=-1.50 (-2.27%)
+Volume:=188,567
+
+(wts)
+Last:=36.25
+Change:=-0.16 (-0.44%)
+Volume:=388,679
+
+(wtsla)
+Last:=4.99
+Change:=-0.01 (-0.20%)
+Volume:=2,282,595
+
+(wwon)
+Last:=5.67
+Change:=-0.23 (-3.90%)
+Volume:=4,413
+
+(wynn)
+Last:=158.79
+Change:=+2.44 (+1.56%)
+Volume:=1,766,035
+
+(xco)
+Last:=15.16
+Change:=-0.50 (-3.19%)
+Volume:=2,792,316
+
+(xec)
+Last:=83.54
+Change:=-1.91 (-2.24%)
+Volume:=566,100
+
+(xlnx)
+Last:=33.53
+Change:=-0.39 (-1.15%)
+Volume:=4,563,287
+
+(xnpt)
+Last:=7.72
+Change:=-0.13 (-1.68%)
+Volume:=241,324
+
+(xom)
+Last:=82.22
+Change:=-0.26 (-0.32%)
+Volume:=18,803,984
+
+(xprt)
+Last:=0.03
+Change:=0.00 (&plusmn;0.00%)
+Volume:=47,615
+
+(xray)
+Last:=39.15
+Change:=-0.10 (-0.25%)
+Volume:=559,812
+
+(xrit)
+Last:=4.81
+Change:=-0.03 (-0.62%)
+Volume:=66,403
+
+(xtxi)
+Last:=12.44
+Change:=-0.07 (-0.56%)
+Volume:=303,761
+
+(xxia)
+Last:=10.15
+Change:=-0.03 (-0.29%)
+Volume:=1,144,955
+
+(yhoo)
+Last:=14.63
+Change:=-0.28 (-1.88%)
+Volume:=25,199,637
+
+(ysi)
+Last:=10.40
+Change:=-0.15 (-1.42%)
+Volume:=397,502
+
+(yum)
+Last:=56.37
+Change:=+0.79 (+1.42%)
+Volume:=9,921,816
+
+(zbra)
+Last:=41.52
+Change:=-0.44 (-1.05%)
+Volume:=167,091
+
+(ziop)
+Last:=5.89
+Change:=-0.07 (-1.17%)
+Volume:=284,502
+
+(zixi)
+Last:=4.03
+Change:=-0.08 (-1.99%)
+Volume:=615,813
+
+(zoll)
+Last:=56.68
+Change:=-1.16 (-2.01%)
+Volume:=167,037
+
