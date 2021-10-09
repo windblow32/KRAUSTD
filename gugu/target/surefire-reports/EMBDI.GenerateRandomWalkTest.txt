@@ -1,4 +1,4 @@
 -------------------------------------------------------------------------------
 Test set: EMBDI.GenerateRandomWalkTest
 -------------------------------------------------------------------------------
-Tests run: 3, Failures: 0, Errors: 0, Skipped: 0, Time elapsed: 0.074 sec - in EMBDI.GenerateRandomWalkTest
+Tests run: 3, Failures: 0, Errors: 0, Skipped: 0, Time elapsed: 0.137 sec - in EMBDI.GenerateRandomWalkTest
