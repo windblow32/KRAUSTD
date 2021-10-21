@@ -11,11 +11,11 @@ import java.io.IOException;
 import java.util.*;
 
 public class GenerateSourceTripartite{
-    private final Graph<String> graph = new ConcreteEdgesGraph<>();
+    private Graph<String> graph = new ConcreteEdgesGraph<>();
     // RID的set
-    private final Set<String> RID_set = new HashSet<>();
+    private Set<String> RID_set = new HashSet<>();
     // column的列表
-    private final List<String> column_i = new ArrayList<>();
+    private List<String> column_i = new ArrayList<>();
     // 图中所有点nodes
     public List<String> all_nodes = new ArrayList<>();
     // 代理Graph中的方法
@@ -46,19 +46,21 @@ public class GenerateSourceTripartite{
             FileReader fd = new FileReader(file);
             BufferedReader br = new BufferedReader(fd);
             // 文件操作所需变量
-            String str = null;
+            String strPro = null;
             // 存储str读取的一行的值
-            String[] data = null;
+            String[] dataPro = null;
             // 首先读取一行，作为属性
-            str = br.readLine();
-            data = str.split(",");
+            strPro = br.readLine();
+            dataPro = strPro.split(",");
             // 存储全部属性
-            sourceGraph.column_i.addAll(Arrays.asList(data));
+            sourceGraph.column_i.addAll(Arrays.asList(dataPro));
             for(String s : sourceGraph.column_i){
                 // store attribute into sourceGraph
                 sourceGraph.addVertex(s);
                 sourceGraph.all_nodes.add(s);
             }
+            fd.close();
+            br.close();
             // 按顺序读取文件
             int column;
             // FIXME:读取当前文件,是第i个文件，则有：
@@ -80,6 +82,8 @@ public class GenerateSourceTripartite{
                 if(fileList.get(fileList.size()-1).equals(files)){
                     truthFlag = 1;
                 }
+                String str = null;
+                String[] data = null;
                 while((str=newBr.readLine())!=null){
                     // 每一行是不同的tuple和row_id
                     // String tuple = "tuple_" + row_id;
@@ -155,25 +159,30 @@ public class GenerateSourceTripartite{
                     // 平面图方向，连接了source和row_id
                     // sourceGraph.addEdge(source_id,Ri);
                     // sourceGraph.addEdge(tuple,Ri);
-
+                    // fixme clear
+                    row_i.clear();
+                    // Thread.sleep(1000);
                 }
                 newBr.close();
                 fr.close();
                 fileNum++;
+                // Thread.sleep(1000);
             }
-            br.close();
-            fd.close();
         } catch (IOException e) {
             e.printStackTrace();
         }
+        // fixme clear
+        RID_set.clear();
+        column_i.clear();
         return sourceGraph;
     }
-    public Set<String> getRID_set(){
-        return new HashSet<>(this.RID_set);
-    }
-    public List<String> getColumn_i(){
-        return new ArrayList<>(this.column_i);
-    }
+
+//    public Set<String> getRID_set(){
+//        return new HashSet<>(this.RID_set);
+//    }
+//    public List<String> getColumn_i(){
+//        return new ArrayList<>(this.column_i);
+//    }
 
     /**
      * @return token后的nodes

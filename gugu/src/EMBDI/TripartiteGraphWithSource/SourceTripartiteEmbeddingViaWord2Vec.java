@@ -29,13 +29,34 @@ public class SourceTripartiteEmbeddingViaWord2Vec {
 //            this.total_nodes.addAll(meta.nodes);
 //            List list = Lists.transform(data, var11 -> data);
             List<String> data = meta.Meta_Algorithm(fileList, n_walks, n_nodes, length);
+            // fixme : disable total_nodes to test heap
             this.total_nodes.addAll(meta.nodes);
             List<List<String>> list = data.stream().map(var11 -> data).collect(Collectors.toList());
+//            word2VecModel = Word2VecModel.trainer().
+//                    setMinVocabFrequency(1).useNumThreads(2).setWindowSize(1).
+//                    type(NeuralNetworkType.CBOW).setLayerSize(10).useHierarchicalSoftmax().
+//                    useNegativeSamples(5).setDownSamplingRate(1.0E-2D).
+//                    setNumIterations(5).setListener((var1, var2) -> System.out.println(String.format("%s is %.2f%% complete", Format.formatEnum(var1), var2 * 100.0D))).train(list);
+
+            List<List<String>> smallList = new ArrayList<>();
+            List<String> temp = new ArrayList<>();
+            Iterator<List<String>> itor = list.iterator();
+            int i = 0;
+            while(itor.hasNext()){
+                temp = itor.next();
+                smallList.add(temp);
+                i++;
+                if(i==1000){
+                    break;
+                }
+            }
+            Thread.sleep(2000);
             word2VecModel = Word2VecModel.trainer().
                     setMinVocabFrequency(1).useNumThreads(2).setWindowSize(1).
                     type(NeuralNetworkType.CBOW).setLayerSize(10).useHierarchicalSoftmax().
                     useNegativeSamples(5).setDownSamplingRate(1.0E-2D).
-                    setNumIterations(5).setListener((var1, var2) -> System.out.println(String.format("%s is %.2f%% complete", Format.formatEnum(var1), var2 * 100.0D))).train(list);
+                    setNumIterations(5).train(smallList);
+
             Word2VecModelThrift thrift = word2VecModel.toThrift();
             NormalizedWord2VecModel.fromThrift(thrift);
             // save model

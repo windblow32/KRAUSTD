@@ -47,7 +47,6 @@ public class ExtractSampleBasedStock {
 
 
 
-
         // word2vec training time
         long trainTime = afterTrainTime - preTrainTime;
         // word2vec training memory
