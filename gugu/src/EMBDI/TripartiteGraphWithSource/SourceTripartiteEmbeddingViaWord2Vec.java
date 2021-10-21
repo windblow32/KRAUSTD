@@ -21,7 +21,7 @@ import static com.medallia.word2vec.Word2VecModel.fromBinFile;
 public class SourceTripartiteEmbeddingViaWord2Vec {
     public List<String> total_nodes = new ArrayList<>();
     public Word2VecModel word2VecModel;
-
+    public List<List<String>> smallList = new ArrayList<>();
     public List<Double> train(List<String> fileList, int n_walks, int n_nodes, int length) {
         try {
             MetaAlgorithm meta = new MetaAlgorithm();
@@ -38,7 +38,7 @@ public class SourceTripartiteEmbeddingViaWord2Vec {
 //                    useNegativeSamples(5).setDownSamplingRate(1.0E-2D).
 //                    setNumIterations(5).setListener((var1, var2) -> System.out.println(String.format("%s is %.2f%% complete", Format.formatEnum(var1), var2 * 100.0D))).train(list);
 
-            List<List<String>> smallList = new ArrayList<>();
+
             List<String> temp = new ArrayList<>();
             Iterator<List<String>> itor = list.iterator();
             int i = 0;
@@ -46,7 +46,7 @@ public class SourceTripartiteEmbeddingViaWord2Vec {
                 temp = itor.next();
                 smallList.add(temp);
                 i++;
-                if(i==1000){
+                if(i==3000){
                     break;
                 }
             }
@@ -121,13 +121,21 @@ public class SourceTripartiteEmbeddingViaWord2Vec {
     public Map<String, List<Double>> getRandom_K_Embeddings(int k){
 
         Map<String, List<Double>> vecMap = new HashMap<>();
-        List<String> nodeListTemp = new ArrayList<>(total_nodes);
+
+//        List<String> nodeListTemp = new ArrayList<>(total_nodes);
         List<String> nodeList = new ArrayList<>();
-        // 进行正则匹配，只保留符合row_i的，也就是样本点
-        nodeList = nodeListTemp.stream().filter(this::judgeTuple).collect(Collectors.toList());
+//        // 进行正则匹配，只保留符合row_i的，也就是样本点
+//        nodeList = nodeListTemp.stream().filter(this::judgeTuple).collect(Collectors.toList());
+        Iterator<List<String>> itor = smallList.iterator();
+        List<String> temp = new ArrayList<>();
+        while(itor.hasNext()){
+            temp = itor.next();
+            nodeList.addAll(temp.stream().filter(this::judgeTuple).collect(Collectors.toList()));
+        }
         Set<Integer> indexSet = new HashSet<>();
         // 随机获取list下标
         while(indexSet.size()<k){
+            // 随机选出的路径应该包含需要比较的元组
             int index = (int) (Math.random()*nodeList.size());
             if(indexSet.contains(index)){
                 continue;

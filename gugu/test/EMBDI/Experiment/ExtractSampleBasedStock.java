@@ -17,7 +17,7 @@ import java.util.*;
  * data in data/generateSample/dividedSource
  */
 public class ExtractSampleBasedStock {
-    public int sourceNum = 10;
+    public int sourceNum = 55;
     public int tupleNum = 100;
     @Test
     public void train() {
@@ -51,7 +51,7 @@ public class ExtractSampleBasedStock {
         long trainTime = afterTrainTime - preTrainTime;
         // word2vec training memory
         long trainMemory = afterTrainMemory - preTrainMemory;
-        int EMSize = 6;
+        int EMSize = 40;
         Map<String,List<Double>> K_map = new HashMap<>();
         try {
             long preGetRandomMemory = used();
