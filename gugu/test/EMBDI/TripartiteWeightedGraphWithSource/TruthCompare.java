@@ -19,12 +19,12 @@ public class TruthCompare {
                 vector[t][q] = "";
             }
         }
-        String truthFilePath = "data/generateSample/truth.csv";
+        String truthFilePath = "data/generateSample/truth/Test2Truth.csv";
         List<String> fileList = new ArrayList<>();
         int sourceNum = 55;
         for(int i = 0;i<sourceNum;i++){
             int temp = i + 1;
-            String filePath = "data/generateSample/dividedSource/source" + temp + ".csv";
+            String filePath = "data/generateSample/dividedSource/test2/source" + temp + ".csv";
             fileList.add(filePath);
         }
         // 维护数组，先读取真值，存储所有的真值，然后比较，如果相等，就把矩阵的对应位置加一个源的名字
@@ -79,7 +79,7 @@ public class TruthCompare {
         } catch (IOException e) {
             e.printStackTrace();
         }
-        String resultPath = "data/generateSample/truthCompareResultWithJaccard.txt";
+        String resultPath = "data/generateSample/truthCompare/Test3truthCompareResultWithJaccard.txt";
         File f = new File(resultPath);
         try {
             f.createNewFile();

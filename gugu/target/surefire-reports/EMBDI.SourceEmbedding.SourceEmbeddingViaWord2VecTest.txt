@@ -1,4 +1,4 @@
 -------------------------------------------------------------------------------
 Test set: EMBDI.SourceEmbedding.SourceEmbeddingViaWord2VecTest
 -------------------------------------------------------------------------------
-Tests run: 1, Failures: 0, Errors: 0, Skipped: 0, Time elapsed: 9.72 sec - in EMBDI.SourceEmbedding.SourceEmbeddingViaWord2VecTest
+Tests run: 1, Failures: 0, Errors: 0, Skipped: 0, Time elapsed: 2.86 sec - in EMBDI.SourceEmbedding.SourceEmbeddingViaWord2VecTest

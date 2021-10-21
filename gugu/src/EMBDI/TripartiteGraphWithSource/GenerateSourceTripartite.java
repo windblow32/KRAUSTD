@@ -74,7 +74,7 @@ public class GenerateSourceTripartite{
                 sourceGraph.all_nodes.add(source_id);
                 // 从第二行开始处理
                 // process null using avg
-                double[] current_sum = new double[column_i.size()];
+                // double[] current_sum = new double[column_i.size()];
                 int row_id = 0;
                 // 判断是否是最后一个文件，即真值文件，如果是，就进行标记
                 if(fileList.get(fileList.size()-1).equals(files)){
@@ -97,9 +97,9 @@ public class GenerateSourceTripartite{
                     else{
                         Ri = "row_" + row_id + "_s" + fileNum;
                     }
-                    if(!sourceGraph.RID_set.contains(Ri)){
-                        sourceGraph.RID_set.add(Ri);
-                    }
+                    // set 互斥
+                    sourceGraph.RID_set.add(Ri);
+
                     sourceGraph.addVertex(Ri);
                     if(!sourceGraph.all_nodes.contains(Ri)){
                         sourceGraph.all_nodes.add(Ri);
@@ -112,18 +112,20 @@ public class GenerateSourceTripartite{
                             // true
                             // 并且为空
                             // FIXME : null 用当前平均值替代
-                            data[index] = String.valueOf(current_sum[index]/index);
+                            // data[index] = String.valueOf(current_sum[index]/index);
+                            data[index] = "0";
 //                        if(judge(data[index])){
 //                            data[index] = String.valueOf(current_sum[index]/index);
 //                        }
-                            current_sum[index] += Double.parseDouble(data[index]);
+                            // fixme : 取消了平均值替代的方式
+                            // current_sum[index] += Double.parseDouble(data[index]);
                         }
                     }
                     // row_i暂存每行的数据
                     row_i.addAll(Arrays.asList(data));
                     String[] value = null;
                     List<String> value_i = new ArrayList<>();
-
+                    // 处理多值
                     for(String Vk:row_i ){
                         if(Vk.contains(" ")) {
                             value = Vk.split(" ");
@@ -153,10 +155,14 @@ public class GenerateSourceTripartite{
                     // 平面图方向，连接了source和row_id
                     // sourceGraph.addEdge(source_id,Ri);
                     // sourceGraph.addEdge(tuple,Ri);
+
                 }
+                newBr.close();
+                fr.close();
                 fileNum++;
             }
-
+            br.close();
+            fd.close();
         } catch (IOException e) {
             e.printStackTrace();
         }

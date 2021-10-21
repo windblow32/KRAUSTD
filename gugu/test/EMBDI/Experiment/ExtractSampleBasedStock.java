@@ -17,44 +17,34 @@ import java.util.*;
  * data in data/generateSample/dividedSource
  */
 public class ExtractSampleBasedStock {
-    public int sourceNum = 15;
-    public int tupleNum = 10;
+    public int sourceNum = 10;
+    public int tupleNum = 100;
     @Test
     public void train() {
         SourceTripartiteEmbeddingViaWord2Vec word2VecService = new SourceTripartiteEmbeddingViaWord2Vec();
         List<String> fileList = new ArrayList<>();
 
-        // 先输入两个数据集
         for(int i = 0;i<sourceNum;i++){
             int temp = i + 1;
-            String filePath = "data/generateSample/dividedSource/source" + temp + ".csv";
+            String filePath = "data/stock100/divideSource/source" + temp + ".csv";
             fileList.add(filePath);
         }
 
         // todo:add truth, default the last one
-        String truthPath = "data/generateSample/truth.csv";
+        String truthPath = "data/stock100/100truth.csv";
         fileList.add(truthPath);
 
         // time located between both sides of code!
         long preTrainMemory = used();
         long preTrainTime = System.currentTimeMillis();
-        List<Double> vector = word2VecService.train(fileList,20,3,3);
+        List<Double> vector = word2VecService.train(fileList,3,3,5);
         long afterTrainTime = System.currentTimeMillis();
         long afterTrainMemory = used();
 
-        // 尝试分批次训练,现训练两个数据集然后保存，得到模型pretest1
-        String modelPath = "model/Tri/SampleStockTest/total.model";
+        String modelPath = "model/Tri/stock100/total.model";
         word2VecService.saveModel(modelPath);
         System.out.println(vector.size());
 
-        // 再构造文件列表，再加入几个
-//        List<String> newFileList = new ArrayList<>();
-//        for(int i = 2;i<4;i++){
-//            int temp = i + 1;
-//            String filePath = "data/generateSample/dividedSource/source" + temp + ".csv";
-//            newFileList.add(filePath);
-//        }
-        // 用的是同一个service
 
 
 
@@ -78,7 +68,7 @@ public class ExtractSampleBasedStock {
             // word2vec embedding memory
             long embeddingCalcMemory = afterGetRandomMemory - preGetRandomMemory;
             // System.out.println(word2VecService.getEmbeddings());
-            File f=new File("log/ExtractStock/ExtractSampleTri1.txt");
+            File f=new File("log/Stock/stock100/100stockTest1.txt");
             f.createNewFile();
             FileOutputStream fileOutputStream = new FileOutputStream(f);
             PrintStream printStream = new PrintStream(fileOutputStream);
@@ -117,12 +107,10 @@ public class ExtractSampleBasedStock {
             for(int j = i + 1;j<nameListSize;j++){
                 v2 = nameList.get(j);
                 double d = word2VecService.distance(v1,v2);
-                System.out.println(v1 + " 和 " + v2 + " 间的相似度为 : " + d);
+                System.out.println(v1 + " and " + v2 + " similarity : " + d);
             }
 
         }
-
-
 
 
     }

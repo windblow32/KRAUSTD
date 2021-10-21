@@ -27,17 +27,17 @@ public class SampledTripartiteEmbeddingViaWord2VecTest {
         }
 
         // todo:add truth, default the last one
-        String truthPath = "data/generateSample/truth.csv";
+        String truthPath = "data/generateSample/truth/truth.csv";
         fileList.add(truthPath);
 
         // time located between both sides of code!
         long preTrainMemory = used();
         long preTrainTime = System.currentTimeMillis();
-        List<Double> vector = word2VecService.train(fileList,40,3,5);
+        List<Double> vector = word2VecService.train(fileList,20,3,60);
         long afterTrainTime = System.currentTimeMillis();
         long afterTrainMemory = used();
 
-        String modelPath = "model/Tri/SampleStockTest/sample.model";
+        String modelPath = "model/Tri/SampleStockTest/sample4.model";
         word2VecService.saveModel(modelPath);
 
         // word2vec training time
@@ -60,7 +60,7 @@ public class SampledTripartiteEmbeddingViaWord2VecTest {
             // word2vec embedding memory
             long embeddingCalcMemory = afterGetRandomMemory - preGetRandomMemory;
             // System.out.println(word2VecService.getEmbeddings());
-            File f=new File("log/ExtractStock/ExtractSampleTri3.txt");
+            File f=new File("log/ExtractStock/Sample60Tri.txt");
             f.createNewFile();
             FileOutputStream fileOutputStream = new FileOutputStream(f);
             PrintStream printStream = new PrintStream(fileOutputStream);

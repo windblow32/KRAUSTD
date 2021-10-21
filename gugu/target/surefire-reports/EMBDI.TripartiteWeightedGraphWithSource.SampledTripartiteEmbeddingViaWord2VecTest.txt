@@ -1,9 +1,9 @@
 -------------------------------------------------------------------------------
 Test set: EMBDI.TripartiteWeightedGraphWithSource.SampledTripartiteEmbeddingViaWord2VecTest
 -------------------------------------------------------------------------------
-Tests run: 1, Failures: 0, Errors: 1, Skipped: 0, Time elapsed: 41.961 sec <<< FAILURE! - in EMBDI.TripartiteWeightedGraphWithSource.SampledTripartiteEmbeddingViaWord2VecTest
-train(EMBDI.TripartiteWeightedGraphWithSource.SampledTripartiteEmbeddingViaWord2VecTest)  Time elapsed: 41.957 sec  <<< ERROR!
-java.lang.OutOfMemoryError: Java heap space
+Tests run: 1, Failures: 0, Errors: 1, Skipped: 0, Time elapsed: 186.606 sec <<< FAILURE! - in EMBDI.TripartiteWeightedGraphWithSource.SampledTripartiteEmbeddingViaWord2VecTest
+train(EMBDI.TripartiteWeightedGraphWithSource.SampledTripartiteEmbeddingViaWord2VecTest)  Time elapsed: 186.605 sec  <<< ERROR!
+java.lang.OutOfMemoryError: Requested array size exceeds VM limit
 	at java.util.AbstractCollection.toArray(AbstractCollection.java:136)
 	at java.util.ArrayList.<init>(ArrayList.java:178)
 	at com.google.common.collect.Lists.newArrayList(Lists.java:144)
