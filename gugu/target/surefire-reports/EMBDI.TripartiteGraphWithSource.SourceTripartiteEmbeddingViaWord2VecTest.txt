@@ -1,4 +1,4 @@
 -------------------------------------------------------------------------------
 Test set: EMBDI.TripartiteGraphWithSource.SourceTripartiteEmbeddingViaWord2VecTest
 -------------------------------------------------------------------------------
-Tests run: 1, Failures: 0, Errors: 0, Skipped: 0, Time elapsed: 142.996 sec - in EMBDI.TripartiteGraphWithSource.SourceTripartiteEmbeddingViaWord2VecTest
+Tests run: 1, Failures: 0, Errors: 0, Skipped: 0, Time elapsed: 4.162 sec - in EMBDI.TripartiteGraphWithSource.SourceTripartiteEmbeddingViaWord2VecTest

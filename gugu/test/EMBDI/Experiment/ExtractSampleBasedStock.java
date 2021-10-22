@@ -17,7 +17,7 @@ import java.util.*;
  * data in data/generateSample/dividedSource
  */
 public class ExtractSampleBasedStock {
-    public int sourceNum = 55;
+    public int sourceNum = 10;
     public int tupleNum = 100;
     @Test
     public void train() {
@@ -37,7 +37,10 @@ public class ExtractSampleBasedStock {
         // time located between both sides of code!
         long preTrainMemory = used();
         long preTrainTime = System.currentTimeMillis();
-        List<Double> vector = word2VecService.train(fileList,3,3,5);
+        // List<Double> vector = word2VecService.train(fileList,3,3,5);
+        word2VecService.train(fileList,3,3,5);
+        String walkPath = "data/stock100/walkList.txt";
+        List<Double> vector = word2VecService.trainWithWalks(word2VecService.readListOfListFromFile(walkPath));
         long afterTrainTime = System.currentTimeMillis();
         long afterTrainMemory = used();
 

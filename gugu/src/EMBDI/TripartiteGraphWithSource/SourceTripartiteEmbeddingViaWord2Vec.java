@@ -31,6 +31,10 @@ public class SourceTripartiteEmbeddingViaWord2Vec {
             List<String> data = meta.Meta_Algorithm(fileList, n_walks, n_nodes, length);
             // fixme : disable total_nodes to test heap
             this.total_nodes.addAll(meta.nodes);
+            // save node
+            String totalNodePath = "data/stock100/totalNode.txt";
+            saveList(totalNodePath, total_nodes);
+
             List<List<String>> list = data.stream().map(var11 -> data).collect(Collectors.toList());
 //            word2VecModel = Word2VecModel.trainer().
 //                    setMinVocabFrequency(1).useNumThreads(2).setWindowSize(1).
@@ -46,30 +50,23 @@ public class SourceTripartiteEmbeddingViaWord2Vec {
                 temp = itor.next();
                 smallList.add(temp);
                 i++;
-                if(i==3000){
+                if(i==2000){
                     break;
                 }
             }
+            //  smallList save in file
+            String fileSmallListPath = "data/stock100/walkList.txt";
+            saveListOfList(fileSmallListPath,smallList);
+
             Thread.sleep(2000);
-            word2VecModel = Word2VecModel.trainer().
-                    setMinVocabFrequency(1).useNumThreads(2).setWindowSize(1).
-                    type(NeuralNetworkType.CBOW).setLayerSize(10).useHierarchicalSoftmax().
-                    useNegativeSamples(5).setDownSamplingRate(1.0E-2D).
-                    setNumIterations(5).train(smallList);
-
-            Word2VecModelThrift thrift = word2VecModel.toThrift();
-            NormalizedWord2VecModel.fromThrift(thrift);
-            // save model
-
-            return new ArrayList<Double>(thrift.getVectors());
+            System.out.println("train successfully");
 
         } catch (InterruptedException e) {
             log.error("exception:{0}", e);
 
             return null;
-
         }
-
+        return null;
     }
 
     /**
@@ -202,5 +199,72 @@ public class SourceTripartiteEmbeddingViaWord2Vec {
         return Pattern.matches(regex,str);
     }
 
+    public List<String> readListFromFile(String filePath){
+        try {
+            FileInputStream fileInputStream = new FileInputStream(filePath);
+            ObjectInputStream objectInputStream = new ObjectInputStream(fileInputStream);
+            return (List<String>)objectInputStream.readObject();
+
+        } catch (IOException | ClassNotFoundException e) {
+            e.printStackTrace();
+        }
+        System.out.println("ListFile not found!");
+        return null;
+    }
+    public List<List<String>> readListOfListFromFile(String filePath){
+        try {
+            FileInputStream fileInputStream = new FileInputStream(filePath);
+            ObjectInputStream objectInputStream = new ObjectInputStream(fileInputStream);
+            return (List<List<String>>)objectInputStream.readObject();
+
+        } catch (IOException | ClassNotFoundException e) {
+            e.printStackTrace();
+        }
+        System.out.println("ListFile not found!");
+        return null;
+    }
+    public void saveList(String filePath, List<String> nodeList){
+        File f = new File(filePath);
+        try {
+            f.createNewFile();
+            FileOutputStream outputStream = new FileOutputStream(f);
+            ObjectOutputStream objectOutputStream = new ObjectOutputStream(outputStream);
+            objectOutputStream.writeObject(nodeList);
+            outputStream.close();
+            System.out.println("List saved");
+        } catch (IOException e) {
+            e.printStackTrace();
+        }
+    }
+    public void saveListOfList(String filePath, List<List<String>> List){
+        File f = new File(filePath);
+        try {
+            f.createNewFile();
+            FileOutputStream outputStream = new FileOutputStream(f);
+            ObjectOutputStream objectOutputStream = new ObjectOutputStream(outputStream);
+            objectOutputStream.writeObject(List);
+            outputStream.close();
+            System.out.println("List of List saved");
+        } catch (IOException e) {
+            e.printStackTrace();
+        }
+    }
+    public List<Double> trainWithWalks(List<List<String>> list){
+        try {
+            Word2VecModel model = Word2VecModel.trainer().
+                    setMinVocabFrequency(1).useNumThreads(2).setWindowSize(1).
+                    type(NeuralNetworkType.CBOW).setLayerSize(10).useHierarchicalSoftmax().
+                    useNegativeSamples(5).setDownSamplingRate(1.0E-2D).
+                    setNumIterations(5).train(list);
+            Word2VecModelThrift thrift = model.toThrift();
+            NormalizedWord2VecModel.fromThrift(thrift);
+
+            return new ArrayList<Double>(thrift.getVectors());
+        } catch (InterruptedException e) {
+            e.printStackTrace();
+        }
+        System.out.println("trainWithWalks Error");
+        return null;
+    }
 }
 
