@@ -67,6 +67,7 @@ public class GenerateSampledTripartiteRandomWalk {
             return null;
         }
         else{
+            // targets返回值有权重
             neighbor_map = graph.targets(vertex);
             neighbor_map.putAll(graph.sources(vertex));
             // 所有连接到vertex的点的集合
@@ -76,6 +77,56 @@ public class GenerateSampledTripartiteRandomWalk {
             int index = rand.nextInt(neighbor_set.size());
             // 返回随机选中的node
             Iterator<String> itor = neighbor_set.iterator();
+            while(itor.hasNext()){
+                node = itor.next();
+                if(index==0){
+                    break;
+                }
+                index--;
+            }
+            return node;
+        }
+    }
+
+    /**
+     * 利用边权选择相邻边权最小的点进行游走
+     * @param vertex:带查找的点
+     * @return 选中的邻居结点
+     */
+    public String findMinNeighbor(String vertex){
+        String node = null;
+        Map<String, Integer> neighbor_map = new HashMap<>();
+        Set<String> neighbor_set = new HashSet<>();
+        if(!graph.vertices().contains(vertex)){
+            System.out.println("error! the node is not exist!");
+            return null;
+        }
+        else{
+            // targets返回值有权重
+            neighbor_map = graph.targets(vertex);
+            neighbor_map.putAll(graph.sources(vertex));
+            // 所有连接到vertex的点的集合
+            Iterator<String> keyItor= neighbor_map.keySet().iterator();
+            int max = 0;
+            // 存储value相同的key
+            Set<String> keySet = new HashSet<>();
+            while (keyItor.hasNext()){
+                String key = keyItor.next();
+                int value = neighbor_map.get(key);
+                if(value>max){
+                    max = value;
+                    // 原有的清除
+                    keySet.clear();
+                    keySet.add(key);
+                }
+                else if(value==max){
+                    keySet.add(key);
+                }
+            }
+            Random r = new Random();
+            int index = r.nextInt(keySet.size());
+            // 返回随机选中的node
+            Iterator<String> itor = keySet.iterator();
             while(itor.hasNext()){
                 node = itor.next();
                 if(index==0){
@@ -104,7 +155,10 @@ public class GenerateSampledTripartiteRandomWalk {
         String nextNode = null;
         // 初始size就是2,length相当于派生步骤,一共几个点.
         while(walkpath.size()<length){
-            nextNode = findRandomNeighbor(currentNode);
+            // nextNode = findRandomNeighbor(currentNode);
+            // todo : 用min替换了random
+            nextNode = findMinNeighbor(currentNode);
+
             walkpath.add(nextNode);
             currentNode = nextNode;
         }

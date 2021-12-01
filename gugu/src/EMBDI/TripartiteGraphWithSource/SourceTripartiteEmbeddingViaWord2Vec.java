@@ -5,9 +5,7 @@ import com.medallia.word2vec.Searcher;
 import com.medallia.word2vec.Word2VecModel;
 import com.medallia.word2vec.neuralnetwork.NeuralNetworkType;
 import com.medallia.word2vec.thrift.Word2VecModelThrift;
-import com.medallia.word2vec.util.Format;
 import lombok.extern.slf4j.Slf4j;
-import org.springframework.stereotype.Service;
 
 import java.io.*;
 import java.util.*;
@@ -16,13 +14,12 @@ import java.util.stream.Collectors;
 
 import static com.medallia.word2vec.Word2VecModel.fromBinFile;
 
-@Service
 @Slf4j
 public class SourceTripartiteEmbeddingViaWord2Vec {
     public List<String> total_nodes = new ArrayList<>();
     public Word2VecModel word2VecModel;
     public List<List<String>> smallList = new ArrayList<>();
-    public List<Double> train(List<String> fileList, int n_walks, int n_nodes, int length) {
+    public List<Double> train(List<String> fileList, int n_walks, int n_nodes, int length,int useNum) {
         try {
             MetaAlgorithm meta = new MetaAlgorithm();
 //            List data = meta.Meta_Algorithm(fileList, n_walks, n_nodes, length);
@@ -32,7 +29,7 @@ public class SourceTripartiteEmbeddingViaWord2Vec {
             // fixme : disable total_nodes to test heap
             this.total_nodes.addAll(meta.nodes);
             // save node
-            String totalNodePath = "data/stock100/totalNode.txt";
+            String totalNodePath = "data/stock100/totalNode10.txt";
             saveList(totalNodePath, total_nodes);
 
             List<List<String>> list = data.stream().map(var11 -> data).collect(Collectors.toList());
@@ -46,17 +43,21 @@ public class SourceTripartiteEmbeddingViaWord2Vec {
             List<String> temp = new ArrayList<>();
             Iterator<List<String>> itor = list.iterator();
             int i = 0;
-            while(itor.hasNext()){
-                temp = itor.next();
-                smallList.add(temp);
-                i++;
-                if(i==2000){
-                    break;
+            int k = 0;
+            temp = itor.next();
+            int index = 0;
+            for(k = 0;k<useNum;k++){
+                // fixme: sublist 是视图，不能本地化
+                List<String> tempList = new ArrayList<>();
+                for(int t = index;t<index + length;t++){
+                    tempList.add(temp.get(t));
                 }
+                smallList.add(tempList);
+                index += length;
             }
-            //  smallList save in file
-            String fileSmallListPath = "data/stock100/walkList.txt";
-            saveListOfList(fileSmallListPath,smallList);
+            //  smallList save in file, same in testFile
+//            String fileSmallListPath = "data/stock100/walkList10.txt";
+//            saveListOfList(fileSmallListPath,smallList);
 
             Thread.sleep(2000);
             System.out.println("train successfully");
@@ -71,16 +72,85 @@ public class SourceTripartiteEmbeddingViaWord2Vec {
 
     /**
      *
+     * @param graphFilePath store the path of graph
+     * @param n_walks n_walks/n_nodes * totalNodes = sum of walks(according to meta)
+     * @param n_nodes
+     * @param length walk length
+     * @return embedding list
+     */
+    public void trainWithGraphPath(String graphFilePath, String smallListPath, int n_walks, int n_nodes, int length, int useNum) {
+        try {
+            MetaAlgorithm meta = new MetaAlgorithm();
+//            List data = meta.Meta_Algorithm(fileList, n_walks, n_nodes, length);
+//            this.total_nodes.addAll(meta.nodes);
+//            List list = Lists.transform(data, var11 -> data);
+            List<String> data = meta.Meta_AlgorithmUseGraphFilePath(graphFilePath, n_walks, n_nodes, length);
+            // fixme : disable total_nodes to test heap
+            this.total_nodes.addAll(meta.nodes);
+            // save node, 测试用，后面没用
+            String totalNodePath = "data/stock100/totalNode10.txt";
+            saveList(totalNodePath, total_nodes);
+            System.out.println("save totalNodes successfully");
+            List<List<String>> list = data.stream().map(var11 -> data).collect(Collectors.toList());
+
+            List<String> temp = new ArrayList<>();
+            Iterator<List<String>> itor = list.iterator();
+            System.out.println(list.size());
+            int k = 0;
+            temp = itor.next();
+            int index = 0;
+            for(k = 0;k<useNum;k++){
+                // fixme: sublist 是视图，不能本地化
+                List<String> tempList = new ArrayList<>();
+                for(int t = index;t<index + length;t++){
+                    tempList.add(temp.get(t));
+                }
+                smallList.add(tempList);
+                index += length;
+            }
+
+//            while(itor.hasNext()){
+//                temp = itor.next();
+//                for(String str:temp){
+//                    // 有效数据,有数据源或者tuple
+//                    if(judgeSource(str)||judgeTuple(str)){
+//                        // fixme:smallList has num_of_node*length(20) as its length, not our
+//                        smallList.add(temp);
+//                        i++;
+//                        break;
+//                    }
+//                }
+//                // use all nodes
+//                if(i==useNum){
+//                    break;
+//                }
+//            }
+            System.out.println("used "+k);
+            System.out.println("smallList size "+smallList.size());
+            //  smallList save in file
+            // fixme
+            // saveListOfList(smallListPath,smallList);
+
+            Thread.sleep(200);
+            System.out.println("train successfully");
+
+        } catch (InterruptedException e) {
+            log.error("exception:{0}", e);
+        }
+    }
+
+    /**
+     *
      * @param modelFilePath 模型保存位置
      */
-    public void saveModel(String modelFilePath){
+    public void saveModel(Word2VecModel model, String modelFilePath){
         File f = new File(modelFilePath);
         try {
             f.createNewFile();
             FileOutputStream fo = new FileOutputStream(f);
             PrintStream printStream = new PrintStream(fo);
             System.setOut(printStream);
-            word2VecModel.toBinFile(printStream);
+            model.toBinFile(printStream);
         } catch (IOException e) {
             e.printStackTrace();
         }
@@ -140,6 +210,7 @@ public class SourceTripartiteEmbeddingViaWord2Vec {
             // use index to get word
             String word = nodeList.get(index);
             List<Double> list = new ArrayList<>();
+            // fixme : use load model
             Searcher searcher = word2VecModel.forSearch();
             try {
                 list.addAll(searcher.getRawVector(word));
@@ -152,6 +223,53 @@ public class SourceTripartiteEmbeddingViaWord2Vec {
         if (vecMap.size()!=k){
             System.out.println("embedding 不足K个");
         }
+        return vecMap;
+    }
+
+    /**
+     * without model path, find some error in the other version
+     * @return
+     */
+    public Map<String, List<Double>> get_inner_Source_EMBDI(){
+
+        Searcher searcher = word2VecModel.forSearch();
+        Map<String, List<Double>> vecMap = new HashMap<>();
+        for (int i = 1;i <= 55 ;i++) {
+            String word = "source_" + i;
+            try{
+                List<Double> list = new ArrayList<>(searcher.getRawVector(word));
+                vecMap.put(word, list);
+            }
+            catch (Searcher.UnknownWordException e) {
+                e.printStackTrace();
+            }
+
+        }
+        return vecMap;
+    }
+
+    /**
+     *
+     * @param modelPath saved model path
+     * @return KV
+     * @throws Searcher.UnknownWordException
+     */
+    public Map<String, List<Double>> getRandom_Source_Embeddings(String modelPath) throws Searcher.UnknownWordException {
+        // fixme : use load model
+        Word2VecModel model = loadModel(modelPath);
+        Searcher searcher = model.forSearch();
+        Map<String, List<Double>> vecMap = new HashMap<>();
+            for (int i = 1;i <= 55 + 1 ;i++) {
+                String word = "source_" + i;
+                try{
+                    List<Double> list = new ArrayList<>(searcher.getRawVector(word));
+                    vecMap.put(word, list);
+                }
+                catch (Searcher.UnknownWordException e) {
+                    e.printStackTrace();
+                }
+
+            }
         return vecMap;
     }
 
@@ -194,8 +312,24 @@ public class SourceTripartiteEmbeddingViaWord2Vec {
         String regex = "^[+-]?([0-9]*\\.?[0-9]+|[0-9]+\\.?[0-9]*)([eE][+-]?[0-9]+)?$";
         return Pattern.matches(regex, str);
     }
+
+    /**
+     *
+     * @param str:nodeName in graph
+     * @return whether node is AKO tuple
+     */
     private boolean judgeTuple(String str){
-        String regex = "row_([0-9])";
+        String regex = "row_([0-9]+)";
+        return Pattern.matches(regex,str);
+    }
+
+    /**
+     * fixme: truth file is the last file (56) in fileList, didn't separate
+     * @param str nodeName in graph
+     * @return whether node is AKO source
+     */
+    private boolean judgeSource(String str){
+        String regex = "source_([0-9]+)";
         return Pattern.matches(regex,str);
     }
 
@@ -203,8 +337,9 @@ public class SourceTripartiteEmbeddingViaWord2Vec {
         try {
             FileInputStream fileInputStream = new FileInputStream(filePath);
             ObjectInputStream objectInputStream = new ObjectInputStream(fileInputStream);
-            return (List<String>)objectInputStream.readObject();
-
+            List<String> result = (List<String>)objectInputStream.readObject();
+            fileInputStream.close();
+            return result;
         } catch (IOException | ClassNotFoundException e) {
             e.printStackTrace();
         }
@@ -215,8 +350,9 @@ public class SourceTripartiteEmbeddingViaWord2Vec {
         try {
             FileInputStream fileInputStream = new FileInputStream(filePath);
             ObjectInputStream objectInputStream = new ObjectInputStream(fileInputStream);
-            return (List<List<String>>)objectInputStream.readObject();
-
+            List<List<String>> result = (List<List<String>>)objectInputStream.readObject();
+            fileInputStream.close();
+            return result;
         } catch (IOException | ClassNotFoundException e) {
             e.printStackTrace();
         }
@@ -249,16 +385,22 @@ public class SourceTripartiteEmbeddingViaWord2Vec {
             e.printStackTrace();
         }
     }
-    public List<Double> trainWithWalks(List<List<String>> list){
+
+    /**
+     * use list to get embedding
+     * @param list list stored by saveListOfList
+     * @return return list of embedding
+     */
+    public List<Double> trainWithWalks(List<List<String>> list, String modelSavePath){
         try {
-            Word2VecModel model = Word2VecModel.trainer().
+            word2VecModel = Word2VecModel.trainer().
                     setMinVocabFrequency(1).useNumThreads(2).setWindowSize(1).
                     type(NeuralNetworkType.CBOW).setLayerSize(10).useHierarchicalSoftmax().
                     useNegativeSamples(5).setDownSamplingRate(1.0E-2D).
                     setNumIterations(5).train(list);
-            Word2VecModelThrift thrift = model.toThrift();
+            Word2VecModelThrift thrift = word2VecModel.toThrift();
             NormalizedWord2VecModel.fromThrift(thrift);
-
+            saveModel(word2VecModel,modelSavePath);
             return new ArrayList<Double>(thrift.getVectors());
         } catch (InterruptedException e) {
             e.printStackTrace();
@@ -266,5 +408,24 @@ public class SourceTripartiteEmbeddingViaWord2Vec {
         System.out.println("trainWithWalks Error");
         return null;
     }
+
+    public List<Double> trainWithLocalWalks(String modelSavePath){
+        try {
+            word2VecModel = Word2VecModel.trainer().
+                    setMinVocabFrequency(1).useNumThreads(2).setWindowSize(1).
+                    type(NeuralNetworkType.CBOW).setLayerSize(10).useHierarchicalSoftmax().
+                    useNegativeSamples(5).setDownSamplingRate(1.0E-2D).
+                    setNumIterations(5).train(smallList);
+            Word2VecModelThrift thrift = word2VecModel.toThrift();
+            NormalizedWord2VecModel.fromThrift(thrift);
+            saveModel(word2VecModel,modelSavePath);
+            return new ArrayList<Double>(thrift.getVectors());
+        } catch (InterruptedException e) {
+            e.printStackTrace();
+        }
+        System.out.println("trainWithWalks Error");
+        return null;
+    }
+
 }
 

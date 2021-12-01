@@ -3,6 +3,7 @@
  */
 package main.java.Embedding.abstruct_Graph;
 
+import java.io.Serializable;
 import java.util.*;
 
 /**
@@ -10,8 +11,8 @@ import java.util.*;
  * 
  * <p>PS2 instructions: you MUST use the provided rep.
  */
-public class ConcreteEdgesGraph<L> implements Graph<L> {
-    
+public class ConcreteEdgesGraph<L> implements Graph<L>, Serializable {
+    private static final long serialVersionUID = 111112;
     private final Set<L> vertices = new HashSet<>();
     private final List<Edge<L>> edges = new ArrayList<>();
     
@@ -31,11 +32,11 @@ public class ConcreteEdgesGraph<L> implements Graph<L> {
     }
     // TODO checkRep
     private void checkRep(){
-        for(Edge<L> edge : edges){
-            assert vertices.contains(edge.getSource());
-            assert vertices.contains(edge.getTarget());
-            assert edge.getWeight()>0;
-        }
+//        for(Edge<L> edge : edges){
+//            assert vertices.contains(edge.getSource());
+//            assert vertices.contains(edge.getTarget());
+//            assert edge.getWeight()>0;
+//        }
     }
 
     @Override
@@ -45,7 +46,7 @@ public class ConcreteEdgesGraph<L> implements Graph<L> {
             //System.out.println("重复加入顶点\n");
             return false;
         }
-        checkRep();
+        // checkRep();
         return vertices.add(vertex);
     }
 
@@ -98,7 +99,7 @@ public class ConcreteEdgesGraph<L> implements Graph<L> {
                 }
             }
         }
-        checkRep();
+        // checkRep();
         return preweight;
     }
     /**
@@ -125,7 +126,7 @@ public class ConcreteEdgesGraph<L> implements Graph<L> {
             //这点不存在
             return false;
         }
-        checkRep();
+        // checkRep();
         return true;
     }
     /**
@@ -155,7 +156,7 @@ public class ConcreteEdgesGraph<L> implements Graph<L> {
                 source_map.put(edge.getSource(), edge.getWeight());
             }
         }
-        checkRep();
+        // checkRep();
         return source_map;
     }
     
@@ -168,7 +169,7 @@ public class ConcreteEdgesGraph<L> implements Graph<L> {
                 target_map.put(edge.getTarget(), edge.getWeight());
             }
         }
-        checkRep();
+        // checkRep();
         return target_map;
     }
     
@@ -192,7 +193,8 @@ public class ConcreteEdgesGraph<L> implements Graph<L> {
  * <p>PS2 instructions: the specification and implementation of this class is
  * up to you.
  */
-class Edge<L> {
+class Edge<L> implements Serializable{
+    private static final long serialVersionUID = 111113;
     
     // fields
     private L source;
@@ -227,9 +229,9 @@ class Edge<L> {
      * 检查不变性mutable
      */
     public void checkRep(){
-        assert source!=null;
-        assert target!=null;
-        assert weight>=0;
+//        assert source!=null;
+//        assert target!=null;
+//        assert weight>=0;
     }
 
     // methods
@@ -255,7 +257,7 @@ class Edge<L> {
      * @return 边的权重weight
      */
     public int getWeight(){
-        checkRep();
+        // checkRep();
         return weight;
     }
 

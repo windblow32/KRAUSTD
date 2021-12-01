@@ -30,7 +30,7 @@ public class TripartiteWithSourceBasedStock {
         // time located between both sides of code!
         long preTrainMemory = used();
         long preTrainTime = System.currentTimeMillis();
-        List<Double> vector = word2VecService.train(fileList,20,3,3);
+        List<Double> vector = word2VecService.train(fileList,20,3,3,10);
         long afterTrainTime = System.currentTimeMillis();
         long afterTrainMemory = used();
 

@@ -4,13 +4,12 @@ import abstruct_Graph.ConcreteEdgesGraph;
 import abstruct_Graph.Graph;
 import org.jetbrains.annotations.NotNull;
 
-import java.io.BufferedReader;
-import java.io.FileNotFoundException;
-import java.io.FileReader;
-import java.io.IOException;
+import java.io.*;
 import java.util.*;
 
-public class GenerateSourceTripartite{
+public class GenerateSourceTripartite implements Serializable{
+    // serialize!!
+    private static final long serialVersionUID = 111111;
     private Graph<String> graph = new ConcreteEdgesGraph<>();
     // RID的set
     private Set<String> RID_set = new HashSet<>();
@@ -172,8 +171,21 @@ public class GenerateSourceTripartite{
             e.printStackTrace();
         }
         // fixme clear
-        RID_set.clear();
-        column_i.clear();
+
+        // rename path use dataset name and number of sources
+        String graphPath = "data/stock100/graph/55SourceStockGraph.txt";
+        File f = new File(graphPath);
+        try {
+            f.createNewFile();
+            FileOutputStream outputStream = new FileOutputStream(f);
+            ObjectOutputStream objectOutputStream = new ObjectOutputStream(outputStream);
+            objectOutputStream.writeObject(sourceGraph);
+            outputStream.close();
+            System.out.println("Graph is saved");
+        } catch (IOException e) {
+            System.out.println("graph saving encounters error");
+            e.printStackTrace();
+        }
         return sourceGraph;
     }
 

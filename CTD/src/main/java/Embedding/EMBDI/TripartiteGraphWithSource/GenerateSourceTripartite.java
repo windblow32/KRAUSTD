@@ -1,20 +1,21 @@
 package main.java.Embedding.EMBDI.TripartiteGraphWithSource;
 
-import main.java.Embedding.abstruct_Graph.ConcreteEdgesGraph;
+
 import main.java.Embedding.abstruct_Graph.Graph;
+import main.java.Embedding.abstruct_Graph.ConcreteEdgesGraph;
 import org.jetbrains.annotations.NotNull;
 
-import java.io.BufferedReader;
-import java.io.FileReader;
-import java.io.IOException;
+import java.io.*;
 import java.util.*;
 
-public class GenerateSourceTripartite{
-    private final Graph<String> graph = new ConcreteEdgesGraph<>();
+public class GenerateSourceTripartite implements Serializable{
+    // serialize!!
+    private static final long serialVersionUID = 111111;
+    private Graph<String> graph = new ConcreteEdgesGraph<>();
     // RID的set
-    private final Set<String> RID_set = new HashSet<>();
+    private Set<String> RID_set = new HashSet<>();
     // column的列表
-    private final List<String> column_i = new ArrayList<>();
+    private List<String> column_i = new ArrayList<>();
     // 图中所有点nodes
     public List<String> all_nodes = new ArrayList<>();
     // 代理Graph中的方法
@@ -34,7 +35,7 @@ public class GenerateSourceTripartite{
         return new HashMap<>(graph.targets(sources));
     }
 
-    public GenerateSourceTripartite generateSourceTripartiteGraph(@org.jetbrains.annotations.NotNull List<String> fileList){
+    public GenerateSourceTripartite generateSourceTripartiteGraph(@NotNull List<String> fileList){
         //  修改代码一定注意，对于函数中声明该类对象的函数，当调用成员变量时，必须用该对象引出，否则无法
         //  加入，也就是红色变量必须graph.引出！
 
@@ -45,19 +46,21 @@ public class GenerateSourceTripartite{
             FileReader fd = new FileReader(file);
             BufferedReader br = new BufferedReader(fd);
             // 文件操作所需变量
-            String str;
+            String strPro = null;
             // 存储str读取的一行的值
-            String[] data;
+            String[] dataPro = null;
             // 首先读取一行，作为属性
-            str = br.readLine();
-            data = str.split(",");
+            strPro = br.readLine();
+            dataPro = strPro.split(",");
             // 存储全部属性
-            sourceGraph.column_i.addAll(Arrays.asList(data));
+            sourceGraph.column_i.addAll(Arrays.asList(dataPro));
             for(String s : sourceGraph.column_i){
                 // store attribute into sourceGraph
                 sourceGraph.addVertex(s);
                 sourceGraph.all_nodes.add(s);
             }
+            fd.close();
+            br.close();
             // 按顺序读取文件
             int column;
             // FIXME:读取当前文件,是第i个文件，则有：
@@ -73,12 +76,14 @@ public class GenerateSourceTripartite{
                 sourceGraph.all_nodes.add(source_id);
                 // 从第二行开始处理
                 // process null using avg
-                double[] current_sum = new double[column_i.size()];
+                // double[] current_sum = new double[column_i.size()];
                 int row_id = 0;
                 // 判断是否是最后一个文件，即真值文件，如果是，就进行标记
                 if(fileList.get(fileList.size()-1).equals(files)){
                     truthFlag = 1;
                 }
+                String str = null;
+                String[] data = null;
                 while((str=newBr.readLine())!=null){
                     // 每一行是不同的tuple和row_id
                     // String tuple = "tuple_" + row_id;
@@ -86,7 +91,8 @@ public class GenerateSourceTripartite{
                     column = 0;
                     List<String> row_i = new ArrayList<>();
                     // add node row_id
-                    // row_1_s1来自第1个数据源的第一行
+                    // row_1代表第一个元组
+                    // row_1_s1来自第1个数据源的第一行，来自真值
                     // String Ri = "row_" + row_id + "_s" + fileNum;
                     String Ri;
                     if(truthFlag == 0){
@@ -95,9 +101,9 @@ public class GenerateSourceTripartite{
                     else{
                         Ri = "row_" + row_id + "_s" + fileNum;
                     }
-                    if(!sourceGraph.RID_set.contains(Ri)){
-                        sourceGraph.RID_set.add(Ri);
-                    }
+                    // set 互斥
+                    sourceGraph.RID_set.add(Ri);
+
                     sourceGraph.addVertex(Ri);
                     if(!sourceGraph.all_nodes.contains(Ri)){
                         sourceGraph.all_nodes.add(Ri);
@@ -110,18 +116,20 @@ public class GenerateSourceTripartite{
                             // true
                             // 并且为空
                             // FIXME : null 用当前平均值替代
-                            data[index] = String.valueOf(current_sum[index]/index);
+                            // data[index] = String.valueOf(current_sum[index]/index);
+                            data[index] = "0";
 //                        if(judge(data[index])){
 //                            data[index] = String.valueOf(current_sum[index]/index);
 //                        }
-                            current_sum[index] += Double.parseDouble(data[index]);
+                            // fixme : 取消了平均值替代的方式
+                            // current_sum[index] += Double.parseDouble(data[index]);
                         }
                     }
                     // row_i暂存每行的数据
                     row_i.addAll(Arrays.asList(data));
-                    String[] value;
+                    String[] value = null;
                     List<String> value_i = new ArrayList<>();
-
+                    // 处理多值
                     for(String Vk:row_i ){
                         if(Vk.contains(" ")) {
                             value = Vk.split(" ");
@@ -135,7 +143,7 @@ public class GenerateSourceTripartite{
                                 sourceGraph.addEdge(word, Ri);
                                 // G.addEdge(word,Ck)
                                 sourceGraph.addEdge(word, sourceGraph.column_i.get(column));
-
+                                sourceGraph.addEdge(word, source_id);
                             }
                         }
                         else{
@@ -151,21 +159,43 @@ public class GenerateSourceTripartite{
                     // 平面图方向，连接了source和row_id
                     // sourceGraph.addEdge(source_id,Ri);
                     // sourceGraph.addEdge(tuple,Ri);
+                    // fixme clear
+                    row_i.clear();
+                    // Thread.sleep(1000);
                 }
+                newBr.close();
+                fr.close();
                 fileNum++;
+                // Thread.sleep(1000);
             }
-
         } catch (IOException e) {
+            e.printStackTrace();
+        }
+        // fixme clear
+
+        // rename path use dataset name and number of sources
+        String graphPath = "data/stock100/graph/55SourceStockGraph.txt";
+        File f = new File(graphPath);
+        try {
+            f.createNewFile();
+            FileOutputStream outputStream = new FileOutputStream(f);
+            ObjectOutputStream objectOutputStream = new ObjectOutputStream(outputStream);
+            objectOutputStream.writeObject(sourceGraph);
+            outputStream.close();
+            System.out.println("Graph is saved");
+        } catch (IOException e) {
+            System.out.println("graph saving encounters error");
             e.printStackTrace();
         }
         return sourceGraph;
     }
-    public Set<String> getRID_set(){
-        return new HashSet<>(this.RID_set);
-    }
-    public List<String> getColumn_i(){
-        return new ArrayList<>(this.column_i);
-    }
+
+//    public Set<String> getRID_set(){
+//        return new HashSet<>(this.RID_set);
+//    }
+//    public List<String> getColumn_i(){
+//        return new ArrayList<>(this.column_i);
+//    }
 
     /**
      * @return token后的nodes

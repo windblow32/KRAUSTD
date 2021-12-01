@@ -7,7 +7,7 @@ import com.medallia.word2vec.*;
 import com.medallia.word2vec.neuralnetwork.NeuralNetworkType;
 import com.medallia.word2vec.util.Format;
 import lombok.extern.slf4j.Slf4j;
-import org.springframework.stereotype.Service;
+
 
 import java.util.ArrayList;
 import java.util.Arrays;
@@ -17,7 +17,7 @@ public class MetaAlgorithm {
     public List<String> nodes = new ArrayList<>();
 
     /**
-     * @param file    文件路径
+     * @param fileList    文件路径
      * @param n_walks number of random walks
      * @param n_nodes number of nodes
      * @param length  embedding的长度

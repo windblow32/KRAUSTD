@@ -2,6 +2,7 @@ package EMBDI.TripartiteWeightedGraphWithSource;
 
 import abstruct_Graph.ConcreteEdgesGraph;
 import abstruct_Graph.Graph;
+import java.util.Random;
 import org.jetbrains.annotations.NotNull;
 
 import java.io.BufferedReader;
@@ -11,6 +12,8 @@ import java.util.*;
 import java.util.regex.Pattern;
 
 public class GenerateSampledTripartite {
+
+
     private final Graph<String> graph = new ConcreteEdgesGraph<>();
     // 每个源每行RID的set
     private final Set<String> RID_set = new HashSet<>();
@@ -20,31 +23,37 @@ public class GenerateSampledTripartite {
     private final List<String> column_i = new ArrayList<>();
     // 图中所有点nodes
     public List<String> all_nodes = new ArrayList<>();
+
     // 代理Graph中的方法
-    public boolean addVertex(String vertex){
+    public boolean addVertex(String vertex) {
         return graph.add(vertex);
     }
+
     // 边带有了权值
-    public int addEdge(String node1, String node2, int weight){
+    public int addEdge(String node1, String node2, int weight) {
         return graph.set(node1, node2, weight);
     }
-    public Set<String> vertices(){
+
+    public Set<String> vertices() {
         return new HashSet<>(graph.vertices());
     }
-    public Map<String,Integer> sources(String target){
+
+    public Map<String, Integer> sources(String target) {
         return new HashMap<>(graph.sources(target));
     }
-    public Map<String, Integer> targets(String sources){
+
+    public Map<String, Integer> targets(String sources) {
         return new HashMap<>(graph.targets(sources));
     }
 
     /**
      * 每个数据源的属性都是不同的
      * 每个数据源的sample也是不同的，另外应有整体的sample
+     *
      * @param fileList 数据集列表
      * @return
      */
-    public GenerateSampledTripartite generateSourceTripartiteGraph(@NotNull List<String> fileList){
+    public GenerateSampledTripartite generateSourceTripartiteGraph(@NotNull List<String> fileList) {
         //  修改代码一定注意，对于函数中声明该类对象的函数，当调用成员变量时，必须用该对象引出，否则无法
         //  加入，也就是红色变量必须graph.引出！
 
@@ -63,7 +72,7 @@ public class GenerateSampledTripartite {
             data = str.split(",");
             // 存储全部属性
             sourceGraph.column_i.addAll(Arrays.asList(data));
-            for(String s : sourceGraph.column_i){
+            for (String s : sourceGraph.column_i) {
                 // store attribute into sourceGraph
                 sourceGraph.addVertex(s);
                 sourceGraph.all_nodes.add(s);
@@ -85,7 +94,7 @@ public class GenerateSampledTripartite {
             sourceGraph.addVertex(SAMPLE);
             sourceGraph.all_nodes.add(SOURCE);
             sourceGraph.all_nodes.add(SAMPLE);
-            for(String files: fileList){
+            for (String files : fileList) {
                 FileReader fr = new FileReader(files);
                 BufferedReader newBr = new BufferedReader(fr);
                 // 每个文件是不同的数据源
@@ -93,7 +102,7 @@ public class GenerateSampledTripartite {
                 sourceGraph.addVertex(source_id);
                 sourceGraph.all_nodes.add(source_id);
                 // source与总点SOURSE连接
-                sourceGraph.addEdge(source_id,SOURCE,1);
+                sourceGraph.addEdge(source_id, SOURCE, 1);
 
                 // 先读出来一行，不用头部
                 newBr.readLine();
@@ -106,10 +115,10 @@ public class GenerateSampledTripartite {
 //                    truthFlag = 1;
 //                }
                 // 正则匹配，如果名字中带有truth，就认为是真值文件，取消了对于文件输入顺序的要求
-                if(judgeTruthFile(files)){
+                if (judgeTruthFile(files)) {
                     truthFlag = 1;
                 }
-                while((str=newBr.readLine())!=null){
+                while ((str = newBr.readLine()) != null) {
                     // 每一行是不同的tuple和row_id
                     // String tuple = "tuple_" + row_id;
                     // 为每个数据源的表分配row的id
@@ -121,11 +130,11 @@ public class GenerateSampledTripartite {
                     // String Ri = "row_" + row_id + "_s" + fileNum;
                     String Ri;
                     // 区分了不同数据源的row，对于普通数据源加后缀yi
-                    if(truthFlag == 0){
+                    if (truthFlag == 0) {
                         Ri = "row_" + row_id + "_y" + fileNum;
                     }
                     // 真值数据集中的元组加s后缀
-                    else{
+                    else {
                         Ri = "row_" + row_id + "_s" + fileNum;
                     }
 //                    if(!sourceGraph.RID_set.contains(Ri)){
@@ -135,29 +144,29 @@ public class GenerateSampledTripartite {
                     sourceGraph.RID_set.add(Ri);
 
                     // 添加样本点，个数等于每个数据集中的元组数，只添加一次
-                    if(fileNum==0){
+                    if (fileNum == 0) {
                         String sample = "sample_" + row_id;
                         sourceGraph.addVertex(sample);
                         sourceGraph.all_nodes.add(sample);
                         sourceGraph.Sample_set.add(sample);
                         // 每个sample连接总点SAMPLE
-                        sourceGraph.addEdge(sample,SAMPLE,1);
+                        sourceGraph.addEdge(sample, SAMPLE, 1);
                     }
                     // Ri添加进入图中
                     sourceGraph.addVertex(Ri);
-                    if(!sourceGraph.all_nodes.contains(Ri)){
+                    if (!sourceGraph.all_nodes.contains(Ri)) {
                         sourceGraph.all_nodes.add(Ri);
                     }
                     // 将Ri,即每个源的每个row与这个数据源连接
-                    sourceGraph.addEdge(Ri,source_id,1);
+                    sourceGraph.addEdge(Ri, source_id, 1);
                     // 并且每个row和对应行的sample连接,权重为0
-                    sourceGraph.addEdge(Ri,sourceGraph.Sample_set.get(row_id),1);
+                    sourceGraph.addEdge(Ri, sourceGraph.Sample_set.get(row_id), 1);
                     // 处理完了一行
                     row_id++;
                     data = str.split(",");
                     // FIXME:假设表中的数值都是数字类型，现在判断是否为空
-                    for(int index = 0;index<data.length;index++){
-                        if(data[index]==null||data[index].equals("")){
+                    for (int index = 0; index < data.length; index++) {
+                        if (data[index] == null || data[index].equals("")) {
                             data[index] = String.valueOf(0);
                             // true
                             // 并且为空
@@ -205,9 +214,9 @@ public class GenerateSampledTripartite {
                     // sourceGraph.addEdge(tuple,Ri);
                     // 每个Ri和所有属性相连，权值是属性值
 
-                    for(int t = 0;t< data.length;t++){
-                        int temp = Math.abs((int)Double.parseDouble(data[t]));
-                        if(temp == 0){
+                    for (int t = 0; t < data.length; t++) {
+                        int temp = Math.abs((int) Double.parseDouble(data[t]));
+                        if (temp == 0) {
                             // 原有属性是1的，变成2
                             temp = 1; // 加完1是2
                         }
@@ -215,7 +224,7 @@ public class GenerateSampledTripartite {
                         // 原有的权重是0的，现在是2
                         // 原有是1的，现在是2.余下都是原有加1
                         // 现有是1的就是原来不存在的边
-                        sourceGraph.addEdge(Ri,sourceGraph.column_i.get(t), temp+1);
+                        sourceGraph.addEdge(Ri, sourceGraph.column_i.get(t), temp + 1);
                     }
                 }
                 fileNum++;
@@ -226,26 +235,34 @@ public class GenerateSampledTripartite {
         }
         return sourceGraph;
     }
-    public Set<String> getRID_set(){
+
+    public Set<String> getRID_set() {
         return new HashSet<>(this.RID_set);
     }
-    public List<String> getColumn_i(){
+
+    public List<String> getColumn_i() {
         return new ArrayList<>(this.column_i);
     }
 
     /**
      * @return token后的nodes
      */
-    public List<String> getAll_nodes(){return new ArrayList<>(this.all_nodes);}
+    public List<String> getAll_nodes() {
+        return new ArrayList<>(this.all_nodes);
+    }
 
     /**
-     *
      * @param fileName 文件名字
      * @return 如果文件中带有truth字段，返回true，代表是真值文件
      */
-    private boolean judgeTruthFile(String fileName){
+    private boolean judgeTruthFile(String fileName) {
         String regex = ".truth.";
-        return Pattern.matches(regex,fileName);
+        return Pattern.matches(regex, fileName);
+    }
+
+    private double N(int a, int b){
+        Random r = new Random();
+        return Math.sqrt(b)* r.nextGaussian()+a;
     }
 
 

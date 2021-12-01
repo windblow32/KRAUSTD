@@ -70,7 +70,7 @@
         <dependency>
             <groupId>com.google.collections</groupId>
             <artifactId>google-collections</artifactId>
-            <version>30.1-android</version>
+            <version>1.0</version>
         </dependency>
     </dependencies>
     <build>
@@ -82,7 +82,7 @@
                 <configuration>
                     <forkCount>3</forkCount>
                     <reuseForks>true</reuseForks>
-                    <argLine>-Xmx1024m -XX:MaxPermSize=256m</argLine>
+                    <argLine>-Xmx1500m -XX:MaxPermSize=1500m</argLine>
                     <systemPropertyVariables>
                     </systemPropertyVariables>
                 </configuration>

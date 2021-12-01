@@ -3,7 +3,7 @@ package EMBDI;
 import com.medallia.word2vec.Searcher;
 import com.medallia.word2vec.Word2VecModel;
 import org.junit.Test;
-import org.springframework.beans.factory.annotation.Autowired;
+
 
 import java.util.*;
 

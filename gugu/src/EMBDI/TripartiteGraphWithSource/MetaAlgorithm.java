@@ -1,6 +1,10 @@
 package EMBDI.TripartiteGraphWithSource;
 
 
+import java.io.FileInputStream;
+import java.io.FileNotFoundException;
+import java.io.IOException;
+import java.io.ObjectInputStream;
 import java.util.ArrayList;
 import java.util.List;
 
@@ -18,6 +22,38 @@ public class MetaAlgorithm {
         List<String> walks = new ArrayList<>();
         GenerateSourceTripartite graph = new GenerateSourceTripartite();
         graph = graph.generateSourceTripartiteGraph(fileList);
+        GenerateSourceTripartiteRandomWalk walkGraph = new GenerateSourceTripartiteRandomWalk(graph);
+        nodes = graph.getAll_nodes();
+        for (String str : nodes) {
+            for (int i = 0; i < n_walks / n_nodes; i++) {
+                List<String> list = walkGraph.randomWalk(str, length);
+//                StringBuilder sentence = null;
+//                for (int index = 0; index < length; index++) {
+//                    sentence = (sentence == null ? new StringBuilder("null") : sentence).append(list.get(index));
+//                }
+//
+//                walks.add(sentence == null ? null : sentence.toString());
+                walks.addAll(list);
+            }
+            // Thread.sleep(200);
+        }
+//        Word2Vec method = new Word2Vec();
+//         method.generateEmbedding(walks);
+        return walks;
+    }
+
+    public List<String> Meta_AlgorithmUseGraphFilePath(String graphFilePath, int n_walks, int n_nodes, int length){
+        List<String> walks = new ArrayList<>();
+        FileInputStream fileInputStream = null;
+        GenerateSourceTripartite graph = new GenerateSourceTripartite();
+        try {
+            fileInputStream = new FileInputStream(graphFilePath);
+            ObjectInputStream objectInputStream = new ObjectInputStream(fileInputStream);
+            graph = (GenerateSourceTripartite)objectInputStream.readObject();
+        } catch (IOException | ClassNotFoundException e) {
+            System.out.println("graphFile can't be found!");
+            e.printStackTrace();
+        }
         GenerateSourceTripartiteRandomWalk walkGraph = new GenerateSourceTripartiteRandomWalk(graph);
         nodes = graph.getAll_nodes();
         for (String str : nodes) {

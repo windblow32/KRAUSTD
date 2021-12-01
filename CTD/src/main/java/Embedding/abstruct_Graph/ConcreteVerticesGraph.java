@@ -3,6 +3,7 @@
  */
 package main.java.Embedding.abstruct_Graph;
 
+import java.io.Serializable;
 import java.util.*;
 
 /**
@@ -10,7 +11,8 @@ import java.util.*;
  * 
  * <p>PS2 instructions: you MUST use the provided rep.
  */
-public class ConcreteVerticesGraph<L> implements Graph<L> {
+public class ConcreteVerticesGraph<L> implements Graph<L>, Serializable {
+    private static final long serialVersionUID = 111114;
     
     private final List<Vertex<L>> vertices = new ArrayList<>();
 
@@ -29,7 +31,7 @@ public class ConcreteVerticesGraph<L> implements Graph<L> {
     // TODO checkRep
     private void checkRep(){
         Set<Vertex<L>> testvertice = new HashSet<>(vertices);
-        assert testvertice.size()==vertices.size();
+        // assert testvertice.size()==vertices.size();
     }
     /**
      * Add a vertex to this graph.
@@ -46,7 +48,7 @@ public class ConcreteVerticesGraph<L> implements Graph<L> {
         }
         Vertex<L> new_vex = new Vertex(vertex);
         vertices.add(new_vex);
-        checkRep();
+//        checkRep();
         return true;
     }
     /**
@@ -77,7 +79,7 @@ public class ConcreteVerticesGraph<L> implements Graph<L> {
                 preweight = vex.addsource(source, weight);
             }
         }
-        checkRep();
+//        checkRep();
         return preweight;
     }
     /**
@@ -96,7 +98,7 @@ public class ConcreteVerticesGraph<L> implements Graph<L> {
             if(vex.getVextex().equals(vertex)){
                 // 找到了相同名字的
                 iterator.remove();
-                checkRep();
+//                checkRep();
                 return true;
             }
             // 删除它关联的其他边
@@ -109,7 +111,7 @@ public class ConcreteVerticesGraph<L> implements Graph<L> {
                 }
             }
         }
-        checkRep();
+//        checkRep();
         return false;
     }
     
@@ -118,7 +120,7 @@ public class ConcreteVerticesGraph<L> implements Graph<L> {
         for(Vertex<L> vex:vertices){
             vexset.add(vex.getVextex());
         }
-        checkRep();
+//        checkRep();
         return vexset;
     }
     /**
@@ -141,7 +143,7 @@ public class ConcreteVerticesGraph<L> implements Graph<L> {
             }
         }
         Map<L, Integer> source_map = new HashMap<L,Integer>(temp);
-        checkRep();
+//        checkRep();
         return source_map;
     }
     
@@ -153,7 +155,7 @@ public class ConcreteVerticesGraph<L> implements Graph<L> {
                 break;
             }
         }
-        checkRep();
+//        checkRep();
         return temp;
     }
     
@@ -177,7 +179,8 @@ public class ConcreteVerticesGraph<L> implements Graph<L> {
  * <p>PS2 instructions: the specification and implementation of this class is
  * up to you.
  */
-class Vertex<L> {
+class Vertex<L> implements Serializable{
+    private static final long serialVersionUID = 111115;
 
 
     private final L vextex;  //储存顶点的名字
@@ -206,7 +209,7 @@ class Vertex<L> {
             while(iterator.hasNext()){
                 L key = iterator.next();
                 Integer value = source_map.get(key);
-                assert value>0;
+                // assert value>0;
             }
         }
         Set<L> point2 = target_map.keySet();
@@ -215,7 +218,7 @@ class Vertex<L> {
             while(iterator.hasNext()){
                 L key = iterator.next();
                 Integer value = target_map.get(key);
-                assert value>0;
+                // assert value>0;
             }
         }
     }
@@ -256,7 +259,7 @@ class Vertex<L> {
             System.out.println("权值为负");
             return -1;
         }
-        checkRep();
+        // checkRep();
         return preweight;
     }
     /**
@@ -281,7 +284,7 @@ class Vertex<L> {
             System.out.println("权值为负！");
             return -1;
         }
-        checkRep();
+        // checkRep();
         return preweight;
     }
 

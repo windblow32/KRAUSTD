@@ -8,13 +8,12 @@ import com.medallia.word2vec.neuralnetwork.NeuralNetworkType;
 import com.medallia.word2vec.thrift.Word2VecModelThrift;
 import com.medallia.word2vec.util.Format;
 import lombok.extern.slf4j.Slf4j;
-import org.springframework.stereotype.Service;
-import scala.collection.Searching;
+
+
 
 import java.util.*;
 import java.util.regex.Pattern;
 
-@Service
 @Slf4j
 public class Word2VecService{
     public List<String> total_nodes = new ArrayList<>();

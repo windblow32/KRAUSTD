@@ -24,7 +24,7 @@ public class SourceTripartiteEmbeddingViaWord2VecTest {
         fileList.add("data/Book/4.CSV");
         fileList.add("data/Book/5.CSV");
         fileList.add("data/Book/truth.CSV");
-        List<Double> vector = word2VecService.train(fileList,20,3,3);
+        List<Double> vector = word2VecService.train(fileList,20,3,3,10);
         Map<String, List<Double>> EM = new HashMap<>();
         try {
             EM = word2VecService.getEmbeddings();

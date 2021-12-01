@@ -7,7 +7,7 @@ import com.medallia.word2vec.neuralnetwork.NeuralNetworkType;
 import com.medallia.word2vec.thrift.Word2VecModelThrift;
 import com.medallia.word2vec.util.Format;
 import lombok.extern.slf4j.Slf4j;
-import org.springframework.stereotype.Service;
+
 
 import java.io.File;
 import java.io.FileOutputStream;
@@ -19,7 +19,7 @@ import java.util.stream.Collectors;
 
 import static com.medallia.word2vec.Word2VecModel.fromBinFile;
 
-@Service
+
 @Slf4j
 public class SampledTripartiteEmbeddingViaWord2Vec {
     public List<String> total_nodes = new ArrayList<>();
