@@ -25,7 +25,21 @@ public class NormalizeDistributeSourceTripartiteEmbeddingViaWord2Vec {
                               int ValueDistributeLow,
                               int ValueDistributeHigh,
                               int TupleDistributeLow,
-                              int TupleDistributeHigh) {
+                              int TupleDistributeHigh,
+                              int dropSourceEdge,
+                              int dropSampleEdge) {
+
+        // 输出此次信息
+        System.out.println("游走长度为 : " + length);
+        System.out.println("Attr 正态均值 : " + AttrDistributeLow);
+        System.out.println("Attr 正态标准差 : " + AttrDistributeHigh);
+        System.out.println("Value 正态均值 : " + ValueDistributeLow);
+        System.out.println("Value 正态标准差 : " + ValueDistributeHigh);
+        System.out.println("Tuple 正态均值 : " + TupleDistributeLow);
+        System.out.println("Tuple 正态标准差 : " + TupleDistributeHigh);
+        System.out.println("drop Source ? (0 false, 1 true) : " + dropSourceEdge);
+        System.out.println("drop Sample ? (0 false, 1 true) : " + dropSampleEdge);
+
         try {
             MetaAlgorithmNormalizeDistribute meta = new MetaAlgorithmNormalizeDistribute();
 //            List data = meta.Meta_Algorithm(fileList, n_walks, n_nodes, length);
@@ -36,6 +50,7 @@ public class NormalizeDistributeSourceTripartiteEmbeddingViaWord2Vec {
             File testFile = new File(testFilePath);
             List<String> data = null;
             if(testFile.exists()){
+                // 图已经建立，其他数值无法改变了
                 data = meta.Meta_AlgorithmUseGraphFilePath(graphFilePath, n_walks, n_nodes, length);
             }
             else {
@@ -45,7 +60,9 @@ public class NormalizeDistributeSourceTripartiteEmbeddingViaWord2Vec {
                         ValueDistributeLow,
                         ValueDistributeHigh,
                         TupleDistributeLow,
-                        TupleDistributeHigh);
+                        TupleDistributeHigh,
+                        dropSourceEdge,
+                        dropSampleEdge);
             }
 
             // fixme : disable total_nodes to test heap

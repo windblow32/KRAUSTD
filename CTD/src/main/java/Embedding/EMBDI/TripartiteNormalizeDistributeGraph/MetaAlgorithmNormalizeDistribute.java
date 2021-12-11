@@ -22,7 +22,9 @@ public class MetaAlgorithmNormalizeDistribute {
                                        int ValueDistributeLow,
                                        int ValueDistributeHigh,
                                        int TupleDistributeLow,
-                                       int TupleDistributeHigh) throws InterruptedException {
+                                       int TupleDistributeHigh,
+                                       int dropSourceEdge,
+                                       int dropSampleEdge) throws InterruptedException {
         List<String> walks = new ArrayList<>();
         GenerateNormalizeDistributeSourceTripartite graph = new GenerateNormalizeDistributeSourceTripartite();
         graph = graph.generateSourceTripartiteGraph(fileList, AttrDistributeLow,
@@ -30,7 +32,9 @@ public class MetaAlgorithmNormalizeDistribute {
                 ValueDistributeLow,
                 ValueDistributeHigh,
                 TupleDistributeLow,
-                TupleDistributeHigh);
+                TupleDistributeHigh,
+                dropSourceEdge,
+                dropSampleEdge);
         GenerateNormalizeDistributeSourceTripartiteRandomWalk walkGraph = new GenerateNormalizeDistributeSourceTripartiteRandomWalk(graph);
         nodes = graph.getAll_nodes();
         for (String str : nodes) {

@@ -17,6 +17,9 @@ public class GenerateNormalizeDistributeSourceTripartiteRandomWalk {
         Map<String, Integer> neighbor_map = new HashMap<>();
         Set<String> neighbor_set = new HashSet<>();
         if(!graph.vertices().contains(vertex)){
+            if(vertex.equals("")){
+                System.out.println("vertex is empty");
+            }
             System.out.println("error! the node is not exist!");
             return null;
         }
@@ -97,6 +100,9 @@ public class GenerateNormalizeDistributeSourceTripartiteRandomWalk {
         Map<String, Integer> neighbor_map = new HashMap<>();
         Set<String> neighbor_set = new HashSet<>();
         if(!graph.vertices().contains(vertex)){
+            if(vertex.equals("")){
+                System.out.println("vertex is empty");
+            }
             System.out.println("error! the node is not exist!");
             return null;
         }
@@ -123,7 +129,14 @@ public class GenerateNormalizeDistributeSourceTripartiteRandomWalk {
                 }
             }
             Random r = new Random();
-            int index = r.nextInt(keySet.size());
+            int index = 0;
+            try{
+                index = r.nextInt(keySet.size());
+            }
+            catch (IllegalArgumentException e){
+                // debug
+                System.out.println(" no neighbor vertex : " + vertex + " , max : " + max);
+            }
             // 返回随机选中的node
             Iterator<String> itor = keySet.iterator();
             while(itor.hasNext()){

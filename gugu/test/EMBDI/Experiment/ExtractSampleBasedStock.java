@@ -20,17 +20,17 @@ public class ExtractSampleBasedStock {
     public int version = 13;
     @Test
     public void train() {
-        SourceTripartiteEmbeddingViaWord2Vec word2VecService = new SourceTripartiteEmbeddingViaWord2Vec();
-        List<String> fileList = new ArrayList<>();
+            SourceTripartiteEmbeddingViaWord2Vec word2VecService = new SourceTripartiteEmbeddingViaWord2Vec();
+            List<String> fileList = new ArrayList<>();
 
-        for(int i = 0;i<sourceNum;i++){
-            int temp = i + 1;
-            String filePath = "data/stock100/divideSource/source" + temp + ".csv";
-            fileList.add(filePath);
-        }
+            for(int i = 0;i<sourceNum;i++){
+                int temp = i + 1;
+                String filePath = "data/stock100/divideSource/source" + temp + ".csv";
+                fileList.add(filePath);
+            }
 
-        // todo:add truth, default the last one
-        String truthPath = "data/stock100/100truth.csv";
+            // todo:add truth, default the last one
+            String truthPath = "data/stock100/100truth.csv";
         fileList.add(truthPath);
 
         // time located between both sides of code!

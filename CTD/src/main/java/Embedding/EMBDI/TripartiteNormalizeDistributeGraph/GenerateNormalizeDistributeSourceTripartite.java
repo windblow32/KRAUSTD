@@ -42,7 +42,9 @@ public class GenerateNormalizeDistributeSourceTripartite implements Serializable
                                                                                      int ValueDistributeLow,
                                                                                      int ValueDistributeHigh,
                                                                                      int TupleDistributeLow,
-                                                                                     int TupleDistributeHigh
+                                                                                     int TupleDistributeHigh,
+                                                                                     int dropSourceEdge,
+                                                                                     int dropSampleEdge
     ){
         //  修改代码一定注意，对于函数中声明该类对象的函数，当调用成员变量时，必须用该对象引出，否则无法
         //  加入，也就是红色变量必须graph.引出！
@@ -80,11 +82,15 @@ public class GenerateNormalizeDistributeSourceTripartite implements Serializable
 
             String SAMPLE = "SAMPLE";
             int SAMPLE_value = 1;
+            if(dropSourceEdge==0){
+                sourceGraph.addVertex(SOURCE);
+                sourceGraph.all_nodes.add(SOURCE);
+            }
+            if(dropSampleEdge==0){
+                sourceGraph.addVertex(SAMPLE);
+                sourceGraph.all_nodes.add(SAMPLE);
+            }
 
-            sourceGraph.addVertex(SOURCE);
-            sourceGraph.addVertex(SAMPLE);
-            sourceGraph.all_nodes.add(SOURCE);
-            sourceGraph.all_nodes.add(SAMPLE);
             for(String files: fileList){
                 FileReader fr = new FileReader(files);
                 BufferedReader newBr = new BufferedReader(fr);
@@ -96,7 +102,10 @@ public class GenerateNormalizeDistributeSourceTripartite implements Serializable
                 int source_value = 1;
 
                 // source与总点SOURSE连接
-                sourceGraph.addEdge(source_id, SOURCE, SOURCE_value*source_value);
+                if(dropSourceEdge==0){
+                    sourceGraph.addEdge(source_id, SOURCE, SOURCE_value*source_value);
+                }
+
 
                 // 从第二行开始处理
                 // process null using avg
@@ -133,12 +142,14 @@ public class GenerateNormalizeDistributeSourceTripartite implements Serializable
                     sourceGraph.RID_set.add(Ri);
 
                     // 添加样本点，个数等于每个数据集中的元组数，只添加一次
-                    if (fileNum == 0) {
-                        String sample = "sample_" + row_id;
-                        sourceGraph.addVertex(sample);
-                        sourceGraph.all_nodes.add(sample);
-                        sourceGraph.Sample_set.add(sample);
-                        // 每个sample连接总点SAMPLE
+                    String sample = "sample_" + row_id;
+                    sourceGraph.addVertex(sample);
+                    sourceGraph.all_nodes.add(sample);
+                    sourceGraph.Sample_set.add(sample);
+                    sourceGraph.addEdge(sample,Ri,Ri_VexValue);
+
+                    // 每个sample连接总点SAMPLE
+                    if(dropSampleEdge==0){
                         sourceGraph.addEdge(sample, SAMPLE, 1);
                     }
 
@@ -147,15 +158,16 @@ public class GenerateNormalizeDistributeSourceTripartite implements Serializable
                         sourceGraph.all_nodes.add(Ri);
                     }
                     row_id++;
-                    data = str.split(",");
+                    // add -1
+                    data = str.split(",",-1);
                     // FIXME:假设表中的数值都是数字类型，现在判断是否为空
                     for(int index = 0;index<data.length;index++){
-                        if(data[index]==null){
+                        if(data[index]==null||data[index].equals("")){
                             // true
                             // 并且为空
                             // FIXME : null 用当前平均值替代
                             // data[index] = String.valueOf(current_sum[index]/index);
-                            data[index] = "0";
+                            data[index] = "NEG";
 //                        if(judge(data[index])){
 //                            data[index] = String.valueOf(current_sum[index]/index);
 //                        }
@@ -250,11 +262,7 @@ public class GenerateNormalizeDistributeSourceTripartite implements Serializable
     private int N(int a, int b){
         Random r = new Random();
         int res = (int)(Math.sqrt(b)* r.nextGaussian()+a);
-        if (res<=a){
-            // 返回值不能小于1或者大于b
-            return Math.max(1,a);
-        }
-        else return res;
+        return (int)Math.max(1,res);
     }
 }
 

@@ -1,0 +1,2019 @@
+entity_id,website,number,screen_type,supported_aspect_ratio,response_time,screen_size_diagonal
+ENTITY#002,catalog.com,254,LCD,,,
+ENTITY#002,www.officedepot.com,255,LCD Touchscreen Monitor,4:03,14.20 ms,15\
+ENTITY#002,www.getprice.com.au,280,Touch,,21.5 ms,
+ENTITY#002,www.officedepot.com,289,LCD Touchscreen Monitor,4:03,21.50 ms,15\
+ENTITY#002,www.ohc24.ch,318,Elo 1515L IntelliTouch - LCD monitor - 15\,4:03,11.7 ms,
+ENTITY#002,www.makingbuyingeasy.co.uk,388,LCD,4:03,11.7 ms,38.1 cm (15\
+ENTITY#002,www.makingbuyingeasy.co.uk,489,LCD,4:03,11.7 ms,38.1 cm (15\
+ENTITY#002,www.makingbuyingeasy.co.uk,585,LCD,4:03,11.7 ms,38.1 cm (15\
+ENTITY#002,catalog.com,596,LCD,4:03,,
+ENTITY#002,ce.yikus.com,1219,,: 4:3,,
+ENTITY#002,www.ebay.com,12307,"LCD, Touch Screen, Touch Screen LCD, Touch Screen LCD Touch Screen LCD, Touch Screen LCD Touch Screen LCD Touch Screen LCD LCD Touch Screen",4:03,21.5 ms,15\
+ENTITY#002,www.ebay.com,14413,,,,
+ENTITY#002,www.ebay.com,16628,"LCD, Touch Screen, Touch Screen LCD, Touch Screen LCD Touch Screen LCD, Touch Screen LCD Touch Screen LCD Touch Screen LCD LCD Touch Screen",4:03,22 ms,15\
+ENTITY#002,www.ebay.com,19927,"LCD, Touch Screen, Touch Screen LCD, Touch Screen LCD Touch Screen LCD, Touch Screen LCD Touch Screen LCD Touch Screen LCD LCD Touch Screen",4:03,22 ms,15\
+ENTITY#002,www.ebay.com,22113,Touch Screen,4:03,22 ms,15\
+ENTITY#002,www.ebay.com,23335,Touch Screen,4:03,22 ms,15\
+ENTITY#002,www.ebay.com,23720,,4:03,14.20 ms,15\
+ENTITY#003,www.makingbuyingeasy.co.uk,66,LCD,16:09,8 ms,39.62 cm (15.6\
+ENTITY#003,www.ohc24.ch,186,Elo Desktop Touchmonitors 1519L iTouch Plus - LCD monitor - 15.6\,Widescreen - 16:9,8 ms,
+ENTITY#003,www.ohc24.ch,304,Elo Desktop Touchmonitors 1519L Projected Capacitive - LCD monitor - 15.6\,Widescreen - 16:9,8 ms,
+ENTITY#003,www.makingbuyingeasy.co.uk,389,LCD,16:09,8 ms,39.62 cm (15.6\
+ENTITY#003,www.makingbuyingeasy.co.uk,393,LCD,16:09,8 ms,39.62 cm (15.6\
+ENTITY#003,www.makingbuyingeasy.co.uk,454,LCD,16:09,8 ms,39.62 cm (15.6\
+ENTITY#003,www.ohc24.ch,624,Elo 1519L - LCD monitor - 15.6\,Widescreen - 16:9,8 ms,
+ENTITY#004,www.ohc24.ch,51,Elo Entuitive 3000 Series 1529L - LCD monitor - 15\,4:03,25 ms,
+ENTITY#004,www.makingbuyingeasy.co.uk,333,LCD,4:03,12 ms,38.1 cm (15\
+ENTITY#004,www.makingbuyingeasy.co.uk,341,LCD,4:03,12 ms,38.1 cm (15\
+ENTITY#004,www.makingbuyingeasy.co.uk,502,LCD,4:03,12 ms,38.1 cm (15\
+ENTITY#004,www.makingbuyingeasy.co.uk,599,LCD,4:03,12 ms,38.1 cm (15\
+ENTITY#004,www.makingbuyingeasy.co.uk,643,LCD,4:03,12 ms,38.1 cm (15\
+ENTITY#004,www.ohc24.ch,721,Elo Entuitive 3000 Series 1529L - LCD monitor - 15\,4:03,25 ms,
+ENTITY#004,www.ebay.com,18227,,4:03,25 ms,
+ENTITY#005,catalog.com,269,,4:03,,
+ENTITY#005,ce.yikus.com,357,,: 1.33:1,,: 15.9in L X 13.9in W X 6.1in H
+ENTITY#005,catalog.com,364,,4:03,,
+ENTITY#005,www.makingbuyingeasy.co.uk,610,LCD,4:03,14.5 ms,38.1 cm (15\
+ENTITY#005,www.makingbuyingeasy.co.uk,644,LCD,4:03,14.5 ms,38.1 cm (15\
+ENTITY#005,www.pcconnection.com,2103,,,,
+ENTITY#005,www.pcconnection.com,3382,,,,
+ENTITY#005,www.ebay.com,18704,"LCD, TFT",4:03,17 ms,15\
+ENTITY#009,www.ebay.com,9531,LCD,5:04,25 ms,17\
+ENTITY#009,www.ebay.com,16047,LCD,,,17\
+ENTITY#009,www.ebay.com,16278,LCD,,,17\
+ENTITY#009,www.ebay.com,19861,LCD,,,17\
+ENTITY#009,www.ebay.com,20575,LCD,,,17\
+ENTITY#009,www.ebay.com,21885,LCD,,,17\
+ENTITY#009,www.ebay.com,23319,LCD,,,17\
+ENTITY#010,www.ebay.com,9342,LCD,5:04,8 ms,17\
+ENTITY#010,www.ebay.com,14838,LCD,5:04,8 ms,17\
+ENTITY#010,www.ebay.com,19295,LCD,5:04,8 ms,17\
+ENTITY#010,www.ebay.com,21363,LCD,5:04,8 ms,17\
+ENTITY#010,www.ebay.com,22111,LCD,5:04,8 ms,17\
+ENTITY#011,www.best-deal-items.com,117,,,,
+ENTITY#011,www.best-deal-items.com,775,,,,
+ENTITY#011,www.best-deal-items.com,1413,,,,
+ENTITY#011,www.best-deal-items.com,1548,,,,
+ENTITY#011,www.ebay.com,11620,LCD,4:03,5 ms,17\
+ENTITY#011,www.ebay.com,14209,LCD,5:04,5 ms,17\
+ENTITY#011,www.ebay.com,17066,LCD,5:04,8 ms,17\
+ENTITY#011,www.ebay.com,18840,LCD,5:04,5 ms,17\
+ENTITY#011,www.ebay.com,20888,LCD,5:04,5 ms,17\
+ENTITY#011,www.ebay.com,20923,LCD,4:03,5 ms,17\
+ENTITY#011,www.ebay.com,21596,LCD,5:04,5 ms,17\
+ENTITY#011,www.ebay.com,22417,LCD,5:04,5 ms,17\
+ENTITY#012,www.ebay.com,15814,LCD,4:03,5 ms,17\
+ENTITY#012,www.ebay.com,21016,LCD,5:04,5 ms,17\
+ENTITY#012,www.ebay.com,21447,LCD,,,17\
+ENTITY#013,www.officedepot.com,8,LCD Touchscreen Monitor,5:04,25 ms,17\
+ENTITY#013,www.best-deal-items.com,24,,,,
+ENTITY#013,www.best-deal-items.com,165,,,,
+ENTITY#013,www.makingbuyingeasy.co.uk,413,LCD,5:04,25 ms,43.18 cm (17\
+ENTITY#013,www.makingbuyingeasy.co.uk,471,LCD,5:04,25 ms,43.18 cm (17\
+ENTITY#013,catalog.com,534,,5:4 \u25cf\n17:5,,
+ENTITY#013,www.ohc24.ch,843,Elo 1715L AccuTouch - LCD monitor - 17\,5:04,25 ms,
+ENTITY#013,www.best-deal-items.com,992,,,,
+ENTITY#013,www.best-deal-items.com,1210,,5:04,,
+ENTITY#013,www.best-deal-items.com,1242,,,,
+ENTITY#013,www.best-deal-items.com,2272,,5:04,,
+ENTITY#013,www.best-deal-items.com,2747,,,,
+ENTITY#013,www.best-deal-items.com,2790,,,,
+ENTITY#013,www.ebay.com,19208,,5:04,25 ms,17
+ENTITY#014,www.makingbuyingeasy.co.uk,30,LCD,5:04,5 ms,43.18 cm (17\
+ENTITY#014,www.makingbuyingeasy.co.uk,44,LCD,5:04,5 ms,43.18 cm (17\
+ENTITY#014,www.makingbuyingeasy.co.uk,283,LCD,5:04,5 ms,43.18 cm (17\
+ENTITY#014,www.ohc24.ch,315,Elo Desktop Touchmonitors 1717L iTouch Zero-Bezel - LED monitor - 17\,5:04,5 ms (tr - tf),
+ENTITY#014,www.ohc24.ch,351,Elo 1717L - LED monitor - 17\,5:04,30 ms,
+ENTITY#014,www.ohc24.ch,453,Elo Desktop Touchmonitors 1717L AccuTouch Zero-Bezel - LED monitor - 17\,5:04,5 ms (tr - tf),
+ENTITY#014,www.makingbuyingeasy.co.uk,594,LCD,5:04,5 ms,43.18 cm (17\
+ENTITY#014,www.ohc24.ch,683,Elo Desktop Touchmonitors 1717L AccuTouch Zero-Bezel - LED monitor - 17\,5:04,5 ms (tr - tf),
+ENTITY#014,www.best-deal-items.com,685,,5:04,,
+ENTITY#014,www.ohc24.ch,720,Elo Desktop Touchmonitors 1717L iTouch Zero-Bezel - LED monitor - 17\,5:04,5 ms (tr - tf),
+ENTITY#014,www.best-deal-items.com,738,,5:4 5:4 5:4,,
+ENTITY#015,www.ebay.com,11445,LCD,19\,,19\
+ENTITY#015,www.ebay.com,14687,LCD,5:04,20 ms,19\
+ENTITY#015,www.ebay.com,15110,LCD,5:04,20 ms,19\
+ENTITY#015,www.ebay.com,16806,LCD,5:04,20 ms,19\
+ENTITY#015,www.ebay.com,19815,LCD,5:04,20 ms,19\
+ENTITY#015,www.ebay.com,20160,LCD,19\,,19\
+ENTITY#015,www.ebay.com,20341,LCD,5:04,20 ms,19\
+ENTITY#015,www.ebay.com,20637,LCD,5:04,20 ms,19\
+ENTITY#015,www.ebay.com,20857,LCD,,20 ms,19\
+ENTITY#015,www.ebay.com,20921,LCD,5:04,20 ms,19\
+ENTITY#015,www.ebay.com,21080,LCD,5:04,20 ms,19\
+ENTITY#015,www.ebay.com,21435,LCD,5:04,20 ms,19\
+ENTITY#015,www.ebay.com,21812,LCD,5:04,20 ms,19\
+ENTITY#015,www.ebay.com,22461,LCD,,,19\
+ENTITY#016,www.ebay.com,11736,LCD,5:04,8 ms,19\
+ENTITY#016,www.ebay.com,19019,LCD,5:04,8 ms 5 ms,19\
+ENTITY#016,www.ebay.com,19217,LCD,5:04,8 ms,19\
+ENTITY#016,www.ebay.com,19456,LCD,5:04,20 ms,19\
+ENTITY#016,www.ebay.com,20115,LCD,5:04,5 ms,19\
+ENTITY#016,www.ebay.com,21698,LCD,5:04,8 ms,19\
+ENTITY#016,www.ebay.com,21925,LCD,5:04,8 ms,19\
+ENTITY#016,www.ebay.com,22949,LCD,5:04,8 ms,19\
+ENTITY#016,www.ebay.com,23060,LCD,5:04,8 ms,19\
+ENTITY#016,www.ebay.com,23137,LCD,5:04,8 ms,19
+ENTITY#016,www.ebay.com,23355,LCD,5:04,8 ms,19\
+ENTITY#017,www.ebay.com,9497,"Flat Panel LCD TFT (Active Matrix), LCD","4:3, 5:4",5 ms,19\
+ENTITY#017,www.ebay.com,11335,LCD,"4:3, 5:4",5 ms,19\
+ENTITY#017,www.ebay.com,11892,"Flat Panel LCD TFT (Active Matrix), LCD","4:3, 5:4",5 ms,19\
+ENTITY#017,www.ebay.com,14256,LCD,5:04,5 ms,19\
+ENTITY#017,www.ebay.com,15624,LCD,5:04,5 ms,19\
+ENTITY#017,www.ebay.com,16011,LCD,"4:3, 5:4",5 ms,19\
+ENTITY#017,www.ebay.com,18178,LCD,5:04,5 ms,19\
+ENTITY#017,www.ebay.com,19923,LCD,5:04,5 ms,19\
+ENTITY#017,www.ebay.com,20375,LCD,,5 ms,19\
+ENTITY#017,www.ebay.com,20663,LCD,"4:3, 5:4",5 ms,19\
+ENTITY#017,www.ebay.com,20879,"Flat Panel LCD TFT (Active Matrix), LCD","4:3, 5:4",5 ms,19\
+ENTITY#017,www.ebay.com,20922,"Flat Panel LCD TFT (Active Matrix), LCD","4:3, 5:4",5 ms,19\
+ENTITY#017,www.ebay.com,21935,LCD,,,19\
+ENTITY#017,www.ebay.com,22337,LCD,5:04,5 ms,19\
+ENTITY#017,www.ebay.com,22602,LCD,5:04,5 ms,19\
+ENTITY#017,www.ebay.com,22859,LCD,5:04,8 ms,19\
+ENTITY#017,www.ebay.com,23521,LCD,"4:3, 5:4",5 ms,19\
+ENTITY#018,www.makingbuyingeasy.co.uk,45,LCD,5:04,5 ms,48.26 cm (19\
+ENTITY#018,www.makingbuyingeasy.co.uk,374,LCD,5:04,5 ms,48.26 cm (19\
+ENTITY#018,catalog.com,430,LCD,4:3 \u25cf\n5:4,,
+ENTITY#018,catalog.com,538,Flat Panel LCD TFT (Active Matrix),5:04,,
+ENTITY#018,www.ohc24.ch,811,Elo 1915L AccuTouch - LCD monitor - 19\,,5 ms,
+ENTITY#018,www.best-deal-items.com,1946,,,,
+ENTITY#018,www.ebay.com,11180,LCD,5:04,5 ms,19\
+ENTITY#018,www.ebay.com,19377,LCD,,5 ms,19\
+ENTITY#018,www.ebay.com,20987,LCD,5:04,5 ms,19\
+ENTITY#018,www.ebay.com,21512,,5:04,,
+ENTITY#019,www.ohc24.ch,18,Elo TouchSystems 1919L - LCD monitor - 18.5\,Widescreen - 16:9,5 ms,
+ENTITY#019,www.ohc24.ch,89,Elo Desktop Touchmonitors 1919L iTouch Plus - LCD monitor - 18.5\,Widescreen - 16:9,5 ms,
+ENTITY#019,www.ohc24.ch,160,Elo Desktop Touchmonitors 1919L Projected Capacitive - LCD monitor - 18.5\,Widescreen - 16:9,5 ms,
+ENTITY#019,www.makingbuyingeasy.co.uk,260,LCD,16:09,5 ms,46.99 cm (18.5\
+ENTITY#019,catalog.com,373,LCD,16:09,,
+ENTITY#019,www.ohc24.ch,443,Elo 1919L - LCD monitor - 19\,Widescreen - 16:9,5 ms,
+ENTITY#019,catalog.com,462,Widescreen LCD,16:09,,
+ENTITY#019,www.makingbuyingeasy.co.uk,479,LCD,16:09,5 ms,46.99 cm (18.5\
+ENTITY#019,www.makingbuyingeasy.co.uk,636,LCD,16:09,5 ms,46.99 cm (18.5\
+ENTITY#019,www.pcconnection.com,1754,,,,19 in
+ENTITY#019,www.ebay.com,14749,,16:09,,
+ENTITY#019,www.ebay.com,18113,LCD,16:09,5 ms,19\
+ENTITY#019,www.ebay.com,19991,,16:09,5 ms,19\
+ENTITY#020,www.makingbuyingeasy.co.uk,34,LCD,5:04,20 ms,48.26 cm (19\
+ENTITY#020,www.makingbuyingeasy.co.uk,175,LCD,5:04,20 ms,48.26 cm (19\
+ENTITY#020,catalog.com,318,TFT,5:04,,
+ENTITY#020,www.makingbuyingeasy.co.uk,366,LCD,5:04,20 ms,48.26 cm (19\
+ENTITY#020,www.ohc24.ch,412,Elo Desktop Touchmonitors 1928L IntelliTouch - LCD monitor - 19\,5:04,20 ms,
+ENTITY#020,www.makingbuyingeasy.co.uk,505,LCD,5:04,20 ms,48.26 cm (19\
+ENTITY#020,www.ebay.com,14937,,5:04,,
+ENTITY#020,www.ebay.com,18841,,5:04,20 ms,19\
+ENTITY#020,www.ebay.com,19291,LCD,5:04,20 ms,19\
+ENTITY#020,www.ebay.com,20124,,5:04,,
+ENTITY#021,www.makingbuyingeasy.co.uk,51,LCD,5:04,7.2 ms,43.18 cm (17\
+ENTITY#021,www.best-deal-items.com,263,,,,
+ENTITY#021,catalog.com,396,LCD,5:04,,
+ENTITY#021,catalog.com,411,Touch Screen,5:04,,
+ENTITY#021,www.makingbuyingeasy.co.uk,461,LCD,5:04,7.2 ms,43.18 cm (17\
+ENTITY#021,www.makingbuyingeasy.co.uk,517,LCD,,7.2 ms,43.18 cm (17\
+ENTITY#021,www.makingbuyingeasy.co.uk,629,LCD,5:04,7.2 ms,43.18 cm (17\
+ENTITY#021,www.best-deal-items.com,693,,5:04,,
+ENTITY#021,www.best-deal-items.com,1068,,5:04,,
+ENTITY#021,www.best-deal-items.com,1504,,,,
+ENTITY#021,www.best-deal-items.com,2683,,,,
+ENTITY#021,www.pcconnection.com,3682,,,,17 in
+ENTITY#021,www.ebay.com,9462,,,,
+ENTITY#021,www.ebay.com,16381,Touch Screen,5:04,7 ms,17\
+ENTITY#021,www.ebay.com,18140,,5:04,7.20 ms,17\
+ENTITY#021,www.ebay.com,21492,Touch Screen,5:04,5 ms,17\
+ENTITY#021,www.ebay.com,23044,,5:04,7.20 ms,17\
+ENTITY#022,www.makingbuyingeasy.co.uk,134,LCD,5:04,5 ms,48.3 cm
+ENTITY#022,www.itenergy.co.uk,229,LCD Monitor,5:04,5 ms,48.3 cm (19\
+ENTITY#022,www.xpcpro.com,246,LCD,5:04,5 ms,19 \
+ENTITY#022,www.planet-computer.it,249,LCD,5:04,5 ms,"48,3 cm"
+ENTITY#022,www.cleverboxes.com,295,TFT LCD 16.7 Million Colour,5:04,5ms,19in (Diagonal)
+ENTITY#022,www.jrlinton.co.uk,410,"Brilliance LCD Monitor, LED Backlight with SmartImage",5:04,5 ms,48.3 cm (19\
+ENTITY#022,www.ohc24.ch,780,Philips Brilliance B-line 19B4LCB5 - LED monitor - 19\,5:04,5 ms,
+ENTITY#022,www.kingsfieldcomputers.co.uk,842,LCD Monitor,5:04,5 ms,48.3 cm (19\
+ENTITY#022,www.imldirect.it,864,LCD Monitor,5:04,5 ms,48.3 cm (19\
+ENTITY#022,www.ebay.com,11038,,5:04,5 ms,19\
+ENTITY#023,www.mediashopuk.com,80,LCD,5:04,6 ms,48.2 cm
+ENTITY#023,www.mrhightech.com,110,LCD,5:04,6 ms,48.2 cm
+ENTITY#023,www.getprice.com.au,310,LED,,6 ms,
+ENTITY#023,ca.pcpartpicker.com,563,,5:04,6 ms,19\
+ENTITY#023,www.softwarecity.ca,5771,LCD Monitor,5:04,6 ms,19\
+ENTITY#025,www.planet-computer.it,16,LCD,16:10,5 ms,55.9 cm
+ENTITY#025,www.mediashopuk.com,90,LCD,16:10,5 ms,55.9 cm
+ENTITY#025,www.cleverboxes.com,91,TFT LCD 16.7 Million Colour,16:10,5ms,22in
+ENTITY#025,www.mrhightech.com,164,LCD,16:10,5 ms,55.9 cm
+ENTITY#025,www.xpcpro.com,274,LCD,16:10,5 ms,55.9 cm 22 \
+ENTITY#025,www.imldirect.it,286,LCD Monitor,16:10,5 ms,55.9 cm (22\
+ENTITY#025,www.makingbuyingeasy.co.uk,311,LCD,16:10,5 ms,55.9 cm
+ENTITY#025,www.ohc24.ch,574,Philips Brilliance B-line 220B4LPCS - LED monitor - 22\,Widescreen - 16:10,5 ms,
+ENTITY#025,www.itenergy.co.uk,684,LCD Monitor,16:10,5 ms,55.9 cm (22\
+ENTITY#025,www.kingsfieldcomputers.co.uk,788,LCD Monitor,16:10,5 ms,55.9 cm (22\
+ENTITY#025,www.jrlinton.co.uk,1540,"Brilliance LCD monitor, LED Backlight With PowerSensor",16:10,5 ms,55.9 cm (22\
+ENTITY#026,www.mrhightech.com,1,LED,,5 ms,54.6 cm
+ENTITY#026,www.mediashopuk.com,47,LED,,5 ms,54.6 cm
+ENTITY#026,www.cleverboxes.com,87,TFT LCD 16.7 Million Colour,,5ms,21.5in
+ENTITY#026,www.itenergy.co.uk,214,LCD Monitor,16:09,5 ms,54.6 cm (21.5\
+ENTITY#026,www.planet-computer.it,288,LED,,5 ms,54.6 cm
+ENTITY#026,www.xpcpro.com,304,LED,,5 ms,54.6 cm 21.5 \
+ENTITY#026,www.makingbuyingeasy.co.uk,406,LED,,5 ms,54.6 cm
+ENTITY#026,www.jrlinton.co.uk,429,"LCD Monitor, LED Backlight with PowerSensor",16:09,5 ms,54.6 cm (21.5\
+ENTITY#026,www.imldirect.it,705,LCD Monitor,16:09,5 ms,54.6 cm (21.5\
+ENTITY#027,www.mrhightech.com,6,LED,,5 ms,54.6 cm
+ENTITY#027,www.mediashopuk.com,16,LED,,5 ms,54.6 cm
+ENTITY#027,www.kingsfieldcomputers.co.uk,123,LCD Monitor,16:09,5 ms,54.6 cm (21.5\
+ENTITY#027,www.cleverboxes.com,125,TFT LCD 16.7 Million Colour,16:09,5ms,21.5in
+ENTITY#027,www.ohc24.ch,162,Philips Brilliance B-line 221B3LPCS - LED monitor - 21.5\,Widescreen - 16:9,5 ms,
+ENTITY#027,www.imldirect.it,230,LCD Monitor,16:09,5 ms,54.6 cm (21.5\
+ENTITY#027,www.planet-computer.it,247,LED,,5 ms,54.6 cm
+ENTITY#027,www.xpcpro.com,319,LED,,5 ms,54.6 cm 21.5 \
+ENTITY#027,www.itenergy.co.uk,405,LCD Monitor,16:09,5 ms,54.6 cm (21.5\
+ENTITY#027,www.makingbuyingeasy.co.uk,634,LED,,5 ms,54.6 cm
+ENTITY#027,www.jrlinton.co.uk,772,Brilliance LCD Monitor LED Backlight with PowerSensor,16:09,5 ms,54.6 cm (21.5\
+ENTITY#028,www.xpcpro.com,1,LED,16:09,5 ms,54.6 cm
+ENTITY#028,www.mrhightech.com,84,LED,16:09,5 ms,54.6 cm
+ENTITY#028,www.mediashopuk.com,160,LED,16:09,5 ms,54.6 cm
+ENTITY#028,www.xpcpro.com,179,LCD/TFT,16:09,5 ms,54.6 cm
+ENTITY#028,www.planet-computer.it,275,LED,16:09,5 ms,54.6 cm
+ENTITY#028,www.cleverboxes.com,322,TFT LCD 16.7 Million Colour,16:09,5ms,23in (Diagonal)
+ENTITY#028,www.cleverboxes.com,376,TFT LCD 16.7 Million Colour,16:09,5ms,21.5in (Diagonal)
+ENTITY#028,www.makingbuyingeasy.co.uk,576,LED,16:09,5 ms,54.6 cm
+ENTITY#028,www.kingsfieldcomputers.co.uk,669,LCD Monitor,16:09,5 ms,54.6 cm (21.5\
+ENTITY#028,www.imldirect.it,680,LCD Monitor,16:09,5 ms,54.6 cm (21.5\
+ENTITY#028,www.itenergy.co.uk,718,LCD Monitor,16:09,5 ms,54.6 cm (21.5\
+ENTITY#028,www.jrlinton.co.uk,940,LCD Monitor with SmartControl Lite,16:09,5 ms,54.6 cm (21.5\
+ENTITY#028,www.jrlinton.co.uk,1028,LCD Monitor with SmartControl Lite,16:09,5 ms,54.6 cm (21.5\
+ENTITY#028,www.softwarecity.ca,5418,LCD Monitor,16:09,5 ms,21.5\
+ENTITY#029,ca.pcpartpicker.com,308,,16:09,5 ms,22\
+ENTITY#029,www.getprice.com.au,390,LED,,No info,
+ENTITY#029,catalog.com,583,LED LCD,16:09,,
+ENTITY#029,www.softwarecity.ca,5892,LCD Touchscreen Monitor,,5 ms,22\
+ENTITY#029,www.ebay.com,12074,LED LCD,16:09,5 ms,22\
+ENTITY#029,www.ebay.com,16466,LED LCD,16:09,5 ms,22
+ENTITY#029,www.ebay.com,19018,,,5ms (typ.),
+ENTITY#029,www.ebay.com,19459,LED LCD,16:09,5 ms,22\
+ENTITY#029,www.ebay.com,20254,LED LCD,16:09,5 ms,22\
+ENTITY#029,www.ebay.com,21590,LED LCD,16:09,5 ms,22\
+ENTITY#029,www.ebay.com,21853,LED LCD,16:09,5 ms,22\
+ENTITY#029,www.ebay.com,22617,LED LCD,16:09,5 ms,22
+ENTITY#030,catalog.com,301,LED LCD,16:09,,
+ENTITY#030,www.officedepot.com,319,LCD Monitor,16:09,7 ms,21.5\
+ENTITY#030,ca.pcpartpicker.com,544,,16:09,7 ms,21.5\
+ENTITY#030,ce.yikus.com,580,,: Unknown,,: 22 Inch
+ENTITY#030,www.pcconnection.com,1406,LCD LED-backlit,,7 ms,21.5 in
+ENTITY#030,www.vology.com,2280,LED-backlit LCD monitor / TFT active matrix,Widescreen - 16:9 Widescreen - 16:9,,21.5\
+ENTITY#030,www.softwarecity.ca,5484,LCD Monitor,16:09,7 ms,21.5\
+ENTITY#030,www.ebay.com,10883,,,,
+ENTITY#030,www.ebay.com,12286,,16:09,,
+ENTITY#030,www.ebay.com,19564,LED LCD,16:09,7 ms,22\
+ENTITY#030,www.ebay.com,20116,LED LCD,16:09,22 ms,
+ENTITY#030,www.ebay.com,20203,LED LCD,16:09,22 ms,
+ENTITY#030,www.ebay.com,23514,LED LCD,16:09,22 ms,21.5
+ENTITY#031,www.pc-canada.com,12,LCD Monitor,16:09,7 ms,23\
+ENTITY#031,ca.pcpartpicker.com,182,,16:09,7 ms,23\
+ENTITY#031,www.pcconnection.com,410,LCD LED-backlit,,7 ms,23 in
+ENTITY#031,ce.yikus.com,1316,,: Unknown,,: 23 Inch
+ENTITY#031,www.best-deal-items.com,1640,,,,
+ENTITY#031,www.vology.com,2315,LED-backlit LCD monitor / TFT active matrix,Widescreen - 16:9 Widescreen - 16:9,,23\
+ENTITY#031,www.softwarecity.ca,5753,LCD Monitor,16:09,7 ms,23\
+ENTITY#031,www.ebay.com,9344,LED LCD,16:09,7 ms,23\
+ENTITY#031,www.ebay.com,9834,,16:09,7 ms,23
+ENTITY#031,www.ebay.com,16169,LED LCD,16:09,7 ms,23\
+ENTITY#031,www.ebay.com,20812,,16:09,,
+ENTITY#031,www.ebay.com,23374,LED LCD,16:09,7 ms,23\
+ENTITY#031,www.ebay.com,23516,LED LCD,16:09,7 ms,23\
+ENTITY#032,www.xpcpro.com,140,LED,16:09,5 ms,24 \
+ENTITY#032,www.planet-computer.it,151,LED,16:09,5 ms,61 cm
+ENTITY#032,www.getprice.com.au,192,LED,,5 ms,
+ENTITY#032,ca.pcpartpicker.com,244,,16:09,5 ms,24\
+ENTITY#032,www.makingbuyingeasy.co.uk,304,LED,16:09,5 ms,61 cm
+ENTITY#032,www.cleverboxes.com,318,LCD with LED Backlight 16.7 Million Colour,16:09,5.0ms,24in
+ENTITY#032,www.itenergy.co.uk,392,LCD Monitor,16:09,5 ms,61 cm (24\
+ENTITY#032,www.kingsfieldcomputers.co.uk,507,LCD Monitor,16:09,5 ms,61 cm (24\
+ENTITY#032,www.imldirect.it,550,LCD Monitor,16:09,5 ms,61 cm (24\
+ENTITY#032,www.jrlinton.co.uk,585,"Brilliance LCD Monitor, LED Backlight with PowerSensor",16:09,5 ms,61 cm (24\
+ENTITY#032,www.ohc24.ch,654,Philips Brilliance B-line 241B4LPYCB - LED monitor - 24\,Widescreen - 16:9,5 ms,
+ENTITY#032,www.imldirect.it,856,LCD Monitor,16:09,5 ms,61 cm (24\
+ENTITY#032,www.jrlinton.co.uk,981,"LCD Monitor, LED Backlight with PowerSensor",16:09,5 ms,61 cm (24\
+ENTITY#032,www.ebay.com,19695,,16:9 16:9 16:9 16:9,5 ms 5 ms,24\
+ENTITY#033,www.ohc24.ch,100,Philips Brilliance 242G5DJEB - LED monitor - 24\,Widescreen - 16:9,5 ms (typical); 1 ms (grey-to-grey),
+ENTITY#033,www.xpcpro.com,134,,16:09,5 ms,
+ENTITY#033,www.planet-computer.it,204,LED,16:09,5 ms,61 cm
+ENTITY#033,www.cleverboxes.com,230,TFT LCD 16.7 Million Colour,16:09,5ms,24in (Diagonal)
+ENTITY#033,www.kingsfieldcomputers.co.uk,334,LCD Monitor,16:09,1 ms,61 cm (24\
+ENTITY#033,www.imldirect.it,462,LCD Monitor,16:09,1 ms,61 cm (24\
+ENTITY#033,ca.pcpartpicker.com,534,,16:09,5 ms,24\
+ENTITY#033,www.makingbuyingeasy.co.uk,557,TN+Film,16:09,5 ms,61 cm
+ENTITY#033,www.jrlinton.co.uk,619,Brilliance LCD Monitor with SmartImage Game 242G5DJEB 144Hz 24\,16:09,1 ms,61 cm (24\
+ENTITY#033,www.softwarecity.ca,5730,LCD Monitor,16:09,5 ms,24\
+ENTITY#033,www.ebay.com,20045,,16:09,5 ms,24\
+ENTITY#034,www.cleverboxes.com,185,TFT LCD 16.7 Million Colour,16:09,5ms,24in (Diagonal)
+ENTITY#034,www.planet-computer.it,203,LED,16:09,5 ms,61 cm
+ENTITY#034,www.itenergy.co.uk,234,LCD Monitor,16:09,5 ms,61 cm (24\
+ENTITY#034,www.getprice.com.au,257,LCD,,5 ms,
+ENTITY#034,www.xpcpro.com,271,LED,16:09,5 ms,24 \
+ENTITY#034,www.makingbuyingeasy.co.uk,567,LED,16:09,5 ms,61 cm
+ENTITY#034,ca.pcpartpicker.com,625,,16:09,5 ms,24\
+ENTITY#034,www.imldirect.it,769,LCD Monitor,16:09,5 ms,61 cm (24\
+ENTITY#034,ce.yikus.com,1364,,: 1.78:1,,: 24in L X 17.4in W X 5.1in H
+ENTITY#034,www.jrlinton.co.uk,1882,LCD Monitor with SmartControl Lite,16:09,5 ms,61 cm (24\
+ENTITY#034,www.softwarecity.ca,5871,LCD Monitor,16:09,5 ms,24\
+ENTITY#035,www.xpcpro.com,67,IPS,16:09,5 ms,23.8 \
+ENTITY#035,www.hardware-planet.it,200,LED,16:09,5 ms,"60,45 cm (23.8\"
+ENTITY#035,www.makingbuyingeasy.co.uk,207,IPS,16:09,5 ms,60.45 cm (23.8\
+ENTITY#035,www.imldirect.it,301,LCD Monitor,16:09,5 ms,61 cm (24\
+ENTITY#035,www.getprice.com.au,311,LCD,,5 ms,
+ENTITY#035,ca.pcpartpicker.com,322,,16:09,5 ms,23.8\
+ENTITY#035,www.ohc24.ch,377,LG 24MB35PY-B - LED monitor - 23.8\,Widescreen - 16:9,5 ms (grey-to-grey),
+ENTITY#035,www.kingsfieldcomputers.co.uk,777,LCD Monitor,16:09,5 ms,61 cm (24\
+ENTITY#035,www.jrlinton.co.uk,1074,24MB35PY-B Widescreen LCD Monitor,16:09,5 ms,61 cm (24\
+ENTITY#036,www.planet-computer.it,55,LCD,21:09,5 ms,"63,5 cm"
+ENTITY#036,www.xpcpro.com,155,IPS,21:09,5 ms,63.5 cm
+ENTITY#036,www.kingsfieldcomputers.co.uk,167,LCD Monitor,21:09,5 ms,63.5 cm (25\
+ENTITY#036,www.itenergy.co.uk,217,LCD Monitor,21:09,5 ms,63.5 cm (25\
+ENTITY#036,www.pc-canada.com,384,LCD Monitor,21:09,5 ms,25\
+ENTITY#036,www.imldirect.it,431,LCD Monitor,21:09,5 ms,63.5 cm (25\
+ENTITY#036,www.makingbuyingeasy.co.uk,559,IPS,21:09,5 ms,63.5 cm
+ENTITY#036,www.jrlinton.co.uk,1072,25UM65-P Widescreen LCD Monitor,21:09,5 ms,63.5 cm (25\
+ENTITY#036,www.softwarecity.ca,5446,LCD Monitor,21:09,5 ms,25\
+ENTITY#037,www.getprice.com.au,149,LCD,,12 ms,
+ENTITY#037,www.planet-computer.it,244,LCD,16:09,12 ms,68.6 cm
+ENTITY#037,www.xpcpro.com,253,A-MVA,16:09,12 ms,27 \
+ENTITY#037,www.cleverboxes.com,320,A-MVA 16.7 Million Colour,16:09,12ms,27in (Diagonal)
+ENTITY#037,www.makingbuyingeasy.co.uk,538,A-MVA,16:09,12 ms,68.6 cm
+ENTITY#037,www.imldirect.it,656,LCD Monitor,16:09,6 ms,68.6 cm (27\
+ENTITY#037,www.itenergy.co.uk,794,LCD Monitor,16:09,6 ms,68.6 cm (27\
+ENTITY#037,www.jrlinton.co.uk,959,Brilliance AMVA LCD Monitor LED Backlight with Webcam,16:09,6 ms,68.6 cm (27\
+ENTITY#037,www.jrlinton.co.uk,1623,271P4QPJKEB Widescreen LCD Monitor,16:09,6 ms,68.6 cm (27\
+ENTITY#038,www.ohc24.ch,83,Philips Brilliance C272P4QPKEW - LED monitor - 27\,Widescreen - 16:9,12 ms,
+ENTITY#038,www.ohc24.ch,316,Philips Brilliance 272P4QPJKEB - LED monitor - 27\,Widescreen - 16:9,12 ms (typical); 6 ms (grey-to-grey),
+ENTITY#038,www.itenergy.co.uk,727,LCD Monitor,16:09,6 ms,68.6 cm (27\
+ENTITY#038,www.jrlinton.co.uk,1855,272P4QPJKEB Widescreen LCD Monitor,16:09,6 ms,68.6 cm (27\
+ENTITY#039,www.cleverboxes.com,111,LCD Monitor,16:09,5 ms,
+ENTITY#039,www.mrhightech.com,125,LED,16:09,3.5 ms,68.6 cm
+ENTITY#039,www.planet-computer.it,160,LED,16:09,3.5 ms,68.6 cm
+ENTITY#039,www.imldirect.it,167,LCD Monitor,16:09,5 ms,68.6 cm (27\
+ENTITY#039,www.mediashopuk.com,173,LED,16:09,3.5 ms,68.6 cm
+ENTITY#039,www.xpcpro.com,185,,,4 ms,
+ENTITY#039,www.itenergy.co.uk,439,LCD Monitor,16:09,3.50 ms,68.6 cm (27\
+ENTITY#039,www.makingbuyingeasy.co.uk,486,LED,16:09,3.5 ms,68.6 cm
+ENTITY#039,www.kingsfieldcomputers.co.uk,676,LCD Monitor,16:09,5 ms,68.6 cm (27\
+ENTITY#039,www.itenergy.co.uk,725,LCD Monitor,16:09,5 ms,68.6 cm (27\
+ENTITY#039,www.jrlinton.co.uk,876,273E3LSB Widescreen LCD Monitor,16:09,3.50 ms,68.6 cm (27\
+ENTITY#039,www.jrlinton.co.uk,1899,273E3LHSB Widescreen LCD Monitor,16:09,5 ms,68.6 cm (27\
+ENTITY#040,www.mediashopuk.com,1,LCD/TFT,16:09,5 ms,68.6 cm
+ENTITY#040,www.cleverboxes.com,14,TFT LCD 16.7 Million Colour,16:09,5ms,27in (Diagonal)
+ENTITY#040,www.mrhightech.com,55,LCD/TFT,16:09,5 ms,68.6 cm
+ENTITY#040,www.planet-computer.it,130,LED,16:09,5 ms,68.6 cm
+ENTITY#040,www.getprice.com.au,381,LED,,5 ms,
+ENTITY#040,www.makingbuyingeasy.co.uk,405,LCD/TFT,16:09,5 ms,68.6 cm
+ENTITY#040,www.itenergy.co.uk,505,LCD Monitor,16:09,5 ms,68.6 cm (27\
+ENTITY#040,www.kingsfieldcomputers.co.uk,707,LCD Monitor,16:09,5 ms,68.6 cm (27\
+ENTITY#040,www.imldirect.it,888,LCD Monitor,16:09,5 ms,68.6 cm (27\
+ENTITY#040,www.jrlinton.co.uk,1856,LCD Monitor With SmartControl Lite,16:09,5 ms,68.6 cm (27\
+ENTITY#041,www.makingbuyingeasy.co.uk,47,LCD/TFT,16:09,5 ms,68.6 cm
+ENTITY#041,www.mrhightech.com,62,LCD/TFT,16:09,5 ms,68.6 cm
+ENTITY#041,www.mediashopuk.com,85,LCD/TFT,16:09,5 ms,68.6 cm
+ENTITY#041,www.cleverboxes.com,124,TFT LCD 16.7 Million Colour,16:09,5ms,27in (Diagonal)
+ENTITY#041,www.imldirect.it,135,LCD Monitor,16:09,5 ms,68.6 cm (27\
+ENTITY#041,www.planet-computer.it,224,LED,16:09,5 ms,68.6 cm
+ENTITY#041,www.xpcpro.com,234,LCD/TFT,16:09,5 ms,68.6 cm
+ENTITY#041,www.kingsfieldcomputers.co.uk,296,LCD Monitor,16:09,5 ms,68.6 cm (27\
+ENTITY#041,www.itenergy.co.uk,464,LCD Monitor,16:09,5 ms,68.6 cm (27\
+ENTITY#041,www.jrlinton.co.uk,701,LCD Monitor with SmartControl Lite,16:09,5 ms,68.6 cm (27\
+ENTITY#041,www.softwarecity.ca,5669,LCD Monitor,16:09,5 ms,27\
+ENTITY#042,www.kingsfieldcomputers.co.uk,24,LCD Monitor,16:09,6 ms,68.6 cm (27\
+ENTITY#042,www.mrhightech.com,82,IPS,16:09,5 ms,68.58 cm
+ENTITY#042,www.hardware-planet.it,165,LED,16:09,5 ms,68.58 cm 685.8 mm (27 \
+ENTITY#042,www.mediashopuk.com,169,IPS,16:09,5 ms,68.58 cm
+ENTITY#042,www.imldirect.it,189,LCD Monitor,16:09,5 ms,68.6 cm (27\
+ENTITY#042,www.imldirect.it,391,LCD Monitor,16:09,6 ms,68.6 cm (27\
+ENTITY#042,www.jrlinton.co.uk,461,27EA83-D Widescreen LCD Monitor,16:09,6 ms,68.6 cm (27\
+ENTITY#042,www.jrlinton.co.uk,650,27EA83-D Widescreen LCD Monitor,16:09,5 ms,68.6 cm (27\
+ENTITY#042,www.itenergy.co.uk,655,LCD Monitor,16:09,6 ms,68.6 cm (27\
+ENTITY#042,www.jrlinton.co.uk,1025,27EA83-D Widescreen LCD Monitor,16:09,6 ms,68.6 cm (27\
+ENTITY#042,www.jrlinton.co.uk,1050,27EA83-D Widescreen LCD Monitor,16:09,5 ms,68.6 cm (27\
+ENTITY#043,www.planet-computer.it,17,LED,16:09,7 ms,"68,58 cm (27\"
+ENTITY#043,ca.pcpartpicker.com,25,,16:09,7 ms,27\
+ENTITY#043,www.officedepot.com,134,LCD Monitor,16:09,7 ms,27\
+ENTITY#043,www.ebay.com,10062,,16:9 16:9 16:9,7 ms 7 ms,27\
+ENTITY#043,www.ebay.com,11464,LED LCD,16:09,7 ms,27\
+ENTITY#043,www.ebay.com,14690,LED LCD,,,27\
+ENTITY#043,www.ebay.com,15390,LED LCD,16:09,7 ms,27\
+ENTITY#043,www.ebay.com,15418,LED LCD,16:09,7 ms,27\
+ENTITY#043,www.ebay.com,22722,LED LCD,16:09,7 ms,27\
+ENTITY#044,www.makingbuyingeasy.co.uk,6,IPS,21:09,5 ms,73 cm
+ENTITY#044,www.planet-computer.it,156,LED,21:09,5 ms,73 cm
+ENTITY#044,www.getprice.com.au,225,LCD,,14 ms,
+ENTITY#044,www.imldirect.it,476,LCD Monitor,22:09,7 ms,73.7 cm (29\
+ENTITY#044,www.itenergy.co.uk,675,LCD Monitor,22:09,7 ms,73.7 cm (29\
+ENTITY#044,ca.pcpartpicker.com,706,,21:09,5 ms,29\
+ENTITY#044,www.kingsfieldcomputers.co.uk,735,LCD Monitor,22:09,7 ms,73.7 cm (29\
+ENTITY#044,ce.yikus.com,743,,: Unknown,,: 30.5in L X 7in W X 20in H
+ENTITY#044,www.jrlinton.co.uk,1876,298P4QJEB Widescreen LCD Monitor,22:09,7 ms,73.7 cm (29\
+ENTITY#044,www.softwarecity.ca,5804,LCD Monitor,21:09,14 ms,29\
+ENTITY#044,www.ebay.com,19363,,Widescreen - 21:9,14 ms (typical); 5 ms (grey-to-grey),
+ENTITY#045,www.cleverboxes.com,9,AH-IPS 16.7 Million Colour,21:09,14ms,29in
+ENTITY#045,www.planet-computer.it,28,LCD,21:09,14 ms,73 cm
+ENTITY#045,www.kingsfieldcomputers.co.uk,206,LCD Monitor,21:09,5 ms,73.7 cm (29\
+ENTITY#045,www.imldirect.it,220,LCD Monitor,21:09,5 ms,73.7 cm (29\
+ENTITY#045,www.getprice.com.au,356,LCD,,5 ms,
+ENTITY#045,www.jrlinton.co.uk,395,Brilliance LCD Monitor with MultiView,21:09,5 ms,73.7 cm (29\
+ENTITY#045,ca.pcpartpicker.com,430,,21:09,5 ms,29\
+ENTITY#045,www.softwarecity.ca,5842,LCD Monitor,21:09,14 ms,29\
+ENTITY#045,www.ebay.com,23328,LCD,,5 ms,29\
+ENTITY#046,www.kingsfieldcomputers.co.uk,2,LCD Monitor,21:09,5 ms,73.7 cm (29\
+ENTITY#046,www.itenergy.co.uk,194,LCD Monitor,21:09,5 ms,73.7 cm (29\
+ENTITY#046,www.getprice.com.au,241,LED,,No info,
+ENTITY#046,www.hardware-planet.it,270,LED,21:09,14 ms,"73,66 cm (29\"
+ENTITY#046,www.imldirect.it,529,LCD Monitor,21:09,5 ms,73.7 cm (29\
+ENTITY#046,ca.pcpartpicker.com,611,,21:09,5 ms,29\
+ENTITY#046,www.jrlinton.co.uk,823,29UB65-P Widescreen LCD Monitor,21:09,5 ms,73.7 cm (29\
+ENTITY#046,www.pcconnection.com,2880,,,,29 in
+ENTITY#047,www.best-deal-items.com,889,,,,
+ENTITY#047,www.best-deal-items.com,889,,,,
+ENTITY#048,www.getprice.com.au,195,LCD,,9 ms,
+ENTITY#048,www.getprice.com.au,198,LCD,,12 ms,
+ENTITY#048,www.getprice.com.au,298,LCD,,9 ms,
+ENTITY#048,www.getprice.com.au,304,LCD,,9 ms,
+ENTITY#048,www.getprice.com.au,306,LCD,,9 ms,
+ENTITY#048,www.getprice.com.au,347,LCD,,9 ms,
+ENTITY#048,www.getprice.com.au,376,LCD,,9 ms,
+ENTITY#050,www.cleverboxes.com,113,IPS LED 16.7 Million Colour,16:09,5ms,27in (Diagonal)
+ENTITY#050,www.imldirect.it,155,LCD Monitor,16:09,7 ms,68.6 cm (27\
+ENTITY#050,www.planet-computer.it,165,LCD,16:09,7 ms,"68,6 cm"
+ENTITY#050,www.getprice.com.au,249,LCD,,5 ms,
+ENTITY#050,www.xpcpro.com,296,IPS,16:09,7 ms,68.6 cm 27 \
+ENTITY#050,www.kingsfieldcomputers.co.uk,637,LCD Monitor,16:09,7 ms,68.6 cm (27\
+ENTITY#050,www.itenergy.co.uk,739,LCD Monitor,16:09,7 ms,68.6 cm (27\
+ENTITY#050,www.jrlinton.co.uk,1716,Brilliance LCD Monitor with Ambiglow,16:09,7 ms,68.6 cm (27\
+ENTITY#050,www.ebay.com,22284,LCD,5:04,8 ms,17\
+ENTITY#052,www.ebay.com,10881,LCD,5:04,8 ms,17\
+ENTITY#052,www.ebay.com,11384,LCD,5:04,,
+ENTITY#052,www.ebay.com,16788,LCD,,,17\
+ENTITY#052,www.ebay.com,19077,LCD,5:04,8 ms,17\
+ENTITY#052,www.ebay.com,20289,LCD,5:04,8 ms,17
+ENTITY#052,www.ebay.com,21369,LCD,5:04,8 ms,17\
+ENTITY#052,www.ebay.com,23725,LCD,5:04,5ms/8ms,17\
+ENTITY#054,www.best-deal-items.com,1419,,,,
+ENTITY#054,www.ebay.com,15640,LCD,5:04,8 ms,17\
+ENTITY#054,www.ebay.com,16653,LCD,5:04,8 ms,17\
+ENTITY#054,www.ebay.com,18894,LCD,5:04,8 ms,17\
+ENTITY#054,www.ebay.com,19423,LCD,5:04,8 ms,17\
+ENTITY#054,www.ebay.com,20191,LCD,5:04,8 ms,17\
+ENTITY#054,www.ebay.com,22524,LCD,5:04,8 ms,17\
+ENTITY#054,www.ebay.com,22929,LCD,5:04,8 ms,17\
+ENTITY#054,www.ebay.com,23008,LCD,5:04,8 ms,17\
+ENTITY#054,www.ebay.com,23531,LCD,5:04,8 ms,17\
+ENTITY#055,catalog.com,289,LED LCD,16:10,,
+ENTITY#055,www.pcconnection.com,399,LED-backlit LCD,,14 ms,24 in
+ENTITY#055,www.softwarecity.ca,5439,LCD Monitor,16:10,14 ms,24\
+ENTITY#055,www.ebay.com,19006,LED LCD,16:10,24 ms,24\
+ENTITY#055,www.ebay.com,21404,LED LCD,16:09,,
+ENTITY#055,www.ebay.com,21660,LED LCD,16:10,24 ms,24\
+ENTITY#056,www.ebay.com,9379,LCD,"16:10, 16:9",16 ms,20\
+ENTITY#056,www.ebay.com,9382,LCD,16:09,16 ms,20\
+ENTITY#056,www.ebay.com,15546,LCD,"16:10, 16:9",16 ms,20\
+ENTITY#056,www.ebay.com,18885,LCD,,,20\
+ENTITY#056,www.ebay.com,19232,LCD,"16:10, 16:9",16 ms,20\
+ENTITY#056,www.ebay.com,19591,LCD,"16:10, 16:9",16 ms,20
+ENTITY#056,www.ebay.com,20682,LCD,"16:10, 16:9",16 ms,20\
+ENTITY#056,www.ebay.com,21107,LCD,16:10,14 ms,20\
+ENTITY#056,www.ebay.com,21602,LCD,16:09,16 ms,20\
+ENTITY#056,www.ebay.com,22948,LCD,"16:10, 16:9",16 ms,20\
+ENTITY#057,www.ebay.com,9779,LCD,16:10,14 ms,23\
+ENTITY#057,www.ebay.com,11386,LCD,16:10,14 ms,23\
+ENTITY#057,www.ebay.com,11653,LCD,16:10,14 ms,23\
+ENTITY#057,www.ebay.com,14807,LCD,16:10,14 ms,23\
+ENTITY#057,www.ebay.com,14918,LCD,16:10,14 ms,23\
+ENTITY#057,www.ebay.com,15669,,,,
+ENTITY#057,www.ebay.com,15888,LCD,16:10,14 ms,23\
+ENTITY#057,www.ebay.com,16280,LCD,,,23\
+ENTITY#057,www.ebay.com,16408,LCD,16:10,14 ms,23\
+ENTITY#057,www.ebay.com,17030,LCD,16:10,14 ms,23\
+ENTITY#057,www.ebay.com,17072,LCD,16:10,14 ms,23\
+ENTITY#057,www.ebay.com,18920,LCD,16:10,14 ms,23\
+ENTITY#057,www.ebay.com,19440,LCD,16:10,14 ms,23\
+ENTITY#057,www.ebay.com,19844,LCD,16:10,14 ms,23\
+ENTITY#057,www.ebay.com,20855,LCD,16:10,14 ms,23\
+ENTITY#057,www.ebay.com,21994,LCD,,,23\
+ENTITY#057,www.ebay.com,22449,LCD,,,23\
+ENTITY#057,www.ebay.com,22640,LCD,,,23\
+ENTITY#057,www.ebay.com,23156,LCD,"16:10, 16:9",16 ms,23\
+ENTITY#058,www.best-deal-items.com,2315,,5:04,,
+ENTITY#058,www.best-deal-items.com,2614,,,,
+ENTITY#058,www.ebay.com,16669,LCD,,,17\
+ENTITY#058,www.ebay.com,18591,LCD,5:04,12 ms,17\
+ENTITY#058,www.ebay.com,22564,LCD,5:04,5 ms,17\
+ENTITY#058,www.ebay.com,22743,,5:04,5 ms,17
+ENTITY#059,www.best-deal-items.com,655,,,,
+ENTITY#059,www.best-deal-items.com,897,,,,
+ENTITY#059,www.best-deal-items.com,2333,,,,
+ENTITY#059,www.ebay.com,9354,LCD,,,17\
+ENTITY#060,www.best-deal-items.com,47,,,,
+ENTITY#060,www.nexus-t.co.uk,65,TN,5:04,5ms,17\u00c2\u0094
+ENTITY#060,www.makingbuyingeasy.co.uk,72,LED,5:04,5 ms,43.18 cm (17\
+ENTITY#062,www.xpcpro.com,73,IPS,16:10,14 ms,61 cm
+ENTITY#062,www.getprice.com.au,167,LCD,,14 ms,
+ENTITY#062,www.ohc24.ch,183,Philips Brilliance C240P4QPYEW - LED monitor - 24\,Widescreen - 16:10,14 ms,
+ENTITY#062,www.planet-computer.it,201,LED,16:10,14 ms,61 cm
+ENTITY#062,www.makingbuyingeasy.co.uk,232,IPS,16:10,14 ms,61 cm
+ENTITY#062,www.cleverboxes.com,245,IPS TFT LCD 16.7 Million Colour,16:10,14ms,24in (Diagonal)
+ENTITY#062,www.pc-canada.com,347,LCD Monitor,16:10,14 ms,24\
+ENTITY#062,www.imldirect.it,464,LCD Monitor,16:10,14 ms,61 cm (24\
+ENTITY#062,www.jrlinton.co.uk,600,Brilliance LCD Monitor With Clinical D-image,16:10,14 ms,61 cm (24\
+ENTITY#062,www.kingsfieldcomputers.co.uk,764,LCD Monitor,16:10,14 ms,61 cm (24\
+ENTITY#062,www.softwarecity.ca,5801,LCD Monitor,16:10,14 ms,24\
+ENTITY#066,catalog.com,327,LED,16:09,,
+ENTITY#066,www.pcconnection.com,3219,LED-backlit LCD,,16 ms,15.6 in
+ENTITY#066,www.softwarecity.ca,5442,LCD Monitor,16:09,16 ms,16\
+ENTITY#066,www.ebay.com,14362,LED LCD,16:09,16 ms,15.6\
+ENTITY#066,www.ebay.com,16736,LED LCD,16:09,16 ms,15.6\
+ENTITY#066,www.ebay.com,18576,LED LCD,16:09,16 ms,15.6\
+ENTITY#066,www.ebay.com,18983,LED LCD,,,16\
+ENTITY#066,www.ebay.com,19247,,16:09,,
+ENTITY#066,www.ebay.com,20618,LED LCD,16:09,16 ms,15.6\
+ENTITY#066,www.ebay.com,22500,LCD,,,16\
+ENTITY#066,www.ebay.com,22572,LED LCD,16:09,16 ms,15.6\
+ENTITY#066,www.ebay.com,22907,LED LCD,,,16\
+ENTITY#066,www.ebay.com,23056,,16:09,16 ms,16\
+ENTITY#067,www.ebay.com,11998,LCD,5:04,25 ms,17\
+ENTITY#067,www.ebay.com,18724,LCD,5:04,25 ms,17\
+ENTITY#067,www.ebay.com,21134,LCD,5:04,25 ms,17\
+ENTITY#067,www.ebay.com,21645,LCD,5:04,25 ms,17\
+ENTITY#067,www.ebay.com,21854,LCD,5:04,25 ms,17\
+ENTITY#067,www.ebay.com,23158,LCD,,,17
+ENTITY#068,www.makingbuyingeasy.co.uk,68,TN,5:04,5 ms,43.18 cm (17\
+ENTITY#068,www.odsi.co.uk,114,LED-backlit LCD monitor / TFT active matrix,5:4 5:4,5 ms 5 ms,17\
+ENTITY#068,www.xpcpro.com,162,TN,5:04,5 ms,17 \
+ENTITY#068,www.odsi.co.uk,194,LED-backlit LCD monitor / TFT active matrix,5:4 5:4,5 ms 5 ms,17\
+ENTITY#068,www.makingbuyingeasy.co.uk,216,TN,5:04,5 ms,43.18 cm (17\
+ENTITY#068,www.xpcpro.com,242,TN,5:04,5 ms,17 \
+ENTITY#068,www.best-deal-items.com,637,,5:04,,
+ENTITY#068,www.best-deal-items.com,878,,5:04,,
+ENTITY#069,www.ebay.com,11563,LCD,5:04,16 ms,17\
+ENTITY#069,www.ebay.com,18212,LCD,,,17\
+ENTITY#069,www.ebay.com,21421,LCD,5:04,16 ms,17\
+ENTITY#069,www.ebay.com,22727,LCD,5:04,16 ms,17\
+ENTITY#070,www.best-deal-items.com,230,,,,
+ENTITY#070,www.best-deal-items.com,232,,5:04,,
+ENTITY#070,www.best-deal-items.com,2783,,5:04,,
+ENTITY#070,www.ebay.com,18638,LCD,5:04,5 ms,17\
+ENTITY#070,www.ebay.com,21736,LCD,5:04,5 ms,17\
+ENTITY#070,www.ebay.com,22840,LCD,5:04,16 ms,17\
+ENTITY#070,www.ebay.com,23574,LCD,5:04,5 ms,17
+ENTITY#070,www.ebay.com,23697,LCD,5:04,5 ms,17\
+ENTITY#070,www.ebay.com,23705,LCD,5:04,16 ms,17\
+ENTITY#072,www.ebay.com,16912,LCD,5:04,12 ms,17\
+ENTITY#072,www.ebay.com,17055,"Flat Panel LCD TFT (Active Matrix), LCD",5:04,12 ms,17\
+ENTITY#072,www.ebay.com,20706,"Flat Panel LCD TFT (Active Matrix), LCD",5:04,12 ms,17\
+ENTITY#072,www.ebay.com,22040,LCD,5:04,12 ms,17\
+ENTITY#073,www.ebay.com,11844,LCD,17:06,,17\
+ENTITY#073,www.ebay.com,19489,LCD,17:06,,17\
+ENTITY#073,www.ebay.com,20100,LCD,17:06,,17\
+ENTITY#073,www.ebay.com,21425,LCD,17:06,,17\
+ENTITY#073,www.ebay.com,21540,LCD,17:06,,17\
+ENTITY#073,www.ebay.com,23039,LCD,17:06,12 ms,17\
+ENTITY#075,www.ebay.com,14813,,,5 ms,17\
+ENTITY#075,www.ebay.com,14813,,,,
+ENTITY#075,www.ebay.com,18069,LCD,,5 ms,17\
+ENTITY#075,www.ebay.com,18069,,,,
+ENTITY#075,www.ebay.com,19080,LCD,4:03,,17\
+ENTITY#075,www.ebay.com,19080,,,,
+ENTITY#075,www.ebay.com,21328,LCD,,5 ms,17\
+ENTITY#075,www.ebay.com,21328,,,,
+ENTITY#075,www.ebay.com,23633,LCD,5:04,5 ms,17\
+ENTITY#076,www.pc-canada.com,353,LCD Monitor,5:04,,18.9\
+ENTITY#076,ca.pcpartpicker.com,400,,5:04,,18.9\
+ENTITY#076,www.vology.com,2423,LED-backlit LCD monitor / TFT active matrix,5:4 5:4,14 ms (gray-to-gray) 14 ms (gray-to-gray),18.9\
+ENTITY#076,www.vology.com,2447,LED-backlit LCD monitor / TFT active matrix,5:4 5:4,14 ms (gray-to-gray) 14 ms (gray-to-gray),18.9\
+ENTITY#077,www.makingbuyingeasy.co.uk,252,TN+Film,5:04,5 ms,48.3 cm
+ENTITY#077,www.cleverboxes.com,524,TN (Twisted nematic) Widescreen 16.7 Million Colour,5:04,5ms,19in
+ENTITY#077,catalog.com,603,LED LCD,5:04,,
+ENTITY#077,www.vology.com,2329,LED-backlit LCD monitor / TFT active matrix,5:4 5:4,5 ms 5 ms,19\
+ENTITY#077,www.best-deal-items.com,2354,,,,
+ENTITY#077,www.ebay.com,19898,LED LCD,5:04,5 ms,19\
+ENTITY#077,www.ebay.com,20240,LED LCD,5:04,5 ms,19\
+ENTITY#077,www.ebay.com,20972,LED LCD,5:04,5 ms,19\
+ENTITY#077,www.ebay.com,21726,,5:04,5 ms,19\
+ENTITY#078,www.pcconnection.com,79,LCD LED-backlit,,5 ms,20 in
+ENTITY#078,www.makingbuyingeasy.co.uk,383,LED,16:09,5 ms,50.8 cm
+ENTITY#078,www.makingbuyingeasy.co.uk,507,LCD,16:09,5 ms,50.8 cm
+ENTITY#078,www.softwarecity.ca,1596,LCD Monitor,16:09,5 ms,20\
+ENTITY#078,www.vology.com,2442,LED-backlit LCD monitor / TFT active matrix,Widescreen - 16:9 Widescreen - 16:9,5 ms 5 ms,20.0\
+ENTITY#078,www.softwarecity.ca,5727,LCD Monitor,16:09,5 ms,20\
+ENTITY#078,www.ebay.com,10903,LED LCD,16:09,16 ms,20\
+ENTITY#078,www.ebay.com,18869,,,,
+ENTITY#078,www.ebay.com,19931,LED LCD,16:09,14 ms,23\
+ENTITY#078,www.ebay.com,21008,,16:09,16 ms,20\
+ENTITY#079,www.makingbuyingeasy.co.uk,85,TN+Film,16:09,5 ms,49.4 cm
+ENTITY#079,ca.pcpartpicker.com,264,,16:09,5 ms,19.5\
+ENTITY#079,www.cleverboxes.com,281,Widescreen TN (Twisted Nematic) 16.7 Million Colour,16:09,5ms,20in Viewable screen size - 19.5in Display Area - 43.2 x 23.98cm
+ENTITY#079,www.getprice.com.au,394,LED,,5 ms,
+ENTITY#079,www.shopmania.com,660,LED,16:09,5 ms,19.4 inch
+ENTITY#079,www.vology.com,2257,LED-backlit LCD monitor / TFT active matrix,Widescreen - 16:9 Widescreen - 16:9,5 ms (black-to-white) 5 ms (black-to-white),19.5\
+ENTITY#079,www.ebay.com,19230,LED,,,19.5\
+ENTITY#079,www.ebay.com,19880,LED LCD,16:09,,19.5\
+ENTITY#079,www.ebay.com,20181,,16:09,5 ms,
+ENTITY#079,www.ebay.com,21775,LED LCD,16:09,5 ms,20\
+ENTITY#079,www.ebay.com,22962,LED LCD,,,
+ENTITY#079,www.ebay.com,23688,LED LCD,16:09,,19.5\
+ENTITY#080,www.hardware-planet.it,8,LED,16:09,5 ms,49.53 cm 495.3 mm (19.5 \
+ENTITY#080,www.makingbuyingeasy.co.uk,79,TN+Film,16:09,5 ms,49.53 cm
+ENTITY#080,www.mrhightech.com,118,TN+Film,16:09,5 ms,49.53 cm
+ENTITY#080,www.mediashopuk.com,164,TN+Film,16:09,5 ms,49.53 cm
+ENTITY#080,www.ohc24.ch,278,Iiyama ProLite E2083HSD-1 - LED monitor - 20\,Widescreen - 16:9,5 ms,
+ENTITY#080,www.xpcpro.com,282,,,5 ms,
+ENTITY#080,www.makingbuyingeasy.co.uk,385,TN+Film,16:09,5 ms,49.53 cm
+ENTITY#080,www.imldirect.it,606,LCD Monitor,16:09,5 ms,49.5 cm (19.5\
+ENTITY#080,www.kingsfieldcomputers.co.uk,693,LCD Monitor,16:09,5 ms,50.8 cm (20\
+ENTITY#080,www.itenergy.co.uk,700,LCD Monitor,16:09,5 ms,49.5 cm (19.5\
+ENTITY#081,ca.pcpartpicker.com,44,,16:09,7 ms,21.5\
+ENTITY#081,www.pc-canada.com,324,LCD Monitor,16:09,7 ms,21.5\
+ENTITY#081,ca.pcpartpicker.com,537,,16:09,7 ms,21.5\
+ENTITY#081,www.vology.com,2485,LED-backlit LCD monitor / TFT active matrix,Widescreen Widescreen,7 ms (gray-to-gray) 7 ms (gray-to-gray),21.5\
+ENTITY#081,www.vology.com,2668,LED-backlit LCD monitor / TFT active matrix,Widescreen - 16:9 Widescreen - 16:9,5 ms (typical); 7 ms (gray-to-gray) 5 ms (typical); 7 ms (gray-to-gray),21.5\
+ENTITY#082,www.xpcpro.com,11,TNFilm,16:10,5 ms,55.87 cm 22 \
+ENTITY#082,www.xpcpro.com,95,TNFilm,16:10,5 ms,55.87 cm
+ENTITY#082,www.odsi.co.uk,134,LED-backlit LCD monitor / TFT active matrix,Widescreen - 16:9 Widescreen - 16:9,6 ms (grey-to-grey) 6 ms (grey-to-grey),21.5\
+ENTITY#082,www.mediashopuk.com,137,TN+Film,16:10,5 ms,55.87 cm
+ENTITY#082,www.mrhightech.com,139,TN+Film,16:10,5 ms,55.87 cm
+ENTITY#082,www.officedepot.com,173,LCD Monitor,16:10,5 ms,22\
+ENTITY#082,www.cleverboxes.com,212,TN TFT 16.7 Million Colour,16:10,5ms,22in (Diagonal)
+ENTITY#082,www.cleverboxes.com,249,TN TFT 16.7 Million Colour,16:10,5ms,22in (Diagonal)
+ENTITY#082,www.makingbuyingeasy.co.uk,392,TN+Film,16:10,5 ms,55.87 cm
+ENTITY#082,catalog.com,493,LED,16:10,,
+ENTITY#082,www.ebay.com,9711,,16:10,5 ms,
+ENTITY#082,www.ebay.com,21354,,16:10,5 ms,22\
+ENTITY#083,www.xpcpro.com,72,LED,16:10,5 ms,22 \
+ENTITY#083,www.kingsfieldcomputers.co.uk,229,LCD Monitor,16:09,5 ms,54.6 cm (21.5\
+ENTITY#083,www.officedepot.com,284,LCD Monitor,16:09,5 ms,21.5\
+ENTITY#083,www.pc-canada.com,286,LCD Monitor,16:09,5 ms,21.5\
+ENTITY#083,www.getprice.com.au,365,LED,,5 ms,
+ENTITY#083,www.imldirect.it,759,LCD Monitor,16:09,5 ms,54.6 cm (21.5\
+ENTITY#083,www.jrlinton.co.uk,916,LED Monitor - e2260Swda Professional 54.7cm (21.5\,16:09,5 ms,54.6 cm (21.5\
+ENTITY#083,www.jrlinton.co.uk,1057,LED Monitor - e2260Swda Professional 54.7cm (21.5\,16:09,5 ms,54.6 cm (21.5\
+ENTITY#083,www.softwarecity.ca,5425,LCD Monitor,16:09,5 ms,21.5\
+ENTITY#083,www.softwarecity.ca,5448,LCD Monitor,16:09,5 ms,22\
+ENTITY#083,www.ebay.com,15801,LED LCD,16:09,22 ms,
+ENTITY#083,www.ebay.com,16258,,,,
+ENTITY#083,www.ebay.com,16372,,16:09,5 ms,21.5\
+ENTITY#083,www.ebay.com,19835,LED LCD,16:09,22 ms,21.5\
+ENTITY#083,www.ebay.com,21057,LED LCD,16:09,22 ms,22\
+ENTITY#083,www.ebay.com,22347,LED LCD,16:09,22 ms,21.5\
+ENTITY#083,www.ebay.com,22898,,16:09,5 ms,
+ENTITY#084,www.odsi.co.uk,80,LED-backlit LCD monitor / TFT active matrix,Widescreen - 16:9 Widescreen - 16:9,5 ms 5 ms,23\
+ENTITY#084,www.xpcpro.com,133,TN+Film,Not specified,5 ms,58.4 cm (23 \
+ENTITY#084,www.makingbuyingeasy.co.uk,136,,16:09,5 ms,58.42 cm (23\
+ENTITY#084,www.cleverboxes.com,243,TN LED 16.7 million Colours,16:10,5ms,
+ENTITY#084,www.xpcpro.com,325,Not specified,16:10,5 ms,58.4 cm (23 \
+ENTITY#084,www.cleverboxes.com,378,TN LED 16.7 million Colours,16:10,5ms,
+ENTITY#084,www.softwarecity.ca,5749,LCD Monitor,16:09,5 ms,23\
+ENTITY#084,www.ebay.com,11924,LED LCD,16:09,5 ms,23\
+ENTITY#084,www.ebay.com,12284,LED LCD,16:09,5 ms,23\
+ENTITY#084,www.ebay.com,17009,LED LCD,16:09,5 ms,23\
+ENTITY#084,www.ebay.com,21548,,16:09,5 ms,23
+ENTITY#085,www.makingbuyingeasy.co.uk,20,TN+Film,16:09,5 ms,60.97 cm
+ENTITY#085,www.shopmania.com,25,LED,16:09,5 ms,24 inch (more than 74%)
+ENTITY#085,www.cleverboxes.com,46,TN (Twisted nematic) 16.7 Million Colour,16:09,5ms,"24in , 29.88cm x 53.13cm"
+ENTITY#085,www.getprice.com.au,158,LED,,5 ms,
+ENTITY#085,www.officedepot.com,180,,16:09,5 ms,24 inches
+ENTITY#085,www.ohc24.ch,509,Dell E2414H - LED monitor - 24\,Widescreen - 16:9,5 ms (black-to-white),
+ENTITY#085,ca.pcpartpicker.com,589,,16:09,5 ms,24\
+ENTITY#085,www.vology.com,2404,LED-backlit LCD monitor / TFT active matrix,Widescreen - 16:9 Widescreen - 16:9,5 ms (black-to-white) 5 ms (black-to-white),24\
+ENTITY#085,www.ebay.com,10013,LED LCD,16:09,5 ms,24\
+ENTITY#085,www.ebay.com,12103,LED LCD,16:09,5 ms,24\
+ENTITY#085,www.ebay.com,19529,LED LCD,16:09,5 ms,24\
+ENTITY#085,www.ebay.com,19922,LED LCD,16:09,5 ms,24\
+ENTITY#085,www.ebay.com,20709,LED LCD,16:09,5 ms,24\
+ENTITY#085,www.ebay.com,20910,LED LCD,,,
+ENTITY#085,www.ebay.com,22256,LED LCD,16:09,5 ms,24\
+ENTITY#085,www.ebay.com,23354,LED LCD,16:09,5 ms,24\
+ENTITY#085,www.ebay.com,23676,LED LCD,16:09,5 ms,24\
+ENTITY#086,www.makingbuyingeasy.co.uk,95,IPS,16:10,8 ms,61 cm
+ENTITY#086,www.getprice.com.au,244,LED,,8 ms,
+ENTITY#086,www.makingbuyingeasy.co.uk,460,IPS,16:10,8 ms,61 cm
+ENTITY#086,www.softwarecity.ca,1541,LCD Monitor,16:10,8 ms,24\
+ENTITY#086,www.softwarecity.ca,1579,LCD Monitor,16:10,8 ms,24\
+ENTITY#086,www.best-deal-items.com,2331,,,,
+ENTITY#086,www.best-deal-items.com,2589,,,,
+ENTITY#086,www.ebay.com,9426,,16:10,8 ms,
+ENTITY#086,www.ebay.com,21745,,16:10,8 ms,
+ENTITY#087,www.hardware-planet.it,87,LED,16:09,5 ms,"60,96 cm (24\"
+ENTITY#087,www.nexus-t.co.uk,105,TN,16:09,5ms,24\
+ENTITY#087,www.officedepot.com,139,LCD Monitor,,5 ms,24\
+ENTITY#087,www.planet-computer.it,223,LED,16:09,5 ms,"60,97 cm"
+ENTITY#087,www.getprice.com.au,227,LED,,5 ms,
+ENTITY#087,www.xpcpro.com,314,LED,16:09,5 ms,60.97 cm
+ENTITY#087,ce.yikus.com,533,,: 1.78:1,,: 24.4in L X 18.5in W X 5.1in H
+ENTITY#087,ca.pcpartpicker.com,660,,16:09,5 ms,24\
+ENTITY#087,www.jrlinton.co.uk,663,E2460SD 24 Inch LED Monitor,,5 ms,61 cm (24\
+ENTITY#087,www.jrlinton.co.uk,682,E2460SD 24 Inch LED Monitor,,5 ms,61 cm (24\
+ENTITY#087,www.imldirect.it,770,LCD Monitor,,5 ms,61 cm (24\
+ENTITY#087,www.pcconnection.com,2862,,,,24 in
+ENTITY#087,www.softwarecity.ca,5912,LCD Monitor,,5 ms,24\
+ENTITY#087,www.ebay.com,11985,,,5 ms,24\
+ENTITY#087,www.ebay.com,19992,LED LCD,16:09,5 ms,24\
+ENTITY#087,www.ebay.com,20037,LED LCD,16:09,,24\
+ENTITY#088,www.mrhightech.com,7,TN+Film,16:09,2 ms,60.96 cm
+ENTITY#088,www.mediashopuk.com,11,TN+Film,16:09,2 ms,60.96 cm
+ENTITY#088,www.kingsfieldcomputers.co.uk,93,LCD Monitor,16:09,2 ms,61 cm (24\
+ENTITY#088,www.hardware-planet.it,180,LED,16:09,2 ms,60.96 cm 609.6 mm (24 \
+ENTITY#088,www.makingbuyingeasy.co.uk,296,TN+Film,16:09,2 ms,60.96 cm
+ENTITY#088,www.cleverboxes.com,328,TFT LCD 16.7 million Colour,16:09,2ms,"24in (Diagonal) , 53.14cm (W) x 29.89cm (H)"
+ENTITY#088,www.ohc24.ch,647,Iiyama ProLite E2483HS-1 - LED monitor - 24\,Widescreen - 16:9,2 ms,
+ENTITY#088,www.imldirect.it,872,LCD Monitor,16:09,2 ms,61 cm (24\
+ENTITY#088,www.jrlinton.co.uk,1710,ProLite E2483HS - A Full HD LED Monitor with 2 ms Response Time,16:09,2 ms,61 cm (24\
+ENTITY#089,www.nexus-t.co.uk,5,LCD,5:04,5ms,17\
+ENTITY#089,www.xpcpro.com,104,LED,5:04,5 ms,43.2 cm
+ENTITY#089,www.hardware-planet.it,176,LED,5:04,5 ms,431.8 mm (17 \
+ENTITY#089,www.best-deal-items.com,237,,5:4 5:4,,
+ENTITY#089,www.planet-computer.it,280,LED,5:04,5 ms,43.2 cm
+ENTITY#089,www.makingbuyingeasy.co.uk,482,LED,5:04,5 ms,43.2 cm
+ENTITY#089,www.imldirect.it,586,LCD Monitor,5:04,5 ms,43.2 cm (17\
+ENTITY#089,www.jrlinton.co.uk,599,Pro e719Sda LCD Monitor,5:04,5 ms,43.2 cm (17\
+ENTITY#089,www.best-deal-items.com,608,,5:04,,
+ENTITY#090,www.mediashopuk.com,88,LED,5:04,5 ms,48.3 cm
+ENTITY#090,www.xpcpro.com,110,LED,5:04,5 ms,48.3 cm
+ENTITY#090,www.mrhightech.com,134,LED,5:04,5 ms,48.3 cm
+ENTITY#090,www.planet-computer.it,248,LED,5:04,5 ms,48.3 cm
+ENTITY#090,www.hardware-planet.it,285,LED,5:04,5 ms,482.6 mm (19 \
+ENTITY#090,ca.pcpartpicker.com,445,,5:04,5 ms,19\
+ENTITY#090,www.cleverboxes.com,477,16.7 Million Colour,5:04,5ms,19in Display Area - 37.6 x 30.1cm
+ENTITY#090,www.makingbuyingeasy.co.uk,566,LED,5:04,5 ms,48.3 cm
+ENTITY#090,www.jrlinton.co.uk,843,E960SRDA LCD Monitor,5:04,,48.3 cm (19\
+ENTITY#090,www.ebay.com,20657,,5:04,,
+ENTITY#090,www.ebay.com,21207,,5:04,,19\
+ENTITY#091,www.nexus-t.co.uk,45,LCD,16:09,5ms,18.5\
+ENTITY#091,www.planet-computer.it,48,LED,16:09,5 ms,47 cm
+ENTITY#091,www.hardware-planet.it,94,LED,16:09,5 ms,469.9 mm (18.5 \
+ENTITY#091,www.makingbuyingeasy.co.uk,105,LED,16:09,5 ms,47 cm
+ENTITY#091,www.imldirect.it,137,LCD Monitor,16:09,5 ms,47 cm (18.5\
+ENTITY#091,www.xpcpro.com,283,LED,16:09,5 ms,47 cm
+ENTITY#091,www.cleverboxes.com,297,LED 16.7 Million Colour,16:09,5ms,18.5in Display Area - 41.0 x 23.0cm
+ENTITY#091,ca.pcpartpicker.com,331,,16:09,5 ms,18.5\
+ENTITY#091,www.pcconnection.com,1341,,,,18.5 in
+ENTITY#091,www.jrlinton.co.uk,1531,E970SWN Widescreen LCD Monitor,16:09,5 ms,47 cm (18.5\
+ENTITY#091,www.softwarecity.ca,5453,LCD Monitor,16:09,5 ms,18.5\
+ENTITY#091,www.ebay.com,19487,,16:09,5 ms,
+ENTITY#092,www.odsi.co.uk,64,LED-backlit LCD monitor / TFT active matrix,Widescreen - 16:10 Widescreen - 16:10,5 ms 5 ms,22\
+ENTITY#092,www.xpcpro.com,195,TNFilm,16:10,5 ms,22 \
+ENTITY#092,www.xpcpro.com,198,TN+Film,16:10,5 ms,558.8 mm (22 \
+ENTITY#092,www.makingbuyingeasy.co.uk,276,TN+Film,16:10,5 ms,55.87 cm
+ENTITY#092,www.officedepot.com,320,LCD Monitor,16:10,5 ms,22\
+ENTITY#092,www.cleverboxes.com,332,TN TFT 16.7 Million Colour,16:10,5ms,22in
+ENTITY#092,www.ebay.com,19843,LED LCD,16:10,5 ms,22\
+ENTITY#092,www.ebay.com,20102,LED LCD,16:10,5 ms,22\
+ENTITY#092,www.ebay.com,20427,LED LCD,16:10,5 ms,22\
+ENTITY#093,www.nexus-t.co.uk,74,VA,16:09,4ms (GTG),24\
+ENTITY#093,www.nexus-t.co.uk,74,,,,
+ENTITY#093,www.ohc24.ch,107,BenQ EW2440L - LED monitor,Widescreen - 16:9,12 ms (typical); 4 ms (grey-to-grey),
+ENTITY#093,www.planet-computer.it,147,LED,16:09,12 ms,"60,96 cm (24\"
+ENTITY#093,www.planet-computer.it,147,,,,
+ENTITY#093,www.makingbuyingeasy.co.uk,268,LED,16:09,12 ms,60.96 cm (24\
+ENTITY#093,www.getprice.com.au,300,LCD,,4 ms,
+ENTITY#093,ca.pcpartpicker.com,487,,16:09,4 ms,24\
+ENTITY#093,ca.pcpartpicker.com,487,,,,
+ENTITY#093,www.shopmania.com,674,LED,16:09,4 ms (less than 87%),24 inch (more than 74%)
+ENTITY#093,www.shopmania.com,674,,,,
+ENTITY#093,www.pcconnection.com,3164,,,,24 in
+ENTITY#093,www.pcconnection.com,3164,,,,
+ENTITY#093,www.softwarecity.ca,5729,LCD Monitor,16:09,4 ms,24\
+ENTITY#093,www.softwarecity.ca,5729,,,,
+ENTITY#093,www.ebay.com,23079,LED LCD,,,24\
+ENTITY#094,www.nexus-t.co.uk,114,VA,16:09,4ms (GTG),27\
+ENTITY#094,www.cleverboxes.com,304,16.7 Million Colour,16:09,12ms,27in (Diagonal)
+ENTITY#094,www.getprice.com.au,386,LED,,12 ms,
+ENTITY#094,www.shopmania.com,671,LED,16:09,12 ms,27 inch (more than 84%)
+ENTITY#094,www.pcconnection.com,3693,,,,27 in
+ENTITY#094,www.ebay.com,22453,LED LCD,,,27\
+ENTITY#095,www.best-deal-items.com,3,,,,
+ENTITY#095,www.mediashopuk.com,76,,16:09,5 ms,584.2 mm (23 \
+ENTITY#095,www.xpcpro.com,97,TN+Film,16:09,5 ms,58.4 cm (23 \
+ENTITY#095,www.odsi.co.uk,136,LED-backlit LCD monitor / TFT active matrix,Widescreen - 16:9 Widescreen - 16:9,5 ms 5 ms,23\
+ENTITY#095,www.mrhightech.com,173,,16:09,5 ms,584.2 mm (23 \
+ENTITY#095,www.cleverboxes.com,189,16.77 million Colours,16:09,5ms,
+ENTITY#095,www.xpcpro.com,227,TNFilm,16:09,5 ms,23 \
+ENTITY#095,www.officedepot.com,247,LCD Monitor,16:09,5 ms,23\
+ENTITY#095,www.makingbuyingeasy.co.uk,501,,16:09,5 ms,58.42 cm (23\
+ENTITY#095,catalog.com,531,LED LCD,16:09,,
+ENTITY#095,www.ebay.com,11409,LED LCD,16:09,5 ms,23\
+ENTITY#095,www.ebay.com,20612,LED LCD,16:09,5 ms,23\
+ENTITY#095,www.ebay.com,21614,LED LCD,16:09,5 ms,23\
+ENTITY#099,www.planet-computer.it,27,LED,16:09,1 ms,61 cm
+ENTITY#099,www.nexus-t.co.uk,40,LCD,16:09,1ms (GTG),24\
+ENTITY#099,www.xpcpro.com,117,,,1 ms,
+ENTITY#099,www.getprice.com.au,213,LED,,2 ms,
+ENTITY#099,www.hardware-planet.it,229,LED,16:09,1 ms,61 cm 609.6 mm (24 \
+ENTITY#099,www.makingbuyingeasy.co.uk,241,LED,16:09,1 ms,61 cm
+ENTITY#099,www.pcconnection.com,247,,,,24 in
+ENTITY#099,www.pc-canada.com,285,LCD Monitor,16:09,1 ms,24\
+ENTITY#099,www.cleverboxes.com,308,LED 16.7 Million Colour,16:09,1ms,24in Display Area - 53.1 x 29.8cm
+ENTITY#099,www.imldirect.it,514,LCD Monitor,16:09,1 ms,61 cm (24\
+ENTITY#099,www.jrlinton.co.uk,589,Professional G2460PQU Widescreen LCD Monitor,16:09,1 ms,61 cm (24\
+ENTITY#099,ca.pcpartpicker.com,657,,16:09,1 ms,24\
+ENTITY#099,www.softwarecity.ca,5788,LCD Monitor,16:09,1 ms,24\
+ENTITY#100,www.pc-canada.com,4,LCD Monitor,16:09,2 ms,24\
+ENTITY#100,www.shopmania.com,38,LED,16:09,2 ms (less than 89%),24 inch (more than 74%)
+ENTITY#100,www.nexus-t.co.uk,92,LCD,16:09,2ms (GTG),24\
+ENTITY#100,www.makingbuyingeasy.co.uk,191,TN+Film,16:09,2 ms,60.96 cm (24\
+ENTITY#100,www.makingbuyingeasy.co.uk,259,TN+Film,16:09,2 ms,60.96 cm
+ENTITY#100,www.getprice.com.au,281,LCD,,2 ms,
+ENTITY#100,ca.pcpartpicker.com,402,,16:09,2 ms,24\
+ENTITY#100,www.makingbuyingeasy.co.uk,646,TN,16:09,2 ms,60.96 cm (24\
+ENTITY#100,www.best-deal-items.com,653,,,,
+ENTITY#100,www.ebay.com,23735,LED LCD,,,24\
+ENTITY#102,ca.pcpartpicker.com,55,,16:09,5 ms,21.5\
+ENTITY#102,www.hardware-planet.it,245,LED,16:09,5 ms,54.6 cm 546.1 mm (21.5 \
+ENTITY#102,ce.yikus.com,251,,: 1.78:1,,
+ENTITY#102,www.cleverboxes.com,365,LED,16:09,5ms,21.5in
+ENTITY#102,www.cleverboxes.com,385,LED,16:09,5ms,21.5in
+ENTITY#102,www.makingbuyingeasy.co.uk,395,LCD,16:09,5 ms,54.6 cm
+ENTITY#102,www.itenergy.co.uk,782,LCD Monitor,16:09,5 ms,54.6 cm (21.5\
+ENTITY#102,www.jrlinton.co.uk,1649,HE225DPB Widescreen LCD Monitor,16:09,5 ms,54.6 cm (21.5\
+ENTITY#102,www.ebay.com,10867,,16:09,5ms,21.5\
+ENTITY#102,www.ebay.com,22636,LED LCD,16:09,5 ms,21.5\
+ENTITY#103,www.hardware-planet.it,5,LED,16:09,5 ms,"49,53 cm (19.5\"
+ENTITY#103,www.mrhightech.com,81,LED,16:09,5 ms,49.53 cm
+ENTITY#103,www.mediashopuk.com,158,LED,16:09,5 ms,49.53 cm
+ENTITY#103,www.imldirect.it,169,LCD Monitor,16:09,5 ms,49.5 cm (19.5\
+ENTITY#103,www.cleverboxes.com,402,LED Backlight 16.7 Million Colour,16:09,5ms,19.5in (Diagonal)
+ENTITY#103,www.makingbuyingeasy.co.uk,459,LED,16:09,5 ms,49.53 cm
+ENTITY#103,www.itenergy.co.uk,518,LCD Monitor,16:09,5 ms,49.5 cm (19.5\
+ENTITY#103,www.kingsfieldcomputers.co.uk,739,LCD Monitor,16:09,5 ms,49.5 cm (19.5\
+ENTITY#103,www.best-deal-items.com,1663,,,,
+ENTITY#103,www.jrlinton.co.uk,1801,HL205DPB Widescreen LCD Monitor,16:09,5 ms,49.5 cm (19.5\
+ENTITY#104,www.getprice.com.au,142,LED,,5 ms,
+ENTITY#104,ca.pcpartpicker.com,186,,16:09,5 ms,23\
+ENTITY#104,www.officedepot.com,266,LCD Monitor,,5 ms,23\
+ENTITY#104,catalog.com,617,LED LCD,16:09,,
+ENTITY#104,ce.yikus.com,896,,: 1.78:1,,: 24.1in L X 15.9in W X 5.1in H
+ENTITY#104,www.pcconnection.com,3476,,,,23 in
+ENTITY#104,www.softwarecity.ca,5763,LCD Monitor,,5 ms,23\
+ENTITY#104,www.ebay.com,10090,LED LCD,16:09,5 ms,23\
+ENTITY#104,www.ebay.com,10772,,,,
+ENTITY#104,www.ebay.com,15514,LED LCD,,,
+ENTITY#104,www.ebay.com,17093,,,,
+ENTITY#104,www.ebay.com,19362,LED LCD,16:09,5 ms,23\
+ENTITY#104,www.ebay.com,21476,LED LCD,16:09,5 ms,23\
+ENTITY#105,www.ebay.com,20336,LCD,5:04,5 ms,17\
+ENTITY#105,www.ebay.com,21224,LCD,5:04,5 ms,17\
+ENTITY#106,www.ebay.com,16445,LCD,5:04,5 ms,17\
+ENTITY#106,www.ebay.com,17128,LCD,5:04,5 ms,17\
+ENTITY#106,www.ebay.com,19771,LCD,5:04,5 ms,17\
+ENTITY#106,www.ebay.com,21619,LCD,5:04,5 ms,17\
+ENTITY#107,ca.pcpartpicker.com,99,,16:09,5 ms,21.5\
+ENTITY#107,www.getprice.com.au,287,"Touch,LED",,5 ms,
+ENTITY#107,www.officedepot.com,309,LCD Touchscreen Monitor,16:09,5 ms,21.5\
+ENTITY#107,ca.pcpartpicker.com,364,,16:09,5 ms,21.5\
+ENTITY#107,catalog.com,400,Touch Screen,16:09,,
+ENTITY#107,www.softwarecity.ca,1599,LCD Touchscreen Monitor,16:09,5 ms,21.5\
+ENTITY#107,www.vology.com,2193,LED-backlit LCD monitor / TFT active matrix,Widescreen - 16:9 Widescreen - 16:9,5 ms 5 ms,21.5\
+ENTITY#107,www.pcconnection.com,2197,LCD LED-backlit,,5 ms,21.5 in
+ENTITY#107,www.vology.com,2439,LED-backlit LCD monitor / TFT active matrix,Widescreen - 16:9 Widescreen - 16:9,5 ms 5 ms,21.5\
+ENTITY#107,www.vology.com,2552,LED-backlit LCD monitor / TFT active matrix,Widescreen - 16:9 Widescreen - 16:9,5 ms 5 ms,21.5\
+ENTITY#107,www.vology.com,2581,LED-backlit LCD monitor / TFT active matrix,Widescreen - 16:9 Widescreen - 16:9,5 ms 5 ms,21.5\
+ENTITY#107,www.vology.com,2698,LED-backlit LCD monitor / TFT active matrix,Widescreen - 16:9 Widescreen - 16:9,5 ms 5 ms,21.5\
+ENTITY#107,www.pcconnection.com,3064,LCD,,5 ms,21.5 in
+ENTITY#107,www.ebay.com,9397,Touch Screen,16:09,5 ms,21.5\
+ENTITY#107,www.ebay.com,14342,Touch Screen,16:09,5 ms 5 ms\nMax. Resolution:\n1920 x 1080,21.5\
+ENTITY#107,www.ebay.com,21588,LED LCD,16:09,5 ms,
+ENTITY#107,www.ebay.com,21675,Touch Screen,16:09,5 ms,21.5\
+ENTITY#108,www.xpcpro.com,39,TFT LCD,,5 ms,43.2 cm (17 \
+ENTITY#108,www.officedepot.com,124,LCD Monitor,,5 ms,17\
+ENTITY#108,www.cleverboxes.com,482,16.7 million Colours,,5ms,
+ENTITY#108,www.best-deal-items.com,814,,,,
+ENTITY#108,www.best-deal-items.com,1257,,,,
+ENTITY#108,ce.yikus.com,1352,,: 1.66:1,,: 18.9in L X 17.1in W X 6.9in H
+ENTITY#108,www.best-deal-items.com,1533,,,,
+ENTITY#108,www.best-deal-items.com,2336,,,,
+ENTITY#108,www.ebay.com,11356,,,5 ms,17\
+ENTITY#108,www.ebay.com,21028,,,,
+ENTITY#108,www.ebay.com,22041,LCD,5:04,5 ms,17\
+ENTITY#108,www.ebay.com,23055,,,,
+ENTITY#109,www.best-deal-items.com,121,,,,
+ENTITY#109,www.best-deal-items.com,2035,,,,
+ENTITY#109,www.vology.com,2179,LCD monitor / TFT active matrix,5:4 5:4,5 ms 5 ms,17\
+ENTITY#109,www.vology.com,2475,LCD monitor / TFT active matrix,5:4 5:4,5 ms 5 ms,17\
+ENTITY#111,www.cleverboxes.com,65,Wide TFT LCD 16.7 Million Colour,16:10,5ms,19in Display Area - 40.8 x 25.5cm
+ENTITY#111,www.odsi.co.uk,117,LCD display / TFT active matrix - WLED backlight LCD display / TFT active matrix LED-backlit LCD monitor / TFT active matrix LCD monitor / TFT active matrix,16:10,5 ms 5 ms,19\
+ENTITY#111,www.getprice.com.au,295,LED,,No info,
+ENTITY#111,www.pc-canada.com,369,LCD Monitor,16:10,5 ms,19\
+ENTITY#111,www.cleverboxes.com,451,Wide TFT LCD 16.7 Million Colour,16:10,5ms,19in Display Area - 40.8 x 25.5cm
+ENTITY#111,www.vology.com,2367,LED-backlit LCD monitor / TFT active matrix,Widescreen - 16:10 Widescreen - 16:10,5 ms 5 ms,19\
+ENTITY#112,ca.pcpartpicker.com,101,,16:10,5 ms,22\
+ENTITY#112,ca.pcpartpicker.com,102,,16:10,5 ms,22\
+ENTITY#112,www.pc-canada.com,309,LCD Monitor,16:10,5 ms,22\
+ENTITY#112,www.getprice.com.au,317,LCD,,5 ms,
+ENTITY#112,www.cleverboxes.com,513,Wide TFT LCD,16:10,5ms,22in Display Area - 47.37 x 29.61cm
+ENTITY#112,www.vology.com,2261,LED-backlit LCD monitor / TFT active matrix,Widescreen - 16:10 Widescreen - 16:10,5 ms 5 ms,22\
+ENTITY#113,www.pc-canada.com,374,LCD Monitor,16:09,5 ms,24\
+ENTITY#113,ca.pcpartpicker.com,644,,16:09,5 ms,24\
+ENTITY#113,www.pcconnection.com,859,LED-backlit LCD,,5 ms,24 in
+ENTITY#113,www.vology.com,2687,LCD monitor / TFT active matrix,Widescreen - 16:9 Widescreen - 16:9,5 ms 5 ms,24\
+ENTITY#114,www.odsi.co.uk,211,LCD display / TFT active matrix LCD monitor / TFT active matrix,,9 ms 9 ms,17\
+ENTITY#114,www.softwarecity.ca,1508,LCD Touchscreen Monitor,,16 ms,15\
+ENTITY#114,www.softwarecity.ca,1535,LCD Touchscreen Monitor,,9 ms,17\
+ENTITY#114,www.best-deal-items.com,1653,,,,
+ENTITY#114,www.best-deal-items.com,1902,,,,
+ENTITY#114,www.pcconnection.com,1914,LCD TFT,,9 ms,17 in
+ENTITY#114,www.pcconnection.com,2355,LCD TFT,,8 ms,17 in
+ENTITY#114,www.best-deal-items.com,2637,,,,
+ENTITY#114,www.softwarecity.ca,5717,LCD Touchscreen Monitor,,9 ms,17\
+ENTITY#114,www.ebay.com,22687,,,9 ms,17\
+ENTITY#114,www.ebay.com,23099,LCD,,16 ms,17
+ENTITY#115,www.ebay.com,12139,LCD,,,17\
+ENTITY#116,www.nexus-t.co.uk,26,LCD,16:09,11ms,15.6\
+ENTITY#116,www.kingsfieldcomputers.co.uk,42,LCD Monitor,16:09,11 ms,39.6 cm (15.6\
+ENTITY#116,www.shopmania.com,57,LCD,,11 ms,15.6 inch
+ENTITY#116,www.hardware-planet.it,136,LCD,,11 ms,396.2 mm (15.6 \
+ENTITY#116,www.hardware-planet.it,193,LED,16:09,11 ms,"39,62 cm (15.6\"
+ENTITY#116,www.pc-canada.com,283,LCD Monitor,16:09,11 ms,15.6\
+ENTITY#116,www.makingbuyingeasy.co.uk,293,TN+Film,16:09,11 ms,39.6 cm
+ENTITY#116,www.makingbuyingeasy.co.uk,330,LCD,,11 ms,39.6 cm
+ENTITY#116,www.pcconnection.com,667,,,,15.6 in
+ENTITY#116,www.imldirect.it,736,LCD Monitor,16:09,11 ms,39.6 cm (15.6\
+ENTITY#116,www.jrlinton.co.uk,902,MB168B Portable USB-powered Monitor,16:09,11 ms,39.6 cm (15.6\
+ENTITY#116,www.vology.com,2360,LED-backlit LCD monitor / TFT active matrix,Widescreen - 16:9 Widescreen - 16:9,11 ms 11 ms,15.6\
+ENTITY#116,www.pcconnection.com,3579,,,11 ms,15.6 in
+ENTITY#116,www.softwarecity.ca,5432,LCD Monitor,16:09,11 ms,15.6\
+ENTITY#116,www.ebay.com,11677,,16:9 16:9,11 ms 11 ms,15.6\
+ENTITY#116,www.ebay.com,12266,,16:09,11 ms,
+ENTITY#117,www.makingbuyingeasy.co.uk,8,IPS,21:09,5 ms,73.66 cm (29\
+ENTITY#117,www.shopmania.com,43,LED,21:09,5 ms,29 inch (more than 90%)
+ENTITY#117,www.nexus-t.co.uk,66,AH-IPS,21:09,5ms,29\
+ENTITY#117,www.officedepot.com,167,LCD Monitor,21:09,5 ms,29\
+ENTITY#117,www.hardware-planet.it,181,LED,21:09,5 ms,736.6 mm (29 \
+ENTITY#117,www.cleverboxes.com,223,IPS LED 16.7 Million Colour,,5ms,29in
+ENTITY#117,www.getprice.com.au,260,"LCD,LED",,5 ms,
+ENTITY#117,ca.pcpartpicker.com,284,,21:09,5 ms,29\
+ENTITY#117,www.imldirect.it,506,LCD Monitor,21:09,5 ms,73.7 cm (29\
+ENTITY#117,www.ohc24.ch,826,ASUS MX299Q - LED monitor - 29\,Widescreen - 21:9,5 ms (grey-to-grey),
+ENTITY#117,ce.yikus.com,988,,: Unknown,,
+ENTITY#117,www.jrlinton.co.uk,1008,Designo MX299Q Widescreen LCD Monitor,21:09,5 ms,73.7 cm (29\
+ENTITY#117,www.vology.com,2446,LED-backlit LCD monitor / TFT active matrix,Widescreen - 21:9 Widescreen - 21:9,5 ms (gray-to-gray) 5 ms (gray-to-gray),29\
+ENTITY#117,www.pcconnection.com,3793,,,,29 in
+ENTITY#117,www.softwarecity.ca,5684,LCD Monitor,21:09,5 ms,29\
+ENTITY#117,www.ebay.com,18713,,21:09,5 ms,29\
+ENTITY#117,www.ebay.com,20043,LED LCD,21:09,,
+ENTITY#118,www.best-deal-items.com,44,,,,
+ENTITY#118,www.makingbuyingeasy.co.uk,104,TN+Film,5:04,5 ms,43.2 cm
+ENTITY#118,www.officedepot.com,196,LCD Monitor,5:04,5 ms,17\
+ENTITY#118,www.planet-computer.it,255,LCD,5:04,5 ms,"43,2 cm"
+ENTITY#118,www.best-deal-items.com,1353,,,,
+ENTITY#118,www.softwarecity.ca,1573,LCD Monitor,5:04,5 ms,17\
+ENTITY#118,www.vology.com,2251,LED-backlit LCD monitor / TFT active matrix,,5 ms 5 ms,17\
+ENTITY#118,www.best-deal-items.com,2307,,,,
+ENTITY#118,www.best-deal-items.com,2442,,,,
+ENTITY#118,www.best-deal-items.com,2578,,,,
+ENTITY#118,www.vology.com,2647,LED-backlit LCD monitor / TFT active matrix,5:4 5:4,5 ms 5 ms,17\
+ENTITY#119,ca.pcpartpicker.com,23,,16:10,5 ms,19\
+ENTITY#119,ce.yikus.com,226,,,,
+ENTITY#119,www.cleverboxes.com,408,Widescreen TN (Twisted Nematic) 16.7 Million Colour,16:10,5ms,19in
+ENTITY#119,www.best-deal-items.com,1858,,,,
+ENTITY#119,www.vology.com,2328,LED-backlit LCD monitor / TFT active matrix,Widescreen - 16:10 Widescreen - 16:10,5 ms 5 ms,19\
+ENTITY#119,www.ebay.com,11579,,16:10 16:10 16:10,5 ms 5 ms,19\
+ENTITY#119,www.ebay.com,16294,,,,
+ENTITY#119,www.ebay.com,20316,LED LCD,,,19\
+ENTITY#119,www.ebay.com,22361,LED LCD,16:10,19 ms,19\
+ENTITY#119,www.ebay.com,23151,,16:10,5 ms,19\
+ENTITY#120,www.cleverboxes.com,470,In Plane Switching (IPS) 16.7 Million Colour,16:09,8ms,20in (Diagonal) Viewable screen size - 19.5in
+ENTITY#120,www.makingbuyingeasy.co.uk,633,IPS,16:09,8 ms,49.4 cm
+ENTITY#120,www.shopmania.com,652,LED,16:09,8 ms,19.5 inch
+ENTITY#120,ca.pcpartpicker.com,665,,16:09,8 ms,19.5\
+ENTITY#120,www.vology.com,2340,LED-backlit LCD monitor,Widescreen - 16:9 Widescreen - 16:9,8 ms (gray-to-gray) 8 ms (gray-to-gray),19.5\
+ENTITY#120,www.ebay.com,16730,LED LCD,16:09,,19\
+ENTITY#120,www.ebay.com,18964,,16:09,8 ms,
+ENTITY#120,www.ebay.com,19756,LED LCD,,,20\
+ENTITY#120,www.ebay.com,20022,LED LCD,16:09,,20\
+ENTITY#120,www.ebay.com,20098,LED LCD,,,
+ENTITY#120,www.ebay.com,20919,LCD,16:09,8 ms,20\
+ENTITY#120,www.ebay.com,23440,,Widescreen (16:09),8 ms,
+ENTITY#121,www.ebay.com,9674,LCD,,,21.5\
+ENTITY#121,www.ebay.com,10826,LCD,,,21.5\
+ENTITY#121,www.ebay.com,11734,LCD,,,21.5\
+ENTITY#121,www.ebay.com,15001,LCD,,,21.5\
+ENTITY#121,www.ebay.com,15809,LCD,,,21.5\
+ENTITY#121,www.ebay.com,19316,LCD,,,21.5\
+ENTITY#121,www.ebay.com,19388,LCD,,,21.5\
+ENTITY#121,www.ebay.com,20071,LCD,,,21.5\
+ENTITY#121,www.ebay.com,21091,LCD,,,21.5\
+ENTITY#121,www.ebay.com,22132,LCD,,,21.5\
+ENTITY#121,www.ebay.com,22163,LCD,,,21.5\
+ENTITY#121,www.ebay.com,23635,LCD,,,21.5\
+ENTITY#121,www.ebay.com,23681,LCD,,,21.5\
+ENTITY#122,ca.pcpartpicker.com,179,,16:09,8 ms,21.5\
+ENTITY#122,www.cleverboxes.com,233,In Plane Switching (IPS) 16.7 Million Colour,16:09,8ms,21.5in
+ENTITY#122,www.vology.com,2653,LED-backlit LCD monitor / TFT active matrix,Widescreen - 16:9 Widescreen - 16:9,8 ms (gray-to-gray) 8 ms (gray-to-gray),21.5\
+ENTITY#122,www.ebay.com,10814,,16:09,8 ms,
+ENTITY#122,www.ebay.com,11069,,,,21\
+ENTITY#122,www.ebay.com,19271,,,,
+ENTITY#122,www.ebay.com,19479,LED LCD,16:10,,22\
+ENTITY#122,www.ebay.com,21562,LED LCD,,,
+ENTITY#122,www.ebay.com,21623,LED LCD,,,22
+ENTITY#122,www.ebay.com,22660,LED LCD,,,
+ENTITY#122,www.ebay.com,23479,,,,21.5 in.
+ENTITY#123,www.pcconnection.com,282,LED-backlit LCD,,5 ms,23 in
+ENTITY#123,www.getprice.com.au,285,LED,,5 ms,
+ENTITY#123,www.pc-canada.com,343,LCD Monitor,16:09,5 ms,23\
+ENTITY#123,ca.pcpartpicker.com,698,,16:09,5 ms,23\
+ENTITY#123,www.softwarecity.ca,1528,LCD Monitor,16:09,5 ms,23\
+ENTITY#123,www.softwarecity.ca,1593,LCD Monitor,16:09,5 ms,23\
+ENTITY#123,www.vology.com,2187,LED-backlit LCD monitor / TFT active matrix,Widescreen - 16:9 Widescreen - 16:9,5 ms 5 ms,23\
+ENTITY#123,www.vology.com,2332,LED-backlit LCD monitor / TFT active matrix,Widescreen - 16:9 Widescreen - 16:9,5 ms 5 ms,23\
+ENTITY#123,www.ebay.com,19065,,16:09,5 ms,
+ENTITY#124,ce.yikus.com,36,,: 16:9,,
+ENTITY#124,www.makingbuyingeasy.co.uk,52,IPS,16:09,8 ms,58.42 cm
+ENTITY#124,www.getprice.com.au,269,LED,,8 ms,
+ENTITY#124,www.cleverboxes.com,440,In Plane Switching (IPS) 16.7 Million Colour,16:09,8ms,23in
+ENTITY#124,ca.pcpartpicker.com,594,,16:09,8 ms,23\
+ENTITY#124,ce.yikus.com,670,,: 16:9,,
+ENTITY#124,www.ohc24.ch,872,Dell P2314H - LED monitor - 23\,Widescreen - 16:9,8 ms (grey-to-grey),
+ENTITY#124,www.vology.com,2650,LED-backlit LCD monitor / TFT active matrix,Widescreen - 16:9 Widescreen - 16:9,8 ms (gray-to-gray) 8 ms (gray-to-gray),23\
+ENTITY#124,www.ebay.com,11994,,,,23 in.
+ENTITY#124,www.ebay.com,15200,LED LCD,,,
+ENTITY#124,www.ebay.com,16432,LED LCD,16:09,,
+ENTITY#124,www.ebay.com,19434,,,,
+ENTITY#124,www.ebay.com,22713,LCD,16:09,8 ms,23\
+ENTITY#125,catalog.com,274,LED LCD,16:09,,
+ENTITY#125,www.ohc24.ch,404,Dell P2314T - LED monitor - 23\,Widescreen - 16:9,8 ms (grey-to-grey),
+ENTITY#125,www.cleverboxes.com,430,Touchscreen,,,23in (Diagonal)
+ENTITY#125,www.makingbuyingeasy.co.uk,604,LED,16:09,8 ms,58.4 cm
+ENTITY#125,www.shopmania.com,664,LED,16:09,8 ms,23 inch (more than 64%)
+ENTITY#125,www.best-deal-items.com,1569,,,,
+ENTITY#125,www.vology.com,2215,LED-backlit LCD monitor / TFT active matrix,Widescreen - 16:9 Widescreen - 16:9,8 ms (gray-to-gray) 8 ms (gray-to-gray),23\
+ENTITY#125,www.ebay.com,14802,,,,
+ENTITY#125,www.ebay.com,19891,LED LCD,16:09,8 ms,23\
+ENTITY#125,www.ebay.com,20633,,,,
+ENTITY#125,www.ebay.com,21730,,16:09,,
+ENTITY#126,www.getprice.com.au,233,LED,,8 ms,
+ENTITY#126,www.cleverboxes.com,325,In Plane Switching (IPS) 16.7 Million Colour,16:09,8ms,24in Viewable screen size - 23.8in
+ENTITY#126,www.makingbuyingeasy.co.uk,367,IPS,16:09,8 ms,60.47 cm
+ENTITY#126,ca.pcpartpicker.com,711,,16:09,8 ms,23.8\
+ENTITY#126,www.vology.com,2651,LED-backlit LCD monitor / TFT active matrix,Widescreen - 16:9 Widescreen - 16:9,8 ms (gray-to-gray) 8 ms (gray-to-gray),23.8\
+ENTITY#126,www.ebay.com,9909,,,,24\
+ENTITY#126,www.ebay.com,11842,,16:09,8 ms,
+ENTITY#126,www.ebay.com,14249,,16:09,8 ms\nMax. Resolution:\n1920 x 1080 8 Milliseconds,23.8 in.
+ENTITY#126,www.ebay.com,18795,,16:09,8ms 8 Milliseconds,23.8 in.
+ENTITY#126,www.ebay.com,18982,LED LCD,,,
+ENTITY#126,www.ebay.com,19521,LCD,16:09,8 ms,24\
+ENTITY#126,www.ebay.com,19867,,,,
+ENTITY#126,www.ebay.com,22070,LED LCD,16:09,8 ms,24\
+ENTITY#127,www.odsi.co.uk,72,LED-backlit LCD monitor / TFT active matrix,Widescreen - 16:10 Widescreen - 16:10,16 ms (On/Off); 6 ms (grey-to-grey) 16 ms (On/Off); 6 ms (grey-to-grey),24.1\
+ENTITY#127,www.xpcpro.com,101,IPS,16:10,6 ms,24 \
+ENTITY#127,ce.yikus.com,199,,: 16:10,,
+ENTITY#127,www.xpcpro.com,245,IPS,16:10,8 ms,24.1 \
+ENTITY#127,ce.yikus.com,967,,: 16:10,,
+ENTITY#127,www.ebay.com,11100,LED LCD,16:10,8 ms,24.1\
+ENTITY#127,www.ebay.com,14503,LED LCD,16:10,8 ms,24.1\
+ENTITY#127,www.ebay.com,18750,LED LCD,16:10,8 ms,24.1\
+ENTITY#127,www.ebay.com,19015,LED LCD,16:10,8 ms,24.1\
+ENTITY#127,www.ebay.com,20727,LED LCD,16:10,8 ms,24.1\
+ENTITY#127,www.ebay.com,22536,LED LCD,16:10,8 ms,24.1\
+ENTITY#128,www.shopmania.com,31,LED,,6 ms,24.1\
+ENTITY#128,www.nexus-t.co.uk,71,AH-IPS,16:10,6ms (GTG),24.1\
+ENTITY#128,www.hardware-planet.it,123,LED,16:10,6 ms,61.13 cm 612.1 mm (24.1 \
+ENTITY#128,www.makingbuyingeasy.co.uk,150,IPS,16:10,6 ms,61.13 cm
+ENTITY#128,www.officedepot.com,179,LCD Monitor,16:10,6 ms,24\
+ENTITY#128,www.getprice.com.au,181,LED,,6 ms,
+ENTITY#128,www.cleverboxes.com,193,IPS,16:10,6ms,24in
+ENTITY#128,ca.pcpartpicker.com,228,,16:10,6 ms,24\
+ENTITY#128,www.kingsfieldcomputers.co.uk,268,LCD Monitor,16:10,6 ms,61 cm (24\
+ENTITY#128,www.pc-canada.com,314,LCD Monitor,16:10,6 ms,24\
+ENTITY#128,catalog.com,353,LED LCD,16:10,,
+ENTITY#128,www.imldirect.it,682,LCD Monitor,16:10,6 ms,61 cm (24\
+ENTITY#128,www.jrlinton.co.uk,927,PA249Q Widescreen LCD Monitor,16:10,6 ms,61 cm (24\
+ENTITY#128,www.best-deal-items.com,1714,,,,
+ENTITY#128,www.vology.com,2392,LED-backlit LCD monitor / TFT active matrix,Widescreen - 16:10 Widescreen - 16:10,6 ms (gray-to-gray) 6 ms (gray-to-gray),24.1\
+ENTITY#128,www.softwarecity.ca,5820,LCD Monitor,16:10,6 ms,24\
+ENTITY#128,www.ebay.com,19537,LED LCD,16:10,,24\
+ENTITY#128,www.ebay.com,22767,LED LCD,16:10,6 ms,24\
+ENTITY#129,ca.pcpartpicker.com,5,,16:09,6 ms,27\
+ENTITY#129,www.hardware-planet.it,63,LED,16:09,6 ms,68.47 cm 685.8 mm (27 \
+ENTITY#129,www.nexus-t.co.uk,124,AH-IPS,16:09,6ms (GTG),27\
+ENTITY#129,www.kingsfieldcomputers.co.uk,195,LCD Monitor,16:09,6 ms,68.6 cm (27\
+ENTITY#129,www.getprice.com.au,206,LED,,6 ms,
+ENTITY#129,www.cleverboxes.com,442,IPS,16:09,6ms,27in
+ENTITY#129,www.jrlinton.co.uk,638,ProArt PA279Q Widescreen LCD Monitor,16:09,6 ms,68.6 cm (27\
+ENTITY#129,www.shopmania.com,651,LCD,16:09,6 ms,27 inch (more than 84%)
+ENTITY#129,www.imldirect.it,823,LCD Monitor,16:09,6 ms,68.6 cm (27\
+ENTITY#129,www.jrlinton.co.uk,942,ProArt PA279Q Widescreen LCD Monitor,16:09,6 ms,68.6 cm (27\
+ENTITY#129,www.vology.com,2366,LED-backlit LCD monitor / TFT active matrix,Widescreen - 16:9 Widescreen - 16:9,6 ms (gray-to-gray) 6 ms (gray-to-gray),27\
+ENTITY#129,www.softwarecity.ca,5787,LCD Monitor,16:09,6 ms,27\
+ENTITY#130,www.nexus-t.co.uk,95,PLS,16:09,5ms (GTG),27\
+ENTITY#130,www.hardware-planet.it,144,PLS,16:09,5 ms,685.8 mm (27 \
+ENTITY#130,www.officedepot.com,178,LCD Monitor,16:09,5 ms,27\
+ENTITY#130,www.makingbuyingeasy.co.uk,298,PLS,16:09,5 ms,68.58 cm (27\
+ENTITY#130,www.getprice.com.au,326,LED,,5 ms,
+ENTITY#130,www.cleverboxes.com,421,IPS,16:09,5ms,27in
+ENTITY#130,ca.pcpartpicker.com,436,,16:09,5 ms,27\
+ENTITY#130,www.jrlinton.co.uk,493,PB278Q Widescreen LCD Moitor,16:09,5 ms,68.6 cm (27\
+ENTITY#130,www.makingbuyingeasy.co.uk,541,PLS,16:09,5 ms,68.58 cm (27\
+ENTITY#130,www.shopmania.com,685,LED,16:09,5 ms,27 inch (more than 84%)
+ENTITY#130,www.imldirect.it,796,LCD Monitor,16:09,5 ms,68.6 cm (27\
+ENTITY#130,ce.yikus.com,1199,,: 1.78:1,,: 29.8in L X 18.4in W X 8.7in H
+ENTITY#130,www.vology.com,2158,LED-backlit LCD monitor / TFT active matrix,Widescreen - 16:9 Widescreen - 16:9,5 ms (gray-to-gray) 5 ms (gray-to-gray),27\
+ENTITY#130,www.softwarecity.ca,5893,LCD Monitor,16:09,5 ms,27\
+ENTITY#130,www.ebay.com,9905,LED LCD,16:09,5 ms,27\
+ENTITY#130,www.ebay.com,16754,LED LCD,16:09,5 ms,27\
+ENTITY#130,www.ebay.com,21202,LED LCD,16:09,5 ms,27\
+ENTITY#130,www.ebay.com,21622,LED LCD,16:09,5 ms,
+ENTITY#130,www.ebay.com,22545,LED LCD,,,
+ENTITY#131,www.nexus-t.co.uk,73,TN,16:09,1ms (GTG),28\
+ENTITY#131,www.shopmania.com,89,LED,16:09,1 ms (less than 99%),28 inch (more than 90%)
+ENTITY#131,www.hardware-planet.it,190,LED,16:09,1 ms,"71,12 cm (28\"
+ENTITY#131,www.makingbuyingeasy.co.uk,343,LED,16:09,1 ms,71.12 cm (28\
+ENTITY#131,www.jrlinton.co.uk,554,PB287Q Widescreen LCD Monitor,16:09,1 ms,71.1 cm (28\
+ENTITY#131,www.imldirect.it,608,LCD Monitor,16:09,1 ms,71.1 cm (28\
+ENTITY#131,ca.pcpartpicker.com,677,,16:09,1 ms,28\
+ENTITY#131,www.makingbuyingeasy.co.uk,678,LED,16:09,1 ms,71.12 cm (28\
+ENTITY#131,www.pcconnection.com,2358,,,,28 in
+ENTITY#131,www.softwarecity.ca,5666,LCD Monitor,16:09,1 ms,28\
+ENTITY#131,www.ebay.com,14728,,16:09,1 ms,
+ENTITY#131,www.ebay.com,20371,,16:09,1 ms,28\
+ENTITY#131,www.ebay.com,20724,,16:9 16:9 16:9,1 ms 1 ms,28\
+ENTITY#132,www.shopmania.com,22,LED,21:09,5 ms,29 inch (more than 90%)
+ENTITY#132,www.kingsfieldcomputers.co.uk,67,LCD Monitor,21:09,5 ms,73.7 cm (29\
+ENTITY#132,www.pcconnection.com,68,,,,29 in
+ENTITY#132,www.nexus-t.co.uk,87,AH-IPS,21:09,5ms (GTG),29\
+ENTITY#132,www.makingbuyingeasy.co.uk,143,IPS,16:09,5 ms,73.025 cm
+ENTITY#132,ca.pcpartpicker.com,281,,21:09,5 ms,29\
+ENTITY#132,www.pc-canada.com,282,LCD Monitor,21:09,5 ms,29\
+ENTITY#132,www.hardware-planet.it,313,LED,21:09,5 ms,73.03 cm 736.6 mm (29 \
+ENTITY#132,www.ohc24.ch,359,ASUS PB298Q - LED monitor - 29\,Widescreen - 21:9,5 ms (grey-to-grey),
+ENTITY#132,www.imldirect.it,471,LCD Monitor,21:09,5 ms,73.7 cm (29\
+ENTITY#132,www.cleverboxes.com,533,AH-IPS 16.7 Million Colour,21:09,5ms,29in
+ENTITY#132,www.jrlinton.co.uk,829,PB298Q Widescreen LCD Monitor,21:09,5 ms,73.7 cm (29\
+ENTITY#132,www.vology.com,2665,LED-backlit LCD monitor / TFT active matrix,Widescreen - 21:9 Widescreen - 21:9,5 ms (gray-to-gray) 5 ms (gray-to-gray),29\
+ENTITY#132,www.softwarecity.ca,5757,LCD Monitor,21:09,5 ms,29\
+ENTITY#132,www.ebay.com,23093,,21:09,5 ms,29\
+ENTITY#132,www.ebay.com,23515,,,5ms (Gray to Gray),
+ENTITY#133,www.kingsfieldcomputers.co.uk,40,LCD Monitor,16:09,8 ms,80 cm (31.5\
+ENTITY#133,www.makingbuyingeasy.co.uk,48,IGZO,16:09,8 ms,80.1 cm
+ENTITY#133,www.mrhightech.com,64,,16:09,8 ms,80.1 cm
+ENTITY#133,www.nexus-t.co.uk,100,IGZO,16:09,8ms (GTG),31.5\
+ENTITY#133,www.mediashopuk.com,172,,16:09,8 ms,80.1 cm
+ENTITY#133,www.hardware-planet.it,221,LED,16:09,8 ms,800.1 mm (31.5 \
+ENTITY#133,www.jrlinton.co.uk,384,PQ321QE Widescreen LCD Monitor,16:09,8 ms,80 cm (31.5\
+ENTITY#133,www.ohc24.ch,385,ASUS PQ321QE - LED monitor - 31.5\,Widescreen - 16:9,8 ms (grey-to-grey),
+ENTITY#133,www.getprice.com.au,395,LED,,8 ms,
+ENTITY#133,www.cleverboxes.com,452,Widescreen 1.07 Billion Colour,16:09,8ms,31.5in
+ENTITY#133,www.imldirect.it,638,LCD Monitor,16:09,8 ms,80 cm (31.5\
+ENTITY#133,www.jrlinton.co.uk,1059,PQ321QE Widescreen LCD Monitor,16:09,8 ms,80 cm (31.5\
+ENTITY#133,www.best-deal-items.com,1191,,,,
+ENTITY#134,www.nexus-t.co.uk,24,S-PLS,16:09,5ms,27\
+ENTITY#134,www.hardware-planet.it,28,LED,16:09,5 ms,"68,58 cm (27\"
+ENTITY#134,ca.pcpartpicker.com,192,,16:09,5 ms,27\
+ENTITY#134,www.xpcpro.com,200,LED,16:09,5 ms,27 \
+ENTITY#134,www.planet-computer.it,211,LED,16:09,5 ms,"68,58 cm (27\"
+ENTITY#134,www.pc-canada.com,363,LCD Monitor,16:09,5 ms,27\
+ENTITY#134,www.imldirect.it,374,LCD Monitor,16:09,5 ms,68.6 cm (27\
+ENTITY#134,www.makingbuyingeasy.co.uk,403,LED,16:09,5 ms,68.58 cm (27\
+ENTITY#134,www.jrlinton.co.uk,546,Style Q2770PQU Widescreen LCD Monitor,16:09,5 ms,68.6 cm (27\
+ENTITY#134,www.ohc24.ch,831,AOC Style Q2770PQU - LED monitor - 27\,Widescreen - 16:9,5 ms (grey-to-grey),
+ENTITY#134,www.softwarecity.ca,5430,LCD Monitor,16:09,5 ms,27\
+ENTITY#134,www.ebay.com,18870,LED LCD,16:09,5 ms,27\
+ENTITY#135,ce.yikus.com,170,,,,
+ENTITY#135,ce.yikus.com,301,,,,
+ENTITY#135,ce.yikus.com,1014,,,,
+ENTITY#135,www.ebay.com,9385,LED LCD,16:09,8 ms,27\
+ENTITY#135,www.ebay.com,10106,LED LCD,16:09,4 ms,27\
+ENTITY#135,www.ebay.com,10774,LED LCD,16:09,4 ms,27\
+ENTITY#135,www.ebay.com,18916,LED LCD,16:09,4 ms,27\
+ENTITY#135,www.ebay.com,19240,LED LCD,16:09,8 ms,27\
+ENTITY#135,www.ebay.com,19284,LED LCD,16:09,6 ms,27\
+ENTITY#135,www.ebay.com,19610,LED LCD,16:09,4 ms,27\
+ENTITY#135,www.ebay.com,20186,LED LCD,16:09,4 ms,27\
+ENTITY#135,www.ebay.com,20338,LED LCD,16:09,4 ms,27\
+ENTITY#135,www.ebay.com,20396,LED LCD,16:09,8 ms,27\
+ENTITY#135,www.ebay.com,20520,LED LCD,16:09,8 ms,27\
+ENTITY#135,www.ebay.com,21101,LED LCD,16:09,,27\
+ENTITY#135,www.ebay.com,22067,LED LCD,16:09,6 ms,27\
+ENTITY#135,www.ebay.com,22986,LED LCD,16:09,,27\
+ENTITY#136,www.planet-computer.it,13,LED,16:09,1 ms,60.96 cm
+ENTITY#136,www.shopmania.com,39,LED,16:09,5 ms,24 inch (more than 74%)
+ENTITY#136,www.nexus-t.co.uk,69,LCD,16:09,1ms (GTG),24\
+ENTITY#136,www.makingbuyingeasy.co.uk,257,TN+Film,16:09,1 ms,60.96 cm
+ENTITY#136,www.pc-canada.com,373,LCD Monitor,16:09,1 ms,24\
+ENTITY#136,ca.pcpartpicker.com,566,,16:09,1 ms,24\
+ENTITY#136,ce.yikus.com,728,,: 1.78:1,,: 25.8in L X 17in W X 5.5in H
+ENTITY#136,www.softwarecity.ca,5797,LCD Monitor,16:09,1 ms,24\
+ENTITY#136,www.ebay.com,9552,LED LCD,16:09,1 ms,24\
+ENTITY#136,www.ebay.com,10044,LED LCD,16:09,1 ms,24\
+ENTITY#136,www.ebay.com,12224,LED LCD,16:09,1 ms,24\
+ENTITY#136,www.ebay.com,16706,LED LCD,16:09,1 ms,24\
+ENTITY#136,www.ebay.com,17085,LED LCD,16:09,1 ms,24\
+ENTITY#136,www.ebay.com,19854,LED LCD,16:09,1 ms,24\
+ENTITY#136,www.ebay.com,21338,LED LCD,16:09,1 ms,24\
+ENTITY#136,www.ebay.com,23398,LED LCD,16:09,1 ms,24\
+ENTITY#137,www.ebay.com,11142,LED LCD,16:09,5 ms,20\
+ENTITY#137,www.ebay.com,12156,LED LCD,16:09,5 ms,20\
+ENTITY#137,www.ebay.com,16476,,,,
+ENTITY#137,www.ebay.com,20303,,,5 ms,
+ENTITY#137,www.ebay.com,21301,LED LCD,16:09,5 ms,19.5\
+ENTITY#137,www.ebay.com,22276,,,,
+ENTITY#137,www.ebay.com,23754,,16:09,,
+ENTITY#138,ca.pcpartpicker.com,63,,16:09,12 ms,21.5\
+ENTITY#138,www.getprice.com.au,145,"Touch,LED",,12 ms,
+ENTITY#138,www.makingbuyingeasy.co.uk,336,LED,16:09,12 ms,54.6 cm
+ENTITY#138,www.vology.com,2164,LED-backlit LCD monitor / TFT active matrix,Widescreen - 16:9 Widescreen - 16:9,25 ms (On/Off); 12 ms (Overdrive) 25 ms (On/Off); 12 ms (Overdrive),21.5\
+ENTITY#138,www.ebay.com,15089,LED LCD,16:09,,
+ENTITY#138,www.ebay.com,15341,Touch Screen,16:09,12 ms,22\
+ENTITY#138,www.ebay.com,16855,,16:09,12 ms,22\
+ENTITY#138,www.ebay.com,20422,Touch Screen,16:09,12 ms,22\
+ENTITY#138,www.ebay.com,21841,Touch Screen,16:09,12 ms,22\
+ENTITY#138,www.ebay.com,22252,Touch Screen,16:09,12 ms,22\
+ENTITY#138,www.ebay.com,23394,Touch Screen,16:09,12 ms,22\
+ENTITY#139,www.planet-computer.it,153,LED,16:09,5 ms,"54,61 cm"
+ENTITY#139,www.officedepot.com,157,LCD Monitor,16:09,5 ms,21.5\
+ENTITY#139,www.hardware-planet.it,172,LED,16:09,5 ms,"54,61 cm (21.5\"
+ENTITY#139,www.makingbuyingeasy.co.uk,493,TN+Film,16:09,5 ms,54.61 cm
+ENTITY#139,ca.pcpartpicker.com,605,,16:09,5 ms,21.5\
+ENTITY#139,www.vology.com,2507,LED-backlit LCD monitor / TFT active matrix,Widescreen - 16:9 Widescreen - 16:9,5 ms 5 ms,21.5\
+ENTITY#139,www.ebay.com,11368,LED LCD,16:09,22 ms,21.5\
+ENTITY#139,www.ebay.com,15349,LED LCD,16:09,22 ms,
+ENTITY#139,www.ebay.com,16404,,16:09,,
+ENTITY#139,www.ebay.com,18299,LED LCD,16:09,22 ms,
+ENTITY#139,www.ebay.com,18898,,16:09,5 ms 22 ms\nMPN:\nS22C200B,22 (diagonal) widescreen display 21.5\
+ENTITY#140,www.makingbuyingeasy.co.uk,10,AD-PLS,16:09,5 ms,54.61 cm
+ENTITY#140,www.hardware-planet.it,158,LED,16:09,5 ms,"54,61 cm (21.5\"
+ENTITY#140,www.ohc24.ch,260,Samsung S22C650D - LED monitor - 21.5\,Widescreen - 16:9,5 ms (grey-to-grey),
+ENTITY#140,ca.pcpartpicker.com,409,,16:09,5 ms,21.5\
+ENTITY#140,www.ohc24.ch,471,Samsung S24C650BW - LED monitor - 24\,Widescreen - 16:10,5 ms,
+ENTITY#140,www.ohc24.ch,868,Samsung S22C650D - LED monitor - 21.5\,Widescreen - 16:9,5 ms (grey-to-grey),
+ENTITY#140,www.ebay.com,11280,,16:09,5ms (GTG),21.5\
+ENTITY#140,www.ebay.com,22164,LED LCD,,,
+ENTITY#140,www.ebay.com,23190,LED LCD,16:09,22 ms,21.5\
+ENTITY#141,www.hardware-planet.it,67,LED,16:09,5 ms,"54,61 cm (21.5\"
+ENTITY#141,www.xpcpro.com,166,LED,16:09,5 ms,21.5 \
+ENTITY#141,ca.pcpartpicker.com,214,,16:09,5 ms,21.5\
+ENTITY#141,www.getprice.com.au,218,LCD,,5 ms,
+ENTITY#141,www.pcconnection.com,435,LED display,,5 ms,21.5 in
+ENTITY#141,www.vology.com,2510,LED-backlit LCD monitor / TFT active matrix,Widescreen - 16:9 Widescreen - 16:9,5 ms (gray-to-gray) 5 ms (gray-to-gray),
+ENTITY#141,www.ebay.com,11029,LED LCD,16:09,5 ms 5 ms\nMPN:\nS22D300HY,22 (diagonal) widescreen display
+ENTITY#141,www.ebay.com,21513,,16:09,5 ms,21.5\
+ENTITY#141,www.ebay.com,21782,LED LCD,,,
+ENTITY#142,ce.yikus.com,147,,: 1.78:1,,: 23 Inches
+ENTITY#142,catalog.com,514,,16:09,,
+ENTITY#142,ca.pcpartpicker.com,555,,16:09,7 ms,23\
+ENTITY#142,www.ebay.com,9516,LED LCD,16:09,7 ms,21.5\
+ENTITY#142,www.ebay.com,10874,LED LCD,16:09,7 ms,23\
+ENTITY#142,www.ebay.com,11102,LED LCD,16:09,,23\
+ENTITY#142,www.ebay.com,15054,LED LCD,16:09,7 ms,
+ENTITY#142,www.ebay.com,18237,LED LCD,16:09,7 ms,23\
+ENTITY#142,www.ebay.com,18572,,16:09,7ms,
+ENTITY#142,www.ebay.com,19118,LED LCD,16:09,7 ms,23\
+ENTITY#142,www.ebay.com,20331,LED LCD,,,
+ENTITY#142,www.ebay.com,22459,LED LCD,16:09,7 ms,23\
+ENTITY#143,www.mrhightech.com,90,LED,16:09,6 ms,60.97 cm
+ENTITY#143,ca.pcpartpicker.com,175,,16:09,6 ms,24\
+ENTITY#143,www.makingbuyingeasy.co.uk,193,LED,16:09,6 ms,60.97 cm
+ENTITY#143,ce.yikus.com,193,,: 1.78:1,,
+ENTITY#143,www.officedepot.com,244,,16:09,6 ms,24 inches
+ENTITY#143,www.getprice.com.au,350,LED,,No info,
+ENTITY#143,catalog.com,587,,16:09,,
+ENTITY#143,www.ebay.com,14225,LED LCD,Widescreen - 16:9,6 ms,
+ENTITY#143,www.ebay.com,19860,LED LCD,16:09,6 ms,24\
+ENTITY#143,www.ebay.com,20226,LED LCD,16:10,8 ms,24\
+ENTITY#143,www.ebay.com,21581,,Widescreen (16:9),6 ms with overdrive (gray to gray),
+ENTITY#143,www.ebay.com,22584,LED LCD,16:09,6 ms,24\
+ENTITY#143,www.ebay.com,22846,LED LCD,16:09,6 ms,24\
+ENTITY#144,ca.pcpartpicker.com,235,,16:09,5 ms,24\
+ENTITY#144,www.officedepot.com,269,LCD Monitor,16:09,5 ms,24\
+ENTITY#144,catalog.com,292,LED,16:09,,
+ENTITY#144,catalog.com,333,LED LCD,16:09,,
+ENTITY#144,www.vology.com,2403,LED-backlit LCD monitor / TFT active matrix,Widescreen - 16:9 Widescreen - 16:9,5 ms 5 ms,24\
+ENTITY#144,www.softwarecity.ca,5698,LCD Monitor,16:09,5 ms,23.6\
+ENTITY#144,www.ebay.com,10768,,16:09,5 ms,24
+ENTITY#144,www.ebay.com,14705,LED LCD,16:09,,24\
+ENTITY#144,www.ebay.com,22554,,16:09,5 ms,24\
+ENTITY#144,www.ebay.com,22615,TFT Active Matrix,16:09,5 Ms,
+ENTITY#144,www.ebay.com,23488,LED LCD,16:09,,24
+ENTITY#144,www.ebay.com,23711,,,5 ms,24 (diagonal) widescreen display
+ENTITY#145,www.xpcpro.com,210,TFT/PLS,16:09,5 ms,59.94 cm
+ENTITY#145,www.hardware-planet.it,273,LED,16:09,5 ms,"59,94 cm 60,96 cm (24\"
+ENTITY#145,www.getprice.com.au,354,LED,,5 ms,
+ENTITY#145,catalog.com,490,TFT PLS,,,
+ENTITY#145,ca.pcpartpicker.com,620,,16:09,5 ms,23.6\
+ENTITY#145,www.pcconnection.com,1122,LED display,,5 ms,23.6 in
+ENTITY#145,www.ebay.com,10726,,,5 ms,24 (diagonal) widescreen PLS display (23.6' viewable)
+ENTITY#145,www.ebay.com,10730,LED LCD,16:09,,23.5\
+ENTITY#145,www.ebay.com,18078,LED LCD,16:09,5ms,23.6\
+ENTITY#145,www.ebay.com,19641,,16:09,5 ms,23.6\
+ENTITY#145,www.ebay.com,20464,LED LCD,,,
+ENTITY#145,www.ebay.com,21030,LED LCD,,5 ms,24\
+ENTITY#145,www.ebay.com,21673,LED LCD,,5 ms,24\
+ENTITY#145,www.ebay.com,22075,LED LCD,,5 ms,24\
+ENTITY#145,www.ebay.com,22134,LED LCD,16:09,5ms,23.6\
+ENTITY#145,www.ebay.com,22239,LED LCD,,5 ms,24\
+ENTITY#145,www.ebay.com,22940,LED LCD,,5 ms,24\
+ENTITY#145,www.ebay.com,23303,LED LCD,,5 ms,24\
+ENTITY#146,www.shopmania.com,42,LED,16:09,7 ms,27 inch (more than 84%)
+ENTITY#146,www.officedepot.com,198,,16:09,7 ms,27 inches
+ENTITY#146,www.cleverboxes.com,528,In-Plane Switching Glossy 16.7 Million Colour,16:09,7ms,27in Display Area - 59.79 x 33.63cm
+ENTITY#146,catalog.com,561,LED LCD,16:09,,
+ENTITY#146,ce.yikus.com,568,,: 1.78:1,,
+ENTITY#146,www.ebay.com,16564,LED LCD,16:09,7 ms,27\
+ENTITY#146,www.ebay.com,19444,LED LCD,16:09,7 ms,27\
+ENTITY#146,www.ebay.com,20035,,16:09,7 ms,27\
+ENTITY#146,www.ebay.com,20218,LED LCD,16:09,7 ms with overdrive (gray to gray),
+ENTITY#146,www.ebay.com,23133,LED LCD,16:09,7 ms,27\
+ENTITY#148,www.ebay.com,11846,LED LCD,16:09,2 ms,21.5\
+ENTITY#148,www.ebay.com,12324,LED LCD,16:09,2 ms,21.5\
+ENTITY#148,www.ebay.com,14486,LED LCD,16:09,2 ms,21.5\
+ENTITY#148,www.ebay.com,16702,LED LCD,16:09,2 ms,21.5\
+ENTITY#148,www.ebay.com,19581,LED LCD,16:09,2 ms,21.5\
+ENTITY#148,www.ebay.com,19993,LED LCD,16:09,2 ms,21.5\
+ENTITY#148,www.ebay.com,20370,LED LCD,,,
+ENTITY#148,www.ebay.com,21029,LED LCD,16:09,2 ms,21.5\
+ENTITY#148,www.ebay.com,21984,LED LCD,16:09,2 ms,21.5\
+ENTITY#148,www.ebay.com,22567,LED LCD,16:09,2 ms,21.5\
+ENTITY#148,www.ebay.com,23342,LED LCD,16:09,2 ms,21.5\
+ENTITY#151,www.officedepot.com,312,LCD Monitor,,12 ms,15.6\
+ENTITY#151,www.ohc24.ch,437,HP U160 - LED monitor - 15.6\,Widescreen - 16:9,12 ms,
+ENTITY#151,www.makingbuyingeasy.co.uk,488,TN+Film,16:09,12 ms,39.6 cm
+ENTITY#151,www.ebay.com,12218,LED LCD,16:09,12 ms,15.6\
+ENTITY#151,www.ebay.com,18447,LED LCD,16:09,12 ms,15.6\
+ENTITY#151,www.ebay.com,18479,LED LCD,16:09,12 ms,15.6\
+ENTITY#151,www.ebay.com,18677,LED LCD,16:09,12 ms,15.6\
+ENTITY#151,www.ebay.com,20849,LED LCD,16:09,12 ms,15.6\
+ENTITY#152,catalog.com,545,,16:10,,
+ENTITY#152,ce.yikus.com,686,,,,
+ENTITY#152,www.vology.com,2590,LCD monitor / TFT active matrix,Widescreen - 16:10 Widescreen - 16:10,6 ms 6 ms,24\
+ENTITY#152,www.ebay.com,14582,LCD,16:10,6 ms,24\
+ENTITY#152,www.ebay.com,16272,LCD,,,24\
+ENTITY#152,www.ebay.com,16615,LCD,,,24\
+ENTITY#152,www.ebay.com,19090,LCD,,,24\
+ENTITY#152,www.ebay.com,19128,LCD,,,24\
+ENTITY#152,www.ebay.com,20093,LCD,16:10,6 ms,24\
+ENTITY#152,www.ebay.com,20632,LCD,16:10,6 ms,24\
+ENTITY#152,www.ebay.com,23347,LCD,,,24\
+ENTITY#152,www.ebay.com,23377,LCD,16:10,6 ms,24\
+ENTITY#153,www.nexus-t.co.uk,9,LCD,16:10,6ms,24\
+ENTITY#153,www.getprice.com.au,361,LED,,6 ms,
+ENTITY#153,ca.pcpartpicker.com,397,,16:10,6 ms,24\
+ENTITY#153,catalog.com,406,LED,16:10,,
+ENTITY#153,www.makingbuyingeasy.co.uk,428,LED,16:10,6 ms,60.96 cm
+ENTITY#153,www.shopmania.com,653,LED,16:10,6 ms,24 inch (more than 74%)
+ENTITY#153,www.vology.com,2270,LED-backlit LCD monitor / TFT active matrix,Widescreen - 16:10 Widescreen - 16:10,6 ms (gray-to-gray) 6 ms (gray-to-gray),24\
+ENTITY#153,www.ebay.com,11900,LED LCD,16:10,6 ms,24\
+ENTITY#153,www.ebay.com,15204,LED LCD,16:10,6 ms (grey to grey),
+ENTITY#154,www.shopmania.com,35,LED,16:09,8 ms,23.8 inch (more than 73%)
+ENTITY#154,www.getprice.com.au,173,LED,,8 ms,
+ENTITY#154,catalog.com,526,LCD,,,
+ENTITY#154,www.vology.com,2241,LED-backlit LCD monitor / TFT active matrix,Widescreen - 16:9 Widescreen - 16:9,8 ms (gray-to-gray) 8 ms (gray-to-gray),23.8\
+ENTITY#154,www.best-deal-items.com,2278,,,,
+ENTITY#154,www.ebay.com,11934,LCD,,,24\
+ENTITY#154,www.ebay.com,17028,LCD,,,24\
+ENTITY#154,www.ebay.com,20671,LED LCD,,,24\
+ENTITY#154,www.ebay.com,21066,LED LCD,,,
+ENTITY#154,www.ebay.com,21498,LCD,,,24\
+ENTITY#155,www.officedepot.com,204,,16:09,6 ms (gray-to-gray),27 inches
+ENTITY#155,ca.pcpartpicker.com,303,,16:09,6 ms,27\
+ENTITY#155,www.cleverboxes.com,403,Widescreen Flat Panel 1.07 Billion Colour,16:09,6ms,27in
+ENTITY#155,www.makingbuyingeasy.co.uk,554,LED,16:09,6 ms,67.47 cm
+ENTITY#155,www.getprice.com.au,554,LED,,6 ms,
+ENTITY#155,catalog.com,565,LED LCD,16:09,,
+ENTITY#155,www.vology.com,2630,LED-backlit LCD monitor / TFT active matrix,Widescreen - 16:9 Widescreen - 16:9,6 ms (gray-to-gray) 6 ms (gray-to-gray),27\
+ENTITY#155,www.ebay.com,14244,LED LCD,16:09,27 ms,27\
+ENTITY#155,www.ebay.com,22144,LED LCD,16:09,27 ms,27\
+ENTITY#155,www.ebay.com,22146,LED LCD,16:09,27 ms,27\
+ENTITY#156,www.ohc24.ch,22,Dell UltraSharp U2713HM - LED monitor - 27\,Widescreen - 16:9,8 ms (grey-to-grey),
+ENTITY#156,ce.yikus.com,25,,: 16:9,,
+ENTITY#156,www.nexus-t.co.uk,111,LCD,16:09,8ms,27\
+ENTITY#156,www.officedepot.com,256,,16:09,8 ms (gray-to-gray),27 inches
+ENTITY#156,www.makingbuyingeasy.co.uk,269,LED,16:09,8 ms,68.58 cm
+ENTITY#156,www.cleverboxes.com,314,Widescreen Flat Panel 16.78 million Colour,16:09,8ms,27in
+ENTITY#156,www.makingbuyingeasy.co.uk,322,LCD,16:09,68.58 ms,68.58 cm
+ENTITY#156,www.cleverboxes.com,326,Widescreen Flat Panel 16.78 million Colour,16:09,8ms,27in
+ENTITY#156,www.vology.com,2180,LED-backlit LCD monitor / TFT active matrix,Widescreen - 16:9 Widescreen - 16:9,8 ms (gray-to-gray) 8 ms (gray-to-gray),27\
+ENTITY#156,www.ebay.com,19710,LED LCD,16:09,8 ms,27\
+ENTITY#156,www.ebay.com,20619,LED LCD,16:09,8 ms,27\
+ENTITY#157,www.cleverboxes.com,60,AH In-plane switching 16.7 Million Colour,21:09,8ms,29in Display Area - 69.46 x 30.89cm
+ENTITY#157,www.mrhightech.com,97,IPS,21:09,8 ms,73.02 cm
+ENTITY#157,www.mediashopuk.com,117,IPS,21:09,8 ms,73.02 cm
+ENTITY#157,www.makingbuyingeasy.co.uk,167,LED,21:09,8 ms,73.02 cm
+ENTITY#157,ca.pcpartpicker.com,184,,21:09,8 ms,29\
+ENTITY#157,www.ohc24.ch,184,Dell UltraSharp U2913WM - LED monitor - 29\,Widescreen - 21:9,8 ms (grey-to-grey),
+ENTITY#157,www.officedepot.com,219,,21.3:9,8 ms (gray-to-gray),28.75 inches
+ENTITY#157,www.getprice.com.au,374,LED,,8 ms,
+ENTITY#157,www.vology.com,2304,LED-backlit LCD monitor / TFT active matrix,Widescreen - 21:9 Widescreen - 21:9,8 ms (gray-to-gray) 8 ms (gray-to-gray),29\
+ENTITY#157,www.ebay.com,14203,IPS,21:09,8 ms,29\
+ENTITY#157,www.ebay.com,20293,IPS,21:09,8 ms,29\
+ENTITY#157,www.ebay.com,20814,LED LCD,21:09,8 ms,29\
+ENTITY#157,www.ebay.com,21257,IPS,21:09,8 ms,29\
+ENTITY#157,www.ebay.com,21631,IPS,21:09,8 ms,29\
+ENTITY#157,www.ebay.com,22877,LED LCD,,21 ms,29\
+ENTITY#158,www.officedepot.com,194,,16:10,6 ms (gray-to-gray),30 inches
+ENTITY#158,www.getprice.com.au,284,LED,,6 ms,
+ENTITY#158,www.jrlinton.co.uk,412,UltraSharp U3014 Widescreen LCD Monitor,16:10,6 ms,76.2 cm (30\
+ENTITY#158,catalog.com,533,LED,16:09,,
+ENTITY#158,www.makingbuyingeasy.co.uk,630,IPS,16:10,6 ms,75.6 cm
+ENTITY#158,ce.yikus.com,1049,,: 1.78:1,,
+ENTITY#158,www.vology.com,2336,LED-backlit LCD monitor / TFT active matrix,Widescreen - 16:10 Widescreen - 16:10,6 ms 6 ms,29.8\
+ENTITY#158,www.ebay.com,15542,LED LCD,16:09,6 ms,30\
+ENTITY#158,www.ebay.com,23047,,16:10,6 ms,30\
+ENTITY#159,www.best-deal-items.com,80,,,,
+ENTITY#159,ca.pcpartpicker.com,475,,5:04,5 ms,17\
+ENTITY#159,www.best-deal-items.com,1362,,,,
+ENTITY#159,www.best-deal-items.com,1496,,,,
+ENTITY#159,www.best-deal-items.com,1959,,,,
+ENTITY#159,www.best-deal-items.com,2701,,,,
+ENTITY#159,www.best-deal-items.com,2786,,,,
+ENTITY#159,www.ebay.com,19589,LCD,,,15.1\
+ENTITY#159,www.ebay.com,19997,LCD,,,14.5\
+ENTITY#159,www.ebay.com,21042,"Flat Panel LCD TFT (Active Matrix), LCD, LCD Flat Panel LCD TFT (Active Matrix), LCD Flat Panel LCD TFT (Active Matrix) LCD Flat Panel LCD TFT (Active Matrix)",5:04,5 ms,17\
+ENTITY#159,www.ebay.com,21376,LCD,5:04,5 ms,17\
+ENTITY#159,www.ebay.com,23467,LCD,5:04,5 ms,17\
+ENTITY#160,www.pc-canada.com,11,LCD Monitor,5:04,5 ms,17\
+ENTITY#160,www.odsi.co.uk,94,LED-backlit LCD monitor / TFT active matrix,,5 ms,17\
+ENTITY#160,www.odsi.co.uk,128,LED-backlit LCD monitor / TFT active matrix,,5 ms 5 ms,17\
+ENTITY#160,www.officedepot.com,191,LCD Monitor,5:04,5 ms,17\
+ENTITY#160,www.officedepot.com,231,LCD Monitor,5:04,5 ms,17\
+ENTITY#160,www.best-deal-items.com,238,,5:04,,
+ENTITY#160,www.officedepot.com,293,LCD Monitor,5:04,5 ms,17\
+ENTITY#160,www.best-deal-items.com,325,,,,
+ENTITY#160,www.best-deal-items.com,854,,,,
+ENTITY#160,www.best-deal-items.com,1020,,5:04,,
+ENTITY#160,www.best-deal-items.com,2297,,5:04,,
+ENTITY#160,www.best-deal-items.com,2730,,5:04,,
+ENTITY#160,www.softwarecity.ca,5452,LCD Monitor,5:04,5 ms,17\
+ENTITY#160,www.ebay.com,11045,,5:04,5 ms,17\
+ENTITY#160,www.ebay.com,20837,LED LCD,5:04,5 ms,17\
+ENTITY#160,www.ebay.com,22120,,5:04,5 ms,17\
+ENTITY#161,www.officedepot.com,136,LCD Monitor,16:10,5 ms,19\
+ENTITY#161,www.officedepot.com,215,LCD Monitor,16:10,5 ms,19\
+ENTITY#161,www.officedepot.com,304,LCD Monitor,16:10,5 ms,19\
+ENTITY#161,catalog.com,360,LED LCD,16:10,,
+ENTITY#161,www.makingbuyingeasy.co.uk,466,LCD,16:09,5 ms,48.3 cm
+ENTITY#161,www.pcconnection.com,525,LCD LED-backlit,,5 ms,19 in
+ENTITY#161,www.pcconnection.com,1224,LED-backlit LCD,,5 ms,19 in
+ENTITY#161,www.pcconnection.com,1841,LCD LED-backlit,,5 ms,19 in
+ENTITY#161,www.pcconnection.com,2113,LED-backlit LCD,,5 ms,19 in
+ENTITY#161,www.softwarecity.ca,5419,LCD Monitor,16:10,5 ms,19\
+ENTITY#161,www.ebay.com,9558,LED LCD,16:10,5 ms,19\
+ENTITY#161,www.ebay.com,15153,,16:10,19 ms,19
+ENTITY#161,www.ebay.com,16681,,,,
+ENTITY#161,www.ebay.com,18737,LED LCD,,5 ms,19\
+ENTITY#161,www.ebay.com,19766,LCD,16:10,19 ms,19\
+ENTITY#161,www.ebay.com,20145,,16:10,,
+ENTITY#161,www.ebay.com,20800,,,,
+ENTITY#161,www.ebay.com,21241,,16:10,5 ms,
+ENTITY#161,www.ebay.com,23269,,16:10,,
+ENTITY#162,www.officedepot.com,172,LCD Monitor,16:10,5 ms,22\
+ENTITY#162,www.officedepot.com,254,LCD Monitor,16:10,5 ms,22\
+ENTITY#162,www.pc-canada.com,299,LCD Monitor,16:10,5 ms,22\
+ENTITY#162,catalog.com,499,LCD,16:10,,
+ENTITY#162,www.pcconnection.com,2110,LCD LED-backlit,,5 ms,22 in
+ENTITY#162,www.pcconnection.com,3431,LED-backlit LCD,,5 ms,22 in
+ENTITY#162,www.softwarecity.ca,5423,LCD Monitor,16:10,5 ms,22\
+ENTITY#162,www.ebay.com,18337,,16:10,5 ms,
+ENTITY#162,www.ebay.com,18978,,16:10,22 ms,22
+ENTITY#162,www.ebay.com,20135,,16:10,,
+ENTITY#162,www.ebay.com,22029,,16:10,,
+ENTITY#162,www.ebay.com,23505,,16:10,5 ms,
+ENTITY#163,ca.pcpartpicker.com,39,,16:09,5 ms,24\
+ENTITY#163,www.pcconnection.com,260,LED-backlit LCD,,5 ms,24 in
+ENTITY#163,www.officedepot.com,315,LCD Monitor,16:09,5 ms,24\
+ENTITY#163,www.officedepot.com,317,LCD Monitor,16:09,5 ms,24\
+ENTITY#163,www.pcconnection.com,2662,LCD LED display,,5 ms,24 in
+ENTITY#163,www.softwarecity.ca,5459,LCD Monitor,16:09,5 ms,24\
+ENTITY#163,www.softwarecity.ca,5714,LCD Monitor,16:09,5 ms,24\
+ENTITY#163,www.softwarecity.ca,5785,LCD Monitor,16:09,5 ms,24\
+ENTITY#163,www.ebay.com,19156,LED LCD,,,24\
+ENTITY#163,www.ebay.com,19576,LED LCD,16:09,5 ms,24\
+ENTITY#163,www.ebay.com,20483,LED LCD,16:09,5 ms,24\
+ENTITY#163,www.ebay.com,20610,LED LCD,16:09,24 ms,24\
+ENTITY#163,www.ebay.com,23279,,16:09,5 ms,
+ENTITY#164,www.mrhightech.com,61,LCD,,5 ms,584.2 mm (23 \
+ENTITY#164,www.odsi.co.uk,62,LED-backlit LCD monitor / TFT active matrix,Widescreen - 16:9,5 ms,23\
+ENTITY#164,www.mediashopuk.com,98,LCD,,5 ms,584.2 mm (23 \
+ENTITY#164,www.xpcpro.com,223,LCD,,5 ms,23 \
+ENTITY#164,www.officedepot.com,274,LCD Monitor,16:09,5 ms,23\
+ENTITY#164,www.itenergy.co.uk,327,LCD Monitor,16:09,5 ms,58.4 cm (23\
+ENTITY#164,www.imldirect.it,417,LCD Monitor,16:09,5 ms,58.4 cm (23\
+ENTITY#164,ca.pcpartpicker.com,521,,16:09,5 ms,23\
+ENTITY#164,www.jrlinton.co.uk,1577,VA2349s Widescreen LCD Monitor,16:09,5 ms,58.4 cm (23\
+ENTITY#164,www.jrlinton.co.uk,1670,VA2349s Widescreen LCD Monitor,16:09,5 ms,58.4 cm (23\
+ENTITY#164,www.softwarecity.ca,5859,LCD Monitor,16:09,5 ms,23\
+ENTITY#165,www.officedepot.com,263,LCD Monitor,16:09,5 ms,21.5\
+ENTITY#165,www.pc-canada.com,328,LCD Monitor,16:09,5 ms,21.5\
+ENTITY#165,www.getprice.com.au,340,LCD,,5 ms,
+ENTITY#165,ca.pcpartpicker.com,363,,16:09,5 ms,21.5\
+ENTITY#165,www.shopmania.com,673,LED,4:03,5 ms,22 inch (more than 50%)
+ENTITY#165,ce.yikus.com,1309,,: 4:3,,: 22.5in L X 18.5in W X 6in H
+ENTITY#165,www.vology.com,2660,LED-backlit LCD monitor / TFT active matrix,Widescreen - 16:9 Widescreen - 16:9,5 ms 5 ms,21.5\
+ENTITY#165,www.softwarecity.ca,5653,LCD Monitor,16:09,5 ms,21.5\
+ENTITY#165,www.ebay.com,10100,LED LCD,4:03,5 ms,21.5\
+ENTITY#165,www.ebay.com,11054,LED LCD,4:03,5 ms,21.5\
+ENTITY#165,www.ebay.com,19711,LED LCD,4:03,5 ms,21.5\
+ENTITY#165,www.ebay.com,22316,LED LCD,4:03,5 ms,21.5\
+ENTITY#165,www.ebay.com,22427,LED LCD,4:03,5 ms,21.5\
+ENTITY#165,www.ebay.com,22672,LED LCD,,,22\
+ENTITY#165,www.ebay.com,22751,LED LCD,4:03,5 ms,21.5\
+ENTITY#165,www.ebay.com,23425,LED LCD,4:03,5 ms,21.5\
+ENTITY#166,www.shopmania.com,53,LCD,16:09,2 ms (less than 89%),27 inch (more than 84%)
+ENTITY#166,ca.pcpartpicker.com,66,,16:09,2 ms,27\
+ENTITY#166,www.officedepot.com,169,LCD Monitor,16:09,2 ms,27\
+ENTITY#166,www.pc-canada.com,310,LCD Monitor,16:09,2 ms,27\
+ENTITY#166,www.getprice.com.au,388,LED,,2 ms,
+ENTITY#166,www.vology.com,2451,LED-backlit LCD monitor / TFT active matrix,Widescreen - 16:9 Widescreen - 16:9,2 ms (gray-to-gray) 2 ms (gray-to-gray),27\
+ENTITY#166,www.softwarecity.ca,5748,LCD Monitor,16:09,2 ms,27\
+ENTITY#166,www.ebay.com,14867,,16:09,2 ms,27\
+ENTITY#166,www.ebay.com,16991,LED LCD,,,27\
+ENTITY#166,www.ebay.com,18979,,16:09,2 ms,27\
+ENTITY#166,www.ebay.com,21565,,16:09,2 ms,27\
+ENTITY#166,www.ebay.com,22048,LED LCD,16:09,2 ms,27\
+ENTITY#166,www.ebay.com,23245,LED LCD,16:09,2 ms,
+ENTITY#166,www.ebay.com,23545,LED LCD,16:09,2 ms,27\
+ENTITY#167,ca.pcpartpicker.com,59,,16:09,2 ms,27\
+ENTITY#167,www.mrhightech.com,98,,,2 ms,685.8 mm (27 \
+ENTITY#167,www.mediashopuk.com,126,,,2 ms,685.8 mm (27 \
+ENTITY#167,www.officedepot.com,330,LCD Monitor,16:09,2 ms,27\
+ENTITY#167,www.getprice.com.au,335,LCD,,2 ms,
+ENTITY#167,catalog.com,521,LED LCD,16:09,,
+ENTITY#167,www.shopmania.com,670,LED,16:09,2 ms (less than 89%),27\
+ENTITY#167,www.vology.com,2444,LCD monitor / TFT active matrix,Widescreen - 16:9 Widescreen - 16:9,2 ms 2 ms,27\
+ENTITY#167,www.softwarecity.ca,5829,LCD Monitor,16:09,2 ms,27\
+ENTITY#167,www.ebay.com,14348,,16:09,2 ms,27\
+ENTITY#167,www.ebay.com,16897,LED LCD,16:09,2 ms,27\
+ENTITY#167,www.ebay.com,20105,LED LCD,16:09,2 ms,27\
+ENTITY#167,www.ebay.com,21172,LED LCD,,,
+ENTITY#167,www.ebay.com,21289,LED LCD,16:09,2 ms,27\
+ENTITY#167,www.ebay.com,22598,LED LCD,16:09,2 ms,27\
+ENTITY#168,www.shopmania.com,30,LED,16:09,2 ms (less than 89%),27 inch (more than 84%)
+ENTITY#168,www.nexus-t.co.uk,125,LCD,16:09,2ms (GTG),27\
+ENTITY#168,www.hardware-planet.it,169,LCD,16:09,2 ms,685.8 mm (27 \
+ENTITY#168,www.imldirect.it,213,LCD Monitor,16:09,2 ms,68.6 cm (27\
+ENTITY#168,www.makingbuyingeasy.co.uk,220,LCD,16:09,2 ms,68.58 cm (27\
+ENTITY#168,www.getprice.com.au,277,LCD,,2 ms,
+ENTITY#168,www.kingsfieldcomputers.co.uk,297,LCD Monitor,16:09,2 ms,68.6 cm (27\
+ENTITY#168,ca.pcpartpicker.com,339,,16:09,2 ms,27\
+ENTITY#168,www.cleverboxes.com,379,Widescreen 16.7 Million Colour,16:09,2ms,27in
+ENTITY#168,www.jrlinton.co.uk,646,VG278HE Widescreen LCD Monitor,16:09,2 ms,68.6 cm (27\
+ENTITY#168,www.pcconnection.com,1256,,,,27 in
+ENTITY#168,www.best-deal-items.com,1617,,,,
+ENTITY#168,www.vology.com,2422,LCD monitor / TFT active matrix,Widescreen - 16:9 Widescreen - 16:9,2 ms 2 ms,27\
+ENTITY#168,www.softwarecity.ca,5733,LCD Monitor,16:09,2 ms,27\
+ENTITY#168,www.ebay.com,18003,LCD,16:09,4 ms,27\
+ENTITY#168,www.ebay.com,19048,LCD,16:09,4 ms,27\
+ENTITY#169,www.nexus-t.co.uk,70,LCD,16:09,2ms (GTG),21.5\
+ENTITY#169,www.makingbuyingeasy.co.uk,148,LED,16:09,5 ms,54.6 cm
+ENTITY#169,www.hardware-planet.it,215,LED,4:03,5 ms,546.1 mm (21.5 \
+ENTITY#169,www.getprice.com.au,291,"LCD,LED",,5 ms,
+ENTITY#169,www.cleverboxes.com,298,Widescreen 16.7 Million Colour,16:09,5ms,21.5in
+ENTITY#169,www.makingbuyingeasy.co.uk,361,LED,16:09,5 ms,54.6 cm
+ENTITY#169,www.makingbuyingeasy.co.uk,624,LED,16:09,5 ms,54.6 cm
+ENTITY#169,www.shopmania.com,682,LED,16:09,5 ms,21.5 inch
+ENTITY#169,www.ebay.com,18620,,"16:9, 4:3",5 ms,21.5\
+ENTITY#169,www.ebay.com,20673,,,,
+ENTITY#169,www.ebay.com,20747,LED LCD,"16:9, 4:3",5 ms,21.5\
+ENTITY#170,www.makingbuyingeasy.co.uk,18,LED,16:09,2 ms,61 cm
+ENTITY#170,www.nexus-t.co.uk,140,LCD,16:09,2ms (GTG),24\
+ENTITY#170,www.officedepot.com,145,LCD Monitor,16:09,2 ms,24\
+ENTITY#170,www.cleverboxes.com,216,LED Backlight LCD 16.7 Million Colour,16:09,2ms,24in
+ENTITY#170,www.makingbuyingeasy.co.uk,242,LED,16:09,2 ms,61 cm
+ENTITY#170,www.kingsfieldcomputers.co.uk,245,LCD Monitor,16:09,2 ms,61 cm (24\
+ENTITY#170,www.hardware-planet.it,309,LED,16:09,2 ms,609.6 mm (24 \
+ENTITY#170,www.makingbuyingeasy.co.uk,463,LED,16:09,2 ms,61 cm
+ENTITY#170,www.getprice.com.au,555,LCD,,2 ms,
+ENTITY#170,www.makingbuyingeasy.co.uk,639,LED,16:09,2 ms,61 cm
+ENTITY#170,www.shopmania.com,649,LED,16:09,2 ms (less than 89%),24 inch (more than 74%)
+ENTITY#170,www.imldirect.it,848,LCD Monitor,16:09,2 ms,61 cm (24\
+ENTITY#170,ce.yikus.com,968,,: Unknown,,
+ENTITY#170,www.ebay.com,20685,LCD,16:09,24 ms,24\
+ENTITY#170,www.ebay.com,22176,LCD,16:09,24 ms,24
+ENTITY#170,www.ebay.com,23348,,16:09,2 ms,24\
+ENTITY#171,ce.yikus.com,14,,: 16:9,,: 28.5in L X 7in W X 22in H
+ENTITY#171,www.shopmania.com,56,LED,16:09,2 ms (less than 89%),27 inch (more than 84%)
+ENTITY#171,www.kingsfieldcomputers.co.uk,86,LCD Monitor,16:09,2 ms,68.6 cm (27\
+ENTITY#171,www.nexus-t.co.uk,108,LCD,16:09,2ms (GTG),27\
+ENTITY#171,www.hardware-planet.it,235,,16:09,2 ms,685.8 mm (27 \
+ENTITY#171,www.officedepot.com,303,LCD Monitor,16:09,2 ms,27\
+ENTITY#171,www.cleverboxes.com,345,16.7 million Colours,16:09,2ms,
+ENTITY#171,www.makingbuyingeasy.co.uk,387,,16:09,2 ms,68.58 cm (27\
+ENTITY#171,ca.pcpartpicker.com,491,,16:09,2 ms,27\
+ENTITY#171,catalog.com,543,LCD,16:09,,
+ENTITY#171,www.imldirect.it,863,LCD Monitor,16:09,2 ms,68.6 cm (27\
+ENTITY#171,www.jrlinton.co.uk,891,VK278Q Widescreen LCD Monitor,16:09,2 ms,68.6 cm (27\
+ENTITY#171,www.vology.com,2308,LED-backlit LCD monitor / TFT active matrix,Widescreen - 16:9 Widescreen - 16:9,2 ms (gray-to-gray) 2 ms (gray-to-gray),27\
+ENTITY#171,www.softwarecity.ca,5846,LCD Monitor,16:09,2 ms,27\
+ENTITY#171,www.ebay.com,18305,LED LCD,16:09,2 ms,27\
+ENTITY#171,www.ebay.com,19549,LED LCD,16:09,2 ms,27\
+ENTITY#171,www.ebay.com,21037,LED LCD,,,27\
+ENTITY#171,www.ebay.com,23191,LED LCD,,,27\
+ENTITY#172,www.hardware-planet.it,62,LCD,16:09,1 ms,59.9 cm 599.4 mm (23.6 \
+ENTITY#172,ce.yikus.com,118,,,,
+ENTITY#172,www.nexus-t.co.uk,136,LCD,16:09,1ms (GTG),23.6\
+ENTITY#172,www.makingbuyingeasy.co.uk,235,LCD,16:09,1 ms,59.9 cm
+ENTITY#172,www.cleverboxes.com,377,LCD Widescreen 16.7 Million Colour,16:09,1ms,23.6in
+ENTITY#172,www.shopmania.com,663,LCD,16:09,1 ms (less than 99%),23.6 inch (more than 72%)
+ENTITY#172,www.imldirect.it,844,LCD Monitor,16:09,1 ms,59.9 cm (23.6\
+ENTITY#172,www.jrlinton.co.uk,963,VN247H Widescreen LCD Monitor,16:09,1 ms,59.9 cm (23.6\
+ENTITY#172,ce.yikus.com,1133,,: 1.78:1,,: 24 Inches
+ENTITY#172,www.ebay.com,9694,LED LCD,16:09,1 ms,23.6\
+ENTITY#172,www.ebay.com,11977,LED LCD,16:09,1 ms,23.6\
+ENTITY#172,www.ebay.com,14275,LED LCD,16:09,1 ms,23.6\
+ENTITY#172,www.ebay.com,16513,LED LCD,,,
+ENTITY#172,www.ebay.com,19540,LED LCD,16:09,1 ms,23.6\
+ENTITY#172,www.ebay.com,20468,LED LCD,16:09,1 ms,23.6\
+ENTITY#172,www.ebay.com,20485,LED LCD,16:09,1 ms,23.6\
+ENTITY#172,www.ebay.com,21643,LED LCD,16:09,1 ms,24
+ENTITY#172,www.ebay.com,22058,LED LCD,16:09,1 ms,23.6\
+ENTITY#172,www.ebay.com,22380,LED LCD,16:09,1 ms,23.6\
+ENTITY#172,www.ebay.com,22969,LED LCD,16:09,1 ms,23.6\
+ENTITY#173,www.pc-canada.com,307,LCD Monitor,16:09,5 ms,27\
+ENTITY#173,ca.pcpartpicker.com,411,,16:09,5 ms,27\
+ENTITY#173,www.imldirect.it,589,LCD Monitor,16:09,5 ms,68.6 cm (27\
+ENTITY#173,www.jrlinton.co.uk,892,VN279Q Widescreen LCD Monitor,16:09,5 ms,68.6 cm (27\
+ENTITY#173,www.vology.com,2634,LED-backlit LCD monitor / TFT active matrix,Widescreen - 16:9 Widescreen - 16:9,5 ms (gray-to-gray) 5 ms (gray-to-gray),27\
+ENTITY#173,www.softwarecity.ca,5457,LCD Monitor,16:09,5 ms,27\
+ENTITY#173,www.ebay.com,10841,LED LCD,,,
+ENTITY#173,www.ebay.com,20130,,16:09,5 ms,
+ENTITY#173,www.ebay.com,23534,LCD,,5 ms,27\
+ENTITY#173,www.ebay.com,23636,,,5ms (GTG),27\
+ENTITY#174,www.kingsfieldcomputers.co.uk,17,LCD Monitor,16:09,5 ms,71.1 cm (28\
+ENTITY#174,ca.pcpartpicker.com,200,,16:09,5 ms,28\
+ENTITY#174,www.makingbuyingeasy.co.uk,521,,16:09,5 ms,71.12 cm
+ENTITY#174,www.jrlinton.co.uk,613,VN289H Widescreen LCD Monitor,16:09,5 ms,71.1 cm (28\
+ENTITY#174,www.imldirect.it,694,LCD Monitor,16:09,5 ms,71.1 cm (28\
+ENTITY#174,www.pcconnection.com,1776,,,,28 in
+ENTITY#174,www.vology.com,2357,LED-backlit LCD monitor / TFT active matrix,Widescreen - 16:9 Widescreen - 16:9,5 ms (gray-to-gray) 5 ms (gray-to-gray),28\
+ENTITY#174,www.softwarecity.ca,5817,LCD Monitor,16:09,5 ms,28\
+ENTITY#174,www.ebay.com,16732,,16:09,5 ms,
+ENTITY#174,www.ebay.com,20620,LED LCD,16:09,5 ms\nMPN:\nVN289H 5 ms 5 ms,28\
+ENTITY#174,www.ebay.com,21864,,16:09,5 ms,28\
+ENTITY#174,www.ebay.com,22988,LED LCD,,,
+ENTITY#175,www.shopmania.com,90,LED,16:09,5 ms,28 inch (more than 90%)
+ENTITY#175,www.imldirect.it,177,LCD Monitor,16:09,5 ms,71.1 cm (28\
+ENTITY#175,ca.pcpartpicker.com,197,,16:09,5 ms,28\
+ENTITY#175,www.hardware-planet.it,208,,16:09,5 ms,"71,12 cm 71,12 cm (28\"
+ENTITY#175,www.kingsfieldcomputers.co.uk,588,LCD Monitor,16:09,5 ms,71.1 cm (28\
+ENTITY#175,www.jrlinton.co.uk,690,VN289Q Widescreen LCD Monitor,16:09,5 ms,71.1 cm (28\
+ENTITY#175,www.jrlinton.co.uk,1027,VN289Q Widescreen LCD Monitor,16:09,5 ms,71.1 cm (28\
+ENTITY#175,www.pcconnection.com,2007,,,,28 in
+ENTITY#175,www.vology.com,2549,LED-backlit LCD monitor / TFT active matrix,Widescreen - 16:9 Widescreen - 16:9,5 ms (gray-to-gray) 5 ms (gray-to-gray),28\
+ENTITY#175,www.softwarecity.ca,5713,LCD Monitor,16:09,5 ms,28\
+ENTITY#175,www.ebay.com,22820,,16:09,5 ms,28\
+ENTITY#176,www.xpcpro.com,121,IPS,16:09,12 ms,68.5 cm 27 \
+ENTITY#176,www.cleverboxes.com,271,TFT Active Matrix,,12ms,27in
+ENTITY#176,www.makingbuyingeasy.co.uk,324,IPS,16:09,12 ms,68.5 cm
+ENTITY#176,www.imldirect.it,328,LCD Monitor,,12 ms,68.6 cm (27\
+ENTITY#176,www.jrlinton.co.uk,561,VP2770-LED Widescreen LCD Monitor,,12 ms,68.6 cm (27\
+ENTITY#176,ca.pcpartpicker.com,593,,16:09,12 ms,27\
+ENTITY#176,www.shopmania.com,672,LED,16:09,12 ms,27 inch (more than 84%)
+ENTITY#176,www.itenergy.co.uk,784,LCD Monitor,,12 ms,68.6 cm (27\
+ENTITY#176,www.softwarecity.ca,5878,LCD Monitor,,12 ms,27\
+ENTITY#176,www.ebay.com,19560,,,12 ms,
+ENTITY#177,www.odsi.co.uk,102,LED-backlit LCD monitor / TFT active matrix,Widescreen - 16:9 Widescreen,6 ms 12 ms,27\
+ENTITY#177,www.xpcpro.com,161,TFT,16:09,12 ms,27 \
+ENTITY#177,ca.pcpartpicker.com,240,,16:09,12 ms,27\
+ENTITY#177,www.officedepot.com,329,LCD Monitor,,,27\
+ENTITY#177,www.jrlinton.co.uk,711,27\,,,68.6 cm (27\
+ENTITY#177,www.itenergy.co.uk,731,LCD Monitor,,,68.6 cm (27\
+ENTITY#177,www.imldirect.it,870,LCD Monitor,,,68.6 cm (27\
+ENTITY#177,www.softwarecity.ca,5843,LCD Monitor,,,27\
+ENTITY#177,www.ebay.com,16203,LED LCD,,,27\
+ENTITY#177,www.ebay.com,20535,,,6ms,
+ENTITY#178,www.shopmania.com,63,LED,16:09,5 ms,19 inch
+ENTITY#178,www.makingbuyingeasy.co.uk,137,LCD,16:09,5 ms,46.99 cm (18.5\
+ENTITY#178,www.officedepot.com,276,LCD Monitor,16:09,5 ms,18.5\
+ENTITY#178,www.cleverboxes.com,490,Widescreen 16.7 Million Colour,16:09,5ms,18.5in
+ENTITY#178,www.ebay.com,11261,LCD,16:09,5 ms,18.5\
+ENTITY#178,www.ebay.com,11690,LED LCD,,,
+ENTITY#178,www.ebay.com,18900,LCD,16:09,5 ms,18.5\
+ENTITY#178,www.ebay.com,22400,LCD,16:09,,18.5\
+ENTITY#178,www.ebay.com,22624,,16:09,5 ms,
+ENTITY#178,www.ebay.com,23459,LCD,16:09,5 ms,18.5\
+ENTITY#179,www.officedepot.com,14,LCD Monitor,16:09,5 ms,21.5\
+ENTITY#179,www.shopmania.com,655,LED,16:09,5 ms,22 inch (more than 50%)
+ENTITY#179,www.ebay.com,9436,LED LCD,16:09,5 ms,21.5\
+ENTITY#179,www.ebay.com,11717,LED LCD,16:09,5 ms,21.5\
+ENTITY#179,www.ebay.com,11833,LED LCD,,22.0 ms,22\
+ENTITY#179,www.ebay.com,12083,LED LCD,16:09,5 ms,21.5\
+ENTITY#179,www.ebay.com,15835,LED LCD,16:09,5 ms,21.5\
+ENTITY#179,www.ebay.com,18180,LED LCD,16:09,5 ms,21.5\
+ENTITY#179,www.ebay.com,18581,LED LCD,16:09,5 ms,21.5\
+ENTITY#179,www.ebay.com,18893,LED LCD,16:09,5 ms,22
+ENTITY#179,www.ebay.com,19958,LED LCD,16:09,5 ms,21.5\
+ENTITY#179,www.ebay.com,20155,LED LCD,16:09,5 ms,21.5\
+ENTITY#179,www.ebay.com,20385,LED LCD,16:09,5 ms,21.5\
+ENTITY#179,www.ebay.com,21072,LED LCD,16:09,5 ms,21.5\
+ENTITY#179,www.ebay.com,21358,LED LCD,16:09,5 ms,21.5\
+ENTITY#179,www.ebay.com,22151,LED LCD,16:09,5 ms,21.5\
+ENTITY#179,www.ebay.com,22161,LED LCD,16:09,5 ms,21.5\
+ENTITY#179,www.ebay.com,22966,LED LCD,,,22\
+ENTITY#179,www.ebay.com,23385,LED LCD,16:09,5 ms,21.5\
+ENTITY#180,www.shopmania.com,70,LED,16:09,14 ms,22 inch (more than 50%)
+ENTITY#180,www.officedepot.com,195,LCD Monitor,16:09,14 ms,21.5\
+ENTITY#180,ce.yikus.com,581,,: 1.78:1,,: 21.5 Inch
+ENTITY#180,www.ebay.com,11157,LED LCD,16:09,5 ms,21.5\
+ENTITY#180,www.ebay.com,11195,LED LCD,,5 ms,21.5\
+ENTITY#180,www.ebay.com,14350,LED LCD,16:09,5 ms,21.5\
+ENTITY#180,www.ebay.com,15498,,16:09,5 ms\nScreen Size:\n21.5\,
+ENTITY#180,www.ebay.com,18960,LED LCD,16:09,5 ms,21.5\
+ENTITY#180,www.ebay.com,19718,LED LCD,16:09,14 ms,
+ENTITY#180,www.ebay.com,21238,LED LCD,16:09,5 ms,21.5\
+ENTITY#180,www.ebay.com,22851,LED LCD,16:09,5 ms,21.5\
+ENTITY#181,www.shopmania.com,26,LED,16:09,2 ms (less than 89%),23 inch (more than 64%)
+ENTITY#181,www.officedepot.com,232,LCD Monitor,16:09,2 ms,23\
+ENTITY#181,www.ebay.com,14533,IPS,16:09,5 ms,23\
+ENTITY#181,www.ebay.com,14598,LED LCD,16:09,2 ms,23\
+ENTITY#181,www.ebay.com,15169,,16:09,2ms (Gray to Gray),23\
+ENTITY#181,www.ebay.com,22437,LED LCD,,,
+ENTITY#181,www.ebay.com,22684,IPS,16:09,5 ms,23\
+ENTITY#181,www.ebay.com,22913,LED LCD,,2 ms,23\
+ENTITY#181,www.ebay.com,23550,IPS,16:09,5 ms,23\
+ENTITY#181,www.ebay.com,23694,LED LCD,,,23\
+ENTITY#182,www.officedepot.com,168,LCD Monitor,16:09,2 ms,23.6\
+ENTITY#182,www.getprice.com.au,200,LCD,,5 ms,
+ENTITY#182,ce.yikus.com,250,,: 1.78:1,,
+ENTITY#182,www.shopmania.com,648,LED,16:09,2 ms (less than 89%),24 inch (more than 74%)
+ENTITY#182,www.ebay.com,18134,LED LCD,16:09,2 ms,23.6\
+ENTITY#182,www.ebay.com,18711,LED LCD,16:09,2 ms,23.6\
+ENTITY#182,www.ebay.com,20001,LED LCD,16:09,2 ms,23.6\
+ENTITY#182,www.ebay.com,20216,LED LCD,16:09,2 ms,23.6\
+ENTITY#182,www.ebay.com,20578,LED LCD,16:09,2 ms,23.6\
+ENTITY#182,www.ebay.com,21390,LED LCD,,,23.6\
+ENTITY#182,www.ebay.com,21438,LED LCD,16:09,2 ms,23.6\
+ENTITY#183,www.nexus-t.co.uk,50,LCD,16:09,2ms (GTG),24\
+ENTITY#183,www.hardware-planet.it,112,LED,16:09,2 ms,61 cm 609.6 mm (24 \
+ENTITY#183,www.getprice.com.au,264,LED,,2 ms,
+ENTITY#183,www.cleverboxes.com,301,LED 16.7 Million Colour,16:09,2ms,24in
+ENTITY#183,www.makingbuyingeasy.co.uk,410,LED,16:09,2 ms,60.96 cm (24\
+ENTITY#183,www.ohc24.ch,450,ASUS VS248H - LED monitor - 24\,Widescreen - 16:9,2 ms,
+ENTITY#183,www.shopmania.com,669,LED,16:09,2 ms (less than 89%),24 inch (more than 74%)
+ENTITY#183,ce.yikus.com,1289,,,,
+ENTITY#183,www.ebay.com,10092,LED LCD,16:09,2 ms,24\
+ENTITY#183,www.ebay.com,14731,LED LCD,16:09,2 ms,24\
+ENTITY#183,www.ebay.com,18109,,16:09,2 ms,24\
+ENTITY#183,www.ebay.com,19378,LED LCD,,,
+ENTITY#183,www.ebay.com,22062,LED LCD,16:09,2 ms,24\
+ENTITY#183,www.ebay.com,22351,LED LCD,16:09,2 ms,24\
+ENTITY#184,www.nexus-t.co.uk,4,LCD,16:09,1ms (GTG),27\
+ENTITY#184,www.makingbuyingeasy.co.uk,74,LED,16:09,1 ms,68.58 cm (27\
+ENTITY#184,www.officedepot.com,153,LCD Monitor,16:09,1 ms,27\
+ENTITY#184,www.hardware-planet.it,163,LED,16:09,1 ms,685.8 mm (27 \
+ENTITY#184,www.cleverboxes.com,514,LED Backlight LCD 16.7 Million Colour,16:09,1ms,27in
+ENTITY#184,www.shopmania.com,678,LED,16:09,1 ms (less than 99%),27 inch (more than 84%)
+ENTITY#184,www.ebay.com,11224,LED LCD,16:09,27 ms,27\
+ENTITY#184,www.ebay.com,18773,LED LCD,16:09,27 ms,27\
+ENTITY#184,www.ebay.com,19649,LED LCD,,,27\
+ENTITY#184,www.ebay.com,21004,,16:09,1 ms,27\
+ENTITY#184,www.ebay.com,23327,,16:09,1 ms,27\
+ENTITY#185,www.nexus-t.co.uk,33,LCD,16:09,5ms,22\
+ENTITY#185,www.hardware-planet.it,53,LED,16:10,5 ms,558.8 mm (22 \
+ENTITY#185,www.mrhightech.com,129,LED,16:10,5 ms,55.9 cm
+ENTITY#185,www.mediashopuk.com,151,LED,16:10,5 ms,55.9 cm
+ENTITY#185,www.officedepot.com,183,LCD Monitor,16:10,5 ms,22\
+ENTITY#185,www.cleverboxes.com,480,LED 16.7 million Colour,,5ms,22in
+ENTITY#185,ce.yikus.com,528,,: Unknown,,
+ENTITY#185,www.makingbuyingeasy.co.uk,593,LED,16:10,5 ms,55.9 cm
+ENTITY#185,www.shopmania.com,662,LED,,5 ms,22 inch (more than 50%)
+ENTITY#185,www.ebay.com,11872,,16:10,5 ms,
+ENTITY#185,www.ebay.com,22011,,16:10,5 ms,22\
+ENTITY#186,www.mediashopuk.com,59,TN+Film,,5 ms,55.9 cm
+ENTITY#186,www.mrhightech.com,127,TN+Film,,5 ms,55.9 cm
+ENTITY#186,www.imldirect.it,182,LCD Monitor,16:10,5 ms,55.9 cm (22\
+ENTITY#186,www.getprice.com.au,183,"LCD,LED",,5 ms,
+ENTITY#186,www.hardware-planet.it,185,LED,,5 ms,558.8 mm (22 \
+ENTITY#186,www.cleverboxes.com,290,LED 16.7 million Colour,,5ms,22in
+ENTITY#186,www.kingsfieldcomputers.co.uk,387,LCD Monitor,16:10,5 ms,55.9 cm (22\
+ENTITY#186,www.makingbuyingeasy.co.uk,467,TN+Film,,5 ms,55.9 cm
+ENTITY#186,www.jrlinton.co.uk,905,VW22ATL Widescreen LCD Monitor,16:10,5 ms,55.9 cm (22\
+ENTITY#187,www.odsi.co.uk,125,LED-backlit LCD monitor / TFT active matrix,Widescreen - 16:9,2 ms (gray-to-gray),21.5\
+ENTITY#187,ca.pcpartpicker.com,561,,16:09,2 ms,21.5\
+ENTITY#187,www.imldirect.it,655,LCD Monitor,,2 ms,55.9 cm (22\
+ENTITY#187,www.itenergy.co.uk,766,LCD Monitor,,2 ms,55.9 cm (22\
+ENTITY#187,www.jrlinton.co.uk,1001,VX2252mh Widescreen LCD Monitor,,2 ms,55.9 cm (22\
+ENTITY#187,www.vology.com,2398,LED-backlit LCD monitor / TFT active matrix,Widescreen - 16:9 Widescreen - 16:9,2 ms (gray-to-gray) 2 ms (gray-to-gray),21.5\
+ENTITY#187,www.softwarecity.ca,5794,LCD Monitor,,2 ms,22\
+ENTITY#187,www.ebay.com,18022,,,2 ms,
+ENTITY#188,www.hardware-planet.it,291,LED,Auto,1 ms,58.4 cm 584.2 mm (23 \
+ENTITY#188,www.cleverboxes.com,341,Widescreen 16.7 million Colour,16:09,1ms,23in
+ENTITY#188,catalog.com,345,LED LCD,16:09,,
+ENTITY#188,ca.pcpartpicker.com,382,,16:09,1 ms,23\
+ENTITY#188,www.shopmania.com,675,LED,16:10,1 ms (less than 99%),23 inch (more than 64%)
+ENTITY#188,www.jrlinton.co.uk,1020,VX238H Widescreen LCD Monitor,16:09,1 ms,58.4 cm (23\
+ENTITY#188,www.ebay.com,11118,LED LCD,16:09,1 ms,23\
+ENTITY#188,www.ebay.com,19507,LED LCD,16:09,1 ms,23\
+ENTITY#188,www.ebay.com,20649,LED LCD,16:09,1 ms,23\
+ENTITY#189,www.mediashopuk.com,79,TFT,16:09,2 ms,59.94 cm
+ENTITY#189,www.mrhightech.com,153,TFT,16:09,2 ms,59.94 cm
+ENTITY#189,www.odsi.co.uk,156,LED-backlit LCD monitor / TFT active matrix,Widescreen Widescreen - 16:9,2 ms (gray-to-gray),23.6\
+ENTITY#189,www.getprice.com.au,171,LED,,2 ms,
+ENTITY#189,www.cleverboxes.com,219,Monitor,,2ms,23.6in (Diagonal)
+ENTITY#189,ca.pcpartpicker.com,295,,16:09,2 ms,23.6\
+ENTITY#189,www.xpcpro.com,300,TFT,16:09,2 ms,23.6 \
+ENTITY#189,www.officedepot.com,322,LCD Monitor,16:09,2 ms,24 inches
+ENTITY#189,www.jrlinton.co.uk,687,VX2452mh LED Monitor,16:09,2 ms,61 cm (24\
+ENTITY#189,www.imldirect.it,876,LCD Monitor,16:09,2 ms,61 cm (24\
+ENTITY#189,www.vology.com,2476,LED-backlit LCD monitor / TFT active matrix,Widescreen - 16:9 Widescreen - 16:9,2 ms (gray-to-gray) 2 ms (gray-to-gray),23.6\
+ENTITY#189,www.softwarecity.ca,5743,LCD Monitor,16:09,2 ms,24\
+ENTITY#189,www.ebay.com,21772,LED LCD,,,24\
+ENTITY#190,www.nexus-t.co.uk,32,AH-IPS,16:09,5ms (GTG),27\
+ENTITY#190,www.hardware-planet.it,156,LED,16:09,5 ms,68.6 cm 685.8 mm (27 \
+ENTITY#190,www.kingsfieldcomputers.co.uk,337,LCD Monitor,16:09,5 ms,68.6 cm (27\
+ENTITY#190,www.cleverboxes.com,398,Widescreen IPS 16.7 Million Colour,16:09,5ms,27in
+ENTITY#190,www.imldirect.it,408,LCD Monitor,16:09,5 ms,68.6 cm (27\
+ENTITY#190,ca.pcpartpicker.com,469,,16:09,5 ms,27\
+ENTITY#190,www.shopmania.com,650,LED,16:09,5 ms,27 inch (more than 84%)
+ENTITY#190,www.makingbuyingeasy.co.uk,680,IPS,16:09,5 ms,68.6 cm
+ENTITY#190,www.jrlinton.co.uk,870,VX279Q Widescreen LCD Monitor,16:09,5 ms,68.6 cm (27\
+ENTITY#190,www.ebay.com,23030,LED LCD,,,
+ENTITY#191,www.ebay.com,9430,LCD,"16:10, 16:9",5 ms,19\
+ENTITY#191,www.ebay.com,11512,LCD,"16:10, 16:9",5 ms,19\
+ENTITY#191,www.ebay.com,18926,LCD,"16:10, 16:9",5 ms,19\
+ENTITY#191,www.ebay.com,18991,LCD,,,19\
+ENTITY#191,www.ebay.com,19302,LCD,"16:10, 16:9",5 ms,19\
+ENTITY#191,www.ebay.com,19498,LCD,"16:10, 16:9",5 ms,19\
+ENTITY#191,www.ebay.com,19611,LCD,"16:10, 16:9",5 ms,19\
+ENTITY#191,www.ebay.com,20046,LCD,"16:10, 16:9",5 ms,19\
+ENTITY#191,www.ebay.com,20672,LCD,"16:10, 16:9",5 ms,19\
+ENTITY#191,www.ebay.com,20902,LCD,Widescreen - 16:10,,19\
+ENTITY#192,www.odsi.co.uk,123,LED-backlit LCD monitor / TFT active matrix,Widescreen - 16:9 Widescreen - 16:9,5 ms 5 ms,20.0\
+ENTITY#192,www.makingbuyingeasy.co.uk,140,LED,16:09,5 ms,50.8 cm
+ENTITY#192,www.officedepot.com,245,,16:09,5 ms,20 inches
+ENTITY#192,ca.pcpartpicker.com,375,,16:09,5 ms,20\
+ENTITY#192,www.cleverboxes.com,388,LCD Widescreen,16:09,5ms,20in
+ENTITY#192,www.makingbuyingeasy.co.uk,430,TN+Film,16:09,5 ms,50.8 cm
+ENTITY#192,www.cleverboxes.com,460,LCD Widescreen,16:09,5ms,20in
+ENTITY#192,catalog.com,515,LED LCD,16:09,,
+ENTITY#192,www.best-deal-items.com,2286,,,,
+ENTITY#192,www.vology.com,2655,LED-backlit LCD monitor / TFT active matrix,Widescreen - 16:9 Widescreen - 16:9,5 ms 5 ms,20.0\
+ENTITY#192,www.ebay.com,19744,,16:09,,
+ENTITY#192,www.ebay.com,20357,LED LCD,16:09,5 ms,20\
+ENTITY#192,www.ebay.com,22295,,,5ms,20\
+ENTITY#192,www.ebay.com,23682,,,,
+ENTITY#193,www.hardware-planet.it,213,LED,16:09,5 ms,584.2 mm (23 \
+ENTITY#193,www.cleverboxes.com,213,LED Backlight LCD IPS Panel 16.7 million Colour,16:09,5ms,23in Display Area - 50.9 x 28.6cm
+ENTITY#193,www.xpcpro.com,275,IPS,16:09,5 ms,23 \
+ENTITY#193,www.itenergy.co.uk,297,LCD Monitor,16:09,5 ms,58.4 cm (23\
+ENTITY#193,www.imldirect.it,336,LCD Monitor,16:09,5 ms,58.4 cm (23\
+ENTITY#193,www.makingbuyingeasy.co.uk,362,IPS,16:09,5 ms,58.42 cm (23\
+ENTITY#193,www.ohc24.ch,397,Iiyama ProLite XB2380HS - LED monitor - 23\,Widescreen - 16:9,5 ms,
+ENTITY#193,www.jrlinton.co.uk,405,ProLite XB2380HS-1,16:09,5 ms,58.4 cm (23\
+ENTITY#193,www.jrlinton.co.uk,643,ProLite XB2380HS-1,16:09,5 ms,58.4 cm (23\
+ENTITY#193,www.kingsfieldcomputers.co.uk,815,LCD Monitor,16:09,5 ms,58.4 cm (23\
+ENTITY#194,ca.pcpartpicker.com,6,,16:09,1 ms,24\
+ENTITY#194,www.shopmania.com,67,LED,16:09,1 ms (less than 99%),24 inch (more than 74%)
+ENTITY#194,www.makingbuyingeasy.co.uk,80,LCD,16:09,1 ms,60.96 cm (24\
+ENTITY#194,www.nexus-t.co.uk,94,TN,16:09,1ms (GTG),24\
+ENTITY#194,www.planet-computer.it,138,LED,16:09,1 ms,609.6 mm (24 \
+ENTITY#194,www.getprice.com.au,319,LED,,2 ms,
+ENTITY#194,www.pcconnection.com,3615,,,,24 in
+ENTITY#194,www.softwarecity.ca,5436,LCD Monitor,16:09,1 ms,24\
+ENTITY#194,www.ebay.com,19002,,16:09,1 ms,24\
+ENTITY#194,www.ebay.com,21786,,16:09,1 ms,
+ENTITY#194,www.ebay.com,23460,,16:09,1 ms,24\
+ENTITY#194,www.ebay.com,23624,,16:9 16:9 16:9 16:9,1 ms 1 ms,24\
+ENTITY#195,www.nexus-t.co.uk,27,TN,16:09,1ms (GTG),24\
+ENTITY#195,www.shopmania.com,41,LED,16:09,1 ms (less than 99%),24 inch (more than 74%)
+ENTITY#195,www.getprice.com.au,187,"LCD,LED",,1 ms,
+ENTITY#195,ca.pcpartpicker.com,405,,16:09,1 ms,24\
+ENTITY#195,www.makingbuyingeasy.co.uk,660,LCD,16:09,1 ms,60.96 cm (24\
+ENTITY#195,www.pcconnection.com,4023,,,,24 in
+ENTITY#195,www.softwarecity.ca,5739,LCD Monitor,16:09,1 ms,24\
+ENTITY#195,www.ebay.com,10973,,16:9 16:9 16:9 16:9,1 ms 1 ms,24\
+ENTITY#195,www.ebay.com,18962,,16:09,1 ms,24\
+ENTITY#196,www.planet-computer.it,33,LED,16:09,8 ms,54.6 cm
+ENTITY#196,www.planet-computer.it,40,LED,16:09,8 ms,54.6 cm
+ENTITY#196,www.mrhightech.com,66,IPS,16:09,8 ms,54.6 cm
+ENTITY#196,ca.pcpartpicker.com,73,,16:09,8 ms,21.5\
+ENTITY#196,ca.pcpartpicker.com,122,,16:09,8 ms,21.5\
+ENTITY#196,www.getprice.com.au,143,LCD,,8 ms,
+ENTITY#196,www.mediashopuk.com,144,IPS,16:09,8 ms,54.6 cm
+ENTITY#196,www.makingbuyingeasy.co.uk,272,IPS,16:09,8 ms,54.6 cm
+ENTITY#196,www.officedepot.com,282,LCD Monitor,16:09,8 ms,21.5\
+ENTITY#196,www.makingbuyingeasy.co.uk,529,IPS,16:09,8 ms,54.6 cm
+ENTITY#196,www.best-deal-items.com,1035,,,,
+ENTITY#196,www.best-deal-items.com,1306,,,,
+ENTITY#196,www.vology.com,2203,LED-backlit LCD monitor / TFT active matrix,Widescreen - 16:9 Widescreen - 16:9,8 ms (gray-to-gray) 8 ms (gray-to-gray),21.5\
+ENTITY#196,www.vology.com,2679,LED-backlit LCD monitor / TFT active matrix,Widescreen - 16:9 Widescreen - 16:9,8 ms (gray-to-gray) 8 ms (gray-to-gray),21.5\
+ENTITY#196,www.softwarecity.ca,5706,LCD Monitor,16:09,8 ms,21.5\
+ENTITY#196,www.softwarecity.ca,5711,LCD Monitor,16:09,8 ms,21.5\
+ENTITY#196,www.ebay.com,11651,LCD,16:09,8 ms,21.5\
+ENTITY#196,www.ebay.com,14326,,16:09,8 ms,
+ENTITY#196,www.ebay.com,19653,,16:09,8 ms,
+ENTITY#197,www.getprice.com.au,324,LED,,8 ms,
+ENTITY#197,www.makingbuyingeasy.co.uk,365,IPS,16:09,8 ms,58.42 cm
+ENTITY#197,www.makingbuyingeasy.co.uk,446,IPS,16:09,8 ms,58.42 cm
+ENTITY#197,www.ohc24.ch,492,HP DreamColor Z27x Professional - LED monitor - 27\,Widescreen - 16:9,7 ms (grey-to-grey),
+ENTITY#198,ca.pcpartpicker.com,17,,16:10,8 ms,24\
+ENTITY#198,www.planet-computer.it,102,LCD,16:10,8 ms,61 cm
+ENTITY#198,www.planet-computer.it,141,LCD,16:10,8 ms,60.96 cm
+ENTITY#198,www.makingbuyingeasy.co.uk,218,IPS,16:10,8 ms,60.96 cm
+ENTITY#198,www.getprice.com.au,240,LED,,8 ms,
+ENTITY#198,www.officedepot.com,267,LCD Monitor,,8 ms,24\
+ENTITY#198,www.makingbuyingeasy.co.uk,280,IPS,16:10,8 ms,60.96 cm
+ENTITY#198,ca.pcpartpicker.com,476,,16:09,8 ms,24\
+ENTITY#198,www.pcconnection.com,2234,LCD LED-backlit,,8 ms,24 in
+ENTITY#198,www.best-deal-items.com,2261,,,,
+ENTITY#198,www.vology.com,2551,LED-backlit LCD monitor / TFT active matrix,Widescreen - 16:10 Widescreen - 16:10,8 ms (gray-to-gray) 8 ms (gray-to-gray),24\
+ENTITY#198,www.vology.com,2684,LED-backlit LCD monitor / TFT active matrix,Widescreen - 16:10 Widescreen - 16:10,8 ms (gray-to-gray) 8 ms (gray-to-gray),24\
+ENTITY#198,www.softwarecity.ca,5715,LCD Monitor,16:10,8 ms,24\
+ENTITY#198,www.softwarecity.ca,5894,LCD Monitor,16:10,8 ms,24\
+ENTITY#198,www.ebay.com,22495,,16:10,8 ms,24\
+ENTITY#198,www.ebay.com,22618,,16:10 16:10,8 ms 8 ms 8 ms\nModel:\nD7P53A4#ABA,24\
+ENTITY#199,www.makingbuyingeasy.co.uk,13,IPS,16:09,8 ms,68.58 cm
+ENTITY#199,www.makingbuyingeasy.co.uk,121,IPS,16:09,8 ms,68.58 cm
+ENTITY#199,www.planet-computer.it,256,LCD,16:09,8 ms,"68,58 cm"
+ENTITY#199,www.best-deal-items.com,294,,,,
+ENTITY#199,www.makingbuyingeasy.co.uk,303,IPS,16:09,8 ms,68.58 cm
+ENTITY#199,www.makingbuyingeasy.co.uk,525,IPS,16:09,8 ms,68.6 cm
+ENTITY#199,www.softwarecity.ca,1512,LCD Monitor,16:09,8 ms,27\
+ENTITY#199,www.softwarecity.ca,1514,LCD Monitor,16:09,8 ms,27\
+ENTITY#199,www.vology.com,2405,LED-backlit LCD monitor / TFT active matrix,Widescreen - 16:9 Widescreen - 16:9,8 ms (gray-to-gray) 8 ms (gray-to-gray),27\
+ENTITY#199,www.vology.com,2516,LED-backlit LCD monitor / TFT active matrix,Widescreen - 16:9 Widescreen - 16:9,8 ms (gray-to-gray) 8 ms (gray-to-gray),27\
+ENTITY#200,www.mrhightech.com,11,IPS,16:10,8 ms,75.78 cm
+ENTITY#200,www.mediashopuk.com,46,IPS,16:10,8 ms,75.78 cm
+ENTITY#200,www.makingbuyingeasy.co.uk,69,IPS,16:10,8 ms,75.78 cm
+ENTITY#200,www.makingbuyingeasy.co.uk,141,IPS,16:10,8 ms,75.78 cm
+ENTITY#200,www.planet-computer.it,239,LED,16:10,8 ms,"75,78 cm"
+ENTITY#200,www.makingbuyingeasy.co.uk,250,IPS,16:10,8 ms,75.78 cm
+ENTITY#200,www.getprice.com.au,265,LED,,8 ms,
+ENTITY#200,www.makingbuyingeasy.co.uk,334,IPS,16:10,8 ms,75.78 cm
+ENTITY#200,www.getprice.com.au,392,LCD,,8 ms,
+ENTITY#200,ca.pcpartpicker.com,432,,16:10,8 ms,30\
+ENTITY#200,www.makingbuyingeasy.co.uk,494,IPS,16:10,8 ms,75.78 cm
+ENTITY#200,www.makingbuyingeasy.co.uk,570,IPS,16:10,8 ms,75.78 cm
+ENTITY#200,www.ohc24.ch,772,HP Z Display Z30i - LED monitor - 30\,Widescreen - 16:10,8 ms (grey-to-grey),
+ENTITY#200,www.softwarecity.ca,1533,,,,
+ENTITY#200,www.vology.com,2542,LED-backlit LCD monitor / TFT active matrix,Widescreen - 16:10 Widescreen - 16:10,8 ms (gray-to-gray) 8 ms (gray-to-gray),30\
+ENTITY#200,www.vology.com,2544,LED-backlit LCD monitor / TFT active matrix,Widescreen - 16:10 Widescreen - 16:10,8 ms (gray-to-gray) 8 ms (gray-to-gray),30\
+ENTITY#200,www.softwarecity.ca,5699,LCD Monitor,16:10,8 ms,30\
+ENTITY#200,www.ebay.com,15988,,16:10,8 ms,
+ENTITY#203,www.ohc24.ch,301,LG 84WS70BS - 84\,16:09,,
+ENTITY#203,www.ohc24.ch,480,LG 84WS70BS-B - 84\,16:09,,
+ENTITY#204,www.ohc24.ch,775,LG 84WT70PS-B - 84\,16:09,,
+ENTITY#204,www.ohc24.ch,775,,,,
+ENTITY#204,www.ohc24.ch,775,,,,
+ENTITY#205,www.ohc24.ch,209,NEC MultiSync V801 IRT (MultiTouch) - 80\,16:09,,
+ENTITY#205,www.ohc24.ch,363,NEC MultiSync V801 - 80\,16:09,,
+ENTITY#205,www.ohc24.ch,363,,,,
+ENTITY#205,www.ohc24.ch,363,,,,
+ENTITY#205,www.ebay.com,9783,LED LCD,16:09,22 ms,21.5\
+ENTITY#206,www.ohc24.ch,529,NEC MultiSync P801 - 80\,,,
+ENTITY#206,www.ohc24.ch,529,,,,
+ENTITY#206,www.ohc24.ch,529,,,,
+ENTITY#207,www.ohc24.ch,332,LG 84WS70MS-B - 84\,16:09,,
+ENTITY#207,www.ohc24.ch,673,LG 84WS70MS - 84\,16:09,,
+ENTITY#213,www.ohc24.ch,797,NEC MultiSync LCD8205 - 82\,16:09,,
+ENTITY#213,www.ohc24.ch,797,,,,
+ENTITY#213,www.ebay.com,21318,LCD,5:04,5 ms,17\
+ENTITY#215,www.odsi.co.uk,92,LCD display / TFT active matrix LCD monitor / TFT active matrix,,16 ms 16 ms,15\
+ENTITY#215,www.odsi.co.uk,142,LCD display / TFT active matrix LCD monitor / TFT active matrix,,16 ms 16 ms,15\
+ENTITY#215,catalog.com,380,,4:03,,
+ENTITY#215,www.pcconnection.com,414,LCD,,12 ms,15 in
+ENTITY#215,www.pcconnection.com,2086,Touch screen LCD,,12 ms,15 in
+ENTITY#215,www.softwarecity.ca,5800,LCD Touchscreen Monitor,,16 ms,15\
+ENTITY#215,www.softwarecity.ca,5877,LCD Touchscreen Monitor,,25 ms,15\
+ENTITY#215,www.ebay.com,14777,"LCD, Touch Screen LCD",4:03,25 ms,15\
+ENTITY#215,www.ebay.com,19265,LCD,4:03,25 ms,15\
+ENTITY#215,www.ebay.com,19466,"LCD, Touch Screen LCD",4:03,25 ms,15\
+ENTITY#215,www.ebay.com,19566,"LCD, Touch Screen LCD",4:03,25 ms,15\
+ENTITY#215,www.ebay.com,19960,,,16 ms,
+ENTITY#216,www.ebay.com,11475,LCD,,,17\
+ENTITY#216,www.ebay.com,11475,,,,
+ENTITY#216,www.ebay.com,11475,,,,
+ENTITY#217,www.ebay.com,20928,LCD,5:04,25 ms,17\
+ENTITY#220,www.ebay.com,16216,LCD,,,19\
+ENTITY#220,www.ebay.com,19234,LCD,,,19\
+ENTITY#221,www.getprice.com.au,377,LED,,5 ms,
+ENTITY#221,www.getprice.com.au,556,LED,,5 ms,
+ENTITY#222,www.best-deal-items.com,750,,,,
+ENTITY#222,www.best-deal-items.com,2393,,,,
+ENTITY#223,www.ohc24.ch,116,NEC MultiSync E243WMI-WH - LED monitor - 23.8\,Widescreen - 16:9,6 ms,
+ENTITY#223,www.ohc24.ch,777,NEC MultiSync E243WMI-BK - LED monitor - 23.8\,Widescreen - 16:9,6 ms,
+ENTITY#224,www.ohc24.ch,212,NEC MultiSync EA273WMi - LED monitor - 27\,Widescreen - 16:9,,
+ENTITY#224,www.ohc24.ch,482,NEC MultiSync EA273WMi - LED monitor - 27\,Widescreen - 16:9,,
+ENTITY#225,www.odsi.co.uk,70,LED-backlit LCD monitor / TFT active matrix,Widescreen - 16:9,16 ms,27\
+ENTITY#225,www.ohc24.ch,239,3M Multi-touch Display M2767PW - LED monitor - 27\,Widescreen - 16:9,16 ms,
+ENTITY#225,ca.pcpartpicker.com,630,,16:09,25 ms,27\
+ENTITY#226,www.ebay.com,19292,LED LCD,16:09,8 ms,
+ENTITY#230,www.odsi.co.uk,151,LED-backlit LCD monitor / TFT active matrix,Widescreen Widescreen,5 ms 5 ms,32\
+ENTITY#230,catalog.com,265,,16:09,,
+ENTITY#231,www.odsi.co.uk,9,LCD monitor / TFT active matrix TFT active matrix LED-backlit LCD monitor / TFT active matrix,Widescreen - 16:9,9 ms,18.5\
+ENTITY#231,www.softwarecity.ca,5652,LCD Touchscreen Monitor,16:09,9 ms,18.5\
+ENTITY#232,www.odsi.co.uk,214,LED-backlit LCD monitor / TFT active matrix,Widescreen - 16:9,16 ms,24\
+ENTITY#232,ca.pcpartpicker.com,449,,16:09,16 ms,24\
+ENTITY#232,www.softwarecity.ca,5768,LCD Touchscreen Monitor,16:09,16 ms,24\
+ENTITY#233,www.odsi.co.uk,61,LCD monitor / TFT active matrix,Widescreen,5 ms,22\
+ENTITY#233,ca.pcpartpicker.com,149,,16:10,5 ms,22\
+ENTITY#234,www.best-deal-items.com,1243,,,,
+ENTITY#234,www.best-deal-items.com,2548,,,,
+ENTITY#235,www.odsi.co.uk,47,TFT active matrix LED-backlit LCD monitor / TFT active matrix LCD monitor / TFT active matrix,Widescreen - 16:9,10 ms,21.5\
+ENTITY#235,ca.pcpartpicker.com,305,,16:09,16 ms,21.5\
+ENTITY#235,www.softwarecity.ca,5827,LCD Touchscreen Monitor,16:09,16 ms,21.5\
+ENTITY#236,www.itenergy.co.uk,674,LCD Monitor,16:09,5 ms,54.6 cm (21.5\
+ENTITY#236,www.jrlinton.co.uk,1546,21.5\,16:09,5 ms,54.6 cm (21.5\
+ENTITY#240,www.ebay.com,16297,,,,12.1 inch
+ENTITY#249,www.softwarecity.ca,5917,LCD Monitor,16:09,7 ms,27\
+ENTITY#249,www.softwarecity.ca,5917,,,,
+ENTITY#250,www.pcconnection.com,332,LCD TFT,,16 ms,15 in
+ENTITY#250,www.pcconnection.com,3169,LCD Touch screen,,,15 in
+ENTITY#251,www.best-deal-items.com,1889,,,,
+ENTITY#251,www.best-deal-items.com,2228,,,,
+ENTITY#251,www.best-deal-items.com,2228,,,,
+ENTITY#251,www.best-deal-items.com,2228,,,,
+ENTITY#252,www.getprice.com.au,315,LED,,5 ms,
+ENTITY#252,www.ebay.com,10925,LED LCD,21:09,6 ms,29\

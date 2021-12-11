@@ -40,12 +40,15 @@ public class NormalizeDistributeRunInGA {
         // time located between both sides of code!
         long preTrainMemory = used();
         long preTrainTime = System.currentTimeMillis();
+
+        int dropSourceEdge = 0;
+        int dropSampleEdge = 0;
         word2VecService.train(fileList, graphFilePath, 3, 3, 60, 20000, AttrDistributeLow,
                 AttrDistributeHigh,
                 ValueDistributeLow,
                 ValueDistributeHigh,
                 TupleDistributeLow,
-                TupleDistributeHigh);
+                TupleDistributeHigh,dropSourceEdge,dropSampleEdge);
         // fixme: must same as the path in train method !!!
         String walkPath = "data/stock100/weightCalcByVex/walkListMin" + version + ".txt";
         String modelPath = "model/Tri/stock100/weightCalcByVex/totalMin" + version + ".model";

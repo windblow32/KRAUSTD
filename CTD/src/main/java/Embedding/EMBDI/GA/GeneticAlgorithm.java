@@ -9,9 +9,9 @@ import java.util.List;
 
 public abstract class GeneticAlgorithm {
     private List<Chromosome> population = new ArrayList<Chromosome>();
-    private int popSize = 40;//种群数量
+    private int popSize = 5;//种群数量
     private int geneSize;//基因最大长度
-    private int maxIterNum = 20;//最大迭代次数
+    private int maxIterNum = 10;//最大迭代次数
     private double mutationRate = 0.01;//基因变异的概率
     private int maxMutationNum = 3;//最大变异步长
 
@@ -61,7 +61,7 @@ public abstract class GeneticAlgorithm {
      */
     private void init() {
         for (int i = 0; i < popSize; i++) {
-            population = new ArrayList<Chromosome>();
+//            population = new ArrayList<Chromosome>();
             Chromosome chro = new Chromosome(geneSize);
             population.add(chro);
         }
@@ -104,7 +104,7 @@ public abstract class GeneticAlgorithm {
         double sum = 0;
         for (Chromosome chro : population) {
             sum += chro.getScore();
-            if (sum > slice && chro.getScore() >= averageScore) {
+            if (sum >= slice && chro.getScore() >= averageScore) {
                 return chro;
             }
         }
@@ -119,9 +119,11 @@ public abstract class GeneticAlgorithm {
         bestScore = population.get(0).getScore();
         worstScore = population.get(0).getScore();
         totalScore = 0;
-        for (Chromosome chro : population) {
+        Chromosome chro;
+        for (int i = 1;i<popSize;i++) {
+            chro = population.get(i);
             setChromosomeScore(chro);
-            if (chro.getScore() > bestScore) { //设置最好基因值
+            if (chro.getScore() >= bestScore) { //设置最好基因值
                 bestScore = chro.getScore();
                 if (y < bestScore) {
                     x = changeX(chro);
