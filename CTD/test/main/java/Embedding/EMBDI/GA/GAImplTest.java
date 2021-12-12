@@ -32,6 +32,8 @@ public class GAImplTest extends GeneticAlgorithm{
     public String[][] calcTruth = null;
     public double rmse;
     public double r2;
+    public int Qi;
+    public double B_sum;
 
 
     public static final int NUM = 1 << 26;
@@ -205,6 +207,7 @@ public class GAImplTest extends GeneticAlgorithm{
             try{
                 int rank = rmseList.indexOf(RMSEScore);
                 int Qi = rank/(k+1);
+                this.Qi = Qi;
                 double B_sum = 0;
                 for(int s1 = 1;s1<sourceNum;s1++){
                     for(int s2 = s1 + 1;s2<=sourceNum;s2++){
@@ -221,6 +224,7 @@ public class GAImplTest extends GeneticAlgorithm{
                         B_sum += Math.abs(detaSimilarity-detaWeight);
                     }
                 }
+                this.B_sum = B_sum;
                 if(String.valueOf((double)Qi/B_sum).equals("NaN")||B_sum==0.0){
                     return 8.0;
                 }
