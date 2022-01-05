@@ -6,10 +6,7 @@ import com.medallia.word2vec.Word2VecModel;
 import main.java.CTD_Algorithm;
 import main.java.Embedding.EMBDI.TripartiteNormalizeDistributeGraph.NormalizeDistributeRunInGA;
 
-import java.io.BufferedReader;
-import java.io.FileNotFoundException;
-import java.io.FileReader;
-import java.io.IOException;
+import java.io.*;
 import java.util.ArrayList;
 import java.util.Collection;
 import java.util.Collections;
@@ -165,6 +162,10 @@ public class GAImplTest extends GeneticAlgorithm{
         DCs = initialDC();
         // CTD返回的source weight
         List<Double> weightList = new ArrayList<>();
+        // todo : 在此处删除可能存在的之前构造的图结构文件，避免印象模型训练
+        String graphPath = "data/stock100/weightCalcByVex/graph/55SourceStockGraphMin.txt";
+        deleteWithPath(graphPath);
+
         weightList = CtdService.update(version,fileList,sourceNum,DCs,"THREE",length,AttrDistributeLow,
                 AttrDistributeHigh,
                 ValueDistributeLow,
@@ -420,6 +421,32 @@ public class GAImplTest extends GeneticAlgorithm{
         }
 
     }
+
+    public static boolean deleteWithPath(String filePath){
+        File file = new File(filePath);
+        if(!file.exists()){
+            // file not exist
+            System.out.println("graphFile is not exist, safe");
+            return false;
+        }else {
+            if(file.exists() && file.isFile()){
+                // file exist
+                if(file.delete()){
+                    System.out.println("delete graph succeed");
+                    return true;
+                }
+                else {
+                    System.out.println("graph delete failed");
+                    return false;
+                }
+            }else {
+                System.out.println("input graphPath error!");
+                return false;
+            }
+        }
+    }
+
+
 
 
     @Test

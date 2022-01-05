@@ -57,10 +57,22 @@ public class CTD_Algorithm {
     }
 
     /**
+     * 把图表示学习的参数和CTD算法的参数放一起了
+     * @param version 遗传算法代数
      * @param files 读取文件的列表，data from K sources
      * @param k     数据源个数
      * @param DCs   a piece of a set of ∑ of DCs    (fai)
-     * @return the repaired table
+     * @param mode 运行模式，三分图/五分图。实验直接设置为“THREE”即可，不需要特质的五分图了
+     * @param length 游走长度
+     * @param AttrDistributeLow 属性正态分布均值
+     * @param AttrDistributeHigh 属性正态分布标准差
+     * @param ValueDistributeLow 属性值正态分布均值
+     * @param ValueDistributeHigh 属性值正态分布标准差
+     * @param TupleDistributeLow 样本正态分布均值
+     * @param TupleDistributeHigh 样本正态分布标准差
+     * @param dropSourceEdge 是否drop和SOURCE连接的边，取值含义看图构建部分
+     * @param dropSampleEdge 是否drop和SAMPLE连接的边
+     * @return
      */
     public List<Double> update(
             int version,
@@ -809,13 +821,6 @@ public class CTD_Algorithm {
                         AttrDistributeLow, AttrDistributeHigh, ValueDistributeLow, ValueDistributeHigh,
                         TupleDistributeLow, TupleDistributeHigh, dropSourceEdge, dropSampleEdge);
                 TriModel = word2VecService.trainWithLocalWalks(modelPath);
-
-
-//                GAImpl test = new GAImpl();
-//                test.calculate();
-//                // 得到最好子代的版本，找到对应的模型，以后直接利用
-//                version = test.getGeneI();
-//                TriModel = word2VecService.loadModel(modelPath);
                 return 1 - word2VecService.distanceUseSavedModel(TriModel, v1, v2);
             } else if (CTD_sotaFlag > 1 && flag == 1) {
                 return 1 - word2VecService.distanceUseSavedModel(TriModel, v1, v2);

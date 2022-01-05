@@ -49,6 +49,7 @@ public class NormalizeDistributeSourceTripartiteEmbeddingViaWord2Vec {
             String testFilePath = graphFilePath;
             File testFile = new File(testFilePath);
             List<String> data = null;
+            // fixme 图的名字没有更改，一旦存储了一次就不被更新
             if(testFile.exists()){
                 // 图已经建立，其他数值无法改变了
                 data = meta.Meta_AlgorithmUseGraphFilePath(graphFilePath, n_walks, n_nodes, length);

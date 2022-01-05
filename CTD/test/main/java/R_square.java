@@ -11,6 +11,7 @@ public class R_square {
     // modify
     public int D1 = 100;
     public int D2 = 10;
+    // 用了图表示学习的真值结果
     public String resultPath = "data/stock100/result/result_9_1.csv";
 
     @Test
@@ -22,6 +23,7 @@ public class R_square {
         System.out.println("rmse : " + rmse);
         System.out.println("r_square : " + r_square);
         System.out.println("****************************");
+        // 原始CTD的结果
         String calcResultCTDOnlyPath = "data/stock/stock100/result/result_1_1.csv";
         String[][] calcTruthOnlyCTD = readResult(D1,D2,calcResultCTDOnlyPath);
         double rmseOnlyCTD = RMSE(calcTruthOnlyCTD, truth, D1, D2);
