@@ -807,6 +807,9 @@ public class CTD_Algorithm {
                     return 1;
                 } else return 0;
             } else if (CTD_sotaFlag > 1 && flag == 0) {
+
+                String graphPath = "data/stock100/weightCalcByVex/graph/55SourceStockGraphMin.txt";
+                deleteWithPath(graphPath);
                 // GA传参数过来，CTD训练得到结果
                 // version,length,6个参数
                 LocalTime time = LocalTime.now();
@@ -915,5 +918,29 @@ public class CTD_Algorithm {
 
     public Word2VecModel getTriModel() {
         return TriModel;
+    }
+
+    public static boolean deleteWithPath(String filePath){
+        File file = new File(filePath);
+        if(!file.exists()){
+            // file not exist
+            System.out.println("safe, graphFile is not exist");
+            return false;
+        }else {
+            if(file.exists() && file.isFile()){
+                // file exist
+                if(file.delete()){
+                    System.out.println("delete graph succeed");
+                    return true;
+                }
+                else {
+                    System.out.println("graph delete failed");
+                    return false;
+                }
+            }else {
+                System.out.println("input graphPath error!");
+                return false;
+            }
+        }
     }
 }
