@@ -12,17 +12,19 @@ import java.util.Arrays;
 import java.util.List;
 import java.util.regex.Pattern;
 
+import static java.lang.Double.NaN;
+
 public class CTD_Algorithm {
 
-    // 定义收敛区间
-    private final double min_error = 1;
+    // 定义收敛区间,或者记录下两次error差距不超过百分之多少，就不追究了
+    private final double min_error = 10;
     private final List<Double> weights = new ArrayList<>();
     private final List<String[]> processed_DC = new ArrayList<>();
     // 测试版本，embedding保存文件使用
     // flag标志矩阵数值是否改变，作用于distance函数中，模型是否重新训练
     public int flag = 0;
-
-
+    // pass rmse to GA
+    public double rmseForGA = 0;
     public String[][] calcTruth = null;
 
     public int CTD_sotaFlag = 0;
@@ -39,40 +41,69 @@ public class CTD_Algorithm {
     // 二维数组repaired table无法初始化，在算法中返回即可。
 
     public static void main(String[] args) {
-        CTD_Algorithm test = new CTD_Algorithm();
-        List<String> files = new ArrayList<>();
-        files.add("data/flight/flight-csv/flight0.CSV");
-        files.add("data/flight/flight-csv/flight0.CSV");
-        files.add("data/flight/flight-csv/flight0.CSV");
-        int k = 3;
-        List<String> DCs = new ArrayList<>();
-        DCs.add("scheduled_departure = 0");
-        DCs.add("actual_departure > scheduled_departure");
-        //        DCs.add("Tuple 1 gender = tuple 3 gender");
-        List<Double> w;
+//        List<String> files = new ArrayList<>();
+//        files.add("data/flight/flight-csv/flight0.CSV");
+//        files.add("data/flight/flight-csv/flight0.CSV");
+//        files.add("data/flight/flight-csv/flight0.CSV");
+//        int k = 3;
+//        List<String> DCs = new ArrayList<>();
+//        DCs.add("scheduled_departure = 0");
+//        DCs.add("actual_departure > scheduled_departure");
+//        //        DCs.add("Tuple 1 gender = tuple 3 gender");
+//        List<Double> w;
 //        w = test.update(files, k, DCs, "FIVE");
 //        for (double weight : w) {
 //            System.out.println(weight);
 //        }
     }
 
+    public static boolean deleteWithPath(String filePath) {
+        File file = new File(filePath);
+        if (!file.exists()) {
+            // file not exist
+            System.out.println("safe, graphFile is not exist");
+            return false;
+        } else {
+            if (file.exists() && file.isFile()) {
+                // file exist
+                if (file.delete()) {
+                    System.out.println("delete graph succeed");
+                    return true;
+                } else {
+                    System.out.println("graph delete failed");
+                    return false;
+                }
+            } else {
+                System.out.println("input graphPath error!");
+                return false;
+            }
+        }
+    }
+
+    // todo
+
     /**
      * 把图表示学习的参数和CTD算法的参数放一起了
-     * @param version 遗传算法代数
-     * @param files 读取文件的列表，data from K sources
-     * @param k     数据源个数
-     * @param DCs   a piece of a set of ∑ of DCs    (fai)
-     * @param mode 运行模式，三分图/五分图。实验直接设置为“THREE”即可，不需要特质的五分图了
-     * @param length 游走长度
-     * @param AttrDistributeLow 属性正态分布均值
-     * @param AttrDistributeHigh 属性正态分布标准差
-     * @param ValueDistributeLow 属性值正态分布均值
+     *
+     * @param version             遗传算法代数
+     * @param files               读取文件的列表，data from K sources
+     * @param k                   数据源个数
+     * @param DCs                 a piece of a set of ∑ of DCs    (fai)
+     * @param mode                运行模式，三分图/五分图。实验直接设置为“THREE”即可，不需要特质的五分图了
+     * @param length              游走长度
+     * @param AttrDistributeLow   属性正态分布均值
+     * @param AttrDistributeHigh  属性正态分布标准差
+     * @param ValueDistributeLow  属性值正态分布均值
      * @param ValueDistributeHigh 属性值正态分布标准差
-     * @param TupleDistributeLow 样本正态分布均值
+     * @param TupleDistributeLow  样本正态分布均值
      * @param TupleDistributeHigh 样本正态分布标准差
-     * @param dropSourceEdge 是否drop和SOURCE连接的边，取值含义看图构建部分
-     * @param dropSampleEdge 是否drop和SAMPLE连接的边
-     * @return
+     * @param dropSourceEdge      是否drop和SOURCE连接的边，取值含义看图构建部分
+     * @param dropSampleEdge      是否drop和SAMPLE连接的边
+     * @param rmsePrinter         帮助GA打印rmse
+     * @param r2_squarePrinter    帮助GA打印r2
+     * @param fitScore            打印上次超参的适应度
+     * @param extractedCTD_RMSE   打印上一次抽取数据的rmse
+     * @return weight of source
      */
     public List<Double> update(
             int version,
@@ -88,7 +119,11 @@ public class CTD_Algorithm {
             int TupleDistributeLow,
             int TupleDistributeHigh,
             int dropSourceEdge,
-            int dropSampleEdge
+            int dropSampleEdge,
+            double rmsePrinter,
+            double r2_squarePrinter,
+            double fitScore,
+            double extractedCTD_RMSE
     ) {
         v = version;
         this.k = k; // this.k = files.size();
@@ -112,6 +147,11 @@ public class CTD_Algorithm {
             e.printStackTrace();
         }
 
+        // print information, if 0 then not in topk list
+        System.out.println("GA printer : rmse = " + rmsePrinter);
+        System.out.println("GA printer : r2 square = " + r2_squarePrinter);
+        System.out.println("GA printer : last time fitScore = " + fitScore);
+        System.out.println("GA printer : last time extracted data's rmse = " + extractedCTD_RMSE);
 
         // 解析DC,默认的DC格式为:
         // 值域约束 : zipcode < 12
@@ -185,9 +225,9 @@ public class CTD_Algorithm {
                 // 余下的都是元组了
                 while ((str = br.readLine()) != null) {
                     String[] data = str.split(",", -1);
-                    try{
+                    try {
                         System.arraycopy(data, 0, value[y][row], 0, data.length);
-                    }catch (ArrayIndexOutOfBoundsException e){
+                    } catch (ArrayIndexOutOfBoundsException e) {
                         System.out.println(y);
                     }
                     row++;
@@ -268,9 +308,10 @@ public class CTD_Algorithm {
 
         // finish todo:利用SimilarityUtils类，进行矩阵中字符串的比较
         SimilarityUtils sim = new SimilarityUtils();
-        double error = 10;
+        double error = 100;
         // 记录result文件的个数
         int times = 0;
+        double goal = 0;
         while (error > min_error) {
             for (int i = 0; i < L; i++) {
                 for (int j = 0; j < p; j++) {
@@ -485,75 +526,80 @@ public class CTD_Algorithm {
                     // else, data in result is the final v.lp
 
                 }
-                // 至此,更新结束
-                CTD_sotaFlag++;
-                try {
-                    writeValue(value);
-                    writeResult(result, times);
-                    // fixme : 2次退出
-                    // 等于0为3次，1为仅仅CTD自身
-                    if (times % 2== 0 &&times!=0) {
-                        calcTruth = result;
-                        return weights;
-                    }
-                } catch (IOException e) {
-                    e.printStackTrace();
-                }
-                if (times % 2== 0 &&times!=0) {
+            }
+            // 至此,更新结束
+            CTD_sotaFlag++;
+            try {
+                writeValue(value);
+                writeResult(result, times);
+                // fixme : 2次退出
+                // 等于0为3次，1为仅仅CTD自身
+                if (times % 7 == 0 && times != 0) {
                     calcTruth = result;
                     return weights;
                 }
-                // update weight of kth source w.k by (17)
-                double up = 0; // 分子
-                double down; //分母
-                // calculate up,必须分开计算，因为分子是三重循环的总和，定值
-                // todo : matrix数值此后不改变，distance中模型训练一次保存后，不用改变了
-                flag = 0;
-                for (int s = 0; s < k; s++) {
-                    for (int l = 0; l < L; l++) {
-                        for (int col = 0; col < p; col++) {
-                            // FIXME:distance always return 1, 导致weight仅更新一次，陷入了死循环
-                            double r =  distance(result[l][col], value[s][l][col], mode, times,
-                                    length, AttrDistributeLow, AttrDistributeHigh,
-                                    ValueDistributeLow, ValueDistributeHigh, TupleDistributeLow,
-                                    TupleDistributeHigh, dropSourceEdge, dropSampleEdge);
-                            if(r == -100){
-                                calcTruth = result;
-                                return weights;
-                            }
-                            up += r;
-                            // flag = 1代表数值不变
-                            flag = 1;
+            } catch (IOException e) {
+                e.printStackTrace();
+            }
+            if (times % 7 == 0 && times != 0) {
+                calcTruth = result;
+                return weights;
+            }
+            // update weight of kth source w.k by (17)
+            double up = 0; // 分子
+            double down; //分母
+            // calculate up,必须分开计算，因为分子是三重循环的总和，定值
+            // todo : matrix数值此后不改变，distance中模型训练一次保存后，不用改变了
+            flag = 0;
+            for (int s = 0; s < k; s++) {
+                for (int l = 0; l < L; l++) {
+                    for (int col = 0; col < p; col++) {
+                        // FIXME:distance always return 1, 导致weight仅更新一次，陷入了死循环
+                        double r = distance(result[l][col], value[s][l][col], mode, times,
+                                length, AttrDistributeLow, AttrDistributeHigh,
+                                ValueDistributeLow, ValueDistributeHigh, TupleDistributeLow,
+                                TupleDistributeHigh, dropSourceEdge, dropSampleEdge);
+                        if (r == -100) {
+                            calcTruth = result;
+                            return weights;
                         }
+                        up += r;
+                        // flag = 1代表数值不变
+                        flag = 1;
                     }
                 }
-                // calculate wk
-                for (int s = 0; s < k; s++) {
-                    down = 0;
-                    for (int l = 0; l < L; l++) {
-                        for (int col = 0; col < p; col++) {
-                            double r2 = distance(result[l][col], value[s][l][col], mode, times,
-                                    length, AttrDistributeLow, AttrDistributeHigh,
-                                    ValueDistributeLow, ValueDistributeHigh,
-                                    TupleDistributeLow, TupleDistributeHigh,
-                                    dropSourceEdge, dropSampleEdge);
-                            if(r2 == -100){
-                                calcTruth = result;
-                                return weights;
-                            }
-                            down += r2;
-
+            }
+            // calculate wk
+            for (int s = 0; s < k; s++) {
+                down = 0;
+                for (int l = 0; l < L; l++) {
+                    for (int col = 0; col < p; col++) {
+                        double r2 = distance(result[l][col], value[s][l][col], mode, times,
+                                length, AttrDistributeLow, AttrDistributeHigh,
+                                ValueDistributeLow, ValueDistributeHigh,
+                                TupleDistributeLow, TupleDistributeHigh,
+                                dropSourceEdge, dropSampleEdge);
+                        if (r2 == -100) {
+                            calcTruth = result;
+                            return weights;
                         }
+                        down += r2;
+
                     }
-                    // calculate nature log
-                    double wk = Math.log1p(up / down);
+                }
+                // calculate nature log
+                double wk = Math.log1p(up / down);
+                // fixme : weight无穷大,可能与数据缺失相关
+                if (!Double.isFinite(wk) || Double.isNaN(wk)) {
+                    weights.set(s, 3.0);
+                }else{
                     weights.set(s, wk);
                 }
-                flag = 0;
-                // 计算距离用到result的路径，其中有times作为标志，因而在两次distance计算过后再增加times
-                times++;
-            }
 
+            }
+            flag = 0;
+            // 计算距离用到result的路径，其中有times作为标志，因而在两次distance计算过后再增加times
+            times++;
             // 重置error
             error = 0;
             for (int q = 0; q < L; q++) {
@@ -563,15 +609,19 @@ public class CTD_Algorithm {
             }
             System.out.println("error is " + error);
             pre_result = result;
-            if (times % 10 == 0&&times!=0) {
+            goal = minGoal(result);
+            System.out.println("rmse : " + rmseForGA);
+            // fixme : goal上限
+            if (goal < 22) {
+                break;
+            }
+            if (times % 7 == 0 && times != 0) {
                 break;
             }
         }
         calcTruth = result;
         return weights;
     }
-
-    // todo
 
     /**
      * @param v1 待比较的第一个字符串
@@ -772,15 +822,15 @@ public class CTD_Algorithm {
 
         List<String> fileList = new ArrayList<>();
         for (int i = 0; i < k; i++) {
-            // k个数据源分别把value路径存入
             // 注意和writeValue的路径相同
-            String path = "E:\\GitHub\\ICDE2021\\CTD\\data\\stock100\\divideSourceNew\\source" + i + ".csv";
+            int z = i + 1;
+            String path = "E:\\GitHub\\KRAUSTD\\CTD\\data\\stock100\\divideSourceNew\\source" + z + ".csv";
             fileList.add(path);
         }
         String resultPath =
-                "E:\\GitHub\\ICDE2021\\CTD\\data\\stock100\\result\\result_" + v + "_" + times + ".csv";
+                "E:\\GitHub\\KRAUSTD\\CTD\\data\\stock100\\result\\result_" + v + "_" + times + ".csv";
         fileList.add(resultPath);
-        if (times % 2== 0 &&times!=0){
+        if (times % 7 == 0 && times != 0) {
             return -100;
         }
         // version
@@ -841,9 +891,8 @@ public class CTD_Algorithm {
         String[] header = new String[]{"sample", "change%", "last_trade_price", "open_price", "volumn", "today_high", "today_low", "previous_close", "52wk_H", "52wk_L"};
         String separator = ",";
         for (int i = 0; i < k; i++) {
-            String sourcePath = "E:\\GitHub\\ICDE2021\\CTD\\data\\stock100\\divideSourceNew\\source" + i + ".csv";
-            //            File file = new File(sourcePath);
-            //            BufferedWriter bw = new BufferedWriter(new OutputStreamWriter(new FileOutputStream(file, true)));
+            int q = i + 1;
+            String sourcePath = "E:\\GitHub\\KRAUSTD\\CTD\\data\\stock100\\divideSourceNew\\source" + q + ".csv";
 
             PrintStream stream = new PrintStream(sourcePath);
 
@@ -875,7 +924,7 @@ public class CTD_Algorithm {
         String separator = ",";
 
         String sourcePath =
-                "E:\\GitHub\\ICDE2021\\CTD\\data\\stock100\\result\\result_" + v + "_" + times + ".csv";
+                "E:\\GitHub\\KRAUSTD\\CTD\\data\\stock100\\result\\result_" + v + "_" + times + ".csv";
         //            File file = new File(sourcePath);
         //            BufferedWriter bw = new BufferedWriter(new OutputStreamWriter(new FileOutputStream(file, true)));
 
@@ -920,27 +969,155 @@ public class CTD_Algorithm {
         return TriModel;
     }
 
-    public static boolean deleteWithPath(String filePath){
-        File file = new File(filePath);
-        if(!file.exists()){
-            // file not exist
-            System.out.println("safe, graphFile is not exist");
-            return false;
-        }else {
-            if(file.exists() && file.isFile()){
-                // file exist
-                if(file.delete()){
-                    System.out.println("delete graph succeed");
-                    return true;
-                }
-                else {
-                    System.out.println("graph delete failed");
-                    return false;
-                }
-            }else {
-                System.out.println("input graphPath error!");
-                return false;
+    /**
+     * 部分数据信息量=∑_AL数据（1-数据置信度） +kmeans数据量
+     * 所有数据信息量=∑_(AL数据+未标注数据)〖（1-数据置信度）〗 +kmeans数据量
+     * todo:根据数据格式，修改partRMSE的fixme部分，然后根据需求改变minGoal的参数，
+     * todo：最后修改error判定条件
+     *
+     * @return 数据信息量
+     */
+    public double minGoal(String[][] result) {
+        // todo 更改文件编码，注意路径
+        String scoreFilePath = "data/stock100/divideSource/10scores.csv";
+        // fixme:规定样本总数是100个
+        double[] dataConfidence = new double[100];
+        try {
+            FileReader fd = new FileReader(scoreFilePath);
+            BufferedReader br = new BufferedReader(fd);
+            String str;
+            String[] data;
+            int row = 0;
+//            str = br.readLine();
+//            String[] first_line = str.split(",", -1);
+            while ((str = br.readLine()) != null) {
+                data = str.split(",", -1);
+                // 数据置信度存在第二格
+                dataConfidence[row] = Double.parseDouble(data[1]);
+                row++;
+            }
+            fd.close();
+        } catch (IOException e) {
+            e.printStackTrace();
+        }
+        // 获取最大最小置信度
+        double min = 0;
+        double max = 0;
+        for (int i = 0; i < 100; i++) {
+            double currentVal = dataConfidence[i];
+            if (currentVal > max) {
+                max = currentVal;
+            }
+            if (currentVal < min) {
+                min = currentVal;
             }
         }
+        // 重新计算置信度,归一化, 并获取部分和全部数据置信度sum
+        int unlabeledDataConfidenceSum = 0;
+        double ALDataConfidenceSum = 0;
+        for (int i = 0; i < 100; i++) {
+            dataConfidence[i] = (dataConfidence[i] - min) / (max - min);
+            // fixme:20个专家标注，17个主动学习标注
+            if (i >= 0 && i < 17) {
+                ALDataConfidenceSum += dataConfidence[i];
+            } else if (i > 36) {
+                unlabeledDataConfidenceSum += dataConfidence[i];
+            }
+
+        }
+
+        // fixme 未标注数据置信度,read file to get it!
+        // 未标注数据量
+        int unlabeledDataNum = 100 - 37;
+
+
+        // fixme: 主动学习数据量
+        double ALDataSize = 17;
+
+        double partDataInfoSum = ALDataSize - ALDataConfidenceSum + 20;
+        // 全部数据信息量
+        double allDataInfoSum = (ALDataSize - ALDataConfidenceSum) + unlabeledDataNum - unlabeledDataConfidenceSum + 20;
+        // 最小化目标还加一个所有数据RMSE（估计）+标注数量（已知）
+        //
+        //估计方式：所有数据RMSE/所有数据信息量=部分数据RMSE/部分数据信息量
+        // fixme:部分数据RMSE
+        String extractFilePath = "data/stock100/divideSource/10samples.csv";
+        List<Integer> extractSampleArray = new ArrayList<Integer>();
+        // fixme : 1st数据37个标注了的
+        String[][] extractCSYTruth = new String[37][10];
+        try {
+            FileReader fr = new FileReader(extractFilePath);
+            BufferedReader br = new BufferedReader(fr);
+            String str;
+            String[] data;
+
+            int row = 0;
+            while ((str = br.readLine()) != null) {
+                data = str.split(",", -1);
+                for (int i = 0; i < 10; i++) {
+                    extractCSYTruth[row][i] = data[i];
+                }
+                extractSampleArray.add(Integer.parseInt(data[0]));
+                row++;
+            }
+            fr.close();
+        } catch (IOException e) {
+            e.printStackTrace();
+        }
+        String[][] extractCTDTruth = new String[37][10];
+        int row = 0;
+        // L = 100;
+        for (int i = 0; i < 100; i++) {
+            int sample_id = (int) (Double.parseDouble(result[i][0]) * 10 + 5) / 10;
+            if (extractSampleArray.contains(sample_id)) {
+                // 第i行被抽取到了
+                // fixme: 样本一定要按照sample_id有序存放
+                for (int j = 0; j < 10; j++) {
+                    extractCTDTruth[row][j] = result[i][j];
+                }
+                row++;
+            }
+        }
+
+
+        double partRMSE = RMSE(extractCTDTruth, extractCSYTruth, 37, 10);
+        double allRMSE = (partRMSE / partDataInfoSum) * allDataInfoSum;
+        rmseForGA = allRMSE;
+        double minGoal = allRMSE + ALDataSize;
+        return minGoal;
     }
+
+
+    public double RMSE(String[][] calcTruth, String[][] goldenStandard, int D1, int D2) {
+
+        double sum = 0;
+        for (int i = 0; i < D1; i++) {
+            for (int j = 0; j < D2; j++) {
+                try {
+                    if (calcTruth[i][j].equals("NaN")
+                            || goldenStandard[i][j].equals("NaN")
+                            || calcTruth[i][j].equals("")
+                            || calcTruth[i][j] == null
+                            || goldenStandard[i][j].equals("")
+                            || goldenStandard[i][j] == null) {
+                        sum += 0;
+                    } else {
+                        double v1 = Double.parseDouble(calcTruth[i][j]);
+                        double v2 = Double.parseDouble(goldenStandard[i][j]);
+                        sum += Math.pow(Math.abs(v1 - v2), 2) / (D1 * D2);
+                    }
+                } catch (NumberFormatException | NullPointerException e) {
+                    // fixme 异常处理为0是否合理
+                    sum += 0;
+                }
+            }
+        }
+        sum = Math.sqrt(sum);
+        return sum;
+    }
+
+    public double getRmseForGA() {
+        return rmseForGA;
+    }
+
 }

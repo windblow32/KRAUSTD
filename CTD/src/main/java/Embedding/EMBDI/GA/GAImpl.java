@@ -152,6 +152,10 @@ public class GAImpl extends GeneticAlgorithm{
         DCs = initialDC();
         // CTD返回的source weight
         List<Double> weightList = new ArrayList<>();
+        double rmse = 0;
+        double r2 = 0;
+        double fitScore = 0;
+        double extractedRMSE = 0;
         weightList = CtdService.update(version,fileList,sourceNum,DCs,"THREE",length,AttrDistributeLow,
                 AttrDistributeHigh,
                 ValueDistributeLow,
@@ -159,7 +163,11 @@ public class GAImpl extends GeneticAlgorithm{
                 TupleDistributeLow,
                 TupleDistributeHigh,
                 dropSourceEdge,
-                dropSampleEdge);
+                dropSampleEdge,
+                rmse,
+                r2,
+                fitScore,
+                extractedRMSE);
 
         String[][] calcTruth =  CtdService.getCalcTruth();
         // calcTruth和真值求RMSE

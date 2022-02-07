@@ -58,7 +58,7 @@ public class testAll {
         String[] header = new String[]{"time", "place", "city", "good"};
         String separator = ",";
         for(int i = 0;i<m;i++){
-            String sourcePath = "E:\\GitHub\\ICDE2021\\CTD\\data\\Temp\\source" + i + ".csv";
+            String sourcePath = "E:\\GitHub\\KRAUSTD\\CTD\\data\\Temp\\source" + i + ".csv";
 //            File file = new File(sourcePath);
 //            BufferedWriter bw = new BufferedWriter(new OutputStreamWriter(new FileOutputStream(file, true)));
 

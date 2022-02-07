@@ -446,7 +446,7 @@ public class NormalizeDistributeSourceTripartiteEmbeddingViaWord2Vec {
         try {
             word2VecModel = Word2VecModel.trainer().
                     setMinVocabFrequency(1).useNumThreads(2).setWindowSize(1).
-                    type(NeuralNetworkType.CBOW).setLayerSize(10).useHierarchicalSoftmax().
+                    type(NeuralNetworkType.CBOW).setLayerSize(50).useHierarchicalSoftmax().
                     useNegativeSamples(5).setDownSamplingRate(1.0E-2D).
                     setNumIterations(5).train(smallList);
             Word2VecModelThrift thrift = word2VecModel.toThrift();

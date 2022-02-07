@@ -12,7 +12,7 @@ public class R_square {
     public int D1 = 100;
     public int D2 = 10;
     // 用了图表示学习的真值结果
-    public String resultPath = "data/stock100/result/result_9_1.csv";
+    public String resultPath = "data/stock100/result/result_1_7.csv";
 
     @Test
     public void test(){

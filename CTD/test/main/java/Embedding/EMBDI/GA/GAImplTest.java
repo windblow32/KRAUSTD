@@ -7,6 +7,8 @@ import main.java.CTD_Algorithm;
 import main.java.Embedding.EMBDI.TripartiteNormalizeDistributeGraph.NormalizeDistributeRunInGA;
 
 import java.io.*;
+import java.time.LocalTime;
+import java.time.format.DateTimeFormatter;
 import java.util.ArrayList;
 import java.util.Collection;
 import java.util.Collections;
@@ -27,10 +29,18 @@ public class GAImplTest extends GeneticAlgorithm{
     public int D1;
     public int D2;
     public String[][] calcTruth = null;
-    public double rmse;
-    public double r2;
+    // calc all data rmse
+    public double rmse = 0;
+    public double r2 = 0;
+    // print fitScore using CTD
+    public double fitScore = 0;
+    // print extracted rmse using CTD
+    public double extractedCTD_RMSE;
+
     public int Qi;
     public double B_sum;
+
+
 
 
     public static final int NUM = 1 << 26;
@@ -156,7 +166,7 @@ public class GAImplTest extends GeneticAlgorithm{
         CTD_Algorithm CtdService = new CTD_Algorithm();
         // 数据集列表
         List<String> fileList = new ArrayList<>();
-        fileList = initialFileList();
+        fileList = initialFileList(version);
         // 否定约束
         List<String> DCs = new ArrayList<>();
         DCs = initialDC();
@@ -173,7 +183,11 @@ public class GAImplTest extends GeneticAlgorithm{
                 TupleDistributeLow,
                 TupleDistributeHigh,
                 dropSourceEdge,
-                dropSampleEdge);
+                dropSampleEdge,
+                rmse,
+                r2,
+                fitScore,
+                extractedCTD_RMSE);
 
         String[][] calcTruth =  CtdService.getCalcTruth();
         this.calcTruth = calcTruth;
@@ -186,10 +200,35 @@ public class GAImplTest extends GeneticAlgorithm{
         String[][] goldenStandard = readGoldStandard(D1,D2);
         double RMSEScore = RMSE(calcTruth,goldenStandard,D1,D2);
         rmse = RMSEScore;
-        System.out.println("RMSE : " + RMSEScore);
-        r2 = R_square(calcTruth,goldenStandard,D1,D2);
-        System.out.println("R square : " + r2);
-        if(rmseList.size()<k){
+        // using CTD print last time's extracted data's rmse
+        extractedCTD_RMSE = CtdService.getRmseForGA();
+
+        // set printStream and rmse output filePath="log/Tri/weightCalcByVex/parameter/1.txt"
+        LocalTime time1 = LocalTime.now();
+        DateTimeFormatter formatter1 = DateTimeFormatter.ofPattern("HH:mm:ss");
+        String t1 = time1.format(formatter1);
+        String[] data1 = t1.split(":");
+        String insertT1 = data1[0] + data1[1] + data1[2];
+
+        String logPath = "log/Tri/weightCalcByVex/parameter/log" + insertT1 + ".txt";
+        File logFile = new File(logPath);
+
+        try {
+            logFile.createNewFile();
+            FileOutputStream fos = new FileOutputStream(logFile);
+            PrintStream ps = new PrintStream(fos);
+            System.setOut(ps);
+            System.out.println("RMSE GA : " + RMSEScore);
+            r2 = R_square(calcTruth,goldenStandard,D1,D2);
+            System.out.println("R square GA : " + r2);
+            System.out.println("extractedCTD_RMSE : " + extractedCTD_RMSE);
+            ps.close();
+        } catch (IOException e) {
+            e.printStackTrace();
+        }
+
+
+        if(rmseList.size() < k){
             rmseList.add(RMSEScore);
             if(RMSEScore<minRMSE){
                 minRMSE = RMSEScore;
@@ -229,7 +268,12 @@ public class GAImplTest extends GeneticAlgorithm{
                 if(String.valueOf((double)Qi/B_sum).equals("NaN")||B_sum==0.0){
                     return 8.0;
                 }
-                return 10*(double)Qi/B_sum;
+                // fixme:最小化目标还加一个所有数据RMSE（估计）+标注数量（已知）
+                // todo : fix标注数量，20 or 40
+                double goal = CtdService.getRmseForGA() + 37;
+
+                fitScore = 10*(double)Qi/B_sum;
+                return fitScore;
 
             }catch (NullPointerException e){
                 // 被抛弃了，排序很低
@@ -237,11 +281,8 @@ public class GAImplTest extends GeneticAlgorithm{
             }
         }
 
-        // todo 根据参数返回结果，计算评价函数
-        // 评价函数实现：
         return 4*rmseList.size();
-        // return valueFunction();
-//        return 100 - Math.log(Double.parseDouble(x));
+
     }
 
     public int getPartNum(boolean[] array) {
@@ -267,7 +308,12 @@ public class GAImplTest extends GeneticAlgorithm{
         return 5;
     }
 
-    public List<String> initialFileList(){
+    /**
+     * fixme:逐步读取数据
+     * 读取version文件夹下的所有source数据即可
+     * @return
+     */
+    public List<String> initialFileList(int version){
         List<String> fileList = new ArrayList<>();
         for (int i = 0; i < sourceNum; i++) {
             int temp = i + 1;
@@ -318,9 +364,11 @@ public class GAImplTest extends GeneticAlgorithm{
                             || goldenStandard[i][j].equals("")
                             || goldenStandard[i][j] == null){
                         golden_standard_sum += 0;
+                    }else{
+                        double v2 = Double.parseDouble(goldenStandard[i][j]);
+                        golden_standard_sum += v2;
                     }
-                    double v2 = Double.parseDouble(goldenStandard[i][j]);
-                    golden_standard_sum += v2;
+
                 }catch (NumberFormatException | NullPointerException e) {
                     // fixme 异常处理为0是否合理
                     golden_standard_sum += 0;
@@ -331,12 +379,14 @@ public class GAImplTest extends GeneticAlgorithm{
         for(int i = 0;i<D1;i++){
             for(int j = 0;j<D2;j++){
                 try{
+                    double v2 = 0;
                     if(goldenStandard[i][j].equals("NaN")
                             || goldenStandard[i][j].equals("")
                             || goldenStandard[i][j] == null){
-                        golden_standard_sum += 0;
+                        v2 = 0;
+                    }else{
+                        v2 = Double.parseDouble(goldenStandard[i][j]);
                     }
-                    double v2 = Double.parseDouble(goldenStandard[i][j]);
                     sum2 += (double) (v2-golden_standard_sum);
                 }catch (NumberFormatException | NullPointerException e) {
                     // fixme 异常处理为0是否合理
@@ -355,10 +405,11 @@ public class GAImplTest extends GeneticAlgorithm{
                             || goldenStandard[i][j].equals("")
                             || goldenStandard[i][j] == null) {
                         sum1 += 0;
+                    }else{
+                        double v1 = Double.parseDouble(calcTruth[i][j]);
+                        double v2 = Double.parseDouble(goldenStandard[i][j]);
+                        sum1 += Math.pow(v1-v2,2);
                     }
-                    double v1 = Double.parseDouble(calcTruth[i][j]);
-                    double v2 = Double.parseDouble(goldenStandard[i][j]);
-                    sum1 += Math.pow(v1-v2,2);
                 } catch (NumberFormatException | NullPointerException e) {
                     // fixme 异常处理为0是否合理
                     sum1 += 0;
@@ -382,10 +433,11 @@ public class GAImplTest extends GeneticAlgorithm{
                             || goldenStandard[i][j].equals("")
                             ||goldenStandard[i][j] == null){
                         sum += 0;
+                    }else{
+                        double v1 = Double.parseDouble(calcTruth[i][j]);
+                        double v2 = Double.parseDouble(goldenStandard[i][j]);
+                        sum += Math.pow(Math.abs(v1-v2),2);
                     }
-                    double v1 = Double.parseDouble(calcTruth[i][j]);
-                    double v2 = Double.parseDouble(goldenStandard[i][j]);
-                    sum += Math.pow(Math.abs(v1-v2),2);
                 }catch (NumberFormatException|NullPointerException e){
                     // fixme 异常处理为0是否合理
                     sum += 0;
@@ -421,6 +473,7 @@ public class GAImplTest extends GeneticAlgorithm{
         }
 
     }
+
 
     public static boolean deleteWithPath(String filePath){
         File file = new File(filePath);

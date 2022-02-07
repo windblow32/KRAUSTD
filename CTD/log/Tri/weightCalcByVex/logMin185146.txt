@@ -1,0 +1,31 @@
+GA printer : rmse = NaN
+GA printer : r2 square = NaN
+GA printer : last time fitScore = 0.0
+GA printer : last time extracted data's rmse = 0.0
+(20) is not satisfied
+(20) is not satisfied
+(20) is not satisfied
+(20) is not satisfied
+(20) is not satisfied
+(20) is not satisfied
+(20) is not satisfied
+(20) is not satisfied
+(20) is not satisfied
+(20) is not satisfied
+(20) is not satisfied
+(20) is not satisfied
+(20) is not satisfied
+(20) is not satisfied
+error is 22.91274607181549
+rmse : 1.3016247598676983E7
+safe, graphFile is not exist
+游走长度为 : 11
+Attr 正态均值 : 1
+Attr 正态标准差 : 7
+Value 正态均值 : 6
+Value 正态标准差 : 1
+Tuple 正态均值 : 7
+Tuple 正态标准差 : 7
+drop Source ? (0 false, 1 true) : 0
+drop Sample ? (0 false, 1 true) : 1
+Graph is saved

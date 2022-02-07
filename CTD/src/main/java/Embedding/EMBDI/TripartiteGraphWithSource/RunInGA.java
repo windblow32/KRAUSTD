@@ -8,7 +8,7 @@ import java.util.*;
 
 /**
  * using TripartiteGraph to generate random EMSize nodes, and calc their distance
- * log in E:\GitHub\ICDE2021\gugu\log\newStock
+ * log in E:\GitHub\KRAUSTD\gugu\log\newStock
  * data in data/generateSample/dividedSource
  */
 public class RunInGA {

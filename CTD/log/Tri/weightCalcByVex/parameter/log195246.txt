@@ -1,0 +1,3 @@
+RMSE GA : NaN
+R square GA : NaN
+extractedCTD_RMSE : 0.0
