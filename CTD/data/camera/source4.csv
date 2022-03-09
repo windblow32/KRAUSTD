@@ -1,0 +1,29 @@
+entity_id,website,number,image_resolution,screen_size,brand
+ENTITY#101,www.mypriceindia.com,724,22.3 MP,3.2000000000000006,Canon EOS 5D Mark III kit 24-105mm
+ENTITY#13,www.mypriceindia.com,159,16.2 MP,3.2000000000000006,Nikon
+ENTITY#18,www.mypriceindia.com,23,19 MP,3.0,Canon
+ENTITY#19,www.mypriceindia.com,3,25.0 MP,3.0,Nikon
+ENTITY#21,www.mypriceindia.com,700,16.2 MP,3.0,Nikon
+ENTITY#23,www.mypriceindia.com,763,18 MP,3.0,Canon
+ENTITY#34,www.mypriceindia.com,128,16 MP,3.0,Canon
+ENTITY#41,www.mypriceindia.com,103,24.7 MP,3.0,Nikon
+ENTITY#44,www.mypriceindia.com,714,24.2 MP,3.0,Nikon
+ENTITY#45,www.mypriceindia.com,711,16.0 MP,3.0,Canon
+ENTITY#48,www.mypriceindia.com,172,12.1 MP,2.7999999999999994,Canon
+ENTITY#53,www.mypriceindia.com,759,12 MP,3.0,Nikon
+ENTITY#57,www.mypriceindia.com,63,37 MP,3.2000000000000006,Nikon
+ENTITY#570,www.mypriceindia.com,126,37 MP,3.2000000000000006,Nikon
+ENTITY#59,www.mypriceindia.com,142,20.1 MP,3.0666666666666664,Nikon
+ENTITY#6,www.mypriceindia.com,16,25 MP,3.2000000000000006,Nikon
+ENTITY#64,www.mypriceindia.com,98,12.1 MP,3.0,Canon
+ENTITY#67,www.mypriceindia.com,687,16 MP,2.7000000000000006,Canon
+ENTITY#7,www.mypriceindia.com,185,16.9 MP,3.0,Olympus
+ENTITY#72,www.mypriceindia.com,193,37 MP,3.2000000000000006,Nikon
+ENTITY#73,www.mypriceindia.com,56,16.1 MP,3.0,Nikon
+ENTITY#75,www.mypriceindia.com,213,17 MP,3.0,Nikon
+ENTITY#76,www.mypriceindia.com,730,24.3 MP,3.2000000000000006,Nikon
+ENTITY#80,www.mypriceindia.com,113,12 MP,2.7999999999999994,Fujifilm
+ENTITY#81,www.mypriceindia.com,83,14.0 MP,3.0,Fujifilm SL300
+ENTITY#87,www.mypriceindia.com,99,12.2 MP,3.0,Nikon
+ENTITY#91,www.mypriceindia.com,694,10.1 MP,3.0,Panasonic
+ENTITY#96,www.mypriceindia.com,181,20.2 MP,3.0,Canon

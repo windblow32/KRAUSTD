@@ -81,13 +81,16 @@ public class NormalizeDistributeSourceTripartiteEmbeddingViaWord2Vec {
             int k = 0;
             temp = itor.next();
             System.out.println("list size : "+temp.size());
-            System.out.println("use : "+useNum);
+            System.out.println("(abandon)use : "+useNum);
             int index = 0;
-            for (k = 0; k < useNum; k++) {
+            // useNum instead of temp.size()
+            for (k = 0; k < temp.size(); k++) {
                 // fixme: sublist 是视图，不能本地化
                 List<String> tempList = new ArrayList<>();
                 for (int t = index; t < index + length; t++) {
-                    tempList.add(temp.get(t));
+                    if(t<temp.size()){
+                        tempList.add(temp.get(t));
+                    }
                 }
                 smallList.add(tempList);
                 index += length;

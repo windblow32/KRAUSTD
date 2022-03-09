@@ -181,8 +181,28 @@ public class GenerateNormalizeDistributeSourceTripartite implements Serializable
                     List<String> value_i = new ArrayList<>();
                     // 处理多值
                     for(String Vk:row_i ){
+                        // fixme : dart, 包括空格(词语，语义层面)和分号(多值)
                         if(Vk.contains(" ")) {
                             value = Vk.split(" ");
+                            // 对于这个属性的成员,每个word储存到value_i中
+                            value_i.addAll(Arrays.asList(value));
+                            for (String word : value_i) {
+                                // G.addNode(word)
+                                sourceGraph.addVertex(word);
+                                sourceGraph.all_nodes.add(word);
+                                // G.addEdge(word,Ri)
+                                // 计算value的点权
+                                int v_value = N(ValueDistributeLow,ValueDistributeHigh);
+                                sourceGraph.addEdge(word, Ri,v_value*Ri_VexValue);
+                                // G.addEdge(word,Ck)
+                                //  仅在此处用到column
+                                int column_value = N(AttrDistributeLow,AttrDistributeHigh);
+                                sourceGraph.addEdge(word, sourceGraph.column_i.get(column),column_value*v_value);
+                                sourceGraph.addEdge(word, source_id,source_value*v_value);
+                            }
+                        }
+                        else if(Vk.contains(";")){
+                            value = Vk.split(";");
                             // 对于这个属性的成员,每个word储存到value_i中
                             value_i.addAll(Arrays.asList(value));
                             for (String word : value_i) {

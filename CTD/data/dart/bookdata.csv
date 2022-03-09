@@ -1,0 +1,44 @@
+name,domain,source,author
+under the midninght sun,literature,dangdang,Higashino Keigo
+under the midninght sun,literature,xinhua,Higashino Keigo
+under the midninght sun,literature,bookuu,Higashino Keigo
+53,Study,jiangtu,QuYixian
+53,Study,bookuu,
+53,Study,xinhua,QuYixian
+53,Study,dangdang,Qu Yixian
+CSAPP,Computer_science;Study,dangdang,David R. O'Hallaron;Randal E. Bryant
+CSAPP,Computer_science;Study,xinhua,David R. O'Hallaron;Randal E. Bryant
+CSAPP,Computer_science;Study,bookuu,David R. O'Hallaron
+History for children,Study;Children,yueyue,
+History for children,Study;Children,bookuu,Yu Shui
+History for children,Study;Children,xinhua,Elizabeth Macleod;Frieda Wishinsky
+History for children,Study;Children,dangdang,YuShui
+CN,Computer_science;Study,bookuu,James F. Kurose
+CN,Computer_science;Study,xinhua,James F. Kurose
+CN,Computer_science;Study,dangdang,James F. Kurose
+CN,Computer_science;Study,yueyue,chenming
+Magic Tree,Children,xinhua,Blyton;Enid
+Magic Tree,Children,bookuu,Blyton;Enid
+Magic Tree,Children,dangdang,Blyton;Enid
+Cuore,Study;Children,yueyue,
+Cuore,Study;Children,bookuu,Edmondo De Amicis
+Cuore,Study;Children,xinhua,Edmondo De Amicis
+Cuore,Study;Children,dangdang,Edmondo De Amicis
+Tumor of the Breast,Science;Study,dangdang,
+Tumor of the Breast,Science;Study,xinhua,Shao
+Tumor of the Breast,Science;Study,bookuu,
+Special class,Children,yueyue,Wu Meizhen
+Special class,Children,bookuu,Wu Meizhen
+Special class,Children,xinhua,Wu Meizhen
+Special class,Children,dangdang,Wu Meizhen
+Algorithms,Computer_science;Study,dangdang,Thomas H. Cormen
+Algorithms,Computer_science;Study,xinhua,Thomas H. Cormen
+Algorithms,Computer_science;Study,bookuu,Thomas H. Cormen;Ronald L. Rivest
+Algorithms,Computer_science;Study,yueyue,Thomas H. Cormen;Charles E. Leiserson
+Computer Organization,Computer_science,xinhua,Patterson;Hennessy
+Computer Organization,Computer_science,dangdang,David A. Patterson
+Computer Organization,Computer_science,bookuu,Patterson;Hennessy
+Computer Organization,Computer_science,yueyue,David A. Patterson
+Programming in C,Computer_science;Study,bookuu,Tan Haoqiang
+Programming in C,Computer_science;Study,xinhua,Tan Haoqiang
+Programming in C,Computer_science;Study,yueyue,Tan Haoqiang
