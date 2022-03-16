@@ -1,0 +1,9 @@
+entity_id,website,brand,number,external_memory_type,white_balance
+ENTITY#101,www.shopmania.in,Canon,1662,CF / SD / SDHC / SDXC,Artificial;Cloudy;Daylight;Sunny;Flash;Fluorescent;Shade;Tungsten;Underwater
+ENTITY#19,www.shopmania.in,Nikon,1677,SD / SDHC / SDXC,Cloudy;Flash
+ENTITY#23,www.shopmania.in,Canon,1317,CF / MicroDrive / SmartMedia,Cloudy;Daylight;Sunny;Fine;Flash;Fluorescent;Shade;Tungsten;Underwater
+ENTITY#41,www.shopmania.in,Nikon,1003,SD / SDHC / SDXC,Cloudy;Flash;Fluorescent;Incandescent;Shade;Sunlight;Sunny;Tungsten
+ENTITY#44,www.shopmania.in,Nikon,950,SD / SDXC / SDHC,Artificial;Tungsten
+ENTITY#6,www.shopmania.in,Nikon,1721,SD / SDHC / SDXC,Cloudy;Flash;Fluorescent
+ENTITY#75,www.shopmania.in,Nikon,1284,SD / SDHC / SDXC,Cloudy;Daylight;Sunny;Fine;Flash;Incandescent;Fluorescent;Indoor;Shad;Sunlight;Tungsten
+ENTITY#96,www.shopmania.in,Canon,1411,SD / SDHC / SDXC,Cloudy;Daylight;Sunny;Flash;Fluorescent;Tungsten

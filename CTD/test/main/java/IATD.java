@@ -133,18 +133,11 @@ public class IATD {
         String graphPath = "data/stock100/weightCalcByVex/graph/55SourceStockGraphMin.txt";
         deleteWithPath(graphPath);
         NormalizeDistributeSourceTripartiteEmbeddingViaWord2Vec word2VecService = new NormalizeDistributeSourceTripartiteEmbeddingViaWord2Vec();
-        // fixme: set parameter
-        word2VecService.train(fileList, graphPath, 3, 3, 100, 160000, 4, 4, 4, 4, 4, 4, 4, 4);
+        // fixme: set parameter, search length, 3 new parameter
+        word2VecService.train(fileList, graphPath, 3, 3, 100, 160000, 4, 4, 4, 4, 4, 4, 4, 4,1,50,4);
         String modelPath = "model/Tri/IATD/IATD_Connection.model";
         IATDModel = word2VecService.trainWithLocalWalks(modelPath);
-        List<String> usefulSourceList = new ArrayList<>();
-        for (int s = 0; s < 55; s++) {
-            String currentSource = "source_" + s;
-            String goldStandardSourceName = "source_55";
-            if ((1-similarityUseSavedModel(IATDModel, currentSource, goldStandardSourceName)) > p2) {
-                usefulSourceList.add(currentSource);
-            }
-        }
+
 
         File f = new File("log/Tri/IATD/sourceList "+p1+"_"+p2+"_"+".txt");
         try {
@@ -152,16 +145,25 @@ public class IATD {
             FileOutputStream fos = new FileOutputStream(f);
             PrintStream ps = new PrintStream(fos);
             System.setOut(ps);
-            //  fixme : 为每个源的每个entity生成对应的source集合
+            //  fixme : 为每个源的每个entity生成对应的source集合, 100 entity 55source,
+            // todo : 内部,分割，entity之间;分割
             for (int s = 0; s < 55; s++) {
                 System.out.print("source_"+s+" list: ");
                 // compare between current and any other source
-                for (int t = 0; t < usefulSourceList.size(); t++) {
-                    if((1-similarityUseSavedModel(IATDModel,"source_"+s, usefulSourceList.get(t)))>p1){
-                        // fixme : careful process using python!!!
-                        System.out.print("source_"+t+";");
+                // 100 entity
+                for(int tuple = 0;tuple<100;tuple++){
+
+                    String tupleName = "row_" + tuple + "_s" + 55;
+                    List<String> usefulSourceList = getUsefulSourceSetUsingTupleName(tupleName);
+                    for (int t = 0; t < usefulSourceList.size(); t++) {
+                        if((1-similarityUseSavedModel(IATDModel,"source_"+s, usefulSourceList.get(t)))>p1){
+                            // fixme : careful process using python!!!
+                            System.out.print(t+",");
+                        }
                     }
+                    System.out.print(";");
                 }
+
                 System.out.print("\n");
             }
             ps.close();
@@ -179,7 +181,20 @@ public class IATD {
         System.out.println("Gateway Server Started");
     }
 
-
+    public List<String> getUsefulSourceSetUsingTupleName(String tupleName){
+        List<String> result = new ArrayList<>();
+        for (int s = 0; s < 55; s++) {
+            String currentSource = "source_" + s;
+            double sim = similarityUseSavedModel(IATDModel, currentSource, tupleName);
+//            if(sim == 0.0){
+//                System.out.println("vector is not exist");
+//            }
+            if ((1-sim) > p2) {
+                result.add(currentSource);
+            }
+        }
+        return result;
+    }
 
     public double similarityUseSavedModel(Word2VecModel model, String s1, String s2) {
         Searcher search = model.forSearch();

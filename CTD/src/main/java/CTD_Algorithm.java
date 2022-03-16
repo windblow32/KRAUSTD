@@ -1,9 +1,11 @@
 package main.java;
 
+import com.medallia.word2vec.Searcher;
 import com.medallia.word2vec.Word2VecModel;
 import main.java.Embedding.EMBDI.TripartiteNormalizeDistributeGraph.NormalizeDistributeSourceTripartiteEmbeddingViaWord2Vec;
 
 import java.io.*;
+import java.nio.Buffer;
 import java.text.DecimalFormat;
 import java.time.LocalTime;
 import java.time.format.DateTimeFormatter;
@@ -38,6 +40,7 @@ public class CTD_Algorithm {
     // num of source
     private int k;
     private List<String> attributes = new ArrayList<>();
+    public double initFitnessScore;
     // 二维数组repaired table无法初始化，在算法中返回即可。
 
     public static void main(String[] args) {
@@ -123,12 +126,15 @@ public class CTD_Algorithm {
             double rmsePrinter,
             double r2_squarePrinter,
             double fitScore,
-            double extractedCTD_RMSE
+            double extractedCTD_RMSE,
+            int isCBOW,
+            int dim,
+            int windowSize
     ) {
         v = version;
         this.k = k; // this.k = files.size();
         // double输出限制
-        DecimalFormat df = new DecimalFormat("0.00 ");
+        DecimalFormat df = new DecimalFormat("#.00");
         // use date to name file
         LocalTime time1 = LocalTime.now();
         DateTimeFormatter formatter1 = DateTimeFormatter.ofPattern("HH:mm:ss");
@@ -558,7 +564,7 @@ public class CTD_Algorithm {
                         double r = distance(result[l][col], value[s][l][col], mode, times,
                                 length, AttrDistributeLow, AttrDistributeHigh,
                                 ValueDistributeLow, ValueDistributeHigh, TupleDistributeLow,
-                                TupleDistributeHigh, dropSourceEdge, dropSampleEdge);
+                                TupleDistributeHigh, dropSourceEdge, dropSampleEdge,isCBOW,dim,windowSize);
                         if (r == -100) {
                             calcTruth = result;
                             return weights;
@@ -578,7 +584,7 @@ public class CTD_Algorithm {
                                 length, AttrDistributeLow, AttrDistributeHigh,
                                 ValueDistributeLow, ValueDistributeHigh,
                                 TupleDistributeLow, TupleDistributeHigh,
-                                dropSourceEdge, dropSampleEdge);
+                                dropSourceEdge, dropSampleEdge,isCBOW,dim,windowSize);
                         if (r2 == -100) {
                             calcTruth = result;
                             return weights;
@@ -619,6 +625,7 @@ public class CTD_Algorithm {
                 break;
             }
         }
+        initFitnessScore = calcInitFitnessScore(times);
         calcTruth = result;
         return weights;
     }
@@ -801,6 +808,9 @@ public class CTD_Algorithm {
      * @param v2    字符串2，来自value
      * @param mode  表明使用三分图或者五分图进行distance计算
      * @param times 记录着result文件的个数(从0开始)，
+     * @param isCBOW 为1则采用CBOW，否则v0采用sg
+     * @param dim embedding 维度
+     * @param windowSize 窗口大小
      * @return 返回两个字符串的欧式距离
      */
     private double distance(String v1, String v2, String mode, int times,
@@ -811,7 +821,10 @@ public class CTD_Algorithm {
                             int TupleDistributeLow,
                             int TupleDistributeHigh,
                             int dropSourceEdge,
-                            int dropSampleEdge) {
+                            int dropSampleEdge,
+                            int isCBOW,
+                            int dim,
+                            int windowSize) {
         try {
             if (v1.equals("") || v2.equals("")) {
                 return 0;
@@ -872,7 +885,7 @@ public class CTD_Algorithm {
                 String modelPath = "model/Tri/stock100/weightCalcByVex/totalMin" + v + "_" + insertT + ".model";
                 word2VecService.train(fileList, graphFilePath, 3, 3, length, 20000,
                         AttrDistributeLow, AttrDistributeHigh, ValueDistributeLow, ValueDistributeHigh,
-                        TupleDistributeLow, TupleDistributeHigh, dropSourceEdge, dropSampleEdge);
+                        TupleDistributeLow, TupleDistributeHigh, dropSourceEdge, dropSampleEdge,isCBOW,dim,windowSize);
                 TriModel = word2VecService.trainWithLocalWalks(modelPath);
                 return 1 - word2VecService.distanceUseSavedModel(TriModel, v1, v2);
             } else if (CTD_sotaFlag > 1 && flag == 1) {
@@ -1114,6 +1127,193 @@ public class CTD_Algorithm {
         }
         sum = Math.sqrt(sum);
         return sum;
+    }
+
+
+    // 计算初始适应度，内部包含global embedding生成
+    public double calcInitFitnessScore(int times){
+        Searcher search = TriModel.forSearch();
+        String resultFilePath = "E:\\GitHub\\KRAUSTD\\CTD\\data\\stock100\\result\\result_" + v + "_" + times + ".csv";
+        String truthFilePath = "data/stock100/100truth.csv";
+        // find embedding
+        File resultFile = new File(resultFilePath);
+        File truthFile = new File(truthFilePath);
+        // calcResult and golden standard
+        double totalGTDistance = 0;
+        try {
+            // result
+            FileReader frResult = new FileReader(resultFile);
+            BufferedReader brResult = new BufferedReader(frResult);
+            String str;
+            String[] data;
+            // truth
+            FileReader frTruth = new FileReader(truthFile);
+            BufferedReader brTruth = new BufferedReader(frTruth);
+            String strT;
+            String[] dataT;
+            // 读走属性行
+            brResult.readLine();
+            brTruth.readLine();
+            // 10 attr
+            int attrKind = 10;
+            // 限制只读取前20行
+            int usedLine = 0;
+            while((str = brResult.readLine())!=null&&(strT = brTruth.readLine())!=null&&usedLine<20){
+                data = str.split(",",-1);
+                dataT = strT.split(",",-1);
+                for(int a = 0;a<attrKind;a++){
+                    try{
+                        // 每次读取新单元格，重新初始化
+                        List<List<Double>> listOfSingleWord = new ArrayList<>();
+                        List<Double> s1List = search.getRawVector(data[a]);
+                        // calc list
+                        if(data[a].contains(" ")){
+                            String[] singleWordArray = data[a].split(" ");
+                            // add each single word split by " "
+                            for(int s = 0;s<singleWordArray.length;s++){
+                                listOfSingleWord.add(search.getRawVector(singleWordArray[s]));
+                            }
+                        }else {
+                            listOfSingleWord.add(s1List);
+                        }
+                        // calc pooling embedding并且拼接
+                        List<Double> globalEmbedding = new ArrayList<>();
+                        globalEmbedding.addAll(s1List);
+                        globalEmbedding.addAll(meanPooling(listOfSingleWord));
+                        // truth pooling
+                        List<Double> s2List = search.getRawVector(dataT[a]);
+                        List<List<Double>> listOfTruth = new ArrayList<>();
+                        listOfTruth.add(s2List);
+                        List<Double> truthEmbedding = new ArrayList<>();
+                        truthEmbedding.addAll(s2List);
+                        truthEmbedding.addAll(meanPooling(listOfTruth));
+                        // end pooling and global embedding
+                        // 欧氏距离
+                        double totalSingleWord = 0;
+                        int globalSize = globalEmbedding.size();
+                        for(int i = 0;i<globalSize;i++){
+                            totalSingleWord += Math.pow(Math.abs(globalEmbedding.get(i) - truthEmbedding.get(i)),2);
+                        }
+                        totalSingleWord = Math.sqrt(totalSingleWord);
+                        totalGTDistance += totalSingleWord;
+                    }catch (Searcher.UnknownWordException e){
+                        totalGTDistance += 0;
+                    }
+                }
+                usedLine++;
+            }
+            frResult.close();
+            frTruth.close();
+        } catch (IOException e) {
+            e.printStackTrace();
+        }
+
+
+        // 数据增强
+        double totalDADistance = 0;
+        // TODO : add DA file
+        String DAFilePath = "data/stock100/DA.csv";
+        // find embedding
+        File DAFile = new File(DAFilePath);
+        try {
+            // result
+            FileReader frResult = new FileReader(resultFile);
+            BufferedReader brResult = new BufferedReader(frResult);
+            String str;
+            String[] data;
+            // truth
+            FileReader frDA = new FileReader(DAFile);
+            BufferedReader brDA = new BufferedReader(frDA);
+            String strDA;
+            String[] dataDA;
+            // 读走属性行
+            brResult.readLine();
+            // fixme : DA也有属性行吗
+            brDA.readLine();
+            // 各自读走前20行
+            int passLines = 20;
+            for(int line = 0;line<passLines;line++){
+                brResult.readLine();
+                brDA.readLine();
+            }
+            // 10 attr
+            int attrKind = 10;
+            // 从21行读取到最后
+            int usedLine = 0;
+            while((str = brResult.readLine())!=null&&(strDA = brDA.readLine())!=null&&usedLine<80){
+                data = str.split(",",-1);
+                dataDA = strDA.split(",",-1);
+                for(int a = 0;a<attrKind;a++){
+                    try{
+                        // 每次读取新单元格，重新初始化
+                        List<List<Double>> listOfSingleWord = new ArrayList<>();
+                        List<Double> s1List = search.getRawVector(data[a]);
+                        // calc list
+                        if(data[a].contains(" ")){
+                            String[] singleWordArray = data[a].split(" ");
+                            // add each single word split by " "
+                            for(int s = 0;s<singleWordArray.length;s++){
+                                listOfSingleWord.add(search.getRawVector(singleWordArray[s]));
+                            }
+                        }else {
+                            listOfSingleWord.add(s1List);
+                        }
+                        // calc pooling embedding并且拼接
+                        List<Double> globalEmbedding = new ArrayList<>();
+                        globalEmbedding.addAll(s1List);
+                        globalEmbedding.addAll(meanPooling(listOfSingleWord));
+                        // truth pooling
+                        List<Double> s2List = search.getRawVector(dataDA[a]);
+                        List<List<Double>> listOfDA = new ArrayList<>();
+                        listOfDA.add(s2List);
+                        List<Double> DAEmbedding = new ArrayList<>();
+                        DAEmbedding.addAll(s2List);
+                        DAEmbedding.addAll(meanPooling(listOfDA));
+                        // end pooling and global embedding
+                        // 欧氏距离
+                        double totalSingleWord = 0;
+                        int globalSize = globalEmbedding.size();
+                        for(int i = 0;i<globalSize;i++){
+                            totalSingleWord += Math.pow(Math.abs(globalEmbedding.get(i) - DAEmbedding.get(i)),2);
+                        }
+                        totalSingleWord = Math.sqrt(totalSingleWord);
+                        totalDADistance += totalSingleWord;
+                    }catch (Searcher.UnknownWordException e){
+                        totalDADistance += 0;
+                    }
+                }
+                usedLine++;
+            }
+        } catch (IOException e) {
+            e.printStackTrace();
+        }
+        return totalDADistance + totalGTDistance;
+
+    }
+
+    /**
+     * 平均池化输入的embedding
+     * @param listOfSingleWord list of embedding to mean pooling
+     */
+    private List<Double> meanPooling(List<List<Double>> listOfSingleWord) {
+        List<Double> result = new ArrayList<>();
+        int size = listOfSingleWord.size();
+        int poolWindow = 2;
+        int currentIndex = 0;
+        while(currentIndex+poolWindow<size){
+            double pool = 0;
+            for(int l = 0;l<size;l++){
+                // 对于每个embedding
+                List<Double> currentList = listOfSingleWord.get(l);
+                for(int i = 0;i<poolWindow;i++){
+                    // 每次取五个
+                    pool += currentList.get(currentIndex + i);
+                }
+            }
+            result.add(pool/(poolWindow*size));
+            currentIndex++;
+        }
+        return result;
     }
 
     public double getRmseForGA() {

@@ -1,0 +1,9 @@
+entity_id,website,brand,number,external_memory_type,white_balance
+ENTITY#101,buy.net,Canon,5439,Secure Digital Extended Capacity (SDXC)|Secure Digital (SD) Card|Secure Digital High Capacity (SDHC) Card,Available Auto;Preset;User Defined;Color Temperature Setting;White Balance Correction and White Balance Bracketing
+ENTITY#19,buy.net,Nikon,5368,Secure Digital High Capacity (SDHC) Card|Secure Digital (SD) Card|Secure Digital Extended Capacity (SDXC),Auto;Preset
+ENTITY#23,buy.net,Canon,6578,CompactFlash (CF) Card,Auto;Preset;User Defined;Color Temperature Setting;White Balance Correction and White Balance Bracketing
+ENTITY#41,buy.net,Nikon,5759,Secure Digital (SD) Card|Secure Digital High Capacity (SDHC UHS-I)|Secure Digital Extended Capacity (SDXC UHS-I)|Eye-Fi Card,Auto;Preset
+ENTITY#44,buy.net,Nikon,5857,Secure Digital High Capacity (SDHC) Card|Secure Digital Extended Capacity (SDXC)|Secure Digital (SD) Memory,Auto;Preset
+ENTITY#6,buy.net,Nikon,6305,Secure Digital High Capacity (SDHC) Card|Secure Digital Extended Capacity (SDXC)|Secure Digital (SD) Card,Auto;Preset
+ENTITY#75,buy.net,Nikon,5791,Secure Digital (SD) Card|Secure Digital High Capacity (SDHC)|Secure Digital Extended Capacity (SDXC),Auto;incandescent;fluorescent;direct sunlight;flash;cloudy;shade;preset manual white balance;color temperature selection
+ENTITY#96,buy.net,Canon,6338,Eye-Fi Card|Secure Digital (SD) Card|Secure Digital Extended Capacity (SDXC)|Secure Digital High Capacity (SDHC) Card|Secure Digital Extended Capacity (SDXC UHS-I)|Secure Digital High Capacity (SDHC UHS-I),Auto;preset;user-defined;color temperature setting;with white balance correction and white balance bracketing functions;With flash color temperature information transmission

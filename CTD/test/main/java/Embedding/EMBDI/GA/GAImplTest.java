@@ -47,6 +47,7 @@ public class GAImplTest extends GeneticAlgorithm{
     public int version;
 
     // 分批转化成不同的超参，带入评价函数中
+    // CBOW一位，dim二位63-255(七位二进制数，加63)，windowSize（三个二进制位）+1
 
     public String p1 = "length";
     public int p1_length = 6;
@@ -58,8 +59,15 @@ public class GAImplTest extends GeneticAlgorithm{
     public String p7 = "TupleDistributeHigh";
     public String p8 = "DropSourceEdge";
     public String p9 = "DropSampleEdge";
+    public String p10 = "isCBOW";
+    public String p11 = "dim";
+    public String p12 = "windowSize";
     public int p8_length = 1;
     public int p2_length = 3;
+    public int p10_length = 1;
+    public int p11_length = 7;
+    public int p12_length = 3;
+
     public int sourceNum = 55;
     // k是质优度的超参
     public int k = 3;
@@ -69,7 +77,7 @@ public class GAImplTest extends GeneticAlgorithm{
 
     public GAImplTest() {
         // fixme (fixed) change length of chro
-        super(26);
+        super(37);
     }
 
     @Override
@@ -89,6 +97,9 @@ public class GAImplTest extends GeneticAlgorithm{
         boolean[] parameter7 = new boolean[p2_length];
         boolean[] parameter8 = new boolean[p8_length];
         boolean[] parameter9 = new boolean[p8_length];
+        boolean[] parameter10 = new boolean[p10_length];
+        boolean[] parameter11 = new boolean[p11_length];
+        boolean[] parameter12 = new boolean[p12_length];
         arraycopy(chro.gene,0,parameter1,0,p1_length);
         arraycopy(chro.gene,p1_length,parameter2,0,p2_length);
         arraycopy(chro.gene,p1_length+p2_length,parameter3,0,p2_length);
@@ -98,6 +109,10 @@ public class GAImplTest extends GeneticAlgorithm{
         arraycopy(chro.gene,p1_length+p2_length*5,parameter7,0,p2_length);
         arraycopy(chro.gene,p1_length+p2_length*6,parameter8,0,p8_length);
         arraycopy(chro.gene,p1_length+p2_length*6+p8_length,parameter9,0,p8_length);
+
+        arraycopy(chro.gene,p1_length+p2_length*6+p8_length*2,parameter10,0,p10_length);
+        arraycopy(chro.gene,p1_length+p2_length*6+p8_length*2+p10_length,parameter11,0,p11_length);
+        arraycopy(chro.gene,p1_length+p2_length*6+p8_length*2+p10_length+p11_length,parameter12,0,p12_length);
         return p1 + ": " + String.valueOf(getPartNum(parameter1))
                 + p2 + ": " + String.valueOf(getPartNum(parameter2))
                 + p3 + ": " + String.valueOf(getPartNum(parameter3))
@@ -106,11 +121,11 @@ public class GAImplTest extends GeneticAlgorithm{
                 + p6 + ": " + String.valueOf(getPartNum(parameter6))
                 + p7 + ": " + String.valueOf(getPartNum(parameter7))
                 + p8 + ": " + String.valueOf(getPartNum(parameter8))
-                + p9 + ": " + String.valueOf(getPartNum(parameter9));
+                + p9 + ": " + String.valueOf(getPartNum(parameter9))
+                + p10 + ": " + String.valueOf(getPartNum(parameter10))
+                + p11 + ": " + String.valueOf(getPartNum(parameter11))
+                + p12 + ": " + String.valueOf(getPartNum(parameter12));
 
-
-
-        // return String.valueOf((1.0 * chro.getNum() / NUM) * 100 + 6);
     }
 
 
@@ -134,6 +149,9 @@ public class GAImplTest extends GeneticAlgorithm{
         boolean[] parameter7 = new boolean[p2_length];
         boolean[] parameter8 = new boolean[p8_length];
         boolean[] parameter9 = new boolean[p8_length];
+        boolean[] parameter10 = new boolean[p10_length];
+        boolean[] parameter11 = new boolean[p11_length];
+        boolean[] parameter12 = new boolean[p12_length];
         arraycopy(chro.gene,0,parameter1,0,p1_length);
         arraycopy(chro.gene,p1_length,parameter2,0,p2_length);
         arraycopy(chro.gene,p1_length+p2_length,parameter3,0,p2_length);
@@ -143,6 +161,9 @@ public class GAImplTest extends GeneticAlgorithm{
         arraycopy(chro.gene,p1_length+p2_length*5,parameter7,0,p2_length);
         arraycopy(chro.gene,p1_length+p2_length*6,parameter8,0,p8_length);
         arraycopy(chro.gene,p1_length+p2_length*6+p8_length,parameter9,0,p8_length);
+        arraycopy(chro.gene,p1_length+p2_length*6+p8_length*2,parameter10,0,p10_length);
+        arraycopy(chro.gene,p1_length+p2_length*6+p8_length*2+p10_length,parameter11,0,p11_length);
+        arraycopy(chro.gene,p1_length+p2_length*6+p8_length*2+p10_length+p11_length,parameter12,0,p12_length);
 
 //        NormalizeDistributeRunInGA obj = new NormalizeDistributeRunInGA();
         // trans what
@@ -157,6 +178,10 @@ public class GAImplTest extends GeneticAlgorithm{
         int TupleDistributeHigh = getPartNum(parameter7);
         int dropSourceEdge = getPartNum(parameter8);
         int dropSampleEdge = getPartNum(parameter9);
+        int isCBOW = getPartNum(parameter10);
+        int dim = getPartNum(parameter11)+63;
+        int windowSize = getPartNum(parameter12)+1;
+
 //        obj.trainWithPath(version,length,AttrDistributeLow,
 //                AttrDistributeHigh,
 //                ValueDistributeLow,
@@ -175,6 +200,7 @@ public class GAImplTest extends GeneticAlgorithm{
         // todo : 在此处删除可能存在的之前构造的图结构文件，避免印象模型训练
         String graphPath = "data/stock100/weightCalcByVex/graph/55SourceStockGraphMin.txt";
         deleteWithPath(graphPath);
+        // todo : change 基因，增加三种chaocan
 
         weightList = CtdService.update(version,fileList,sourceNum,DCs,"THREE",length,AttrDistributeLow,
                 AttrDistributeHigh,
@@ -187,7 +213,10 @@ public class GAImplTest extends GeneticAlgorithm{
                 rmse,
                 r2,
                 fitScore,
-                extractedCTD_RMSE);
+                extractedCTD_RMSE,
+                isCBOW,
+                dim,
+                windowSize);
 
         String[][] calcTruth =  CtdService.getCalcTruth();
         this.calcTruth = calcTruth;
@@ -227,7 +256,7 @@ public class GAImplTest extends GeneticAlgorithm{
             e.printStackTrace();
         }
 
-
+        // todo : rmseList改成文件存储吧,可以只存储数值，不存储数据结构
         if(rmseList.size() < k){
             rmseList.add(RMSEScore);
             if(RMSEScore<minRMSE){
@@ -254,6 +283,7 @@ public class GAImplTest extends GeneticAlgorithm{
                         // s1与s2的weight
                         String sourceP = "source_"+s1;
                         String sourceQ = "source_"+s2;
+                        // fixme : 适应度函数中不存在调用新的distance的部分
                         double detaSimilarity = Math.abs(distanceUseSavedModel(m,sourceP,sourceQ));
                         double detaWeight = 0;
                         try{
@@ -320,7 +350,9 @@ public class GAImplTest extends GeneticAlgorithm{
             String filePath = "data/stock100/divideSource/source" + temp + ".csv";
             fileList.add(filePath);
         }
-        // 真值添加
+        // fixme : 真值添加
+        String truthFilePath = "data/stock100/100truth.csv";
+        fileList.add(truthFilePath);
         return fileList;
     }
     public List<String> initialDC(){

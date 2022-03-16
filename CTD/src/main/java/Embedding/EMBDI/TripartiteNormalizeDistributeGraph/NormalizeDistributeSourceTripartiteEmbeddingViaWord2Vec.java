@@ -19,6 +19,10 @@ public class NormalizeDistributeSourceTripartiteEmbeddingViaWord2Vec {
     public List<String> total_nodes = new ArrayList<>();
     public Word2VecModel word2VecModel;
     public List<List<String>> smallList = new ArrayList<>();
+    public int isCBOW;
+    public int dim;
+    public int windowSize;
+
 
     public List<Double> train(List<String> fileList, String graphFilePath, int n_walks, int n_nodes, int length, int useNum, int AttrDistributeLow,
                               int AttrDistributeHigh,
@@ -27,7 +31,10 @@ public class NormalizeDistributeSourceTripartiteEmbeddingViaWord2Vec {
                               int TupleDistributeLow,
                               int TupleDistributeHigh,
                               int dropSourceEdge,
-                              int dropSampleEdge) {
+                              int dropSampleEdge,
+                              int isCBOW,
+                              int dim,
+                              int windowSize) {
 
         // 输出此次信息
         System.out.println("游走长度为 : " + length);
@@ -39,6 +46,12 @@ public class NormalizeDistributeSourceTripartiteEmbeddingViaWord2Vec {
         System.out.println("Tuple 正态标准差 : " + TupleDistributeHigh);
         System.out.println("drop Source ? (0 false, 1 true) : " + dropSourceEdge);
         System.out.println("drop Sample ? (0 false, 1 true) : " + dropSampleEdge);
+        System.out.println("using model : " + isCBOW);
+        System.out.println("embedding dim : " + dim);
+        System.out.println("windowSize : " + windowSize);
+        this.isCBOW = isCBOW;
+        this.dim = dim;
+        this.windowSize = windowSize;
 
         try {
             MetaAlgorithmNormalizeDistribute meta = new MetaAlgorithmNormalizeDistribute();
@@ -446,12 +459,22 @@ public class NormalizeDistributeSourceTripartiteEmbeddingViaWord2Vec {
     }
 
     public Word2VecModel trainWithLocalWalks(String modelSavePath) {
+        // search windowSize, model, embedding dim
         try {
-            word2VecModel = Word2VecModel.trainer().
-                    setMinVocabFrequency(1).useNumThreads(2).setWindowSize(1).
-                    type(NeuralNetworkType.CBOW).setLayerSize(50).useHierarchicalSoftmax().
-                    useNegativeSamples(5).setDownSamplingRate(1.0E-2D).
-                    setNumIterations(5).train(smallList);
+            if(isCBOW == 1){
+                word2VecModel = Word2VecModel.trainer().
+                        setMinVocabFrequency(1).useNumThreads(2).setWindowSize(windowSize).
+                        type(NeuralNetworkType.CBOW).setLayerSize(dim).useHierarchicalSoftmax().
+                        useNegativeSamples(5).setDownSamplingRate(1.0E-2D).
+                        setNumIterations(5).train(smallList);
+            }else{
+                word2VecModel = Word2VecModel.trainer().
+                        setMinVocabFrequency(1).useNumThreads(2).setWindowSize(windowSize).
+                        type(NeuralNetworkType.SKIP_GRAM).setLayerSize(dim).useHierarchicalSoftmax().
+                        useNegativeSamples(5).setDownSamplingRate(1.0E-2D).
+                        setNumIterations(5).train(smallList);
+            }
+
             Word2VecModelThrift thrift = word2VecModel.toThrift();
             NormalizedWord2VecModel.fromThrift(thrift);
             saveModel(word2VecModel, modelSavePath);

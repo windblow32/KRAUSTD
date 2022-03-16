@@ -17,6 +17,9 @@ public class GenerateSourceRandomWalk {
         Map<String, Integer> neighbor_map = new HashMap<>();
         Set<String> neighbor_set = new HashSet<>();
         if(!graph.vertices().contains(vertex)){
+            if(vertex.equals("")){
+                System.out.println("vertex is empty");
+            }
             System.out.println("error! the node is not exist!");
             return null;
         }
@@ -54,12 +57,11 @@ public class GenerateSourceRandomWalk {
     }
 
     /**
-     *
      * @param vertex:开始的固定点
      * @return 找和vertex相连的点,然后存储到set中,用random选一个输出
      */
     public String findRandomNeighbor(String vertex){
-        String node=null;
+        String node = null;
         Map<String, Integer> neighbor_map = new HashMap<>();
         Set<String> neighbor_set = new HashSet<>();
         if(!graph.vertices().contains(vertex)){
@@ -88,6 +90,65 @@ public class GenerateSourceRandomWalk {
     }
 
     /**
+     * 利用边权选择相邻边权最小的点进行游走
+     * @param vertex:带查找的点
+     * @return 选中的邻居结点
+     */
+    public String findMinNeighbor(String vertex){
+        String node = null;
+        Map<String, Integer> neighbor_map = new HashMap<>();
+        Set<String> neighbor_set = new HashSet<>();
+        if(!graph.vertices().contains(vertex)){
+            if(vertex.equals("")){
+                System.out.println("vertex is empty");
+            }
+            System.out.println("error! the node is not exist!");
+            return null;
+        }
+        else{
+            // targets返回值有权重
+            neighbor_map = graph.targets(vertex);
+            neighbor_map.putAll(graph.sources(vertex));
+            // 所有连接到vertex的点的集合
+            Iterator<String> keyItor= neighbor_map.keySet().iterator();
+            int max = 0;
+            // 存储value相同的key
+            Set<String> keySet = new HashSet<>();
+            while (keyItor.hasNext()){
+                String key = keyItor.next();
+                int value = neighbor_map.get(key);
+                if(value>max){
+                    max = value;
+                    // 原有的清除
+                    keySet.clear();
+                    keySet.add(key);
+                }
+                else if(value==max){
+                    keySet.add(key);
+                }
+            }
+            Random r = new Random();
+            int index = 0;
+            try{
+                index = r.nextInt(keySet.size());
+            }
+            catch (IllegalArgumentException e){
+                // debug
+                System.out.println(" no neighbor vertex : " + vertex + " , max : " + max);
+            }
+            // 返回随机选中的node
+            Iterator<String> itor = keySet.iterator();
+            while(itor.hasNext()){
+                node = itor.next();
+                if(index==0){
+                    break;
+                }
+                index--;
+            }
+            return node;
+        }
+    }
+    /**
      *
      * @param node:开始游走的点的名字
      * @param length:游走长度
@@ -104,7 +165,7 @@ public class GenerateSourceRandomWalk {
         String nextNode = null;
         // 初始size就是2,length相当于派生步骤,一共几个点.
         while(walkpath.size()<length){
-            nextNode = findRandomNeighbor(currentNode);
+            nextNode = findMinNeighbor(currentNode);
             walkpath.add(nextNode);
             currentNode = nextNode;
         }

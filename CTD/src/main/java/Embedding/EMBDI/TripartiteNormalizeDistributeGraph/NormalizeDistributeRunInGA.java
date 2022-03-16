@@ -48,7 +48,7 @@ public class NormalizeDistributeRunInGA {
                 ValueDistributeLow,
                 ValueDistributeHigh,
                 TupleDistributeLow,
-                TupleDistributeHigh,dropSourceEdge,dropSampleEdge);
+                TupleDistributeHigh,dropSourceEdge,dropSampleEdge,1,50,4);
         // fixme: must same as the path in train method !!!
         String walkPath = "data/stock100/weightCalcByVex/walkListMin" + version + ".txt";
         String modelPath = "model/Tri/stock100/weightCalcByVex/totalMin" + version + ".model";

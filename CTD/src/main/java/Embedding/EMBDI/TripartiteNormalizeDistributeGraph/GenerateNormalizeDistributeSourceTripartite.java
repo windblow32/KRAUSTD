@@ -179,11 +179,28 @@ public class GenerateNormalizeDistributeSourceTripartite implements Serializable
                     row_i.addAll(Arrays.asList(data));
                     String[] value = null;
                     List<String> value_i = new ArrayList<>();
+                    // 整体添加
+                    StringBuilder wholeWord = new StringBuilder();
+                    for(String part:row_i){
+                        wholeWord.append(part);
+                    }
+                    // 增加了单元格短语danYG
+                    String danYG = wholeWord.toString();
+                    sourceGraph.addVertex(danYG);
+                    sourceGraph.all_nodes.add(danYG);
+                    int DYG_value = N(ValueDistributeLow,ValueDistributeHigh);
+                    sourceGraph.addEdge(danYG, Ri,DYG_value*Ri_VexValue);
+                    // G.addEdge(word,Ck)
+                    //  仅在此处用到column
+                    int DYGcolumn_value = N(AttrDistributeLow,AttrDistributeHigh);
+                    sourceGraph.addEdge(danYG, sourceGraph.column_i.get(column),DYGcolumn_value*DYG_value);
+                    sourceGraph.addEdge(danYG, source_id,source_value*DYG_value);
+
                     // 处理多值
                     for(String Vk:row_i ){
-                        // fixme : dart, 包括空格(词语，语义层面)和分号(多值)
-                        if(Vk.contains(" ")) {
-                            value = Vk.split(" ");
+                        // fixme : dart, 包括空格(词语，语义层面)和分号(多值),同时出现空格和分号怎么处理
+                        if(Vk.contains(";")) {
+                            value = Vk.split(";");
                             // 对于这个属性的成员,每个word储存到value_i中
                             value_i.addAll(Arrays.asList(value));
                             for (String word : value_i) {
@@ -201,8 +218,8 @@ public class GenerateNormalizeDistributeSourceTripartite implements Serializable
                                 sourceGraph.addEdge(word, source_id,source_value*v_value);
                             }
                         }
-                        else if(Vk.contains(";")){
-                            value = Vk.split(";");
+                        else if(Vk.contains(" ")){
+                            value = Vk.split(" ");
                             // 对于这个属性的成员,每个word储存到value_i中
                             value_i.addAll(Arrays.asList(value));
                             for (String word : value_i) {

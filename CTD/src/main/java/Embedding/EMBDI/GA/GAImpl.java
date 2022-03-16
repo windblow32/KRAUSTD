@@ -24,7 +24,7 @@ import static java.lang.System.err;
 
 public class GAImpl extends GeneticAlgorithm{
 
-    public static final int NUM = 1 << 26;
+    public static final int NUM = 1 << 37;
     public int version;
 
     // 分批转化成不同的超参，带入评价函数中
@@ -167,7 +167,8 @@ public class GAImpl extends GeneticAlgorithm{
                 rmse,
                 r2,
                 fitScore,
-                extractedRMSE);
+                extractedRMSE,
+                1,65,4);
 
         String[][] calcTruth =  CtdService.getCalcTruth();
         // calcTruth和真值求RMSE

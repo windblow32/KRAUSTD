@@ -1,0 +1,8 @@
+entity_id,website,brand,number,external_memory_type,white_balance
+ENTITY#101,www.eglobalcentral.co.uk,Canon,470,Type I CF Card (UDMA 7 -compatible); SD/SDHC/SDXC,Auto;Preset;User Defined;Color Temperature Setting;White Balance Correction and White Balance Bracketing
+ENTITY#19,www.eglobalcentral.co.uk,Nikon,52,SD/SDHC/SDXC,Auto;Preset
+ENTITY#23,www.eglobalcentral.co.uk,Canon,390,Type I or II CF Card; UDMA-compatible,Available Auto;Preset;User Defined;Color Temperature Setting;White Balance Correction and White Balance Bracketing
+ENTITY#44,www.eglobalcentral.co.uk,Nikon,667,SD / SDHC /SDXC,Available Auto;Preset
+ENTITY#6,www.eglobalcentral.co.uk,Nikon,108,SD/SDHC/SDXC,Auto;Preset
+ENTITY#75,www.eglobalcentral.co.uk,Nikon,335,SD/SDXC/SDHC,Auto;incandescent;fluorescent;direct sunlight;flash;cloudy;shade;preset manual white balance;color temperature selection
+ENTITY#96,www.eglobalcentral.co.uk,Canon,549,SD/SDHC/SDXC(Compatible with UHS-I),Auto;preset;user-defined;color temperature setting;with white balance correction and white balance bracketing functions;With flash color temperature information transfer

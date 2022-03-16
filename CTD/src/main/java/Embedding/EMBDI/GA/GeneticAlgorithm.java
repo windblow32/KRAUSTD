@@ -11,7 +11,7 @@ public abstract class GeneticAlgorithm {
     private List<Chromosome> population = new ArrayList<Chromosome>();
     private int popSize = 5;//种群数量
     private int geneSize;//基因最大长度
-    private int maxIterNum = 10;//最大迭代次数
+    private int maxIterNum = 5;//最大迭代次数
     private double mutationRate = 0.01;//基因变异的概率
     private int maxMutationNum = 3;//最大变异步长
 

@@ -1,0 +1,7 @@
+entity_id,website,brand,number,external_memory_type,white_balance
+ENTITY#101,www.garricks.com.au,Canon,83,Dual CF/SD Card,Auto;Preset;User Defined;Color Temperature Setting;White Balance Correction and White Balance Bracketing
+ENTITY#23,www.garricks.com.au,Canon,131,Compact Flash,Available Auto;Preset;User Defined;Color Temperature Setting;White Balance Correction and White Balance Bracketing
+ENTITY#41,www.garricks.com.au,Nikon,8,SDHC/SDXC,Auto;Preset
+ENTITY#44,www.garricks.com.au,Nikon,31,SDHC-SDXC,Available Auto;Preset
+ENTITY#6,www.garricks.com.au,Nikon,89,SDHC,Auto;Preset
+ENTITY#75,www.garricks.com.au,Nikon,29,SDHC,Auto;incandescent;fluorescent;direct sunlight;flash;cloudy;shade;preset manual white balance;color temperature selection

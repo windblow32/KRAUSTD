@@ -1,0 +1,9 @@
+entity_id,website,brand,number,external_memory_type,white_balance
+ENTITY#101,www.mypriceindia.com,Canon,724,Dual card slots (CF card and SD),Auto;Preset
+ENTITY#19,www.mypriceindia.com,Nikon,3,SD/SDHC/SDXC,White Balance Presets;Custom White Balance;Auto;incandescent;fluorescent;flash;direct sunlight;cloudy;shade;preset manual;all except preset manual with fine-tuning
+ENTITY#23,www.mypriceindia.com,Canon,763,Memory card type I or II CF card (UDMA compatible),White Balance Presets;Custom White Balance;Auto;Daylight;Shade;Cloudy;Tungsten Light;White Fluorescent Light;Flash Custom
+ENTITY#41,www.mypriceindia.com,Nikon,103,SD card/UHS-I compatible SDHC SDXC memory card,Auto;incandescent;fluorescent;direct sunlight;flash;cloudy;shade;preset manual;all except preset manual with fine-tuning
+ENTITY#44,www.mypriceindia.com,Nikon,714,SD/SDHC/SDXC Memory,Auto;Incandescent;Fluorescent;Direct Sunlight;Flash;Cloudy;Shade;Preset Manual;White Balance Presets;Custom White Balance
+ENTITY#6,www.mypriceindia.com,Nikon,16,SD card/UHS-I compatible SDHC; SDXC,Custom White Balance;White Balance Presets;Auto;incandescent;fluorescent;direct sunlight;flash;cloudy;preset manual;all except preset manual with fine-tuning.
+ENTITY#75,www.mypriceindia.com,Nikon,35,SD memory card; compatible with SDHC and SDXC; SD card slot; can use two SD memory cards at the same time,Custom White Balance;White Balance Presets;Auto;Incandescent;Fluorescent;Direct Sunlight;Flash;Cloudy;Shade;preset manua;choose color temperature
+ENTITY#96,www.mypriceindia.com,Canon,181,SD/SDXC/SDHC card,Auto;Preset;Custom;Color Temperature Setting;White Balance Correction

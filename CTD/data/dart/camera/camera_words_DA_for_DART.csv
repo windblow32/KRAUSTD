@@ -1,0 +1,42 @@
+entity_id,website,brand,number,external_memory_type,white_balance
+ENTITY#101,buy.net,Canon,5439,Secure Digital Extended Capacity (SDXC)|Secure Digital (SD) Card|Secure Digital High Capacity (SDHC) Card,Available Auto;Preset;User Defined;Color Temperature Setting;White Balance Correction and White Balance Bracketing
+ENTITY#101,www.shopmania.in,Canon,1662,CF / SD / SDHC / SDXC,Artificial;Cloudy;Daylight;Sunny;Flash;Fluorescent;Shade;Tungsten;Underwater
+ENTITY#101,www.garricks.com.au,Canon,83,Dual CF/SD Card,Auto;Preset;User Defined;Color Temperature Setting;White Balance Correction and White Balance Bracketing
+ENTITY#101,www.mypriceindia.com,Canon,724,Dual card slots (CF card and SD),Auto;Preset
+ENTITY#101,www.eglobalcentral.co.uk,Canon,470,"Type I CF Card (UDMA 7 -compatible), SD/SDHC/SDXC",Auto;Preset;User Defined;Color Temperature Setting;White Balance Correction and White Balance Bracketing
+ENTITY#101,www.price-hunt.com,Canon,915,"Compact Flash Card (Type i, Udma Mode 7-Compatible) / SD / SDHC / Sdxc",And White Balance Bracketing;Flash Color Temperature Information Transmission Enabled;Color Temperature Setting;Auto;White Balance Correction;Shade;Flash;Cloudy;Tungsten Light;Custom;White Fluorescent Light;Preset
+ENTITY#19,www.shopmania.in,Nikon,1677,SD / SDHC / SDXC,Cloudy;Flash
+ENTITY#19,buy.net,Nikon,5368,Secure Digital High Capacity (SDHC) Card|Secure Digital (SD) Card|Secure Digital Extended Capacity (SDXC),Auto;Preset
+ENTITY#19,www.eglobalcentral.co.uk,Nikon,52,SD/SDHC/SDXC,Auto;Preset
+ENTITY#19,www.mypriceindia.com,Nikon,3,SD/SDHC/SDXC,White Balance Presets;Custom White Balance;Auto;incandescent;fluorescent;flash;direct sunlight;cloudy;shade;preset manual;all except preset manual with fine-tuning
+ENTITY#23,www.garricks.com.au,Canon,131,Compact Flash,Available Auto;Preset;User Defined;Color Temperature Setting;White Balance Correction and White Balance Bracketing
+ENTITY#23,buy.net,Canon,6578,CompactFlash (CF) Card,Auto;Preset;User Defined;Color Temperature Setting;White Balance Correction and White Balance Bracketing
+ENTITY#23,www.mypriceindia.com,Canon,763,Memory card type I or II CF card (UDMA compatible),"White Balance Presets;Custom White Balance;Auto;Daylight;Shade;Cloudy;Tungsten Light;White Fluorescent Light;Flash, Custom"
+ENTITY#23,www.eglobalcentral.co.uk,Canon,390,"Type I or II CF Card, UDMA-compatible",Available Auto;Preset;User Defined;Color Temperature Setting;White Balance Correction and White Balance Bracketing
+ENTITY#23,www.shopmania.in,Canon,1317,CF / MicroDrive / SmartMedia,Cloudy;Daylight;Sunny;Fine;Flash;Fluorescent;Shade;Tungsten;Underwater
+ENTITY#41,www.shopmania.in,Nikon,1003,SD / SDHC / SDXC,Cloudy;Flash;Fluorescent;Incandescent;Shade;Sunlight;Sunny;Tungsten
+ENTITY#41,buy.net,Nikon,5759,Secure Digital (SD) Card|Secure Digital High Capacity (SDHC UHS-I)|Secure Digital Extended Capacity (SDXC UHS-I)|Eye-Fi Card,Auto;Preset
+ENTITY#41,www.garricks.com.au,Nikon,8,SDHC/SDXC,Auto;Preset
+ENTITY#41,www.mypriceindia.com,Nikon,103,"SD card/UHS-I compatible SDHC, SDXC memory card",Auto;incandescent;fluorescent;direct sunlight;flash;cloudy;shade;preset manual;all except preset manual with fine-tuning
+ENTITY#44,www.garricks.com.au,Nikon,31,SDHC-SDXC,Available Auto;Preset
+ENTITY#44,www.eglobalcentral.co.uk,Nikon,667,SD / SDHC /SDXC,Available Auto;Preset
+ENTITY#44,www.shopmania.in,Nikon,950,SD / SDXC / SDHC,Artificial;Tungsten
+ENTITY#44,www.mypriceindia.com,Nikon,714,SD/SDHC/SDXC Memory,Auto;Incandescent;Fluorescent;Direct Sunlight;Flash;Cloudy;Shade;Preset Manual;White Balance Presets;Custom White Balance
+ENTITY#44,buy.net,Nikon,5857,Secure Digital High Capacity (SDHC) Card|Secure Digital Extended Capacity (SDXC)|Secure Digital (SD) Memory,Auto;Preset
+ENTITY#44,www.price-hunt.com,Nikon,9649,SD / SDHC / Sdxc / Compatible with Uhs-i,Incandescent;Flash;Cloudy;Preset Manual;Shade;Fluorescent;Auto;Direct Sunlight
+ENTITY#6,buy.net,Nikon,6305,Secure Digital High Capacity (SDHC) Card|Secure Digital Extended Capacity (SDXC)|Secure Digital (SD) Card,Auto;Preset
+ENTITY#6,www.shopmania.in,Nikon,1721,SD / SDHC / SDXC,Cloudy;Flash;Fluorescent
+ENTITY#6,www.garricks.com.au,Nikon,89,SDHC,Auto;Preset
+ENTITY#6,www.mypriceindia.com,Nikon,16,"SD card/UHS-I compatible SDHC, SDXC",Custom White Balance;White Balance Presets;Auto;incandescent;fluorescent;direct sunlight;flash;cloudy;preset manual;all except preset manual with fine-tuning.
+ENTITY#6,www.eglobalcentral.co.uk,Nikon,108,SD/SDHC/SDXC,Auto;Preset
+ENTITY#6,www.price-hunt.com,Nikon,9646,SD / Uhs-i Compliant SDHC / Sdxc,Auto;Incandescent;Fluorescent;Direct Sunlight;Flash;Cloudy;Shade;Preset Manual;all Except Preset Manual with Fine-Tuning
+ENTITY#75,www.mypriceindia.com,Nikon,35,"SD memory card, compatible with SDHC and SDXC; SD card slot, can use two SD memory cards at the same time",Custom White Balance;White Balance Presets;Auto;Incandescent;Fluorescent;Direct Sunlight;Flash;Cloudy;Shade;preset manua;choose color temperature
+ENTITY#75,www.eglobalcentral.co.uk,Nikon,335,SD/SDXC/SDHC,Auto;incandescent;fluorescent;direct sunlight;flash;cloudy;shade;preset manual white balance;color temperature selection
+ENTITY#75,www.garricks.com.au,Nikon,29,SDHC,Auto;incandescent;fluorescent;direct sunlight;flash;cloudy;shade;preset manual white balance;color temperature selection
+ENTITY#75,buy.net,Nikon,5791,Secure Digital (SD) Card|Secure Digital High Capacity (SDHC)|Secure Digital Extended Capacity (SDXC),Auto;incandescent;fluorescent;direct sunlight;flash;cloudy;shade;preset manual white balance;color temperature selection
+ENTITY#75,www.shopmania.in,Nikon,1284,SD / SDHC / SDXC,Cloudy;Daylight;Sunny;Fine;Flash;Incandescent;Fluorescent;Indoor;Shad;Sunlight;Tungsten
+ENTITY#96,www.eglobalcentral.co.uk,Canon,549,SD/SDHC/SDXC(Compatible with UHS-I),Auto;preset;user-defined;color temperature setting;with white balance correction and white balance bracketing functions;With flash color temperature information transfer
+ENTITY#96,www.shopmania.in,Canon,1411,SD / SDHC / SDXC,Cloudy;Daylight;Sunny;Flash;Fluorescent;Tungsten
+ENTITY#96,www.mypriceindia.com,Canon,181,SD/SDXC/SDHC card,Auto;Preset;Custom;Color Temperature Setting;White Balance Correction
+ENTITY#96,buy.net,Canon,6338,Eye-Fi Card|Secure Digital (SD) Card|Secure Digital Extended Capacity (SDXC)|Secure Digital High Capacity (SDHC) Card|Secure Digital Extended Capacity (SDXC UHS-I)|Secure Digital High Capacity (SDHC UHS-I),Auto;preset;user-defined;color temperature setting;with white balance correction and white balance bracketing functions;With flash color temperature information transmission
+ENTITY#96,www.price-hunt.com,Canon,805,SD / SDHC / Sdxc / Uhs- Compatible,Auto;Preset;Custom;Color Temperature Setting

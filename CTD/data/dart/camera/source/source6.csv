@@ -1,0 +1,5 @@
+entity_id,website,brand,number,external_memory_type,white_balance
+ENTITY#101,www.price-hunt.com,Canon,915,Compact Flash Card (Type i; Udma Mode 7-Compatible) / SD / SDHC / Sdxc,And White Balance Bracketing;Flash Color Temperature Information Transmission Enabled;Color Temperature Setting;Auto;White Balance Correction;Shade;Flash;Cloudy;Tungsten Light;Custom;White Fluorescent Light;Preset
+ENTITY#44,www.price-hunt.com,Nikon,9649,SD / SDHC / Sdxc / Compatible with Uhs-i,Incandescent;Flash;Cloudy;Preset Manual;Shade;Fluorescent;Auto;Direct Sunlight
+ENTITY#6,www.price-hunt.com,Nikon,9646,SD / Uhs-i Compliant SDHC / Sdxc,Auto;Incandescent;Fluorescent;Direct Sunlight;Flash;Cloudy;Shade;Preset Manual;all Except Preset Manual with Fine-Tuning
+ENTITY#96,www.price-hunt.com,Canon,805,SD / SDHC / Sdxc / Uhs- Compatible,Auto;Preset;Custom;Color Temperature Setting
