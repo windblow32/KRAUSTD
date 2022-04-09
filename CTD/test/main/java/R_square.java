@@ -2,9 +2,10 @@ package main.java;
 
 import org.junit.Test;
 
-import java.io.BufferedReader;
-import java.io.FileReader;
-import java.io.IOException;
+import java.io.*;
+import java.util.ArrayList;
+import java.util.List;
+import java.util.zip.CheckedInputStream;
 
 public class R_square {
 
@@ -16,20 +17,48 @@ public class R_square {
 
     @Test
     public void test(){
-        String[][] truth =  readGoldStandard(D1,D2);
-        String[][] calcTruth = readResult(D1,D2,resultPath);
-        double rmse = RMSE(calcTruth, truth, D1, D2);
-        double r_square = R_square(calcTruth, truth, D1, D2);
-        System.out.println("rmse : " + rmse);
-        System.out.println("r_square : " + r_square);
-        System.out.println("****************************");
-        // 原始CTD的结果
-        String calcResultCTDOnlyPath = "data/stock/stock100/result/result_1_1.csv";
-        String[][] calcTruthOnlyCTD = readResult(D1,D2,calcResultCTDOnlyPath);
-        double rmseOnlyCTD = RMSE(calcTruthOnlyCTD, truth, D1, D2);
-        double r_squareOnlyCTD = R_square(calcTruthOnlyCTD, truth, D1, D2);
-        System.out.println("rmseOnlyCTD : " + rmseOnlyCTD);
-        System.out.println("r_squareOnlyCTD : " + r_squareOnlyCTD);
+//        String[][] truth =  readGoldStandard(D1,D2);
+//        String[][] calcTruth = readResult(D1,D2,resultPath);
+//        double rmse = RMSE(calcTruth, truth, D1, D2);
+//        double r_square = R_square(calcTruth, truth, D1, D2);
+//        System.out.println("rmse : " + rmse);
+//        System.out.println("r_square : " + r_square);
+//        System.out.println("****************************");
+//        // 原始CTD的结果
+//        String calcResultCTDOnlyPath = "data/stock/stock100/result/result_1_1.csv";
+//        String[][] calcTruthOnlyCTD = readResult(D1,D2,calcResultCTDOnlyPath);
+//        double rmseOnlyCTD = RMSE(calcTruthOnlyCTD, truth, D1, D2);
+//        double r_squareOnlyCTD = R_square(calcTruthOnlyCTD, truth, D1, D2);
+//        System.out.println("rmseOnlyCTD : " + rmseOnlyCTD);
+//        System.out.println("r_squareOnlyCTD : " + r_squareOnlyCTD);
+    }
+
+    @Test
+    public void testListInFile() throws IOException {
+        List<Integer> version_list = new ArrayList<>();
+        version_list.add(0);
+        String rmseStoreFile = "log/Tri/CTD/version_list.txt";
+        File storeRmseList = new File(rmseStoreFile);
+        storeRmseList.createNewFile();
+        // store
+        FileOutputStream outputStream = new FileOutputStream(storeRmseList);
+        ObjectOutputStream objectOutputStream = new ObjectOutputStream(outputStream);
+        objectOutputStream.writeObject(version_list);
+        outputStream.close();
+        System.out.println("error rate is saved");
+        // read out
+        FileInputStream FI = new FileInputStream(storeRmseList);
+        ObjectInputStream objectInputStream = new ObjectInputStream(FI);
+        try {
+            List<Integer> list = new ArrayList<>();
+            list = (List<Integer>)objectInputStream.readObject();
+            list.add(1);
+
+        } catch (ClassNotFoundException e) {
+            e.printStackTrace();
+        }
+
+
     }
 
 

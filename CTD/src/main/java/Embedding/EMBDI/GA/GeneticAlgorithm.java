@@ -60,6 +60,7 @@ public abstract class GeneticAlgorithm {
      * @Description: 初始化种群
      */
     private void init() {
+        // fixme : warm start
         for (int i = 0; i < popSize; i++) {
 //            population = new ArrayList<Chromosome>();
             Chromosome chro = new Chromosome(geneSize);

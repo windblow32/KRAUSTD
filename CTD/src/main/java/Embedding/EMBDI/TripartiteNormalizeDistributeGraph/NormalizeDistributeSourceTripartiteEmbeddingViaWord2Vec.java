@@ -22,6 +22,7 @@ public class NormalizeDistributeSourceTripartiteEmbeddingViaWord2Vec {
     public int isCBOW;
     public int dim;
     public int windowSize;
+    public int sourceNum = 55;
 
 
     public List<Double> train(List<String> fileList, String graphFilePath, int n_walks, int n_nodes, int length, int useNum, int AttrDistributeLow,
@@ -281,7 +282,7 @@ public class NormalizeDistributeSourceTripartiteEmbeddingViaWord2Vec {
 
         Searcher searcher = word2VecModel.forSearch();
         Map<String, List<Double>> vecMap = new HashMap<>();
-        for (int i = 1; i <= 55; i++) {
+        for (int i = 1; i <= sourceNum; i++) {
             String word = "source_" + i;
             try {
                 List<Double> list = new ArrayList<>(searcher.getRawVector(word));
@@ -294,28 +295,28 @@ public class NormalizeDistributeSourceTripartiteEmbeddingViaWord2Vec {
         return vecMap;
     }
 
-    /**
-     * @param modelPath saved model path
-     * @return KV
-     * @throws Searcher.UnknownWordException
-     */
-    public Map<String, List<Double>> getRandom_Source_Embeddings(String modelPath) throws Searcher.UnknownWordException {
-        // fixme : use load model
-        Word2VecModel model = loadModel(modelPath);
-        Searcher searcher = model.forSearch();
-        Map<String, List<Double>> vecMap = new HashMap<>();
-        for (int i = 1; i <= 55 + 1; i++) {
-            String word = "source_" + i;
-            try {
-                List<Double> list = new ArrayList<>(searcher.getRawVector(word));
-                vecMap.put(word, list);
-            } catch (Searcher.UnknownWordException e) {
-                e.printStackTrace();
-            }
-
-        }
-        return vecMap;
-    }
+//    /**
+//     * @param modelPath saved model path
+//     * @return KV
+//     * @throws Searcher.UnknownWordException
+//     */
+//    public Map<String, List<Double>> getRandom_Source_Embeddings(String modelPath) throws Searcher.UnknownWordException {
+//        // fixme : use load model
+//        Word2VecModel model = loadModel(modelPath);
+//        Searcher searcher = model.forSearch();
+//        Map<String, List<Double>> vecMap = new HashMap<>();
+//        for (int i = 1; i <= 55 + 1; i++) {
+//            String word = "source_" + i;
+//            try {
+//                List<Double> list = new ArrayList<>(searcher.getRawVector(word));
+//                vecMap.put(word, list);
+//            } catch (Searcher.UnknownWordException e) {
+//                e.printStackTrace();
+//            }
+//
+//        }
+//        return vecMap;
+//    }
 
     /**
      * 计算两个词之间的距离,注意，不能是属性啊！

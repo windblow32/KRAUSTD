@@ -168,7 +168,7 @@ public class GAImpl extends GeneticAlgorithm{
                 r2,
                 fitScore,
                 extractedRMSE,
-                1,65,4);
+                1,65,4,1,1);
 
         String[][] calcTruth =  CtdService.getCalcTruth();
         // calcTruth和真值求RMSE

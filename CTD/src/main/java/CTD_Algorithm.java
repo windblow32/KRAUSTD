@@ -19,7 +19,7 @@ import static java.lang.Double.NaN;
 public class CTD_Algorithm {
 
     // 定义收敛区间,或者记录下两次error差距不超过百分之多少，就不追究了
-    private final double min_error = 10;
+    private final double min_error = 1;
     private final List<Double> weights = new ArrayList<>();
     private final List<String[]> processed_DC = new ArrayList<>();
     // 测试版本，embedding保存文件使用
@@ -42,6 +42,11 @@ public class CTD_Algorithm {
     private List<String> attributes = new ArrayList<>();
     public double initFitnessScore;
     // 二维数组repaired table无法初始化，在算法中返回即可。
+
+    public int isDA = 0;
+    public int useTriModel = 0;
+
+    public int time = 3;
 
     public static void main(String[] args) {
 //        List<String> files = new ArrayList<>();
@@ -129,10 +134,14 @@ public class CTD_Algorithm {
             double extractedCTD_RMSE,
             int isCBOW,
             int dim,
-            int windowSize
+            int windowSize,
+            int isDA,
+            int useTriModel
     ) {
-        v = version;
+        this.isDA = isDA;
+        this.v = version;
         this.k = k; // this.k = files.size();
+        this.useTriModel = useTriModel;
         // double输出限制
         DecimalFormat df = new DecimalFormat("#.00");
         // use date to name file
@@ -141,8 +150,13 @@ public class CTD_Algorithm {
         String t1 = time1.format(formatter1);
         String[] data1 = t1.split(":");
         String insertT1 = data1[0] + data1[1] + data1[2];
+        String logPath;
+        if(isDA == 1){
+            logPath = "log/Tri/weightCalcByVex/DA/logMin" + insertT1 + ".txt";
 
-        String logPath = "log/Tri/weightCalcByVex/logMin" + insertT1 + ".txt";
+        }else{
+            logPath = "log/Tri/weightCalcByVex/logMin" + insertT1 + ".txt";
+        }
         File logFile = new File(logPath);
         try {
             logFile.createNewFile();
@@ -234,7 +248,7 @@ public class CTD_Algorithm {
                     try {
                         System.arraycopy(data, 0, value[y][row], 0, data.length);
                     } catch (ArrayIndexOutOfBoundsException e) {
-                        System.out.println(y);
+                        System.out.println("越界 : "+y);
                     }
                     row++;
                 }
@@ -460,7 +474,7 @@ public class CTD_Algorithm {
                                 // 声明条件为假
                                 judge = false;
                             }
-                            // 如果result中出现空值，说明所有数据源提供的都是空值，那就是空值
+                            // 如果result中出现 空值，说明所有数据源提供的都是空值，那就是空值
                             if (v1.equals("") || v2.equals("")) {
                                 continue;
                             }
@@ -534,20 +548,20 @@ public class CTD_Algorithm {
                 }
             }
             // 至此,更新结束
-            CTD_sotaFlag++;
+//            CTD_sotaFlag = 1;
             try {
                 writeValue(value);
                 writeResult(result, times);
                 // fixme : 2次退出
                 // 等于0为3次，1为仅仅CTD自身
-                if (times % 7 == 0 && times != 0) {
+                if (times % time == 0 && times != 0) {
                     calcTruth = result;
                     return weights;
                 }
             } catch (IOException e) {
                 e.printStackTrace();
             }
-            if (times % 7 == 0 && times != 0) {
+            if (times % time == 0 && times != 0) {
                 calcTruth = result;
                 return weights;
             }
@@ -560,7 +574,6 @@ public class CTD_Algorithm {
             for (int s = 0; s < k; s++) {
                 for (int l = 0; l < L; l++) {
                     for (int col = 0; col < p; col++) {
-                        // FIXME:distance always return 1, 导致weight仅更新一次，陷入了死循环
                         double r = distance(result[l][col], value[s][l][col], mode, times,
                                 length, AttrDistributeLow, AttrDistributeHigh,
                                 ValueDistributeLow, ValueDistributeHigh, TupleDistributeLow,
@@ -615,17 +628,23 @@ public class CTD_Algorithm {
             }
             System.out.println("error is " + error);
             pre_result = result;
-            goal = minGoal(result);
-            System.out.println("rmse : " + rmseForGA);
-            // fixme : goal上限
-            if (goal < 22) {
-                break;
-            }
-            if (times % 7 == 0 && times != 0) {
+            // 不用置信度了
+//            if(isDA == 0){
+//                goal = minGoal(result);
+//                System.out.println("rmse : " + rmseForGA);
+//                // fixme : goal上限
+//                if (goal < 22) {
+//                    break;
+//                }
+//            }
+            if (times % time == 0 && times != 0) {
                 break;
             }
         }
-        initFitnessScore = calcInitFitnessScore(times);
+        if(isDA == 0){
+            initFitnessScore = calcInitFitnessScore(times);
+        }
+
         calcTruth = result;
         return weights;
     }
@@ -824,26 +843,109 @@ public class CTD_Algorithm {
                             int dropSampleEdge,
                             int isCBOW,
                             int dim,
-                            int windowSize) {
+                            int windowSize){
         try {
             if (v1.equals("") || v2.equals("")) {
-                return 0;
+                return 1;
             }
         } catch (NullPointerException e) {
-            return 0;
+            return 1;
         }
 
         List<String> fileList = new ArrayList<>();
         for (int i = 0; i < k; i++) {
             // 注意和writeValue的路径相同
             int z = i + 1;
-            String path = "E:\\GitHub\\KRAUSTD\\CTD\\data\\stock100\\divideSourceNew\\source" + z + ".csv";
+            String path;
+            if(isDA == 0){
+                path = "E:\\GitHub\\KRAUSTD\\CTD\\data\\stock100\\divideSourceNew\\source" + z + ".csv";
+            }else{
+                path = "E:\\GitHub\\KRAUSTD\\CTD\\data\\stock100\\divideSourceNewDA\\source" + z + ".csv";
+            }
             fileList.add(path);
         }
-        String resultPath =
-                "E:\\GitHub\\KRAUSTD\\CTD\\data\\stock100\\result\\result_" + v + "_" + times + ".csv";
-        fileList.add(resultPath);
-        if (times % 7 == 0 && times != 0) {
+        String resultPath;
+        if(isDA == 0){
+            resultPath =
+                    "E:\\GitHub\\KRAUSTD\\CTD\\data\\stock100\\result\\result_" + v + "_" + times + ".csv";
+        }else{
+            resultPath =
+                    "E:\\GitHub\\KRAUSTD\\CTD\\data\\stock100\\result\\DAresult\\result_" + v + "_" + times + ".csv";
+        }
+        String tempDAFilePath = "data/stock100/result/DAresult/tempDA.csv";
+        if(isDA==0){
+            // 拿到需要读入的数据
+            String DAresultPath = "E:\\GitHub\\KRAUSTD\\CTD\\data\\stock100\\result\\DAresult\\result_" + v + "_" + times + ".csv";
+            File DAresult = new File(DAresultPath);
+            try {
+                FileReader fr = new FileReader(DAresult);
+                BufferedReader br = new BufferedReader(fr);
+                String str;
+                String[] data;
+                int line = 0;
+                // fixme : daResult 有attr，23+1=24
+                while(line<24){
+                    br.readLine();
+                    line++;
+                }
+                // fixme : 增强的id
+                List<String> daTupleList = new ArrayList<>();
+                daTupleList.add("177");
+                daTupleList.add("205");
+                daTupleList.add("362");
+                daTupleList.add("549");
+                daTupleList.add("643");
+                daTupleList.add("792");
+                daTupleList.add("981");
+
+                File resultFile = new File("E:\\GitHub\\KRAUSTD\\CTD\\data\\stock100\\result\\result_" + v + "_" + times + ".csv");
+                FileReader resultFr = new FileReader(resultFile);
+                BufferedReader resultBr = new BufferedReader(resultFr);
+                // read attr
+                str = resultBr.readLine();
+
+                File DAFile = new File(tempDAFilePath);
+                deleteWithPath(tempDAFilePath);
+                DAFile.createNewFile();
+                PrintStream ps = new PrintStream(DAFile);
+                System.setOut(ps);
+                // write attr
+                System.out.println(str);
+
+                // 从正常的result读取str输入到tempDA中，如果tuple在daTupleList中，就用这个替换
+
+                while((str = resultBr.readLine())!=null){
+                    data = str.split(",",-1);
+                    if(daTupleList.contains(Math.round(Double.parseDouble(data[0])))){
+                        // 需要被替换,因为元组是有序的，直接读取DAresult下一行就行
+                        str = br.readLine();
+                        System.out.println(str);
+                    }else{
+                        System.out.println(str);
+                    }
+                }
+                ps.close();
+                resultBr.close();
+                resultFr.close();
+                br.close();
+                fr.close();
+
+            } catch (IOException e) {
+                e.printStackTrace();
+            }
+        }
+
+
+
+        if(isDA == 0){
+            // 添加改动过的
+            fileList.add(tempDAFilePath);
+        }else{
+            // 否则正常添加
+            fileList.add(resultPath);
+        }
+
+        if (times % time == 0 && times != 0) {
             return -100;
         }
         // version
@@ -863,13 +965,27 @@ public class CTD_Algorithm {
         } else if (mode.equals("THREE")) {
             // 三分图
             NormalizeDistributeSourceTripartiteEmbeddingViaWord2Vec word2VecService = new NormalizeDistributeSourceTripartiteEmbeddingViaWord2Vec();
-            // 第一次训练，构造图用
-            if (CTD_sotaFlag == 1) {
-                // todo 第一次用CTD中的方法，01那个
-                if (v1.equals(v2)) {
-                    return 1;
-                } else return 0;
-            } else if (CTD_sotaFlag > 1 && flag == 0) {
+            // GA第一次训练，构造图用
+            File versionListFile = new File("log/Tri/CTD/version_list.txt");
+            FileInputStream fileInputStream = null;
+            try {
+                fileInputStream = new FileInputStream(versionListFile);
+                ObjectInputStream objectInputStream = new ObjectInputStream(fileInputStream);
+                List<Integer> versionList = (List<Integer>)objectInputStream.readObject();
+
+                CTD_sotaFlag = versionList.get(versionList.size()-1);
+
+            } catch (IOException | ClassNotFoundException e) {
+                e.printStackTrace();
+            }
+
+            if (CTD_sotaFlag == 0 && useTriModel == 0) {
+                int value1 = (int)Double.parseDouble(v1);
+                int value2 = (int)Double.parseDouble(v2);
+                if (value1 == value2) {
+                    return 0;
+                } else return 1;
+            } else if ((CTD_sotaFlag == 1 && flag == 0) ||(useTriModel==1 && flag == 0)){
 
                 String graphPath = "data/stock100/weightCalcByVex/graph/55SourceStockGraphMin.txt";
                 deleteWithPath(graphPath);
@@ -887,8 +1003,9 @@ public class CTD_Algorithm {
                         AttrDistributeLow, AttrDistributeHigh, ValueDistributeLow, ValueDistributeHigh,
                         TupleDistributeLow, TupleDistributeHigh, dropSourceEdge, dropSampleEdge,isCBOW,dim,windowSize);
                 TriModel = word2VecService.trainWithLocalWalks(modelPath);
+                // distanceUseSavedModel 计算的是相似度，需要处理
                 return 1 - word2VecService.distanceUseSavedModel(TriModel, v1, v2);
-            } else if (CTD_sotaFlag > 1 && flag == 1) {
+            } else if ((CTD_sotaFlag == 1 && flag == 1) ||(useTriModel==1 && flag == 1)) {
                 return 1 - word2VecService.distanceUseSavedModel(TriModel, v1, v2);
             }
 
@@ -903,9 +1020,14 @@ public class CTD_Algorithm {
 //    String[] header = new String[] { "time", "place", "city", "good" };
         String[] header = new String[]{"sample", "change%", "last_trade_price", "open_price", "volumn", "today_high", "today_low", "previous_close", "52wk_H", "52wk_L"};
         String separator = ",";
+        String sourcePath;
         for (int i = 0; i < k; i++) {
             int q = i + 1;
-            String sourcePath = "E:\\GitHub\\KRAUSTD\\CTD\\data\\stock100\\divideSourceNew\\source" + q + ".csv";
+            if(isDA == 0){
+                sourcePath = "E:\\GitHub\\KRAUSTD\\CTD\\data\\stock100\\divideSourceNew\\source" + q + ".csv";
+            }else{
+                sourcePath = "E:\\GitHub\\KRAUSTD\\CTD\\data\\stock100\\divideSourceNewDA\\source" + q + ".csv";
+            }
 
             PrintStream stream = new PrintStream(sourcePath);
 
@@ -935,11 +1057,15 @@ public class CTD_Algorithm {
         String[] header = new String[]{"sample", "change%", "last_trade_price", "open_price", "volumn", "today_high", "today_low", "previous_close", "52wk_H", "52wk_L"};
         // sample,change%,last_trade_price,open_price,volumn,today_high,today_low,previous_close,52wk_H,52wk_L
         String separator = ",";
+        String sourcePath;
+        if(isDA == 0){
+            sourcePath =
+                    "E:\\GitHub\\KRAUSTD\\CTD\\data\\stock100\\result\\result_" + v + "_" + times + ".csv";
+        }else{
+            sourcePath =
+                    "E:\\GitHub\\KRAUSTD\\CTD\\data\\stock100\\result\\DAresult\\result_" + v + "_" + times + ".csv";
+        }
 
-        String sourcePath =
-                "E:\\GitHub\\KRAUSTD\\CTD\\data\\stock100\\result\\result_" + v + "_" + times + ".csv";
-        //            File file = new File(sourcePath);
-        //            BufferedWriter bw = new BufferedWriter(new OutputStreamWriter(new FileOutputStream(file, true)));
 
         PrintStream stream = null;
         try {
@@ -990,115 +1116,117 @@ public class CTD_Algorithm {
      *
      * @return 数据信息量
      */
-    public double minGoal(String[][] result) {
-        // todo 更改文件编码，注意路径
-        String scoreFilePath = "data/stock100/divideSource/10scores.csv";
-        // fixme:规定样本总数是100个
-        double[] dataConfidence = new double[100];
-        try {
-            FileReader fd = new FileReader(scoreFilePath);
-            BufferedReader br = new BufferedReader(fd);
-            String str;
-            String[] data;
-            int row = 0;
-//            str = br.readLine();
-//            String[] first_line = str.split(",", -1);
-            while ((str = br.readLine()) != null) {
-                data = str.split(",", -1);
-                // 数据置信度存在第二格
-                dataConfidence[row] = Double.parseDouble(data[1]);
-                row++;
-            }
-            fd.close();
-        } catch (IOException e) {
-            e.printStackTrace();
-        }
-        // 获取最大最小置信度
-        double min = 0;
-        double max = 0;
-        for (int i = 0; i < 100; i++) {
-            double currentVal = dataConfidence[i];
-            if (currentVal > max) {
-                max = currentVal;
-            }
-            if (currentVal < min) {
-                min = currentVal;
-            }
-        }
-        // 重新计算置信度,归一化, 并获取部分和全部数据置信度sum
-        int unlabeledDataConfidenceSum = 0;
-        double ALDataConfidenceSum = 0;
-        for (int i = 0; i < 100; i++) {
-            dataConfidence[i] = (dataConfidence[i] - min) / (max - min);
-            // fixme:20个专家标注，17个主动学习标注
-            if (i >= 0 && i < 17) {
-                ALDataConfidenceSum += dataConfidence[i];
-            } else if (i > 36) {
-                unlabeledDataConfidenceSum += dataConfidence[i];
-            }
-
-        }
-
-        // fixme 未标注数据置信度,read file to get it!
-        // 未标注数据量
-        int unlabeledDataNum = 100 - 37;
-
-
-        // fixme: 主动学习数据量
-        double ALDataSize = 17;
-
-        double partDataInfoSum = ALDataSize - ALDataConfidenceSum + 20;
-        // 全部数据信息量
-        double allDataInfoSum = (ALDataSize - ALDataConfidenceSum) + unlabeledDataNum - unlabeledDataConfidenceSum + 20;
-        // 最小化目标还加一个所有数据RMSE（估计）+标注数量（已知）
-        //
-        //估计方式：所有数据RMSE/所有数据信息量=部分数据RMSE/部分数据信息量
-        // fixme:部分数据RMSE
-        String extractFilePath = "data/stock100/divideSource/10samples.csv";
-        List<Integer> extractSampleArray = new ArrayList<Integer>();
-        // fixme : 1st数据37个标注了的
-        String[][] extractCSYTruth = new String[37][10];
-        try {
-            FileReader fr = new FileReader(extractFilePath);
-            BufferedReader br = new BufferedReader(fr);
-            String str;
-            String[] data;
-
-            int row = 0;
-            while ((str = br.readLine()) != null) {
-                data = str.split(",", -1);
-                for (int i = 0; i < 10; i++) {
-                    extractCSYTruth[row][i] = data[i];
-                }
-                extractSampleArray.add(Integer.parseInt(data[0]));
-                row++;
-            }
-            fr.close();
-        } catch (IOException e) {
-            e.printStackTrace();
-        }
-        String[][] extractCTDTruth = new String[37][10];
-        int row = 0;
-        // L = 100;
-        for (int i = 0; i < 100; i++) {
-            int sample_id = (int) (Double.parseDouble(result[i][0]) * 10 + 5) / 10;
-            if (extractSampleArray.contains(sample_id)) {
-                // 第i行被抽取到了
-                // fixme: 样本一定要按照sample_id有序存放
-                for (int j = 0; j < 10; j++) {
-                    extractCTDTruth[row][j] = result[i][j];
-                }
-                row++;
-            }
-        }
-
-
-        double partRMSE = RMSE(extractCTDTruth, extractCSYTruth, 37, 10);
-        double allRMSE = (partRMSE / partDataInfoSum) * allDataInfoSum;
-        rmseForGA = allRMSE;
-        double minGoal = allRMSE + ALDataSize;
-        return minGoal;
-    }
+//    public double minGoal(String[][] result) {
+//        // todo 更改文件编码，注意路径
+//        String scoreFilePath = "data/stock100/divideSource/10scores.csv";
+//        // fixme:规定样本总数是100个
+//        double[] dataConfidence = new double[100];
+//        try {
+//            FileReader fd = new FileReader(scoreFilePath);
+//            BufferedReader br = new BufferedReader(fd);
+//            String str;
+//            String[] data;
+//            int row = 0;
+////            str = br.readLine();
+////            String[] first_line = str.split(",", -1);
+//            while ((str = br.readLine()) != null) {
+//                data = str.split(",", -1);
+//                // 数据置信度存在第二格
+//                dataConfidence[row] = Double.parseDouble(data[1]);
+//                row++;
+//            }
+//            fd.close();
+//        } catch (IOException e) {
+//            e.printStackTrace();
+//        }
+//        // 获取最大最小置信度
+//        double min = 0;
+//        double max = 0;
+//        for (int i = 0; i < 100; i++) {
+//            double currentVal = dataConfidence[i];
+//            if (currentVal > max) {
+//                max = currentVal;
+//            }
+//            if (currentVal < min) {
+//                min = currentVal;
+//            }
+//        }
+//        // 重新计算置信度,归一化, 并获取部分和全部数据置信度sum
+//        int unlabeledDataConfidenceSum = 0;
+//        double ALDataConfidenceSum = 0;
+//        for (int i = 0; i < 100; i++) {
+//            dataConfidence[i] = (dataConfidence[i] - min) / (max - min);
+//            // fixme:10个专家标注，10个主动获取
+//            if (i >= 0 && i < 10) {
+//                ALDataConfidenceSum += dataConfidence[i];
+//            } else if (i > 20) {
+//                unlabeledDataConfidenceSum += dataConfidence[i];
+//            }
+//
+//        }
+//
+//        // fixme 未标注数据置信度,read file to get it!
+//        // 未标注数据量
+//        int unlabeledDataNum = 100 - 20;
+//
+//
+//        // fixme: 主动学习数据量
+//        double ALDataSize = 10;
+//
+//        double partDataInfoSum = ALDataSize - ALDataConfidenceSum + 20;
+//        // 全部数据信息量
+//        double allDataInfoSum = (ALDataSize - ALDataConfidenceSum) + unlabeledDataNum - unlabeledDataConfidenceSum + 20;
+//        // 最小化目标还加一个所有数据RMSE（估计）+标注数量（已知）
+//        //
+//        //估计方式：所有数据RMSE/所有数据信息量=部分数据RMSE/部分数据信息量
+//        // fixme:change部分数据RMSE
+//        String extractFilePath = "data/stock100/divideSource/10samples.csv";
+//        // todo : 换成DA的
+//
+//        List<Integer> extractSampleArray = new ArrayList<Integer>();
+//        // fixme : 1st数据20个标注了的
+//        String[][] extractCSYTruth = new String[20][10];
+//        try {
+//            FileReader fr = new FileReader(extractFilePath);
+//            BufferedReader br = new BufferedReader(fr);
+//            String str;
+//            String[] data;
+//
+//            int row = 0;
+//            while ((str = br.readLine()) != null) {
+//                data = str.split(",", -1);
+//                for (int i = 0; i < 10; i++) {
+//                    extractCSYTruth[row][i] = data[i];
+//                }
+//                extractSampleArray.add(Integer.parseInt(data[0]));
+//                row++;
+//            }
+//            fr.close();
+//        } catch (IOException e) {
+//            e.printStackTrace();
+//        }
+//        String[][] extractCTDTruth = new String[37][10];
+//        int row = 0;
+//        // L = 100;
+//        for (int i = 0; i < 100; i++) {
+//            int sample_id = (int) (Double.parseDouble(result[i][0]) * 10 + 5) / 10;
+//            if (extractSampleArray.contains(sample_id)) {
+//                // 第i行被抽取到了
+//                // fixme: 样本一定要按照sample_id有序存放
+//                for (int j = 0; j < 10; j++) {
+//                    extractCTDTruth[row][j] = result[i][j];
+//                }
+//                row++;
+//            }
+//        }
+//
+//
+//        double partRMSE = RMSE(extractCTDTruth, extractCSYTruth, 20, 10);
+//        double allRMSE = (partRMSE / partDataInfoSum) * allDataInfoSum;
+//        rmseForGA = allRMSE;
+//        double minGoal = allRMSE + ALDataSize;
+//        return minGoal;
+//    }
 
 
     public double RMSE(String[][] calcTruth, String[][] goldenStandard, int D1, int D2) {
@@ -1131,10 +1259,34 @@ public class CTD_Algorithm {
 
 
     // 计算初始适应度，内部包含global embedding生成
-    public double calcInitFitnessScore(int times){
+    public double calcInitFitnessScore(int t){
         Searcher search = TriModel.forSearch();
-        String resultFilePath = "E:\\GitHub\\KRAUSTD\\CTD\\data\\stock100\\result\\result_" + v + "_" + times + ".csv";
-        String truthFilePath = "data/stock100/100truth.csv";
+        String resultFilePath;
+        int times = time - 1;
+        if(isDA == 0){
+            resultFilePath = "E:\\GitHub\\KRAUSTD\\CTD\\data\\stock100\\result\\result_" + v + "_" + times + ".csv";
+        }else{
+            resultFilePath = "E:\\GitHub\\KRAUSTD\\CTD\\data\\stock100\\result\\DAresult\\result_" + v + "_" + times + ".csv";
+        }
+        String truthFilePath;
+        if(isDA == 0){
+            truthFilePath = "data/stock100/100truth.csv";
+
+        }else{
+            // todo : add DA truth file
+            // 专门提取da数据写成truth file
+            truthFilePath = "data/stock100/DATruth/trueForDA.csv";
+        }
+
+        List<String> daTupleList = new ArrayList<>();
+        daTupleList.add("177");
+        daTupleList.add("205");
+        daTupleList.add("362");
+        daTupleList.add("549");
+        daTupleList.add("643");
+        daTupleList.add("792");
+        daTupleList.add("981");
+
         // find embedding
         File resultFile = new File(resultFilePath);
         File truthFile = new File(truthFilePath);
@@ -1154,13 +1306,18 @@ public class CTD_Algorithm {
             // 读走属性行
             brResult.readLine();
             brTruth.readLine();
-            // 10 attr
+            // fixme : 10 attr
             int attrKind = 10;
-            // 限制只读取前20行
+            // fixme : 限制只读取前23行
             int usedLine = 0;
-            while((str = brResult.readLine())!=null&&(strT = brTruth.readLine())!=null&&usedLine<20){
+            while((str = brResult.readLine())!=null&&(strT = brTruth.readLine())!=null&&usedLine<23){
                 data = str.split(",",-1);
                 dataT = strT.split(",",-1);
+                if(daTupleList.contains(dataT[0])){
+                    continue;
+                }
+                // 按照da file对比
+                // 维护一个文件存储每次增强的数据的sample id，然后遍历
                 for(int a = 0;a<attrKind;a++){
                     try{
                         // 每次读取新单元格，重新初始化
@@ -1176,6 +1333,7 @@ public class CTD_Algorithm {
                         }else {
                             listOfSingleWord.add(s1List);
                         }
+                        // fixme : change global embedding
                         // calc pooling embedding并且拼接
                         List<Double> globalEmbedding = new ArrayList<>();
                         globalEmbedding.addAll(s1List);
@@ -1208,86 +1366,100 @@ public class CTD_Algorithm {
             e.printStackTrace();
         }
 
+        if(isDA==0){
+            // 数据增强
+            double totalDADistance = 0;
+            String DAFilePath = "E:\\GitHub\\KRAUSTD\\CTD\\data\\stock100\\result\\DAresult\\result_" + v + "_" + times + ".csv";
+            // find embedding
+            File DAFile = new File(DAFilePath);
+            try {
+                // result
+                FileReader frResult = new FileReader(resultFile);
+                BufferedReader brResult = new BufferedReader(frResult);
+                String str;
+                String[] data;
+                // truth
+                FileReader frDA = new FileReader(DAFile);
+                BufferedReader brDA = new BufferedReader(frDA);
+                String strDA;
+                String[] dataDA;
 
-        // 数据增强
-        double totalDADistance = 0;
-        // TODO : add DA file
-        String DAFilePath = "data/stock100/DA.csv";
-        // find embedding
-        File DAFile = new File(DAFilePath);
-        try {
-            // result
-            FileReader frResult = new FileReader(resultFile);
-            BufferedReader brResult = new BufferedReader(frResult);
-            String str;
-            String[] data;
-            // truth
-            FileReader frDA = new FileReader(DAFile);
-            BufferedReader brDA = new BufferedReader(frDA);
-            String strDA;
-            String[] dataDA;
-            // 读走属性行
-            brResult.readLine();
-            // fixme : DA也有属性行吗
-            brDA.readLine();
-            // 各自读走前20行
-            int passLines = 20;
-            for(int line = 0;line<passLines;line++){
+                // 读走属性行
                 brResult.readLine();
                 brDA.readLine();
-            }
-            // 10 attr
-            int attrKind = 10;
-            // 从21行读取到最后
-            int usedLine = 0;
-            while((str = brResult.readLine())!=null&&(strDA = brDA.readLine())!=null&&usedLine<80){
-                data = str.split(",",-1);
-                dataDA = strDA.split(",",-1);
-                for(int a = 0;a<attrKind;a++){
-                    try{
-                        // 每次读取新单元格，重新初始化
-                        List<List<Double>> listOfSingleWord = new ArrayList<>();
-                        List<Double> s1List = search.getRawVector(data[a]);
-                        // calc list
-                        if(data[a].contains(" ")){
-                            String[] singleWordArray = data[a].split(" ");
-                            // add each single word split by " "
-                            for(int s = 0;s<singleWordArray.length;s++){
-                                listOfSingleWord.add(search.getRawVector(singleWordArray[s]));
-                            }
-                        }else {
-                            listOfSingleWord.add(s1List);
-                        }
-                        // calc pooling embedding并且拼接
-                        List<Double> globalEmbedding = new ArrayList<>();
-                        globalEmbedding.addAll(s1List);
-                        globalEmbedding.addAll(meanPooling(listOfSingleWord));
-                        // truth pooling
-                        List<Double> s2List = search.getRawVector(dataDA[a]);
-                        List<List<Double>> listOfDA = new ArrayList<>();
-                        listOfDA.add(s2List);
-                        List<Double> DAEmbedding = new ArrayList<>();
-                        DAEmbedding.addAll(s2List);
-                        DAEmbedding.addAll(meanPooling(listOfDA));
-                        // end pooling and global embedding
-                        // 欧氏距离
-                        double totalSingleWord = 0;
-                        int globalSize = globalEmbedding.size();
-                        for(int i = 0;i<globalSize;i++){
-                            totalSingleWord += Math.pow(Math.abs(globalEmbedding.get(i) - DAEmbedding.get(i)),2);
-                        }
-                        totalSingleWord = Math.sqrt(totalSingleWord);
-                        totalDADistance += totalSingleWord;
-                    }catch (Searcher.UnknownWordException e){
-                        totalDADistance += 0;
-                    }
+                // daFile读走前23行,剩下全是da
+                int passLines = 23;
+                for(int line = 0;line<passLines;line++){
+                    brDA.readLine();
                 }
-                usedLine++;
+                // 10 attr
+                int attrKind = 10;
+                // 从24行读取到最后
+                int usedLine = 0;
+                while(usedLine<7&&(strDA = brDA.readLine())!=null){
+
+                    dataDA = strDA.split(",",-1);
+
+                    do{
+                        str = brResult.readLine();
+                        data = str.split(",",-1);
+
+                    }while(Math.abs(Double.parseDouble(data[0])-Double.parseDouble(dataDA[0]))>0.5);
+
+
+                    if(!daTupleList.contains(data[0])){
+                        continue;
+                    }
+                    for(int a = 0;a<attrKind;a++){
+                        try{
+                            // 每次读取新单元格，重新初始化
+                            List<List<Double>> listOfSingleWord = new ArrayList<>();
+                            List<Double> s1List = search.getRawVector(data[a]);
+                            // calc list
+                            if(data[a].contains(" ")){
+                                String[] singleWordArray = data[a].split(" ");
+                                // add each single word split by " "
+                                for(int s = 0;s<singleWordArray.length;s++){
+                                    listOfSingleWord.add(search.getRawVector(singleWordArray[s]));
+                                }
+                            }else {
+                                listOfSingleWord.add(s1List);
+                            }
+                            // calc pooling embedding并且拼接
+                            List<Double> globalEmbedding = new ArrayList<>();
+                            globalEmbedding.addAll(s1List);
+                            globalEmbedding.addAll(meanPooling(listOfSingleWord));
+                            // truth pooling
+                            List<Double> s2List = search.getRawVector(dataDA[a]);
+                            List<List<Double>> listOfDA = new ArrayList<>();
+                            listOfDA.add(s2List);
+                            List<Double> DAEmbedding = new ArrayList<>();
+                            DAEmbedding.addAll(s2List);
+                            DAEmbedding.addAll(meanPooling(listOfDA));
+                            // end pooling and global embedding
+                            // 欧氏距离
+                            double totalSingleWord = 0;
+                            int globalSize = globalEmbedding.size();
+                            for(int i = 0;i<globalSize;i++){
+                                totalSingleWord += Math.pow(Math.abs(globalEmbedding.get(i) - DAEmbedding.get(i)),2);
+                            }
+                            totalSingleWord = Math.sqrt(totalSingleWord);
+                            totalDADistance += totalSingleWord;
+                        }catch (Searcher.UnknownWordException e){
+                            totalDADistance += 0;
+                        }
+                    }
+                    usedLine++;
+                }
+            } catch (IOException e) {
+                e.printStackTrace();
             }
-        } catch (IOException e) {
-            e.printStackTrace();
+            return totalDADistance + totalGTDistance;
         }
-        return totalDADistance + totalGTDistance;
+        else{
+            return 0;
+        }
+
 
     }
 

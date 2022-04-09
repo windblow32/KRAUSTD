@@ -190,5 +190,33 @@ public class SourceEmbeddingViaWord2Vec{
         }
 
     }
+
+    public ArrayList<float[]> getSampleEmbedding(Word2VecModel model) {
+        ArrayList<float[]> result = new ArrayList<>();
+        int sampleNum = 100;
+        Searcher search = model.forSearch();
+        // row_0 to row_99
+        for(int i = 0;i<sampleNum;i++){
+            String str = "row_" + i;
+            try {
+                List<Double> sampleEMBDI = search.getRawVector(str);
+                // get embedding size
+                int size = sampleEMBDI.size();
+
+                float[] sampleArray = new float[size];
+                int index = 0;
+                for(double vei : sampleEMBDI){
+                    sampleArray[index] = (float)vei;
+                }
+                result.add(sampleArray);
+
+            } catch (Searcher.UnknownWordException e) {
+                e.printStackTrace();
+                System.out.println("not find row_" + i);
+            }
+        }
+        return result;
+
+    }
 }
 

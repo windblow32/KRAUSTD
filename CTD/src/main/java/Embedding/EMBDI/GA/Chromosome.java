@@ -24,9 +24,61 @@ public class Chromosome {
             return;
         }
         initGeneSize(size);
-        for (int i = 0; i < size; i++) {
-            gene[i] = Math.random() >= 0.5;
-        }
+        // fixme : warm start
+//        for (int i = 0; i < size; i++) {
+//            gene[i] = Math.random() >= 0.5;
+//        }
+        // p1 = 35, length = 6, 100011
+        gene[0] = true;
+        gene[1] = false;
+        gene[2] = false;
+        gene[3] = false;
+        gene[4] = true;
+        gene[5] = true;
+        // p2 = 3, length = 3, 011
+        gene[6] = false;
+        gene[7] = true;
+        gene[8] = true;
+        // p3 = 6, length = 3, 110
+        gene[9] = true;
+        gene[10] = true;
+        gene[11] = false;
+        // p4 = 7, length = 3, 111
+        gene[12] = true;
+        gene[13] = true;
+        gene[14] = true;
+        // p5 = 4, length = 3, 100
+        gene[15] = true;
+        gene[16] = false;
+        gene[17] = false;
+        // p6 = 4, length = 3, 100
+        gene[18] = true;
+        gene[19] = false;
+        gene[20] = false;
+        // p7 = 6, length = 3, 110
+        gene[21] = true;
+        gene[22] = true;
+        gene[23] = false;
+        // p8 = 0, length = 1, 0
+        gene[24] = false;
+        // p9 = 1, length = 1, 1
+        gene[25] = true;
+        // p10 = 1, length = 1, 1
+        gene[26] = true;
+        // p11 = , length = 7, 1010000
+        gene[27] = true;
+        gene[28] = false;
+        gene[29] = true;
+        gene[30] = false;
+        gene[31] = false;
+        gene[32] = false;
+        gene[33] = false;
+        // p12 = 2, length = 3, 010
+        gene[34] = false;
+        gene[35] = true;
+        gene[36] = false;
+
+
     }
 
     /**

@@ -182,16 +182,14 @@ public class GAImplTest extends GeneticAlgorithm{
         int dim = getPartNum(parameter11)+63;
         int windowSize = getPartNum(parameter12)+1;
 
-//        obj.trainWithPath(version,length,AttrDistributeLow,
-//                AttrDistributeHigh,
-//                ValueDistributeLow,
-//                ValueDistributeHigh,
-//                TupleDistributeLow,
-//                TupleDistributeHigh);
         CTD_Algorithm CtdService = new CTD_Algorithm();
         // 数据集列表
         List<String> fileList = new ArrayList<>();
         fileList = initialFileList(version);
+
+        List<String> fileListDA = new ArrayList<>();
+        fileListDA = initialFileListDA();
+
         // 否定约束
         List<String> DCs = new ArrayList<>();
         DCs = initialDC();
@@ -200,7 +198,27 @@ public class GAImplTest extends GeneticAlgorithm{
         // todo : 在此处删除可能存在的之前构造的图结构文件，避免印象模型训练
         String graphPath = "data/stock100/weightCalcByVex/graph/55SourceStockGraphMin.txt";
         deleteWithPath(graphPath);
-        // todo : change 基因，增加三种chaocan
+        if(version == 1){
+            // add DA
+            CTD_Algorithm DA_CTDService = new CTD_Algorithm();
+            DA_CTDService.update(version,fileListDA,sourceNum,DCs,"THREE",length,AttrDistributeLow,
+                    AttrDistributeHigh,
+                    ValueDistributeLow,
+                    ValueDistributeHigh,
+                    TupleDistributeLow,
+                    TupleDistributeHigh,
+                    dropSourceEdge,
+                    dropSampleEdge,
+                    rmse,
+                    r2,
+                    fitScore,
+                    extractedCTD_RMSE,
+                    isCBOW,
+                    dim,
+                    windowSize,
+                    1,
+                    0);
+        }
 
         weightList = CtdService.update(version,fileList,sourceNum,DCs,"THREE",length,AttrDistributeLow,
                 AttrDistributeHigh,
@@ -216,7 +234,7 @@ public class GAImplTest extends GeneticAlgorithm{
                 extractedCTD_RMSE,
                 isCBOW,
                 dim,
-                windowSize);
+                windowSize,0,1);
 
         String[][] calcTruth =  CtdService.getCalcTruth();
         this.calcTruth = calcTruth;
@@ -230,7 +248,8 @@ public class GAImplTest extends GeneticAlgorithm{
         double RMSEScore = RMSE(calcTruth,goldenStandard,D1,D2);
         rmse = RMSEScore;
         // using CTD print last time's extracted data's rmse
-        extractedCTD_RMSE = CtdService.getRmseForGA();
+//        extractedCTD_RMSE = CtdService.getRmseForGA();
+        extractedCTD_RMSE = 233;
 
         // set printStream and rmse output filePath="log/Tri/weightCalcByVex/parameter/1.txt"
         LocalTime time1 = LocalTime.now();
@@ -256,63 +275,160 @@ public class GAImplTest extends GeneticAlgorithm{
             e.printStackTrace();
         }
 
-        // todo : rmseList改成文件存储吧,可以只存储数值，不存储数据结构
-        if(rmseList.size() < k){
-            rmseList.add(RMSEScore);
-            if(RMSEScore<minRMSE){
-                minRMSE = RMSEScore;
-            }
+        // version > 2
+        // read errorList
+        List<Double> judgeFuncList = new ArrayList<>();
+        String judgeFuncFile = "data/stock100/rmseFile.txt";
+        File judgeFuncListFile = new File(judgeFuncFile);
+        try {
+            // read out
+            FileInputStream fi = new FileInputStream(judgeFuncListFile);
+            ObjectInputStream objectInputStream = new ObjectInputStream(fi);
+            judgeFuncList = (List<Double>)objectInputStream.readObject();
+        } catch (IOException | ClassNotFoundException e) {
+            e.printStackTrace();
         }
+        double error_rate = rmse;
+        judgeFuncList.add(error_rate);
+        // 数值升序排序
+        Collections.sort(judgeFuncList);
 
-        else {
-            // 保留TopK最小的
-            rmseList.add(RMSEScore);
-            rmseList.remove(Collections.max(rmseList));
-            // 升序,rmse小的，返回的index小，评估的分数就小，适应度下降，不合理
-//            Collections.sort(rmseList);
-            // 降序，rmse小的，index大，评估分数大，适应度高
-            Collections.reverse(rmseList);
-            Word2VecModel m = CtdService.getTriModel();
-            try{
-                int rank = rmseList.indexOf(RMSEScore);
-                int Qi = rank/(k+1);
-                this.Qi = Qi;
-                double B_sum = 0;
-                for(int s1 = 1;s1<sourceNum;s1++){
-                    for(int s2 = s1 + 1;s2<=sourceNum;s2++){
-                        // s1与s2的weight
-                        String sourceP = "source_"+s1;
-                        String sourceQ = "source_"+s2;
-                        // fixme : 适应度函数中不存在调用新的distance的部分
-                        double detaSimilarity = Math.abs(distanceUseSavedModel(m,sourceP,sourceQ));
-                        double detaWeight = 0;
-                        try{
-                            detaWeight = Math.abs(weightList.get(s1)-weightList.get(s2));
-                        }catch (IndexOutOfBoundsException e){
-                            detaWeight = 0;
-                        }
-                        B_sum += Math.abs(detaSimilarity-detaWeight);
+        if(version == 1){
+            return CtdService.initFitnessScore;
+        }
+        //
+        // fixme : 对version 2每个超参都这么做吗？
+        // 用一个文件传递参数，告诉CTD应该下次运行哪个版本
+        String version_list_path = "log/Tri/CTD/version.txt";
+        File version_list_file = new File(version_list_path);
+        try {
+            version_list_file.createNewFile();
+            FileInputStream inputVersion = new FileInputStream(version_list_file);
+            ObjectInputStream objectVersion = new ObjectInputStream(inputVersion);
+            List<Integer> versionList = (List<Integer>)objectVersion.readObject();
+            if(version >= 2){
+                // 开始考虑是否增加罚函数
+                int index = judgeFuncList.indexOf(error_rate);
+                if(index <= 1){
+                    // error 排名在第一,直接采用原始ctd算法
+                    // todo : use origin ctd, al_kind_flag = 0
+                    versionList.add(0);
+                    return CtdService.initFitnessScore;
+                }else if(index >= judgeFuncList.size() - 1){
+                    // 排名在最后一名
+                    // todo : 以后不用罚函数了,直接套用representing learning, al_kind_flag = 1
+                    versionList.add(1);
+                    return CtdService.initFitnessScore;
+                }else {
+                    versionList.add(1);
+                    // todo : 表示学习嵌入ctd，并且加上罚函数, al_kind_flag = 1
+                    // read rmseList
+                    String rmseStoreFile = "data/stock100/rmseFile.txt";
+                    File storeRmseList = new File(rmseStoreFile);
+                    try {
+                        // read out
+                        FileInputStream FI = new FileInputStream(storeRmseList);
+                        ObjectInputStream objectInputStream = new ObjectInputStream(FI);
+                        List<Double> list = new ArrayList<>();
+                        rmseList = (List<Double>)objectInputStream.readObject();
+                        objectInputStream.close();
+                        FI.close();
+                    } catch (IOException | ClassNotFoundException e) {
+                        e.printStackTrace();
                     }
-                }
-                this.B_sum = B_sum;
-                if(String.valueOf((double)Qi/B_sum).equals("NaN")||B_sum==0.0){
-                    return 8.0;
-                }
-                // fixme:最小化目标还加一个所有数据RMSE（估计）+标注数量（已知）
-                // todo : fix标注数量，20 or 40
-                double goal = CtdService.getRmseForGA() + 37;
 
-                fitScore = 10*(double)Qi/B_sum;
-                return fitScore;
+                    // 罚函数计算
+                    if(rmseList.size() < k+1){
+                        rmseList.add(RMSEScore);
+                        if(RMSEScore<minRMSE){
+                            minRMSE = RMSEScore;
+                        }
+                        try {
+                            // store
+                            FileOutputStream outputStream = new FileOutputStream(storeRmseList);
+                            ObjectOutputStream objectOutputStream = new ObjectOutputStream(outputStream);
+                            objectOutputStream.writeObject(rmseList);
+                            outputStream.close();
+                            System.out.println("new rmseList is saved");
+                        } catch (IOException e) {
+                            e.printStackTrace();
+                        }
+                    }
 
-            }catch (NullPointerException e){
-                // 被抛弃了，排序很低
-                return 8.0;
+                    else {
+                        // 保留TopK最小的
+                        rmseList.add(RMSEScore);
+                        rmseList.remove(Collections.max(rmseList));
+                        // 升序,rmse小的，返回的index小，评估的分数就小，适应度下降，不合理
+//            Collections.sort(rmseList);
+                        // 降序，rmse小的，index大，评估分数大，适应度高
+                        Collections.reverse(rmseList);
+                        Word2VecModel m = CtdService.getTriModel();
+                        try{
+                            int rank = rmseList.indexOf(RMSEScore);
+                            int Qi = rank/(k+1);
+                            this.Qi = Qi;
+                            double B_sum = 0;
+                            for(int s1 = 1;s1<sourceNum;s1++){
+                                for(int s2 = s1 + 1;s2<=sourceNum;s2++){
+                                    // s1与s2的weight
+                                    String sourceP = "source_"+s1;
+                                    String sourceQ = "source_"+s2;
+                                    // fixme : 适应度函数中不存在调用新的distance的部分
+                                    double detaSimilarity = Math.abs(distanceUseSavedModel(m,sourceP,sourceQ));
+                                    double detaWeight = 0;
+                                    try{
+                                        detaWeight = Math.abs(weightList.get(s1)-weightList.get(s2));
+                                    }catch (IndexOutOfBoundsException e){
+                                        detaWeight = 0;
+                                    }
+                                    B_sum += Math.abs(detaSimilarity-detaWeight);
+                                }
+                            }
+                            this.B_sum = B_sum;
+                            if(String.valueOf((double)Qi*B_sum).equals("NaN")||B_sum==0.0){
+                                return 8.0 + CtdService.initFitnessScore;
+                            }
+
+                            fitScore = (double)Qi*B_sum;
+                            return fitScore + CtdService.initFitnessScore;
+
+                        }catch (NullPointerException e){
+                            // 被抛弃了，排序很低
+                            return 8.0 + CtdService.initFitnessScore;
+                        }
+                    }
+                    return 4*rmseList.size() + + CtdService.initFitnessScore;
+                }
             }
+            objectVersion.close();
+            inputVersion.close();
+
+            FileOutputStream fileOutputStream = new FileOutputStream(version_list_file);
+            ObjectOutputStream objectOutputStream = new ObjectOutputStream(fileOutputStream);
+            objectOutputStream.writeObject(versionList);
+            objectOutputStream.close();
+            fileOutputStream.close();
+
+        } catch (IOException | ClassNotFoundException e) {
+            e.printStackTrace();
         }
 
-        return 4*rmseList.size();
 
+        return 0.0;
+    }
+
+    private List<String> initialFileListDA() {
+        List<String> fileListDA = new ArrayList<>();
+        for (int i = 0; i < sourceNum; i++) {
+            int temp = i + 1;
+            String filePath = "data/stock100/divideSourceDA/source" + temp + ".csv";
+            fileListDA.add(filePath);
+        }
+        // fixme : 真值添加
+        String truthFilePath = "data/stock100/DATruth/trueForDA.csv";
+        fileListDA.add(truthFilePath);
+        return fileListDA;
     }
 
     public int getPartNum(boolean[] array) {
