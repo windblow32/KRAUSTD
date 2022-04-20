@@ -274,7 +274,7 @@ public class NormalizeDistributeSourceTripartiteEmbeddingViaWord2Vec {
     }
 
     /**
-     * without model path, find some error in the other version
+     * without model path, find some error in the other version.txt
      *
      * @return
      */

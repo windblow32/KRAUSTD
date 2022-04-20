@@ -28,37 +28,45 @@ public class Chromosome {
 //        for (int i = 0; i < size; i++) {
 //            gene[i] = Math.random() >= 0.5;
 //        }
+
+        // warmStart 消融
         // p1 = 35, length = 6, 100011
-        gene[0] = true;
-        gene[1] = false;
-        gene[2] = false;
+        // monitor : 26 011010
+        gene[0] = false;
+        gene[1] = true;
+        gene[2] = true;
         gene[3] = false;
         gene[4] = true;
-        gene[5] = true;
+        gene[5] = false;
         // p2 = 3, length = 3, 011
         gene[6] = false;
         gene[7] = true;
         gene[8] = true;
         // p3 = 6, length = 3, 110
+        // monitor 4 100
         gene[9] = true;
-        gene[10] = true;
+        gene[10] = false;
         gene[11] = false;
         // p4 = 7, length = 3, 111
-        gene[12] = true;
+        // 3 011
+        gene[12] = false;
         gene[13] = true;
         gene[14] = true;
         // p5 = 4, length = 3, 100
+        // 7 111
         gene[15] = true;
-        gene[16] = false;
-        gene[17] = false;
+        gene[16] = true;
+        gene[17] = true;
         // p6 = 4, length = 3, 100
-        gene[18] = true;
-        gene[19] = false;
-        gene[20] = false;
+        // 3 011
+        gene[18] = false;
+        gene[19] = true;
+        gene[20] = true;
         // p7 = 6, length = 3, 110
+        // 5 101
         gene[21] = true;
-        gene[22] = true;
-        gene[23] = false;
+        gene[22] = false;
+        gene[23] = true;
         // p8 = 0, length = 1, 0
         gene[24] = false;
         // p9 = 1, length = 1, 1
@@ -66,17 +74,19 @@ public class Chromosome {
         // p10 = 1, length = 1, 1
         gene[26] = true;
         // p11 = , length = 7, 1010000
+        // 157 - 63 = 94 1011110
         gene[27] = true;
         gene[28] = false;
         gene[29] = true;
-        gene[30] = false;
-        gene[31] = false;
-        gene[32] = false;
+        gene[30] = true;
+        gene[31] = true;
+        gene[32] = true;
         gene[33] = false;
         // p12 = 2, length = 3, 010
-        gene[34] = false;
-        gene[35] = true;
-        gene[36] = false;
+        // 5 101
+        gene[34] = true;
+        gene[35] = false;
+        gene[36] = true;
 
 
     }

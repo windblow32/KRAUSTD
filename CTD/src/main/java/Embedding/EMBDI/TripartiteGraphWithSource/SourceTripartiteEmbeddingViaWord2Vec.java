@@ -231,7 +231,7 @@ public class SourceTripartiteEmbeddingViaWord2Vec {
     }
 
     /**
-     * without model path, find some error in the other version
+     * without model path, find some error in the other version.txt
      * @return
      */
     public Map<String, List<Double>> get_inner_Source_EMBDI(){

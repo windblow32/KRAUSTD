@@ -68,7 +68,7 @@ public class GAImplTest extends GeneticAlgorithm{
     public int p11_length = 7;
     public int p12_length = 3;
 
-    public int sourceNum = 55;
+    public int sourceNum = 5;
     // k是质优度的超参
     public int k = 3;
     // 存储Topk
@@ -185,7 +185,9 @@ public class GAImplTest extends GeneticAlgorithm{
         CTD_Algorithm CtdService = new CTD_Algorithm();
         // 数据集列表
         List<String> fileList = new ArrayList<>();
-        fileList = initialFileList(version);
+        // dataset type
+        String dataset = "monitor";
+        fileList = initialFileList(dataset);
 
         List<String> fileListDA = new ArrayList<>();
         fileListDA = initialFileListDA();
@@ -198,10 +200,11 @@ public class GAImplTest extends GeneticAlgorithm{
         // todo : 在此处删除可能存在的之前构造的图结构文件，避免印象模型训练
         String graphPath = "data/stock100/weightCalcByVex/graph/55SourceStockGraphMin.txt";
         deleteWithPath(graphPath);
+        // SOURCENUM
         if(version == 1){
             // add DA
             CTD_Algorithm DA_CTDService = new CTD_Algorithm();
-            DA_CTDService.update(version,fileListDA,sourceNum,DCs,"THREE",length,AttrDistributeLow,
+            DA_CTDService.update(version,fileListDA,5,DCs,"THREE",length,AttrDistributeLow,
                     AttrDistributeHigh,
                     ValueDistributeLow,
                     ValueDistributeHigh,
@@ -220,7 +223,7 @@ public class GAImplTest extends GeneticAlgorithm{
                     0);
         }
 
-        weightList = CtdService.update(version,fileList,sourceNum,DCs,"THREE",length,AttrDistributeLow,
+        weightList = CtdService.update(version,fileList,6,DCs,"THREE",length,AttrDistributeLow,
                 AttrDistributeHigh,
                 ValueDistributeLow,
                 ValueDistributeHigh,
@@ -245,7 +248,11 @@ public class GAImplTest extends GeneticAlgorithm{
         int D2 = CtdService.getD2();
         this.D2 = D2;
         String[][] goldenStandard = readGoldStandard(D1,D2);
-        double RMSEScore = RMSE(calcTruth,goldenStandard,D1,D2);
+        // CTD
+//        double RMSEScore = RMSE(calcTruth,goldenStandard,D1,D2);
+        // monitor
+        double RMSEScore = errorForMonitor(calcTruth,goldenStandard,D1,D2);
+        // monitor 中就是error rate
         rmse = RMSEScore;
         // using CTD print last time's extracted data's rmse
 //        extractedCTD_RMSE = CtdService.getRmseForGA();
@@ -258,7 +265,7 @@ public class GAImplTest extends GeneticAlgorithm{
         String[] data1 = t1.split(":");
         String insertT1 = data1[0] + data1[1] + data1[2];
 
-        String logPath = "log/Tri/weightCalcByVex/parameter/log" + insertT1 + ".txt";
+        String logPath = "log/Tri/CTD/monitor/parameter/log" + insertT1 + ".txt";
         File logFile = new File(logPath);
 
         try {
@@ -266,19 +273,30 @@ public class GAImplTest extends GeneticAlgorithm{
             FileOutputStream fos = new FileOutputStream(logFile);
             PrintStream ps = new PrintStream(fos);
             System.setOut(ps);
-            System.out.println("RMSE GA : " + RMSEScore);
-            r2 = R_square(calcTruth,goldenStandard,D1,D2);
-            System.out.println("R square GA : " + r2);
-            System.out.println("extractedCTD_RMSE : " + extractedCTD_RMSE);
+            System.out.println("error rate GA : " + RMSEScore);
+//            r2 = R_square(calcTruth,goldenStandard,D1,D2);
+//            System.out.println("R square GA : " + r2);
+            System.out.println("游走长度为 : " + length);
+            System.out.println("Attr 正态均值 : " + AttrDistributeLow);
+            System.out.println("Attr 正态标准差 : " + AttrDistributeHigh);
+            System.out.println("Value 正态均值 : " + ValueDistributeLow);
+            System.out.println("Value 正态标准差 : " + ValueDistributeHigh);
+            System.out.println("Tuple 正态均值 : " + TupleDistributeLow);
+            System.out.println("Tuple 正态标准差 : " + TupleDistributeHigh);
+            System.out.println("drop Source ? (0 false, 1 true) : " + dropSourceEdge);
+            System.out.println("drop Sample ? (0 false, 1 true) : " + dropSampleEdge);
+            System.out.println("using model : " + isCBOW);
+            System.out.println("embedding dim : " + dim);
+            System.out.println("windowSize : " + windowSize);
             ps.close();
         } catch (IOException e) {
             e.printStackTrace();
         }
 
-        // version > 2
+        // version.txt > 2
         // read errorList
         List<Double> judgeFuncList = new ArrayList<>();
-        String judgeFuncFile = "data/stock100/rmseFile.txt";
+        String judgeFuncFile = "data/ctd/monitor/rmseFile.txt";
         File judgeFuncListFile = new File(judgeFuncFile);
         try {
             // read out
@@ -299,10 +317,10 @@ public class GAImplTest extends GeneticAlgorithm{
         //
         // fixme : 对version 2每个超参都这么做吗？
         // 用一个文件传递参数，告诉CTD应该下次运行哪个版本
-        String version_list_path = "log/Tri/CTD/version.txt";
+        String version_list_path = "data/ctd/monitor/version.txt";
         File version_list_file = new File(version_list_path);
         try {
-            version_list_file.createNewFile();
+            // version_list_file.createNewFile();
             FileInputStream inputVersion = new FileInputStream(version_list_file);
             ObjectInputStream objectVersion = new ObjectInputStream(inputVersion);
             List<Integer> versionList = (List<Integer>)objectVersion.readObject();
@@ -314,16 +332,20 @@ public class GAImplTest extends GeneticAlgorithm{
                     // todo : use origin ctd, al_kind_flag = 0
                     versionList.add(0);
                     return CtdService.initFitnessScore;
-                }else if(index >= judgeFuncList.size() - 1){
+                }else if(index >= judgeFuncList.size() - 2){
                     // 排名在最后一名
                     // todo : 以后不用罚函数了,直接套用representing learning, al_kind_flag = 1
                     versionList.add(1);
                     return CtdService.initFitnessScore;
                 }else {
+
                     versionList.add(1);
+                    // 罚函数的消融实验
+                    // return CtdService.initFitnessScore;
+
                     // todo : 表示学习嵌入ctd，并且加上罚函数, al_kind_flag = 1
                     // read rmseList
-                    String rmseStoreFile = "data/stock100/rmseFile.txt";
+                    String rmseStoreFile = "data/ctd/monitor/rmseFile.txt";
                     File storeRmseList = new File(rmseStoreFile);
                     try {
                         // read out
@@ -422,11 +444,11 @@ public class GAImplTest extends GeneticAlgorithm{
         List<String> fileListDA = new ArrayList<>();
         for (int i = 0; i < sourceNum; i++) {
             int temp = i + 1;
-            String filePath = "data/stock100/divideSourceDA/source" + temp + ".csv";
+            String filePath = "data/ctd/monitor/sourceDA/source" + temp + ".csv";
             fileListDA.add(filePath);
         }
         // fixme : 真值添加
-        String truthFilePath = "data/stock100/DATruth/trueForDA.csv";
+        String truthFilePath = "data/ctd/monitor/monitor_truth_da.CSV";
         fileListDA.add(truthFilePath);
         return fileListDA;
     }
@@ -459,26 +481,37 @@ public class GAImplTest extends GeneticAlgorithm{
      * 读取version文件夹下的所有source数据即可
      * @return
      */
-    public List<String> initialFileList(int version){
+    public List<String> initialFileList(String dataset){
         List<String> fileList = new ArrayList<>();
-        for (int i = 0; i < sourceNum; i++) {
-            int temp = i + 1;
-            String filePath = "data/stock100/divideSource/source" + temp + ".csv";
-            fileList.add(filePath);
+        if(dataset.equals("CTD")){
+            for (int i = 0; i < sourceNum; i++) {
+                int temp = i + 1;
+                String filePath = "data/stock100/divideSource/source" + temp + ".csv";
+                fileList.add(filePath);
+            }
+            // fixme : 真值添加
+            String truthFilePath = "data/stock100/100truth.csv";
+            fileList.add(truthFilePath);
+        }else if(dataset.equals("monitor")){
+            for (int i = 1; i <= 5; i++) {
+                String filePath = "data/ctd/monitor/source/source" + i + ".csv";
+                fileList.add(filePath);
+            }
+            // fixme : 真值添加
+            String truthFilePath = "data/ctd/monitor/monitor_truth.csv";
+            fileList.add(truthFilePath);
         }
-        // fixme : 真值添加
-        String truthFilePath = "data/stock100/100truth.csv";
-        fileList.add(truthFilePath);
+
         return fileList;
     }
     public List<String> initialDC(){
         List<String> DCs = new ArrayList<>();
-        DCs.add("52wk_H > 52wk_L");
+        DCs.add("screen_size_diagonal < 100");
         return DCs;
     }
     public String[][] readGoldStandard(int D1, int D2){
         String[][] goldenStandard = new String[D1][D2];
-        String goldenStandardPath = "data/stock100/100truth.csv";
+        String goldenStandardPath = "data/ctd/monitor/monitor_truth.csv";
         try {
             FileReader fr = new FileReader(goldenStandardPath);
             BufferedReader br = new BufferedReader(fr);
@@ -567,9 +600,94 @@ public class GAImplTest extends GeneticAlgorithm{
         return 1.0 - (double)(sum1/sum2);
     }
 
+    /*
+        计算monitor数据集的precise
+     */
+    public double errorForMonitor(String[][] calcTruth, String[][] goldenStandard,int D1,int D2){
+        // 数字类型计算差值，string类型看是否一样,计算累计误差
+        double sum = 0;
+        for(int i = 0;i<D1;i++){
+            for(int j = 0;j<D2;j++){
+                if(calcTruth[i][j].equals("NaN")
+                        ||goldenStandard[i][j].equals("NaN")
+                        ||calcTruth[i][j].equals("")
+                        || calcTruth[i][j] == null
+                        || goldenStandard[i][j].equals("")
+                        ||goldenStandard[i][j] == null){
+                    sum += 1;
+                    continue;
+                }
+                if(j==1){
+                    // String类型,并且有多值
+                    String type = calcTruth[i][j];
+                    String truthType = goldenStandard[i][j];
+                    String[] typeArray;
+                    typeArray = truthType.split(";");
+                    double minDis = 0;
+                    for(String str : typeArray){
+                        double currentDis = Levenshtein(type,str);
+                        if(currentDis < minDis){
+                            minDis = currentDis;
+                        }
+                    }
+                    sum += minDis;
+                }else if(j == 2){
+                    String type = calcTruth[i][j];
+                    String truthType = goldenStandard[i][j];
+                    sum += Levenshtein(type,truthType);
+                }else{
+                    // 连续性数据
+                    String str1 = calcTruth[i][j];
+                    String str2 = goldenStandard[i][j];
+                    double v1 = Double.parseDouble(str1);
+                    double v2 = Double.parseDouble(str2);
+                    sum += Math.abs(v1-v2);
+                }
+            }
+        }
+
+        return sum;
+    }
+
+    public static float Levenshtein(String a, String b) {
+        if (a == null && b == null) {
+            return 1f;
+        }
+        if (a == null || b == null) {
+            return 0F;
+        }
+        int editDistance = editDis(a, b);
+//        return 1 - ((float) editDistance / Math.max(a.length(), b.length()));
+        return editDistance;
+    }
+
+    private static int editDis(String a, String b) {
+
+        int aLen = a.length();
+        int bLen = b.length();
+
+        if (aLen == 0) return aLen;
+        if (bLen == 0) return bLen;
+
+        int[][] v = new int[aLen + 1][bLen + 1];
+        for (int i = 0; i <= aLen; ++i) {
+            for (int j = 0; j <= bLen; ++j) {
+                if (i == 0) {
+                    v[i][j] = j;
+                } else if (j == 0) {
+                    v[i][j] = i;
+                } else if (a.charAt(i - 1) == b.charAt(j - 1)) {
+                    v[i][j] = v[i - 1][j - 1];
+                } else {
+                    v[i][j] = 1 + Math.min(v[i - 1][j - 1], Math.min(v[i][j - 1], v[i - 1][j]));
+                }
+            }
+        }
+        return v[aLen][bLen];
+    }
 
     public double RMSE(String[][] calcTruth, String[][] goldenStandard,int D1,int D2){
-
+        // int类型
         double sum = 0;
         for(int i = 0;i<D1;i++){
             for(int j = 0;j<D2;j++){
@@ -615,7 +733,8 @@ public class GAImplTest extends GeneticAlgorithm{
             double model2 = Math.sqrt(total2);
             return d/(model1*model2);
         } catch (Searcher.UnknownWordException|NullPointerException e) {
-//            e.printStackTrace();
+//            e.printStac
+//            kTrace();
             System.out.println("word not find");
             return 0;
         }

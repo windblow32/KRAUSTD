@@ -1,0 +1,6 @@
+entity,screen_type,supported_aspect_ratio,response_time(ms),screen_size_diagonal,day
+22,LCD Monitor;LCD,5:04,5,48.3,1
+25,LCD Monitor;LCD,16:10,5,55.9,1
+27,LCD Monitor;LCD;TFT Brilliance LCD 16.7 Million Colour,16:09,5,54.6,1
+28,TFT LCD 16.7 Million Colour;LED,16:09,5,54.6,1
+193,LED Backlight LCD IPS Panel 16.7 million Colour;Brilliance LCD Monitor,16:09,5,58.4,1

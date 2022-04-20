@@ -1,0 +1,6 @@
+entity,screen_type,supported_aspect_ratio,response_time(ms),screen_size_diagonal,day
+22,LCD Monitor,5:04,4.863041961,47.71357324,1
+25,LCD Monitor,16:11,5.013591612,60.24100679,1
+27,LCD Monitor,16:09,4.92230881,58.83372504,1
+28,LCD,16:09,4.730472416,54.29735559,1
+193,Monitor,16:08,5.459439278,61.09235491,1

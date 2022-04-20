@@ -1,0 +1,13 @@
+error rate GA : 757.8121662542709
+游走长度为 : 27
+Attr 正态均值 : 3
+Attr 正态标准差 : 4
+Value 正态均值 : 2
+Value 正态标准差 : 2
+Tuple 正态均值 : 7
+Tuple 正态标准差 : 5
+drop Source ? (0 false, 1 true) : 0
+drop Sample ? (0 false, 1 true) : 1
+using model : 0
+embedding dim : 157
+windowSize : 1

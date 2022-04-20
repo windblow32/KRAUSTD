@@ -1,21 +1,21 @@
-entity_id,website,brand,number,screen_type
-ENTITY#022,www.imldirect.it,Philips_Electronics,864,LCD Monitor
-ENTITY#025,www.imldirect.it,Philips_Electronics,286,LCD Monitor
-ENTITY#027,www.imldirect.it,Philips_Electronics,230,LCD Monitor
-ENTITY#028,www.imldirect.it,Philips_Electronics,680,LCD Monitor
-ENTITY#032,www.imldirect.it,Philips_Electronics,550,LCD Monitor
-ENTITY#033,www.imldirect.it,Philips_Electronics,462,LCD Monitor
-ENTITY#039,www.imldirect.it,Philips_Electronics,167,Brilliance LCD Monitor
-ENTITY#040,www.imldirect.it,Philips_Electronics,888,Monitor
-ENTITY#041,www.imldirect.it,Philips_Electronics,135,LCD Monitor
-ENTITY#062,www.imldirect.it,Philips_Electronics,464,LCD Monitor
-ENTITY#088,www.imldirect.it,iiyama_North_America_Inc,872,Brilliance LCD Monitor
-ENTITY#103,www.imldirect.it,Hannspree_Inc,169,LCD Monitor
-ENTITY#128,www.imldirect.it,Asus,682,LCD Monitor
-ENTITY#132,www.imldirect.it,Asus,471,LCD Monitor
-ENTITY#133,www.imldirect.it,Asus,638,Brilliance LCD Monitor
-ENTITY#168,www.imldirect.it,Asus,213,LCD Monitor
-ENTITY#171,www.imldirect.it,Asus,863,LCD Monitor
-ENTITY#186,www.imldirect.it,Asus,182,Monitor
-ENTITY#190,www.imldirect.it,Asus,408,Brilliance LCD Monitor
-ENTITY#193,www.imldirect.it,iiyama_North_America_Inc,336,Brilliance LCD Monitor
+entity,screen_type,supported_aspect_ratio,response_time(ms),screen_size_diagonal,day
+22,LCD Monitor,5:04,5,48.3,1
+25,LCD Monitor,16:10,5,55.9,1
+27,LCD Monitor,16:09,5,54.6,1
+28,LCD Monitor,16:09,5,54.6,1
+32,LCD Monitor,16:09,5,61,1
+33,LCD Monitor,16:09,1,61,1
+39,LCD Monitor,16:09,5,68.6,1
+40,LCD Monitor,16:09,5,68.6,1
+41,LCD Monitor,16:09,5,68.6,1
+62,LCD Monitor,16:10,14,61,1
+88,LCD Monitor,16:09,2,61,1
+103,LCD Monitor,16:09,5,49.5,1
+128,LCD Monitor,16:10,6,61,1
+132,LCD Monitor,21:09,5,73.7,1
+133,LCD Monitor,16:09,8,80,1
+168,LCD Monitor,16:09,2,68.6,1
+171,LCD Monitor,16:09,2,68.6,1
+186,LCD Monitor,16:10,5,55.9,1
+190,LCD Monitor,16:09,5,68.6,1
+193,LCD Monitor,16:09,5,58.4,1

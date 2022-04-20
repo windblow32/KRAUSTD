@@ -22,7 +22,7 @@ public class DART {
         List<String> sourceList = new ArrayList<>();
         // not include golden standard
         for(int s = 1; s<= 5;s++){
-            sourceList.add("data/dart/source"+s+".csv");
+            sourceList.add("data/ctd/monitor/source/source"+s+".csv");
         }
         // 反正不用存储图，路径随便写了
         String graphPath = "data/stock100/weightCalcByVex/graph/55SourceStockGraphMin.txt";

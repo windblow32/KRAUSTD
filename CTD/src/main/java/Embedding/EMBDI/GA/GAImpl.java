@@ -137,7 +137,7 @@ public class GAImpl extends GeneticAlgorithm{
         int TupleDistributeHigh = getPartNum(parameter7);
         int dropSourceEdge = getPartNum(parameter8);
         int dropSampleEdge = getPartNum(parameter9);
-//        obj.trainWithPath(version,length,AttrDistributeLow,
+//        obj.trainWithPath(version.txt,length,AttrDistributeLow,
 //                AttrDistributeHigh,
 //                ValueDistributeLow,
 //                ValueDistributeHigh,

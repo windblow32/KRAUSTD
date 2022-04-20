@@ -2,6 +2,7 @@ package main.java;
 
 import com.medallia.word2vec.Searcher;
 import com.medallia.word2vec.Word2VecModel;
+import main.java.Embedding.EMBDI.SourceEmbedding.SourceEmbeddingViaWord2Vec;
 import main.java.Embedding.EMBDI.TripartiteNormalizeDistributeGraph.NormalizeDistributeSourceTripartiteEmbeddingViaWord2Vec;
 
 import java.io.*;
@@ -152,10 +153,10 @@ public class CTD_Algorithm {
         String insertT1 = data1[0] + data1[1] + data1[2];
         String logPath;
         if(isDA == 1){
-            logPath = "log/Tri/weightCalcByVex/DA/logMin" + insertT1 + ".txt";
+            logPath = "log/Tri/CTD/monitor/DA/logMin" + insertT1 + ".txt";
 
         }else{
-            logPath = "log/Tri/weightCalcByVex/logMin" + insertT1 + ".txt";
+            logPath = "log/Tri/CTD/monitor/logMin" + insertT1 + ".txt";
         }
         File logFile = new File(logPath);
         try {
@@ -249,6 +250,7 @@ public class CTD_Algorithm {
                         System.arraycopy(data, 0, value[y][row], 0, data.length);
                     } catch (ArrayIndexOutOfBoundsException e) {
                         System.out.println("越界 : "+y);
+                        System.out.println(row);
                     }
                     row++;
                 }
@@ -303,7 +305,7 @@ public class CTD_Algorithm {
                         // 对当前lpk（t）进行存储，h函数的参数2
                         //                            String temp = value[t][i][j];
                         // FIXME:应该修复为对于当前的数据集的行数，进行查找, p is waited to fix
-                        for (int row = 0; row < p; row++) {
+                        for (int row = 0; row < L; row++) {
                             // 用于计算h函数的参数1，来自数据源t的第row行的j列属性
                             String parma1 = value[t][row][j];
                             int num = 0; //当前序号,数据源标记,相当于公式中的k
@@ -349,10 +351,15 @@ public class CTD_Algorithm {
                         // 记录（25）中的分母
                         double sum_weight = 0;
                         for (double w1 : weights) {
-                            if (!value[source][i][j].isEmpty()) {
-                                sum_weighted_value +=
-                                        w1 * Double.parseDouble(value[source][i][j]);
+                            try{
+                                if (!value[source][i][j].isEmpty()||!value[source][i][j].equals("")) {
+                                    sum_weighted_value +=
+                                            w1 * Double.parseDouble(value[source][i][j]);
+                                }
+                            }catch(NullPointerException e){
+                                int a = 0;
                             }
+
                             sum_weight += w1;
                             source++;
                         }
@@ -370,7 +377,7 @@ public class CTD_Algorithm {
                             // 对当前lpk（t）进行存储，h函数的参数2
                             //                            String temp = value[t][i][j];
                             // FIXME:应该修复为对于当前的数据集的行数，进行查找, p is waited to fix
-                            for (int row = 0; row < p; row++) {
+                            for (int row = 0; row < L; row++) {
                                 // 用于计算h函数的参数1，来自数据源t的第row行的j列属性
                                 String parma1 = value[t][row][j];
                                 int num = 0; //当前序号,数据源标记,相当于公式中的k
@@ -478,10 +485,12 @@ public class CTD_Algorithm {
                             if (v1.equals("") || v2.equals("")) {
                                 continue;
                             }
-                            double v1_value = Double.parseDouble(v1);
-                            double v2_value = Double.parseDouble(v2);
+                            // todo v1来自数据集，string，v2不一定
+
                             // judge 不成立并且v1，v2都是连续值时：
                             if (!judge && judge_number(v1) && judge_number(v2)) {
+                                double v1_value = Double.parseDouble(v1);
+                                double v2_value = Double.parseDouble(v2);
                                 // todo : update v.lp according to (27)
                                 // FIXME:采用(28)开始的公式对于上述中存在问题的数据进行捕获与修复
                                 // 满足拉格朗日乘子为0前提下，求table X
@@ -641,6 +650,7 @@ public class CTD_Algorithm {
                 break;
             }
         }
+        // fixme : if only ctd, dont need under
         if(isDA == 0){
             initFitnessScore = calcInitFitnessScore(times);
         }
@@ -652,12 +662,24 @@ public class CTD_Algorithm {
     /**
      * @param v1 待比较的第一个字符串
      * @param v2 待比较的另一个字符串
-     * @return 相等返回1，否则返回2
+     * @return 相等返回1，否则返回0
      */
     private int h(String v1, String v2) {
         // FIXME:浮点比较直接等于是否有问题？因为一定存在相等的点！
-        if (v1.equals(v2)) return 1;
-        else return 0;
+        if(v1==null||v2==null||v1.equals("")||v2.equals("")){
+            return 0;
+        }
+        if(judge_number(v1)&&judge_number(v2)){
+            double value1 = Double.parseDouble(v1);
+            double value2 = Double.parseDouble(v2);
+            if(Math.abs((value2-value1))<0.5){
+                return 1;
+            }else return 0;
+        }else{
+            if (v1.equals(v2)) return 1;
+            else return 0;
+        }
+
     }
 
     /**
@@ -851,31 +873,56 @@ public class CTD_Algorithm {
         } catch (NullPointerException e) {
             return 1;
         }
+//        if(judge_number(v1)&&judge_number(v2)){
+//            int k1 = (int)Double.parseDouble(v1);
+//            int k2 = (int)Double.parseDouble(v2);
+//            if (k1 == k2) {
+//                return 0;
+//            }else return 1;
+//        }else if(v1.equals(v2)){
+//            return 0;
+//        }else return 1;
 
         List<String> fileList = new ArrayList<>();
+
+        // fixme : ctd-BRM
+//        for (int i = 0; i < k; i++) {
+//            // 注意和writeValue的路径相同
+//            int z = i + 1;
+//            String path;
+//            path = "data/ctd/monitor/sourceNew/source" + z + ".csv";
+//            fileList.add(path);
+//        }
+//        String resultPath;
+//        resultPath = "data/ctd/monitor/result/result_" + v + "_" + times + ".csv";
+//        fileList.add(resultPath);
+
+
+
+        // fixme : 一下全是原来的
         for (int i = 0; i < k; i++) {
             // 注意和writeValue的路径相同
             int z = i + 1;
             String path;
             if(isDA == 0){
-                path = "E:\\GitHub\\KRAUSTD\\CTD\\data\\stock100\\divideSourceNew\\source" + z + ".csv";
+                path = "data/ctd/monitor/sourceNew/source" + z + ".csv";
             }else{
-                path = "E:\\GitHub\\KRAUSTD\\CTD\\data\\stock100\\divideSourceNewDA\\source" + z + ".csv";
+                path = "data/ctd/monitor/sourceNewDA/source" + z + ".csv";
             }
             fileList.add(path);
         }
         String resultPath;
         if(isDA == 0){
             resultPath =
-                    "E:\\GitHub\\KRAUSTD\\CTD\\data\\stock100\\result\\result_" + v + "_" + times + ".csv";
+                    "data/ctd/monitor/result/result_" + v + "_" + times + ".csv";
         }else{
             resultPath =
-                    "E:\\GitHub\\KRAUSTD\\CTD\\data\\stock100\\result\\DAresult\\result_" + v + "_" + times + ".csv";
+                    "data/ctd/monitor/result/DAresult/result_" + 1 + "_" + times + ".csv";
         }
-        String tempDAFilePath = "data/stock100/result/DAresult/tempDA.csv";
+        String tempDAFilePath = "data/ctd/monitor/result/DAresult/tempDA.csv";
         if(isDA==0){
             // 拿到需要读入的数据
-            String DAresultPath = "E:\\GitHub\\KRAUSTD\\CTD\\data\\stock100\\result\\DAresult\\result_" + v + "_" + times + ".csv";
+            String DAresultPath = "data/ctd/monitor/result/DAresult/result_" + 1 + "_" + times + ".csv";
             File DAresult = new File(DAresultPath);
             try {
                 FileReader fr = new FileReader(DAresult);
@@ -890,15 +937,9 @@ public class CTD_Algorithm {
                 }
                 // fixme : 增强的id
                 List<String> daTupleList = new ArrayList<>();
-                daTupleList.add("177");
-                daTupleList.add("205");
-                daTupleList.add("362");
-                daTupleList.add("549");
-                daTupleList.add("643");
-                daTupleList.add("792");
-                daTupleList.add("981");
+                daTupleList.add("193");
 
-                File resultFile = new File("E:\\GitHub\\KRAUSTD\\CTD\\data\\stock100\\result\\result_" + v + "_" + times + ".csv");
+                File resultFile = new File("data/ctd/monitor/result/result_" + v + "_" + times + ".csv");
                 FileReader resultFr = new FileReader(resultFile);
                 BufferedReader resultBr = new BufferedReader(resultFr);
                 // read attr
@@ -945,14 +986,11 @@ public class CTD_Algorithm {
             fileList.add(resultPath);
         }
 
+
+
         if (times % time == 0 && times != 0) {
             return -100;
         }
-        // version
-        // fixme
-//        String walkPath = "data/stock100/walkList" + version + ".txt";
-//        String modelPath = "model/Tri/stock100/total" + version + ".model";
-//        String graphPath = "data/stock100/weightCalcByVex/graph/55SourceStockGraphMin.txt";
 
         if (mode.equals("FIVE")) {
             // fixme: 五分图没修改对应的类
@@ -963,10 +1001,45 @@ public class CTD_Algorithm {
 //            word2VecService.train(fileList, graphPath, 20, 3, 60,20000,1,1,1,1,1,1);
 //            return 1 - word2VecService.distance(v1, v2);
         } else if (mode.equals("THREE")) {
+            // fixme : ctd-BRM
+//            // 三分图
+//            SourceEmbeddingViaWord2Vec word2VecService = new SourceEmbeddingViaWord2Vec();
+//            // GA第一次训练，构造图用
+//            CTD_sotaFlag = 1;
+//
+//            if (CTD_sotaFlag == 0 && useTriModel == 0) {
+//                int value1 = (int)Double.parseDouble(v1);
+//                int value2 = (int)Double.parseDouble(v2);
+//                if (value1 == value2) {
+//                    return 0;
+//                } else return 1;
+//            } else if ((CTD_sotaFlag == 1 && flag == 0) ||(useTriModel==1 && flag == 0)){
+//
+//                String graphPath = "data/stock100/weightCalcByVex/graph/55SourceStockGraphMin.txt";
+//                deleteWithPath(graphPath);
+//                // GA传参数过来，CTD训练得到结果
+//                // version.txt,length,6个参数
+//                LocalTime time = LocalTime.now();
+//                DateTimeFormatter formatter = DateTimeFormatter.ofPattern("HH:mm:ss");
+//                // 防止遗传算法因为图已经存储不能重新构造
+//                String t = time.format(formatter);
+//                String[] data = t.split(":");
+//                String insertT = data[0] + data[1] + data[2];
+//                String graphFilePath = "data/stock100/weightCalcByVex/graph/55SourceStockGraphMin" + v + "_" + insertT + ".txt";
+//                String modelPath = "model/Tri/stock100/weightCalcByVex/totalMin" + v + "_" + insertT + ".model";
+//                word2VecService.train(fileList, graphFilePath, 3, 3, length);
+//                TriModel = word2VecService.trainWithLocalWalks(modelPath);
+//                // distanceUseSavedModel 计算的是相似度，需要处理
+//                return 1 - word2VecService.distanceUseSavedModel(TriModel, v1, v2);
+//            } else if ((CTD_sotaFlag == 1 && flag == 1) ||(useTriModel==1 && flag == 1)) {
+//                return 1 - word2VecService.distanceUseSavedModel(TriModel, v1, v2);
+//            }
+
+
             // 三分图
             NormalizeDistributeSourceTripartiteEmbeddingViaWord2Vec word2VecService = new NormalizeDistributeSourceTripartiteEmbeddingViaWord2Vec();
             // GA第一次训练，构造图用
-            File versionListFile = new File("log/Tri/CTD/version_list.txt");
+            File versionListFile = new File("data/ctd/monitor/version.txt");
             FileInputStream fileInputStream = null;
             try {
                 fileInputStream = new FileInputStream(versionListFile);
@@ -980,17 +1053,24 @@ public class CTD_Algorithm {
             }
 
             if (CTD_sotaFlag == 0 && useTriModel == 0) {
-                int value1 = (int)Double.parseDouble(v1);
-                int value2 = (int)Double.parseDouble(v2);
-                if (value1 == value2) {
-                    return 0;
-                } else return 1;
+                if(judge_number(v1)&&judge_number(v2)){
+                    int value1 = (int)Double.parseDouble(v1);
+                    int value2 = (int)Double.parseDouble(v2);
+                    if (value1 == value2) {
+                        return 0;
+                    } else return 1;
+                }else{
+                    if(v1.equals(v2)){
+                        return 0;
+                    }else return 1;
+                }
+
             } else if ((CTD_sotaFlag == 1 && flag == 0) ||(useTriModel==1 && flag == 0)){
 
                 String graphPath = "data/stock100/weightCalcByVex/graph/55SourceStockGraphMin.txt";
                 deleteWithPath(graphPath);
                 // GA传参数过来，CTD训练得到结果
-                // version,length,6个参数
+                // version.txt,length,6个参数
                 LocalTime time = LocalTime.now();
                 DateTimeFormatter formatter = DateTimeFormatter.ofPattern("HH:mm:ss");
                 // 防止遗传算法因为图已经存储不能重新构造
@@ -998,7 +1078,7 @@ public class CTD_Algorithm {
                 String[] data = t.split(":");
                 String insertT = data[0] + data[1] + data[2];
                 String graphFilePath = "data/stock100/weightCalcByVex/graph/55SourceStockGraphMin" + v + "_" + insertT + ".txt";
-                String modelPath = "model/Tri/stock100/weightCalcByVex/totalMin" + v + "_" + insertT + ".model";
+                String modelPath = "model/Tri/CTD/monitor/totalMin" + v + "_" + insertT + ".model";
                 word2VecService.train(fileList, graphFilePath, 3, 3, length, 20000,
                         AttrDistributeLow, AttrDistributeHigh, ValueDistributeLow, ValueDistributeHigh,
                         TupleDistributeLow, TupleDistributeHigh, dropSourceEdge, dropSampleEdge,isCBOW,dim,windowSize);
@@ -1024,9 +1104,15 @@ public class CTD_Algorithm {
         for (int i = 0; i < k; i++) {
             int q = i + 1;
             if(isDA == 0){
-                sourcePath = "E:\\GitHub\\KRAUSTD\\CTD\\data\\stock100\\divideSourceNew\\source" + q + ".csv";
+                // ctd
+                // sourcePath = "E:\\GitHub\\KRAUSTD\\CTD\\data\\stock100\\divideSourceNew\\source" + q + ".csv";
+                // monitor
+                sourcePath = "data/ctd/monitor/sourceNew/source" + q + ".csv";
             }else{
-                sourcePath = "E:\\GitHub\\KRAUSTD\\CTD\\data\\stock100\\divideSourceNewDA\\source" + q + ".csv";
+                // ctd
+//                sourcePath = "E:\\GitHub\\KRAUSTD\\CTD\\data\\stock100\\divideSourceNewDA\\source" + q + ".csv";
+                // monitor
+                sourcePath = "data/ctd/monitor/sourceNewDA/source" + q + ".csv";
             }
 
             PrintStream stream = new PrintStream(sourcePath);
@@ -1059,11 +1145,18 @@ public class CTD_Algorithm {
         String separator = ",";
         String sourcePath;
         if(isDA == 0){
-            sourcePath =
-                    "E:\\GitHub\\KRAUSTD\\CTD\\data\\stock100\\result\\result_" + v + "_" + times + ".csv";
+            // ctd
+//            sourcePath =
+//                    "E:\\GitHub\\KRAUSTD\\CTD\\data\\stock100\\result\\result_" + v + "_" + times + ".csv";
+            // monitor
+            sourcePath = "data/ctd/monitor/result/result_" + v + "_" + times + ".csv";
         }else{
-            sourcePath =
-                    "E:\\GitHub\\KRAUSTD\\CTD\\data\\stock100\\result\\DAresult\\result_" + v + "_" + times + ".csv";
+            // ctd
+//            sourcePath =
+//                    "E:\\GitHub\\KRAUSTD\\CTD\\data\\stock100\\result\\DAresult\\result_" + v + "_" + times + ".csv";
+            // monitor
+            sourcePath = "data/ctd/monitor/result/DAresult/result_" + 1 + "_" + times + ".csv";
+
         }
 
 
@@ -1264,28 +1357,28 @@ public class CTD_Algorithm {
         String resultFilePath;
         int times = time - 1;
         if(isDA == 0){
-            resultFilePath = "E:\\GitHub\\KRAUSTD\\CTD\\data\\stock100\\result\\result_" + v + "_" + times + ".csv";
+            resultFilePath = "data/ctd/monitor/result/result_" + v + "_" + times + ".csv";
         }else{
-            resultFilePath = "E:\\GitHub\\KRAUSTD\\CTD\\data\\stock100\\result\\DAresult\\result_" + v + "_" + times + ".csv";
+            resultFilePath = "data/ctd/monitor/result/DAresult/result_" + 1 + "_" + times + ".csv";
         }
         String truthFilePath;
         if(isDA == 0){
-            truthFilePath = "data/stock100/100truth.csv";
+            // ctd
+            // truthFilePath = "data/stock100/100truth.csv";
+            // monitor
+            truthFilePath = "data/ctd/monitor/monitor_truth.csv";
 
         }else{
             // todo : add DA truth file
             // 专门提取da数据写成truth file
-            truthFilePath = "data/stock100/DATruth/trueForDA.csv";
+            // ctd
+            // truthFilePath = "data/stock100/DATruth/trueForDA.csv";
+            truthFilePath = "data/ctd/monitor/monitor_truth_da.CSV";
         }
 
         List<String> daTupleList = new ArrayList<>();
-        daTupleList.add("177");
-        daTupleList.add("205");
-        daTupleList.add("362");
-        daTupleList.add("549");
-        daTupleList.add("643");
-        daTupleList.add("792");
-        daTupleList.add("981");
+        daTupleList.add("193");
+
 
         // find embedding
         File resultFile = new File(resultFilePath);
@@ -1306,11 +1399,11 @@ public class CTD_Algorithm {
             // 读走属性行
             brResult.readLine();
             brTruth.readLine();
-            // fixme : 10 attr
-            int attrKind = 10;
-            // fixme : 限制只读取前23行
+            // fixme : 6 attr
+            int attrKind = 6;
+            // fixme : 限制只读取前4行
             int usedLine = 0;
-            while((str = brResult.readLine())!=null&&(strT = brTruth.readLine())!=null&&usedLine<23){
+            while((str = brResult.readLine())!=null&&(strT = brTruth.readLine())!=null&&usedLine<4){
                 data = str.split(",",-1);
                 dataT = strT.split(",",-1);
                 if(daTupleList.contains(dataT[0])){
@@ -1369,7 +1462,7 @@ public class CTD_Algorithm {
         if(isDA==0){
             // 数据增强
             double totalDADistance = 0;
-            String DAFilePath = "E:\\GitHub\\KRAUSTD\\CTD\\data\\stock100\\result\\DAresult\\result_" + v + "_" + times + ".csv";
+            String DAFilePath = "data/ctd/monitor/result/DAresult/result_" + 1 + "_" + times + ".csv";
             // find embedding
             File DAFile = new File(DAFilePath);
             try {
@@ -1387,16 +1480,16 @@ public class CTD_Algorithm {
                 // 读走属性行
                 brResult.readLine();
                 brDA.readLine();
-                // daFile读走前23行,剩下全是da
-                int passLines = 23;
+                // daFile读走前4行,剩下全是da
+                int passLines = 4;
                 for(int line = 0;line<passLines;line++){
                     brDA.readLine();
                 }
-                // 10 attr
-                int attrKind = 10;
-                // 从24行读取到最后
+                // 6 attr
+                int attrKind = 6;
+                // 5
                 int usedLine = 0;
-                while(usedLine<7&&(strDA = brDA.readLine())!=null){
+                while(usedLine<1&&(strDA = brDA.readLine())!=null){
 
                     dataDA = strDA.split(",",-1);
 
@@ -1459,7 +1552,6 @@ public class CTD_Algorithm {
         else{
             return 0;
         }
-
 
     }
 
