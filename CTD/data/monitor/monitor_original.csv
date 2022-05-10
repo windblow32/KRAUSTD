@@ -1,56 +1,56 @@
 entity,source,brand,number,screen_type,supported_aspect_ratio,response_time(ms),screen_size_diagonal,day
-22,1,Philips Electronics,134,LCD,5:04,5,48.3,1
-22,2,Philips Electronics,295,TFT LCD 16.7 Million Colour,5:04,5,48.3,1
-22,3,Philips Electronics,410,"Brilliance LCD Monitor, LED Backlight with SmartImage",5:04,5,48.3,1
-22,4,Philips Electronics,842,LCD Monitor,5:04,5,48.3,1
-22,5,Philips Electronics,864,LCD Monitor,5:04,5,48.3,1
-25,5,Philips Electronics,286,LCD Monitor,16:10,5,55.9,1
-25,1,Philips Electronics,311,LCD,16:10,5,55.9,1
-25,4,Philips Electronics,788,LCD Monitor,16:10,5,55.9,1
-25,3,Philips Electronics,1540,"Brilliance LCD monitor, LED Backlight With PowerSensor",16:10,5,55.9,1
-27,4,Philips Electronics,123,LCD Monitor,16:09,5,54.6,1
-27,2,Philips Electronics,125,TFT LCD 16.7 Million Colour,16:09,5,54.6,1
-27,5,Philips Electronics,230,LCD Monitor,16:09,5,54.6,1
-27,1,Philips Electronics,634,LED,16:09,5,54.6,1
-27,3,Philips Electronics,772,Brilliance LCD Monitor LED Backlight with PowerSensor,16:09,5,54.6,1
-28,2,Philips Electronics,322,TFT LCD 16.7 Million Colour,16:09,5,58.4,1
-28,1,Philips Electronics,576,LED,16:09,5,54.6,1
-28,4,Philips Electronics,669,LCD Monitor,16:09,5,54.6,1
-28,5,Philips Electronics,680,LCD Monitor,16:09,5,54.6,1
-32,1,Philips Electronics,304,LED,16:09,5,61,1
-32,2,Philips Electronics,318,LCD with LED Backlight 16.7 Million Colour,16:09,5,61,1
-32,4,Philips Electronics,507,LCD Monitor,16:09,5,61,1
-32,5,Philips Electronics,550,LCD Monitor,16:09,5,61,1
-32,3,Philips Electronics,585,"Brilliance LCD Monitor, LED Backlight with PowerSensor",16:09,5,61,1
-33,2,Philips Electronics,230,TFT LCD 16.7 Million Colour,16:09,5,61,1
-33,4,Philips Electronics,334,LCD Monitor,16:09,1,61,1
-33,5,Philips Electronics,462,LCD Monitor,16:09,1,61,1
-33,1,Philips Electronics,557,TN+Film,16:09,5,61,1
-33,3,Philips Electronics,619,Brilliance LCD Monitor with SmartImage Game 242G5DJEB 144Hz 24\,16:09,1,61,1
-39,2,Philips Electronics,111,LCD Monitor,16:09,5,68.6,1
-39,5,Philips Electronics,167,LCD Monitor,16:09,5,68.6,1
-39,1,Philips Electronics,486,LED,16:09,3.5,68.6,1
-39,4,Philips Electronics,676,LCD Monitor,16:09,5,68.6,1
-39,3,Philips Electronics,1899,273E3LHSB Widescreen LCD Monitor,16:09,5,68.6,1
-40,2,Philips Electronics,14,TFT LCD 16.7 Million Colour,16:09,5,68.6,1
-40,1,Philips Electronics,405,LCD/TFT,16:09,5,68.6,1
-40,4,Philips Electronics,707,LCD Monitor,16:09,5,68.6,1
-40,5,Philips Electronics,888,LCD Monitor,16:09,5,68.6,1
-41,1,Philips Electronics,47,LCD/TFT,16:09,5,68.6,1
-41,2,Philips Electronics,124,TFT LCD 16.7 Million Colour,16:09,5,68.6,1
-41,5,Philips Electronics,135,LCD Monitor,16:09,5,68.6,1
-41,4,Philips Electronics,296,LCD Monitor,16:09,5,68.6,1
-41,3,Philips Electronics,701,LCD Monitor with SmartControl Lite,16:09,5,68.6,1
-62,1,Philips Electronics,232,IPS,16:10,14,61,1
-62,2,Philips Electronics,245,IPS TFT LCD 16.7 Million Colour,16:10,14,61,1
-62,5,Philips Electronics,464,LCD Monitor,16:10,14,61,1
-62,3,Philips Electronics,600,Brilliance LCD Monitor With Clinical D-image,16:10,14,61,1
-62,4,Philips Electronics,764,LCD Monitor,16:10,14,61,1
-88,4,iiyama North America,93,LCD Monitor,16:09,2,61,1
-88,1,iiyama North America,296,TN+Film,16:09,2,60.96,1
-88,2,iiyama North America,328,TFT LCD 16.7 million Colour,16:09,2,61,1
-88,5,iiyama North America,872,LCD Monitor,16:09,2,61,1
-88,3,iiyama North America,1710,ProLite E2483HS - A Full HD LED Monitor with 2 ms Response Time,16:09,2,61,1
+22,1,Philips_Electronics,134,LCD,5:04,5,48.3,1
+22,2,Philips_Electronics,295,TFT LCD 16.7 Million Colour,5:04,5,48.3,1
+22,3,Philips_Electronics,410,Brilliance LCD Monitor LED Backlight with SmartImage,5:04,5,48.3,1
+22,4,Philips_Electronics,842,LCD Monitor,5:04,5,48.3,1
+22,5,Philips_Electronics,864,LCD Monitor,5:04,5,48.3,1
+25,5,Philips_Electronics,286,LCD Monitor,16:10,5,55.9,1
+25,1,Philips_Electronics,311,LCD,16:10,5,55.9,1
+25,4,Philips_Electronics,788,LCD Monitor,16:10,5,55.9,1
+25,3,Philips_Electronics,1540,Brilliance LCD monitor LED Backlight With PowerSensor,16:10,5,55.9,1
+27,4,Philips_Electronics,123,LCD Monitor,16:09,5,54.6,1
+27,2,Philips_Electronics,125,TFT LCD 16.7 Million Colour,16:09,5,54.6,1
+27,5,Philips_Electronics,230,LCD Monitor,16:09,5,54.6,1
+27,1,Philips_Electronics,634,LED,16:09,5,54.6,1
+27,3,Philips_Electronics,772,Brilliance LCD Monitor LED Backlight with PowerSensor,16:09,5,54.6,1
+28,2,Philips_Electronics,322,TFT LCD 16.7 Million Colour,16:09,5,58.4,1
+28,1,Philips_Electronics,576,LED,16:09,5,54.6,1
+28,4,Philips_Electronics,669,LCD Monitor,16:09,5,54.6,1
+28,5,Philips_Electronics,680,LCD Monitor,16:09,5,54.6,1
+32,1,Philips_Electronics,304,LED,16:09,5,61,1
+32,2,Philips_Electronics,318,LCD with LED Backlight 16.7 Million Colour,16:09,5,61,1
+32,4,Philips_Electronics,507,LCD Monitor,16:09,5,61,1
+32,5,Philips_Electronics,550,LCD Monitor,16:09,5,61,1
+32,3,Philips_Electronics,585,Brilliance LCD Monitor LED Backlight with PowerSensor,16:09,5,61,1
+33,2,Philips_Electronics,230,TFT LCD 16.7 Million Colour,16:09,5,61,1
+33,4,Philips_Electronics,334,LCD Monitor,16:09,1,61,1
+33,5,Philips_Electronics,462,LCD Monitor,16:09,1,61,1
+33,1,Philips_Electronics,557,TN+Film,16:09,5,61,1
+33,3,Philips_Electronics,619,Brilliance LCD Monitor with SmartImage Game 242G5DJEB 144Hz 24\,16:09,1,61,1
+39,2,Philips_Electronics,111,LCD Monitor,16:09,5,68.6,1
+39,5,Philips_Electronics,167,LCD Monitor,16:09,5,68.6,1
+39,1,Philips_Electronics,486,LED,16:09,3.5,68.6,1
+39,4,Philips_Electronics,676,LCD Monitor,16:09,5,68.6,1
+39,3,Philips_Electronics,1899,273E3LHSB Widescreen LCD Monitor,16:09,5,68.6,1
+40,2,Philips_Electronics,14,TFT LCD 16.7 Million Colour,16:09,5,68.6,1
+40,1,Philips_Electronics,405,LCD/TFT,16:09,5,68.6,1
+40,4,Philips_Electronics,707,LCD Monitor,16:09,5,68.6,1
+40,5,Philips_Electronics,888,LCD Monitor,16:09,5,68.6,1
+41,1,Philips_Electronics,47,LCD/TFT,16:09,5,68.6,1
+41,2,Philips_Electronics,124,TFT LCD 16.7 Million Colour,16:09,5,68.6,1
+41,5,Philips_Electronics,135,LCD Monitor,16:09,5,68.6,1
+41,4,Philips_Electronics,296,LCD Monitor,16:09,5,68.6,1
+41,3,Philips_Electronics,701,LCD Monitor with SmartControl Lite,16:09,5,68.6,1
+62,1,Philips_Electronics,232,IPS,16:10,14,61,1
+62,2,Philips_Electronics,245,IPS TFT LCD 16.7 Million Colour,16:10,14,61,1
+62,5,Philips_Electronics,464,LCD Monitor,16:10,14,61,1
+62,3,Philips_Electronics,600,Brilliance LCD Monitor With Clinical D-image,16:10,14,61,1
+62,4,Philips_Electronics,764,LCD Monitor,16:10,14,61,1
+88,4,iiyama_North_America,93,LCD Monitor,16:09,2,61,1
+88,1,iiyama_North_America,296,TN+Film,16:09,2,60.96,1
+88,2,iiyama_North_America,328,TFT LCD 16.7 million Colour,16:09,2,61,1
+88,5,iiyama_North_America,872,LCD Monitor,16:09,2,61,1
+88,3,iiyama_North_America,1710,ProLite E2483HS - A Full HD LED Monitor with 2 ms Response Time,16:09,2,61,1
 103,5,Hannspree,169,LCD Monitor,16:09,5,49.5,1
 103,2,Hannspree,402,LED Backlight 16.7 Million Colour,16:09,5,49.5,1
 103,1,Hannspree,459,LED,16:09,5,49.53,1
@@ -89,7 +89,7 @@ entity,source,brand,number,screen_type,supported_aspect_ratio,response_time(ms),
 190,5,Asus,408,LCD Monitor,16:09,5,68.6,1
 190,1,Asus,680,IPS,16:09,5,68.6,1
 190,3,Asus,870,VX279Q Widescreen LCD Monitor,16:09,5,68.6,1
-193,2,iiyama North America,213,LED Backlight LCD IPS Panel 16.7 million Colour,16:09,5,58.4,1
-193,5,iiyama North America,336,LCD Monitor,16:09,5,58.4,1
-193,1,iiyama North America,362,IPS,16:09,5,58.42,1
-193,4,iiyama North America,815,LCD Monitor,16:09,5,58.4,1
+193,2,iiyama_North_America,213,LED Backlight LCD IPS Panel 16.7 million Colour,16:09,5,58.4,1
+193,5,iiyama_North_America,336,LCD Monitor,16:09,5,58.4,1
+193,1,iiyama_North_America,362,IPS,16:09,5,58.42,1
+193,4,iiyama_North_America,815,LCD Monitor,16:09,5,58.4,1

@@ -1,4 +1,4 @@
-sample,change%,last_trade_price,open_price,volumn,today_high,today_low,previous_close,52wk_H,52wk_L
+entity,screen_type,supported_aspect_ratio,response_time(ms),screen_size_diagonal,day
 22.000000000000004,LCD Monitor,5:04,5.11151937413394,100.00,1.0
 25.0,LCD Monitor,16:10,3.854678101230877,100.00,0.8017153606495516
 27.0,LCD Monitor,16:09,4.915414671089224,100.00,1.0

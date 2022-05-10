@@ -1,4 +1,4 @@
-sample,change%,last_trade_price,open_price,volumn,today_high,today_low,previous_close,52wk_H,52wk_L
+entity,screen_type,supported_aspect_ratio,response_time(ms),screen_size_diagonal,day
 22,TFT LCD 16.7 Million Colour,5:04,5,48.3,1
 25,,,,,
 27,TFT LCD 16.7 Million Colour,16:09,5,54.6,1

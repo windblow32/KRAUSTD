@@ -204,7 +204,7 @@ public class GAImplTest extends GeneticAlgorithm{
         if(version == 1){
             // add DA
             CTD_Algorithm DA_CTDService = new CTD_Algorithm();
-            DA_CTDService.update(version,fileListDA,5,DCs,"THREE",length,AttrDistributeLow,
+            DA_CTDService.update(version,fileListDA,sourceNum,DCs,"THREE",length,AttrDistributeLow,
                     AttrDistributeHigh,
                     ValueDistributeLow,
                     ValueDistributeHigh,
@@ -223,7 +223,7 @@ public class GAImplTest extends GeneticAlgorithm{
                     0);
         }
 
-        weightList = CtdService.update(version,fileList,6,DCs,"THREE",length,AttrDistributeLow,
+        weightList = CtdService.update(version,fileList,sourceNum + 1,DCs,"THREE",length,AttrDistributeLow,
                 AttrDistributeHigh,
                 ValueDistributeLow,
                 ValueDistributeHigh,
@@ -471,10 +471,6 @@ public class GAImplTest extends GeneticAlgorithm{
 //        test.calculate();
 //        test.getGeneI();
 
-    private double valueFunction(){
-
-        return 5;
-    }
 
     /**
      * fixme:逐步读取数据
@@ -493,7 +489,7 @@ public class GAImplTest extends GeneticAlgorithm{
             String truthFilePath = "data/stock100/100truth.csv";
             fileList.add(truthFilePath);
         }else if(dataset.equals("monitor")){
-            for (int i = 1; i <= 5; i++) {
+            for (int i = 1; i <= sourceNum; i++) {
                 String filePath = "data/ctd/monitor/source/source" + i + ".csv";
                 fileList.add(filePath);
             }

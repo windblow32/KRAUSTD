@@ -18,7 +18,7 @@ public class Init {
     public void initRmseFile(){
         List<Double> list = new ArrayList<Double>();
         list.add(0.0);
-        String rmseStoreFile = "data/ctd/monitor/rmseFile.txt";
+        String rmseStoreFile = "data/iatd/monitor/rmseFile.txt";
         File storeRmseList = new File(rmseStoreFile);
 
         try {
@@ -36,7 +36,7 @@ public class Init {
     public void initVersionList(){
         List<Integer> versionList = new ArrayList<Integer>();
         versionList.add(0);
-        File versionFile = new File("data/ctd/monitor/version.txt");
+        File versionFile = new File("data/iatd/monitor/version.txt");
         try {
             versionFile.createNewFile();
             FileOutputStream fos = new FileOutputStream(versionFile);

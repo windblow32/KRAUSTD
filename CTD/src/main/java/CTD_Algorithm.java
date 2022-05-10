@@ -1098,7 +1098,8 @@ public class CTD_Algorithm {
 
     private void writeValue(String[][][] value) throws IOException {
 //    String[] header = new String[] { "time", "place", "city", "good" };
-        String[] header = new String[]{"sample", "change%", "last_trade_price", "open_price", "volumn", "today_high", "today_low", "previous_close", "52wk_H", "52wk_L"};
+        // String[] header = new String[]{"sample", "change%", "last_trade_price", "open_price", "volumn", "today_high", "today_low", "previous_close", "52wk_H", "52wk_L"};
+        String[] header = new String[] {"entity","screen_type","supported_aspect_ratio","response_time(ms)","screen_size_diagonal","day"};
         String separator = ",";
         String sourcePath;
         for (int i = 0; i < k; i++) {
@@ -1140,7 +1141,8 @@ public class CTD_Algorithm {
 
     private void writeResult(String[][] result, int times) {
         //String[] header = new String[] { "time", "place", "city", "good" };
-        String[] header = new String[]{"sample", "change%", "last_trade_price", "open_price", "volumn", "today_high", "today_low", "previous_close", "52wk_H", "52wk_L"};
+//        String[] header = new String[]{"sample", "change%", "last_trade_price", "open_price", "volumn", "today_high", "today_low", "previous_close", "52wk_H", "52wk_L"};
+        String[] header = new String[] {"entity","screen_type","supported_aspect_ratio","response_time(ms)","screen_size_diagonal","day"};
         // sample,change%,last_trade_price,open_price,volumn,today_high,today_low,previous_close,52wk_H,52wk_L
         String separator = ",";
         String sourcePath;
@@ -1366,7 +1368,7 @@ public class CTD_Algorithm {
             // ctd
             // truthFilePath = "data/stock100/100truth.csv";
             // monitor
-            truthFilePath = "data/ctd/monitor/monitor_truth.csv";
+            truthFilePath = "data/ctd/monitor/monitor_truth-old.csv";
 
         }else{
             // todo : add DA truth file

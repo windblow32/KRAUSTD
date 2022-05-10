@@ -1,4 +1,4 @@
-sample,change%,last_trade_price,open_price,volumn,today_high,today_low,previous_close,52wk_H,52wk_L
+entity,screen_type,supported_aspect_ratio,response_time(ms),screen_size_diagonal,day
 22,LCD,5:04,5.083093739,44.53785537,1
 25,LCD,16:10,4.678791561,53.39001563,1
 27,LED,16:09,4.91305422,50.26067372,1

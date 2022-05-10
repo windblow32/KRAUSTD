@@ -1,0 +1,8 @@
+ENTITY#101,Color Temperature Setting,Auto,Preset,User Defined,Cloudy,Flash,Shade
+ENTITY#19,Auto,Cloudy,White Balance Presets,Custom White Balance,incandescent
+ENTITY#23,Preset,User Defined,Color Temperature Setting,Available Auto,Auto,Daylight,Shade
+ENTITY#41,Auto,Cloudy,Flash,Fluorescent,Incandescent,Shade,Sunlight,Sunny
+ENTITY#44,Auto,Available Auto,Incandescent,Fluorescent,Flash,Cloudy
+ENTITY#6,Auto,Cloudy,Flash,Custom White Balance,White Balance Presets,incandescent,fluorescent
+ENTITY#75,Auto,incandescent,fluorescent,direct sunlight,flash,cloudy,shade,preset manual white balance,Incandescent
+ENTITY#96,Auto,preset,user-defined,color temperature setting,with white balance correction and white balance bracketing functions,Preset

@@ -43,7 +43,7 @@ public class OnlyCTD {
                 fileList.add(filePath);
             }
             // fixme : 真值添加
-            String truthFilePath = "data/ctd/monitor/monitor_truth.csv";
+            String truthFilePath = "data/ctd/monitor/monitor_truth-old.csv";
             fileList.add(truthFilePath);
         }
 
@@ -88,7 +88,7 @@ public class OnlyCTD {
 
     public String[][] readGoldStandard(int D1, int D2){
         String[][] goldenStandard = new String[D1][D2];
-        String goldenStandardPath = "data/ctd/monitor/monitor_truth.csv";
+        String goldenStandardPath = "data/ctd/monitor/monitor_truth-old.csv";
         try {
             FileReader fr = new FileReader(goldenStandardPath);
             BufferedReader br = new BufferedReader(fr);

@@ -183,18 +183,20 @@ public class GenerateNormalizeDistributeSourceTripartite implements Serializable
                     StringBuilder wholeWord = new StringBuilder();
                     for(String part:row_i){
                         wholeWord.append(part);
+                        // 增加了单元格短语danYG
+                        // String danYG = wholeWord.toString();
+                        String danYG = part;
+                        sourceGraph.addVertex(danYG);
+                        sourceGraph.all_nodes.add(danYG);
+                        int DYG_value = N(ValueDistributeLow,ValueDistributeHigh);
+                        sourceGraph.addEdge(danYG, Ri,DYG_value*Ri_VexValue);
+                        // G.addEdge(word,Ck)
+                        //  仅在此处用到column
+                        int DYGcolumn_value = N(AttrDistributeLow,AttrDistributeHigh);
+                        sourceGraph.addEdge(danYG, sourceGraph.column_i.get(column),DYGcolumn_value*DYG_value);
+                        sourceGraph.addEdge(danYG, source_id,source_value*DYG_value);
                     }
-                    // 增加了单元格短语danYG
-                    String danYG = wholeWord.toString();
-                    sourceGraph.addVertex(danYG);
-                    sourceGraph.all_nodes.add(danYG);
-                    int DYG_value = N(ValueDistributeLow,ValueDistributeHigh);
-                    sourceGraph.addEdge(danYG, Ri,DYG_value*Ri_VexValue);
-                    // G.addEdge(word,Ck)
-                    //  仅在此处用到column
-                    int DYGcolumn_value = N(AttrDistributeLow,AttrDistributeHigh);
-                    sourceGraph.addEdge(danYG, sourceGraph.column_i.get(column),DYGcolumn_value*DYG_value);
-                    sourceGraph.addEdge(danYG, source_id,source_value*DYG_value);
+
 
                     // 处理多值
                     for(String Vk:row_i ){
@@ -204,6 +206,23 @@ public class GenerateNormalizeDistributeSourceTripartite implements Serializable
                             // 对于这个属性的成员,每个word储存到value_i中
                             value_i.addAll(Arrays.asList(value));
                             for (String word : value_i) {
+                                if(word.contains(" ")){
+                                    String[] s_word = word.split(" ",-1);
+                                    for(String sw : s_word){
+                                        // G.addNode(word)
+                                        sourceGraph.addVertex(sw);
+                                        sourceGraph.all_nodes.add(sw);
+                                        // G.addEdge(word,Ri)
+                                        // 计算value的点权
+                                        int v_value = N(ValueDistributeLow,ValueDistributeHigh);
+                                        sourceGraph.addEdge(sw, Ri,v_value*Ri_VexValue);
+                                        // G.addEdge(word,Ck)
+                                        //  仅在此处用到column
+                                        int column_value = N(AttrDistributeLow,AttrDistributeHigh);
+                                        sourceGraph.addEdge(sw, sourceGraph.column_i.get(column),column_value*v_value);
+                                        sourceGraph.addEdge(sw, source_id,source_value*v_value);
+                                    }
+                                }
                                 // G.addNode(word)
                                 sourceGraph.addVertex(word);
                                 sourceGraph.all_nodes.add(word);

@@ -1,0 +1,21 @@
+entity,source,brand,number,screen_type,supported_aspect_ratio,response_time(ms),screen_size_diagonal,day
+22,4,Philips_Electronics,842,LCD Monitor,5:04,5,48.3,1
+25,4,Philips_Electronics,788,LCD Monitor,16:10,5,55.9,1
+27,4,Philips_Electronics,123,LCD Monitor,16:09,5,54.6,1
+28,4,Philips_Electronics,669,LCD Monitor,16:09,5,54.6,1
+32,4,Philips_Electronics,507,LCD Monitor,16:09,5,61,1
+33,4,Philips_Electronics,334,LCD Monitor,16:09,1,61,1
+39,4,Philips_Electronics,676,LCD Monitor,16:09,5,68.6,1
+40,4,Philips_Electronics,707,LCD Monitor,16:09,5,68.6,1
+41,4,Philips_Electronics,296,LCD Monitor,16:09,5,68.6,1
+62,4,Philips_Electronics,764,LCD Monitor,16:10,14,61,1
+88,4,iiyama_North_America,93,LCD Monitor,16:09,2,61,1
+103,4,Hannspree,739,LCD Monitor,16:09,5,49.5,1
+128,4,Asus,268,LCD Monitor,16:10,6,61,1
+132,4,Asus,67,LCD Monitor,21:09,5,73.7,1
+133,4,Asus,40,LCD Monitor,16:09,8,80,1
+168,4,Asus,297,LCD Monitor,16:09,2,68.6,1
+171,4,Asus,86,LCD Monitor,16:09,2,68.6,1
+186,4,Asus,387,LCD Monitor,16:10,5,55.9,1
+190,4,Asus,337,LCD Monitor,16:09,5,68.6,1
+193,4,iiyama_North_America,815,LED Backlight LCD IPS Panel 16.7 million Colour,16:09,5,58.4,1

@@ -1,0 +1,6 @@
+entity_id,brand,number,screen_type,supported_aspect_ratio,response_time(ms),screen_size_diagonal,day
+22,Philips_Electronics,134,LCD,5:04,5.083093739,44.53785537,1
+25,Philips_Electronics,311,LCD,16:10,4.678791561,53.39001563,1
+27,Philips_Electronics,634,LED,16:09,4.91305422,50.26067372,1
+28,Philips_Electronics,576,LED,16:10,4.872858177,49.6731007,1
+193,iiyama_North_America,362,IPS,16:10,4.805533954,61.80027728,1
