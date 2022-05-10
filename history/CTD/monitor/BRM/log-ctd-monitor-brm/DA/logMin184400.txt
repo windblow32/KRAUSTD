@@ -1,0 +1,40 @@
+GA printer : rmse = 757.7880503991396
+GA printer : r2 square = 0.0
+GA printer : last time fitScore = 0.0
+GA printer : last time extracted data's rmse = 233.0
+越界 : 5
+0
+越界 : 5
+1
+越界 : 5
+2
+越界 : 5
+3
+越界 : 5
+4
+(20) is not satisfied
+(20) is not satisfied
+(20) is not satisfied
+(20) is not satisfied
+(20) is not satisfied
+(20) is not satisfied
+(20) is not satisfied
+(20) is not satisfied
+(20) is not satisfied
+(20) is not satisfied
+safe, graphFile is not exist
+Graph is saved
+List saved
+save totalNodes successfully
+list size : 10170
+train successfully
+Stage ACQUIRE_VOCAB, progress 0.0%
+Stage FILTER_SORT_VOCAB, progress 0.0%
+Stage CREATE_HUFFMAN_ENCODING, progress 0.0%
+Stage CREATE_HUFFMAN_ENCODING, progress 0.5%
+Stage TRAIN_NEURAL_NETWORK, progress 0.0%
+Stage TRAIN_NEURAL_NETWORK, progress 0.14844495137707595%
+Stage TRAIN_NEURAL_NETWORK, progress 0.34844298482807445%
+Stage TRAIN_NEURAL_NETWORK, progress 0.548441018279073%
+Stage TRAIN_NEURAL_NETWORK, progress 0.7484390517300715%
+Stage TRAIN_NEURAL_NETWORK, progress 0.94843708518107%
