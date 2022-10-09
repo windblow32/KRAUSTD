@@ -1,0 +1,36 @@
+5,Rain;Light Rain,93,1
+10,Rain,93,1
+13,Cloudy;Overcast,81,1
+25,Cloudy,81,1
+31,Cloudy,84,1
+35,Cloudy;Overcast,81,1
+38,Cloudy,85,1
+39,Cloudy,87,1
+43,Cloudy;Overcast;Showers,93,1
+50,Cloudy;Fog;Haze,81,1
+60,Overcast,85,1
+91,Not totally Cloudy;Partly Cloudy,64,1
+104,Clear;Not totally Sunny,80,1
+112,Sunny;Clear,53,1
+130,Cloudy,88,1
+132,Cloudy,88,1
+145,Cloudy,81,1
+149,Rain;Light Rain,93,1
+154,Cloudy;Overcast;Showers,93,1
+156,Rain;Light Rain,100,1
+167,Cloudy;Fog;Fog And Mist;Light Rain;Light Rain Mist,100,1
+174,Mist/Fog,93,1
+205,Fog;Overcast;Showers;Mist,93,1
+209,Fog;Overcast;Rain,93,1
+251,Mist/Fog,86,1
+254,Mist/Fog,86,1
+257,Overcast with Haze,80,1
+259,Cloudy,76,1
+273,Rain;Light Rain,87,1
+275,Rain,93,1
+280,Rain;Light Rain,100,1
+302,Overcast,80,1
+314,Mist/Light Rain Fog,93,1
+315,Mist/Light Rain Fog,90,1
+324,Mostly Cloudy;Fair;Clean,43,1
+9584,Mist/Fog,85,1

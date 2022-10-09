@@ -4,7 +4,7 @@ import random
 import proprocess
 import time
 
-all_num = 95
+all_num = 10014
 # hyper parameters setting
 a_e, b_e, u_b, o_b, g_c, l, p, c = 10, 10, 0, 10, -10, 0.9, 0.3, 0.01
 o = [0.1 for i in range(all_num)]
@@ -14,12 +14,12 @@ bv = [0 for i in range(all_num)]
 o = [0.1 for i in range(all_num)]
 bv = [0 for i in range(all_num)]
 #bv = [int(np.random.normal(loc=0, scale=10, size=1)) for i in range(5499)]
-attribute_index = 4
-source_index = 1
-object_index = 0
-source_num = 5
-object_num = 20
-truth_index = 2
+attribute_index = 3
+source_index = 0
+object_index = 1
+source_num = 15
+object_num = 1000
+truth_index = 1
 source = []
 object = []
 object2 = []
@@ -121,6 +121,8 @@ def sample_tv(tv):
 def calculate_distance(A, tv, file, flag):
     if flag == 0:
         row_num = 0
+        print(str(file))
+        exit(2)
         with open(str(file), 'r', encoding='utf-8') as data:
             reader = csv.reader(data)
             for row in reader:
@@ -146,7 +148,7 @@ def calculate_distance(A, tv, file, flag):
             if object[i] != object[i - 1]:
                 k += 1
                 inter[object[i]] = k
-        f = open("tv.csv", 'w', newline="")
+        f = open(r"E:\GitHub\KRAUSTD\IATD\tv.csv", 'w', newline="")
         csv_writer = csv.writer(f)
         for row in range(len(tv)):
             csv_writer.writerow([tv[row]])
@@ -355,18 +357,19 @@ def top_k():
     for i in range(1, len(object)):
         if j != int(object[i]):
             j = int(object[i])
+            k += 1
             if k != -1 and attribute[i] != '':
                 if attribute[i] not in gama[k]:
                     gama[k][attribute[i]] = 1
                 else:
                     gama[k][attribute[i]] += 1
-            k += 1
         else:
             if attribute[i] != '':
                 if attribute[i] not in gama[k]:
                     gama[k][attribute[i]] = 1
                 else:
                     gama[k][attribute[i]] += 1
+        print(k)
     print("gama:", gama)
     for i in range(len(gama)):
         gama[i] = sorted(gama[i].items(), key=lambda x:x[1], reverse=True)
@@ -378,6 +381,7 @@ def top_k():
             if j < 1:
                 temp.append(key)
             j += 1
+        print(i, gama[i], len(object))
         start.append(random.choice(temp))
     return start
 
@@ -385,10 +389,10 @@ def top_k():
 if __name__ == '__main__':
     start = time.time()
     file_to_read = "E:\GitHub\KRAUSTD\CTD\log\Tri\IATD\sourceList 0.2_0.196_.txt"
-    f = open("1.txt", 'r')
+    f = open(r"E:\GitHub\KRAUSTD\IATD\1.txt", 'r')
     flag_a = int(f.read()[-1])
     # read data
-    with open("monitor_original.csv", 'r', encoding='utf-8') as data:
+    with open("E:\GitHub\KRAUSTD\IATD\weather_original_sam.csv", 'r', encoding='utf-8') as data:
         reader = csv.reader(data)
         index = 0
         for row in reader:
@@ -460,19 +464,19 @@ if __name__ == '__main__':
             tv[i] = 0
     print("tv(final)=", tv)
     print("name:", name)
-    f = open(name+".csv", 'w', newline="")
+    f = open("E:\GitHub\KRAUSTD\IATD\\" + name + ".csv", 'w', newline="")
     csv_writer = csv.writer(f)
     for row in range(len(out)):
         csv_writer.writerow(out[row])
     f.close()
-    proprocess.process(name + ".csv")
+    proprocess.process("E:\GitHub\KRAUSTD\IATD\\" + name + ".csv")
 
     end = time.time()
     print("time for IATD:", end - start)
 
 
     truth = []
-    with open("monitor_truth.csv", 'r', encoding='utf-8') as data:
+    with open("E:\GitHub\KRAUSTD\IATD\weather_truth_sam.csv", 'r', encoding='utf-8') as data:
         reader = csv.reader(data)
         index = 0
         for row in reader:

@@ -1,0 +1,18 @@
+DA过程的CTD时间 : 21:20:40 至 21:20:47
+原始数据集（对应第二个断点）CTD时间 : 21:20:47 至 21:23:17
+遗传算法代数1
+error rmse : 285.3982377035323
+error rate : 0.134
+数值类型rmse: 2.224607965526943
+游走长度为 : 33
+Attr 正态均值 : 4
+Attr 正态标准差 : 6
+Value 正态均值 : 6
+Value 正态标准差 : 7
+Tuple 正态均值 : 6
+Tuple 正态标准差 : 7
+drop Source ? (0 false, 1 true) : 0
+drop Sample ? (0 false, 1 true) : 0
+using model : 1
+embedding dim : 135
+windowSize : 4

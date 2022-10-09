@@ -1,61 +1,1531 @@
 1
-source_0&Philips_Electronics&iiyama_North_America:0.5310644622726917
-source_0&iiyama_North_America&Philips_Electronics:0.6264939210115573
-source_0&Philips_Electronics&Hannspree:0.7116536667442723
-source_0&Hannspree&Philips_Electronics:0.649183481808898
-source_0&Philips_Electronics&Asus:0.40983795997107997
-source_0&Asus&Philips_Electronics:0.39842035259234554
-source_0&iiyama_North_America&Hannspree:0.8655107205073628
-source_0&Hannspree&iiyama_North_America:0.6692703726995666
-source_0&iiyama_North_America&Asus:0.3840992452216052
-source_0&Asus&iiyama_North_America:0.31652146496612976
-source_0&Hannspree&Asus:0.4600434163593324
-source_0&Asus&Hannspree:0.4902633007291797
-source_1&Philips_Electronics&iiyama_North_America:0.6594690078922755
-source_1&iiyama_North_America&Philips_Electronics:0.6268090377630426
-source_1&Philips_Electronics&Hannspree:0.8844678698444516
-source_1&Hannspree&Philips_Electronics:0.7791463036808525
-source_1&Philips_Electronics&Asus:0.6084075104949733
-source_1&Asus&Philips_Electronics:0.5538235922235034
-source_1&iiyama_North_America&Hannspree:0.8095516972753496
-source_1&Hannspree&iiyama_North_America:0.7503099091796065
-source_1&iiyama_North_America&Asus:0.382572910916961
-source_1&Asus&iiyama_North_America:0.36639559333121313
-source_1&Hannspree&Asus:0.5973406524559084
-source_1&Asus&Hannspree:0.6172512865681781
-source_2&Philips_Electronics&iiyama_North_America:0.6097189286042184
-source_2&iiyama_North_America&Philips_Electronics:0.6695813554071189
-source_2&Philips_Electronics&Hannspree:0.8023577823138826
-source_2&Hannspree&Philips_Electronics:0.7309348657934246
-source_2&Philips_Electronics&Asus:0.536983722708337
-source_2&Asus&Philips_Electronics:0.5372602447518963
-source_2&iiyama_North_America&Hannspree:0.8830857638975605
-source_2&Hannspree&iiyama_North_America:0.7325542938410148
-source_2&iiyama_North_America&Asus:0.45971370573591286
-source_2&Asus&iiyama_North_America:0.41882959486638843
-source_2&Hannspree&Asus:0.5676600770923371
-source_2&Asus&Hannspree:0.6234495661436948
-source_3&Philips_Electronics&iiyama_North_America:0.6104215914424983
-source_3&iiyama_North_America&Philips_Electronics:0.6260681213228148
-source_3&Philips_Electronics&Hannspree:0.8259646529072658
-source_3&Hannspree&Philips_Electronics:0.6793432464631435
-source_3&Philips_Electronics&Asus:0.5508498672921435
-source_3&Asus&Philips_Electronics:0.5313756308382145
-source_3&iiyama_North_America&Hannspree:0.8313672608955367
-source_3&Hannspree&iiyama_North_America:0.6666977884534793
-source_3&iiyama_North_America&Asus:0.4023011781034828
-source_3&Asus&iiyama_North_America:0.3783798363408246
-source_3&Hannspree&Asus:0.5048895118836487
-source_3&Asus&Hannspree:0.5921570897816061
-source_4&Philips_Electronics&iiyama_North_America:0.6200078924325234
-source_4&iiyama_North_America&Philips_Electronics:0.6264030874186265
-source_4&Philips_Electronics&Hannspree:0.8359620570220362
-source_4&Hannspree&Philips_Electronics:0.7317058739723755
-source_4&Philips_Electronics&Asus:0.5515855432987339
-source_4&Asus&Philips_Electronics:0.5089057933555073
-source_4&iiyama_North_America&Hannspree:0.8248987672254002
-source_4&Hannspree&iiyama_North_America:0.7146509220664872
-source_4&iiyama_North_America&Asus:0.3828189598342637
-source_4&Asus&iiyama_North_America:0.34959184001506366
-source_4&Hannspree&Asus:0.5458957689858097
-source_4&Asus&Hannspree:0.5754190988927247
+source_0&Chicago&Dallas:0.4621171572600098
+source_0&Dallas&Chicago:0.4621171572600098
+source_0&Chicago&El Paso:0.4621171572600098
+source_0&El Paso&Chicago:0.4621171572600098
+source_0&Chicago&Fort Worth:0.4621171572600098
+source_0&Fort Worth&Chicago:0.4621171572600098
+source_0&Chicago&Houston:0.4621171572600098
+source_0&Houston&Chicago:0.4621171572600098
+source_0&Chicago&Indianapolis:0.4621171572600098
+source_0&Indianapolis&Chicago:0.4621171572600098
+source_0&Chicago&Jacksonville:0.4621171572600098
+source_0&Jacksonville&Chicago:0.4621171572600098
+source_0&Chicago&Las Vegas:0.4621171572600098
+source_0&Las Vegas&Chicago:0.4621171572600098
+source_0&Chicago&Los Angeles:0.4621171572600098
+source_0&Los Angeles&Chicago:0.4621171572600098
+source_0&Chicago&Milwaukee:0.4621171572600098
+source_0&Milwaukee&Chicago:0.4621171572600098
+source_0&Chicago&Nashville:0.4621171572600098
+source_0&Nashville&Chicago:0.4621171572600098
+source_0&Chicago&Philadelphia:0.4621171572600098
+source_0&Philadelphia&Chicago:0.4621171572600098
+source_0&Chicago&Phoenix:0.4621171572600098
+source_0&Phoenix&Chicago:0.4621171572600098
+source_0&Chicago&Portland:0.4621171572600098
+source_0&Portland&Chicago:0.4621171572600098
+source_0&Chicago&San Jose:0.4621171572600098
+source_0&San Jose&Chicago:0.4621171572600098
+source_0&Chicago&San Diego:0.4621171572600098
+source_0&San Diego&Chicago:0.4621171572600098
+source_0&Chicago&Seattle:0.4621171572600098
+source_0&Seattle&Chicago:0.4621171572600098
+source_0&Chicago&Washington:0.4621171572600098
+source_0&Washington&Chicago:0.4621171572600098
+source_0&Dallas&El Paso:0.4621171572600098
+source_0&El Paso&Dallas:0.4621171572600098
+source_0&Dallas&Fort Worth:0.4621171572600098
+source_0&Fort Worth&Dallas:0.4621171572600098
+source_0&Dallas&Houston:0.4621171572600098
+source_0&Houston&Dallas:0.4621171572600098
+source_0&Dallas&Indianapolis:0.4621171572600098
+source_0&Indianapolis&Dallas:0.4621171572600098
+source_0&Dallas&Jacksonville:0.4621171572600098
+source_0&Jacksonville&Dallas:0.4621171572600098
+source_0&Dallas&Las Vegas:0.4621171572600098
+source_0&Las Vegas&Dallas:0.4621171572600098
+source_0&Dallas&Los Angeles:0.4621171572600098
+source_0&Los Angeles&Dallas:0.4621171572600098
+source_0&Dallas&Milwaukee:0.4621171572600098
+source_0&Milwaukee&Dallas:0.4621171572600098
+source_0&Dallas&Nashville:0.4621171572600098
+source_0&Nashville&Dallas:0.4621171572600098
+source_0&Dallas&Philadelphia:0.4621171572600098
+source_0&Philadelphia&Dallas:0.4621171572600098
+source_0&Dallas&Phoenix:0.4621171572600098
+source_0&Phoenix&Dallas:0.4621171572600098
+source_0&Dallas&Portland:0.4621171572600098
+source_0&Portland&Dallas:0.4621171572600098
+source_0&Dallas&San Jose:0.4621171572600098
+source_0&San Jose&Dallas:0.4621171572600098
+source_0&Dallas&San Diego:0.4621171572600098
+source_0&San Diego&Dallas:0.4621171572600098
+source_0&Dallas&Seattle:0.4621171572600098
+source_0&Seattle&Dallas:0.4621171572600098
+source_0&Dallas&Washington:0.4621171572600098
+source_0&Washington&Dallas:0.4621171572600098
+source_0&El Paso&Fort Worth:0.4621171572600098
+source_0&Fort Worth&El Paso:0.4621171572600098
+source_0&El Paso&Houston:0.4621171572600098
+source_0&Houston&El Paso:0.4621171572600098
+source_0&El Paso&Indianapolis:0.4621171572600098
+source_0&Indianapolis&El Paso:0.4621171572600098
+source_0&El Paso&Jacksonville:0.4621171572600098
+source_0&Jacksonville&El Paso:0.4621171572600098
+source_0&El Paso&Las Vegas:0.4621171572600098
+source_0&Las Vegas&El Paso:0.4621171572600098
+source_0&El Paso&Los Angeles:0.4621171572600098
+source_0&Los Angeles&El Paso:0.4621171572600098
+source_0&El Paso&Milwaukee:0.4621171572600098
+source_0&Milwaukee&El Paso:0.4621171572600098
+source_0&El Paso&Nashville:0.4621171572600098
+source_0&Nashville&El Paso:0.4621171572600098
+source_0&El Paso&Philadelphia:0.4621171572600098
+source_0&Philadelphia&El Paso:0.4621171572600098
+source_0&El Paso&Phoenix:0.4621171572600098
+source_0&Phoenix&El Paso:0.4621171572600098
+source_0&El Paso&Portland:0.4621171572600098
+source_0&Portland&El Paso:0.4621171572600098
+source_0&El Paso&San Jose:0.4621171572600098
+source_0&San Jose&El Paso:0.4621171572600098
+source_0&El Paso&San Diego:0.4621171572600098
+source_0&San Diego&El Paso:0.4621171572600098
+source_0&El Paso&Seattle:0.4621171572600098
+source_0&Seattle&El Paso:0.4621171572600098
+source_0&El Paso&Washington:0.4621171572600098
+source_0&Washington&El Paso:0.4621171572600098
+source_0&Fort Worth&Houston:0.4621171572600098
+source_0&Houston&Fort Worth:0.4621171572600098
+source_0&Fort Worth&Indianapolis:0.4621171572600098
+source_0&Indianapolis&Fort Worth:0.4621171572600098
+source_0&Fort Worth&Jacksonville:0.4621171572600098
+source_0&Jacksonville&Fort Worth:0.4621171572600098
+source_0&Fort Worth&Las Vegas:0.4621171572600098
+source_0&Las Vegas&Fort Worth:0.4621171572600098
+source_0&Fort Worth&Los Angeles:0.4621171572600098
+source_0&Los Angeles&Fort Worth:0.4621171572600098
+source_0&Fort Worth&Milwaukee:0.4621171572600098
+source_0&Milwaukee&Fort Worth:0.4621171572600098
+source_0&Fort Worth&Nashville:0.4621171572600098
+source_0&Nashville&Fort Worth:0.4621171572600098
+source_0&Fort Worth&Philadelphia:0.4621171572600098
+source_0&Philadelphia&Fort Worth:0.4621171572600098
+source_0&Fort Worth&Phoenix:0.4621171572600098
+source_0&Phoenix&Fort Worth:0.4621171572600098
+source_0&Fort Worth&Portland:0.4621171572600098
+source_0&Portland&Fort Worth:0.4621171572600098
+source_0&Fort Worth&San Jose:0.4621171572600098
+source_0&San Jose&Fort Worth:0.4621171572600098
+source_0&Fort Worth&San Diego:0.4621171572600098
+source_0&San Diego&Fort Worth:0.4621171572600098
+source_0&Fort Worth&Seattle:0.4621171572600098
+source_0&Seattle&Fort Worth:0.4621171572600098
+source_0&Fort Worth&Washington:0.4621171572600098
+source_0&Washington&Fort Worth:0.4621171572600098
+source_0&Houston&Indianapolis:0.4621171572600098
+source_0&Indianapolis&Houston:0.4621171572600098
+source_0&Houston&Jacksonville:0.4621171572600098
+source_0&Jacksonville&Houston:0.4621171572600098
+source_0&Houston&Las Vegas:0.4621171572600098
+source_0&Las Vegas&Houston:0.4621171572600098
+source_0&Houston&Los Angeles:0.4621171572600098
+source_0&Los Angeles&Houston:0.4621171572600098
+source_0&Houston&Milwaukee:0.4621171572600098
+source_0&Milwaukee&Houston:0.4621171572600098
+source_0&Houston&Nashville:0.4621171572600098
+source_0&Nashville&Houston:0.4621171572600098
+source_0&Houston&Philadelphia:0.4621171572600098
+source_0&Philadelphia&Houston:0.4621171572600098
+source_0&Houston&Phoenix:0.4621171572600098
+source_0&Phoenix&Houston:0.4621171572600098
+source_0&Houston&Portland:0.4621171572600098
+source_0&Portland&Houston:0.4621171572600098
+source_0&Houston&San Jose:0.4621171572600098
+source_0&San Jose&Houston:0.4621171572600098
+source_0&Houston&San Diego:0.4621171572600098
+source_0&San Diego&Houston:0.4621171572600098
+source_0&Houston&Seattle:0.4621171572600098
+source_0&Seattle&Houston:0.4621171572600098
+source_0&Houston&Washington:0.4621171572600098
+source_0&Washington&Houston:0.4621171572600098
+source_0&Indianapolis&Jacksonville:0.4621171572600098
+source_0&Jacksonville&Indianapolis:0.4621171572600098
+source_0&Indianapolis&Las Vegas:0.4621171572600098
+source_0&Las Vegas&Indianapolis:0.4621171572600098
+source_0&Indianapolis&Los Angeles:0.4621171572600098
+source_0&Los Angeles&Indianapolis:0.4621171572600098
+source_0&Indianapolis&Milwaukee:0.4621171572600098
+source_0&Milwaukee&Indianapolis:0.4621171572600098
+source_0&Indianapolis&Nashville:0.4621171572600098
+source_0&Nashville&Indianapolis:0.4621171572600098
+source_0&Indianapolis&Philadelphia:0.4621171572600098
+source_0&Philadelphia&Indianapolis:0.4621171572600098
+source_0&Indianapolis&Phoenix:0.4621171572600098
+source_0&Phoenix&Indianapolis:0.4621171572600098
+source_0&Indianapolis&Portland:0.4621171572600098
+source_0&Portland&Indianapolis:0.4621171572600098
+source_0&Indianapolis&San Jose:0.4621171572600098
+source_0&San Jose&Indianapolis:0.4621171572600098
+source_0&Indianapolis&San Diego:0.4621171572600098
+source_0&San Diego&Indianapolis:0.4621171572600098
+source_0&Indianapolis&Seattle:0.4621171572600098
+source_0&Seattle&Indianapolis:0.4621171572600098
+source_0&Indianapolis&Washington:0.4621171572600098
+source_0&Washington&Indianapolis:0.4621171572600098
+source_0&Jacksonville&Las Vegas:0.4621171572600098
+source_0&Las Vegas&Jacksonville:0.4621171572600098
+source_0&Jacksonville&Los Angeles:0.4621171572600098
+source_0&Los Angeles&Jacksonville:0.4621171572600098
+source_0&Jacksonville&Milwaukee:0.4621171572600098
+source_0&Milwaukee&Jacksonville:0.4621171572600098
+source_0&Jacksonville&Nashville:0.4621171572600098
+source_0&Nashville&Jacksonville:0.4621171572600098
+source_0&Jacksonville&Philadelphia:0.4621171572600098
+source_0&Philadelphia&Jacksonville:0.4621171572600098
+source_0&Jacksonville&Phoenix:0.4621171572600098
+source_0&Phoenix&Jacksonville:0.4621171572600098
+source_0&Jacksonville&Portland:0.4621171572600098
+source_0&Portland&Jacksonville:0.4621171572600098
+source_0&Jacksonville&San Jose:0.4621171572600098
+source_0&San Jose&Jacksonville:0.4621171572600098
+source_0&Jacksonville&San Diego:0.4621171572600098
+source_0&San Diego&Jacksonville:0.4621171572600098
+source_0&Jacksonville&Seattle:0.4621171572600098
+source_0&Seattle&Jacksonville:0.4621171572600098
+source_0&Jacksonville&Washington:0.4621171572600098
+source_0&Washington&Jacksonville:0.4621171572600098
+source_0&Las Vegas&Los Angeles:0.4621171572600098
+source_0&Los Angeles&Las Vegas:0.4621171572600098
+source_0&Las Vegas&Milwaukee:0.4621171572600098
+source_0&Milwaukee&Las Vegas:0.4621171572600098
+source_0&Las Vegas&Nashville:0.4621171572600098
+source_0&Nashville&Las Vegas:0.4621171572600098
+source_0&Las Vegas&Philadelphia:0.4621171572600098
+source_0&Philadelphia&Las Vegas:0.4621171572600098
+source_0&Las Vegas&Phoenix:0.4621171572600098
+source_0&Phoenix&Las Vegas:0.4621171572600098
+source_0&Las Vegas&Portland:0.4621171572600098
+source_0&Portland&Las Vegas:0.4621171572600098
+source_0&Las Vegas&San Jose:0.4621171572600098
+source_0&San Jose&Las Vegas:0.4621171572600098
+source_0&Las Vegas&San Diego:0.4621171572600098
+source_0&San Diego&Las Vegas:0.4621171572600098
+source_0&Las Vegas&Seattle:0.4621171572600098
+source_0&Seattle&Las Vegas:0.4621171572600098
+source_0&Las Vegas&Washington:0.4621171572600098
+source_0&Washington&Las Vegas:0.4621171572600098
+source_0&Los Angeles&Milwaukee:0.4621171572600098
+source_0&Milwaukee&Los Angeles:0.4621171572600098
+source_0&Los Angeles&Nashville:0.4621171572600098
+source_0&Nashville&Los Angeles:0.4621171572600098
+source_0&Los Angeles&Philadelphia:0.4621171572600098
+source_0&Philadelphia&Los Angeles:0.4621171572600098
+source_0&Los Angeles&Phoenix:0.4621171572600098
+source_0&Phoenix&Los Angeles:0.4621171572600098
+source_0&Los Angeles&Portland:0.4621171572600098
+source_0&Portland&Los Angeles:0.4621171572600098
+source_0&Los Angeles&San Jose:0.4621171572600098
+source_0&San Jose&Los Angeles:0.4621171572600098
+source_0&Los Angeles&San Diego:0.4621171572600098
+source_0&San Diego&Los Angeles:0.4621171572600098
+source_0&Los Angeles&Seattle:0.4621171572600098
+source_0&Seattle&Los Angeles:0.4621171572600098
+source_0&Los Angeles&Washington:0.4621171572600098
+source_0&Washington&Los Angeles:0.4621171572600098
+source_0&Milwaukee&Nashville:0.4621171572600098
+source_0&Nashville&Milwaukee:0.4621171572600098
+source_0&Milwaukee&Philadelphia:0.4621171572600098
+source_0&Philadelphia&Milwaukee:0.4621171572600098
+source_0&Milwaukee&Phoenix:0.4621171572600098
+source_0&Phoenix&Milwaukee:0.4621171572600098
+source_0&Milwaukee&Portland:0.4621171572600098
+source_0&Portland&Milwaukee:0.4621171572600098
+source_0&Milwaukee&San Jose:0.4621171572600098
+source_0&San Jose&Milwaukee:0.4621171572600098
+source_0&Milwaukee&San Diego:0.4621171572600098
+source_0&San Diego&Milwaukee:0.4621171572600098
+source_0&Milwaukee&Seattle:0.4621171572600098
+source_0&Seattle&Milwaukee:0.4621171572600098
+source_0&Milwaukee&Washington:0.4621171572600098
+source_0&Washington&Milwaukee:0.4621171572600098
+source_0&Nashville&Philadelphia:0.4621171572600098
+source_0&Philadelphia&Nashville:0.4621171572600098
+source_0&Nashville&Phoenix:0.4621171572600098
+source_0&Phoenix&Nashville:0.4621171572600098
+source_0&Nashville&Portland:0.4621171572600098
+source_0&Portland&Nashville:0.4621171572600098
+source_0&Nashville&San Jose:0.4621171572600098
+source_0&San Jose&Nashville:0.4621171572600098
+source_0&Nashville&San Diego:0.4621171572600098
+source_0&San Diego&Nashville:0.4621171572600098
+source_0&Nashville&Seattle:0.4621171572600098
+source_0&Seattle&Nashville:0.4621171572600098
+source_0&Nashville&Washington:0.4621171572600098
+source_0&Washington&Nashville:0.4621171572600098
+source_0&Philadelphia&Phoenix:0.4621171572600098
+source_0&Phoenix&Philadelphia:0.4621171572600098
+source_0&Philadelphia&Portland:0.4621171572600098
+source_0&Portland&Philadelphia:0.4621171572600098
+source_0&Philadelphia&San Jose:0.4621171572600098
+source_0&San Jose&Philadelphia:0.4621171572600098
+source_0&Philadelphia&San Diego:0.4621171572600098
+source_0&San Diego&Philadelphia:0.4621171572600098
+source_0&Philadelphia&Seattle:0.4621171572600098
+source_0&Seattle&Philadelphia:0.4621171572600098
+source_0&Philadelphia&Washington:0.4621171572600098
+source_0&Washington&Philadelphia:0.4621171572600098
+source_0&Phoenix&Portland:0.4621171572600098
+source_0&Portland&Phoenix:0.4621171572600098
+source_0&Phoenix&San Jose:0.4621171572600098
+source_0&San Jose&Phoenix:0.4621171572600098
+source_0&Phoenix&San Diego:0.4621171572600098
+source_0&San Diego&Phoenix:0.4621171572600098
+source_0&Phoenix&Seattle:0.4621171572600098
+source_0&Seattle&Phoenix:0.4621171572600098
+source_0&Phoenix&Washington:0.4621171572600098
+source_0&Washington&Phoenix:0.4621171572600098
+source_0&Portland&San Jose:0.4621171572600098
+source_0&San Jose&Portland:0.4621171572600098
+source_0&Portland&San Diego:0.4621171572600098
+source_0&San Diego&Portland:0.4621171572600098
+source_0&Portland&Seattle:0.4621171572600098
+source_0&Seattle&Portland:0.4621171572600098
+source_0&Portland&Washington:0.4621171572600098
+source_0&Washington&Portland:0.4621171572600098
+source_0&San Jose&San Diego:0.4621171572600098
+source_0&San Diego&San Jose:0.4621171572600098
+source_0&San Jose&Seattle:0.4621171572600098
+source_0&Seattle&San Jose:0.4621171572600098
+source_0&San Jose&Washington:0.4621171572600098
+source_0&Washington&San Jose:0.4621171572600098
+source_0&San Diego&Seattle:0.4621171572600098
+source_0&Seattle&San Diego:0.4621171572600098
+source_0&San Diego&Washington:0.4621171572600098
+source_0&Washington&San Diego:0.4621171572600098
+source_0&Seattle&Washington:0.4621171572600098
+source_0&Washington&Seattle:0.4621171572600098
+source_1&Chicago&Dallas:0.4621171572600098
+source_1&Dallas&Chicago:0.4621171572600098
+source_1&Chicago&El Paso:0.4621171572600098
+source_1&El Paso&Chicago:0.4621171572600098
+source_1&Chicago&Fort Worth:0.4621171572600098
+source_1&Fort Worth&Chicago:0.4621171572600098
+source_1&Chicago&Houston:0.4621171572600098
+source_1&Houston&Chicago:0.4621171572600098
+source_1&Chicago&Indianapolis:0.4621171572600098
+source_1&Indianapolis&Chicago:0.4621171572600098
+source_1&Chicago&Jacksonville:0.4621171572600098
+source_1&Jacksonville&Chicago:0.4621171572600098
+source_1&Chicago&Las Vegas:0.4621171572600098
+source_1&Las Vegas&Chicago:0.4621171572600098
+source_1&Chicago&Los Angeles:0.4621171572600098
+source_1&Los Angeles&Chicago:0.4621171572600098
+source_1&Chicago&Milwaukee:0.4621171572600098
+source_1&Milwaukee&Chicago:0.4621171572600098
+source_1&Chicago&Nashville:0.4621171572600098
+source_1&Nashville&Chicago:0.4621171572600098
+source_1&Chicago&Philadelphia:0.4621171572600098
+source_1&Philadelphia&Chicago:0.4621171572600098
+source_1&Chicago&Phoenix:0.4621171572600098
+source_1&Phoenix&Chicago:0.4621171572600098
+source_1&Chicago&Portland:0.4621171572600098
+source_1&Portland&Chicago:0.4621171572600098
+source_1&Chicago&San Jose:0.4621171572600098
+source_1&San Jose&Chicago:0.4621171572600098
+source_1&Chicago&San Diego:0.4621171572600098
+source_1&San Diego&Chicago:0.4621171572600098
+source_1&Chicago&Seattle:0.4621171572600098
+source_1&Seattle&Chicago:0.4621171572600098
+source_1&Chicago&Washington:0.4621171572600098
+source_1&Washington&Chicago:0.4621171572600098
+source_1&Dallas&El Paso:0.4621171572600098
+source_1&El Paso&Dallas:0.4621171572600098
+source_1&Dallas&Fort Worth:0.4621171572600098
+source_1&Fort Worth&Dallas:0.4621171572600098
+source_1&Dallas&Houston:0.4621171572600098
+source_1&Houston&Dallas:0.4621171572600098
+source_1&Dallas&Indianapolis:0.4621171572600098
+source_1&Indianapolis&Dallas:0.4621171572600098
+source_1&Dallas&Jacksonville:0.4621171572600098
+source_1&Jacksonville&Dallas:0.4621171572600098
+source_1&Dallas&Las Vegas:0.4621171572600098
+source_1&Las Vegas&Dallas:0.4621171572600098
+source_1&Dallas&Los Angeles:0.4621171572600098
+source_1&Los Angeles&Dallas:0.4621171572600098
+source_1&Dallas&Milwaukee:0.4621171572600098
+source_1&Milwaukee&Dallas:0.4621171572600098
+source_1&Dallas&Nashville:0.4621171572600098
+source_1&Nashville&Dallas:0.4621171572600098
+source_1&Dallas&Philadelphia:0.4621171572600098
+source_1&Philadelphia&Dallas:0.4621171572600098
+source_1&Dallas&Phoenix:0.4621171572600098
+source_1&Phoenix&Dallas:0.4621171572600098
+source_1&Dallas&Portland:0.4621171572600098
+source_1&Portland&Dallas:0.4621171572600098
+source_1&Dallas&San Jose:0.4621171572600098
+source_1&San Jose&Dallas:0.4621171572600098
+source_1&Dallas&San Diego:0.4621171572600098
+source_1&San Diego&Dallas:0.4621171572600098
+source_1&Dallas&Seattle:0.4621171572600098
+source_1&Seattle&Dallas:0.4621171572600098
+source_1&Dallas&Washington:0.4621171572600098
+source_1&Washington&Dallas:0.4621171572600098
+source_1&El Paso&Fort Worth:0.4621171572600098
+source_1&Fort Worth&El Paso:0.4621171572600098
+source_1&El Paso&Houston:0.4621171572600098
+source_1&Houston&El Paso:0.4621171572600098
+source_1&El Paso&Indianapolis:0.4621171572600098
+source_1&Indianapolis&El Paso:0.4621171572600098
+source_1&El Paso&Jacksonville:0.4621171572600098
+source_1&Jacksonville&El Paso:0.4621171572600098
+source_1&El Paso&Las Vegas:0.4621171572600098
+source_1&Las Vegas&El Paso:0.4621171572600098
+source_1&El Paso&Los Angeles:0.4621171572600098
+source_1&Los Angeles&El Paso:0.4621171572600098
+source_1&El Paso&Milwaukee:0.4621171572600098
+source_1&Milwaukee&El Paso:0.4621171572600098
+source_1&El Paso&Nashville:0.4621171572600098
+source_1&Nashville&El Paso:0.4621171572600098
+source_1&El Paso&Philadelphia:0.4621171572600098
+source_1&Philadelphia&El Paso:0.4621171572600098
+source_1&El Paso&Phoenix:0.4621171572600098
+source_1&Phoenix&El Paso:0.4621171572600098
+source_1&El Paso&Portland:0.4621171572600098
+source_1&Portland&El Paso:0.4621171572600098
+source_1&El Paso&San Jose:0.4621171572600098
+source_1&San Jose&El Paso:0.4621171572600098
+source_1&El Paso&San Diego:0.4621171572600098
+source_1&San Diego&El Paso:0.4621171572600098
+source_1&El Paso&Seattle:0.4621171572600098
+source_1&Seattle&El Paso:0.4621171572600098
+source_1&El Paso&Washington:0.4621171572600098
+source_1&Washington&El Paso:0.4621171572600098
+source_1&Fort Worth&Houston:0.4621171572600098
+source_1&Houston&Fort Worth:0.4621171572600098
+source_1&Fort Worth&Indianapolis:0.4621171572600098
+source_1&Indianapolis&Fort Worth:0.4621171572600098
+source_1&Fort Worth&Jacksonville:0.4621171572600098
+source_1&Jacksonville&Fort Worth:0.4621171572600098
+source_1&Fort Worth&Las Vegas:0.4621171572600098
+source_1&Las Vegas&Fort Worth:0.4621171572600098
+source_1&Fort Worth&Los Angeles:0.4621171572600098
+source_1&Los Angeles&Fort Worth:0.4621171572600098
+source_1&Fort Worth&Milwaukee:0.4621171572600098
+source_1&Milwaukee&Fort Worth:0.4621171572600098
+source_1&Fort Worth&Nashville:0.4621171572600098
+source_1&Nashville&Fort Worth:0.4621171572600098
+source_1&Fort Worth&Philadelphia:0.4621171572600098
+source_1&Philadelphia&Fort Worth:0.4621171572600098
+source_1&Fort Worth&Phoenix:0.4621171572600098
+source_1&Phoenix&Fort Worth:0.4621171572600098
+source_1&Fort Worth&Portland:0.4621171572600098
+source_1&Portland&Fort Worth:0.4621171572600098
+source_1&Fort Worth&San Jose:0.4621171572600098
+source_1&San Jose&Fort Worth:0.4621171572600098
+source_1&Fort Worth&San Diego:0.4621171572600098
+source_1&San Diego&Fort Worth:0.4621171572600098
+source_1&Fort Worth&Seattle:0.4621171572600098
+source_1&Seattle&Fort Worth:0.4621171572600098
+source_1&Fort Worth&Washington:0.4621171572600098
+source_1&Washington&Fort Worth:0.4621171572600098
+source_1&Houston&Indianapolis:0.4621171572600098
+source_1&Indianapolis&Houston:0.4621171572600098
+source_1&Houston&Jacksonville:0.4621171572600098
+source_1&Jacksonville&Houston:0.4621171572600098
+source_1&Houston&Las Vegas:0.4621171572600098
+source_1&Las Vegas&Houston:0.4621171572600098
+source_1&Houston&Los Angeles:0.4621171572600098
+source_1&Los Angeles&Houston:0.4621171572600098
+source_1&Houston&Milwaukee:0.4621171572600098
+source_1&Milwaukee&Houston:0.4621171572600098
+source_1&Houston&Nashville:0.4621171572600098
+source_1&Nashville&Houston:0.4621171572600098
+source_1&Houston&Philadelphia:0.4621171572600098
+source_1&Philadelphia&Houston:0.4621171572600098
+source_1&Houston&Phoenix:0.4621171572600098
+source_1&Phoenix&Houston:0.4621171572600098
+source_1&Houston&Portland:0.4621171572600098
+source_1&Portland&Houston:0.4621171572600098
+source_1&Houston&San Jose:0.4621171572600098
+source_1&San Jose&Houston:0.4621171572600098
+source_1&Houston&San Diego:0.4621171572600098
+source_1&San Diego&Houston:0.4621171572600098
+source_1&Houston&Seattle:0.4621171572600098
+source_1&Seattle&Houston:0.4621171572600098
+source_1&Houston&Washington:0.4621171572600098
+source_1&Washington&Houston:0.4621171572600098
+source_1&Indianapolis&Jacksonville:0.4621171572600098
+source_1&Jacksonville&Indianapolis:0.4621171572600098
+source_1&Indianapolis&Las Vegas:0.4621171572600098
+source_1&Las Vegas&Indianapolis:0.4621171572600098
+source_1&Indianapolis&Los Angeles:0.4621171572600098
+source_1&Los Angeles&Indianapolis:0.4621171572600098
+source_1&Indianapolis&Milwaukee:0.4621171572600098
+source_1&Milwaukee&Indianapolis:0.4621171572600098
+source_1&Indianapolis&Nashville:0.4621171572600098
+source_1&Nashville&Indianapolis:0.4621171572600098
+source_1&Indianapolis&Philadelphia:0.4621171572600098
+source_1&Philadelphia&Indianapolis:0.4621171572600098
+source_1&Indianapolis&Phoenix:0.4621171572600098
+source_1&Phoenix&Indianapolis:0.4621171572600098
+source_1&Indianapolis&Portland:0.4621171572600098
+source_1&Portland&Indianapolis:0.4621171572600098
+source_1&Indianapolis&San Jose:0.4621171572600098
+source_1&San Jose&Indianapolis:0.4621171572600098
+source_1&Indianapolis&San Diego:0.4621171572600098
+source_1&San Diego&Indianapolis:0.4621171572600098
+source_1&Indianapolis&Seattle:0.4621171572600098
+source_1&Seattle&Indianapolis:0.4621171572600098
+source_1&Indianapolis&Washington:0.4621171572600098
+source_1&Washington&Indianapolis:0.4621171572600098
+source_1&Jacksonville&Las Vegas:0.4621171572600098
+source_1&Las Vegas&Jacksonville:0.4621171572600098
+source_1&Jacksonville&Los Angeles:0.4621171572600098
+source_1&Los Angeles&Jacksonville:0.4621171572600098
+source_1&Jacksonville&Milwaukee:0.4621171572600098
+source_1&Milwaukee&Jacksonville:0.4621171572600098
+source_1&Jacksonville&Nashville:0.4621171572600098
+source_1&Nashville&Jacksonville:0.4621171572600098
+source_1&Jacksonville&Philadelphia:0.4621171572600098
+source_1&Philadelphia&Jacksonville:0.4621171572600098
+source_1&Jacksonville&Phoenix:0.4621171572600098
+source_1&Phoenix&Jacksonville:0.4621171572600098
+source_1&Jacksonville&Portland:0.4621171572600098
+source_1&Portland&Jacksonville:0.4621171572600098
+source_1&Jacksonville&San Jose:0.4621171572600098
+source_1&San Jose&Jacksonville:0.4621171572600098
+source_1&Jacksonville&San Diego:0.4621171572600098
+source_1&San Diego&Jacksonville:0.4621171572600098
+source_1&Jacksonville&Seattle:0.4621171572600098
+source_1&Seattle&Jacksonville:0.4621171572600098
+source_1&Jacksonville&Washington:0.4621171572600098
+source_1&Washington&Jacksonville:0.4621171572600098
+source_1&Las Vegas&Los Angeles:0.4621171572600098
+source_1&Los Angeles&Las Vegas:0.4621171572600098
+source_1&Las Vegas&Milwaukee:0.4621171572600098
+source_1&Milwaukee&Las Vegas:0.4621171572600098
+source_1&Las Vegas&Nashville:0.4621171572600098
+source_1&Nashville&Las Vegas:0.4621171572600098
+source_1&Las Vegas&Philadelphia:0.4621171572600098
+source_1&Philadelphia&Las Vegas:0.4621171572600098
+source_1&Las Vegas&Phoenix:0.4621171572600098
+source_1&Phoenix&Las Vegas:0.4621171572600098
+source_1&Las Vegas&Portland:0.4621171572600098
+source_1&Portland&Las Vegas:0.4621171572600098
+source_1&Las Vegas&San Jose:0.4621171572600098
+source_1&San Jose&Las Vegas:0.4621171572600098
+source_1&Las Vegas&San Diego:0.4621171572600098
+source_1&San Diego&Las Vegas:0.4621171572600098
+source_1&Las Vegas&Seattle:0.4621171572600098
+source_1&Seattle&Las Vegas:0.4621171572600098
+source_1&Las Vegas&Washington:0.4621171572600098
+source_1&Washington&Las Vegas:0.4621171572600098
+source_1&Los Angeles&Milwaukee:0.4621171572600098
+source_1&Milwaukee&Los Angeles:0.4621171572600098
+source_1&Los Angeles&Nashville:0.4621171572600098
+source_1&Nashville&Los Angeles:0.4621171572600098
+source_1&Los Angeles&Philadelphia:0.4621171572600098
+source_1&Philadelphia&Los Angeles:0.4621171572600098
+source_1&Los Angeles&Phoenix:0.4621171572600098
+source_1&Phoenix&Los Angeles:0.4621171572600098
+source_1&Los Angeles&Portland:0.4621171572600098
+source_1&Portland&Los Angeles:0.4621171572600098
+source_1&Los Angeles&San Jose:0.4621171572600098
+source_1&San Jose&Los Angeles:0.4621171572600098
+source_1&Los Angeles&San Diego:0.4621171572600098
+source_1&San Diego&Los Angeles:0.4621171572600098
+source_1&Los Angeles&Seattle:0.4621171572600098
+source_1&Seattle&Los Angeles:0.4621171572600098
+source_1&Los Angeles&Washington:0.4621171572600098
+source_1&Washington&Los Angeles:0.4621171572600098
+source_1&Milwaukee&Nashville:0.4621171572600098
+source_1&Nashville&Milwaukee:0.4621171572600098
+source_1&Milwaukee&Philadelphia:0.4621171572600098
+source_1&Philadelphia&Milwaukee:0.4621171572600098
+source_1&Milwaukee&Phoenix:0.4621171572600098
+source_1&Phoenix&Milwaukee:0.4621171572600098
+source_1&Milwaukee&Portland:0.4621171572600098
+source_1&Portland&Milwaukee:0.4621171572600098
+source_1&Milwaukee&San Jose:0.4621171572600098
+source_1&San Jose&Milwaukee:0.4621171572600098
+source_1&Milwaukee&San Diego:0.4621171572600098
+source_1&San Diego&Milwaukee:0.4621171572600098
+source_1&Milwaukee&Seattle:0.4621171572600098
+source_1&Seattle&Milwaukee:0.4621171572600098
+source_1&Milwaukee&Washington:0.4621171572600098
+source_1&Washington&Milwaukee:0.4621171572600098
+source_1&Nashville&Philadelphia:0.4621171572600098
+source_1&Philadelphia&Nashville:0.4621171572600098
+source_1&Nashville&Phoenix:0.4621171572600098
+source_1&Phoenix&Nashville:0.4621171572600098
+source_1&Nashville&Portland:0.4621171572600098
+source_1&Portland&Nashville:0.4621171572600098
+source_1&Nashville&San Jose:0.4621171572600098
+source_1&San Jose&Nashville:0.4621171572600098
+source_1&Nashville&San Diego:0.4621171572600098
+source_1&San Diego&Nashville:0.4621171572600098
+source_1&Nashville&Seattle:0.4621171572600098
+source_1&Seattle&Nashville:0.4621171572600098
+source_1&Nashville&Washington:0.4621171572600098
+source_1&Washington&Nashville:0.4621171572600098
+source_1&Philadelphia&Phoenix:0.4621171572600098
+source_1&Phoenix&Philadelphia:0.4621171572600098
+source_1&Philadelphia&Portland:0.4621171572600098
+source_1&Portland&Philadelphia:0.4621171572600098
+source_1&Philadelphia&San Jose:0.4621171572600098
+source_1&San Jose&Philadelphia:0.4621171572600098
+source_1&Philadelphia&San Diego:0.4621171572600098
+source_1&San Diego&Philadelphia:0.4621171572600098
+source_1&Philadelphia&Seattle:0.4621171572600098
+source_1&Seattle&Philadelphia:0.4621171572600098
+source_1&Philadelphia&Washington:0.4621171572600098
+source_1&Washington&Philadelphia:0.4621171572600098
+source_1&Phoenix&Portland:0.4621171572600098
+source_1&Portland&Phoenix:0.4621171572600098
+source_1&Phoenix&San Jose:0.4621171572600098
+source_1&San Jose&Phoenix:0.4621171572600098
+source_1&Phoenix&San Diego:0.4621171572600098
+source_1&San Diego&Phoenix:0.4621171572600098
+source_1&Phoenix&Seattle:0.4621171572600098
+source_1&Seattle&Phoenix:0.4621171572600098
+source_1&Phoenix&Washington:0.4621171572600098
+source_1&Washington&Phoenix:0.4621171572600098
+source_1&Portland&San Jose:0.4621171572600098
+source_1&San Jose&Portland:0.4621171572600098
+source_1&Portland&San Diego:0.4621171572600098
+source_1&San Diego&Portland:0.4621171572600098
+source_1&Portland&Seattle:0.4621171572600098
+source_1&Seattle&Portland:0.4621171572600098
+source_1&Portland&Washington:0.4621171572600098
+source_1&Washington&Portland:0.4621171572600098
+source_1&San Jose&San Diego:0.4621171572600098
+source_1&San Diego&San Jose:0.4621171572600098
+source_1&San Jose&Seattle:0.4621171572600098
+source_1&Seattle&San Jose:0.4621171572600098
+source_1&San Jose&Washington:0.4621171572600098
+source_1&Washington&San Jose:0.4621171572600098
+source_1&San Diego&Seattle:0.4621171572600098
+source_1&Seattle&San Diego:0.4621171572600098
+source_1&San Diego&Washington:0.4621171572600098
+source_1&Washington&San Diego:0.4621171572600098
+source_1&Seattle&Washington:0.4621171572600098
+source_1&Washington&Seattle:0.4621171572600098
+source_2&Chicago&Dallas:0.4621171572600098
+source_2&Dallas&Chicago:0.4621171572600098
+source_2&Chicago&El Paso:0.4621171572600098
+source_2&El Paso&Chicago:0.4621171572600098
+source_2&Chicago&Fort Worth:0.4621171572600098
+source_2&Fort Worth&Chicago:0.4621171572600098
+source_2&Chicago&Houston:0.4621171572600098
+source_2&Houston&Chicago:0.4621171572600098
+source_2&Chicago&Indianapolis:0.4621171572600098
+source_2&Indianapolis&Chicago:0.4621171572600098
+source_2&Chicago&Jacksonville:0.4621171572600098
+source_2&Jacksonville&Chicago:0.4621171572600098
+source_2&Chicago&Las Vegas:0.4621171572600098
+source_2&Las Vegas&Chicago:0.4621171572600098
+source_2&Chicago&Los Angeles:0.4621171572600098
+source_2&Los Angeles&Chicago:0.4621171572600098
+source_2&Chicago&Milwaukee:0.4621171572600098
+source_2&Milwaukee&Chicago:0.4621171572600098
+source_2&Chicago&Nashville:0.4621171572600098
+source_2&Nashville&Chicago:0.4621171572600098
+source_2&Chicago&Philadelphia:0.4621171572600098
+source_2&Philadelphia&Chicago:0.4621171572600098
+source_2&Chicago&Phoenix:0.4621171572600098
+source_2&Phoenix&Chicago:0.4621171572600098
+source_2&Chicago&Portland:0.4621171572600098
+source_2&Portland&Chicago:0.4621171572600098
+source_2&Chicago&San Jose:0.4621171572600098
+source_2&San Jose&Chicago:0.4621171572600098
+source_2&Chicago&San Diego:0.4621171572600098
+source_2&San Diego&Chicago:0.4621171572600098
+source_2&Chicago&Seattle:0.4621171572600098
+source_2&Seattle&Chicago:0.4621171572600098
+source_2&Chicago&Washington:0.4621171572600098
+source_2&Washington&Chicago:0.4621171572600098
+source_2&Dallas&El Paso:0.4621171572600098
+source_2&El Paso&Dallas:0.4621171572600098
+source_2&Dallas&Fort Worth:0.4621171572600098
+source_2&Fort Worth&Dallas:0.4621171572600098
+source_2&Dallas&Houston:0.4621171572600098
+source_2&Houston&Dallas:0.4621171572600098
+source_2&Dallas&Indianapolis:0.4621171572600098
+source_2&Indianapolis&Dallas:0.4621171572600098
+source_2&Dallas&Jacksonville:0.4621171572600098
+source_2&Jacksonville&Dallas:0.4621171572600098
+source_2&Dallas&Las Vegas:0.4621171572600098
+source_2&Las Vegas&Dallas:0.4621171572600098
+source_2&Dallas&Los Angeles:0.4621171572600098
+source_2&Los Angeles&Dallas:0.4621171572600098
+source_2&Dallas&Milwaukee:0.4621171572600098
+source_2&Milwaukee&Dallas:0.4621171572600098
+source_2&Dallas&Nashville:0.4621171572600098
+source_2&Nashville&Dallas:0.4621171572600098
+source_2&Dallas&Philadelphia:0.4621171572600098
+source_2&Philadelphia&Dallas:0.4621171572600098
+source_2&Dallas&Phoenix:0.4621171572600098
+source_2&Phoenix&Dallas:0.4621171572600098
+source_2&Dallas&Portland:0.4621171572600098
+source_2&Portland&Dallas:0.4621171572600098
+source_2&Dallas&San Jose:0.4621171572600098
+source_2&San Jose&Dallas:0.4621171572600098
+source_2&Dallas&San Diego:0.4621171572600098
+source_2&San Diego&Dallas:0.4621171572600098
+source_2&Dallas&Seattle:0.4621171572600098
+source_2&Seattle&Dallas:0.4621171572600098
+source_2&Dallas&Washington:0.4621171572600098
+source_2&Washington&Dallas:0.4621171572600098
+source_2&El Paso&Fort Worth:0.4621171572600098
+source_2&Fort Worth&El Paso:0.4621171572600098
+source_2&El Paso&Houston:0.4621171572600098
+source_2&Houston&El Paso:0.4621171572600098
+source_2&El Paso&Indianapolis:0.4621171572600098
+source_2&Indianapolis&El Paso:0.4621171572600098
+source_2&El Paso&Jacksonville:0.4621171572600098
+source_2&Jacksonville&El Paso:0.4621171572600098
+source_2&El Paso&Las Vegas:0.4621171572600098
+source_2&Las Vegas&El Paso:0.4621171572600098
+source_2&El Paso&Los Angeles:0.4621171572600098
+source_2&Los Angeles&El Paso:0.4621171572600098
+source_2&El Paso&Milwaukee:0.4621171572600098
+source_2&Milwaukee&El Paso:0.4621171572600098
+source_2&El Paso&Nashville:0.4621171572600098
+source_2&Nashville&El Paso:0.4621171572600098
+source_2&El Paso&Philadelphia:0.4621171572600098
+source_2&Philadelphia&El Paso:0.4621171572600098
+source_2&El Paso&Phoenix:0.4621171572600098
+source_2&Phoenix&El Paso:0.4621171572600098
+source_2&El Paso&Portland:0.4621171572600098
+source_2&Portland&El Paso:0.4621171572600098
+source_2&El Paso&San Jose:0.4621171572600098
+source_2&San Jose&El Paso:0.4621171572600098
+source_2&El Paso&San Diego:0.4621171572600098
+source_2&San Diego&El Paso:0.4621171572600098
+source_2&El Paso&Seattle:0.4621171572600098
+source_2&Seattle&El Paso:0.4621171572600098
+source_2&El Paso&Washington:0.4621171572600098
+source_2&Washington&El Paso:0.4621171572600098
+source_2&Fort Worth&Houston:0.4621171572600098
+source_2&Houston&Fort Worth:0.4621171572600098
+source_2&Fort Worth&Indianapolis:0.4621171572600098
+source_2&Indianapolis&Fort Worth:0.4621171572600098
+source_2&Fort Worth&Jacksonville:0.4621171572600098
+source_2&Jacksonville&Fort Worth:0.4621171572600098
+source_2&Fort Worth&Las Vegas:0.4621171572600098
+source_2&Las Vegas&Fort Worth:0.4621171572600098
+source_2&Fort Worth&Los Angeles:0.4621171572600098
+source_2&Los Angeles&Fort Worth:0.4621171572600098
+source_2&Fort Worth&Milwaukee:0.4621171572600098
+source_2&Milwaukee&Fort Worth:0.4621171572600098
+source_2&Fort Worth&Nashville:0.4621171572600098
+source_2&Nashville&Fort Worth:0.4621171572600098
+source_2&Fort Worth&Philadelphia:0.4621171572600098
+source_2&Philadelphia&Fort Worth:0.4621171572600098
+source_2&Fort Worth&Phoenix:0.4621171572600098
+source_2&Phoenix&Fort Worth:0.4621171572600098
+source_2&Fort Worth&Portland:0.4621171572600098
+source_2&Portland&Fort Worth:0.4621171572600098
+source_2&Fort Worth&San Jose:0.4621171572600098
+source_2&San Jose&Fort Worth:0.4621171572600098
+source_2&Fort Worth&San Diego:0.4621171572600098
+source_2&San Diego&Fort Worth:0.4621171572600098
+source_2&Fort Worth&Seattle:0.4621171572600098
+source_2&Seattle&Fort Worth:0.4621171572600098
+source_2&Fort Worth&Washington:0.4621171572600098
+source_2&Washington&Fort Worth:0.4621171572600098
+source_2&Houston&Indianapolis:0.4621171572600098
+source_2&Indianapolis&Houston:0.4621171572600098
+source_2&Houston&Jacksonville:0.4621171572600098
+source_2&Jacksonville&Houston:0.4621171572600098
+source_2&Houston&Las Vegas:0.4621171572600098
+source_2&Las Vegas&Houston:0.4621171572600098
+source_2&Houston&Los Angeles:0.4621171572600098
+source_2&Los Angeles&Houston:0.4621171572600098
+source_2&Houston&Milwaukee:0.4621171572600098
+source_2&Milwaukee&Houston:0.4621171572600098
+source_2&Houston&Nashville:0.4621171572600098
+source_2&Nashville&Houston:0.4621171572600098
+source_2&Houston&Philadelphia:0.4621171572600098
+source_2&Philadelphia&Houston:0.4621171572600098
+source_2&Houston&Phoenix:0.4621171572600098
+source_2&Phoenix&Houston:0.4621171572600098
+source_2&Houston&Portland:0.4621171572600098
+source_2&Portland&Houston:0.4621171572600098
+source_2&Houston&San Jose:0.4621171572600098
+source_2&San Jose&Houston:0.4621171572600098
+source_2&Houston&San Diego:0.4621171572600098
+source_2&San Diego&Houston:0.4621171572600098
+source_2&Houston&Seattle:0.4621171572600098
+source_2&Seattle&Houston:0.4621171572600098
+source_2&Houston&Washington:0.4621171572600098
+source_2&Washington&Houston:0.4621171572600098
+source_2&Indianapolis&Jacksonville:0.4621171572600098
+source_2&Jacksonville&Indianapolis:0.4621171572600098
+source_2&Indianapolis&Las Vegas:0.4621171572600098
+source_2&Las Vegas&Indianapolis:0.4621171572600098
+source_2&Indianapolis&Los Angeles:0.4621171572600098
+source_2&Los Angeles&Indianapolis:0.4621171572600098
+source_2&Indianapolis&Milwaukee:0.4621171572600098
+source_2&Milwaukee&Indianapolis:0.4621171572600098
+source_2&Indianapolis&Nashville:0.4621171572600098
+source_2&Nashville&Indianapolis:0.4621171572600098
+source_2&Indianapolis&Philadelphia:0.4621171572600098
+source_2&Philadelphia&Indianapolis:0.4621171572600098
+source_2&Indianapolis&Phoenix:0.4621171572600098
+source_2&Phoenix&Indianapolis:0.4621171572600098
+source_2&Indianapolis&Portland:0.4621171572600098
+source_2&Portland&Indianapolis:0.4621171572600098
+source_2&Indianapolis&San Jose:0.4621171572600098
+source_2&San Jose&Indianapolis:0.4621171572600098
+source_2&Indianapolis&San Diego:0.4621171572600098
+source_2&San Diego&Indianapolis:0.4621171572600098
+source_2&Indianapolis&Seattle:0.4621171572600098
+source_2&Seattle&Indianapolis:0.4621171572600098
+source_2&Indianapolis&Washington:0.4621171572600098
+source_2&Washington&Indianapolis:0.4621171572600098
+source_2&Jacksonville&Las Vegas:0.4621171572600098
+source_2&Las Vegas&Jacksonville:0.4621171572600098
+source_2&Jacksonville&Los Angeles:0.4621171572600098
+source_2&Los Angeles&Jacksonville:0.4621171572600098
+source_2&Jacksonville&Milwaukee:0.4621171572600098
+source_2&Milwaukee&Jacksonville:0.4621171572600098
+source_2&Jacksonville&Nashville:0.4621171572600098
+source_2&Nashville&Jacksonville:0.4621171572600098
+source_2&Jacksonville&Philadelphia:0.4621171572600098
+source_2&Philadelphia&Jacksonville:0.4621171572600098
+source_2&Jacksonville&Phoenix:0.4621171572600098
+source_2&Phoenix&Jacksonville:0.4621171572600098
+source_2&Jacksonville&Portland:0.4621171572600098
+source_2&Portland&Jacksonville:0.4621171572600098
+source_2&Jacksonville&San Jose:0.4621171572600098
+source_2&San Jose&Jacksonville:0.4621171572600098
+source_2&Jacksonville&San Diego:0.4621171572600098
+source_2&San Diego&Jacksonville:0.4621171572600098
+source_2&Jacksonville&Seattle:0.4621171572600098
+source_2&Seattle&Jacksonville:0.4621171572600098
+source_2&Jacksonville&Washington:0.4621171572600098
+source_2&Washington&Jacksonville:0.4621171572600098
+source_2&Las Vegas&Los Angeles:0.4621171572600098
+source_2&Los Angeles&Las Vegas:0.4621171572600098
+source_2&Las Vegas&Milwaukee:0.4621171572600098
+source_2&Milwaukee&Las Vegas:0.4621171572600098
+source_2&Las Vegas&Nashville:0.4621171572600098
+source_2&Nashville&Las Vegas:0.4621171572600098
+source_2&Las Vegas&Philadelphia:0.4621171572600098
+source_2&Philadelphia&Las Vegas:0.4621171572600098
+source_2&Las Vegas&Phoenix:0.4621171572600098
+source_2&Phoenix&Las Vegas:0.4621171572600098
+source_2&Las Vegas&Portland:0.4621171572600098
+source_2&Portland&Las Vegas:0.4621171572600098
+source_2&Las Vegas&San Jose:0.4621171572600098
+source_2&San Jose&Las Vegas:0.4621171572600098
+source_2&Las Vegas&San Diego:0.4621171572600098
+source_2&San Diego&Las Vegas:0.4621171572600098
+source_2&Las Vegas&Seattle:0.4621171572600098
+source_2&Seattle&Las Vegas:0.4621171572600098
+source_2&Las Vegas&Washington:0.4621171572600098
+source_2&Washington&Las Vegas:0.4621171572600098
+source_2&Los Angeles&Milwaukee:0.4621171572600098
+source_2&Milwaukee&Los Angeles:0.4621171572600098
+source_2&Los Angeles&Nashville:0.4621171572600098
+source_2&Nashville&Los Angeles:0.4621171572600098
+source_2&Los Angeles&Philadelphia:0.4621171572600098
+source_2&Philadelphia&Los Angeles:0.4621171572600098
+source_2&Los Angeles&Phoenix:0.4621171572600098
+source_2&Phoenix&Los Angeles:0.4621171572600098
+source_2&Los Angeles&Portland:0.4621171572600098
+source_2&Portland&Los Angeles:0.4621171572600098
+source_2&Los Angeles&San Jose:0.4621171572600098
+source_2&San Jose&Los Angeles:0.4621171572600098
+source_2&Los Angeles&San Diego:0.4621171572600098
+source_2&San Diego&Los Angeles:0.4621171572600098
+source_2&Los Angeles&Seattle:0.4621171572600098
+source_2&Seattle&Los Angeles:0.4621171572600098
+source_2&Los Angeles&Washington:0.4621171572600098
+source_2&Washington&Los Angeles:0.4621171572600098
+source_2&Milwaukee&Nashville:0.4621171572600098
+source_2&Nashville&Milwaukee:0.4621171572600098
+source_2&Milwaukee&Philadelphia:0.4621171572600098
+source_2&Philadelphia&Milwaukee:0.4621171572600098
+source_2&Milwaukee&Phoenix:0.4621171572600098
+source_2&Phoenix&Milwaukee:0.4621171572600098
+source_2&Milwaukee&Portland:0.4621171572600098
+source_2&Portland&Milwaukee:0.4621171572600098
+source_2&Milwaukee&San Jose:0.4621171572600098
+source_2&San Jose&Milwaukee:0.4621171572600098
+source_2&Milwaukee&San Diego:0.4621171572600098
+source_2&San Diego&Milwaukee:0.4621171572600098
+source_2&Milwaukee&Seattle:0.4621171572600098
+source_2&Seattle&Milwaukee:0.4621171572600098
+source_2&Milwaukee&Washington:0.4621171572600098
+source_2&Washington&Milwaukee:0.4621171572600098
+source_2&Nashville&Philadelphia:0.4621171572600098
+source_2&Philadelphia&Nashville:0.4621171572600098
+source_2&Nashville&Phoenix:0.4621171572600098
+source_2&Phoenix&Nashville:0.4621171572600098
+source_2&Nashville&Portland:0.4621171572600098
+source_2&Portland&Nashville:0.4621171572600098
+source_2&Nashville&San Jose:0.4621171572600098
+source_2&San Jose&Nashville:0.4621171572600098
+source_2&Nashville&San Diego:0.4621171572600098
+source_2&San Diego&Nashville:0.4621171572600098
+source_2&Nashville&Seattle:0.4621171572600098
+source_2&Seattle&Nashville:0.4621171572600098
+source_2&Nashville&Washington:0.4621171572600098
+source_2&Washington&Nashville:0.4621171572600098
+source_2&Philadelphia&Phoenix:0.4621171572600098
+source_2&Phoenix&Philadelphia:0.4621171572600098
+source_2&Philadelphia&Portland:0.4621171572600098
+source_2&Portland&Philadelphia:0.4621171572600098
+source_2&Philadelphia&San Jose:0.4621171572600098
+source_2&San Jose&Philadelphia:0.4621171572600098
+source_2&Philadelphia&San Diego:0.4621171572600098
+source_2&San Diego&Philadelphia:0.4621171572600098
+source_2&Philadelphia&Seattle:0.4621171572600098
+source_2&Seattle&Philadelphia:0.4621171572600098
+source_2&Philadelphia&Washington:0.4621171572600098
+source_2&Washington&Philadelphia:0.4621171572600098
+source_2&Phoenix&Portland:0.4621171572600098
+source_2&Portland&Phoenix:0.4621171572600098
+source_2&Phoenix&San Jose:0.4621171572600098
+source_2&San Jose&Phoenix:0.4621171572600098
+source_2&Phoenix&San Diego:0.4621171572600098
+source_2&San Diego&Phoenix:0.4621171572600098
+source_2&Phoenix&Seattle:0.4621171572600098
+source_2&Seattle&Phoenix:0.4621171572600098
+source_2&Phoenix&Washington:0.4621171572600098
+source_2&Washington&Phoenix:0.4621171572600098
+source_2&Portland&San Jose:0.4621171572600098
+source_2&San Jose&Portland:0.4621171572600098
+source_2&Portland&San Diego:0.4621171572600098
+source_2&San Diego&Portland:0.4621171572600098
+source_2&Portland&Seattle:0.4621171572600098
+source_2&Seattle&Portland:0.4621171572600098
+source_2&Portland&Washington:0.4621171572600098
+source_2&Washington&Portland:0.4621171572600098
+source_2&San Jose&San Diego:0.4621171572600098
+source_2&San Diego&San Jose:0.4621171572600098
+source_2&San Jose&Seattle:0.4621171572600098
+source_2&Seattle&San Jose:0.4621171572600098
+source_2&San Jose&Washington:0.4621171572600098
+source_2&Washington&San Jose:0.4621171572600098
+source_2&San Diego&Seattle:0.4621171572600098
+source_2&Seattle&San Diego:0.4621171572600098
+source_2&San Diego&Washington:0.4621171572600098
+source_2&Washington&San Diego:0.4621171572600098
+source_2&Seattle&Washington:0.4621171572600098
+source_2&Washington&Seattle:0.4621171572600098
+source_3&Chicago&Dallas:0.4621171572600098
+source_3&Dallas&Chicago:0.4621171572600098
+source_3&Chicago&El Paso:0.4621171572600098
+source_3&El Paso&Chicago:0.4621171572600098
+source_3&Chicago&Fort Worth:0.4621171572600098
+source_3&Fort Worth&Chicago:0.4621171572600098
+source_3&Chicago&Houston:0.4621171572600098
+source_3&Houston&Chicago:0.4621171572600098
+source_3&Chicago&Indianapolis:0.4621171572600098
+source_3&Indianapolis&Chicago:0.4621171572600098
+source_3&Chicago&Jacksonville:0.4621171572600098
+source_3&Jacksonville&Chicago:0.4621171572600098
+source_3&Chicago&Las Vegas:0.4621171572600098
+source_3&Las Vegas&Chicago:0.4621171572600098
+source_3&Chicago&Los Angeles:0.4621171572600098
+source_3&Los Angeles&Chicago:0.4621171572600098
+source_3&Chicago&Milwaukee:0.4621171572600098
+source_3&Milwaukee&Chicago:0.4621171572600098
+source_3&Chicago&Nashville:0.4621171572600098
+source_3&Nashville&Chicago:0.4621171572600098
+source_3&Chicago&Philadelphia:0.4621171572600098
+source_3&Philadelphia&Chicago:0.4621171572600098
+source_3&Chicago&Phoenix:0.4621171572600098
+source_3&Phoenix&Chicago:0.4621171572600098
+source_3&Chicago&Portland:0.4621171572600098
+source_3&Portland&Chicago:0.4621171572600098
+source_3&Chicago&San Jose:0.4621171572600098
+source_3&San Jose&Chicago:0.4621171572600098
+source_3&Chicago&San Diego:0.4621171572600098
+source_3&San Diego&Chicago:0.4621171572600098
+source_3&Chicago&Seattle:0.4621171572600098
+source_3&Seattle&Chicago:0.4621171572600098
+source_3&Chicago&Washington:0.4621171572600098
+source_3&Washington&Chicago:0.4621171572600098
+source_3&Dallas&El Paso:0.4621171572600098
+source_3&El Paso&Dallas:0.4621171572600098
+source_3&Dallas&Fort Worth:0.4621171572600098
+source_3&Fort Worth&Dallas:0.4621171572600098
+source_3&Dallas&Houston:0.4621171572600098
+source_3&Houston&Dallas:0.4621171572600098
+source_3&Dallas&Indianapolis:0.4621171572600098
+source_3&Indianapolis&Dallas:0.4621171572600098
+source_3&Dallas&Jacksonville:0.4621171572600098
+source_3&Jacksonville&Dallas:0.4621171572600098
+source_3&Dallas&Las Vegas:0.4621171572600098
+source_3&Las Vegas&Dallas:0.4621171572600098
+source_3&Dallas&Los Angeles:0.4621171572600098
+source_3&Los Angeles&Dallas:0.4621171572600098
+source_3&Dallas&Milwaukee:0.4621171572600098
+source_3&Milwaukee&Dallas:0.4621171572600098
+source_3&Dallas&Nashville:0.4621171572600098
+source_3&Nashville&Dallas:0.4621171572600098
+source_3&Dallas&Philadelphia:0.4621171572600098
+source_3&Philadelphia&Dallas:0.4621171572600098
+source_3&Dallas&Phoenix:0.4621171572600098
+source_3&Phoenix&Dallas:0.4621171572600098
+source_3&Dallas&Portland:0.4621171572600098
+source_3&Portland&Dallas:0.4621171572600098
+source_3&Dallas&San Jose:0.4621171572600098
+source_3&San Jose&Dallas:0.4621171572600098
+source_3&Dallas&San Diego:0.4621171572600098
+source_3&San Diego&Dallas:0.4621171572600098
+source_3&Dallas&Seattle:0.4621171572600098
+source_3&Seattle&Dallas:0.4621171572600098
+source_3&Dallas&Washington:0.4621171572600098
+source_3&Washington&Dallas:0.4621171572600098
+source_3&El Paso&Fort Worth:0.4621171572600098
+source_3&Fort Worth&El Paso:0.4621171572600098
+source_3&El Paso&Houston:0.4621171572600098
+source_3&Houston&El Paso:0.4621171572600098
+source_3&El Paso&Indianapolis:0.4621171572600098
+source_3&Indianapolis&El Paso:0.4621171572600098
+source_3&El Paso&Jacksonville:0.4621171572600098
+source_3&Jacksonville&El Paso:0.4621171572600098
+source_3&El Paso&Las Vegas:0.4621171572600098
+source_3&Las Vegas&El Paso:0.4621171572600098
+source_3&El Paso&Los Angeles:0.4621171572600098
+source_3&Los Angeles&El Paso:0.4621171572600098
+source_3&El Paso&Milwaukee:0.4621171572600098
+source_3&Milwaukee&El Paso:0.4621171572600098
+source_3&El Paso&Nashville:0.4621171572600098
+source_3&Nashville&El Paso:0.4621171572600098
+source_3&El Paso&Philadelphia:0.4621171572600098
+source_3&Philadelphia&El Paso:0.4621171572600098
+source_3&El Paso&Phoenix:0.4621171572600098
+source_3&Phoenix&El Paso:0.4621171572600098
+source_3&El Paso&Portland:0.4621171572600098
+source_3&Portland&El Paso:0.4621171572600098
+source_3&El Paso&San Jose:0.4621171572600098
+source_3&San Jose&El Paso:0.4621171572600098
+source_3&El Paso&San Diego:0.4621171572600098
+source_3&San Diego&El Paso:0.4621171572600098
+source_3&El Paso&Seattle:0.4621171572600098
+source_3&Seattle&El Paso:0.4621171572600098
+source_3&El Paso&Washington:0.4621171572600098
+source_3&Washington&El Paso:0.4621171572600098
+source_3&Fort Worth&Houston:0.4621171572600098
+source_3&Houston&Fort Worth:0.4621171572600098
+source_3&Fort Worth&Indianapolis:0.4621171572600098
+source_3&Indianapolis&Fort Worth:0.4621171572600098
+source_3&Fort Worth&Jacksonville:0.4621171572600098
+source_3&Jacksonville&Fort Worth:0.4621171572600098
+source_3&Fort Worth&Las Vegas:0.4621171572600098
+source_3&Las Vegas&Fort Worth:0.4621171572600098
+source_3&Fort Worth&Los Angeles:0.4621171572600098
+source_3&Los Angeles&Fort Worth:0.4621171572600098
+source_3&Fort Worth&Milwaukee:0.4621171572600098
+source_3&Milwaukee&Fort Worth:0.4621171572600098
+source_3&Fort Worth&Nashville:0.4621171572600098
+source_3&Nashville&Fort Worth:0.4621171572600098
+source_3&Fort Worth&Philadelphia:0.4621171572600098
+source_3&Philadelphia&Fort Worth:0.4621171572600098
+source_3&Fort Worth&Phoenix:0.4621171572600098
+source_3&Phoenix&Fort Worth:0.4621171572600098
+source_3&Fort Worth&Portland:0.4621171572600098
+source_3&Portland&Fort Worth:0.4621171572600098
+source_3&Fort Worth&San Jose:0.4621171572600098
+source_3&San Jose&Fort Worth:0.4621171572600098
+source_3&Fort Worth&San Diego:0.4621171572600098
+source_3&San Diego&Fort Worth:0.4621171572600098
+source_3&Fort Worth&Seattle:0.4621171572600098
+source_3&Seattle&Fort Worth:0.4621171572600098
+source_3&Fort Worth&Washington:0.4621171572600098
+source_3&Washington&Fort Worth:0.4621171572600098
+source_3&Houston&Indianapolis:0.4621171572600098
+source_3&Indianapolis&Houston:0.4621171572600098
+source_3&Houston&Jacksonville:0.4621171572600098
+source_3&Jacksonville&Houston:0.4621171572600098
+source_3&Houston&Las Vegas:0.4621171572600098
+source_3&Las Vegas&Houston:0.4621171572600098
+source_3&Houston&Los Angeles:0.4621171572600098
+source_3&Los Angeles&Houston:0.4621171572600098
+source_3&Houston&Milwaukee:0.4621171572600098
+source_3&Milwaukee&Houston:0.4621171572600098
+source_3&Houston&Nashville:0.4621171572600098
+source_3&Nashville&Houston:0.4621171572600098
+source_3&Houston&Philadelphia:0.4621171572600098
+source_3&Philadelphia&Houston:0.4621171572600098
+source_3&Houston&Phoenix:0.4621171572600098
+source_3&Phoenix&Houston:0.4621171572600098
+source_3&Houston&Portland:0.4621171572600098
+source_3&Portland&Houston:0.4621171572600098
+source_3&Houston&San Jose:0.4621171572600098
+source_3&San Jose&Houston:0.4621171572600098
+source_3&Houston&San Diego:0.4621171572600098
+source_3&San Diego&Houston:0.4621171572600098
+source_3&Houston&Seattle:0.4621171572600098
+source_3&Seattle&Houston:0.4621171572600098
+source_3&Houston&Washington:0.4621171572600098
+source_3&Washington&Houston:0.4621171572600098
+source_3&Indianapolis&Jacksonville:0.4621171572600098
+source_3&Jacksonville&Indianapolis:0.4621171572600098
+source_3&Indianapolis&Las Vegas:0.4621171572600098
+source_3&Las Vegas&Indianapolis:0.4621171572600098
+source_3&Indianapolis&Los Angeles:0.4621171572600098
+source_3&Los Angeles&Indianapolis:0.4621171572600098
+source_3&Indianapolis&Milwaukee:0.4621171572600098
+source_3&Milwaukee&Indianapolis:0.4621171572600098
+source_3&Indianapolis&Nashville:0.4621171572600098
+source_3&Nashville&Indianapolis:0.4621171572600098
+source_3&Indianapolis&Philadelphia:0.4621171572600098
+source_3&Philadelphia&Indianapolis:0.4621171572600098
+source_3&Indianapolis&Phoenix:0.4621171572600098
+source_3&Phoenix&Indianapolis:0.4621171572600098
+source_3&Indianapolis&Portland:0.4621171572600098
+source_3&Portland&Indianapolis:0.4621171572600098
+source_3&Indianapolis&San Jose:0.4621171572600098
+source_3&San Jose&Indianapolis:0.4621171572600098
+source_3&Indianapolis&San Diego:0.4621171572600098
+source_3&San Diego&Indianapolis:0.4621171572600098
+source_3&Indianapolis&Seattle:0.4621171572600098
+source_3&Seattle&Indianapolis:0.4621171572600098
+source_3&Indianapolis&Washington:0.4621171572600098
+source_3&Washington&Indianapolis:0.4621171572600098
+source_3&Jacksonville&Las Vegas:0.4621171572600098
+source_3&Las Vegas&Jacksonville:0.4621171572600098
+source_3&Jacksonville&Los Angeles:0.4621171572600098
+source_3&Los Angeles&Jacksonville:0.4621171572600098
+source_3&Jacksonville&Milwaukee:0.4621171572600098
+source_3&Milwaukee&Jacksonville:0.4621171572600098
+source_3&Jacksonville&Nashville:0.4621171572600098
+source_3&Nashville&Jacksonville:0.4621171572600098
+source_3&Jacksonville&Philadelphia:0.4621171572600098
+source_3&Philadelphia&Jacksonville:0.4621171572600098
+source_3&Jacksonville&Phoenix:0.4621171572600098
+source_3&Phoenix&Jacksonville:0.4621171572600098
+source_3&Jacksonville&Portland:0.4621171572600098
+source_3&Portland&Jacksonville:0.4621171572600098
+source_3&Jacksonville&San Jose:0.4621171572600098
+source_3&San Jose&Jacksonville:0.4621171572600098
+source_3&Jacksonville&San Diego:0.4621171572600098
+source_3&San Diego&Jacksonville:0.4621171572600098
+source_3&Jacksonville&Seattle:0.4621171572600098
+source_3&Seattle&Jacksonville:0.4621171572600098
+source_3&Jacksonville&Washington:0.4621171572600098
+source_3&Washington&Jacksonville:0.4621171572600098
+source_3&Las Vegas&Los Angeles:0.4621171572600098
+source_3&Los Angeles&Las Vegas:0.4621171572600098
+source_3&Las Vegas&Milwaukee:0.4621171572600098
+source_3&Milwaukee&Las Vegas:0.4621171572600098
+source_3&Las Vegas&Nashville:0.4621171572600098
+source_3&Nashville&Las Vegas:0.4621171572600098
+source_3&Las Vegas&Philadelphia:0.4621171572600098
+source_3&Philadelphia&Las Vegas:0.4621171572600098
+source_3&Las Vegas&Phoenix:0.4621171572600098
+source_3&Phoenix&Las Vegas:0.4621171572600098
+source_3&Las Vegas&Portland:0.4621171572600098
+source_3&Portland&Las Vegas:0.4621171572600098
+source_3&Las Vegas&San Jose:0.4621171572600098
+source_3&San Jose&Las Vegas:0.4621171572600098
+source_3&Las Vegas&San Diego:0.4621171572600098
+source_3&San Diego&Las Vegas:0.4621171572600098
+source_3&Las Vegas&Seattle:0.4621171572600098
+source_3&Seattle&Las Vegas:0.4621171572600098
+source_3&Las Vegas&Washington:0.4621171572600098
+source_3&Washington&Las Vegas:0.4621171572600098
+source_3&Los Angeles&Milwaukee:0.4621171572600098
+source_3&Milwaukee&Los Angeles:0.4621171572600098
+source_3&Los Angeles&Nashville:0.4621171572600098
+source_3&Nashville&Los Angeles:0.4621171572600098
+source_3&Los Angeles&Philadelphia:0.4621171572600098
+source_3&Philadelphia&Los Angeles:0.4621171572600098
+source_3&Los Angeles&Phoenix:0.4621171572600098
+source_3&Phoenix&Los Angeles:0.4621171572600098
+source_3&Los Angeles&Portland:0.4621171572600098
+source_3&Portland&Los Angeles:0.4621171572600098
+source_3&Los Angeles&San Jose:0.4621171572600098
+source_3&San Jose&Los Angeles:0.4621171572600098
+source_3&Los Angeles&San Diego:0.4621171572600098
+source_3&San Diego&Los Angeles:0.4621171572600098
+source_3&Los Angeles&Seattle:0.4621171572600098
+source_3&Seattle&Los Angeles:0.4621171572600098
+source_3&Los Angeles&Washington:0.4621171572600098
+source_3&Washington&Los Angeles:0.4621171572600098
+source_3&Milwaukee&Nashville:0.4621171572600098
+source_3&Nashville&Milwaukee:0.4621171572600098
+source_3&Milwaukee&Philadelphia:0.4621171572600098
+source_3&Philadelphia&Milwaukee:0.4621171572600098
+source_3&Milwaukee&Phoenix:0.4621171572600098
+source_3&Phoenix&Milwaukee:0.4621171572600098
+source_3&Milwaukee&Portland:0.4621171572600098
+source_3&Portland&Milwaukee:0.4621171572600098
+source_3&Milwaukee&San Jose:0.4621171572600098
+source_3&San Jose&Milwaukee:0.4621171572600098
+source_3&Milwaukee&San Diego:0.4621171572600098
+source_3&San Diego&Milwaukee:0.4621171572600098
+source_3&Milwaukee&Seattle:0.4621171572600098
+source_3&Seattle&Milwaukee:0.4621171572600098
+source_3&Milwaukee&Washington:0.4621171572600098
+source_3&Washington&Milwaukee:0.4621171572600098
+source_3&Nashville&Philadelphia:0.4621171572600098
+source_3&Philadelphia&Nashville:0.4621171572600098
+source_3&Nashville&Phoenix:0.4621171572600098
+source_3&Phoenix&Nashville:0.4621171572600098
+source_3&Nashville&Portland:0.4621171572600098
+source_3&Portland&Nashville:0.4621171572600098
+source_3&Nashville&San Jose:0.4621171572600098
+source_3&San Jose&Nashville:0.4621171572600098
+source_3&Nashville&San Diego:0.4621171572600098
+source_3&San Diego&Nashville:0.4621171572600098
+source_3&Nashville&Seattle:0.4621171572600098
+source_3&Seattle&Nashville:0.4621171572600098
+source_3&Nashville&Washington:0.4621171572600098
+source_3&Washington&Nashville:0.4621171572600098
+source_3&Philadelphia&Phoenix:0.4621171572600098
+source_3&Phoenix&Philadelphia:0.4621171572600098
+source_3&Philadelphia&Portland:0.4621171572600098
+source_3&Portland&Philadelphia:0.4621171572600098
+source_3&Philadelphia&San Jose:0.4621171572600098
+source_3&San Jose&Philadelphia:0.4621171572600098
+source_3&Philadelphia&San Diego:0.4621171572600098
+source_3&San Diego&Philadelphia:0.4621171572600098
+source_3&Philadelphia&Seattle:0.4621171572600098
+source_3&Seattle&Philadelphia:0.4621171572600098
+source_3&Philadelphia&Washington:0.4621171572600098
+source_3&Washington&Philadelphia:0.4621171572600098
+source_3&Phoenix&Portland:0.4621171572600098
+source_3&Portland&Phoenix:0.4621171572600098
+source_3&Phoenix&San Jose:0.4621171572600098
+source_3&San Jose&Phoenix:0.4621171572600098
+source_3&Phoenix&San Diego:0.4621171572600098
+source_3&San Diego&Phoenix:0.4621171572600098
+source_3&Phoenix&Seattle:0.4621171572600098
+source_3&Seattle&Phoenix:0.4621171572600098
+source_3&Phoenix&Washington:0.4621171572600098
+source_3&Washington&Phoenix:0.4621171572600098
+source_3&Portland&San Jose:0.4621171572600098
+source_3&San Jose&Portland:0.4621171572600098
+source_3&Portland&San Diego:0.4621171572600098
+source_3&San Diego&Portland:0.4621171572600098
+source_3&Portland&Seattle:0.4621171572600098
+source_3&Seattle&Portland:0.4621171572600098
+source_3&Portland&Washington:0.4621171572600098
+source_3&Washington&Portland:0.4621171572600098
+source_3&San Jose&San Diego:0.4621171572600098
+source_3&San Diego&San Jose:0.4621171572600098
+source_3&San Jose&Seattle:0.4621171572600098
+source_3&Seattle&San Jose:0.4621171572600098
+source_3&San Jose&Washington:0.4621171572600098
+source_3&Washington&San Jose:0.4621171572600098
+source_3&San Diego&Seattle:0.4621171572600098
+source_3&Seattle&San Diego:0.4621171572600098
+source_3&San Diego&Washington:0.4621171572600098
+source_3&Washington&San Diego:0.4621171572600098
+source_3&Seattle&Washington:0.4621171572600098
+source_3&Washington&Seattle:0.4621171572600098
+source_4&Chicago&Dallas:0.4621171572600098
+source_4&Dallas&Chicago:0.4621171572600098
+source_4&Chicago&El Paso:0.4621171572600098
+source_4&El Paso&Chicago:0.4621171572600098
+source_4&Chicago&Fort Worth:0.4621171572600098
+source_4&Fort Worth&Chicago:0.4621171572600098
+source_4&Chicago&Houston:0.4621171572600098
+source_4&Houston&Chicago:0.4621171572600098
+source_4&Chicago&Indianapolis:0.4621171572600098
+source_4&Indianapolis&Chicago:0.4621171572600098
+source_4&Chicago&Jacksonville:0.4621171572600098
+source_4&Jacksonville&Chicago:0.4621171572600098
+source_4&Chicago&Las Vegas:0.4621171572600098
+source_4&Las Vegas&Chicago:0.4621171572600098
+source_4&Chicago&Los Angeles:0.4621171572600098
+source_4&Los Angeles&Chicago:0.4621171572600098
+source_4&Chicago&Milwaukee:0.4621171572600098
+source_4&Milwaukee&Chicago:0.4621171572600098
+source_4&Chicago&Nashville:0.4621171572600098
+source_4&Nashville&Chicago:0.4621171572600098
+source_4&Chicago&Philadelphia:0.4621171572600098
+source_4&Philadelphia&Chicago:0.4621171572600098
+source_4&Chicago&Phoenix:0.4621171572600098
+source_4&Phoenix&Chicago:0.4621171572600098
+source_4&Chicago&Portland:0.4621171572600098
+source_4&Portland&Chicago:0.4621171572600098
+source_4&Chicago&San Jose:0.4621171572600098
+source_4&San Jose&Chicago:0.4621171572600098
+source_4&Chicago&San Diego:0.4621171572600098
+source_4&San Diego&Chicago:0.4621171572600098
+source_4&Chicago&Seattle:0.4621171572600098
+source_4&Seattle&Chicago:0.4621171572600098
+source_4&Chicago&Washington:0.4621171572600098
+source_4&Washington&Chicago:0.4621171572600098
+source_4&Dallas&El Paso:0.4621171572600098
+source_4&El Paso&Dallas:0.4621171572600098
+source_4&Dallas&Fort Worth:0.4621171572600098
+source_4&Fort Worth&Dallas:0.4621171572600098
+source_4&Dallas&Houston:0.4621171572600098
+source_4&Houston&Dallas:0.4621171572600098
+source_4&Dallas&Indianapolis:0.4621171572600098
+source_4&Indianapolis&Dallas:0.4621171572600098
+source_4&Dallas&Jacksonville:0.4621171572600098
+source_4&Jacksonville&Dallas:0.4621171572600098
+source_4&Dallas&Las Vegas:0.4621171572600098
+source_4&Las Vegas&Dallas:0.4621171572600098
+source_4&Dallas&Los Angeles:0.4621171572600098
+source_4&Los Angeles&Dallas:0.4621171572600098
+source_4&Dallas&Milwaukee:0.4621171572600098
+source_4&Milwaukee&Dallas:0.4621171572600098
+source_4&Dallas&Nashville:0.4621171572600098
+source_4&Nashville&Dallas:0.4621171572600098
+source_4&Dallas&Philadelphia:0.4621171572600098
+source_4&Philadelphia&Dallas:0.4621171572600098
+source_4&Dallas&Phoenix:0.4621171572600098
+source_4&Phoenix&Dallas:0.4621171572600098
+source_4&Dallas&Portland:0.4621171572600098
+source_4&Portland&Dallas:0.4621171572600098
+source_4&Dallas&San Jose:0.4621171572600098
+source_4&San Jose&Dallas:0.4621171572600098
+source_4&Dallas&San Diego:0.4621171572600098
+source_4&San Diego&Dallas:0.4621171572600098
+source_4&Dallas&Seattle:0.4621171572600098
+source_4&Seattle&Dallas:0.4621171572600098
+source_4&Dallas&Washington:0.4621171572600098
+source_4&Washington&Dallas:0.4621171572600098
+source_4&El Paso&Fort Worth:0.4621171572600098
+source_4&Fort Worth&El Paso:0.4621171572600098
+source_4&El Paso&Houston:0.4621171572600098
+source_4&Houston&El Paso:0.4621171572600098
+source_4&El Paso&Indianapolis:0.4621171572600098
+source_4&Indianapolis&El Paso:0.4621171572600098
+source_4&El Paso&Jacksonville:0.4621171572600098
+source_4&Jacksonville&El Paso:0.4621171572600098
+source_4&El Paso&Las Vegas:0.4621171572600098
+source_4&Las Vegas&El Paso:0.4621171572600098
+source_4&El Paso&Los Angeles:0.4621171572600098
+source_4&Los Angeles&El Paso:0.4621171572600098
+source_4&El Paso&Milwaukee:0.4621171572600098
+source_4&Milwaukee&El Paso:0.4621171572600098
+source_4&El Paso&Nashville:0.4621171572600098
+source_4&Nashville&El Paso:0.4621171572600098
+source_4&El Paso&Philadelphia:0.4621171572600098
+source_4&Philadelphia&El Paso:0.4621171572600098
+source_4&El Paso&Phoenix:0.4621171572600098
+source_4&Phoenix&El Paso:0.4621171572600098
+source_4&El Paso&Portland:0.4621171572600098
+source_4&Portland&El Paso:0.4621171572600098
+source_4&El Paso&San Jose:0.4621171572600098
+source_4&San Jose&El Paso:0.4621171572600098
+source_4&El Paso&San Diego:0.4621171572600098
+source_4&San Diego&El Paso:0.4621171572600098
+source_4&El Paso&Seattle:0.4621171572600098
+source_4&Seattle&El Paso:0.4621171572600098
+source_4&El Paso&Washington:0.4621171572600098
+source_4&Washington&El Paso:0.4621171572600098
+source_4&Fort Worth&Houston:0.4621171572600098
+source_4&Houston&Fort Worth:0.4621171572600098
+source_4&Fort Worth&Indianapolis:0.4621171572600098
+source_4&Indianapolis&Fort Worth:0.4621171572600098
+source_4&Fort Worth&Jacksonville:0.4621171572600098
+source_4&Jacksonville&Fort Worth:0.4621171572600098
+source_4&Fort Worth&Las Vegas:0.4621171572600098
+source_4&Las Vegas&Fort Worth:0.4621171572600098
+source_4&Fort Worth&Los Angeles:0.4621171572600098
+source_4&Los Angeles&Fort Worth:0.4621171572600098
+source_4&Fort Worth&Milwaukee:0.4621171572600098
+source_4&Milwaukee&Fort Worth:0.4621171572600098
+source_4&Fort Worth&Nashville:0.4621171572600098
+source_4&Nashville&Fort Worth:0.4621171572600098
+source_4&Fort Worth&Philadelphia:0.4621171572600098
+source_4&Philadelphia&Fort Worth:0.4621171572600098
+source_4&Fort Worth&Phoenix:0.4621171572600098
+source_4&Phoenix&Fort Worth:0.4621171572600098
+source_4&Fort Worth&Portland:0.4621171572600098
+source_4&Portland&Fort Worth:0.4621171572600098
+source_4&Fort Worth&San Jose:0.4621171572600098
+source_4&San Jose&Fort Worth:0.4621171572600098
+source_4&Fort Worth&San Diego:0.4621171572600098
+source_4&San Diego&Fort Worth:0.4621171572600098
+source_4&Fort Worth&Seattle:0.4621171572600098
+source_4&Seattle&Fort Worth:0.4621171572600098
+source_4&Fort Worth&Washington:0.4621171572600098
+source_4&Washington&Fort Worth:0.4621171572600098
+source_4&Houston&Indianapolis:0.4621171572600098
+source_4&Indianapolis&Houston:0.4621171572600098
+source_4&Houston&Jacksonville:0.4621171572600098
+source_4&Jacksonville&Houston:0.4621171572600098
+source_4&Houston&Las Vegas:0.4621171572600098
+source_4&Las Vegas&Houston:0.4621171572600098
+source_4&Houston&Los Angeles:0.4621171572600098
+source_4&Los Angeles&Houston:0.4621171572600098
+source_4&Houston&Milwaukee:0.4621171572600098
+source_4&Milwaukee&Houston:0.4621171572600098
+source_4&Houston&Nashville:0.4621171572600098
+source_4&Nashville&Houston:0.4621171572600098
+source_4&Houston&Philadelphia:0.4621171572600098
+source_4&Philadelphia&Houston:0.4621171572600098
+source_4&Houston&Phoenix:0.4621171572600098
+source_4&Phoenix&Houston:0.4621171572600098
+source_4&Houston&Portland:0.4621171572600098
+source_4&Portland&Houston:0.4621171572600098
+source_4&Houston&San Jose:0.4621171572600098
+source_4&San Jose&Houston:0.4621171572600098
+source_4&Houston&San Diego:0.4621171572600098
+source_4&San Diego&Houston:0.4621171572600098
+source_4&Houston&Seattle:0.4621171572600098
+source_4&Seattle&Houston:0.4621171572600098
+source_4&Houston&Washington:0.4621171572600098
+source_4&Washington&Houston:0.4621171572600098
+source_4&Indianapolis&Jacksonville:0.4621171572600098
+source_4&Jacksonville&Indianapolis:0.4621171572600098
+source_4&Indianapolis&Las Vegas:0.4621171572600098
+source_4&Las Vegas&Indianapolis:0.4621171572600098
+source_4&Indianapolis&Los Angeles:0.4621171572600098
+source_4&Los Angeles&Indianapolis:0.4621171572600098
+source_4&Indianapolis&Milwaukee:0.4621171572600098
+source_4&Milwaukee&Indianapolis:0.4621171572600098
+source_4&Indianapolis&Nashville:0.4621171572600098
+source_4&Nashville&Indianapolis:0.4621171572600098
+source_4&Indianapolis&Philadelphia:0.4621171572600098
+source_4&Philadelphia&Indianapolis:0.4621171572600098
+source_4&Indianapolis&Phoenix:0.4621171572600098
+source_4&Phoenix&Indianapolis:0.4621171572600098
+source_4&Indianapolis&Portland:0.4621171572600098
+source_4&Portland&Indianapolis:0.4621171572600098
+source_4&Indianapolis&San Jose:0.4621171572600098
+source_4&San Jose&Indianapolis:0.4621171572600098
+source_4&Indianapolis&San Diego:0.4621171572600098
+source_4&San Diego&Indianapolis:0.4621171572600098
+source_4&Indianapolis&Seattle:0.4621171572600098
+source_4&Seattle&Indianapolis:0.4621171572600098
+source_4&Indianapolis&Washington:0.4621171572600098
+source_4&Washington&Indianapolis:0.4621171572600098
+source_4&Jacksonville&Las Vegas:0.4621171572600098
+source_4&Las Vegas&Jacksonville:0.4621171572600098
+source_4&Jacksonville&Los Angeles:0.4621171572600098
+source_4&Los Angeles&Jacksonville:0.4621171572600098
+source_4&Jacksonville&Milwaukee:0.4621171572600098
+source_4&Milwaukee&Jacksonville:0.4621171572600098
+source_4&Jacksonville&Nashville:0.4621171572600098
+source_4&Nashville&Jacksonville:0.4621171572600098
+source_4&Jacksonville&Philadelphia:0.4621171572600098
+source_4&Philadelphia&Jacksonville:0.4621171572600098
+source_4&Jacksonville&Phoenix:0.4621171572600098
+source_4&Phoenix&Jacksonville:0.4621171572600098
+source_4&Jacksonville&Portland:0.4621171572600098
+source_4&Portland&Jacksonville:0.4621171572600098
+source_4&Jacksonville&San Jose:0.4621171572600098
+source_4&San Jose&Jacksonville:0.4621171572600098
+source_4&Jacksonville&San Diego:0.4621171572600098
+source_4&San Diego&Jacksonville:0.4621171572600098
+source_4&Jacksonville&Seattle:0.4621171572600098
+source_4&Seattle&Jacksonville:0.4621171572600098
+source_4&Jacksonville&Washington:0.4621171572600098
+source_4&Washington&Jacksonville:0.4621171572600098
+source_4&Las Vegas&Los Angeles:0.4621171572600098
+source_4&Los Angeles&Las Vegas:0.4621171572600098
+source_4&Las Vegas&Milwaukee:0.4621171572600098
+source_4&Milwaukee&Las Vegas:0.4621171572600098
+source_4&Las Vegas&Nashville:0.4621171572600098
+source_4&Nashville&Las Vegas:0.4621171572600098
+source_4&Las Vegas&Philadelphia:0.4621171572600098
+source_4&Philadelphia&Las Vegas:0.4621171572600098
+source_4&Las Vegas&Phoenix:0.4621171572600098
+source_4&Phoenix&Las Vegas:0.4621171572600098
+source_4&Las Vegas&Portland:0.4621171572600098
+source_4&Portland&Las Vegas:0.4621171572600098
+source_4&Las Vegas&San Jose:0.4621171572600098
+source_4&San Jose&Las Vegas:0.4621171572600098
+source_4&Las Vegas&San Diego:0.4621171572600098
+source_4&San Diego&Las Vegas:0.4621171572600098
+source_4&Las Vegas&Seattle:0.4621171572600098
+source_4&Seattle&Las Vegas:0.4621171572600098
+source_4&Las Vegas&Washington:0.4621171572600098
+source_4&Washington&Las Vegas:0.4621171572600098
+source_4&Los Angeles&Milwaukee:0.4621171572600098
+source_4&Milwaukee&Los Angeles:0.4621171572600098
+source_4&Los Angeles&Nashville:0.4621171572600098
+source_4&Nashville&Los Angeles:0.4621171572600098
+source_4&Los Angeles&Philadelphia:0.4621171572600098
+source_4&Philadelphia&Los Angeles:0.4621171572600098
+source_4&Los Angeles&Phoenix:0.4621171572600098
+source_4&Phoenix&Los Angeles:0.4621171572600098
+source_4&Los Angeles&Portland:0.4621171572600098
+source_4&Portland&Los Angeles:0.4621171572600098
+source_4&Los Angeles&San Jose:0.4621171572600098
+source_4&San Jose&Los Angeles:0.4621171572600098
+source_4&Los Angeles&San Diego:0.4621171572600098
+source_4&San Diego&Los Angeles:0.4621171572600098
+source_4&Los Angeles&Seattle:0.4621171572600098
+source_4&Seattle&Los Angeles:0.4621171572600098
+source_4&Los Angeles&Washington:0.4621171572600098
+source_4&Washington&Los Angeles:0.4621171572600098
+source_4&Milwaukee&Nashville:0.4621171572600098
+source_4&Nashville&Milwaukee:0.4621171572600098
+source_4&Milwaukee&Philadelphia:0.4621171572600098
+source_4&Philadelphia&Milwaukee:0.4621171572600098
+source_4&Milwaukee&Phoenix:0.4621171572600098
+source_4&Phoenix&Milwaukee:0.4621171572600098
+source_4&Milwaukee&Portland:0.4621171572600098
+source_4&Portland&Milwaukee:0.4621171572600098
+source_4&Milwaukee&San Jose:0.4621171572600098
+source_4&San Jose&Milwaukee:0.4621171572600098
+source_4&Milwaukee&San Diego:0.4621171572600098
+source_4&San Diego&Milwaukee:0.4621171572600098
+source_4&Milwaukee&Seattle:0.4621171572600098
+source_4&Seattle&Milwaukee:0.4621171572600098
+source_4&Milwaukee&Washington:0.4621171572600098
+source_4&Washington&Milwaukee:0.4621171572600098
+source_4&Nashville&Philadelphia:0.4621171572600098
+source_4&Philadelphia&Nashville:0.4621171572600098
+source_4&Nashville&Phoenix:0.4621171572600098
+source_4&Phoenix&Nashville:0.4621171572600098
+source_4&Nashville&Portland:0.4621171572600098
+source_4&Portland&Nashville:0.4621171572600098
+source_4&Nashville&San Jose:0.4621171572600098
+source_4&San Jose&Nashville:0.4621171572600098
+source_4&Nashville&San Diego:0.4621171572600098
+source_4&San Diego&Nashville:0.4621171572600098
+source_4&Nashville&Seattle:0.4621171572600098
+source_4&Seattle&Nashville:0.4621171572600098
+source_4&Nashville&Washington:0.4621171572600098
+source_4&Washington&Nashville:0.4621171572600098
+source_4&Philadelphia&Phoenix:0.4621171572600098
+source_4&Phoenix&Philadelphia:0.4621171572600098
+source_4&Philadelphia&Portland:0.4621171572600098
+source_4&Portland&Philadelphia:0.4621171572600098
+source_4&Philadelphia&San Jose:0.4621171572600098
+source_4&San Jose&Philadelphia:0.4621171572600098
+source_4&Philadelphia&San Diego:0.4621171572600098
+source_4&San Diego&Philadelphia:0.4621171572600098
+source_4&Philadelphia&Seattle:0.4621171572600098
+source_4&Seattle&Philadelphia:0.4621171572600098
+source_4&Philadelphia&Washington:0.4621171572600098
+source_4&Washington&Philadelphia:0.4621171572600098
+source_4&Phoenix&Portland:0.4621171572600098
+source_4&Portland&Phoenix:0.4621171572600098
+source_4&Phoenix&San Jose:0.4621171572600098
+source_4&San Jose&Phoenix:0.4621171572600098
+source_4&Phoenix&San Diego:0.4621171572600098
+source_4&San Diego&Phoenix:0.4621171572600098
+source_4&Phoenix&Seattle:0.4621171572600098
+source_4&Seattle&Phoenix:0.4621171572600098
+source_4&Phoenix&Washington:0.4621171572600098
+source_4&Washington&Phoenix:0.4621171572600098
+source_4&Portland&San Jose:0.4621171572600098
+source_4&San Jose&Portland:0.4621171572600098
+source_4&Portland&San Diego:0.4621171572600098
+source_4&San Diego&Portland:0.4621171572600098
+source_4&Portland&Seattle:0.4621171572600098
+source_4&Seattle&Portland:0.4621171572600098
+source_4&Portland&Washington:0.4621171572600098
+source_4&Washington&Portland:0.4621171572600098
+source_4&San Jose&San Diego:0.4621171572600098
+source_4&San Diego&San Jose:0.4621171572600098
+source_4&San Jose&Seattle:0.4621171572600098
+source_4&Seattle&San Jose:0.4621171572600098
+source_4&San Jose&Washington:0.4621171572600098
+source_4&Washington&San Jose:0.4621171572600098
+source_4&San Diego&Seattle:0.4621171572600098
+source_4&Seattle&San Diego:0.4621171572600098
+source_4&San Diego&Washington:0.4621171572600098
+source_4&Washington&San Diego:0.4621171572600098
+source_4&Seattle&Washington:0.4621171572600098
+source_4&Washington&Seattle:0.4621171572600098

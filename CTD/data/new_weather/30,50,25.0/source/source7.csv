@@ -1,0 +1,294 @@
+entity,Domain,Conditions,Humidity,day
+5,Austin,Showers,87,1
+10,Austin,Rain,93,1
+13,Austin,Cloudy,76,1
+25,Austin,Cloudy,86,1
+31,Austin,Cloudy,89,1
+35,Austin,Cloudy,81,1
+38,Austin,Cloudy,82,1
+39,Austin,Cloudy,87,1
+43,Austin,Cloudy,87,1
+50,Austin,Cloudy,82,1
+60,,,,
+91,Austin,Cloudy,63,1
+104,Austin,Partly Cloudy,65,1
+112,Austin,Sunny,54,1
+130,Austin,Cloudy,84,1
+132,Austin,Cloudy,82,1
+145,Austin,Cloudy,80,1
+149,Austin,Showers,93,1
+154,Austin,Cloudy,93,1
+156,Austin,Rain,100,1
+167,Austin,Cloudy,95,1
+174,,,,
+205,Austin,Fog,93,1
+209,Austin,Fog,93,1
+251,,,,
+254,,,,
+257,,,,
+259,Austin,Cloudy,81,1
+273,Austin,Showers,86,1
+275,Austin,Rain,93,1
+280,Austin,Showers,97,1
+302,,,,
+314,,,,
+315,,,,
+324,Baltimore,Partly Cloudy,30,1
+342,Baltimore,Clear,37,1
+376,,,,
+382,,,,
+398,,,,
+407,Baltimore,Cloudy,27,1
+408,Baltimore,Cloudy,28,1
+428,Baltimore,Snow,76,1
+441,Baltimore,Snow Showers,55,1
+462,Baltimore,Sunny,22,1
+467,Baltimore,Sunny,29,1
+483,Baltimore,Clear,53,1
+496,,,,
+498,,,,
+517,Baltimore,Partly Cloudy,43,1
+528,Baltimore,Partly Cloudy,69,1
+535,Baltimore,Cloudy,66,1
+552,,,,
+565,,,,
+600,Baltimore,Mostly Cloudy,78,1
+611,,,,
+625,,,,
+646,,,,
+649,,,,
+655,,,,
+660,,,,
+669,,,,
+671,,,,
+673,,,,
+676,,,,
+684,,,,
+692,,,,
+731,,,,
+734,,,,
+746,,,,
+756,,,,
+768,,,,
+774,,,,
+776,,,,
+789,,,,
+791,,,,
+798,,,,
+801,,,,
+831,,,,
+837,,,,
+843,,,,
+848,,,,
+852,,,,
+859,,,,
+908,,,,
+961,Charlotte,Mostly Cloudy,48,1
+965,Charlotte,Partly Cloudy,44,1
+997,Charlotte,Partly Cloudy,90,1
+1000,Charlotte,Partly Cloudy,92,1
+1001,Charlotte,Partly Cloudy,91,1
+1011,Charlotte,Mostly Sunny,45,1
+1074,Charlotte,Cloudy,73,1
+1080,Charlotte,Cloudy,72,1
+1083,Charlotte,Mostly Cloudy,66,1
+1084,Charlotte,Partly Cloudy,72,1
+1086,Charlotte,Partly Cloudy,77,1
+1107,Charlotte,Mostly Clear,57,1
+1113,Charlotte,Clear,70,1
+1152,Charlotte,Partly Cloudy,57,1
+1154,Charlotte,Mostly Clear,49,1
+1166,Charlotte,Cloudy,72,1
+1183,Charlotte,Cloudy,90,1
+1224,Charlotte,Cloudy,92,1
+1226,Charlotte,Cloudy,92,1
+1234,Charlotte,Fog,98,1
+1237,Charlotte,Fog,95,1
+1239,Charlotte,Fog,94,1
+1240,Charlotte,Fog,93,1
+1286,Chicago,Mostly Cloudy,47,1
+1288,Chicago,Mostly Cloudy,44,1
+1294,Chicago,Cloudy,33,1
+1298,Chicago,Cloudy,53,1
+1304,Chicago,Partly Cloudy,52,1
+1308,Chicago,Partly Cloudy,58,1
+1313,Chicago,Mostly Cloudy,61,1
+1317,Chicago,Cloudy,65,1
+1318,Chicago,Cloudy,61,1
+1331,Chicago,Cloudy,52,1
+1333,,,,
+1335,,,,
+1341,,,,
+1342,,,,
+1343,,,,
+1350,,,,
+1365,Chicago,Cloudy,52,1
+1388,Chicago,Partly Cloudy,42,1
+1393,Chicago,Partly Cloudy,53,1
+1403,Chicago,Mostly Cloudy,71,1
+1406,Chicago,Mostly Cloudy,63,1
+1411,Chicago,Mostly Cloudy,76,1
+1416,Chicago,Partly Cloudy,71,1
+1438,Chicago,Partly Cloudy,78,1
+1440,Chicago,Cloudy,80,1
+1450,,,,
+1462,,,,
+1468,,,,
+1472,Chicago,Partly Cloudy,50,1
+1486,Chicago,Snow Showers,88,1
+1503,Chicago,Cloudy,81,1
+1507,,,,
+1546,Chicago,Cloudy,79,1
+1557,Chicago,Cloudy,77,1
+1570,,,,
+1573,,,,
+1583,,,,
+1588,,,,
+1611,Columbus,Mostly Cloudy,41,1
+1614,Columbus,Partly Cloudy,46,1
+1631,Columbus,Mostly Clear,74,1
+1633,Columbus,Partly Cloudy,81,1
+1641,Columbus,Sunny,69,1
+1642,Columbus,Partly Cloudy,69,1
+1646,Columbus,Sunny,53,1
+1651,Columbus,Partly Cloudy,46,1
+1686,Columbus,Partly Cloudy,58,1
+1696,Columbus,Mostly Cloudy,57,1
+1703,Columbus,Mostly Cloudy,59,1
+1717,Columbus,Mostly Clear,61,1
+1723,Columbus,Clear,81,1
+1740,Columbus,Mostly Sunny,62,1
+1745,Columbus,Sunny,46,1
+1752,Columbus,Cloudy,74,1
+1753,Columbus,Cloudy,77,1
+1754,Columbus,Partly Cloudy,82,1
+1800,Columbus,Partly Cloudy,73,1
+1871,Columbus,Cloudy,81,1
+1874,Columbus,Cloudy,86,1
+1926,Dallas,Showers,94,1
+1940,Dallas,Mostly Cloudy,78,1
+1959,Dallas,Cloudy,91,1
+1961,Dallas,Cloudy,83,1
+1963,Dallas,Cloudy,78,1
+1968,Dallas,Cloudy,69,1
+1985,,,,
+1995,,,,
+1999,,,,
+2010,Dallas,Cloudy,73,1
+2014,Dallas,Cloudy,75,1
+2024,Dallas,Cloudy,73,1
+2026,Dallas,Cloudy,69,1
+2047,Dallas,Cloudy,79,1
+2051,Dallas,Cloudy,80,1
+2053,Dallas,Cloudy,83,1
+2073,Dallas,Cloudy,76,1
+2079,Dallas,Showers,88,1
+2091,,,,
+2108,,,,
+2110,Dallas,Cloudy,87,1
+2111,,,,
+2112,Dallas,Cloudy,87,1
+2115,Dallas,Cloudy,74,1
+2120,Dallas,Cloudy,87,1
+2121,Dallas,Cloudy,87,1
+2152,,,,
+2161,,,,
+2175,,,,
+2176,,,,
+2180,Dallas,Partly Cloudy,65,1
+2211,,,,
+2220,,,,
+2223,,,,
+2226,,,,
+2247,Denver,Partly Cloudy,92,1
+2268,Denver,Partly Cloudy,70,1
+2272,Denver,Mostly Clear,84,1
+2273,Denver,Partly Cloudy,73,1
+2281,Denver,Mostly Sunny,35,1
+2305,,,,
+2309,,,,
+2318,,,,
+2320,,,,
+2323,,,,
+2328,Denver,Mostly Clear,32,1
+2332,Denver,Clear,42,1
+2350,Denver,Partly Cloudy,27,1
+2355,Denver,Partly Cloudy,23,1
+2358,Denver,Partly Cloudy,49,1
+2365,Denver,Mostly Cloudy,50,1
+2396,Denver,Cloudy,51,1
+2402,Denver,Cloudy,70,1
+2417,,,,
+2423,,,,
+2442,Denver,Clear,40,1
+2445,Denver,Clear,39,1
+2447,Denver,Clear,39,1
+2451,Denver,Mostly Clear,37,1
+2457,Denver,Sunny,33,1
+2479,,,,
+2500,Denver,Mostly Cloudy,37,1
+2535,,,,
+2543,,,,
+2548,,,,
+2549,,,,
+2552,,,,
+2558,,,,
+2580,Detroit,Clear,51,1
+2589,Detroit,Clear,61,1
+2605,Detroit,Cloudy,43,1
+2611,Detroit,Cloudy,58,1
+2625,,,,
+2631,,,,
+2648,Detroit,Clear,52,1
+2649,Detroit,Clear,55,1
+2650,Detroit,Clear,64,1
+2672,Detroit,Partly Cloudy,52,1
+2685,Detroit,Partly Cloudy,71,1
+2687,Detroit,Clear,73,1
+2691,Detroit,Mostly Clear,78,1
+2692,Detroit,Mostly Clear,77,1
+2710,Detroit,Cloudy,64,1
+2712,Detroit,Partly Cloudy,63,1
+2743,,,,
+2746,,,,
+2798,,,,
+2877,,,,
+3017,El Paso,Cloudy,82,1
+3120,,,,
+3259,,,,
+3373,,,,
+3512,,,,
+3513,,,,
+3534,Houston,Cloudy,84,1
+3773,,,,
+3775,,,,
+3839,,,,
+4012,,,,
+4149,,,,
+4150,,,,
+4153,,,,
+4219,,,,
+4323,Jacksonville,Cloudy,84,1
+4462,,,,
+4866,,,,
+4981,,,,
+5036,,,,
+5050,,,,
+5185,,,,
+5268,Memphis,Cloudy,69,1
+5419,,,,
+5619,,,,
+6068,,,,
+6368,New York,Mostly Cloudy,57,1
+7346,,,,
+7413,,,,
+7416,,,,
+7422,,,,
+8173,,,,
+8180,,,,
+8208,San Diego,Cloudy,81,1
+8297,,,,
+8792,San Jose,Cloudy,83,1
+9130,,,,
+9293,Washington,Cloudy,32,1
+9516,,Mostly,66,1

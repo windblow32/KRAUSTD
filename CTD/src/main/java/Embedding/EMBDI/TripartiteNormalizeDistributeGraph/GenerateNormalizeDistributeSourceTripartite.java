@@ -67,7 +67,9 @@ public class GenerateNormalizeDistributeSourceTripartite implements Serializable
             for(String s : sourceGraph.column_i){
                 // store attribute into sourceGraph
                 sourceGraph.addVertex(s);
-                sourceGraph.all_nodes.add(s);
+                if(!sourceGraph.all_nodes.contains(s)){
+                    sourceGraph.all_nodes.add(s);
+                }
             }
             fd.close();
             br.close();
@@ -88,7 +90,9 @@ public class GenerateNormalizeDistributeSourceTripartite implements Serializable
             }
             if(dropSampleEdge==0){
                 sourceGraph.addVertex(SAMPLE);
-                sourceGraph.all_nodes.add(SAMPLE);
+                if(!sourceGraph.all_nodes.contains(SAMPLE)){
+                    sourceGraph.all_nodes.add(SAMPLE);
+                }
             }
 
             for(String files: fileList){
@@ -211,7 +215,9 @@ public class GenerateNormalizeDistributeSourceTripartite implements Serializable
                                     for(String sw : s_word){
                                         // G.addNode(word)
                                         sourceGraph.addVertex(sw);
-                                        sourceGraph.all_nodes.add(sw);
+                                        if(!sourceGraph.all_nodes.contains(sw)){
+                                            sourceGraph.all_nodes.add(sw);
+                                        }
                                         // G.addEdge(word,Ri)
                                         // 计算value的点权
                                         int v_value = N(ValueDistributeLow,ValueDistributeHigh);
@@ -225,7 +231,9 @@ public class GenerateNormalizeDistributeSourceTripartite implements Serializable
                                 }
                                 // G.addNode(word)
                                 sourceGraph.addVertex(word);
-                                sourceGraph.all_nodes.add(word);
+                                if(!sourceGraph.all_nodes.contains(word)){
+                                    sourceGraph.all_nodes.add(word);
+                                }
                                 // G.addEdge(word,Ri)
                                 // 计算value的点权
                                 int v_value = N(ValueDistributeLow,ValueDistributeHigh);
@@ -244,7 +252,9 @@ public class GenerateNormalizeDistributeSourceTripartite implements Serializable
                             for (String word : value_i) {
                                 // G.addNode(word)
                                 sourceGraph.addVertex(word);
-                                sourceGraph.all_nodes.add(word);
+                                if(!sourceGraph.all_nodes.contains(word)){
+                                    sourceGraph.all_nodes.add(word);
+                                }
                                 // G.addEdge(word,Ri)
                                 // 计算value的点权
                                 int v_value = N(ValueDistributeLow,ValueDistributeHigh);
@@ -258,11 +268,18 @@ public class GenerateNormalizeDistributeSourceTripartite implements Serializable
                         }
                         else{
                             sourceGraph.addVertex(Vk);
-                            sourceGraph.all_nodes.add(Vk);
+                            if(!sourceGraph.all_nodes.contains(Vk)){
+                                sourceGraph.all_nodes.add(Vk);
+                            }
                             // 将数值和属性连接
                             int v_value = N(ValueDistributeLow,ValueDistributeHigh);
                             int column_value = N(AttrDistributeLow,AttrDistributeHigh);
-                            sourceGraph.addEdge(Vk,sourceGraph.column_i.get(column),column_value*v_value);
+                            try{
+                                sourceGraph.addEdge(Vk,sourceGraph.column_i.get(column),column_value*v_value);
+                            }
+                            catch(IndexOutOfBoundsException e32){
+                                int xcsc = 2;
+                            }
                             sourceGraph.addEdge(Vk,source_id,source_value*v_value);
                             sourceGraph.addEdge(Vk,Ri,v_value*Ri_VexValue);
                         }

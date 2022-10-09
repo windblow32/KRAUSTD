@@ -1,0 +1,151 @@
+entity,Domain,Conditions,Humidity,day
+4.999999999999999,Austin,Rain,91.40683781533598,1.0
+9.999999999999998,Austin,Rain,93,1.0
+13.0,Austin,Cloudy,81,1.0
+24.999999999999996,Austin,Cloudy,81,1.0
+31.0,Austin,Cloudy,84,1.0
+35.0,Austin,Cloudy,81,1.0
+37.99999999999999,Austin,Cloudy,85,1.0
+39.0,Austin,Cloudy,87,1.0
+43.0,Austin,Cloudy;Overcast;Showers,93,1.0
+49.99999999999999,Austin,Cloudy;Fog;Haze,81,1.0
+59.99999999999998,Dallas,Overcast,84.99999999999999,1.0
+91.0,Austin,Partly Cloudy,64,1.0
+104.0,Austin,Clear,80,1.0
+111.99999999999999,Austin,Clear,53,1.0
+129.99999999999997,Austin,Cloudy,88,1.0
+131.99999999999997,Austin,Cloudy,88,1.0
+145.0,Austin,Cloudy,81,1.0
+148.99999999999994,Austin,Rain,93,1.0
+154.00000000000003,Austin,Cloudy;Overcast;Showers,93,1.0
+156.0,Austin,Rain,100,1.0
+166.99999999999997,Austin,Cloudy;Fog;Fog And Mist;Light Rain;Light Rain Mist,100,1.0
+173.99999999999997,Fort Worth,Mist/Fog,92.99999999999997,1.0
+204.99999999999997,Austin,Fog;Overcast;Showers;Mist,93,1.0
+209.0,Austin,Fog;Overcast;Rain,93,1.0
+251.0,Fort Worth,Mist/Fog,86.0,1.0
+253.99999999999997,Fort Worth,Mist/Fog,86.0,1.0
+256.99999999999994,Fort Worth,Overcast with Haze,79.99999999999999,1.0
+258.99999999999994,Austin,Cloudy,76,1.0
+273.0,Austin,Rain,87,1.0
+275.0,Austin,Rain,93,1.0
+1080.0,Charlotte,Cloudy,80,1.0
+1967.9999999999995,Dallas,Cloudy,68,1.0
+2014.0000000000002,Dallas,Cloudy,75,1.0
+2050.9999999999995,Dallas,Cloudy,82,1.0
+2052.999999999999,Dallas,Cloudy,85,1.0
+2119.9999999999995,Dallas,Cloudy,81,1.0
+2611.0,Detroit,Cloudy,54,1.0
+3017.0,El Paso,Cloudy,82,1.0
+3546.999999999999,Houston,Partly Cloudy,81,1.0
+3649.9999999999995,Houston,Cloudy,75,1.0
+3659.0,Houston,Cloudy,75,1.0
+4051.0,Indianapolis,Cloudy,75,1.0
+4280.0,Jacksonville,Cloudy,89,1.0
+5267.999999999999,Memphis,Cloudy,55,1.0
+5316.0,Memphis,Cloudy,57,1.0
+5478.999999999998,Milwaukee,Cloudy,67,1.0
+5484.999999999999,Milwaukee,Cloudy,53,1.0
+5764.999999999999,Nashville,Cloudy,58,1.0
+5953.0,Nashville,Cloudy,73,1.0
+6020.999999999999,Nashville,Cloudy,62,1.0
+7314.0,Phoenix,Cloudy,64,1.0
+7449.000000000001,Portland,Light Rain,79,1.0
+8208.0,San Diego,Cloudy,80,1.0
+8280.0,San Diego,Mostly Cloudy,77,1.0
+8791.999999999998,San Jose,Cloudy,80,1.0
+9584.0,Milwaukee,Mist/Fog,84.99999999999999,1.0
+1387.9999999999998,Chicago,Partly Cloudy,54,1.0
+1393.0,Chicago,Mostly Cloudy,62,1.0
+1403.0,Chicago,Cloudy,74,1.0
+1406.0,Chicago,Mostly Cloudy,71,1.0
+1411.0,Chicago,Mostly Cloudy,79,1.0
+1415.9999999999998,Chicago,Partly Cloudy,71,1.0
+1471.9999999999995,Chicago,Partly Cloudy,61,1.0
+2010.0,Dallas,Cloudy,75,1.0
+2023.9999999999998,Dallas,Cloudy,74,1.0
+2026.0,Dallas,Cloudy,74,1.0
+2046.9999999999998,Dallas,Cloudy,82,1.0
+2884.9999999999995,El Paso,Cloudy,85,1.0
+2888.9999999999995,El Paso,Mostly Cloudy,80,1.0
+2894.9999999999995,El Paso,Partly Cloudy,65,1.0
+2969.0,El Paso,Clear,62,1.0
+2974.0000000000005,El Paso,Clear,75,1.0
+2994.9999999999995,El Paso,Cloudy,43,1.0
+3001.9999999999995,El Paso,Partly Cloudy,65,1.0
+3023.9999999999995,El Paso,Mostly Cloudy,44,1.0
+3025.9999999999995,El Paso,Mostly Cloudy,41,1.0
+3290.9999999999995,Fort Worth,Cloudy,78,1.0
+3295.9999999999995,Fort Worth,Cloudy,74,1.0
+3302.0000000000005,Fort Worth,Cloudy,77,1.0
+3306.9999999999995,Fort Worth,Cloudy,74,1.0
+3313.999999999999,Fort Worth,Cloudy,74,1.0
+3316.0,Fort Worth,Cloudy,78,1.0
+3318.9999999999995,Fort Worth,Cloudy,78,1.0
+3323.9999999999995,Fort Worth,Cloudy,81,1.0
+3342.9999999999995,Fort Worth,Cloudy,81,1.0
+3533.9999999999995,Houston,Cloudy,82,1.0
+3855.999999999999,Indianapolis,Mostly Cloudy,59,1.0
+3950.9999999999995,Indianapolis,Partly Cloudy,55,1.0
+3953.9999999999995,Indianapolis,Partly Cloudy,55,1.0
+3980.0,Indianapolis,Clear,68,1.0
+3982.9999999999986,Indianapolis,Clear,58,1.0
+4305.999999999999,Jacksonville,Mostly Cloudy,70,1.0
+4584.0,Las Vegas,Mostly Sunny,75,1.0
+4887.999999999999,Los Angeles,Clear,59,1.0
+4899.0,Los Angeles,Partly Cloudy,82,1.0
+4900.0,Los Angeles,Haze,82,1.0
+4934.0,Los Angeles,Clear,83,1.0
+4938.0,Los Angeles,Haze,87,1.0
+4939.999999999999,Los Angeles,Sunny,74,1.0
+4941.0,Los Angeles,Sunny,63,1.0
+4942.0,Los Angeles,Sunny,52,1.0
+4943.999999999999,Los Angeles,Mostly Sunny,46,1.0
+4992.999999999999,Los Angeles,Clear,71,1.0
+5439.999999999999,Milwaukee,Partly Cloudy,47,1.0
+5446.000000000001,Milwaukee,Partly Cloudy,60,1.0
+5454.999999999999,Milwaukee,Partly Cloudy,51,1.0
+5525.999999999999,Milwaukee,Partly Cloudy,64,1.0
+5527.0,Milwaukee,Partly Cloudy,62,1.0
+5533.999999999999,Milwaukee,Cloudy,57,1.0
+5548.0,Milwaukee,Light Snow,86,1.0
+5572.999999999999,Milwaukee,Mostly Cloudy,73,1.0
+5580.999999999999,Milwaukee,Partly Cloudy,46,1.0
+5867.999999999999,Nashville,Cloudy,77,1.0
+5872.999999999998,Nashville,Cloudy,74,1.0
+5887.999999999998,Nashville,Clear,84,1.0
+5905.0,Nashville,Clear,42,1.0
+6866.000000000002,Philadelphia,Clear,37,1.0
+6909.999999999999,Philadelphia,Cloudy,64,1.0
+7048.000000000001,Phoenix,Partly Cloudy,89,1.0
+7051.999999999999,Phoenix,Partly Cloudy,74,1.0
+7054.999999999998,Phoenix,Partly Cloudy,58,1.0
+7125.999999999998,Phoenix,Partly Cloudy,43,1.0
+7130.999999999999,Phoenix,Partly Cloudy,59,1.0
+7145.999999999998,Phoenix,Mostly Cloudy,56,1.0
+7149.999999999998,Phoenix,Mostly Cloudy,37,1.0
+7150.999999999999,Phoenix,Mostly Cloudy,35,1.0
+7151.999999999999,Phoenix,Mostly Cloudy,34,1.0
+7464.000000000001,Portland,Cloudy,81,1.0
+7476.999999999999,Portland,Cloudy,82,1.0
+7485.0,Portland,Cloudy,93,1.0
+7496.999999999999,Portland,Fog,100,1.0
+7552.999999999999,Portland,Cloudy,68,1.0
+8008.999999999998,San Diego,Mostly Cloudy,77,1.0
+8099.999999999999,San Diego,Fog,86,1.0
+8104.0,San Diego,Mostly Cloudy,82,1.0
+8110.0,San Diego,Partly Cloudy,62,1.0
+8111.0,San Diego,Partly Cloudy,67,1.0
+8122.999999999999,San Diego,Partly Cloudy,77,1.0
+8135.0,San Diego,Haze,82,1.0
+8140.000000000001,San Diego,Haze,79,1.0
+8142.999999999999,San Diego,Partly Cloudy,64,1.0
+8649.0,San Jose,Mostly Cloudy,93,1.0
+8969.0,Seattle,Mostly Cloudy,71,1.0
+9051.999999999998,Seattle,Cloudy,79,1.0
+9065.999999999998,Seattle,Light Rain,93,1.0
+9069.0,Seattle,Cloudy,87,1.0
+9075.999999999998,Seattle,Light Rain,87,1.0
+9079.000000000002,Seattle,Cloudy,87,1.0
+9084.0,Seattle,Cloudy,93,1.0
+9423.000000000002,Washington,Clear,31,1.0

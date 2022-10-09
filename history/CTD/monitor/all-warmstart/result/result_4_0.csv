@@ -1,21 +1,101 @@
-sample,change%,last_trade_price,open_price,volumn,today_high,today_low,previous_close,52wk_H,52wk_L
-22.000000000000004,LCD Monitor,5:04,5.0,100.00,1.0
-24.999999999999996,LCD Monitor,16:10,4.166666666666667,100.00,0.8333333333333334
-27.000000000000004,LCD Monitor,16:09,5.0,100.00,1.0
-27.999999999999996,LCD Monitor,16:09,4.166666666666667,100.00,0.8333333333333334
-32.0,LCD Monitor,16:09,5.0,100.00,1.0
-33.00000000000001,LCD Monitor,16:09,2.3333333333333335,100.00,1.0
-39.00000000000001,LCD Monitor,16:09,4.75,100.00,1.0
-40.0,LCD Monitor,16:09,4.166666666666667,100.00,0.8333333333333334
-41.00000000000001,LCD Monitor,16:09,5.0,100.00,1.0
-61.99999999999999,LCD Monitor,16:10,13.999999999999998,100.00,1.0
-88.00000000000001,LCD Monitor,16:09,2.0,100.00,1.0
-102.99999999999999,LCD Monitor,16:09,5.0,100.00,1.0
-128.0,LCD Monitor,16:10,6,100.00,1
-132.00000000000003,LCD Monitor,21:09,5.0,100.00,1.0
-133.0,LCD Monitor,16:09,8.0,100.00,1.0
-168.00000000000003,LCD Monitor,16:09,2.0,100.00,1.0
-171.00000000000003,LCD Monitor,16:09,2,100.00,1
-186.00000000000003,LCD Monitor,16:10,5.0,100.00,1.0
-190.0,LCD Monitor,16:09,5.0,100.00,1.0
-193.0,LCD Monitor,16:09,4.166666666666667,100.00,0.8333333333333334
+entity,brand,screen_type,supported_aspect_ratio,response_time(ms),screen_size_diagonal,day
+22_2,Philips Electronics,LCD Monitor,5:04,5.0974094685,48.592066755000005,1.0
+25_2,Philips Electronics,LCD Monitor,16:10,4.038734973166667,45.76526843833333,0.8333333333333334
+27_2,Philips Electronics,LCD Monitor,16:09,4.938798906333334,53.79724581833334,1.0
+28_2,Philips Electronics,LED,16:09,4.958772703666667,55.47646746833334,1.0
+32_2,Philips Electronics,LCD Monitor,16:09,4.295808287500001,52.27302690166667,0.8333333333333334
+33_2,Philips Electronics,LCD Monitor,16:09,3.0698232586666667,60.06361518166667,1.0
+39_2,Philips Electronics,Brilliance LCD Monitor,16:08,3.9689176608333336,66.41224522833335,1.0
+40_2,Philips Electronics,TFT/LCD,16:09,4.845652325166667,70.21934924333334,1.0
+41_2,Philips Electronics,TFT/LCD,16:09,4.141753744166667,55.35483044333334,0.8333333333333334
+62_2,Philips Electronics,IPS,16:09,12.636761540166669,63.05575050666667,1.0
+88_2,iiyama North America,TN+Film,16:09,3.916399400833334,58.269200635000004,1.0
+103_2,Hannspree,LED,16:09,4.515871204833333,52.41717348000001,1.0
+128_2,Asus,LCD Monitor,16:11,6,60.7452146,1
+132_2,Asus,LCD Monitor,21:09,5.2356011596666665,71.95761890333334,1.0
+133_2,Asus,IGZO,16:09,7.5105983965,78.94205532333334,1.0
+168_2,Asus,LCD,16:09,2.9719490655000005,71.88868873000001,1.0
+171_2,Asus,LCD Monitor,16:10,1.882792081,66.21457049,1
+186_2,Asus,TN+Film,16:09,4.348461930833334,57.061181055,1.0
+190_2,Asus,IPS,16:09,4.913318449666667,67.27902789500001,1.0
+193_2,iiyama North America,IPS,16:09,5.231610119666667,62.55200915666667,1.0
+22_1,Philips Electronics,LCD Monitor,5:04,5,0,0.8333333333333334
+25_1,Philips Electronics,LCD Monitor,16:10,5,0,1.0
+27_1,Philips Electronics,LCD Monitor,16:09,5,0,1.0
+28_1,Philips Electronics,LCD Monitor,16:09,5,0,1.0
+32_1,Philips Electronics,LCD Monitor,16:09,5,0,1.0
+33_1,Philips Electronics,LCD Monitor,16:09,5,0,1.0
+39_1,Philips Electronics,LCD Monitor,16:09,5,0,1.0
+40_1,Philips Electronics,LCD Monitor,16:09,5,0,1.0
+41_1,Philips Electronics,LCD Monitor,16:09,5,0,1.0
+62_1,Philips Electronics,LCD Monitor,16:10,5,0,1.0
+88_1,iiyama North America,LCD Monitor,16:09,2,0,1.0
+103_1,Hannspree,LCD Monitor,16:09,2,0,1.0
+128_1,Asus,LCD Monitor,16:10,5,0,1.0
+132_1,Asus,LCD Monitor,21:09,5,0,1.0
+133_1,Asus,LCD Monitor,16:09,5,0,1.0
+168_1,Asus,LCD Monitor,16:09,2,0,1.0
+171_1,Asus,LCD Monitor,16:09,2,0,1.0
+186_1,Asus,LCD Monitor,16:10,2,0,1.0
+190_1,Asus,LCD Monitor,16:09,5,0,1.0
+193_1,iiyama North America,LCD Monitor,16:09,5,0,1.0
+22_3,Philips Electronics,LCD,5:04,5,0,1.0
+25_3,Philips Electronics,LCD Monitor,16:10,5,0,1.0
+27_3,Philips Electronics,LED,16:09,5,0,1.0
+28_3,Philips Electronics,LED,16:09,5,0,1.0
+32_3,Philips Electronics,LCD Monitor,16:09,5,0,1.0
+33_3,Philips Electronics,LCD Monitor,16:09,5,0,1.0
+39_3,Philips Electronics,Brilliance LCD Monitor,16:09,5,0,1.0
+40_3,Philips Electronics,TFT/LCD,16:09,5,0,1.0
+41_3,Philips Electronics,TFT/LCD,16:09,5,0,1.0
+62_3,Philips Electronics,IPS,16:09,5,0,1.0
+88_3,iiyama North America,TN+Film,16:09,2,0,1.0
+103_3,Hannspree,LED,16:09,2,0,1.0
+128_3,Asus,LCD Monitor,16:11,5,0,1.0
+132_3,Asus,LCD Monitor,21:09,5,0,1.0
+133_3,Asus,IGZO,16:09,5,0,1.0
+168_3,Asus,LCD,16:09,2,0,1.0
+171_3,Asus,LCD Monitor,16:09,2,0,1.0
+186_3,Asus,TN+Films,16:09,2,0,1.0
+190_3,Asus,IPS,16:09,5,0,1.0
+193_3,iiyama North America,IP,16:09,5,0,1.0
+22_4,Philips Electronics,LCD,5:04,5,0,1.0
+25_4,Philips Electronics,LCD,16:10,5,0,1.0
+27_4,Philips Electronics,LEDs,16:09,5,0,1.0
+28_4,Philips Electronics,LED,16:09,5,0,1.0
+32_4,Philips Electronics,LCD Monitor,16:09,5,0,1.0
+33_4,Philips Electronics,LCD Monitor,16:09,5,0,1.0
+39_4,Philips Electronics,Brilliance LCD Monitor,16:09,5,0,1.0
+40_4,Philips Electronics,TFT/LCD,16:09,5,0,1.0
+41_4,Philips Electronics,TFT/LCD,16:09,5,0,1.0
+62_4,Philips Electronics,IPS,16:09,5,0,1.0
+88_4,iiyama North America,TN+Film,16:09,2,0,1.0
+103_4,Hannspree,LED,16:09,2,0,1.0
+128_4,Asus,LCD Monitor,16:11,5,0,1.0
+132_4,Asus,LCD Monitor,21:09,5,0,1.0
+133_4,Asus,IGZO,16:09,5,0,1.0
+168_4,Asus,LCD,16:09,2,0,1.0
+171_4,Asus,LCD Monitor,16:09,2,0,1.0
+186_4,Asus,TN+Film,16:09,2,0,1.0
+190_4,Asus,IPS,16:09,5,0,1.0
+193_4,iiyama North America,IP,16:09,5,0,1.0
+22_5,Philips Electronics,LC,5:04,5,0,1.0
+25_5,Philips Electronics,LCD Monitor,16:10,5,0,1.0
+27_5,Philips Electronics,LCD Monitor,16:09,5,0,1.0
+28_5,Philips Electronics,LED,16:09,5,0,1.0
+32_5,Philips Electronics,LCD Monitor,16:09,5,0,1.0
+33_5,Philips Electronics,LCD Monitor,16:09,5,0,1.0
+39_5,Philips Electronics,LEDS,16:09,5,0,1.0
+40_5,Philips Electronics,TFT/LCD,16:09,5,0,1.0
+41_5,Philips Electronics,TFT/LCD,16:09,5,0,1.0
+62_5,Philips Electronics,IPS,16:09,5,0,1.0
+88_5,iiyama North America,TN+Film,16:09,2,0,1.0
+103_5,Hannspree,LED,16:09,2,0,1.0
+128_5,Asus,LCD Monitor,16:11,5,0,1.0
+132_5,Asus,IPS,21:09,5,0,1.0
+133_5,Asus,IG,16:09,5,0,1.0
+168_5,Asus,LCD,16:09,2,0,1.0
+171_5,Asus,16.7 million Colours,16:09,2,0,1.0
+186_5,Asus,TN,16:09,2,0,1.0
+190_5,Asus,IPS,16:09,5,0,1.0
+193_5,iiyama North America,IP,16:09,5,0,1.0

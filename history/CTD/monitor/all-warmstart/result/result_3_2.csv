@@ -1,21 +1,101 @@
-sample,change%,last_trade_price,open_price,volumn,today_high,today_low,previous_close,52wk_H,52wk_L
-22.000000000000004,LCD Monitor,5:04,5.0,100.00,1.0
-25.0,LCD Monitor,16:10,4.190087232860507,100.00,0.8380174465721013
-26.999999999999996,LCD Monitor,16:09,5.0,100.00,1.0
-28.000000000000004,LCD Monitor,16:09,4.203161644883005,100.00,0.8406323289766011
-32.0,LCD Monitor,16:09,5.0,100.00,1.0
-33.0,LCD Monitor,16:09,2.2834829243901997,100.00,1.0
-39.00000000000001,LCD Monitor,16:09,4.761667733495525,100.00,1.0
-40.0,LCD Monitor,16:09,4.203161644883005,100.00,0.8406323289766011
-41.00000000000001,LCD Monitor,16:09,5.0,100.00,1.0
-62.00000000000001,LCD Monitor,16:10,14.000000000000002,100.00,1.0
-88.00000000000001,LCD Monitor,16:09,2.0,100.00,1.0
-103.0,LCD Monitor,16:09,5.0,100.00,1.0
-128.0,LCD Monitor,16:10,6,100.00,1
-132.0,LCD Monitor,21:09,5.0,100.00,1.0
-133.00000000000006,LCD Monitor,16:09,8.0,100.00,1.0
-168.0,LCD Monitor,16:09,2.0,100.00,1.0
-171.0,LCD Monitor,16:09,2,100.00,1
-186.00000000000003,LCD Monitor,16:10,5.0,100.00,1.0
-190.0,LCD Monitor,16:09,5.0,100.00,1.0
-193.0,LCD Monitor,16:09,4.203161644883005,100.00,0.8406323289766011
+entity,brand,screen_type,supported_aspect_ratio,response_time(ms),screen_size_diagonal,day
+22_2,Philips Electronics,LCD Monitor,5:04,5.0859643139771915,48.91733842405453,1.0
+25_2,Philips Electronics,LCD Monitor,16:10,4.046238025627628,45.79349260694093,0.8357244862199629
+27_2,Philips Electronics,LCD Monitor,16:09,4.933657016685196,53.80963042479662,1.0
+28_2,Philips Electronics,LCD Monitor,16:09,4.972541317997747,55.522692078146925,1.0
+32_2,Philips Electronics,LCD Monitor,16:09,4.45310087528067,53.723843490340556,0.8607447585988527
+33_2,Philips Electronics,LCD Monitor,16:09,2.8522762223728706,60.26133425157513,1.0
+39_2,Philips Electronics,Brilliance LCD Monitor,16:10,4.101401524592199,66.1079874390561,1.0
+40_2,Philips Electronics,Monitor,16:09,4.844758899616041,70.21641509008681,1.0
+41_2,Philips Electronics,LCD Monitor,16:08,4.287215187038802,57.36600298044512,0.8607447585988527
+62_2,Philips Electronics,LCD Monitor,16:09,12.826025930391918,62.85620100846495,1.0
+88_2,iiyama North America,Brilliance LCD Monitor,16:09,3.6124378444590137,58.28652169587916,1.0
+103_2,Hannspree,LCD Monitor,16:09,4.593166469659481,52.11764052556557,1.0
+128_2,Asus,LCD Monitor,16:10,6,60.7452146,1
+132_2,Asus,LCD Monitor,21:09,5.1665379900653114,71.77557722886874,1.0
+133_2,Asus,Brilliance LCD Monitor,16:09,7.606058252581501,78.95031327444241,1.0
+168_2,Asus,LCD Monitor,16:09,2.811427286977293,71.4551072755612,1.0
+171_2,Asus,LCD Monitor,16:09,1.882792081,63.67587246,1
+186_2,Asus,Monitor,16:09,4.423697180870178,56.809945826783945,1.0
+190_2,Asus,Brilliance LCD Monitor,16:09,4.910319622689705,68.1837754738479,1.0
+193_2,iiyama North America,Brilliance LCD Monitor,16:09,5.235445989996729,62.03191628967028,1.0
+22_1,Philips Electronics,LCD Monitor,5:04,5,0,0.8607447585988527
+25_1,Philips Electronics,LCD Monitor,16:10,5,0,1.0
+27_1,Philips Electronics,LCD Monitor,16:09,5,0,1.0
+28_1,Philips Electronics,LCD Monitor,16:09,5,0,1.0
+32_1,Philips Electronics,LCD Monitor,16:09,5,0,1.0
+33_1,Philips Electronics,LCD Monitor,16:09,5,0,1.0
+39_1,Philips Electronics,LCD Monitor,16:09,5,0,1.0
+40_1,Philips Electronics,LCD Monitor,16:09,5,0,1.0
+41_1,Philips Electronics,LCD Monitor,16:09,5,0,1.0
+62_1,Philips Electronics,LCD Monitor,16:10,5,0,1.0
+88_1,iiyama North America,LCD Monitor,16:09,2,0,1.0
+103_1,Hannspree,LCD Monitor,16:09,5,0,1.0
+128_1,Asus,LCD Monitor,16:10,5,0,1.0
+132_1,Asus,LCD Monitor,21:09,5,0,1.0
+133_1,Asus,LCD Monitor,16:09,5,0,1.0
+168_1,Asus,LCD Monitor,16:09,2,0,1.0
+171_1,Asus,LCD Monitor,16:09,2,0,1.0
+186_1,Asus,LCD Monitor,16:10,5,0,1.0
+190_1,Asus,LCD Monitor,16:09,5,0,1.0
+193_1,iiyama North America,LCD Monitor,16:09,5,0,1.0
+22_3,Philips Electronics,LED Monitor,5:04,5,0,1.0
+25_3,Philips Electronics,LCD Monitor,16:10,5,0,1.0
+27_3,Philips Electronics,LCD Monitor,16:09,5,0,1.0
+28_3,Philips Electronics,LCD Monitor,16:09,5,0,1.0
+32_3,Philips Electronics,LCD Monitor,16:09,5,0,1.0
+33_3,Philips Electronics,LCD Monitor,16:09,5,0,1.0
+39_3,Philips Electronics,Brilliance LCD Monitor,16:09,5,0,1.0
+40_3,Philips Electronics,Monitor,16:09,5,0,1.0
+41_3,Philips Electronics,LCD Monitor,16:09,5,0,1.0
+62_3,Philips Electronics,LCD Monitor,16:09,5,0,1.0
+88_3,iiyama North America,Brilliance LCD Monitor,16:09,2,0,1.0
+103_3,Hannspree,LCD Monitor,16:09,5,0,1.0
+128_3,Asus,LCD Monitor,16:10,5,0,1.0
+132_3,Asus,LCD Monitor,21:09,5,0,1.0
+133_3,Asus,Brilliance LCD Monitor,16:09,5,0,1.0
+168_3,Asus,LCD Monitor,16:09,2,0,1.0
+171_3,Asus,LCD Monitor,16:09,2,0,1.0
+186_3,Asus,Monitor,16:09,5,0,1.0
+190_3,Asus,Brilliance LCD Monitor,16:09,5,0,1.0
+193_3,iiyama North America,Brilliance LCD Monitor,16:09,5,0,1.0
+22_4,Philips Electronics,LED Monitor,5:04,5,0,1.0
+25_4,Philips Electronics,LCD Monitors,16:10,5,0,1.0
+27_4,Philips Electronics,LCD,16:09,5,0,1.0
+28_4,Philips Electronics,LCD Monitor,16:09,5,0,1.0
+32_4,Philips Electronics,LCD Monitor,16:09,5,0,1.0
+33_4,Philips Electronics,LCD Monitor,16:09,5,0,1.0
+39_4,Philips Electronics,Brilliance LCD Monitor,16:09,5,0,1.0
+40_4,Philips Electronics,Monitor,16:09,5,0,1.0
+41_4,Philips Electronics,LCD Monitor,16:09,5,0,1.0
+62_4,Philips Electronics,LCD Monitor,16:09,5,0,1.0
+88_4,iiyama North America,Brilliance LCD Monitor,16:09,2,0,1.0
+103_4,Hannspree,LCD Monitor,16:09,5,0,1.0
+128_4,Asus,LCD Monitor,16:10,5,0,1.0
+132_4,Asus,LCD Monitor,21:09,5,0,1.0
+133_4,Asus,Brilliance LCD Monitor,16:09,5,0,1.0
+168_4,Asus,LCD Monitor,16:09,2,0,1.0
+171_4,Asus,LCD Monitor,16:09,2,0,1.0
+186_4,Asus,Monitors,16:09,5,0,1.0
+190_4,Asus,Brilliance LCD Monitor,16:09,5,0,1.0
+193_4,iiyama North America,Brilliance LCD Monitor,16:09,5,0,1.0
+22_5,Philips Electronics,LED Monitor,5:04,5,0,1.0
+25_5,Philips Electronics,LCD Monitor,16:10,5,0,1.0
+27_5,Philips Electronics,LCD Monitor,16:09,5,0,1.0
+28_5,Philips Electronics,LCD Monitor,16:09,5,0,1.0
+32_5,Philips Electronics,LCD Monitor,16:09,5,0,1.0
+33_5,Philips Electronics,LCD Monitor,16:09,5,0,1.0
+39_5,Philips Electronics,Brilliance LED Monitor,16:09,5,0,1.0
+40_5,Philips Electronics,MonitorS,16:09,5,0,1.0
+41_5,Philips Electronics,LCD Monitor,16:09,5,0,1.0
+62_5,Philips Electronics,LCD Monitors,16:09,5,0,1.0
+88_5,iiyama North America,Brilliance LCD Monitor,16:09,2,0,1.0
+103_5,Hannspree,LCD Monitors,16:09,5,0,1.0
+128_5,Asus,LCD Monitor,16:10,5,0,1.0
+132_5,Asus,LCD Monitors,21:09,5,0,1.0
+133_5,Asus,Brilliance LCD Monitor,16:09,5,0,1.0
+168_5,Asus,LCD Monitor,16:09,2,0,1.0
+171_5,Asus,LCD Monitor,16:09,2,0,1.0
+186_5,Asus,Monitor,16:09,5,0,1.0
+190_5,Asus,Brilliance LCD Monitor,16:09,5,0,1.0
+193_5,iiyama North America,Brilliance LCD Monitor,16:09,5,0,1.0

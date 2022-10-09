@@ -1,0 +1,78 @@
+entity,Domain,Conditions,Humidity,day
+1388,Chicago,Cloudy,57.83150403,1
+1393,Chicago,Intermittent,67.522564,1
+1403,Chicago,Cloudy,80.52413015,1
+1406,Chicago,Intermittent,77.43824573,1
+1411,Chicago,Cloudy,75.68169862,1
+1416,Chicago,Sunny,74.38319788,1
+1472,Chicago,Sunny,58.05169794,1
+2010,Dallas,Cloudy,78.29494836,1
+2014,Dallas,Cloudy,68.45239648,1
+2024,Dallas,Cloudy,75.85300437,1
+2026,Dallas,Cloudy,76.57939412,1
+2047,Dallas,Cloudy,73.85615954,1
+2885,El Paso,Cloudy,88.56908866,1
+2889,El Paso,Cloudy,72.58664841,1
+2895,El Paso,Partly,70.13822957,1
+2969,El Paso,Sunny,59.11911836,1
+2974,El Paso,Sunny,79.30222088,1
+2995,El Paso,Cloudy,39.16870967,1
+3002,El Paso,Mostly,64.12622426,1
+3017,El Paso,Cloudy,79.02969702,1
+3024,El Paso,Cloudy,40.15040732,1
+3026,El Paso,Cloudy,37.57273291,1
+3534,Houston,Cloudy,92.01059617,1
+3951,Indianapolis,Mostly,59.7743935,1
+3954,Indianapolis,Sunny,54.6186033,1
+3980,Indianapolis,Sunny,67.25708794,1
+3983,Indianapolis,Sunny,55.41248496,1
+4584,Las Vegas,Sunny,76.19596578,1
+4888,Los Angeles,Sunny,65.12058032,1
+4899,Los Angeles,Partly,78.28734847,1
+4900,Los Angeles,Moonlight,89.10949657,1
+4934,Los Angeles,Sunny,89.30015641,1
+4938,Los Angeles,Sunshine,89.69335749,1
+4940,Los Angeles,Sunny,69.89195142,1
+4941,Los Angeles,Sunny,67.53451122,1
+4942,Los Angeles,Sunny,55.58067325,1
+4944,Los Angeles,Mostly,47.31407294,1
+4993,Los Angeles,Sunny,62.37279273,1
+5440,Milwaukee,Clear,47.33332739,1
+5455,Milwaukee,Sunny,50.89684358,1
+5526,Milwaukee,Cloudy,58.0667018,1
+5527,Milwaukee,Partly,65.79790586,1
+5534,Milwaukee,Cloudy,52.53795865,1
+5548,Milwaukee,Flurries,78.49564618,1
+5573,Milwaukee,Mostly,64.83263255,1
+5581,Milwaukee,Sunny,45.92268308,1
+5905,Nashville,Sunny,41.11788793,1
+5953,Nashville,Cloudy,74.47455763,1
+7048,Phoenix,Cloudy,80.79758401,1
+7052,Phoenix,Sunny,68.19576469,1
+7055,Phoenix,Sunny,59.82689792,1
+7126,Phoenix,Sunny,44.4794387,1
+7131,Phoenix,Mostly,62.7671357,1
+7146,Phoenix,Partly,57.93705629,1
+7150,Phoenix,Intermittent,38.87067427,1
+7449,Portland,Showers,72.1394252,1
+7464,Portland,Cloudy,83.11818023,1
+7477,Portland,Cloudy,87.98173798,1
+7485,Portland,Cloudy,92.90765814,1
+7497,Portland,Fog,88.28883545,1
+7553,Portland,Cloudy,73.62034205,1
+8009,San Diego,Intermittent,71.56980732,1
+8100,San Diego,Fog,79.93653991,1
+8104,San Diego,Clouds,85.47365076,1
+8110,San Diego,Mostly,58.59864728,1
+8111,San Diego,Mostly,63.91041631,1
+8123,San Diego,Partly,81.88648328,1
+8135,San Diego,Partly,79.95929086,1
+8140,San Diego,Sunny,73.89755583,1
+8143,San Diego,Partly,65.0199696,1
+8649,San Jose,Cloudy,82.80728465,1
+9052,Seattle,Cloudy,86.11663334,1
+9066,Seattle,Showers,99.87756357,1
+9069,Seattle,Showers,96.47683876,1
+9076,Seattle,Rain,83.64346357,1
+9079,Seattle,Showers,98.57035719,1
+9084,Seattle,Showers,99.78581624,1

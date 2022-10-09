@@ -1,0 +1,190 @@
+entity,Domain,Conditions,Humidity,day
+5,Austin,Rain;Light Rain,93,1
+10,Austin,Rain,93,1
+13,Austin,Cloudy;Overcast,81,1
+25,Austin,Cloudy,81,1
+31,Austin,Cloudy,84,1
+35,Austin,Cloudy;Overcast,81,1
+38,Austin,Cloudy,85,1
+39,Austin,Cloudy,87,1
+43,Austin,Cloudy;Overcast;Showers,93,1
+50,Austin,Cloudy;Fog;Haze,81,1
+60,Austin,Overcast,85,1
+91,Austin,Not totally Cloudy;Partly Cloudy,64,1
+104,Austin,Clear;Not totally Sunny,80,1
+112,Austin,Sunny;Clear,53,1
+130,Austin,Cloudy,88,1
+132,Austin,Cloudy,88,1
+145,Austin,Cloudy,81,1
+149,Austin,Rain;Light Rain,93,1
+154,Austin,Cloudy;Overcast;Showers,93,1
+156,Austin,Rain;Light Rain,100,1
+167,Austin,Cloudy;Fog;Fog And Mist;Light Rain;Light Rain Mist,100,1
+174,Austin,Mist/Fog,93,1
+205,Austin,Fog;Overcast;Showers;Mist,93,1
+209,Austin,Fog;Overcast;Rain,93,1
+251,Austin,Mist/Fog,86,1
+254,Austin,Mist/Fog,86,1
+257,Baltimore,Overcast with Haze,80,1
+259,Baltimore,Cloudy,76,1
+273,Baltimore,Rain;Light Rain,87,1
+275,Baltimore,Rain,93,1
+280,Baltimore,Rain;Light Rain,100,1
+302,Baltimore,Overcast,80,1
+314,Baltimore,Mist/Light Rain Fog,93,1
+315,Baltimore,Mist/Light Rain Fog,90,1
+324,Baltimore,Mostly Cloudy;Fair;Clean,43,1
+342,Baltimore,Clear,52,1
+376,Baltimore,Fair,43,1
+382,Baltimore,A Few Clouds,57,1
+398,Baltimore,Overcast,40,1
+407,Boston,Cloudy;Overcast,36,1
+408,Boston,Cloudy;Overcast,36,1
+428,Boston,Snow;Fair,79,1
+441,Boston,Light Snow;Flurries;Light,80,1
+462,Boston,Sunny;Clear,33,1
+467,Boston,Sunny;Clear,37,1
+483,Boston,Clear,61,1
+496,Boston,Mainly Cloudy,65,1
+498,Boston,Partly Cloudy,60,1
+517,Boston,Partly Cloudy;Scattered Clouds;Mainly Sunny,55,1
+528,Boston,Mostly Cloudy;Clean;Intermittent Clouds,81,1
+535,Boston,Cloudy;Haze,81,1
+552,Boston,Mostly Cloudy,61,1
+565,Boston,Overcast,75,1
+600,Boston,Cloudy;Overcast;Mist,86,1
+611,Boston,Light Snow,79,1
+625,Boston,Mist/Fog,85,1
+646,Boston,Clear,42,1
+649,Boston,Sunny,38,1
+655,Boston,Mostly Sunny;Partly Cloudy,26,1
+660,Boston,Clear;Cloudy,36,1
+669,Boston,Cloudy,40,1
+671,Boston,Cloudy,44,1
+673,Boston,Mostly Cloudy;Mostly,44,1
+676,Boston,Clear,48,1
+684,Boston,Not totally Cloudy;Partly Sunny,36,1
+692,Boston,Partly Cloudy;Mainly Sunny;Mostly Clear,29,1
+731,Boston,Clear,31,1
+734,Charlotte,Clear,36,1
+746,Charlotte,Scattered Clouds;Mostly Cloudy;Cloudy;Partly,40,1
+756,Charlotte,Cloudy,38,1
+768,Charlotte,Cloudy,45,1
+774,Charlotte,Not totally Sunny;Scattered Clouds;Not totally Cloudy,38,1
+776,Charlotte,Partly Cloudy;Scattered Clouds;Partly,35,1
+789,Houston,Cloudy,58,1
+791,Phoenix,Cloudy,56,1
+798,Seattle,Clear,63,1
+801,Seattle,Clear,65,1
+831,Seattle,Partly Sunny;Partly;Scattered Clouds,58,1
+837,Seattle,Not totally Cloudy;Partly Cloudy;Mostly Clear,31,1
+843,Seattle,Overcast;Cloudy,44,1
+848,Seattle,Not totally Cloudy;Partly Cloudy,48,1
+852,Seattle,Partly Cloudy;Not totally Cloudy,54,1
+859,Seattle,Cloudy;Overcast,41,1
+908,Seattle,Cloudy,66,1
+961,Seattle,Cloudy;Overcast,50,1
+965,Seattle,Partly Cloudy;Scattered Clouds;Mostly Clear,41,1
+997,Seattle,Partly Cloudy;Scattered Clouds;Mist;Cloudy,95,1
+1000,Seattle,Mostly Cloudy;Intermittent;Mist;Fog And Mist,100,1
+1001,Seattle,Mostly Cloudy;Mainly Cloudy,92,1
+1011,Seattle,Not totally Cloudy;Partly Cloudy;Mostly Sunny;Sunny,43,1
+1074,Seattle,Cloudy,81,1
+1080,Seattle,Cloudy,80,1
+1083,Seattle,Partly Cloudy;Cloudy;Scattered,74,1
+1084,Seattle,Partly Cloudy;Not totally Cloudy,77,1
+1086,Chicago,Partly Cloudy;Not totally Cloudy,80,1
+1107,Chicago,Sunny;Mainly Sunny;Fair;Partly Cloudy;Partly,47,1
+1113,Chicago,Clear,70,1
+1152,Chicago,Mostly Cloudy;Mainly Cloudy;Intermittent Clouds,67,1
+1154,Chicago,Partly Cloudy;Mainly Sunny;Mostly Clear,49,1
+1166,Chicago,Cloudy,69,1
+1183,Chicago,Drizzle;Light Drizzle;Showers,93,1
+1224,Dallas,Fog;Overcast;Mist;Light Fog,95,1
+1226,Dallas,Fog;Overcast;Mist,93,1
+1234,Dallas,Fog,100,1
+1237,Dallas,Fog,100,1
+3086,Dallas,Mostly Cloudy;Mostly,66,1
+4698,El Paso,Mainly Cloudy;Clear;Sunny,46,1
+5928,El Paso,Cloudy,,1
+7197,El Paso,Not totally Cloudy;Cloudy;Partly Cloudy,69,1
+7387,El Paso,Partly Cloudy;Scattered Clouds;Mostly Clear,92,1
+8168,El Paso,Mostly Cloudy,,1
+9584,El Paso,Mist/Fog,85,1
+1388,El Paso,Partly Cloudy;Scattered Clouds;Not totally Cloudy,54,1
+1393,Indianapolis,Mostly Cloudy;Partly;Intermittent Clouds;Partly Cloudy,62,1
+1403,Indianapolis,Cloudy;Overcast,74,1
+1406,Indianapolis,Cloudy;Mostly Cloudy;Mainly Cloudy,71,1
+1411,Indianapolis,Mostly Cloudy;Mainly Cloudy,79,1
+1416,Las Vegas,Partly Cloudy;Mostly;Not totally Cloudy;Mostly Sunny,71,1
+1472,Los Angeles,Partly Cloudy;Cloudy;Partly;Partly Sunny,61,1
+2010,Milwaukee,Cloudy;Overcast,75,1
+2014,Milwaukee,Cloudy;Overcast,75,1
+2024,Milwaukee,Cloudy;Overcast,74,1
+2026,Milwaukee,Cloudy;Overcast,74,1
+2047,Milwaukee,Cloudy;Overcast,82,1
+2885,Milwaukee,Cloudy,85,1
+2889,Phoenix,Mostly Cloudy;Cloudy,80,1
+2895,Phoenix,Partly Cloudy;Not totally Cloudy;Partly Sunny,65,1
+2969,Phoenix,Clear;Fair,62,1
+2974,Phoenix,Sunny;Clear,75,1
+2995,Phoenix,Cloudy;Overcast,43,1
+3002,Phoenix,Not totally Cloudy;Mostly Clear;Scattered Clouds;Cloudy,65,1
+3017,Phoenix,Cloudy,82,1
+3024,Phoenix,Cloudy;Mainly Cloudy,44,1
+3026,Phoenix,Mostly Cloudy;Cloudy,41,1
+3534,Portland,Cloudy,82,1
+3951,San Diego,Partly Cloudy;Not totally Cloudy;Sunny;Cloudy;Scattered,55,1
+3954,San Diego,Partly Cloudy;Not totally Cloudy;Scattered Clouds;Mostly Sunny,55,1
+3980,San Diego,Clear;Sunny,68,1
+3983,San Diego,Sunny;Clear,58,1
+4584,San Diego,Clear;Partly Cloudy;Mostly Sunny;Sunny,75,1
+4888,San Diego,Sunny;Clear,59,1
+4899,San Diego,Cloudy;Haze;Mainly Cloudy;Unclear,82,1
+4900,San Diego,Hazy;Haze;Partly Cloudy;Fair,82,1
+4934,San Jose,Clear;Sunny,83,1
+4938,Seattle,Haze;Hazy Sunshine;Sunny;Clear,87,1
+4940,Seattle,Sunny;Haze;Hazy,74,1
+4941,Seattle,Sunny;Hazy;Haze,63,1
+4942,Seattle,Sunny;Clear,52,1
+4944,Seattle,Clear;Haze;Mostly Sunny,46,1
+4993,Seattle,Sunny;Clear,71,1
+5440,Seattle,Partly Cloudy;Mostly Clear;Partly;Clear,47,1
+5455,Seattle,Partly Cloudy;Not totally Cloudy;Partly;Partly Sunny,51,1
+5526,Seattle,Partly Cloudy;Cloudy;Mostly Clear,64,1
+5527,Seattle,Partly Cloudy;Mostly Cloudy;Scattered Clouds,62,1
+5534,Seattle,Cloudy;Overcast,57,1
+5548,Seattle,Light;Light Snow;Snow,86,1
+5573,Seattle,Mostly Cloudy;Mainly Cloudy,73,1
+5581,Seattle,Partly Sunny;Cloudy;Partly Cloudy;Sunny,46,1
+5905,Seattle,Clear;Sunny,42,1
+5953,Seattle,Cloudy;Overcast,73,1
+7048,Seattle,Not totally Cloudy;Partly Cloudy;Partly,89,1
+7052,Seattle,Partly Sunny;Partly Cloudy;Cloudy;Scattered Clouds,74,1
+7055,Seattle,Partly Cloudy;Mostly Cloudy;Not totally Cloudy;Scattered Clouds,58,1
+7126,Seattle,Partly Cloudy;Sunny;Not totally Cloudy,43,1
+7131,Seattle,Partly Cloudy;Mainly Sunny;Mostly Clear,59,1
+7146,Seattle,Mostly Cloudy;Mainly Cloudy;Mostly,56,1
+7150,Seattle,Mostly Cloudy;Mainly Cloudy;Sunny,37,1
+7449,Seattle,Light Rain;Rain;Cloudy,79,1
+7464,Seattle,Cloudy;Overcast,81,1
+7477,Seattle,Cloudy,82,1
+7485,Seattle,Cloudy,93,1
+7497,Seattle,Fog;Overcast;Mist,100,1
+7553,Seattle,Cloudy;Overcast,68,1
+8009,Seattle,Mostly Cloudy;Mainly Cloudy;Intermittent Clouds;Cloudy,77,1
+8100,Seattle,Fog;Partly Cloudy;Clear;Fog And Mist,86,1
+8104,Seattle,Mostly Cloudy;Not totally Cloudy;Fog And Mist;Mainly Cloudy;Intermittent Clouds;Partly,82,1
+8110,Seattle,Not totally Cloudy;Partly Cloudy;Scattered Clouds;Cloudy;Mainly Sunny,62,1
+8111,Seattle,Partly Cloudy;Cloudy;Mostly Sunny;Mostly Cloudy;Scattered;Scattered Clouds,67,1
+8123,Seattle,Partly Cloudy;Partly;Clouds,77,1
+8135,Seattle,Haze;Partly Cloudy;Mostly Cloudy,82,1
+8140,Seattle,Haze;Partly Sunny;Cloudy,79,1
+8143,Seattle,Not totally Cloudy;Partly Sunny;Partly Cloudy,64,1
+8649,Seattle,Cloudy;Mostly Cloudy,93,1
+9052,Seattle,Cloudy,79,1
+9066,Seattle,Light Rain;Showers,93,1
+9069,Seattle,Cloudy;Light;Light Rain,87,1
+9076,Seattle,Light Rain;Rain,87,1
+9079,Seattle,Cloudy;Overcast,87,1
+9084,Seattle,Cloudy;Overcast,93,1

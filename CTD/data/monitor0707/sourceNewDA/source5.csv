@@ -1,0 +1,21 @@
+entity,brand,screen_type,supported_aspect_ratio,response_time(ms),screen_size_diagonal,day
+22_1,Philips Electronics,monitor,5:04,4.985910851,52.85760034,1
+25_1,Philips Electronics,LCD Monitor,16:10,4.668329732,50.73942381,1
+27_1,Philips Electronics,LCD Monitor,16:09,4.856074616,52.60976829,1
+28_1,Philips Electronics,LCD Monitors,16:08,5.246073179,54.70574169,1
+32_1,Philips Electronics,LED Monitor,16:09,5.361206304,57.76748949,1
+33_1,Philips Electronics,LCD Monitor,16:08,0.99672834,61.0434447,1
+39_1,Philips Electronics,Brilliance LCD Monitor,16:10,4.815275268,62.65750452,1
+40_1,Philips Electronics,Monitor,16:10,4.820873193,72.86655665,1
+41_1,Philips Electronics,LCD Monitor,16:08,5.027051079,69.33946034,1
+62_1,Philips Electronics,LCD,16:09,13.56174232,63.64002794,1
+88_1,iiyama North America,Brilliance LCD Monitor,16:09,2.171315911,58.76804161,1
+103_1,Hannspree,LCD Monitor,16:08,5.208524626,48.75331954,1
+128_1,Asus,LCD Monitor,16:10,6.362962085,60.7452146,1
+132_1,Asus,LCD,21:09,4.547954954,67.75257838,1
+133_1,Asus,Brilliance LCD Monitor,16:09,8.35757197,80.25082757,1
+168_1,Asus,LCD Monitor,16:08,1.985093414,72.30286535,1
+171_1,Asus,LCD Monitors,16:08,2.053502855,63.67587246,1
+186_1,Asus,Monitor,16:09,4.760497895,53.76070673,1
+190_1,Asus,Brilliance LCD Monitor,16:09,4.633855149,75.45218046,1
+193_1,iiyama North America,Brilliance LCD Monitor,16:09,5.210600295,58.48059683,1

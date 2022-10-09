@@ -1,0 +1,197 @@
+entity,Domain,Conditions,Humidity,day
+5.0,Austin,Rain,93,1.0
+10.0,Austin,Rain,93,1.0
+12.999999999999996,Austin,Cloudy,81,1.0
+24.999999999999993,Austin,Cloudy,81,1.0
+31.0,Austin,Cloudy,84,1.0
+35.00000000000001,Austin,Cloudy,81,1.0
+38.0,Austin,Cloudy,85,1.0
+39.0,Austin,Cloudy,87,1.0
+43.00000000000001,Austin,Cloudy,93,1.0
+49.999999999999986,Austin,Cloudy,81,1.0
+59.99999999999999,Austin,Overcast,85.0,1.0
+91.0,Austin,Partly Cloudy,64,1.0
+103.99999999999997,Austin,Clear,80,1.0
+111.99999999999999,Austin,Clear,53,1.0
+130.0,Austin,Cloudy,88,1.0
+132.0,Austin,Cloudy,88,1.0
+145.00000000000003,Austin,Cloudy,81,1.0
+149.0,Austin,Rain,93,1.0
+153.99999999999997,Austin,Cloudy,93,1.0
+156.0,Austin,Rain,100,1.0
+167.0,Austin,Cloudy;Fog;Fog And Mist;Light Rain;Light Rain Mist,100,1.0
+173.99999999999997,Austin,Mist/Fog,93.0,1.0
+205.0,Austin,Fog;Overcast;Showers;Mist,93,1.0
+208.99999999999997,Austin,Fog,93,1.0
+251.0,Austin,Mist/Fog,86.00000000000001,1.0
+254.0,Austin,Mist/Fog,86.00000000000001,1.0
+257.0,Austin,Overcast with Haze,80.0,1.0
+259.0,Austin,Cloudy,76,1.0
+273.0,Austin,Rain,87,1.0
+275.00000000000006,Austin,Rain,93,1.0
+280.00000000000006,Austin,Rain,100,1.0
+302.0,Austin,Overcast,80.0,1.0
+314.00000000000006,Austin,Mist/Light Rain Fog,93.0,1.0
+315.0,Austin,Mist/Light Rain Fog,90.0,1.0
+324.0,Baltimore,Mostly Cloudy,43,1.0
+342.0,Baltimore,Clear,52,1.0
+376.00000000000006,Austin,Fair,43.00000000000001,1.0
+381.99999999999994,Austin,A Few Clouds,57.000000000000014,1.0
+398.0,Austin,Overcast,40.0,1.0
+406.99999999999994,Baltimore,Cloudy,36,1.0
+407.99999999999994,Baltimore,Cloudy,36,1.0
+428.0,Baltimore,Snow,79,1.0
+441.0,Baltimore,Light Snow,80,1.0
+462.00000000000006,Baltimore,Sunny,33,1.0
+466.99999999999994,Baltimore,Sunny,37,1.0
+482.99999999999994,Baltimore,Clear,61,1.0
+496.0,Austin,Mainly Cloudy,65.0,1.0
+497.99999999999994,Austin,Partly Cloudy,59.99999999999999,1.0
+517.0,Baltimore,Mostly Clear,55,1.0
+528.0,Baltimore,Mostly Cloudy;Clean;Intermittent Clouds,81,1.0
+534.9999999999999,Baltimore,Cloudy,81,1.0
+552.0,Austin,Mostly Cloudy,61.00000000000001,1.0
+565.0,Austin,Overcast,75.0,1.0
+600.0,Baltimore,Cloudy,86,1.0
+611.0,Austin,Light Snow,79.00000000000001,1.0
+624.9999999999999,Austin,Mist/Fog,85.0,1.0
+646.0,Boston,Clear,42,1.0
+649.0,Boston,Sunny,38,1.0
+654.9999999999999,Boston,Mostly Sunny;Partly Cloudy,26,1.0
+660.0,Boston,Clear,36,1.0
+669.0000000000001,Boston,Cloudy,40,1.0
+671.0,Boston,Cloudy,44,1.0
+673.0000000000001,Boston,Mostly Cloudy;Mostly,44,1.0
+675.9999999999999,Boston,Clear,48,1.0
+684.0,Boston,Not totally Cloudy;Partly Sunny,36,1.0
+692.0,Boston,Partly Cloudy;Mainly Sunny;Mostly Clear,29,1.0
+731.0000000000001,Boston,Clear,31,1.0
+734.0000000000001,Boston,Clear,36,1.0
+746.0,Boston,Scattered Clouds;Mostly Cloudy;Cloudy;Partly,40,1.0
+756.0000000000001,Boston,Cloudy,38,1.0
+768.0,Boston,Cloudy,45,1.0
+773.9999999999998,Boston,Not totally Sunny;Scattered Clouds;Not totally Cloudy,38,1.0
+776.0,Boston,Partly Cloudy;Scattered Clouds;Partly,35,1.0
+788.9999999999999,Boston,Cloudy,58,1.0
+790.9999999999999,Boston,Cloudy,56,1.0
+797.9999999999999,Boston,Clear,63,1.0
+800.9999999999998,Boston,Clear,65,1.0
+830.9999999999998,Boston,Partly Sunny;Partly;Scattered Clouds,58,1.0
+836.9999999999998,Boston,Not totally Cloudy;Partly Cloudy;Mostly Clear,31,1.0
+842.9999999999999,Boston,Overcast;Cloudy,44,1.0
+847.9999999999999,Boston,Partly Cloudy,48,1.0
+852.0,Boston,Partly Cloudy,54,1.0
+859.0000000000001,Boston,Cloudy;Overcast,41,1.0
+908.0000000000001,Boston,Cloudy,66,1.0
+961.0000000000002,Charlotte,Cloudy,50,1.0
+965.0,Charlotte,Partly Cloudy,41,1.0
+997.0,Charlotte,Partly Cloudy,95,1.0
+1000.0,Charlotte,Mostly Cloudy,100,1.0
+1001.0000000000001,Charlotte,Mostly Cloudy,92,1.0
+1011.0,Charlotte,Partly Cloudy,43,1.0
+1074.0,Charlotte,Cloudy,81,1.0
+1080.0000000000002,Charlotte,Cloudy,80,1.0
+1083.0000000000002,Charlotte,Partly Cloudy,74,1.0
+1084.0000000000002,Charlotte,Partly Cloudy,77,1.0
+1086.0,Charlotte,Partly Cloudy,80,1.0
+1107.0000000000002,Charlotte,Mostly Clear,47,1.0
+1113.0,Charlotte,Clear,70,1.0
+1152.0,Charlotte,Mostly Cloudy,67,1.0
+1154.0000000000002,Charlotte,Partly Cloudy,49,1.0
+1166.0000000000002,Charlotte,Cloudy,69,1.0
+1183.0,Charlotte,Drizzle,93,1.0
+1224.0,Charlotte,Fog,95,1.0
+1226.0,Charlotte,Fog,93,1.0
+1234.0,Charlotte,Fog,100,1.0
+1237.0000000000002,Charlotte,Fog,100,1.0
+1239.0,Charlotte,Fog,100,1.0
+1240.0,Charlotte,Fog,100,1.0
+1286.0,Chicago,Mostly Cloudy,60,1.0
+1287.9999999999998,Chicago,Mostly Cloudy,57,1.0
+1293.9999999999998,Chicago,Mostly Cloudy,49,1.0
+1298.0,Chicago,Mostly Cloudy,62,1.0
+1303.9999999999998,Chicago,Partly Cloudy,58,1.0
+1308.0,Chicago,Partly Cloudy,62,1.0
+1313.0000000000002,Chicago,Cloudy,63,1.0
+1317.0000000000002,Chicago,Cloudy,62,1.0
+1318.0000000000002,Chicago,Cloudy,62,1.0
+1330.9999999999998,Chicago,Cloudy,55,1.0
+1333.0000000000002,Austin,A Few Clouds,59.99999999999999,1.0
+1334.9999999999998,Austin,Clean,65.0,1.0
+1341.0000000000002,Austin,Partly Cloudy,65.0,1.0
+1342.0,Austin,Partly Cloudy,65.0,1.0
+1343.0000000000002,Austin,A Few Clouds,68.0,1.0
+1350.0,Austin,Overcast,62.0,1.0
+1365.0,Chicago,Mostly Cloudy,65,1.0
+1388.0,Chicago,Partly Cloudy,54,1.0
+1393.0,Chicago,Mostly Cloudy,62,1.0
+1403.0000000000002,Chicago,Cloudy,74,1.0
+1406.0,Chicago,Mostly Cloudy,71,1.0
+1410.9999999999998,Chicago,Mostly Cloudy,79,1.0
+1415.9999999999998,Chicago,Partly Cloudy,71,1.0
+1438.0000000000002,Chicago,Haze;Partly Cloudy;Hazy,74,1.0
+1440.0,Chicago,Cloudy,74,1.0
+1450.0,Austin,Overcast,72.0,1.0
+1462.0000000000002,Austin,Overcast with Haze,78.0,1.0
+1468.0000000000002,Austin,Overcast with Haze,78.0,1.0
+1472.0000000000002,Chicago,Partly Cloudy,61,1.0
+1486.0,Chicago,Light Snow,93,1.0
+1503.0,Chicago,Cloudy,74,1.0
+1507.0,Austin,Overcast Haze,63.00000000000001,1.0
+1545.9999999999998,Chicago,Cloudy,80,1.0
+1557.0,Chicago,Cloudy,80,1.0
+1570.0,Austin,Mist/Light Snow Fog,85.0,1.0
+1573.0,Austin,Light Snow,79.00000000000001,1.0
+1582.9999999999998,Austin,Overcast with Haze,81.0,1.0
+1587.9999999999998,Austin,Overcast with Haze,81.0,1.0
+1611.0,Columbus,Cloudy,52,1.0
+1614.0,Columbus,Sunny;Cloudy;Clean;Mostly Cloudy,48,1.0
+1631.0000000000002,Columbus,Sunny;Cloudy;Fair;Mostly Cloudy,73,1.0
+1632.9999999999998,Columbus,Partly Cloudy,79,1.0
+1641.0,Columbus,Haze;Hazy;Sunny,74,1.0
+1641.9999999999998,Columbus,Haze;Fair;Hazy;Intermittent Clouds,74,1.0
+1646.0,Columbus,Clear;Mostly Cloudy;Fair;Cloudy,55,1.0
+1651.0000000000002,Columbus,Mostly Cloudy;Cloudy;Clear,44,1.0
+1685.9999999999998,Columbus,Cloudy,53,1.0
+1695.9999999999998,Columbus,Cloudy,57,1.0
+1703.0,Columbus,Cloudy;Overcast,57,1.0
+1717.0000000000002,Columbus,Clear;Mostly Clear;Fair,53,1.0
+1723.0000000000002,Columbus,Partly Cloudy,73,1.0
+1740.0000000000002,Columbus,Partly Sunny,57,1.0
+1745.0000000000002,Columbus,Sunny,43,1.0
+1752.0,Columbus,Cloudy,72,1.0
+1753.0,Columbus,Cloudy,72,1.0
+1754.0,Columbus,Cloudy,80,1.0
+1799.9999999999998,Columbus,Cloudy;Overcast,69.46515272832612,1.0
+1870.9999999999998,Columbus,Cloudy;Snow;Light Snow,75,1.0
+1874.0,Columbus,Light Snow;Cloudy;Overcast,81,1.0
+1926.0000000000002,Dallas,Light Rain,93,1.0
+1940.0,Dallas,Cloudy,70,1.0
+1958.9999999999998,Dallas,Cloudy,92,1.0
+1961.0,Dallas,Haze,81,1.0
+1963.0000000000002,Dallas,Haze,75,1.0
+1968.0000000000002,Dallas,Cloudy,68,1.0
+1984.9999999999998,Austin,Mist/Fog,88.0,1.0
+1995.0,Austin,Overcast with Haze,79.00000000000001,1.0
+1999.0,Austin,Overcast,68.0,1.0
+4186.0,Jacksonville,Cloudy;Mainly Cloudy;Mostly Cloudy;Mostly,76,1.0
+4484.0,Las Vegas,Clear;Mostly;Cloudy,70,1.0
+4486.0,Las Vegas,Clear;Mainly Cloudy;Cloudy;Fair,70,1.0
+4697.0,Las Vegas,Mostly Cloudy;Partly Cloudy,51,1.0
+4900.0,Los Angeles,Hazy;Haze;Partly Cloudy;Fair,82,1.0
+7150.999999999999,Austin,Mainly Cloudy;Mostly Cloudy;Intermittent,35.00000000000001,1.0
+7300.0,Austin,Mostly Cloudy;Intermittent Clouds,29.000000000000007,1.0
+9584.000000000002,Austin,Mist/Fog,85.0,1.0
+2010.0,Dallas,Cloudy,75,1.0
+2014.0,Dallas,Cloudy,75,1.0
+2023.9999999999998,Dallas,Cloudy,74,1.0
+2026.0,Dallas,Cloudy,74,1.0
+2047.0,Dallas,Cloudy,82,1.0
+3024.0000000000005,El Paso,Mostly Cloudy,44,1.0
+3025.9999999999995,El Paso,Mostly Cloudy,41,1.0
+4583.999999999999,Las Vegas,Mostly Sunny,75,1.0
+7126.0,Phoenix,Partly Cloudy,43,1.0
+7130.999999999999,Phoenix,Partly Cloudy,59,1.0
+7146.000000000001,Phoenix,Mostly Cloudy,56,1.0
+7150.0,Phoenix,Mostly Cloudy,37,1.0
+7152.0,Phoenix,Mostly Cloudy,34,1.0

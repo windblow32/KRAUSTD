@@ -1,21 +1,22 @@
-entity,source,brand,number,screen_type,supported_aspect_ratio,response_time(ms),screen_size_diagonal,day
-22,4,Philips_Electronics,842,LCD Monitor,5:04,5,48.3,1
-25,4,Philips_Electronics,788,LCD Monitor,16:10,5,55.9,1
-27,4,Philips_Electronics,123,LCD Monitor,16:09,5,54.6,1
-28,4,Philips_Electronics,669,LCD Monitor,16:09,5,54.6,1
-32,4,Philips_Electronics,507,LCD Monitor,16:09,5,61,1
-33,4,Philips_Electronics,334,LCD Monitor,16:09,1,61,1
-39,4,Philips_Electronics,676,LCD Monitor,16:09,5,68.6,1
-40,4,Philips_Electronics,707,LCD Monitor,16:09,5,68.6,1
-41,4,Philips_Electronics,296,LCD Monitor,16:09,5,68.6,1
-62,4,Philips_Electronics,764,LCD Monitor,16:10,14,61,1
-88,4,iiyama_North_America,93,LCD Monitor,16:09,2,61,1
-103,4,Hannspree,739,LCD Monitor,16:09,5,49.5,1
-128,4,Asus,268,LCD Monitor,16:10,6,61,1
-132,4,Asus,67,LCD Monitor,21:09,5,73.7,1
-133,4,Asus,40,LCD Monitor,16:09,8,80,1
-168,4,Asus,297,LCD Monitor,16:09,2,68.6,1
-171,4,Asus,86,LCD Monitor,16:09,2,68.6,1
-186,4,Asus,387,LCD Monitor,16:10,5,55.9,1
-190,4,Asus,337,LCD Monitor,16:09,5,68.6,1
-193,4,iiyama_North_America,815,LCD Monitor,16:09,5,58.4,1
+entity,brand,num,condition,day
+6_2,Nikon,23.06500085,White Balance Presets;Auto;incandescent;fluorescent;direct sunlight;flash;cloudy;shade;preset manual;all except preset manual with fine-tuning;Custom White Balance,1
+13_2,Nikon,17.45761761,Incandescent;Fluorescent;Direct Sunlight;Flash;Cloudy;Shade;Preset Manual;Color Temperature;All with Fine-Tuning;Auto,1
+18_2,Canon,19.72810603,Custom White Balance;Auto;Preset;Custom;Colour temperature setting;White Balance Presets,1
+19_2,Nikon,26.84420823,Custom White Balance;Auto;incandescent;fluorescent;direct sunlight;flash;cloudy;shade;preset manual;all except preset manual with fine-tuning;White Balance Presets,1
+23_2,Canon,16.6899513,Custom White Balance;Auto;Daylight;Shade;Cloudy;Tungsten Light;White Fluorescent Light;Flash;Custom;White Balance Presets,1
+41_2,Nikon,22.62696373,Custom White Balance;Auto;incandescent;fluorescent;direct sunlight;flash;cloudy;shade;preset manual;all except preset manual with fine-tuning;White Balance Presets,1
+44_2,Nikon,24.53992339,Incandescent;Fluorescent;Direct Sunlight;Flash;Cloudy;Shade;Preset Manual;White Balance Presets;Custom White Balance;Auto,1
+48_2,Canon,12.79755124,Daylight;Cloudy;Tungsten;Fluorescent;Fluorescent H;Flash;Custom1;Custom 2;Multi-area WB Correction;White Balance Compensation;Auto,1
+570_2,Nikon,34.85712352,White Balance Presets;Auto;Incandescent;Fluorescent;Direct Sunlight;Flash;Cloudy;Shade;Color Temperature;All with Fine-tuning;Custom White Balance,1
+58_2,Nikon,9.197391018,Custom White Balance;White Balance Presets,1
+65_2,Fujifilm,15.92489001,Preset;Automatic,1
+67_2,Canon,16.71349035,Day Light;Cloudy;Tungsten;Fluorescent;Fluorescent H;Custom;Auto,1
+69_2,Sony,38.30139049,Custom White Balance;White Balance Presets,1
+70_2,Panasonic,15.09644714,Daylight;Cloudy;Shade;Incandescent;White Set;Auto,1
+75_2,Nikon,17.50482921,White Balance Presets;Auto;Incandescent;Fluorescent;Direct Sunlight;Flash;Cloudy;Shade;preset manua;choose color temperature;Custom White Balance,1
+76_2,Nikon,24.82511135,White Balance Presets;Auto;Incandescent;Fluorescent;Direct Sunlight;Flash;Cloudy;Shade;Preset Manual;All with Fine-tuning;Custom White Balance,1
+83_2,Nikon,10.21490255,Auto,1
+88_2,Sony,19.51815235,Custom White Balance;White Balance Presets,1
+96_2,Canon,19.178631,Preset;Custom;Color Temperature Setting;Auto,1
+101_2,Canon,20.43863873,Preset;Auto,1
+6_1,Nikon,25,Custom White Balance;White Balance Presets;Auto;incandescent;fluorescent;direct sunlight;flash;cloudy;shade;preset manual;all except preset manual with fine-tuning,0

@@ -1,0 +1,151 @@
+entity,screen_type,supported_aspect_ratio,response_time(ms),screen_size_diagonal,day
+5,Austin,Rain Fog/Mist,93,1
+10,Austin,Rain Fog/Mist,93,1
+13,Austin,Mostly Cloudy,74,1
+25,Chicago,Cloudy,81,1
+31,Chicago,Cloudy,84,1
+35,Chicago,Cloudy;Overcast,81,1
+38,Chicago,Cloudy,85,1
+39,Dallas,Cloudy,87,1
+43,Dallas,Cloudy;Overcast;Showers,93,1
+50,Dallas,Cloudy;Fog;Haze,81,1
+60,Austin,Overcast,85,1
+91,Austin,Partly Cloudy,64,1
+104,Austin,Fair,72,1
+112,Austin,Fair,53,1
+130,Austin,Overcast,85,1
+132,Austin,Overcast,85,1
+145,Austin,Overcast with Haze,82,1
+149,El Paso,Rain;Light Rain,93,1
+154,El Paso,Cloudy;Overcast;Showers,93,1
+156,El Paso,Rain;Light Rain,100,1
+167,Fort Worth,Cloudy;Fog;Fog And Mist;Light Rain;Light Rain Mist,100,1
+174,Austin,Fog/Mist,93,1
+205,Fort Worth,Fog;Overcast;Showers;Mist,93,1
+209,Fort Worth,Fog;Overcast;Rain,93,1
+251,Austin,Fog/Mist,86,1
+254,Austin,Fog/Mist,86,1
+257,Austin,Overcast with Haze,80,1
+259,Fort Worth,Cloudy,76,1
+273,Fort Worth,Rain;Light Rain,87,1
+275,Houston,Rain,93,1
+1080,Indianapolis,Cloudy,80,1
+1968,Indianapolis,Cloudy,68,1
+2014,Dallas,Overcast,75,1
+2051,Dallas,Overcast,82,1
+2053,Dallas,Overcast,85,1
+2120,Jacksonville,Cloudy,81,1
+2611,Las Vegas,Cloudy,54,1
+3017,El Paso,Mostly Cloudy,87,1
+3547,Los Angeles,Partly Cloudy;Not totally Cloudy;Clear,81,1
+3650,Houston,Overcast,76,1
+3659,Houston,Overcast,76,1
+4051,Los Angeles,Cloudy,75,1
+4280,Jacksonville,Overcast and Breezy,90,1
+5268,Los Angeles,Cloudy,55,1
+5316,Los Angeles,Cloudy,57,1
+5479,Los Angeles,Cloudy,67,1
+5485,Los Angeles,Cloudy,53,1
+5765,Nashville,Overcast,58,1
+5953,Nashville,Overcast,73,1
+6021,Milwaukee,Cloudy,62,1
+7314,Milwaukee,Cloudy,64,1
+7449,Portland,Observation Quality is Caution Lt Rain,79,1
+8208,Milwaukee,Cloudy;Haze,80,1
+8280,Milwaukee,Cloudy;Haze;Mainly Cloudy,77,1
+8792,Milwaukee,Cloudy,80,1
+9584,Washington,Fog/Mist,85,1
+1388,Chicago,Partly Cloudy,55,1
+1393,Chicago,Mostly Cloudy,66,1
+1403,Chicago,Overcast,74,1
+1406,Chicago,Mostly Cloudy,71,1
+1411,Chicago,Mostly Cloudy,77,1
+1416,Chicago,A Few Clouds,71,1
+1472,Chicago,Partly Cloudy,58,1
+2010,Dallas,Overcast,76,1
+2024,Dallas,Overcast,75,1
+2026,Dallas,Overcast,75,1
+2047,Dallas,Overcast,82,1
+2885,El Paso,Overcast,85,1
+2889,El Paso,Mostly Cloudy,76,1
+2895,El Paso,A Few Clouds,65,1
+2969,El Paso,Fair,63,1
+2974,El Paso,Fair,76,1
+2995,El Paso,Overcast,43,1
+3002,El Paso,Partly Cloudy,65,1
+3024,El Paso,Mostly Cloudy,42,1
+3026,El Paso,Mostly Cloudy,41,1
+3291,Fort Worth,Overcast,75,1
+3296,Fort Worth,Overcast,75,1
+3302,Fort Worth,Overcast,78,1
+3307,Fort Worth,Overcast,75,1
+3314,Fort Worth,Overcast,75,1
+3316,Fort Worth,Overcast,78,1
+3319,Fort Worth,Overcast,78,1
+3324,Fort Worth,Overcast,82,1
+3343,Fort Worth,Overcast,82,1
+3534,Houston,Overcast,80,1
+3856,Indianapolis,Mostly Cloudy,59,1
+3951,Indianapolis,Partly Cloudy,55,1
+3954,Indianapolis,Partly Cloudy,55,1
+3980,Indianapolis,Fair,63,1
+3983,Indianapolis,Fair,58,1
+4306,Jacksonville,Mostly Cloudy,71,1
+4584,Las Vegas,A Few Clouds,75,1
+4888,Los Angeles,Fair,62,1
+4899,Los Angeles,Haze,83,1
+4900,Los Angeles,Haze,83,1
+4934,Los Angeles,Fog,94,1
+4938,Los Angeles,Haze,83,1
+4940,Los Angeles,Fog,89,1
+4941,Los Angeles,Haze,64,1
+4942,Los Angeles,Fair,52,1
+4944,Los Angeles,Haze,47,1
+4993,Los Angeles,Fair,69,1
+5440,Milwaukee,A Few Clouds,47,1
+5446,Milwaukee,Partly Cloudy,60,1
+5455,Milwaukee,Partly Cloudy,51,1
+5526,Milwaukee,Partly Cloudy,64,1
+5527,Milwaukee,Mostly Cloudy,65,1
+5534,Milwaukee,Overcast,59,1
+5548,Milwaukee,Light Snow,82,1
+5573,Milwaukee,Mostly Cloudy,67,1
+5581,Milwaukee,A Few Clouds,46,1
+5868,Nashville,Overcast,77,1
+5873,Nashville,Overcast,75,1
+5888,Nashville,Fair,84,1
+5905,Nashville,Fair,43,1
+6866,Philadelphia,Fair,37,1
+6910,Philadelphia,Overcast,64,1
+7048,Phoenix,Partly Cloudy,89,1
+7052,Phoenix,Partly Cloudy,67,1
+7055,Phoenix,Partly Cloudy,58,1
+7126,Phoenix,Partly Cloudy,43,1
+7131,Phoenix,Partly Cloudy,60,1
+7146,Phoenix,Mostly Cloudy,47,1
+7150,Phoenix,Mostly Cloudy,38,1
+7151,Phoenix,Mostly Cloudy,35,1
+7152,Phoenix,Mostly Cloudy,34,1
+7464,Portland,Observation Quality is Caution Overcast,81,1
+7477,Portland,Overcast,89,1
+7485,Portland,Overcast,93,1
+7497,Portland,Fog,100,1
+7553,Portland,Overcast,68,1
+8009,San Diego,Mostly Cloudy,77,1
+8100,San Diego,Fog,87,1
+8104,San Diego,Fog,86,1
+8110,San Diego,Partly Cloudy,62,1
+8111,San Diego,Partly Cloudy,67,1
+8123,San Diego,Partly Cloudy,80,1
+8135,San Diego,Haze,83,1
+8140,San Diego,Haze,72,1
+8143,San Diego,Partly Cloudy,64,1
+8649,San Jose,Mostly Cloudy,93,1
+8969,Seattle,Mostly Cloudy,71,1
+9052,Seattle,Overcast,74,1
+9066,Seattle,Lt Rain,93,1
+9069,Seattle,Lt Rain,86,1
+9076,Seattle,Lt Rain,87,1
+9079,Seattle,Overcast,86,1
+9084,Seattle,Mostly Cloudy,90,1
+9423,Washington,Fair,30,1

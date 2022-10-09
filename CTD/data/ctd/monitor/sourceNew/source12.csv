@@ -1,0 +1,151 @@
+entity,screen_type,supported_aspect_ratio,response_time(ms),screen_size_diagonal,day
+5,Austin,Rain,93,1
+10,Austin,Rain,93,1
+13,Austin,Cloudy,86,1
+25,Austin,Cloudy,93,1
+31,Austin,Cloudy,93,1
+35,Austin,Cloudy,93,1
+38,Austin,Cloudy,86,1
+39,Austin,Cloudy,86,1
+43,Austin,Cloudy,93,1
+50,Austin,Mostly Cloudy,87,1
+60,Dallas,Overcast,85,1
+91,Austin,Cloudy,69,1
+104,Austin,Cloudy,74,1
+112,Austin,Partly Sunny,75,1
+130,Austin,Cloudy,86,1
+132,Austin,Cloudy,92,1
+145,Austin,Cloudy,93,1
+149,Austin,Rain,100,1
+154,Austin,Cloudy,93,1
+156,Austin,Rain,100,1
+167,Austin,Rain,100,1
+174,Fort Worth,Mist/Fog,93,1
+205,Austin,Light Fog,100,1
+209,Austin,Light Fog,100,1
+251,Fort Worth,Mist/Fog,86,1
+254,Fort Worth,Mist/Fog,86,1
+257,Fort Worth,Overcast with Haze,80,1
+259,Austin,Cloudy,87,1
+273,Austin,Rain,87,1
+275,Austin,Rain,100,1
+1080,Charlotte,Cloudy,77,1
+1968,Dallas,Cloudy,67,1
+2014,Dallas,Cloudy,78,1
+2051,Dallas,Cloudy,82,1
+2053,Dallas,Cloudy,85,1
+2120,Dallas,Cloudy,79,1
+2611,Detroit,Cloudy,63,1
+3017,El Paso,Cloudy,82,1
+3547,Houston,Partly Cloudy,79,1
+3650,Houston,Cloudy,75,1
+3659,Houston,Cloudy,75,1
+4051,Indianapolis,Cloudy,86,1
+4280,Jacksonville,Cloudy,82,1
+5268,Memphis,Cloudy,55,1
+5316,Memphis,Cloudy,59,1
+5479,Milwaukee,Cloudy,66,1
+5485,Milwaukee,Cloudy,57,1
+5765,Nashville,Cloudy,58,1
+5953,Nashville,Cloudy,72,1
+6021,Nashville,Cloudy,62,1
+7314,Phoenix,Partly Cloudy,54,1
+7449,Portland,Light Rain,79,1
+8208,San Diego,Cloudy,86,1
+8280,San Diego,Cloudy,87,1
+8792,San Jose,Cloudy,71,1
+9584,Milwaukee,Mist/Fog,85,1
+1388,Chicago,Partly Sunny,54,1
+1393,Chicago,Partly Sunny,62,1
+1403,Chicago,Cloudy,74,1
+1406,Chicago,Cloudy,71,1
+1411,Chicago,Cloudy,77,1
+1416,Chicago,Partly Sunny,80,1
+1472,Chicago,Partly Sunny,60,1
+2010,Dallas,Cloudy,75,1
+2024,Dallas,Cloudy,74,1
+2026,Dallas,Cloudy,74,1
+2047,Dallas,Cloudy,82,1
+2885,El Paso,Cloudy,85,1
+2889,El Paso,Mostly Cloudy,75,1
+2895,El Paso,Partly Sunny,64,1
+2969,El Paso,Clear,62,1
+2974,El Paso,Clear,75,1
+2995,El Paso,Cloudy,42,1
+3002,El Paso,Mostly Clear,65,1
+3024,El Paso,Cloudy,44,1
+3026,El Paso,Mostly Cloudy,40,1
+3291,Fort Worth,Light Snow,78,1
+3296,Fort Worth,Cloudy,74,1
+3302,Fort Worth,Cloudy,74,1
+3307,Fort Worth,Cloudy,71,1
+3314,Fort Worth,Cloudy,72,1
+3316,Fort Worth,Cloudy,78,1
+3319,Fort Worth,Cloudy,78,1
+3324,Fort Worth,Cloudy,81,1
+3343,Fort Worth,Cloudy,78,1
+3534,Houston,Cloudy,81,1
+3856,Indianapolis,Cloudy,67,1
+3951,Indianapolis,Sunny,68,1
+3954,Indianapolis,Sunny,68,1
+3980,Indianapolis,Sunny,63,1
+3983,Indianapolis,Sunny,68,1
+4306,Jacksonville,Mostly Cloudy,70,1
+4584,Las Vegas,Mostly Sunny,75,1
+4888,Los Angeles,Sunny,47,1
+4899,Los Angeles,Mostly Cloudy,87,1
+4900,Los Angeles,Mostly Cloudy,82,1
+4934,Los Angeles,Clear,88,1
+4938,Los Angeles,Sunny,88,1
+4940,Los Angeles,Sunny,79,1
+4941,Los Angeles,Sunny,66,1
+4942,Los Angeles,Sunny,49,1
+4944,Los Angeles,Sunny,44,1
+4993,Los Angeles,Sunny,35,1
+5440,Milwaukee,Clear,50,1
+5446,Milwaukee,Clear,60,1
+5455,Milwaukee,Sunny,34,1
+5526,Milwaukee,Clear,48,1
+5527,Milwaukee,Clear,48,1
+5534,Milwaukee,Light Snow,56,1
+5548,Milwaukee,Light Snow,73,1
+5573,Milwaukee,Mostly Cloudy,71,1
+5581,Milwaukee,Sunny,45,1
+5868,Nashville,Cloudy,77,1
+5873,Nashville,Cloudy,74,1
+5888,Nashville,Clear,84,1
+5905,Nashville,Sunny,42,1
+6866,Philadelphia,Sunny,32,1
+6910,Philadelphia,Cloudy,61,1
+7048,Phoenix,Clear,89,1
+7052,Phoenix,Partly Sunny,74,1
+7055,Phoenix,Mostly Cloudy,55,1
+7126,Phoenix,Sunny,42,1
+7131,Phoenix,Mostly Clear,66,1
+7146,Phoenix,Mostly Sunny,54,1
+7150,Phoenix,Sunny,37,1
+7151,Phoenix,Sunny,33,1
+7152,Phoenix,Sunny,32,1
+7464,Portland,Cloudy,82,1
+7477,Portland,Cloudy,85,1
+7485,Portland,Cloudy,92,1
+7497,Portland,Cloudy,93,1
+7553,Portland,Sunny,70,1
+8009,San Diego,Sunny,83,1
+8100,San Diego,Light Fog,89,1
+8104,San Diego,Light Fog,86,1
+8110,San Diego,Sunny,59,1
+8111,San Diego,Sunny,59,1
+8123,San Diego,Clear,86,1
+8135,San Diego,Clear,89,1
+8140,San Diego,Partly Sunny,96,1
+8143,San Diego,Sunny,69,1
+8649,San Jose,Cloudy,93,1
+8969,Seattle,Cloudy,47,1
+9052,Seattle,Cloudy,63,1
+9066,Seattle,Light Rain,88,1
+9069,Seattle,Light Rain,93,1
+9076,Seattle,Light Rain,88,1
+9079,Seattle,Cloudy,93,1
+9084,Seattle,Cloudy,92,1
+9423,Washington,Sunny,30,1

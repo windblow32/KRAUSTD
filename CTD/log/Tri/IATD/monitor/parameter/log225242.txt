@@ -1,0 +1,16 @@
+原始数据集（对应第二个断点）起始时间 : 22:52:41 至 22:52:42
+error distance GA : 15.0
+error rate GA : 0.375
+适应度数值: : 6.622981679899623
+游走长度为 : 31
+Attr 正态均值 : 6
+Attr 正态标准差 : 7
+Value 正态均值 : 3
+Value 正态标准差 : 5
+Tuple 正态均值 : 4
+Tuple 正态标准差 : 1
+drop Source ? (0 false, 1 true) : 0
+drop Sample ? (0 false, 1 true) : 1
+using model : 0
+embedding dim : 73
+windowSize : 6

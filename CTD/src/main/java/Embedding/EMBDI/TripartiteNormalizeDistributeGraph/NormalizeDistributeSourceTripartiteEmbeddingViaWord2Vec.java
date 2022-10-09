@@ -62,15 +62,15 @@ public class NormalizeDistributeSourceTripartiteEmbeddingViaWord2Vec {
             // todo : judge whether graph is saved
             String testFilePath = graphFilePath;
             File testFile = new File(testFilePath);
-            List<String> data = null;
+//            List<List<String>> data = null;
             // fixme 图的名字没有更改，一旦存储了一次就不被更新
             if(testFile.exists()){
                 // 图已经建立，其他数值无法改变了
-                data = meta.Meta_AlgorithmUseGraphFilePath(graphFilePath, n_walks, n_nodes, length);
+                // data = meta.Meta_AlgorithmUseGraphFilePath(graphFilePath, n_walks, n_nodes, length);
             }
             else {
                 // 不存在就训练
-                data = meta.Meta_Algorithm(fileList, n_walks, n_nodes, length, AttrDistributeLow,
+                smallList = meta.Meta_Algorithm(fileList, n_walks, n_nodes, length, AttrDistributeLow,
                         AttrDistributeHigh,
                         ValueDistributeLow,
                         ValueDistributeHigh,
@@ -83,33 +83,32 @@ public class NormalizeDistributeSourceTripartiteEmbeddingViaWord2Vec {
             // fixme : disable total_nodes to test heap
             this.total_nodes.addAll(meta.nodes);
             // save node
-            String totalNodePath = "data/stock100/totalMinNode1.txt";
-            saveList(totalNodePath, total_nodes);
-            System.out.println("save totalNodes successfully");
+//            String totalNodePath = "data/stock100/totalMinNode1.txt";
+            // saveList(totalNodePath, total_nodes);
+            // System.out.println("save totalNodes successfully");
 
-            List<String> finalData = data;
-            List<List<String>> list = data.stream().map(var11 -> finalData).collect(Collectors.toList());
+//            List<String> finalData = data;
+//            List<List<String>> list = data.stream().map(var11 -> finalData).collect(Collectors.toList());
+//            List<List<String>> list = data;
+//
+//            List<String> temp = new ArrayList<>();
+//            Iterator<List<String>> itor = list.iterator();
+//            int k = 0;
+//            temp = itor.next();
+//            System.out.println("list size : "+temp.size());
 
-            List<String> temp = new ArrayList<>();
-            Iterator<List<String>> itor = list.iterator();
-            int k = 0;
-            temp = itor.next();
-            System.out.println("list size : "+temp.size());
-            System.out.println("(abandon)use : "+useNum);
-            int index = 0;
-            // useNum instead of temp.size()
-            for (k = 0; k < temp.size(); k++) {
-                // fixme: sublist 是视图，不能本地化
-                List<String> tempList = new ArrayList<>();
-                for (int t = index; t < index + length; t++) {
-                    if(t<temp.size()){
-                        tempList.add(temp.get(t));
-                    }
-                }
-                smallList.add(tempList);
-                index += length;
-            }
-
+//            System.out.println("(abandon)use : "+useNum);
+//            int index = 0;
+//            for (k = 0; k < temp.size(); k++) {
+//                List<String> tempList = new ArrayList<>();
+//                for (int t = index; t < index + length; t++) {
+//                    if(t<temp.size()){
+//                        tempList.add(temp.get(t));
+//                    }
+//                }
+//                smallList.add(tempList);
+//                index += length;
+//            }
             System.out.println("train successfully");
 
         } catch (InterruptedException e) {
@@ -336,16 +335,17 @@ public class NormalizeDistributeSourceTripartiteEmbeddingViaWord2Vec {
             d = search.cosineDistance(s1, s2);
             List<Double> s1List = search.getRawVector(s1);
             List<Double> s2List = search.getRawVector(s2);
-            double total1 = 0;
-            for (double s : s1List) {
-                total1 += s * s;
-            }
-            double model1 = Math.sqrt(total1);
-            double total2 = 0;
-            for (double s : s2List) {
-                total2 += s * s;
-            }
-            double model2 = Math.sqrt(total2);
+//            // fixme
+//            double total1 = 0;
+//            for (double s : s1List) {
+//                total1 += s * s;
+//            }
+            double model1 = Math.sqrt(s1List.get(0));
+//            double total2 = 0;
+//            for (double s : s2List) {
+//                total2 += s * s;
+//            }
+            double model2 = Math.sqrt(s2List.get(0));
             return d / (model1 * model2);
         } catch (Searcher.UnknownWordException e) {
 //            e.printStackTrace();

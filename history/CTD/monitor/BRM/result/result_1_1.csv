@@ -1,21 +1,101 @@
-sample,change%,last_trade_price,open_price,volumn,today_high,today_low,previous_close,52wk_H,52wk_L
-22.000000000000004,LCD Monitor,5:04,5.0,100.00,1.0
-25.000000000000004,LCD Monitor,16:10,4.179338555560484,100.00,0.8358677111120968
-27.0,LCD Monitor,16:09,5.0,100.00,1.0
-28.000000000000004,LCD Monitor,16:09,4.220933697297842,100.00,0.8441867394595683
-32.0,LCD Monitor,16:09,5.0,100.00,1.0
-33.0,LCD Monitor,16:09,2.299066299693809,100.00,1.0
-38.99999999999999,LCD Monitor,16:09,4.7590485709466765,100.00,1.0
-40.0,LCD Monitor,16:09,4.220933697297842,100.00,0.8441867394595683
-41.00000000000001,LCD Monitor,16:09,5.0,100.00,1.0
-62.000000000000014,LCD Monitor,16:10,14.000000000000002,100.00,1.0
-88.00000000000001,LCD Monitor,16:09,2.0,100.00,1.0
-103.0,LCD Monitor,16:09,5.0,100.00,1.0
-128.0,LCD Monitor,16:10,6,100.00,1
-132.0,LCD Monitor,21:09,5.0,100.00,1.0
-133.00000000000003,LCD Monitor,16:09,8.0,100.00,1.0
-168.00000000000003,LCD Monitor,16:09,2.0,100.00,1.0
-171.00000000000003,LCD Monitor,16:09,2,100.00,1
-185.99999999999997,LCD Monitor,16:10,5.0,100.00,1.0
-190.00000000000003,LCD Monitor,16:09,5.0,100.00,1.0
-193.00000000000003,LCD Monitor,16:09,4.220933697297842,100.00,0.8441867394595683
+entity,brand,screen_type,supported_aspect_ratio,response_time(ms),screen_size_diagonal,day
+22_2,Philips Electronics,LCD Monitor,5:04,5.095578808528459,48.703163019560236,1.0
+25_2,Philips Electronics,LCD Monitor,16:10,4.058149309759834,45.9993213769908,0.832377399830312
+27_2,Philips Electronics,LCD Monitor,16:09,4.929429630581651,53.953384375463486,1.0
+28_2,Philips Electronics,LCD Monitor,16:09,4.130425597420263,46.11360508301868,0.8319482010526108
+32_2,Philips Electronics,LCD Monitor,16:09,5.127749023654466,61.37098108069973,1.0
+33_2,Philips Electronics,LCD Monitor,16:09,2.3402923519667547,61.66741518730732,1.0
+39_2,Philips Electronics,Brilliance LCD Monitor,16:09,4.614048240953576,67.23460003020703,1.0
+40_2,Philips Electronics,Monitor,16:09,4.043608592948463,58.268207393324104,0.8319482010526108
+41_2,Philips Electronics,LCD Monitor,16:09,4.971426137238165,66.91472974193438,1.0
+62_2,Philips Electronics,LCD Monitor,16:09,13.990927526818247,60.894280353746424,1.0
+88_2,iiyama North America,Brilliance LCD Monitor,16:09,2.0523322090691507,58.30116809911903,1.0
+103_2,Hannspree,LCD Monitor,16:09,4.9592602541084725,50.98850751967884,1.0
+128_2,Asus,LCD Monitor,16:10,6.075317464,60.7452146,1
+132_2,Asus,LCD Monitor,21:09,5.0045467812268525,72.73510458788125,1.0
+133_2,Asus,Brilliance LCD Monitor,16:09,7.950767338487078,81.37393377731469,1.0
+168_2,Asus,LCD Monitor,16:09,1.9926745331622855,69.37247414493919,1.0
+171_2,Asus,LCD Monitor,16:09,1.882792081,63.67587246,1
+186_2,Asus,Monitor,16:09,4.7940655319368615,55.298378946899135,1.0
+190_2,Asus,Brilliance LCD Monitor,16:09,5.044136907517368,71.43848395264773,1.0
+193_2,iiyama North America,Brilliance LCD Monitor,16:09,4.323001475911188,49.879078367642535,0.8319482010526108
+22_1,Philips Electronics,LCD Monitor,5:04,5,0,1.0
+25_1,Philips Electronics,LCD Monitor,16:10,5,0,1.0
+27_1,Philips Electronics,LCD Monitor,16:09,5,0,1.0
+28_1,Philips Electronics,LCD Monitor,16:09,5,0,1.0
+32_1,Philips Electronics,LCD Monitor,16:09,5,0,1.0
+33_1,Philips Electronics,LCD Monitor,16:09,1,0,1.0
+39_1,Philips Electronics,LCD Monitor,16:09,5,0,1.0
+40_1,Philips Electronics,LCD Monitor,16:09,5,0,1.0
+41_1,Philips Electronics,LCD Monitor,16:09,5,0,1.0
+62_1,Philips Electronics,LCD Monitor,16:10,14,0,1.0
+88_1,iiyama North America,LCD Monitor,16:09,2,0,1.0
+103_1,Hannspree,LCD Monitor,16:09,5,0,1.0
+128_1,Asus,LCD Monitor,16:10,6,0,1.0
+132_1,Asus,LCD Monitor,21:09,5,0,1.0
+133_1,Asus,LCD Monitor,16:09,8,0,1.0
+168_1,Asus,LCD Monitor,16:09,2,0,1.0
+171_1,Asus,LCD Monitor,16:09,2,0,1.0
+186_1,Asus,LCD Monitor,16:10,5,0,1.0
+190_1,Asus,LCD Monitor,16:09,5,0,1.0
+193_1,iiyama North America,LCD Monitor,16:09,5,0,1.0
+22_3,Philips Electronics,LCD Monitor;LCD Monitor;LCD,5:04,5,0,1.0
+25_3,Philips Electronics,LCD Monitor,16:10,5,0,1.0
+27_3,Philips Electronics,LCD Monitor;LCD Monitor;TFT Brilliance LCD 16.7 Million Colour,16:09,5,0,1.0
+28_3,Philips Electronics,TFT LCD 16.7 Million Colour;LED,16:09,5,0,1.0
+32_3,Philips Electronics,LCD Monitor,16:09,5,0,1.0
+33_3,Philips Electronics,LCD Monitor,16:09,1,0,1.0
+39_3,Philips Electronics,Brilliance LCD Monitor,16:09,5,0,1.0
+40_3,Philips Electronics,TFT LCD Million Colour;TFT/LCD,16:09,5,0,1.0
+41_3,Philips Electronics,TFT/LCD;TFT LCD 16.7 Million Colour;LCD Monitor,16:09,5,0,1.0
+62_3,Philips Electronics,IPS;IPS TFT LCD 16.7 Million Colour;LCD Monitor,16:10,14,0,1.0
+88_3,iiyama North America,LCD;TN+Film;TFT Brilliance LCD 16.7 million Colour,16:09,2,0,1.0
+103_3,Hannspree,LCD Monitor;LED Backlight 16.7 Million Colour;LED,16:09,5,0,1.0
+128_3,Asus,LCD Monitor,16:10,6,0,1.0
+132_3,Asus,LCD Monitor,21:09,5,0,1.0
+133_3,Asus,LCD Monitor;IGZO;Widescreen 1.07 Colour,16:09,8,0,1.0
+168_3,Asus,LCD Monitor;LCD;Monitor,16:09,2,0,1.0
+171_3,Asus,LCD Monitor,16:09,2,0,1.0
+186_3,Asus,Monitor;LED 16.7 million Colour;LCD Monitor,16:09,5,0,1.0
+190_3,Asus,Monitor;Widescreen IPS 16.7 Million Colour;Brilliance LCD Monitor,16:09,5,0,1.0
+193_3,iiyama North America,LED Backlight LCD IPS Panel 16.7 million Colour;Brilliance LCD Monitor,16:09,5,0,1.0
+22_4,Philips Electronics,LCD Monitor;LCD Monitor;LCD,5:04,5,0,1.0
+25_4,Philips Electronics,LCD Monitor;LCD Monitor,16:10,5,0,1.0
+27_4,Philips Electronics,LCD Monitor;LCD Monitor;TFT Brilliance LCD 16.7 Million Colour,16:09,5,0,1.0
+28_4,Philips Electronics,TFT LCD 16.7 Million Colour;LED,16:09,5,0,1.0
+32_4,Philips Electronics,LCD Monitor,16:09,5,0,1.0
+33_4,Philips Electronics,LCD Monitor,16:09,1,0,1.0
+39_4,Philips Electronics,Brilliance LCD Monitor,16:09,5,0,1.0
+40_4,Philips Electronics,TFT LCD Million Colour;TFT/LCD,16:09,5,0,1.0
+41_4,Philips Electronics,TFT/LCD;TFT LCD 16.7 Million Colour;LCD Monitor,16:09,5,0,1.0
+62_4,Philips Electronics,IPS;IPS TFT LCD 16.7 Million Colour;LCD Monitor,16:10,14,0,1.0
+88_4,iiyama North America,LCD;TN+Film;TFT Brilliance LCD 16.7 million Colour,16:09,2,0,1.0
+103_4,Hannspree,LCD Monitor;LED Backlight 16.7 Million Colour;LED,16:09,5,0,1.0
+128_4,Asus,LCD Monitor,16:10,6,0,1.0
+132_4,Asus,LCD Monitor,21:09,5,0,1.0
+133_4,Asus,LCD Monitor;IGZO;Widescreen 1.07 Colour,16:09,8,0,1.0
+168_4,Asus,LCD Monitor;LCD;Monitor,16:09,2,0,1.0
+171_4,Asus,LCD Monitor,16:09,2,0,1.0
+186_4,Asus,Monitor;LED 16.7 million Colour;LCD Monitor,16:09,5,0,1.0
+190_4,Asus,Monitor;Widescreen IPS 16.7 Million Colour;Brilliance LCD Monitor,16:09,5,0,1.0
+193_4,iiyama North America,LED Backlight LCD IPS Panel 16.7 million Colour;Brilliance LCD Monitor,16:09,5,0,1.0
+22_5,Philips Electronics,LCD Monitor;LCD Monitor;LCD,5:04,5,0,1.0
+25_5,Philips Electronics,LCD Monitor,16:10,5,0,1.0
+27_5,Philips Electronics,LCD Monitor,16:09,5,0,1.0
+28_5,Philips Electronics,TFT LCD 16.7 Million Colour;LED,16:09,5,0,1.0
+32_5,Philips Electronics,LCD Monitor,16:09,5,0,1.0
+33_5,Philips Electronics,LCD Monitor,16:09,1,0,1.0
+39_5,Philips Electronics,Brilliance LCD Monitor;Brilliance LCD Monitor;Monitor,16:09,5,0,1.0
+40_5,Philips Electronics,TFT LCD Million Colour;TFT/LCD,16:09,5,0,1.0
+41_5,Philips Electronics,TFT/LCD;TFT LCD 16.7 Million Colour;LCD Monitor,16:09,5,0,1.0
+62_5,Philips Electronics,IPS;IPS TFT LCD 16.7 Million Colour;LCD Monitor,16:10,14,0,1.0
+88_5,iiyama North America,LCD;TN+Film;TFT Brilliance LCD 16.7 million Colour,16:09,2,0,1.0
+103_5,Hannspree,LCD Monitor;LED Backlight 16.7 Million Colour;LED,16:09,5,0,1.0
+128_5,Asus,LCD Monitor,16:10,6,0,1.0
+132_5,Asus,LCD Monitor;LCD Monitor;IPS,21:09,5,0,1.0
+133_5,Asus,LCD Monitor;IGZO;Widescreen 1.07 Colour,16:09,8,0,1.0
+168_5,Asus,LCD Monitor;LCD;Monitor,16:09,2,0,1.0
+171_5,Asus,LCD Monitor;LCD Monitor,16:09,2,0,1.0
+186_5,Asus,Monitor;LED 16.7 million Colour;LCD Monitor,16:09,5,0,1.0
+190_5,Asus,Monitor;Widescreen IPS 16.7 Million Colour;Brilliance LCD Monitor,16:09,5,0,1.0
+193_5,iiyama North America,LED Backlight LCD IPS Panel 16.7 million Colour;Brilliance LCD Monitor,16:09,5,0,1.0

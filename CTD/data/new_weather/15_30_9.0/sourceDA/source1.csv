@@ -1,0 +1,57 @@
+entity,Domain,Conditions,Humidity,day
+1388,Chicago,Clouds,,1
+1393,Chicago,Cloudy,,1
+1403,Chicago,Cloudy,,1
+1406,Chicago,Mostly,,1
+1411,Chicago,Mostly,,1
+1416,Chicago,Cloudy,,1
+1472,Chicago,Partly,,1
+2010,Dallas,Cloudy,,1
+2014,Dallas,Cloudy,,1
+2024,Dallas,Cloudy,,1
+2026,Dallas,Cloudy,,1
+2047,Dallas,Cloudy,,1
+2969,El Paso,Clean,,1
+2974,El Paso,Clean,,1
+2995,El Paso,Cloudy,,1
+3002,El Paso,Cloudy,,1
+3017,El Paso,Cloudy,,1
+3024,El Paso,Mostly,,1
+3026,El Paso,Mostly,,1
+3951,Indianapolis,Partly,,1
+3954,Indianapolis,Cloudy,,1
+3980,Indianapolis,Clean,,1
+3983,Indianapolis,Clean,,1
+4584,Las Vegas,Clean,,1
+4993,Los Angeles,Clean,,1
+5526,Milwaukee,Partly,,1
+5527,Milwaukee,Cloudy,,1
+5534,Milwaukee,Cloudy,,1
+5548,Milwaukee,Light,,1
+5573,Milwaukee,Cloudy,,1
+5581,Milwaukee,Cloudy,,1
+7048,Phoenix,Partly,,1
+7052,Phoenix,Cloudy,,1
+7055,Phoenix,Partly,,1
+7126,Phoenix,Partly,,1
+7131,Phoenix,Cloudy,,1
+7146,Phoenix,Mostly,,1
+7150,Phoenix,Cloudy,,1
+7151,Phoenix,Cloudy,,1
+7152,Phoenix,Cloudy,,1
+7553,Portland,Cloudy,,1
+8100,San Diego,Fog,,1
+8104,San Diego,Partly,,1
+8110,San Diego,Cloudy,,1
+8111,San Diego,Mostly,,1
+8123,San Diego,Cloudy,,1
+8135,San Diego,Partly,,1
+8140,San Diego,Cloudy,,1
+8143,San Diego,Partly,,1
+8649,San Jose,Cloudy,,1
+9052,Seattle,Cloudy,,1
+9066,Seattle,Light,,1
+9069,Seattle,Cloudy,,1
+9076,Seattle,Rain,,1
+9079,Seattle,Cloudy,,1
+9084,Seattle,Cloudy,,1

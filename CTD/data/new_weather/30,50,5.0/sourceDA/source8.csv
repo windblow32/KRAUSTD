@@ -1,0 +1,170 @@
+entity,Domain,Conditions,Humidity,day
+1388,Chicago,Mostly,56.20798933,1
+1393,Chicago,Intermittent,61.88588346,1
+1403,Chicago,Cloudy,71.44239933,1
+1406,Chicago,Clouds,81.3453476,1
+1411,Chicago,Cloudy,80.88860136,1
+1416,Chicago,Sunny,84.71682344,1
+1472,Chicago,Partly,63.88752047,1
+2010,Dallas,Cloudy,72.08650516,1
+2014,Dallas,Cloudy,79.33844221,1
+2024,Dallas,Cloudy,69.6376321,1
+2026,Dallas,Cloudy,70.34099821,1
+2047,Dallas,Cloudy,87.32505202,1
+2051,Dallas,Cloudy,83.27012191,1
+2053,Dallas,Cloudy,82.18181084,1
+2110,Dallas,Showers,80.57824392,1
+2112,Dallas,Showers,100.8302252,1
+2648,Detroit,Sunny,46.86129219,1
+2649,Detroit,Sunny,55.85871625,1
+2650,Detroit,Sunny,55.57105372,1
+2672,Detroit,Mostly,60.69574558,1
+2685,Detroit,Sunny,74.32503065,1
+2687,Detroit,Sunny,78.10733757,1
+2691,Detroit,Sunny,79.8776641,1
+2885,El Paso,Cloudy,76.98227809,1
+2889,El Paso,Cloudy,74.96824271,1
+2895,El Paso,Partly,70.23186858,1
+2969,El Paso,Partly,67.72477309,1
+2974,El Paso,Sunny,72.95634163,1
+2995,El Paso,Clouds,47.16074736,1
+3002,El Paso,Mostly,60.41797894,1
+3017,El Paso,Cloudy,74.02922363,1
+3024,El Paso,Cloudy,43.7716637,1
+3026,El Paso,Mostly,37.09931725,1
+3209,Fort Worth,Rain,83.60684139,1
+3291,Fort Worth,Cloudy,80.80776614,1
+3296,Fort Worth,Cloudy,80.44808186,1
+3302,Fort Worth,Cloudy,82.23907928,1
+3307,Fort Worth,Cloudy,68.90251731,1
+3314,Fort Worth,Cloudy,70.09611479,1
+3316,Fort Worth,Cloudy,73.76664671,1
+3319,Fort Worth,Cloudy,71.19313101,1
+3324,Fort Worth,Cloudy,77.75698576,1
+3343,Fort Worth,Cloudy,86.73546503,1
+3534,Houston,Cloudy,88.6534645,1
+3608,Houston,Cloudy,79.86584276,1
+3623,Houston,Cloudy,72.07930293,1
+3625,Houston,Cloudy,66.38782165,1
+3627,Houston,Cloudy,73.70258404,1
+3632,Houston,Cloudy,63.75482379,1
+3634,Houston,Cloudy,62.41932576,1
+3641,Houston,Cloudy,74.39411895,1
+3643,Houston,Cloudy,65.12565652,1
+3645,Houston,Cloudy,75.7225444,1
+3650,Houston,Cloudy,80.35703687,1
+3659,Houston,Cloudy,72.32699046,1
+3666,Houston,Cloudy,76.43858077,1
+3856,Indianapolis,Cloudy,57.09624989,1
+3951,Indianapolis,Sunny,53.54492388,1
+3954,Indianapolis,Sunny,55.694169,1
+3980,Indianapolis,Sunny,61.66935667,1
+3983,Indianapolis,Sunny,56.74967696,1
+4178,Jacksonville,Sunny,55.64221424,1
+4259,Jacksonville,Cloudy,105.3642168,1
+4280,Jacksonville,Cloudy,87.15798137,1
+4292,Jacksonville,Cloudy,80.81131035,1
+4306,Jacksonville,Sunny,55.68641612,1
+4584,Las Vegas,Clear,68.12062035,1
+4672,Las Vegas,Partly,65.68802297,1
+4800,Los Angeles,Sunny,70.10347892,1
+4810,Los Angeles,Sunny,58.79043727,1
+4815,Los Angeles,Sunny,43.66462116,1
+4888,Los Angeles,Sunny,59.96662247,1
+4899,Los Angeles,Cloudy,78.97417004,1
+4900,Los Angeles,Partly,76.84432781,1
+4934,Los Angeles,Sunny,80.59498971,1
+4938,Los Angeles,Sunny,74.81891953,1
+4940,Los Angeles,Sunny,75.2637443,1
+4941,Los Angeles,Sunny,59.96219774,1
+4942,Los Angeles,Sunny,50.13136742,1
+4944,Los Angeles,Sunny,42.79809601,1
+4993,Los Angeles,Sunny,71.21592604,1
+5132,Memphis,Sleet,89.4320913,1
+5209,Memphis,Freezing,82.07978776,1
+5214,Memphis,Rain,93.49402649,1
+5229,Memphis,Cloudy,91.67270273,1
+5248,Memphis,Sunny,79.11085349,1
+5263,Memphis,Partly,61.75473012,1
+5312,Memphis,Cloudy,74.20876473,1
+5440,Milwaukee,Mostly,50.39907468,1
+5446,Milwaukee,Mostly,60.31861977,1
+5455,Milwaukee,Sunny,52.38772497,1
+5526,Milwaukee,Partly,61.21161861,1
+5527,Milwaukee,Cloudy,67.40992974,1
+5534,Milwaukee,Cloudy,54.10291054,1
+5548,Milwaukee,Flurries,91.83692092,1
+5573,Milwaukee,Cloudy,64.58999846,1
+5581,Milwaukee,Partly,45.28629543,1
+5632,Milwaukee,Sunny,55.95492249,1
+5765,Nashville,Cloudy,63.53957217,1
+5768,Nashville,Flurries,56.958561,1
+5868,Nashville,Cloudy,78.01490245,1
+5873,Nashville,Cloudy,77.14008175,1
+5888,Nashville,Sunny,90.46213977,1
+5905,Nashville,Sunny,38.97614566,1
+5953,Nashville,Cloudy,75.76077245,1
+6724,Philadelphia,Sunny,45.75399015,1
+6728,Philadelphia,Sunny,42.78876046,1
+6824,Philadelphia,Sunny,45.68334482,1
+6833,Philadelphia,Flurries,56.92071402,1
+6841,Philadelphia,Cloudy,47.47967296,1
+6850,Philadelphia,Sunny,52.35059481,1
+6866,Philadelphia,Sunny,27.64205234,1
+6910,Philadelphia,Cloudy,55.80760766,1
+7048,Phoenix,Partly,88.29971033,1
+7052,Phoenix,Sunny,67.6992357,1
+7055,Phoenix,Mostly,69.31504188,1
+7126,Phoenix,Partly,45.98779262,1
+7131,Phoenix,Mostly,62.51091465,1
+7146,Phoenix,Partly,56.58393951,1
+7150,Phoenix,Intermittent,34.92905021,1
+7151,Phoenix,Intermittent,36.53887445,1
+7152,Phoenix,Intermittent,37.57520802,1
+7170,Phoenix,Sunny,68.40928656,1
+7176,Phoenix,Clouds,67.38464087,1
+7179,Phoenix,Clouds,67.77097089,1
+7182,Phoenix,Sunny,39.72150992,1
+7183,Phoenix,Sunny,43.70032703,1
+7375,Portland,Showers,69.31857135,1
+7449,Portland,Cloudy,66.94139251,1
+7464,Portland,Cloudy,80.8763137,1
+7477,Portland,Cloudy,82.63083017,1
+7485,Portland,Cloudy,84.78840284,1
+7497,Portland,Fog,96.25973929,1
+7553,Portland,Cloudy,60.31277122,1
+7691,San Antonio,Showers,77.85085789,1
+7765,San Antonio,Sunny,52.82197539,1
+7776,San Antonio,Sunny,68.8067342,1
+7778,San Antonio,Sunny,71.00636664,1
+7802,San Antonio,Sunny,77.8131567,1
+7811,San Antonio,Cloudy,83.0436606,1
+7824,San Antonio,Cloudy,77.02663894,1
+8009,San Diego,Intermittent,70.3837819,1
+8100,San Diego,Sunny,78.01450554,1
+8104,San Diego,Mostly,94.30581261,1
+8110,San Diego,Sunny,63.4471943,1
+8111,San Diego,Sunny,64.2030818,1
+8123,San Diego,Partly,70.18109291,1
+8135,San Diego,Mostly,91.4808959,1
+8140,San Diego,Partly,74.8360088,1
+8143,San Diego,Sunny,65.71211748,1
+8336,San Francisco,Cloudy,73.99818144,1
+8649,San Jose,Cloudy,96.55080915,1
+8969,Seattle,Cloudy,64.39602551,1
+9052,Seattle,Cloudy,74.42105242,1
+9066,Seattle,Showers,94.38562609,1
+9069,Seattle,Cloudy,92.51501458,1
+9076,Seattle,Showers,95.44382245,1
+9079,Seattle,Rain,84.67852109,1
+9084,Seattle,Cloudy,93.15472004,1
+9280,Washington,Cloudy,47.19435666,1
+9293,Washington,Cloudy,41.17591229,1
+9296,Washington,Cloudy,37.90205817,1
+9372,Washington,Cloudy,41.03993702,1
+9379,Washington,Cloudy,42.31050798,1
+9385,Washington,Snow,74.67910698,1
+9390,Washington,Snow,68.89952677,1
+9394,Washington,Snow,77.87775441,1
+9423,Washington,Sunny,28.46642186,1
+9425,Washington,Sunny,28.48139141,1

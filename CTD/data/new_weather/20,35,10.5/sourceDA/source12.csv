@@ -1,0 +1,78 @@
+entity,Domain,Conditions,Humidity,day
+1388,Chicago,Partly,54.68219418,1
+1393,Chicago,Sunny,66.47046525,1
+1403,Chicago,Cloudy,67.30537652,1
+1406,Chicago,Cloudy,73.64462566,1
+1411,Chicago,Cloudy,70.05357229,1
+1416,Chicago,Partly,77.21803375,1
+1472,Chicago,Partly,54.8480558,1
+2010,Dallas,Cloudy,81.72339755,1
+2014,Dallas,Cloudy,73.30273691,1
+2024,Dallas,Cloudy,74.42623104,1
+2026,Dallas,Cloudy,80.45432699,1
+2047,Dallas,Cloudy,87.47334105,1
+2885,El Paso,Cloudy,82.96108613,1
+2889,El Paso,Mostly,78.28276752,1
+2895,El Paso,Sunny,57.78192771,1
+2969,El Paso,Sunny,67.22271252,1
+2974,El Paso,Sunny,79.05995611,1
+2995,El Paso,Cloudy,42.44390341,1
+3002,El Paso,Mostly,65.00982833,1
+3017,El Paso,Cloudy,79.1334454,1
+3024,El Paso,Cloudy,40.77988286,1
+3026,El Paso,Mostly,38.61306636,1
+3534,Houston,Cloudy,73.85357383,1
+3951,Indianapolis,Sunny,64.83630216,1
+3954,Indianapolis,Sunny,72.70625924,1
+3980,Indianapolis,Sunny,65.03072904,1
+3983,Indianapolis,Sunny,66.23068307,1
+4584,Las Vegas,Sunny,72.0921085,1
+4888,Los Angeles,Sunny,49.95667969,1
+4899,Los Angeles,Mostly,81.12125668,1
+4900,Los Angeles,Cloudy,85.11170163,1
+4934,Los Angeles,Sunny,86.99887228,1
+4938,Los Angeles,Sunny,93.90936369,1
+4940,Los Angeles,Sunny,84.67700571,1
+4941,Los Angeles,Sunny,61.20648721,1
+4942,Los Angeles,Sunny,50.26903707,1
+4944,Los Angeles,Sunny,41.50025464,1
+4993,Los Angeles,Sunny,37.27027548,1
+5440,Milwaukee,Sunny,46.96253491,1
+5455,Milwaukee,Sunny,36.43500001,1
+5526,Milwaukee,Sunny,49.07182236,1
+5527,Milwaukee,Sunny,44.02940659,1
+5534,Milwaukee,Light,50.56757209,1
+5548,Milwaukee,Snow,72.62109497,1
+5573,Milwaukee,Cloudy,72.64923368,1
+5581,Milwaukee,Sunny,40.96384307,1
+5905,Nashville,Sunny,45.18140489,1
+5953,Nashville,Cloudy,73.10918469,1
+7048,Phoenix,Sunny,85.86926376,1
+7052,Phoenix,Sunny,74.86749452,1
+7055,Phoenix,Cloudy,60.13950991,1
+7126,Phoenix,Sunny,38.32148374,1
+7131,Phoenix,Mostly,64.46989826,1
+7146,Phoenix,Mostly,52.16133425,1
+7150,Phoenix,Sunny,34.04620028,1
+7449,Portland,Light,86.20077985,1
+7464,Portland,Cloudy,81.32288442,1
+7477,Portland,Cloudy,83.54296365,1
+7485,Portland,Cloudy,86.03328574,1
+7497,Portland,Cloudy,89.05550905,1
+7553,Portland,Sunny,70.91876235,1
+8009,San Diego,Sunny,77.90967813,1
+8100,San Diego,Light,81.13648798,1
+8104,San Diego,Light,92.61414083,1
+8110,San Diego,Sunny,54.59263662,1
+8111,San Diego,Sunny,58.13092974,1
+8123,San Diego,Sunny,77.62707004,1
+8135,San Diego,Sunny,93.6175067,1
+8140,San Diego,Sunny,99.86460954,1
+8143,San Diego,Sunny,66.82351629,1
+8649,San Jose,Cloudy,88.33022823,1
+9052,Seattle,Cloudy,61.69778448,1
+9066,Seattle,Light,90.15023118,1
+9069,Seattle,Light,89.16090951,1
+9076,Seattle,Light,94.28956007,1
+9079,Seattle,Cloudy,84.16213884,1
+9084,Seattle,Cloudy,89.52501421,1

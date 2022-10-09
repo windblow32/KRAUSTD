@@ -156,7 +156,7 @@ public class GAImpl extends GeneticAlgorithm{
         double r2 = 0;
         double fitScore = 0;
         double extractedRMSE = 0;
-        weightList = CtdService.update(version,fileList,sourceNum,DCs,"THREE",length,AttrDistributeLow,
+        weightList = CtdService.update(1,1,"",1,version,fileList,sourceNum,DCs,"THREE",length,AttrDistributeLow,
                 AttrDistributeHigh,
                 ValueDistributeLow,
                 ValueDistributeHigh,

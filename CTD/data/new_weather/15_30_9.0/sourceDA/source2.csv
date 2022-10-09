@@ -1,0 +1,57 @@
+entity,Domain,Conditions,Humidity,day
+1388,Chicago,Cloudy,54.3088705,1
+1393,Chicago,Cloudy,57.15645915,1
+1403,Chicago,Overcast,66.73896586,1
+1406,Chicago,Mostly,70.04192188,1
+1411,Chicago,Mostly,71.97297114,1
+1416,Chicago,Cloudy,71.29410864,1
+1472,Chicago,Partly,55.43373055,1
+2010,Dallas,Overcast,73.14782855,1
+2014,Dallas,Overcast,72.29186828,1
+2024,Dallas,Overcast,72.2178389,1
+2026,Dallas,Overcast,71.92301123,1
+2047,Dallas,Overcast,92.63583979,1
+2969,El Paso,Sunny,66.33030267,1
+2974,El Paso,Sunny,70.17376948,1
+2995,El Paso,Overcast,40.07402581,1
+3002,El Paso,Cloudy,66.58534259,1
+3017,El Paso,Overcast,88.71980838,1
+3024,El Paso,Mostly,46.15794645,1
+3026,El Paso,Cloudy,39.88621561,1
+3951,Indianapolis,Partly,49.90194492,1
+3954,Indianapolis,Cloudy,53.07352906,1
+3980,Indianapolis,Sunny,73.06862212,1
+3983,Indianapolis,Sunny,62.5513377,1
+4584,Las Vegas,Sunny,86.34154664,1
+4993,Los Angeles,Sunny,67.95503115,1
+5526,Milwaukee,Partly,60.17156605,1
+5527,Milwaukee,Partly,61.80163571,1
+5534,Milwaukee,Overcast,55.47684048,1
+5548,Milwaukee,Light,93.53729487,1
+5573,Milwaukee,Mostly,72.3428495,1
+5581,Milwaukee,Cloudy,49.0825841,1
+7048,Phoenix,Cloudy,91.89208466,1
+7052,Phoenix,Cloudy,73.7847906,1
+7055,Phoenix,Cloudy,59.39951806,1
+7126,Phoenix,Partly,45.81306973,1
+7131,Phoenix,Cloudy,58.82278165,1
+7146,Phoenix,Mostly,56.16486275,1
+7150,Phoenix,Cloudy,33.31393072,1
+7151,Phoenix,Cloudy,35.37764518,1
+7152,Phoenix,Mostly,30.80179897,1
+7553,Portland,Overcast,60.63083871,1
+8100,San Diego,And Mist,95.35400466,1
+8104,San Diego,And Mist,87.33064149,1
+8110,San Diego,Partly,62.16155376,1
+8111,San Diego,Cloudy,69.06700499,1
+8123,San Diego,Cloudy,81.94952302,1
+8135,San Diego,Unclear,81.15487131,1
+8140,San Diego,Unclear,80.16278234,1
+8143,San Diego,Cloudy,62.29828128,1
+8649,San Jose,Mostly,97.45950088,1
+9052,Seattle,Overcast,73.3025065,1
+9066,Seattle,Light,89.76370061,1
+9069,Seattle,Overcast,84.81802744,1
+9076,Seattle,Light,87.82912796,1
+9079,Seattle,Overcast,89.90408228,1
+9084,Seattle,Overcast,84.90080105,1

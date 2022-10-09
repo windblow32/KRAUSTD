@@ -1,0 +1,101 @@
+entity,brand,screen_type,supported_aspect_ratio,response_time(ms),screen_size_diagonal,day
+22_2,Philips Electronics,LCD,5:04,5.083093739,44.53785537,1
+25_2,Philips Electronics,LCD,16:10,4.678791561,53.39001563,1
+27_2,Philips Electronics,LED,16:09,4.91305422,50.26067372,1
+28_2,Philips Electronics,LED,16:10,4.872858177,49.6731007,1
+32_2,Philips Electronics,LED,16:09,4.841456829,64.81924765,1
+33_2,Philips Electronics,TN+Film,16:09,5.36681041,61.53001296,1
+39_2,Philips Electronics,LED,16:08,3.568469119,74.03915253,1
+40_2,Philips Electronics,TFT/LCD,16:09,4.819695583,74.99737969,1
+41_2,Philips Electronics,TFT/LCD,16:09,4.753762385,61.94106206,1
+62_2,Philips Electronics,IPS,16:10,15.24549792,65.05870274,1
+88_2,iiyama North America,TN+Film,16:09,2.154737621,59.81607704,1
+103_2,Hannspree,LED,16:10,5.441076343,53.17478626,1
+128_2,,,,,,
+132_2,Asus,IPS,16:09,5.165395001,76.08221133,1
+133_2,Asus,IGZO,16:09,8.006460399,87.97896668,1
+168_2,Asus,LCD,16:09,2.071719452,70.8135437,1
+171_2,,,,,,
+186_2,Asus,TN+Film,16:10,4.681169719,54.39630621,1
+190_2,Asus,IPS,16:09,4.874532936,64.41553641,1
+193_2,iiyama North America,IPS,16:10,4.805533954,61.80027728,1
+22_1,Philips Electronics,LCD,5:04,,,1
+25_1,Philips Electronics,LCD,16:10,,,1
+27_1,Philips Electronics,LED,16:09,,,1
+28_1,Philips Electronics,LED,16:09,,,1
+32_1,Philips Electronics,LED,16:09,,,1
+33_1,Philips Electronics,TN+Film,16:09,,,1
+39_1,Philips Electronics,LED,16:09,,,1
+40_1,Philips Electronics,LCD/TFT,16:09,,,1
+41_1,Philips Electronics,LCD/TFT,16:09,,,1
+62_1,Philips Electronics,IPS,16:10,,,1
+88_1,iiyama North America,TN+Film,16:09,,,1
+103_1,Hannspree,LED,16:09,,,1
+128_1,,,,,,1
+132_1,Asus,IPS,16:09,,,1
+133_1,Asus,IGZO,16:09,,,1
+168_1,Asus,LCD,16:09,,,1
+171_1,,,,,,1
+186_1,Asus,TN+Film,16:10,,,1
+190_1,Asus,IPS,16:09,,,1
+193_1,iiyama North America,IPS,16:09,,,1
+22_3,Philips Electronics,LCD,5:04,,,1
+25_3,Philips Electronics,LCD,16:10,,,1
+27_3,Philips Electronics,LED,16:09,,,1
+28_3,Philips Electronics,LED,16:10,,,1
+32_3,Philips Electronics,LED,16:09,,,1
+33_3,Philips Electronics,TN+Film,16:09,,,1
+39_3,Philips Electronics,LED,16:08,,,1
+40_3,Philips Electronics,TFT/LCD,16:09,,,1
+41_3,Philips Electronics,TFT/LCD,16:09,,,1
+62_3,Philips Electronics,IPS,16:10,,,1
+88_3,iiyama North America,TN+Film,16:09,,,1
+103_3,Hannspree,LED,16:10,,,1
+128_3,,,,,,1
+132_3,Asus,IPS,16:09,,,1
+133_3,Asus,IGZO,16:09,,,1
+168_3,Asus,LCD,16:09,,,1
+171_3,,,,,,1
+186_3,Asus,TN+Films,16:10,,,1
+190_3,Asus,IPS,16:09,,,1
+193_3,iiyama North America,IP,16:10,,,1
+22_4,Philips Electronics,LCD,5:04,,,1
+25_4,Philips Electronics,LCD,16:10,,,1
+27_4,Philips Electronics,LEDs,16:09,,,1
+28_4,Philips Electronics,LED,16:10,,,1
+32_4,Philips Electronics,LED,16:09,,,1
+33_4,Philips Electronics,Film,16:09,,,1
+39_4,Philips Electronics,LED,16:08,,,1
+40_4,Philips Electronics,TFT/LCD,16:09,,,1
+41_4,Philips Electronics,TFT/LCD,16:09,,,1
+62_4,Philips Electronics,IPS,16:10,,,1
+88_4,iiyama North America,TN+Film,16:09,,,1
+103_4,Hannspree,LED,16:10,,,1
+128_4,,,,,,1
+132_4,Asus,IPS,16:09,,,1
+133_4,Asus,IGZO,16:09,,,1
+168_4,Asus,LCD,16:09,,,1
+171_4,,,,,,1
+186_4,Asus,TN+Film,16:10,,,1
+190_4,Asus,IPS,16:09,,,1
+193_4,iiyama North America,IP,16:10,,,1
+22_5,Philips Electronics,LC,5:04,,,1
+25_5,Philips Electronics,LED,16:10,,,1
+27_5,Philips Electronics,LCD,16:09,,,1
+28_5,Philips Electronics,LED,16:10,,,1
+32_5,Philips Electronics,LED,16:09,,,1
+33_5,Philips Electronics,TN+,16:09,,,1
+39_5,Philips Electronics,LEDS,16:08,,,1
+40_5,Philips Electronics,TFT/LCD,16:09,,,1
+41_5,Philips Electronics,TFT/LCD,16:09,,,1
+62_5,Philips Electronics,IPS,16:10,,,1
+88_5,iiyama North America,TN+Film,16:09,,,1
+103_5,Hannspree,LED,16:10,,,1
+128_5,,,,,,1
+132_5,Asus,IPS,16:09,,,1
+133_5,Asus,IG,16:09,,,1
+168_5,Asus,LCD,16:09,,,1
+171_5,,,,,,1
+186_5,Asus,TN,16:10,,,1
+190_5,Asus,IPS,16:09,,,1
+193_5,iiyama North America,IP,16:10,,,1

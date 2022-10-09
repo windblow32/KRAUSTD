@@ -1,0 +1,16 @@
+rmse  GA : 53.111705601483756
+error rmse : 53.111705601483756
+error rate : 0.004
+数值类型rmse: 0.09208961583845277
+游走长度为 : 12
+Attr 正态均值 : 4
+Attr 正态标准差 : 3
+Value 正态均值 : 2
+Value 正态标准差 : 0
+Tuple 正态均值 : 7
+Tuple 正态标准差 : 5
+drop Source ? (0 false, 1 true) : 0
+drop Sample ? (0 false, 1 true) : 0
+using model : 1
+embedding dim : 146
+windowSize : 4

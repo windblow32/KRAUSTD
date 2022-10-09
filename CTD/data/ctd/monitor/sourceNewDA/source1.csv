@@ -1,6 +1,95 @@
 entity,screen_type,supported_aspect_ratio,response_time(ms),screen_size_diagonal,day
-22,LCD,5:04,5.083093739,44.53785537,1
-25,LCD,16:10,4.678791561,53.39001563,1
-27,LED,16:09,4.91305422,50.26067372,1
-28,LED,16:10,4.872858177,49.6731007,1
-193,IPS,16:10,4.805533954,61.80027728,1
+1388,Chicago,Clouds,,1
+1393,Chicago,Cloudy,,1
+1403,Chicago,Cloudy,,1
+1406,Chicago,Mostly,,1
+1411,Chicago,Mostly,,1
+1416,Chicago,Cloudy,,1
+1472,Chicago,Partly,,1
+2010,Dallas,Cloudy,,1
+2024,Dallas,Cloudy,,1
+2026,Dallas,Cloudy,,1
+2047,Dallas,Cloudy,,1
+2885,El Paso,Cloudy,,1
+2889,El Paso,Cloudy,,1
+2895,El Paso,Cloudy,,1
+2969,El Paso,Clean,,1
+2974,El Paso,Clean,,1
+2995,El Paso,Cloudy,,1
+3002,El Paso,Cloudy,,1
+3024,El Paso,Mostly,,1
+3026,El Paso,Mostly,,1
+3291,Fort Worth,Cloudy,,1
+3296,Fort Worth,Cloudy,,1
+3302,Fort Worth,Cloudy,,1
+3307,Fort Worth,Cloudy,,1
+3314,Fort Worth,Cloudy,,1
+3316,Fort Worth,Cloudy,,1
+3319,Fort Worth,Cloudy,,1
+3324,Fort Worth,Cloudy,,1
+3343,Fort Worth,Cloudy,,1
+3534,Houston,Cloudy,,1
+3856,Indianapolis,Cloudy,,1
+3951,Indianapolis,Partly,,1
+3954,Indianapolis,Cloudy,,1
+3980,Indianapolis,Clean,,1
+3983,Indianapolis,Clean,,1
+4306,Jacksonville,Mostly,,1
+4584,Las Vegas,Clean,,1
+4888,Los Angeles,Clean,,1
+4899,Los Angeles,Partly,,1
+4900,Los Angeles,Clean,,1
+4934,Los Angeles,Clean,,1
+4938,Los Angeles,Haze,,1
+4940,Los Angeles,Clean,,1
+4941,Los Angeles,Clean,,1
+4942,Los Angeles,Clean,,1
+4944,Los Angeles,Clean,,1
+4993,Los Angeles,Clean,,1
+5440,Milwaukee,Partly,,1
+5446,Milwaukee,Partly,,1
+5455,Milwaukee,Cloudy,,1
+5526,Milwaukee,Partly,,1
+5527,Milwaukee,Cloudy,,1
+5534,Milwaukee,Cloudy,,1
+5548,Milwaukee,Light,,1
+5573,Milwaukee,Cloudy,,1
+5581,Milwaukee,Cloudy,,1
+5868,Nashville,Cloudy,,1
+5873,Nashville,Cloudy,,1
+5888,Nashville,Clean,,1
+5905,Nashville,Clean,,1
+6866,Philadelphia,Clean,,1
+6910,Philadelphia,Cloudy,,1
+7048,Phoenix,Partly,,1
+7052,Phoenix,Cloudy,,1
+7055,Phoenix,Partly,,1
+7126,Phoenix,Partly,,1
+7131,Phoenix,Cloudy,,1
+7146,Phoenix,Mostly,,1
+7150,Phoenix,Cloudy,,1
+7151,Phoenix,Cloudy,,1
+7152,Phoenix,Cloudy,,1
+7464,Portland,Cloudy,,1
+7477,Portland,Cloudy,,1
+7485,Portland,Cloudy,,1
+7497,Portland,Fog,,1
+7553,Portland,Cloudy,,1
+8009,San Diego,Mostly,,1
+8100,San Diego,Fog,,1
+8104,San Diego,Partly,,1
+8110,San Diego,Cloudy,,1
+8111,San Diego,Mostly,,1
+8123,San Diego,Cloudy,,1
+8135,San Diego,Partly,,1
+8140,San Diego,Cloudy,,1
+8143,San Diego,Partly,,1
+8649,San Jose,Cloudy,,1
+8969,Seattle,Mostly,,1
+9052,Seattle,Cloudy,,1
+9066,Seattle,Light,,1
+9069,Seattle,Cloudy,,1
+9076,Seattle,Rain,,1
+9079,Seattle,Cloudy,,1
+9084,Seattle,Cloudy,,1
+9423,Washington,Clean,,1

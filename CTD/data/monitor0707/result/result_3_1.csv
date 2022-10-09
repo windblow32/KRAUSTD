@@ -1,0 +1,101 @@
+entity,brand,screen_type,supported_aspect_ratio,response_time(ms),screen_size_diagonal,day
+22_2,Philips Electronics,LCD Monitor,5:04,5.098354608640563,48.661628526148995,1.0
+25_2,Philips Electronics,LCD Monitor;LCD Monitor,16:10,4.0949829131290025,46.35418676473639,0.8390505234924348
+27_2,Philips Electronics,LCD Monitor,16:09,4.931413428485281,53.981085185880964,1.0
+28_2,Philips Electronics,TFT LCD 16.7 Million Colour;LED,16:09,4.057266581070938,45.250197738027126,0.8166431174975571
+32_2,Philips Electronics,LCD Monitor,16:09,5.12084205932408,61.19980332920057,1.0
+33_2,Philips Electronics,LCD Monitor,16:09,2.290505197284001,61.687225636091924,1.0
+39_2,Philips Electronics,Brilliance LCD Monitor,16:09,4.624389438166,67.35673234995089,1.0
+40_2,Philips Electronics,TFT LCD Million Colour;TFT/LCD,16:09,3.974263562161368,57.18416986756479,0.8166431174975571
+41_2,Philips Electronics,TFT/LCD;TFT LCD 16.7 Million Colour;LCD Monitor,16:09,4.969932587868068,67.0321500902813,1.0
+62_2,Philips Electronics,IPS;IPS TFT LCD 16.7 Million Colour;LCD Monitor,16:09,13.983062075852768,60.81487837199806,1.0
+88_2,iiyama North America,LCD;TN+Film;TFT Brilliance LCD 16.7 million Colour,16:09,2.0523252494932605,58.35209227516261,1.0
+103_2,Hannspree,LCD Monitor;LED Backlight 16.7 Million Colour;LED,16:09,4.959772024812144,50.882809364640075,1.0
+128_2,Asus,LCD Monitor,16:10,6.075317464,60.7452146,1
+132_2,Asus,LCD Monitor,21:09,5.0096463435000524,72.76484644881427,1.0
+133_2,Asus,LCD Monitor;IGZO;Widescreen 1.07 Colour,16:09,7.948351161147778,81.53303752693846,1.0
+168_2,Asus,LCD Monitor;LCD;Monitor,16:09,1.9909521785436763,69.47003239209641,1.0
+171_2,Asus,LCD Monitor,16:09,1.882792081,68.6,1
+186_2,Asus,Monitor;LED 16.7 million Colour;LCD Monitor,16:10,4.797499228160219,55.226569331378705,1.0
+190_2,Asus,Monitor;Widescreen IPS 16.7 Million Colour;Brilliance LCD Monitor,16:09,5.049736046813968,71.45051508360847,1.0
+193_2,iiyama North America,LED Backlight LCD IPS Panel 16.7 million Colour;Brilliance LCD Monitor,16:09,4.2367442629948915,48.915929730560144,0.8166431174975571
+22_1,Philips Electronics,LCD Monitor;LCD Monitor;LCD,5:04,5,0,1.0
+25_1,Philips Electronics,LCD Monitor;LCD Monitor,16:10,5,0,1.0
+27_1,Philips Electronics,LCD Monitor;LCD Monitor;TFT Brilliance LCD 16.7 Million Colour,16:09,5,0,1.0
+28_1,Philips Electronics,TFT LCD 16.7 Million Colour;LED,16:09,5,0,1.0
+32_1,Philips Electronics,LCD Monitor;LCD Monitor;LED,16:09,5,0,1.0
+33_1,Philips Electronics,LCD Monitor;LCD Monitor;TFT LCD 16.7 Million Colour,16:09,1,0,1.0
+39_1,Philips Electronics,LCD Monitor,16:09,5,0,1.0
+40_1,Philips Electronics,TFT LCD Million Colour;TFT/LCD,16:09,5,0,1.0
+41_1,Philips Electronics,TFT/LCD;TFT LCD 16.7 Million Colour;LCD Monitor,16:09,5,0,1.0
+62_1,Philips Electronics,IPS;IPS TFT LCD 16.7 Million Colour;LCD Monitor,16:10,14,0,1.0
+88_1,iiyama North America,LCD;TN+Film;TFT Brilliance LCD 16.7 million Colour,16:09,2,0,1.0
+103_1,Hannspree,LCD Monitor;LED Backlight 16.7 Million Colour;LED,16:09,5,0,1.0
+128_1,Asus,LCD Monitor;LCD Monitor,16:10,6,0,1.0
+132_1,Asus,LCD Monitor;LCD Monitor;IPS,21:09,5,0,1.0
+133_1,Asus,LCD Monitor;IGZO;Widescreen 1.07 Colour,16:09,8,0,1.0
+168_1,Asus,LCD Monitor;LCD;Monitor,16:09,2,0,1.0
+171_1,Asus,LCD Monitor;LCD Monitor,16:09,2,0,1.0
+186_1,Asus,Monitor;LED 16.7 million Colour;LCD Monitor,16:10,5,0,1.0
+190_1,Asus,Monitor;Widescreen IPS 16.7 Million Colour;Brilliance LCD Monitor,16:09,5,0,1.0
+193_1,iiyama North America,LED Backlight LCD IPS Panel 16.7 million Colour;Brilliance LCD Monitor,16:09,5,0,1.0
+22_3,Philips Electronics,LCD Monitor;LCD Monitor;LCD,5:04,5,0,1.0
+25_3,Philips Electronics,LCD Monitor;LCD Monitor,16:10,5,0,1.0
+27_3,Philips Electronics,LCD Monitor;LCD Monitor;TFT Brilliance LCD 16.7 Million Colour,16:09,5,0,1.0
+28_3,Philips Electronics,TFT LCD 16.7 Million Colour;LED,16:09,5,0,1.0
+32_3,Philips Electronics,LCD Monitor;LCD Monitor;LED,16:09,5,0,1.0
+33_3,Philips Electronics,LCD Monitor;LCD Monitor;TFT LCD 16.7 Million Colour,16:09,1,0,1.0
+39_3,Philips Electronics,Brilliance LCD Monitor;Brilliance LCD Monitor;Monitor,16:09,5,0,1.0
+40_3,Philips Electronics,TFT LCD Million Colour;TFT/LCD,16:09,5,0,1.0
+41_3,Philips Electronics,TFT/LCD;TFT LCD 16.7 Million Colour;LCD Monitor,16:09,5,0,1.0
+62_3,Philips Electronics,IPS;IPS TFT LCD 16.7 Million Colour;LCD Monitor,16:10,14,0,1.0
+88_3,iiyama North America,LCD;TN+Film;TFT Brilliance LCD 16.7 million Colour,16:09,2,0,1.0
+103_3,Hannspree,LCD Monitor;LED Backlight 16.7 Million Colour;LED,16:09,5,0,1.0
+128_3,Asus,LCD Monitor;LCD Monitor,16:10,6,0,1.0
+132_3,Asus,LCD Monitor;LCD Monitor;IPS,21:09,5,0,1.0
+133_3,Asus,LCD Monitor;IGZO;Widescreen 1.07 Colour,16:09,8,0,1.0
+168_3,Asus,LCD Monitor;LCD;Monitor,16:09,2,0,1.0
+171_3,Asus,LCD Monitor;LCD Monitor,16:09,2,0,1.0
+186_3,Asus,Monitor;LED 16.7 million Colour;LCD Monitor,16:10,5,0,1.0
+190_3,Asus,Monitor;Widescreen IPS 16.7 Million Colour;Brilliance LCD Monitor,16:09,5,0,1.0
+193_3,iiyama North America,LED Backlight LCD IPS Panel 16.7 million Colour;Brilliance LCD Monitor,16:09,5,0,1.0
+22_4,Philips Electronics,LCD Monitor;LCD Monitor;LCD,5:04,5,0,1.0
+25_4,Philips Electronics,LCD Monitor;LCD Monitor,16:10,5,0,1.0
+27_4,Philips Electronics,LCD Monitor;LCD Monitor;TFT Brilliance LCD 16.7 Million Colour,16:09,5,0,1.0
+28_4,Philips Electronics,TFT LCD 16.7 Million Colour;LED,16:09,5,0,1.0
+32_4,Philips Electronics,LCD Monitor;LCD Monitor;LED,16:09,5,0,1.0
+33_4,Philips Electronics,LCD Monitor;LCD Monitor;TFT LCD 16.7 Million Colour,16:09,1,0,1.0
+39_4,Philips Electronics,Brilliance LCD Monitor;Brilliance LCD Monitor;Monitor,16:09,5,0,1.0
+40_4,Philips Electronics,TFT LCD Million Colour;TFT/LCD,16:09,5,0,1.0
+41_4,Philips Electronics,TFT/LCD;TFT LCD 16.7 Million Colour;LCD Monitor,16:09,5,0,1.0
+62_4,Philips Electronics,IPS;IPS TFT LCD 16.7 Million Colour;LCD Monitor,16:10,14,0,1.0
+88_4,iiyama North America,LCD;TN+Film;TFT Brilliance LCD 16.7 million Colour,16:09,2,0,1.0
+103_4,Hannspree,LCD Monitor;LED Backlight 16.7 Million Colour;LED,16:09,5,0,1.0
+128_4,Asus,LCD Monitor;LCD Monitor,16:10,6,0,1.0
+132_4,Asus,LCD Monitor;LCD Monitor;IPS,21:09,5,0,1.0
+133_4,Asus,LCD Monitor;IGZO;Widescreen 1.07 Colour,16:09,8,0,1.0
+168_4,Asus,LCD Monitor;LCD;Monitor,16:09,2,0,1.0
+171_4,Asus,LCD Monitor;LCD Monitor,16:09,2,0,1.0
+186_4,Asus,Monitor;LED 16.7 million Colour;LCD Monitor,16:10,5,0,1.0
+190_4,Asus,Monitor;Widescreen IPS 16.7 Million Colour;Brilliance LCD Monitor,16:09,5,0,1.0
+193_4,iiyama North America,LED Backlight LCD IPS Panel 16.7 million Colour;Brilliance LCD Monitor,16:09,5,0,1.0
+22_5,Philips Electronics,LCD Monitor;LCD Monitor;LCD,5:04,5,0,1.0
+25_5,Philips Electronics,LCD Monitor;LCD Monitor,16:10,5,0,1.0
+27_5,Philips Electronics,LCD Monitor;LCD Monitor;TFT Brilliance LCD 16.7 Million Colour,16:09,5,0,1.0
+28_5,Philips Electronics,TFT LCD 16.7 Million Colour;LED,16:09,5,0,1.0
+32_5,Philips Electronics,LCD Monitor;LCD Monitor;LED,16:09,5,0,1.0
+33_5,Philips Electronics,LCD Monitor;LCD Monitor;TFT LCD 16.7 Million Colour,16:09,1,0,1.0
+39_5,Philips Electronics,Brilliance LCD Monitor;Brilliance LCD Monitor;Monitor,16:09,5,0,1.0
+40_5,Philips Electronics,TFT LCD Million Colour;TFT/LCD,16:09,5,0,1.0
+41_5,Philips Electronics,TFT/LCD;TFT LCD 16.7 Million Colour;LCD Monitor,16:09,5,0,1.0
+62_5,Philips Electronics,IPS;IPS TFT LCD 16.7 Million Colour;LCD Monitor,16:10,14,0,1.0
+88_5,iiyama North America,LCD;TN+Film;TFT Brilliance LCD 16.7 million Colour,16:09,2,0,1.0
+103_5,Hannspree,LCD Monitor;LED Backlight 16.7 Million Colour;LED,16:09,5,0,1.0
+128_5,Asus,LCD Monitor;LCD Monitor,16:10,6,0,1.0
+132_5,Asus,LCD Monitor;LCD Monitor;IPS,21:09,5,0,1.0
+133_5,Asus,LCD Monitor;IGZO;Widescreen 1.07 Colour,16:09,8,0,1.0
+168_5,Asus,LCD Monitor;LCD;Monitor,16:09,2,0,1.0
+171_5,Asus,LCD Monitor;LCD Monitor,16:09,2,0,1.0
+186_5,Asus,Monitor;LED 16.7 million Colour;LCD Monitor,16:10,5,0,1.0
+190_5,Asus,Monitor;Widescreen IPS 16.7 Million Colour;Brilliance LCD Monitor,16:09,5,0,1.0
+193_5,iiyama North America,LED Backlight LCD IPS Panel 16.7 million Colour;Brilliance LCD Monitor,16:09,5,0,1.0

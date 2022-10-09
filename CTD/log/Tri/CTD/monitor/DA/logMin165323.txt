@@ -1,0 +1,4 @@
+GA printer : rmse = 0.0
+GA printer : r2 square = 0.0
+GA printer : last time fitScore = 0.0
+GA printer : last time extracted data's rmse = 0.0

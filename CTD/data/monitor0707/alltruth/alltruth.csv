@@ -1,0 +1,101 @@
+entity,brand,screen_type,supported_aspect_ratio,response_time(ms),screen_size_diagonal,day
+22_1,LCD Monitor;LCD Monitor;LCD,5:04,5,48.3,1
+25_1,LCD Monitor;LCD Monitor,16:10,5,55.9,1
+27_1,LCD Monitor;LCD Monitor;TFT Brilliance LCD 16.7 Million Colour,16:09,5,54.6,1
+28_1,TFT LCD 16.7 Million Colour;LED,16:09,5,54.6,1
+32_1,LCD Monitor;LCD Monitor;LED,16:09,5,61,1
+33_1,LCD Monitor;LCD Monitor;TFT LCD 16.7 Million Colour,16:09,1,61,1
+39_1,Brilliance LCD Monitor;Brilliance LCD Monitor;Monitor,16:09,5,68.6,1
+40_1,TFT LCD Million Colour;TFT/LCD,16:09,5,68.6,1
+41_1,TFT/LCD;TFT LCD 16.7 Million Colour;LCD Monitor,16:09,5,68.6,1
+62_1,IPS;IPS TFT LCD 16.7 Million Colour;LCD Monitor,16:10,14,61,1
+88_1,LCD;TN+Film;TFT Brilliance LCD 16.7 million Colour,16:09,2,61,1
+103_1,LCD Monitor;LED Backlight 16.7 Million Colour;LED,16:09,5,49.5,1
+128_1,LCD Monitor;LCD Monitor,16:10,6,61,1
+132_1,LCD Monitor;LCD Monitor;IPS,21:09,5,73.7,1
+133_1,LCD Monitor;IGZO;Widescreen 1.07 Colour,16:09,8,80,1
+168_1,LCD Monitor;LCD;Monitor,16:09,2,68.6,1
+171_1,LCD Monitor;LCD Monitor,16:09,2,68.6,1
+186_1,Monitor;LED 16.7 million Colour;LCD Monitor,16:10,5,55.9,1
+190_1,Monitor;Widescreen IPS 16.7 Million Colour;Brilliance LCD Monitor,16:09,5,68.6,1
+193_1,LED Backlight LCD IPS Panel 16.7 million Colour;Brilliance LCD Monitor,16:09,5,58.4,1
+22_2,LCD Monitor;LCD Monitor;LCD,5:04,5,48.3,1
+25_2,LCD Monitor;LCD Monitor,16:10,5,55.9,1
+27_2,LCD Monitor;LCD Monitor;TFT Brilliance LCD 16.7 Million Colour,16:09,5,54.6,1
+28_2,TFT LCD 16.7 Million Colour;LED,16:09,5,54.6,1
+32_2,LCD Monitor;LCD Monitor;LED,16:09,5,61,1
+33_2,LCD Monitor;LCD Monitor;TFT LCD 16.7 Million Colour,16:09,1,61,1
+39_2,Brilliance LCD Monitor;Brilliance LCD Monitor;Monitor,16:09,5,68.6,1
+40_2,TFT LCD Million Colour;TFT/LCD,16:09,5,68.6,1
+41_2,TFT/LCD;TFT LCD 16.7 Million Colour;LCD Monitor,16:09,5,68.6,1
+62_2,IPS;IPS TFT LCD 16.7 Million Colour;LCD Monitor,16:10,14,61,1
+88_2,LCD;TN+Film;TFT Brilliance LCD 16.7 million Colour,16:09,2,61,1
+103_2,LCD Monitor;LED Backlight 16.7 Million Colour;LED,16:09,5,49.5,1
+128_2,LCD Monitor;LCD Monitor,16:10,6,61,1
+132_2,LCD Monitor;LCD Monitor;IPS,21:09,5,73.7,1
+133_2,LCD Monitor;IGZO;Widescreen 1.07 Colour,16:09,8,80,1
+168_2,LCD Monitor;LCD;Monitor,16:09,2,68.6,1
+171_2,LCD Monitor;LCD Monitor,16:09,2,68.6,1
+186_2,Monitor;LED 16.7 million Colour;LCD Monitor,16:10,5,55.9,1
+190_2,Monitor;Widescreen IPS 16.7 Million Colour;Brilliance LCD Monitor,16:09,5,68.6,1
+193_2,LED Backlight LCD IPS Panel 16.7 million Colour;Brilliance LCD Monitor,16:09,5,58.4,1
+22_3,LCD Monitor;LCD Monitor;LCD,5:04,5,48.3,1
+25_3,LCD Monitor;LCD Monitor,16:10,5,55.9,1
+27_3,LCD Monitor;LCD Monitor;TFT Brilliance LCD 16.7 Million Colour,16:09,5,54.6,1
+28_3,TFT LCD 16.7 Million Colour;LED,16:09,5,54.6,1
+32_3,LCD Monitor;LCD Monitor;LED,16:09,5,61,1
+33_3,LCD Monitor;LCD Monitor;TFT LCD 16.7 Million Colour,16:09,1,61,1
+39_3,Brilliance LCD Monitor;Brilliance LCD Monitor;Monitor,16:09,5,68.6,1
+40_3,TFT LCD Million Colour;TFT/LCD,16:09,5,68.6,1
+41_3,TFT/LCD;TFT LCD 16.7 Million Colour;LCD Monitor,16:09,5,68.6,1
+62_3,IPS;IPS TFT LCD 16.7 Million Colour;LCD Monitor,16:10,14,61,1
+88_3,LCD;TN+Film;TFT Brilliance LCD 16.7 million Colour,16:09,2,61,1
+103_3,LCD Monitor;LED Backlight 16.7 Million Colour;LED,16:09,5,49.5,1
+128_3,LCD Monitor;LCD Monitor,16:10,6,61,1
+132_3,LCD Monitor;LCD Monitor;IPS,21:09,5,73.7,1
+133_3,LCD Monitor;IGZO;Widescreen 1.07 Colour,16:09,8,80,1
+168_3,LCD Monitor;LCD;Monitor,16:09,2,68.6,1
+171_3,LCD Monitor;LCD Monitor,16:09,2,68.6,1
+186_3,Monitor;LED 16.7 million Colour;LCD Monitor,16:10,5,55.9,1
+190_3,Monitor;Widescreen IPS 16.7 Million Colour;Brilliance LCD Monitor,16:09,5,68.6,1
+193_3,LED Backlight LCD IPS Panel 16.7 million Colour;Brilliance LCD Monitor,16:09,5,58.4,1
+22_4,LCD Monitor;LCD Monitor;LCD,5:04,5,48.3,1
+25_4,LCD Monitor;LCD Monitor,16:10,5,55.9,1
+27_4,LCD Monitor;LCD Monitor;TFT Brilliance LCD 16.7 Million Colour,16:09,5,54.6,1
+28_4,TFT LCD 16.7 Million Colour;LED,16:09,5,54.6,1
+32_4,LCD Monitor;LCD Monitor;LED,16:09,5,61,1
+33_4,LCD Monitor;LCD Monitor;TFT LCD 16.7 Million Colour,16:09,1,61,1
+39_4,Brilliance LCD Monitor;Brilliance LCD Monitor;Monitor,16:09,5,68.6,1
+40_4,TFT LCD Million Colour;TFT/LCD,16:09,5,68.6,1
+41_4,TFT/LCD;TFT LCD 16.7 Million Colour;LCD Monitor,16:09,5,68.6,1
+62_4,IPS;IPS TFT LCD 16.7 Million Colour;LCD Monitor,16:10,14,61,1
+88_4,LCD;TN+Film;TFT Brilliance LCD 16.7 million Colour,16:09,2,61,1
+103_4,LCD Monitor;LED Backlight 16.7 Million Colour;LED,16:09,5,49.5,1
+128_4,LCD Monitor;LCD Monitor,16:10,6,61,1
+132_4,LCD Monitor;LCD Monitor;IPS,21:09,5,73.7,1
+133_4,LCD Monitor;IGZO;Widescreen 1.07 Colour,16:09,8,80,1
+168_4,LCD Monitor;LCD;Monitor,16:09,2,68.6,1
+171_4,LCD Monitor;LCD Monitor,16:09,2,68.6,1
+186_4,Monitor;LED 16.7 million Colour;LCD Monitor,16:10,5,55.9,1
+190_4,Monitor;Widescreen IPS 16.7 Million Colour;Brilliance LCD Monitor,16:09,5,68.6,1
+193_4,LED Backlight LCD IPS Panel 16.7 million Colour;Brilliance LCD Monitor,16:09,5,58.4,1
+22_5,LCD Monitor;LCD Monitor;LCD,5:04,5,48.3,1
+25_5,LCD Monitor;LCD Monitor,16:10,5,55.9,1
+27_5,LCD Monitor;LCD Monitor;TFT Brilliance LCD 16.7 Million Colour,16:09,5,54.6,1
+28_5,TFT LCD 16.7 Million Colour;LED,16:09,5,54.6,1
+32_5,LCD Monitor;LCD Monitor;LED,16:09,5,61,1
+33_5,LCD Monitor;LCD Monitor;TFT LCD 16.7 Million Colour,16:09,1,61,1
+39_5,Brilliance LCD Monitor;Brilliance LCD Monitor;Monitor,16:09,5,68.6,1
+40_5,TFT LCD Million Colour;TFT/LCD,16:09,5,68.6,1
+41_5,TFT/LCD;TFT LCD 16.7 Million Colour;LCD Monitor,16:09,5,68.6,1
+62_5,IPS;IPS TFT LCD 16.7 Million Colour;LCD Monitor,16:10,14,61,1
+88_5,LCD;TN+Film;TFT Brilliance LCD 16.7 million Colour,16:09,2,61,1
+103_5,LCD Monitor;LED Backlight 16.7 Million Colour;LED,16:09,5,49.5,1
+128_5,LCD Monitor;LCD Monitor,16:10,6,61,1
+132_5,LCD Monitor;LCD Monitor;IPS,21:09,5,73.7,1
+133_5,LCD Monitor;IGZO;Widescreen 1.07 Colour,16:09,8,80,1
+168_5,LCD Monitor;LCD;Monitor,16:09,2,68.6,1
+171_5,LCD Monitor;LCD Monitor,16:09,2,68.6,1
+186_5,Monitor;LED 16.7 million Colour;LCD Monitor,16:10,5,55.9,1
+190_5,Monitor;Widescreen IPS 16.7 Million Colour;Brilliance LCD Monitor,16:09,5,68.6,1
+193_5,LED Backlight LCD IPS Panel 16.7 million Colour;Brilliance LCD Monitor,16:09,5,58.4,1

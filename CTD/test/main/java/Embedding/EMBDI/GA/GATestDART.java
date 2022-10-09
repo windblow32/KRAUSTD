@@ -274,12 +274,21 @@ public class GATestDART extends GeneticAlgorithm{
             DateTimeFormatter formatter_pre = DateTimeFormatter.ofPattern("HH:mm:ss");
             t_DApre = time_pre.format(formatter_pre);
 
-            while(!detectFile(calcTruthPath)){
-                try {
-                    Thread.sleep(1000);
-                } catch (InterruptedException e) {
-                    e.printStackTrace();
+            Process proc;
+            try {
+                proc = Runtime.getRuntime().exec("python E:\\GitHub\\KRAUSTD\\dart\\connect.py");// 执行py文件
+                //用输入输出流来截取结果
+                BufferedReader in = new BufferedReader(new InputStreamReader(proc.getInputStream()));
+                String line = null;
+                while ((line = in.readLine()) != null) {
+                    System.out.println(line);
                 }
+                in.close();
+                proc.waitFor();
+            } catch (IOException e) {
+                e.printStackTrace();
+            } catch (InterruptedException e) {
+                e.printStackTrace();
             }
             LocalTime time_after = LocalTime.now();
             t_DAafter = time_after.format(formatter_pre);
@@ -298,54 +307,7 @@ public class GATestDART extends GeneticAlgorithm{
         getTempDA();
         fileList = initialFileList(dataset);
         calcTruthPath = "E:\\GitHub\\KRAUSTD\\dart\\" + truthFileName + "_truth.csv";
-//        NormalizeDistributeSourceTripartiteEmbeddingViaWord2Vec word2VecService = new NormalizeDistributeSourceTripartiteEmbeddingViaWord2Vec();
-//        word2VecService.train(fileList,graphPath,3,3,length,20000,AttrDistributeLow,
-//                AttrDistributeHigh,
-//                ValueDistributeLow,
-//                ValueDistributeHigh,
-//                TupleDistributeLow,
-//                TupleDistributeHigh,
-//                dropSourceEdge,
-//                dropSampleEdge,
-//                isCBOW,
-//                dim,
-//                windowSize);
-//        String modelPath = "model/Tri/DART/monitor/DART_Connection.model";
-//        DARTModel = word2VecService.trainWithLocalWalks(modelPath);
-//        List<String> domainList = new ArrayList<>();
-//        domainList.add("Philips_Electronics");
-//        domainList.add("iiyama_North_America");
-//        domainList.add("Hannspree");
-//        domainList.add("Asus");
-//
-//        // set output file path
-//        File f = new File("log/Tri/DART/monitor/DART_connection.txt");
-//        try {
-//            f.createNewFile();
-//            FileOutputStream fos = new FileOutputStream(f);
-//            PrintStream ps = new PrintStream(fos);
-//            System.setOut(ps);
-//            System.out.println(truthFileName);
-//            // 每个source内部求, 在图中，source从0开始编号
-//            for(int s = 0; s < 5; s++){
-//                for(int d = 0 ;d < domainList.size();d++){
-//                    for(int t = d+1;t<domainList.size();t++){
-//                        String domain1 = domainList.get(d);
-//                        String domain2 = domainList.get(t);
-//                        List<String> distanceList = new ArrayList<>();
-//                        distanceList = getDistanceForDART(DARTModel,"source_"+s, domain1, domain2);
-//                        System.out.println(distanceList.get(0));
-//                        System.out.println(distanceList.get(1));
-//
-//                    }
-//                }
-//            }
-//            ps.close();
-//            fos.close();
-//        } catch (IOException e) {
-//            e.printStackTrace();
-//        }
-        // run dart
+
         DART dart = new DART();
         DARTModel = dart.distanceForDartUsingMonitorOrigin(length,20000,AttrDistributeLow,
                 AttrDistributeHigh,
@@ -361,12 +323,21 @@ public class GATestDART extends GeneticAlgorithm{
         LocalTime time_pre = LocalTime.now();
         DateTimeFormatter formatter_pre = DateTimeFormatter.ofPattern("HH:mm:ss");
         t_pre = time_pre.format(formatter_pre);
-        while(!detectFile(calcTruthPath)){
-            try {
-                Thread.sleep(1000);
-            } catch (InterruptedException e) {
-                e.printStackTrace();
+        Process proc;
+        try {
+            proc = Runtime.getRuntime().exec("python E:\\GitHub\\KRAUSTD\\dart\\connect.py");// 执行py文件
+            //用输入输出流来截取结果
+            BufferedReader in = new BufferedReader(new InputStreamReader(proc.getInputStream()));
+            String line = null;
+            while ((line = in.readLine()) != null) {
+                System.out.println(line);
             }
+            in.close();
+            proc.waitFor();
+        } catch (IOException e) {
+            e.printStackTrace();
+        } catch (InterruptedException e) {
+            e.printStackTrace();
         }
         LocalTime time_after = LocalTime.now();
         formatter_pre = DateTimeFormatter.ofPattern("HH:mm:ss");
@@ -387,8 +358,9 @@ public class GATestDART extends GeneticAlgorithm{
         // CTD
 //        double RMSEScore = RMSE(calcTruth,goldenStandard,D1,D2);
         // monitor的error rate
-        double RMSEScore = errorForMonitor(calcTruth,goldenStandard,D1,D2);
-        // monitor 中就是error rate
+        List<Double> error_list = new ArrayList<>();
+        error_list = errorForMonitor(calcTruth,goldenStandard,D1,D2);
+        double RMSEScore = error_list.get(1);        // monitor 中就是error rate
         rmse = RMSEScore;
         // using CTD print last time's extracted data's rmse
 //        extractedCTD_RMSE = CtdService.getRmseForGA();
@@ -410,11 +382,14 @@ public class GATestDART extends GeneticAlgorithm{
             FileOutputStream fos = new FileOutputStream(logFile);
             PrintStream ps = new PrintStream(fos);
             System.setOut(ps);
+            double error_rate = error_list.get(0);
             if(version==1){
                 System.out.println("DA过程的断点中断时间 : " + t_DApre +" 至 " + t_DAafter);
             }
             System.out.println("原始数据集（对应第二个断点）起始时间 : " + t_pre +" 至 " + t_after);
-            System.out.println("error rate GA : " + RMSEScore);
+            System.out.println("error distance GA : " + RMSEScore);
+            System.out.println("error rate GA : " + error_rate);
+
             System.out.println("适应度数值: : " + score);
 //            r2 = R_square(calcTruth,goldenStandard,D1,D2);
 //            System.out.println("R square GA : " + r2);
@@ -698,9 +673,12 @@ public class GATestDART extends GeneticAlgorithm{
     }
 
     /*
-        计算monitor数据集的precise
+        计算monitor数据集的error rate
      */
-    public double errorForMonitor(String[][] calcTruth, String[][] goldenStandard,int D1,int D2){
+    public List<Double> errorForMonitor(String[][] calcTruth, String[][] goldenStandard,int D1,int D2){
+        List<Double> error_list = new ArrayList<>();;
+        int error_sample = 0;
+        double error_rate = 0;
         // 数字类型计算差值，string类型看是否一样,计算累计误差
         double sum = 0;
         for(int i = 0;i<D1;i++){
@@ -712,6 +690,7 @@ public class GATestDART extends GeneticAlgorithm{
                         || goldenStandard[i][j].equals("")
                         ||goldenStandard[i][j] == null){
                     sum += 1;
+                    error_sample++;
                     continue;
                 }
                 if(j==1){
@@ -741,6 +720,7 @@ public class GATestDART extends GeneticAlgorithm{
 //                        }
 //                    }
                     sum += 1-precise;
+                    error_sample+=1-precise;
 //                }else if(j == 2){
 //                    String type = calcTruth[i][j];
 //                    String truthType = goldenStandard[i][j];
@@ -751,12 +731,22 @@ public class GATestDART extends GeneticAlgorithm{
                     String str2 = goldenStandard[i][j];
                     double v1 = Double.parseDouble(str1);
                     double v2 = Double.parseDouble(str2);
-                    sum += Math.abs(v1-v2);
+                    double cha = Math.abs(v1-v2);
+                    if(cha>0.05){
+                        // same
+                        error_sample++;
+                    }
+                    sum += cha;
                 }
             }
         }
+        error_rate = 1.0*error_sample/(D1*D2);
 
-        return sum;
+        // 第一位维
+        error_list.add(error_rate);
+        error_list.add(sum);
+
+        return error_list;
     }
 
     public static float Levenshtein(String a, String b) {

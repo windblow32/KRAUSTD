@@ -1,0 +1,294 @@
+entity,Domain,Conditions,Humidity,day
+5,Austin,Short term forecastRain,93,1
+10,Austin,Weather WarningsCloudy,93,1
+13,Austin,Short term forecastMostly Cloudy,81,1
+25,Austin,Fog,86,1
+31,Austin,Cloudy,86,1
+35,Austin,Cloudy,80,1
+38,Austin,Short term forecastCloudy,80,1
+39,Austin,Short term forecastFog,87,1
+43,Austin,Short term forecastFog,93,1
+50,Austin,Short term forecastHaze,81,1
+60,,,,
+91,Austin,Partly Cloudy,64,1
+104,Austin,Clear,69,1
+112,Austin,Clear,52,1
+130,Austin,Cloudy,93,1
+132,Austin,Cloudy,86,1
+145,Austin,Cloudy,80,1
+149,Austin,Short term forecastRain,93,1
+154,Austin,Short term forecastFog,93,1
+156,Austin,Short term forecastRain,100,1
+167,Austin,Short term forecastRain,93,1
+174,,,,
+205,Austin,Short term forecastFog,93,1
+209,Austin,Fog,93,1
+251,,,,
+254,,,,
+257,,,,
+259,Austin,Short term forecastHaze,76,1
+273,Austin,Rain,87,1
+275,Austin,Short term forecastRain,93,1
+280,Austin,Weather WarningsRain,100,1
+302,,,,
+314,,,,
+315,,,,
+324,Baltimore,Mostly Cloudy,42,1
+342,Baltimore,Clear,53,1
+376,,,,
+382,,,,
+398,,,,
+407,Baltimore,Cloudy,36,1
+408,Baltimore,Cloudy,36,1
+428,Baltimore,Weather WarningsSnow,79,1
+441,Baltimore,Weather WarningsSnow,79,1
+462,Baltimore,Clear,33,1
+467,Baltimore,Clear,37,1
+483,Baltimore,Winter storm watchClear,59,1
+496,,,,
+498,,,,
+517,Baltimore,Partly Cloudy,54,1
+528,Baltimore,Mostly Cloudy,86,1
+535,Baltimore,Haze,86,1
+552,,,,
+565,,,,
+600,Baltimore,Fog,86,1
+611,,,,
+625,,,,
+646,,,,
+649,,,,
+655,,,,
+660,,,,
+669,,,,
+671,,,,
+673,,,,
+676,,,,
+684,,,,
+692,,,,
+731,,,,
+734,,,,
+746,,,,
+756,,,,
+768,,,,
+774,,,,
+776,,,,
+789,,,,
+791,,,,
+798,,,,
+801,,,,
+831,,,,
+837,,,,
+843,,,,
+848,,,,
+852,,,,
+859,,,,
+908,,,,
+961,Charlotte,Winter storm warningClear,49,1
+965,Charlotte,Winter storm warningPartly Cloudy,41,1
+997,Charlotte,Special weather statementFog,93,1
+1000,Charlotte,Fog,100,1
+1001,Charlotte,Mostly Cloudy,93,1
+1011,Charlotte,Freezing Rain AdvisoryMostly Sunny,45,1
+1074,Charlotte,Winter Weather AdvisoryCloudy,80,1
+1080,Charlotte,Winter Weather AdvisoryCloudy,80,1
+1083,Charlotte,Weather WarningsPartly Cloudy,74,1
+1084,Charlotte,Weather WarningsMostly Sunny,79,1
+1086,Charlotte,Winter Weather AdvisoryMostly Sunny,79,1
+1107,Charlotte,Mostly Sunny,57,1
+1113,Charlotte,Clear,70,1
+1152,Charlotte,Winter storm watchMostly Cloudy,70,1
+1154,Charlotte,Freezing Rain AdvisoryMostly Sunny,49,1
+1166,Charlotte,Weather WarningsCloudy,69,1
+1183,Charlotte,Short term forecastRain,93,1
+1224,Charlotte,Special weather statementFog,93,1
+1226,Charlotte,Special weather statementFog,93,1
+1234,Charlotte,Special weather statementFog,100,1
+1237,Charlotte,Weather WarningsFog,100,1
+1239,Charlotte,Fog,100,1
+1240,Charlotte,Fog,100,1
+1286,Chicago,Mostly Cloudy,61,1
+1288,Chicago,Mostly Cloudy,56,1
+1294,Chicago,Mostly Cloudy,49,1
+1298,Chicago,Mostly Cloudy,63,1
+1304,Chicago,Mostly Sunny,58,1
+1308,Chicago,Partly Cloudy,63,1
+1313,Chicago,Cloudy,63,1
+1317,Chicago,Cloudy,63,1
+1318,Chicago,Cloudy,63,1
+1331,Chicago,Haze,55,1
+1333,,,,
+1335,,,,
+1341,,,,
+1342,,,,
+1343,,,,
+1350,,,,
+1365,Chicago,Mostly Cloudy,67,1
+1388,Chicago,Partly Cloudy,54,1
+1393,Chicago,Mostly Cloudy,68,1
+1403,Chicago,Cloudy,73,1
+1406,Chicago,Mostly Cloudy,73,1
+1411,Chicago,Mostly Cloudy,79,1
+1416,Chicago,Mostly Sunny,79,1
+1438,Chicago,Air Quality AlertHaze,74,1
+1440,Chicago,Air Quality AlertHaze,74,1
+1450,,,,
+1462,,,,
+1468,,,,
+1472,Chicago,Mostly Sunny,61,1
+1486,Chicago,Snow,93,1
+1503,Chicago,Haze,74,1
+1507,,,,
+1546,Chicago,Haze,80,1
+1557,Chicago,Haze,80,1
+1570,,,,
+1573,,,,
+1583,,,,
+1588,,,,
+1611,Columbus,Cloudy,52,1
+1614,Columbus,Mostly Cloudy,48,1
+1631,Columbus,Mostly Cloudy,73,1
+1633,Columbus,Partly Cloudy,79,1
+1641,Columbus,Haze,74,1
+1642,Columbus,Haze,74,1
+1646,Columbus,Mostly Cloudy,55,1
+1651,Columbus,Mostly Cloudy,44,1
+1686,Columbus,Cloudy,53,1
+1696,Columbus,Cloudy,57,1
+1703,Columbus,Cloudy,57,1
+1717,Columbus,Partly Cloudy,53,1
+1723,Columbus,Mostly Sunny,73,1
+1740,Columbus,Mostly Sunny,58,1
+1745,Columbus,Clear,43,1
+1752,Columbus,Winter storm watchCloudy,74,1
+1753,Columbus,Winter storm watchCloudy,74,1
+1754,Columbus,Winter storm watchHaze,80,1
+1800,Columbus,Cloudy,68,1
+1871,Columbus,Snow,75,1
+1874,Columbus,Snow,80,1
+1926,Dallas,Flood warningRain,93,1
+1940,Dallas,Cloudy,70,1
+1959,Dallas,Weather WarningsFog,86,1
+1961,Dallas,Haze,80,1
+1963,Dallas,Haze,75,1
+1968,Dallas,Cloudy,66,1
+1985,,,,
+1995,,,,
+1999,,,,
+2010,Dallas,Weather WarningsCloudy,80,1
+2014,Dallas,Flood warningCloudy,80,1
+2024,Dallas,Flood warningCloudy,74,1
+2026,Dallas,Flood warningCloudy,74,1
+2047,Dallas,Flood warningCloudy,86,1
+2051,Dallas,Flood warningCloudy,86,1
+2053,Dallas,Short term forecastCloudy,86,1
+2073,Dallas,Short term forecastCloudy,76,1
+2079,Dallas,Short term forecastRain,87,1
+2091,,,,
+2108,,,,
+2110,Dallas,Short term forecastRain,88,1
+2111,Dallas,Short term forecastRain,88,1
+2112,Dallas,Short term forecastCloudy,88,1
+2115,Dallas,Cloudy,71,1
+2120,Dallas,Cloudy,81,1
+2121,Dallas,Haze,81,1
+2152,,,,
+2161,,,,
+2175,,,,
+2176,,,,
+2180,Dallas,Mostly Cloudy,61,1
+2211,,,,
+2220,,,,
+2223,,,,
+2226,,,,
+2247,Denver,Short term forecastMostly Sunny,100,1
+2268,Denver,Mostly Cloudy,80,1
+2272,Denver,Mostly Sunny,80,1
+2273,Denver,Mostly Sunny,74,1
+2281,Denver,Short term forecastMostly Sunny,50,1
+2305,,,,
+2309,,,,
+2318,,,,
+2320,,,,
+2323,,,,
+2328,Denver,Mostly Sunny,30,1
+2332,Denver,Mostly Sunny,63,1
+2350,Denver,Mostly Cloudy,25,1
+2355,Denver,Mostly Cloudy,23,1
+2358,Denver,Mostly Cloudy,51,1
+2365,Denver,Mostly Cloudy,59,1
+2396,Denver,Short term forecastCloudy,48,1
+2402,Denver,Short term forecastCloudy,93,1
+2417,,,,
+2423,,,,
+2442,Denver,Clear,54,1
+2445,Denver,Mostly Sunny,63,1
+2447,Denver,Mostly Sunny,58,1
+2451,Denver,Mostly Sunny,54,1
+2457,Denver,Mostly Sunny,40,1
+2479,,,,
+2500,Denver,Mostly Cloudy,41,1
+2535,,,,
+2543,,,,
+2548,,,,
+2549,,,,
+2552,,,,
+2558,,,,
+2580,Detroit,Clear,54,1
+2589,Detroit,Clear,67,1
+2605,Detroit,Cloudy,50,1
+2611,Detroit,Cloudy,54,1
+2625,,,,
+2631,,,,
+2648,Detroit,Clear,53,1
+2649,Detroit,Clear,57,1
+2650,Detroit,Clear,62,1
+2672,Detroit,Partly Cloudy,62,1
+2685,Detroit,Clear,79,1
+2687,Detroit,Clear,79,1
+2691,Detroit,Clear,85,1
+2692,Detroit,Cloudy,85,1
+2710,Detroit,Cloudy,69,1
+2712,Detroit,Clear,74,1
+2743,,,,
+2746,,,,
+2798,,,,
+2877,,,,
+3017,El Paso,Cloudy,81,1
+3120,,,,
+3259,,,,
+3373,,,,
+3512,,,,
+3513,,,,
+3534,Houston,Cloudy,87,1
+3773,,,,
+3775,,,,
+3839,,,,
+4012,,,,
+4149,,,,
+4150,,,,
+4153,,,,
+4219,,,,
+4323,Jacksonville,Lake Wind AdvisoryClear,82,1
+4462,,,,
+4866,,,,
+4981,,,,
+5036,,,,
+5050,,,,
+5185,,,,
+5268,Memphis,Cloudy,53,1
+5419,,,,
+5619,,,,
+6068,,,,
+6368,New York,Cloudy,60,1
+7346,,,,
+7413,,,,
+7416,,,,
+7422,,,,
+8173,,,,
+8180,,,,
+8208,San Diego,Haze,82,1
+8297,,,,
+8792,San Jose,Cloudy,82,1
+9130,,,,
+9293,Washington,Cloudy,36,1
+9516,,Mostly,66,1

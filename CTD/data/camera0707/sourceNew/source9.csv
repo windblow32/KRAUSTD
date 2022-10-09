@@ -1,0 +1,210 @@
+entity,brand,num,condition,day
+5,Austin,Short term forecastRain,93,1
+10,Austin,Weather WarningsCloudy,93,1
+13,Austin,Short term forecastMostly Cloudy,81,1
+25,Austin,Fog,86,1
+31,Austin,Cloudy,86,1
+35,Austin,Cloudy,80,1
+38,Austin,Short term forecastCloudy,80,1
+39,Austin,Short term forecastFog,87,1
+43,Austin,Short term forecastFog,93,1
+50,Austin,Short term forecastHaze,81,1
+60,Austin,Overcast,85,1
+91,Austin,Partly Cloudy,64,1
+104,Austin,Clear,69,1
+112,Austin,Clear,52,1
+130,Austin,Cloudy,93,1
+132,Austin,Cloudy,86,1
+145,Austin,Cloudy,80,1
+149,Austin,Short term forecastRain,93,1
+154,Austin,Short term forecastFog,93,1
+156,Austin,Short term forecastRain,100,1
+167,Austin,Short term forecastRain,93,1
+174,Austin,Mist/Fog,93,1
+205,Austin,Short term forecastFog,93,1
+209,Austin,Fog,93,1
+251,Austin,Mist/Fog,86,1
+254,Austin,Mist/Fog,86,1
+257,Baltimore,Overcast with Haze,80,1
+259,Austin,Short term forecastHaze,76,1
+273,Austin,Rain,87,1
+275,Austin,Short term forecastRain,93,1
+280,Austin,Weather WarningsRain,100,1
+302,Baltimore,Overcast,80,1
+314,Baltimore,Mist/Light Rain Fog,93,1
+315,Baltimore,Mist/Light Rain Fog,90,1
+324,Baltimore,Mostly Cloudy,42,1
+342,Baltimore,Clear,53,1
+376,Baltimore,Fair,43,1
+382,Baltimore,A Few Clouds,57,1
+398,Baltimore,Overcast,40,1
+407,Baltimore,Cloudy,36,1
+408,Baltimore,Cloudy,36,1
+428,Baltimore,Weather WarningsSnow,79,1
+441,Baltimore,Weather WarningsSnow,79,1
+462,Baltimore,Clear,33,1
+467,Baltimore,Clear,37,1
+483,Baltimore,Winter storm watchClear,59,1
+496,Boston,Mainly Cloudy,65,1
+498,Boston,Partly Cloudy,60,1
+517,Baltimore,Partly Cloudy,54,1
+528,Baltimore,Mostly Cloudy,86,1
+535,Baltimore,Haze,86,1
+552,Boston,Mostly Cloudy,61,1
+565,Boston,Overcast,75,1
+600,Baltimore,Fog,86,1
+611,Boston,Light Snow,79,1
+625,Boston,Mist/Fog,85,1
+646,Boston,Clear,42,1
+649,Boston,Sunny,38,1
+655,Boston,Mostly Sunny;Partly Cloudy,26,1
+660,Boston,Clear;Cloudy,36,1
+669,Boston,Cloudy,40,1
+671,Boston,Cloudy,44,1
+673,Boston,Mostly Cloudy;Mostly,44,1
+676,Boston,Clear,48,1
+684,Boston,Not totally Cloudy;Partly Sunny,36,1
+692,Boston,Partly Cloudy;Mainly Sunny;Mostly Clear,29,1
+731,Boston,Clear,31,1
+734,Charlotte,Clear,36,1
+746,Charlotte,Scattered Clouds;Mostly Cloudy;Cloudy;Partly,40,1
+756,Charlotte,Cloudy,38,1
+768,Charlotte,Cloudy,45,1
+774,Charlotte,Not totally Sunny;Scattered Clouds;Not totally Cloudy,38,1
+776,Charlotte,Partly Cloudy;Scattered Clouds;Partly,35,1
+789,Charlotte,Cloudy,58,1
+791,Charlotte,Cloudy,56,1
+798,Charlotte,Clear,63,1
+801,Charlotte,Clear,65,1
+831,Charlotte,Partly Sunny;Partly;Scattered Clouds,58,1
+837,Charlotte,Not totally Cloudy;Partly Cloudy;Mostly Clear,31,1
+843,Charlotte,Overcast;Cloudy,44,1
+848,Charlotte,Not totally Cloudy;Partly Cloudy,48,1
+852,Charlotte,Partly Cloudy;Not totally Cloudy,54,1
+859,Charlotte,Cloudy;Overcast,41,1
+908,Charlotte,Cloudy,66,1
+961,Charlotte,Winter storm warningClear,49,1
+965,Charlotte,Winter storm warningPartly Cloudy,41,1
+997,Charlotte,Special weather statementFog,93,1
+1000,Charlotte,Fog,100,1
+1001,Charlotte,Mostly Cloudy,93,1
+1011,Charlotte,Freezing Rain AdvisoryMostly Sunny,45,1
+1074,Charlotte,Winter Weather AdvisoryCloudy,80,1
+1080,Charlotte,Winter Weather AdvisoryCloudy,80,1
+1083,Charlotte,Weather WarningsPartly Cloudy,74,1
+1084,Charlotte,Weather WarningsMostly Sunny,79,1
+1086,Charlotte,Winter Weather AdvisoryMostly Sunny,79,1
+1107,Charlotte,Mostly Sunny,57,1
+1113,Charlotte,Clear,70,1
+1152,Charlotte,Winter storm watchMostly Cloudy,70,1
+1154,Charlotte,Freezing Rain AdvisoryMostly Sunny,49,1
+1166,Charlotte,Weather WarningsCloudy,69,1
+1183,Charlotte,Short term forecastRain,93,1
+1224,Charlotte,Special weather statementFog,93,1
+1226,Charlotte,Special weather statementFog,93,1
+1234,Charlotte,Special weather statementFog,100,1
+1237,Charlotte,Weather WarningsFog,100,1
+1239,Charlotte,Fog,100,1
+1240,Charlotte,Fog,100,1
+1286,Chicago,Mostly Cloudy,61,1
+1288,Chicago,Mostly Cloudy,56,1
+1294,Chicago,Mostly Cloudy,49,1
+1298,Chicago,Mostly Cloudy,63,1
+1304,Chicago,Mostly Sunny,58,1
+1308,Chicago,Partly Cloudy,63,1
+1313,Chicago,Cloudy,63,1
+1317,Chicago,Cloudy,63,1
+1318,Chicago,Cloudy,63,1
+1331,Chicago,Haze,55,1
+1333,Columbus,A Few Clouds,60,1
+1335,Columbus,Clean,65,1
+1341,Columbus,Partly Cloudy,65,1
+1342,Columbus,Partly Cloudy,65,1
+1343,El Paso,A Few Clouds,68,1
+1350,Indianapolis,Overcast,62,1
+1365,Chicago,Mostly Cloudy,67,1
+1388,Chicago,Partly Cloudy,54,1
+1393,Chicago,Mostly Cloudy,68,1
+1403,Chicago,Cloudy,73,1
+1406,Chicago,Mostly Cloudy,73,1
+1411,Chicago,Mostly Cloudy,79,1
+1416,Chicago,Mostly Sunny,79,1
+1438,Chicago,Air Quality AlertHaze,74,1
+1440,Chicago,Air Quality AlertHaze,74,1
+1450,Philadelphia,Overcast,72,1
+1462,Philadelphia,Overcast with Haze,78,1
+1468,Phoenix,Overcast with Haze,78,1
+1472,Chicago,Mostly Sunny,61,1
+1486,Chicago,Snow,93,1
+1503,Chicago,Haze,74,1
+1507,San Francisco,Overcast Haze,63,1
+1546,Chicago,Haze,80,1
+1557,Chicago,Haze,80,1
+1570,San Francisco,Mist/Light Snow Fog,85,1
+1573,San Francisco,Light Snow,79,1
+1583,San Francisco,Overcast with Haze,81,1
+1588,San Francisco,Overcast with Haze,81,1
+1611,Columbus,Cloudy,52,1
+1614,Columbus,Mostly Cloudy,48,1
+1631,Columbus,Mostly Cloudy,73,1
+1633,Columbus,Partly Cloudy,79,1
+1641,Columbus,Haze,74,1
+1871,Columbus,Snow,75,1
+1874,Columbus,Snow,80,1
+2091,San Francisco,Mist/Fog,83,1
+2111,Dallas,Short term forecastRain,88,1
+2152,San Francisco,Overcast with Haze,83,1
+2161,San Francisco,Overcast Haze,82,1
+2226,San Francisco,Overcast,82,1
+2951,San Francisco,Mainly Cloudy,82,1
+3017,El Paso,Cloudy,81,1
+3194,San Francisco,Light,83,1
+3512,San Francisco,Fair,77,1
+3513,San Francisco,Fair,77,1
+3584,San Francisco,Mostly Cloudy,83,1
+3773,San Francisco,Overcast,77,1
+3775,San Francisco,Overcast,78,1
+3839,San Francisco,Overcast,77,1
+4012,San Francisco,Fair,78,1
+4121,Indianapolis,Haze,74,1
+4136,San Francisco,Overcast,82,1
+4149,San Francisco,Overcast with Haze,81,1
+4150,San Francisco,Overcast with Haze,81,1
+4153,San Francisco,Overcast with Haze,78,1
+4186,Jacksonville,Clear,76,1
+4219,San Francisco,Mostly Cloudy,77,1
+4231,San Francisco,Overcast,83,1
+4244,San Francisco,Overcast,83,1
+4462,San Francisco,Overcast,77,1
+4484,Las Vegas,Clear,65,1
+4486,Las Vegas,Clear,61,1
+4697,Las Vegas,Mostly Sunny,65,1
+4703,Las Vegas,Clear,35,1
+4739,Las Vegas,Clear,35,1
+4866,San Francisco,Fair,77,1
+4868,San Francisco,Haze,83,1
+4934,Los Angeles,Coastal Flood StatementClear,87,1
+4981,San Francisco,Overcast,81,1
+5036,San Francisco,Haze,81,1
+5050,San Francisco,Haze,77,1
+5185,San Francisco,Mainly Cloudy,78,1
+5418,San Francisco,Clean,82,1
+5419,San Francisco,Fair,78,1
+5619,San Francisco,with Haze,81,1
+5643,Milwaukee,Short term forecastSnow,86,1
+5928,San Francisco,Cloudy,,1
+6914,Philadelphia,Mostly Cloudy,40,1
+6932,Philadelphia,Mostly Cloudy,74,1
+7241,Phoenix,Mostly Cloudy,36,1
+7387,Portland,Partly Cloudy,93,1
+7413,San Francisco,Mainly Cloudy,77,1
+7416,San Francisco,Mainly Cloudy,77,1
+7422,San Francisco,Mainly Cloudy,77,1
+7733,San Francisco,Overcast,82,1
+8168,San Francisco,Mostly Cloudy,,1
+8173,San Francisco,A Few,77,1
+8178,San Francisco,Partly Cloudy,82,1
+8180,San Francisco,A Few Clouds,77,1
+8297,San Francisco,Overcast,78,1
+8480,San Francisco,Cloudy,93,1
+9130,San Francisco,Mostly Cloudy,77,1

@@ -1,0 +1,195 @@
+1,2010,Dallas,Cloudy,,1
+2,2010,Dallas,Overcast,73.14782855,1
+3,2010,Dallas,Overcast,79.74425276,1
+4,2010,Dallas,Overcast,70.95604154,1
+5,2010,Dallas,Cloudy,78.29494836,1
+6,2010,Dallas,Overcast,82.84758674,1
+7,2010,Dallas,Cloudy,79.50959367,1
+14,2010,Dallas,Cloudy,72.36792679,1
+8,2010,Dallas,Cloudy,72.08650516,1
+9,2010,Dallas,WarningsCloudy,81.25508758,1
+15,2010,Dallas,Cloudy,68.34245667,1
+10,2010,Dallas,cloudy,79.02421451,1
+11,2010,Dallas,Light,84.77534604,1
+12,2010,Dallas,Cloudy,81.72339755,1
+13,2010,Dallas,Overcast,73.76911539,1
+1,2014,Dallas,Cloudy,,1
+2,2014,Dallas,Overcast,72.29186828,1
+3,2014,Dallas,Overcast,73.60934917,1
+4,2014,Dallas,Overcast,70.00401046,1
+5,2014,Dallas,Cloudy,68.45239648,1
+6,2014,Dallas,Overcast,82.07040675,1
+7,2014,Dallas,Cloudy,80.7302172,1
+14,2014,Dallas,Cloudy,77.90379796,1
+8,2014,Dallas,Cloudy,79.33844221,1
+9,2014,Dallas,warningCloudy,75.16418386,1
+15,2014,Dallas,Cloudy,78.37581572,1
+10,2014,Dallas,mostly,76.87679449,1
+11,2014,Dallas,Cloudy,67.3315517,1
+12,2014,Dallas,Cloudy,73.30273691,1
+13,2014,Dallas,Overcast,71.03417241,1
+1,2024,Dallas,Cloudy,,1
+2,2024,Dallas,Overcast,72.2178389,1
+3,2024,Dallas,Overcast,72.48161768,1
+4,2024,Dallas,Overcast,74.38957067,1
+5,2024,Dallas,Cloudy,75.85300437,1
+6,2024,Dallas,Overcast,69.68465312,1
+7,2024,Dallas,Cloudy,80.16598831,1
+14,2024,Dallas,Cloudy,75.15361753,1
+8,2024,Dallas,Cloudy,69.6376321,1
+9,2024,Dallas,warningCloudy,80.98847465,1
+15,2024,Dallas,Cloudy,67.52156062,1
+10,2024,Dallas,cloudy,86.62790151,1
+11,2024,Dallas,Cloudy,76.40660292,1
+12,2024,Dallas,Cloudy,74.42623104,1
+13,2024,Dallas,Overcast,71.8040318,1
+1,2026,Dallas,Cloudy,,1
+2,2026,Dallas,Overcast,71.92301123,1
+3,2026,Dallas,Overcast,81.20535478,1
+4,2026,Dallas,Overcast,81.75547947,1
+5,2026,Dallas,Cloudy,76.57939412,1
+6,2026,Dallas,Overcast,70.92886253,1
+7,2026,Dallas,Cloudy,67.42646267,1
+14,2026,Dallas,Cloudy,65.7654627,1
+8,2026,Dallas,Cloudy,70.34099821,1
+9,2026,Dallas,warningCloudy,70.68776015,1
+15,2026,Dallas,Cloudy,77.88815495,1
+10,2026,Dallas,cloudy,70.14203686,1
+11,2026,Dallas,Cloudy,71.23979671,1
+12,2026,Dallas,Cloudy,80.45432699,1
+13,2026,Dallas,Overcast,69.64661661,1
+1,2047,Dallas,Cloudy,,1
+2,2047,Dallas,Overcast,92.63583979,1
+3,2047,Dallas,Overcast,89.48417036,1
+4,2047,Dallas,Overcast,74.81349177,1
+5,2047,Dallas,Cloudy,73.85615954,1
+6,2047,Dallas,Overcast,77.46098294,1
+7,2047,Dallas,Cloudy,86.23929879,1
+14,2047,Dallas,Cloudy,74.87272822,1
+8,2047,Dallas,Cloudy,87.32505202,1
+9,2047,Dallas,warningCloudy,80.21774717,1
+15,2047,Dallas,Cloudy,74.38494967,1
+10,2047,Dallas,mostly,73.66350129,1
+11,2047,Dallas,Cloudy,74.07150866,1
+12,2047,Dallas,Cloudy,87.47334105,1
+13,2047,Dallas,Overcast,78.05650458,1
+1,3024,El Paso,Mostly,,1
+2,3024,El Paso,Mostly,46.15794645,1
+3,3024,El Paso,Cloudy,40.21309163,1
+4,3024,El Paso,Mostly,45.58812381,1
+5,3024,El Paso,Cloudy,40.15040732,1
+6,3024,El Paso,Mostly,44.70479763,1
+7,3024,El Paso,Mostly,45.98357316,1
+14,3024,El Paso,Cloudy,49.34580575,1
+8,3024,El Paso,Cloudy,43.7716637,1
+9,3024,El Paso,Mostly,38.08151509,1
+15,3024,El Paso,Cloudy,40.3346992,1
+10,3024,El Paso,mostly,50.41412222,1
+11,3024,El Paso,Cloudy,48.36899305,1
+12,3024,El Paso,Cloudy,40.77988286,1
+13,3024,El Paso,Cloudy,41.74033403,1
+1,3026,El Paso,Mostly,,1
+2,3026,El Paso,Cloudy,39.88621561,1
+3,3026,El Paso,Mostly,37.11549362,1
+4,3026,El Paso,Cloudy,48.26124871,1
+5,3026,El Paso,Cloudy,37.57273291,1
+6,3026,El Paso,Mostly,44.95186702,1
+7,3026,El Paso,Mostly,36.13912524,1
+14,3026,El Paso,Cloudy,41.02835132,1
+8,3026,El Paso,Mostly,37.09931725,1
+9,3026,El Paso,Mostly,37.14533622,1
+15,3026,El Paso,Mostly,38.30009774,1
+10,3026,El Paso,mostly,43.73433469,1
+11,3026,El Paso,Cloudy,39.57527207,1
+12,3026,El Paso,Mostly,38.61306636,1
+13,3026,El Paso,Mostly,38.20527601,1
+1,4584,Las Vegas,Clean,,1
+2,4584,Las Vegas,Sunny,86.34154664,1
+3,4584,Las Vegas,Partly,72.69831442,1
+4,4584,Las Vegas,Cloudy,69.90433053,1
+5,4584,Las Vegas,Sunny,76.19596578,1
+6,4584,Las Vegas,Cloudy,92.87055328,1
+7,4584,Las Vegas,Sunny,74.88204525,1
+14,4584,Las Vegas,Mostly,84.06303751,1
+8,4584,Las Vegas,Clear,68.12062035,1
+9,4584,Las Vegas,Sunny,79.11211362,1
+15,4584,Las Vegas,Sunny,82.20734052,1
+10,4584,Las Vegas,sky,75.68813932,1
+11,4584,Las Vegas,Mostly,72.88565645,1
+12,4584,Las Vegas,Sunny,72.0921085,1
+13,4584,Las Vegas,A Clouds,79.15030054,1
+1,7126,Phoenix,Partly,,1
+2,7126,Phoenix,Partly,45.81306973,1
+3,7126,Phoenix,Scattered,42.08462378,1
+4,7126,Phoenix,Clouds,46.78197542,1
+5,7126,Phoenix,Sunny,44.4794387,1
+6,7126,Phoenix,Few,42.68097099,1
+7,7126,Phoenix,Cloudy,50.11599834,1
+14,7126,Phoenix,Cloudy,39.42320163,1
+8,7126,Phoenix,Partly,45.98779262,1
+9,7126,Phoenix,Cloudy,48.31061797,1
+15,7126,Phoenix,Clear,46.62096212,1
+10,7126,Phoenix,clear,39.79771554,1
+11,7126,Phoenix,Partly,39.38103626,1
+12,7126,Phoenix,Sunny,38.32148374,1
+13,7126,Phoenix,Partly,44.34505016,1
+1,7131,Phoenix,Cloudy,,1
+2,7131,Phoenix,Cloudy,58.82278165,1
+3,7131,Phoenix,Clouds,54.40038783,1
+4,7131,Phoenix,Scattered,67.90700955,1
+5,7131,Phoenix,Mostly,62.7671357,1
+6,7131,Phoenix,Sunny,60.75292883,1
+7,7131,Phoenix,Partly,66.47607076,1
+14,7131,Phoenix,Partly,60.28916675,1
+8,7131,Phoenix,Mostly,62.51091465,1
+9,7131,Phoenix,Partly,62.74694799,1
+15,7131,Phoenix,Clear,64.90500389,1
+10,7131,Phoenix,clear,56.52826811,1
+11,7131,Phoenix,Mostly,57.55157764,1
+12,7131,Phoenix,Mostly,64.46989826,1
+13,7131,Phoenix,Partly,61.59972484,1
+1,7146,Phoenix,Mostly,,1
+2,7146,Phoenix,Mostly,56.16486275,1
+3,7146,Phoenix,Mostly,53.03595144,1
+4,7146,Phoenix,Mostly,49.54806956,1
+5,7146,Phoenix,Partly,57.93705629,1
+6,7146,Phoenix,Sunny,49.73135231,1
+7,7146,Phoenix,Cloudy,48.51935318,1
+14,7146,Phoenix,Cloudy,64.56605814,1
+8,7146,Phoenix,Partly,56.58393951,1
+9,7146,Phoenix,Mostly,56.51788123,1
+15,7146,Phoenix,Mostly,44.58722331,1
+10,7146,Phoenix,mostly,49.89638609,1
+11,7146,Phoenix,Partly,52.81797572,1
+12,7146,Phoenix,Mostly,52.16133425,1
+13,7146,Phoenix,Mostly,49.43183138,1
+1,7150,Phoenix,Cloudy,,1
+2,7150,Phoenix,Cloudy,33.31393072,1
+3,7150,Phoenix,Mostly,39.22814159,1
+4,7150,Phoenix,Mostly,39.65352134,1
+5,7150,Phoenix,Intermittent,38.87067427,1
+6,7150,Phoenix,Sunny,37.96582878,1
+7,7150,Phoenix,Cloudy,35.08130949,1
+14,7150,Phoenix,Mostly,38.55421913,1
+8,7150,Phoenix,Intermittent,34.92905021,1
+9,7150,Phoenix,Mostly,36.68865953,1
+15,7150,Phoenix,Mostly,39.99045142,1
+10,7150,Phoenix,mostly,33.52572175,1
+11,7150,Phoenix,Clouds And,40.19930717,1
+12,7150,Phoenix,Sunny,34.04620028,1
+13,7150,Phoenix,Mostly,35.28330464,1
+1,7152,Phoenix,Cloudy,,1
+2,7152,Phoenix,Mostly,30.80179897,1
+3,7152,Phoenix,Mostly,33.26734359,1
+4,7152,Phoenix,Cloudy,38.88432021,1
+5,7152,Phoenix,Mostly,32.8207494,1
+6,7152,Phoenix,Sunny,34.48722628,1
+7,7152,Phoenix,Mostly,31.83784168,1
+14,7152,Phoenix,Mostly,36.25283354,1
+8,7152,Phoenix,Intermittent,37.57520802,1
+9,7152,Phoenix,Mostly,36.54544072,1
+15,7152,Phoenix,Cloudy,33.15600243,1
+10,7152,Phoenix,mostly,34.17072487,1
+11,7152,Phoenix,Mostly,34.83462874,1
+12,7152,Phoenix,Sunny,33.41292552,1
+13,7152,Phoenix,Mostly,32.06349216,1

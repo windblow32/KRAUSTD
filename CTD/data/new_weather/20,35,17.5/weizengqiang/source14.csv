@@ -1,0 +1,14 @@
+entity,Domain,Conditions,Humidity,day
+2010,Dallas,Cloudy,75,1
+2014,Dallas,Cloudy,74,1
+2024,Dallas,Cloudy,70,1
+2026,Dallas,Cloudy,70,1
+2047,Dallas,Cloudy,74,1
+3024,El Paso,Mostly Cloudy,50,1
+3026,El Paso,Mostly Cloudy,42,1
+4584,Las Vegas,Mostly Clear,83,1
+7126,Phoenix,Partly Cloudy,43,1
+7131,Phoenix,Partly Cloudy,60,1
+7146,Phoenix,Mostly Cloudy,69,1
+7150,Phoenix,Mostly Cloudy,42,1
+7152,Phoenix,Mostly Cloudy,35,1

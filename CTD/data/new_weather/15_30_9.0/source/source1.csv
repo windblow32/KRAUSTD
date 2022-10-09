@@ -1,0 +1,151 @@
+entity,Domain,Conditions,Humidity,day
+5,Austin,Rain;Light Rain,93,1
+10,Austin,Rain,,1
+13,Austin,Cloudy,,1
+25,Austin,Cloudy,,1
+31,Austin,Cloudy,,1
+35,Austin,Cloudy,,1
+38,Austin,Cloudy,,1
+39,Austin,Cloudy,,1
+43,Austin,Cloudy,,1
+50,Austin,Cloudy,,1
+60,Austin,Overcast,85,1
+91,Austin,Partly Cloudy,,1
+104,Austin,Fair,,1
+112,Austin,Fair,,1
+130,Austin,Cloudy,,1
+132,Austin,Cloudy,,1
+145,Austin,Cloudy,,1
+149,Austin,Light Rain,,1
+154,Austin,Cloudy,,1
+156,Austin,Rain,,1
+167,Austin,Cloudy,,1
+174,Austin,Mist/Fog,93,1
+205,Austin,Fog,,1
+209,Austin,Fog,,1
+251,Austin,Mist/Fog,86,1
+254,Austin,Mist/Fog,86,1
+257,Baltimore,Overcast with Haze,80,1
+259,Austin,Cloudy,,1
+273,Austin,Light Rain,,1
+275,Austin,Rain,,1
+280,Austin,Light Rain,,1
+302,Baltimore,Overcast,80,1
+314,Baltimore,Mist/Light Rain Fog,93,1
+315,Baltimore,Mist/Light Rain Fog,90,1
+324,Baltimore,Fair,,1
+342,Baltimore,Clear,,1
+376,Baltimore,Fair,43,1
+382,Baltimore,A Few Clouds,57,1
+398,Baltimore,Overcast,40,1
+407,Baltimore,Partly Cloudy,,1
+408,Baltimore,Partly Cloudy,,1
+428,Baltimore,Snow,,1
+441,Baltimore,Light Snow,,1
+462,Baltimore,Sunny,,1
+467,Baltimore,Sunny,,1
+483,Baltimore,Fair,,1
+496,Boston,Mainly Cloudy,65,1
+498,Boston,Partly Cloudy,60,1
+517,Baltimore,Partly Cloudy,,1
+528,Baltimore,Fair,,1
+535,Baltimore,Cloudy,,1
+552,Boston,Mostly Cloudy,61,1
+565,Boston,Overcast,75,1
+600,Baltimore,Partly Cloudy,,1
+611,Boston,Light Snow,79,1
+625,Boston,Mist/Fog,85,1
+646,Boston,Fair/Windy,,1
+649,Boston,Fair/Windy,,1
+655,Boston,Partly Cloudy,,1
+660,Boston,Partly Cloudy,,1
+669,Boston,Cloudy,,1
+671,Boston,Cloudy,,1
+673,Boston,Mostly Cloudy,,1
+676,Boston,Fair,,1
+684,Boston,Partly Cloudy,,1
+692,Boston,Partly Cloudy,,1
+731,Boston,Fair,,1
+734,Boston,Fair,,1
+746,Boston,Mostly Cloudy,,1
+756,Boston,Cloudy,,1
+768,Boston,Cloudy,,1
+774,Boston,Partly Cloudy,,1
+776,Boston,Partly Cloudy,,1
+789,Boston,Cloudy,,1
+791,Boston,Cloudy,,1
+798,Boston,Fair,,1
+801,Boston,Fair,,1
+831,Boston,Partly Cloudy,,1
+837,Boston,Partly Cloudy,,1
+843,Boston,Partly Cloudy,,1
+848,Boston,Partly Cloudy,,1
+852,Boston,Partly Cloudy,,1
+859,Boston,Mostly Cloudy,,1
+908,Boston,Cloudy,,1
+961,Charlotte,Fair,,1
+965,Charlotte,Partly Cloudy,,1
+997,Charlotte,Partly Cloudy,,1
+1000,Charlotte,Mostly Cloudy,,1
+1001,Charlotte,Mostly Cloudy,,1
+1011,Charlotte,Partly Cloudy,,1
+3534,Houston,Cloudy,,1
+7241,Phoenix,Mostly Cloudy,,1
+9224,Seattle,Partly Cloudy,,1
+9584,Milwaukee,Mist/Fog,85,1
+1388,Chicago,Partly Cloudy,,1
+1393,Chicago,Partly Cloudy,,1
+1403,Chicago,Cloudy,,1
+1406,Chicago,Mostly Cloudy,,1
+1411,Chicago,Mostly Cloudy,,1
+1416,Chicago,Partly Cloudy,,1
+1472,Chicago,Partly Cloudy,,1
+2010,Dallas,Cloudy,,1
+2014,Dallas,Cloudy,,1
+2024,Dallas,Cloudy,,1
+2026,Dallas,Cloudy,,1
+2047,Dallas,Cloudy,,1
+2969,El Paso,Fair,,1
+2974,El Paso,Fair,,1
+2995,El Paso,Cloudy,,1
+3002,El Paso,Partly Cloudy,,1
+3017,El Paso,Cloudy,,1
+3024,El Paso,Mostly Cloudy,,1
+3026,El Paso,Mostly Cloudy,,1
+3951,Indianapolis,Partly Cloudy,,1
+3954,Indianapolis,Partly Cloudy,,1
+3980,Indianapolis,Fair,,1
+3983,Indianapolis,Fair,,1
+4584,Las Vegas,Fair,,1
+4993,Los Angeles,Fair,,1
+5526,Milwaukee,Partly Cloudy,,1
+5527,Milwaukee,Partly Cloudy,,1
+5534,Milwaukee,Cloudy,,1
+5548,Milwaukee,Light Snow,,1
+5573,Milwaukee,Mostly Cloudy,,1
+5581,Milwaukee,Partly Cloudy,,1
+7048,Phoenix,Partly Cloudy,,1
+7052,Phoenix,Partly Cloudy,,1
+7055,Phoenix,Partly Cloudy,,1
+7126,Phoenix,Partly Cloudy,,1
+7131,Phoenix,Partly Cloudy,,1
+7146,Phoenix,Mostly Cloudy,,1
+7150,Phoenix,Mostly Cloudy,,1
+7151,Phoenix,Mostly Cloudy,,1
+7152,Phoenix,Mostly Cloudy,,1
+7553,Portland,Cloudy,,1
+8100,San Diego,Fog,,1
+8104,San Diego,Partly Cloudy,,1
+8110,San Diego,Partly Cloudy,,1
+8111,San Diego,Mostly Cloudy,,1
+8123,San Diego,Partly Cloudy,,1
+8135,San Diego,Partly Cloudy,,1
+8140,San Diego,Partly Cloudy,,1
+8143,San Diego,Partly Cloudy,,1
+8649,San Jose,Cloudy,,1
+9052,Seattle,Cloudy,,1
+9066,Seattle,Light Rain,,1
+9069,Seattle,Cloudy,,1
+9076,Seattle,Light Rain,,1
+9079,Seattle,Cloudy,,1
+9084,Seattle,Cloudy,,1

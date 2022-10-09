@@ -1,0 +1,21 @@
+entity,brand,num,condition,day
+6_2,Nikon,24,Auto;Preset;Cloudy;Flash;Fluorescent;Custom White Balance;White Balance Presets;incandescent,1
+13_2,Nikon,16.2,Shade;Cloudy;Fluorescent;Flash;Incandescent;Preset Manual;Color Temperature,1
+18_2,Canon,19,Auto;Daylight;Shade;Cloudy;Preset;Custom;Tungsten Light;White Fluorescent LightFlashCustomColor Temperature Setting,1
+19_2,Nikon,25,Auto;Preset;Cloudy;Flash;Fluorescent;White Balance Presets;Custom White Balance,1
+23_2,Canon,19,Available Auto;Preset;User Defined;Color Temperature Setting;White Balance Correction and White Balance Bracketing;Daylight;Shade;Cloudy,1
+41_2,Nikon,24.7,Auto;Preset;Cloudy;Flash;Fluorescent;Incandescent;Shade;Sunlight;Sunny;Tungsten,1
+44_2,Nikon,24.7,Auto;Preset;Cloudy;Flash;Fluorescent;Incandescent,1
+48_2,Canon,12.1,Daylight;Cloudy;Tungsten;Fluorescent;Flash;Auto,1
+570_2,Nikon,36.3,Cloudy;Flash;Fluorescent;Incandescent;Shade;Auto,1
+58_2,Nikon,10.1,Cloudy;Sunny;Flash;Fluorescent;Incandescent;Shade,1
+65_2,Fujifilm,16,Automatic;Preset,1
+67_2,Canon,16,Fluorescent;Cloudy;Tungsten;Custom,1
+69_2,Sony,36.4,Daylight;Shade;Cloudy;Underwater;Auto;Incandescent,1
+70_2,Panasonic,14.1,Daylight;Cloudy;Shade;Incandescent,1
+75_2,Nikon,17,Auto;incandescent;fluorescent;direct sunlight;flash;cloudy;shade;preset manual white balance;color temperature selection;Incandescent,1
+76_2,Nikon,24.3,Auto;Custom White Balance;White Balance Presets;Incandescent;Fluorescent;Direct Sunlight;Flash;Cloudy,1
+83_2,,10.1,Auto,1
+88_2,Sony,20,Cloudy;Flash;Daylight;one Push;Fluorescent White Balance 3;Fluorescent White Balance 1,1
+96_2,Canon,20.9,Auto;preset;color temperature setting;with white balance correction and white balance bracketing functions;With flash color temperature information transmission;Preset;Custom,1
+101_2,Canon,23.4,Auto;Preset;Color Temperature Setting;User Defined;White Balance Correction and White Balance Bracketing;Cloudy,1

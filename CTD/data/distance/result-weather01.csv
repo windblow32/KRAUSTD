@@ -1,0 +1,9945 @@
+Showers,WarningsRain
+Showers,Rain
+Showers,Mist
+Showers,rain
+WarningsRain,Rain
+WarningsRain,Mist
+WarningsRain,rain
+Rain,Mist
+Rain,rain
+Mist,rain
+Showers,Cloudy
+Showers,Rain
+Showers,rain
+Showers,Mist/Rain Fog
+Showers,Short forecastRain
+Showers,Light
+Cloudy,Rain
+Cloudy,rain
+Cloudy,Mist/Rain Fog
+Cloudy,Short forecastRain
+Cloudy,Light
+Rain,rain
+Rain,Mist/Rain Fog
+Rain,Short forecastRain
+Rain,Light
+rain,Mist/Rain Fog
+rain,Short forecastRain
+rain,Light
+Mist/Rain Fog,Short forecastRain
+Mist/Rain Fog,Light
+Short forecastRain,Light
+WarningsCloudy,Rain
+WarningsCloudy,Thunderstorm
+WarningsCloudy,rain
+WarningsCloudy,Mist/Rain Fog
+WarningsCloudy,Light
+Rain,Thunderstorm
+Rain,rain
+Rain,Mist/Rain Fog
+Rain,Light
+Thunderstorm,rain
+Thunderstorm,Mist/Rain Fog
+Thunderstorm,Light
+rain,Mist/Rain Fog
+rain,Light
+Mist/Rain Fog,Light
+Mostly,Short term Cloudy
+Mostly,Cloudy
+Mostly,Rain
+Mostly,mostly
+Mostly,Overcast
+Short term Cloudy,Cloudy
+Short term Cloudy,Rain
+Short term Cloudy,mostly
+Short term Cloudy,Overcast
+Cloudy,Rain
+Cloudy,mostly
+Cloudy,Overcast
+Rain,mostly
+Rain,Overcast
+mostly,Overcast
+Fog And,Fog
+Fog And,Cloudy
+Fog And,Mist
+Fog And,mostly
+Fog And,Overcast
+Fog,Cloudy
+Fog,Mist
+Fog,mostly
+Fog,Overcast
+Cloudy,Mist
+Cloudy,mostly
+Cloudy,Overcast
+Mist,mostly
+Mist,Overcast
+mostly,Overcast
+Overcast,mostly
+Overcast,Cloudy
+mostly,Cloudy
+Mostly,Overcast
+Mostly,mostly
+Mostly,Cloudy
+Overcast,mostly
+Overcast,Cloudy
+mostly,Cloudy
+Overcast,term forecastCloudy
+Overcast,cloudy
+Overcast,Cloudy
+term forecastCloudy,cloudy
+term forecastCloudy,Cloudy
+cloudy,Cloudy
+Overcast,Short term
+Overcast,cloudy
+Overcast,Cloudy
+Short term,cloudy
+Short term,Cloudy
+cloudy,Cloudy
+Showers,term forecastFog
+Showers,Cloudy
+Showers,Mist
+Showers,And Mist
+Showers,mostly
+Showers,Drizzle
+Showers,Overcast
+term forecastFog,Cloudy
+term forecastFog,Mist
+term forecastFog,And Mist
+term forecastFog,mostly
+term forecastFog,Drizzle
+term forecastFog,Overcast
+Cloudy,Mist
+Cloudy,And Mist
+Cloudy,mostly
+Cloudy,Drizzle
+Cloudy,Overcast
+Mist,And Mist
+Mist,mostly
+Mist,Drizzle
+Mist,Overcast
+And Mist,mostly
+And Mist,Drizzle
+And Mist,Overcast
+mostly,Drizzle
+mostly,Overcast
+Drizzle,Overcast
+term forecastHaze,Haze
+term forecastHaze,Mostly
+term forecastHaze,Fog
+term forecastHaze,Cloudy
+term forecastHaze,Unclear
+term forecastHaze,Fog Mist
+term forecastHaze,Light
+term forecastHaze,cloudy
+Haze,Mostly
+Haze,Fog
+Haze,Cloudy
+Haze,Unclear
+Haze,Fog Mist
+Haze,Light
+Haze,cloudy
+Mostly,Fog
+Mostly,Cloudy
+Mostly,Unclear
+Mostly,Fog Mist
+Mostly,Light
+Mostly,cloudy
+Fog,Cloudy
+Fog,Unclear
+Fog,Fog Mist
+Fog,Light
+Fog,cloudy
+Cloudy,Unclear
+Cloudy,Fog Mist
+Cloudy,Light
+Cloudy,cloudy
+Unclear,Fog Mist
+Unclear,Light
+Unclear,cloudy
+Fog Mist,Light
+Fog Mist,cloudy
+Light,cloudy
+clear,Scattered
+clear,Cloudy
+clear,Partly
+clear,Overcast
+Scattered,Cloudy
+Scattered,Partly
+Scattered,Overcast
+Cloudy,Partly
+Cloudy,Overcast
+Partly,Overcast
+clear,Mostly
+clear,Cloudy
+clear,Partly
+clear,Sunny
+clear,Clean
+Mostly,Cloudy
+Mostly,Partly
+Mostly,Sunny
+Mostly,Clean
+Cloudy,Partly
+Cloudy,Sunny
+Cloudy,Clean
+Partly,Sunny
+Partly,Clean
+Sunny,Clean
+Cloudy,Partly
+Cloudy,Sunny
+Cloudy,sky
+Cloudy,Clean
+Partly,Sunny
+Partly,sky
+Partly,Clean
+Sunny,sky
+Sunny,Clean
+sky,Clean
+Overcast,cloudy
+Overcast,Cloudy
+cloudy,Cloudy
+Overcast,cloudy
+Overcast,Cloudy
+cloudy,Cloudy
+Haze,Cloudy
+Haze,Unclear
+Haze,mostly
+Haze,with Haze
+Haze,Overcast
+Cloudy,Unclear
+Cloudy,mostly
+Cloudy,with Haze
+Cloudy,Overcast
+Unclear,mostly
+Unclear,with Haze
+Unclear,Overcast
+mostly,with Haze
+mostly,Overcast
+with Haze,Overcast
+term forecastRain,Showers
+term forecastRain,Light Rain
+term forecastRain,Rain
+term forecastRain,rain
+term forecastRain,Light
+Showers,Light Rain
+Showers,Rain
+Showers,rain
+Showers,Light
+Light Rain,Rain
+Light Rain,rain
+Light Rain,Light
+Rain,rain
+Rain,Light
+rain,Light
+Showers,Fog And
+Showers,term forecastFog
+Showers,Cloudy
+Showers,Mist
+Showers,Drizzle
+Showers,cloudy
+Showers,Overcast
+Fog And,term forecastFog
+Fog And,Cloudy
+Fog And,Mist
+Fog And,Drizzle
+Fog And,cloudy
+Fog And,Overcast
+term forecastFog,Cloudy
+term forecastFog,Mist
+term forecastFog,Drizzle
+term forecastFog,cloudy
+term forecastFog,Overcast
+Cloudy,Mist
+Cloudy,Drizzle
+Cloudy,cloudy
+Cloudy,Overcast
+Mist,Drizzle
+Mist,cloudy
+Mist,Overcast
+Drizzle,cloudy
+Drizzle,Overcast
+cloudy,Overcast
+light,Showers
+light,Short term
+light,Rain
+light,Rain Mist
+light,Light
+Showers,Short term
+Showers,Rain
+Showers,Rain Mist
+Showers,Light
+Short term,Rain
+Short term,Rain Mist
+Short term,Light
+Rain,Rain Mist
+Rain,Light
+Rain Mist,Light
+term forecastRain,Fog
+term forecastRain,Cloudy
+term forecastRain,Rain
+term forecastRain,Mist
+term forecastRain,mostly
+term forecastRain,Rain Mist
+term forecastRain,Fog Mist
+term forecastRain,Light
+Fog,Cloudy
+Fog,Rain
+Fog,Mist
+Fog,mostly
+Fog,Rain Mist
+Fog,Fog Mist
+Fog,Light
+Cloudy,Rain
+Cloudy,Mist
+Cloudy,mostly
+Cloudy,Rain Mist
+Cloudy,Fog Mist
+Cloudy,Light
+Rain,Mist
+Rain,mostly
+Rain,Rain Mist
+Rain,Fog Mist
+Rain,Light
+Mist,mostly
+Mist,Rain Mist
+Mist,Fog Mist
+Mist,Light
+mostly,Rain Mist
+mostly,Fog Mist
+mostly,Light
+Rain Mist,Fog Mist
+Rain Mist,Light
+Fog Mist,Light
+Showers,Short term
+Showers,Fog And
+Showers,Fog
+Showers,Cloudy
+Showers,Mist
+Showers,mostly
+Showers,Light
+Showers,Overcast
+Short term,Fog And
+Short term,Fog
+Short term,Cloudy
+Short term,Mist
+Short term,mostly
+Short term,Light
+Short term,Overcast
+Fog And,Fog
+Fog And,Cloudy
+Fog And,Mist
+Fog And,mostly
+Fog And,Light
+Fog And,Overcast
+Fog,Cloudy
+Fog,Mist
+Fog,mostly
+Fog,Light
+Fog,Overcast
+Cloudy,Mist
+Cloudy,mostly
+Cloudy,Light
+Cloudy,Overcast
+Mist,mostly
+Mist,Light
+Mist,Overcast
+mostly,Light
+mostly,Overcast
+Light,Overcast
+Showers,Fog
+Showers,Rain
+Showers,Mist
+Showers,And Mist
+Showers,rain
+Showers,Drizzle
+Showers,Light
+Showers,Overcast
+Fog,Rain
+Fog,Mist
+Fog,And Mist
+Fog,rain
+Fog,Drizzle
+Fog,Light
+Fog,Overcast
+Rain,Mist
+Rain,And Mist
+Rain,rain
+Rain,Drizzle
+Rain,Light
+Rain,Overcast
+Mist,And Mist
+Mist,rain
+Mist,Drizzle
+Mist,Light
+Mist,Overcast
+And Mist,rain
+And Mist,Drizzle
+And Mist,Light
+And Mist,Overcast
+rain,Drizzle
+rain,Light
+rain,Overcast
+Drizzle,Light
+Drizzle,Overcast
+Light,Overcast
+term forecastHaze,Haze
+term forecastHaze,Cloudy
+term forecastHaze,Unclear
+term forecastHaze,cloudy
+Haze,Cloudy
+Haze,Unclear
+Haze,cloudy
+Cloudy,Unclear
+Cloudy,cloudy
+Unclear,cloudy
+light,Showers
+light,Light Mist
+light,Cloudy
+light,Rain
+light,Light
+Showers,Light Mist
+Showers,Cloudy
+Showers,Rain
+Showers,Light
+Light Mist,Cloudy
+Light Mist,Rain
+Light Mist,Light
+Cloudy,Rain
+Cloudy,Light
+Rain,Light
+Rain,Short forecastRain
+Rain,Light Mist
+Rain,rain
+Short forecastRain,Light Mist
+Short forecastRain,rain
+Light Mist,rain
+light,Showers
+light,Light Mist
+light,Weather
+light,Rain
+light,Light
+Showers,Light Mist
+Showers,Weather
+Showers,Rain
+Showers,Light
+Light Mist,Weather
+Light Mist,Rain
+Light Mist,Light
+Weather,Rain
+Weather,Light
+Rain,Light
+Mostly,Partly
+Mostly,Cloudy
+Mostly,normal
+Mostly,Clouds
+Mostly,Intermittent
+Mostly,Clean
+Partly,Cloudy
+Partly,normal
+Partly,Clouds
+Partly,Intermittent
+Partly,Clean
+Cloudy,normal
+Cloudy,Clouds
+Cloudy,Intermittent
+Cloudy,Clean
+normal,Clouds
+normal,Intermittent
+normal,Clean
+Clouds,Intermittent
+Clouds,Clean
+Intermittent,Clean
+Sunny,normal
+Cloudy,normal
+Cloudy,Partly
+Cloudy,Overcast
+Cloudy,Clean
+normal,Partly
+normal,Overcast
+normal,Clean
+Partly,Overcast
+Partly,Clean
+Overcast,Clean
+Mostly,Cloudy
+Mostly,Partly
+Mostly,normal
+Mostly,Overcast
+Mostly,Clean
+Cloudy,Partly
+Cloudy,normal
+Cloudy,Overcast
+Cloudy,Clean
+Partly,normal
+Partly,Overcast
+Partly,Clean
+normal,Overcast
+normal,Clean
+Overcast,Clean
+Light Snow,Fog/Snow
+Light Snow,normal
+Light Snow,Snow
+Light Snow,Snow Fog
+Light Snow,WarningsSnow
+Light Snow,Light
+Light Snow,Clean
+Fog/Snow,normal
+Fog/Snow,Snow
+Fog/Snow,Snow Fog
+Fog/Snow,WarningsSnow
+Fog/Snow,Light
+Fog/Snow,Clean
+normal,Snow
+normal,Snow Fog
+normal,WarningsSnow
+normal,Light
+normal,Clean
+Snow,Snow Fog
+Snow,WarningsSnow
+Snow,Light
+Snow,Clean
+Snow Fog,WarningsSnow
+Snow Fog,Light
+Snow Fog,Clean
+WarningsSnow,Light
+WarningsSnow,Clean
+Light,Clean
+Flurries,normal
+Flurries,Snow
+Flurries,WarningsSnow
+Flurries,Light
+Flurries,Clean
+normal,Snow
+normal,WarningsSnow
+normal,Light
+normal,Clean
+Snow,WarningsSnow
+Snow,Light
+Snow,Clean
+WarningsSnow,Light
+WarningsSnow,Clean
+Light,Clean
+Sunny,normal
+Sunny,Clean
+normal,Clean
+Sunny,normal
+Sunny,Clean
+normal,Clean
+Sunny,normal
+Sunny,storm watchClear
+Sunny,Clean
+normal,storm watchClear
+normal,Clean
+storm watchClear,Clean
+Mostly,Scattered
+Mostly,Partly
+Mostly,Cloudy
+Mostly,normal
+Mostly,Clouds
+Mostly,Clear
+Mostly,Clean
+Scattered,Partly
+Scattered,Cloudy
+Scattered,normal
+Scattered,Clouds
+Scattered,Clear
+Scattered,Clean
+Partly,Cloudy
+Partly,normal
+Partly,Clouds
+Partly,Clear
+Partly,Clean
+Cloudy,normal
+Cloudy,Clouds
+Cloudy,Clear
+Cloudy,Clean
+normal,Clouds
+normal,Clear
+normal,Clean
+Clouds,Clear
+Clouds,Clean
+Clear,Clean
+Mostly,Cloudy
+Mostly,normal
+Mostly,Some
+Mostly,Clouds
+Mostly,Intermittent
+Mostly,Clean
+Cloudy,normal
+Cloudy,Some
+Cloudy,Clouds
+Cloudy,Intermittent
+Cloudy,Clean
+normal,Some
+normal,Clouds
+normal,Intermittent
+normal,Clean
+Some,Clouds
+Some,Intermittent
+Some,Clean
+Clouds,Intermittent
+Clouds,Clean
+Intermittent,Clean
+Haze,normal
+Haze,Cloudy
+Haze,Overcast
+Haze,Clean
+normal,Cloudy
+normal,Overcast
+normal,Clean
+Cloudy,Overcast
+Cloudy,Clean
+Overcast,Clean
+Fog,Cloudy
+Fog,Partly
+Fog,Mist
+Fog,normal
+Fog,Overcast
+Fog,Clean
+Cloudy,Partly
+Cloudy,Mist
+Cloudy,normal
+Cloudy,Overcast
+Cloudy,Clean
+Partly,Mist
+Partly,normal
+Partly,Overcast
+Partly,Clean
+Mist,normal
+Mist,Overcast
+Mist,Clean
+normal,Overcast
+normal,Clean
+Overcast,Clean
+Sunny,Windy/Fair
+Sunny,Windy/Fair
+Mostly,Cloudy
+Mostly,Partly
+Mostly,Clouds
+Mostly,Sunny
+Cloudy,Partly
+Cloudy,Clouds
+Cloudy,Sunny
+Partly,Clouds
+Partly,Sunny
+Clouds,Sunny
+Sunny,Cloudy
+Sunny,Partly
+Cloudy,Partly
+Overcast,Cloudy
+Overcast,Cloudy
+Mostly,Some
+Mostly,Cloudy
+Mostly,Clouds
+Mostly,Intermittent
+Some,Cloudy
+Some,Clouds
+Some,Intermittent
+Cloudy,Clouds
+Cloudy,Intermittent
+Clouds,Intermittent
+Sunny,Clean
+Sunny,Clouds
+Sunny,Cloudy
+Sunny,Partly
+Clouds,Cloudy
+Clouds,Partly
+Cloudy,Partly
+Mostly,Scattered
+Mostly,Cloudy
+Mostly,Partly
+Mostly,Clear
+Scattered,Cloudy
+Scattered,Partly
+Scattered,Clear
+Cloudy,Partly
+Cloudy,Clear
+Partly,Clear
+Sunny,Clean
+Sunny,Clean
+Mostly,Scattered
+Mostly,Intermittent
+Mostly,Cloudy
+Mostly,Clouds
+Mostly,Sunny
+Scattered,Intermittent
+Scattered,Cloudy
+Scattered,Clouds
+Scattered,Sunny
+Intermittent,Cloudy
+Intermittent,Clouds
+Intermittent,Sunny
+Cloudy,Clouds
+Cloudy,Sunny
+Clouds,Sunny
+Overcast,Cloudy
+Overcast,Cloudy
+Scattered,Cloudy
+Scattered,Partly
+Scattered,Clouds
+Scattered,Clear
+Scattered,Sunny
+Cloudy,Partly
+Cloudy,Clouds
+Cloudy,Clear
+Cloudy,Sunny
+Partly,Clouds
+Partly,Clear
+Partly,Sunny
+Clouds,Clear
+Clouds,Sunny
+Clear,Sunny
+Scattered,Cloudy
+Scattered,Partly
+Scattered,Clear
+Scattered,Sunny
+Cloudy,Partly
+Cloudy,Clear
+Cloudy,Sunny
+Partly,Clear
+Partly,Sunny
+Clear,Sunny
+Overcast,Cloudy
+Overcast,Cloudy
+Sunny,Clean
+Sunny,Clean
+Scattered,Cloudy
+Scattered,Partly
+Scattered,Clouds
+Scattered,Clear
+Scattered,Sunny
+Cloudy,Partly
+Cloudy,Clouds
+Cloudy,Clear
+Cloudy,Sunny
+Partly,Clouds
+Partly,Clear
+Partly,Sunny
+Clouds,Clear
+Clouds,Sunny
+Clear,Sunny
+Mostly,Partly
+Mostly,Cloudy
+Mostly,Clouds
+Mostly,Clear
+Partly,Cloudy
+Partly,Clouds
+Partly,Clear
+Cloudy,Clouds
+Cloudy,Clear
+Clouds,Clear
+Partly,Overcast
+Partly,Cloudy
+Overcast,Cloudy
+Partly,Few
+Partly,Cloudy
+Few,Cloudy
+Partly,Clear
+Partly,Cloudy
+Clear,Cloudy
+Clouds,Overcast
+Clouds,Cloudy
+Overcast,Cloudy
+Overcast,Cloudy
+Clean,Cloudy
+Clean,Winter storm
+Clean,Sunny
+Clean,sky
+Clean,Overcast
+Cloudy,Winter storm
+Cloudy,Sunny
+Cloudy,sky
+Cloudy,Overcast
+Winter storm,Sunny
+Winter storm,sky
+Winter storm,Overcast
+Sunny,sky
+Sunny,Overcast
+sky,Overcast
+clear,Winter warningPartly Cloudy
+clear,Mostly
+clear,Cloudy
+clear,Partly
+clear,Clouds
+clear,Clear
+Winter warningPartly Cloudy,Mostly
+Winter warningPartly Cloudy,Cloudy
+Winter warningPartly Cloudy,Partly
+Winter warningPartly Cloudy,Clouds
+Winter warningPartly Cloudy,Clear
+Mostly,Cloudy
+Mostly,Partly
+Mostly,Clouds
+Mostly,Clear
+Cloudy,Partly
+Cloudy,Clouds
+Cloudy,Clear
+Partly,Clouds
+Partly,Clear
+Clouds,Clear
+Scattered,Fog And
+Scattered,Cloudy
+Scattered,Partly
+Scattered,Mist
+Scattered,Special weather
+Scattered,Clear
+Scattered,sky
+Fog And,Cloudy
+Fog And,Partly
+Fog And,Mist
+Fog And,Special weather
+Fog And,Clear
+Fog And,sky
+Cloudy,Partly
+Cloudy,Mist
+Cloudy,Special weather
+Cloudy,Clear
+Cloudy,sky
+Partly,Mist
+Partly,Special weather
+Partly,Clear
+Partly,sky
+Mist,Special weather
+Mist,Clear
+Mist,sky
+Special weather,Clear
+Special weather,sky
+Clear,sky
+clear,Mostly
+clear,Intermittent
+clear,Fog
+clear,Cloudy
+clear,Partly
+clear,Mist
+clear,Clouds
+clear,And Sun
+clear,Fog Mist
+Mostly,Intermittent
+Mostly,Fog
+Mostly,Cloudy
+Mostly,Partly
+Mostly,Mist
+Mostly,Clouds
+Mostly,And Sun
+Mostly,Fog Mist
+Intermittent,Fog
+Intermittent,Cloudy
+Intermittent,Partly
+Intermittent,Mist
+Intermittent,Clouds
+Intermittent,And Sun
+Intermittent,Fog Mist
+Fog,Cloudy
+Fog,Partly
+Fog,Mist
+Fog,Clouds
+Fog,And Sun
+Fog,Fog Mist
+Cloudy,Partly
+Cloudy,Mist
+Cloudy,Clouds
+Cloudy,And Sun
+Cloudy,Fog Mist
+Partly,Mist
+Partly,Clouds
+Partly,And Sun
+Partly,Fog Mist
+Mist,Clouds
+Mist,And Sun
+Mist,Fog Mist
+Clouds,And Sun
+Clouds,Fog Mist
+And Sun,Fog Mist
+clear,Mostly
+clear,Partly
+clear,Cloudy
+clear,Clouds
+clear,And Sun
+clear,Intermittent
+Mostly,Partly
+Mostly,Cloudy
+Mostly,Clouds
+Mostly,And Sun
+Mostly,Intermittent
+Partly,Cloudy
+Partly,Clouds
+Partly,And Sun
+Partly,Intermittent
+Cloudy,Clouds
+Cloudy,And Sun
+Cloudy,Intermittent
+Clouds,And Sun
+Clouds,Intermittent
+And Sun,Intermittent
+Few,Rain AdvisoryMostly Sunny
+Few,Mostly
+Few,Cloudy
+Few,Partly
+Few,Sunny
+Few,sky
+Rain AdvisoryMostly Sunny,Mostly
+Rain AdvisoryMostly Sunny,Cloudy
+Rain AdvisoryMostly Sunny,Partly
+Rain AdvisoryMostly Sunny,Sunny
+Rain AdvisoryMostly Sunny,sky
+Mostly,Cloudy
+Mostly,Partly
+Mostly,Sunny
+Mostly,sky
+Cloudy,Partly
+Cloudy,Sunny
+Cloudy,sky
+Partly,Sunny
+Partly,sky
+Sunny,sky
+Overcast,Weather AdvisoryCloudy
+Overcast,cloudy
+Overcast,Cloudy
+Weather AdvisoryCloudy,cloudy
+Weather AdvisoryCloudy,Cloudy
+cloudy,Cloudy
+Overcast,Winter AdvisoryCloudy
+Overcast,cloudy
+Overcast,Cloudy
+Winter AdvisoryCloudy,cloudy
+Winter AdvisoryCloudy,Cloudy
+cloudy,Cloudy
+Weather WarningsPartly,Mostly
+Weather WarningsPartly,Scattered
+Weather WarningsPartly,Cloudy
+Weather WarningsPartly,Partly
+Weather WarningsPartly,Clouds
+Weather WarningsPartly,Clear
+Weather WarningsPartly,cloudy
+Mostly,Scattered
+Mostly,Cloudy
+Mostly,Partly
+Mostly,Clouds
+Mostly,Clear
+Mostly,cloudy
+Scattered,Cloudy
+Scattered,Partly
+Scattered,Clouds
+Scattered,Clear
+Scattered,cloudy
+Cloudy,Partly
+Cloudy,Clouds
+Cloudy,Clear
+Cloudy,cloudy
+Partly,Clouds
+Partly,Clear
+Partly,cloudy
+Clouds,Clear
+Clouds,cloudy
+Clear,cloudy
+Partly,Weather Sunny
+Partly,Cloudy
+Partly,Clouds
+Partly,cloudy
+Weather Sunny,Cloudy
+Weather Sunny,Clouds
+Weather Sunny,cloudy
+Cloudy,Clouds
+Cloudy,cloudy
+Clouds,cloudy
+Winter Weather Sunny,Few
+Winter Weather Sunny,Cloudy
+Winter Weather Sunny,Partly
+Winter Weather Sunny,cloudy
+Few,Cloudy
+Few,Partly
+Few,cloudy
+Cloudy,Partly
+Cloudy,cloudy
+Partly,cloudy
+Mostly,Cloudy
+Mostly,Partly
+Mostly,Clouds
+Mostly,Clear
+Mostly,Sunny
+Mostly,sky
+Mostly,Clean
+Cloudy,Partly
+Cloudy,Clouds
+Cloudy,Clear
+Cloudy,Sunny
+Cloudy,sky
+Cloudy,Clean
+Partly,Clouds
+Partly,Clear
+Partly,Sunny
+Partly,sky
+Partly,Clean
+Clouds,Clear
+Clouds,Sunny
+Clouds,sky
+Clouds,Clean
+Clear,Sunny
+Clear,sky
+Clear,Clean
+Sunny,sky
+Sunny,Clean
+sky,Clean
+Sunny,Mostly
+Sunny,clear
+Sunny,Clean
+Mostly,clear
+Mostly,Clean
+clear,Clean
+clear,Mostly
+clear,Partly
+clear,Cloudy
+clear,Clouds
+clear,Intermittent
+clear,Clouds Sun
+clear,storm watchMostly Cloudy
+Mostly,Partly
+Mostly,Cloudy
+Mostly,Clouds
+Mostly,Intermittent
+Mostly,Clouds Sun
+Mostly,storm watchMostly Cloudy
+Partly,Cloudy
+Partly,Clouds
+Partly,Intermittent
+Partly,Clouds Sun
+Partly,storm watchMostly Cloudy
+Cloudy,Clouds
+Cloudy,Intermittent
+Cloudy,Clouds Sun
+Cloudy,storm watchMostly Cloudy
+Clouds,Intermittent
+Clouds,Clouds Sun
+Clouds,storm watchMostly Cloudy
+Intermittent,Clouds Sun
+Intermittent,storm watchMostly Cloudy
+Clouds Sun,storm watchMostly Cloudy
+Mostly,Partly
+Mostly,Cloudy
+Mostly,Clouds
+Mostly,Clear
+Mostly,sky
+Mostly,Freezing Rain Sunny
+Partly,Cloudy
+Partly,Clouds
+Partly,Clear
+Partly,sky
+Partly,Freezing Rain Sunny
+Cloudy,Clouds
+Cloudy,Clear
+Cloudy,sky
+Cloudy,Freezing Rain Sunny
+Clouds,Clear
+Clouds,sky
+Clouds,Freezing Rain Sunny
+Clear,sky
+Clear,Freezing Rain Sunny
+sky,Freezing Rain Sunny
+Overcast,Weather
+Overcast,cloudy
+Overcast,Cloudy
+Weather,cloudy
+Weather,Cloudy
+cloudy,Cloudy
+term forecastRain,Showers
+term forecastRain,Cloudy
+term forecastRain,Mist
+term forecastRain,Drizzle Mist
+term forecastRain,Drizzle
+term forecastRain,Light
+term forecastRain,cloudy
+Showers,Cloudy
+Showers,Mist
+Showers,Drizzle Mist
+Showers,Drizzle
+Showers,Light
+Showers,cloudy
+Cloudy,Mist
+Cloudy,Drizzle Mist
+Cloudy,Drizzle
+Cloudy,Light
+Cloudy,cloudy
+Mist,Drizzle Mist
+Mist,Drizzle
+Mist,Light
+Mist,cloudy
+Drizzle Mist,Drizzle
+Drizzle Mist,Light
+Drizzle Mist,cloudy
+Drizzle,Light
+Drizzle,cloudy
+Light,cloudy
+Foggy,weather statementFog
+Foggy,Fog
+Foggy,Cloudy
+Foggy,Mist
+Foggy,Fog Mist
+Foggy,cloudy
+Foggy,Overcast
+weather statementFog,Fog
+weather statementFog,Cloudy
+weather statementFog,Mist
+weather statementFog,Fog Mist
+weather statementFog,cloudy
+weather statementFog,Overcast
+Fog,Cloudy
+Fog,Mist
+Fog,Fog Mist
+Fog,cloudy
+Fog,Overcast
+Cloudy,Mist
+Cloudy,Fog Mist
+Cloudy,cloudy
+Cloudy,Overcast
+Mist,Fog Mist
+Mist,cloudy
+Mist,Overcast
+Fog Mist,cloudy
+Fog Mist,Overcast
+cloudy,Overcast
+Fog,Cloudy
+Fog,Mist
+Fog,And Mist
+Fog,mostly
+Fog,Foggy
+Fog,Special statementFog
+Fog,Overcast
+Cloudy,Mist
+Cloudy,And Mist
+Cloudy,mostly
+Cloudy,Foggy
+Cloudy,Special statementFog
+Cloudy,Overcast
+Mist,And Mist
+Mist,mostly
+Mist,Foggy
+Mist,Special statementFog
+Mist,Overcast
+And Mist,mostly
+And Mist,Foggy
+And Mist,Special statementFog
+And Mist,Overcast
+mostly,Foggy
+mostly,Special statementFog
+mostly,Overcast
+Foggy,Special statementFog
+Foggy,Overcast
+Special statementFog,Overcast
+Dense,weather statementFog
+Dense,Fog
+Dense,Foggy
+Dense,cloudy
+weather statementFog,Fog
+weather statementFog,Foggy
+weather statementFog,cloudy
+Fog,Foggy
+Fog,cloudy
+Foggy,cloudy
+Dense,Weather
+Dense,Fog
+Dense,Foggy
+Dense,cloudy
+Weather,Fog
+Weather,Foggy
+Weather,cloudy
+Fog,Foggy
+Fog,cloudy
+Foggy,cloudy
+Foggy,Dense
+Foggy,mostly
+Foggy,Fog
+Dense,mostly
+Dense,Fog
+mostly,Fog
+Foggy,Fog
+Foggy,Mist
+Foggy,Fog Mist
+Foggy,cloudy
+Foggy,Overcast
+Fog,Mist
+Fog,Fog Mist
+Fog,cloudy
+Fog,Overcast
+Mist,Fog Mist
+Mist,cloudy
+Mist,Overcast
+Fog Mist,cloudy
+Fog Mist,Overcast
+cloudy,Overcast
+Mostly,Clouds
+Mostly,cloudy
+Mostly,Cloudy
+Clouds,cloudy
+Clouds,Cloudy
+cloudy,Cloudy
+Mostly,Cloudy
+Mostly,Clouds
+Mostly,mostly
+Mostly,Clouds Sun
+Cloudy,Clouds
+Cloudy,mostly
+Cloudy,Clouds Sun
+Clouds,mostly
+Clouds,Clouds Sun
+mostly,Clouds Sun
+Clouds And,Mostly
+Clouds And,Cloudy
+Clouds And,Intermittent
+Clouds And,cloudy
+Mostly,Cloudy
+Mostly,Intermittent
+Mostly,cloudy
+Cloudy,Intermittent
+Cloudy,cloudy
+Intermittent,cloudy
+Mostly,Partly
+Mostly,Cloudy
+Mostly,Sunny
+Mostly,cloudy
+Partly,Cloudy
+Partly,Sunny
+Partly,cloudy
+Cloudy,Sunny
+Cloudy,cloudy
+Sunny,cloudy
+clear,Few
+clear,Mostly
+clear,Cloudy
+clear,Partly
+clear,Clear
+Few,Mostly
+Few,Cloudy
+Few,Partly
+Few,Clear
+Mostly,Cloudy
+Mostly,Partly
+Mostly,Clear
+Cloudy,Partly
+Cloudy,Clear
+Partly,Clear
+clear,Mostly
+clear,Scattered
+clear,Cloudy
+clear,Partly
+clear,Clouds
+clear,Clear
+Mostly,Scattered
+Mostly,Cloudy
+Mostly,Partly
+Mostly,Clouds
+Mostly,Clear
+Scattered,Cloudy
+Scattered,Partly
+Scattered,Clouds
+Scattered,Clear
+Cloudy,Partly
+Cloudy,Clouds
+Cloudy,Clear
+Partly,Clouds
+Partly,Clear
+Clouds,Clear
+Mostly,Partly
+Mostly,Cloudy
+Mostly,mostly
+Mostly,Overcast
+Partly,Cloudy
+Partly,mostly
+Partly,Overcast
+Cloudy,mostly
+Cloudy,Overcast
+mostly,Overcast
+Overcast,mostly
+Overcast,Cloudy
+mostly,Cloudy
+Overcast,cloudy
+Overcast,Cloudy
+cloudy,Cloudy
+Haze,Unclear
+Haze,cloudy
+Haze,Cloudy
+Unclear,cloudy
+Unclear,Cloudy
+cloudy,Cloudy
+Clouds And,Mostly
+Clouds And,Partly
+Clouds And,Cloudy
+Clouds And,Clouds
+Clouds And,cloudy
+Mostly,Partly
+Mostly,Cloudy
+Mostly,Clouds
+Mostly,cloudy
+Partly,Cloudy
+Partly,Clouds
+Partly,cloudy
+Cloudy,Clouds
+Cloudy,cloudy
+Clouds,cloudy
+clear,Mostly
+clear,Scattered
+clear,Partly
+clear,Cloudy
+clear,Clouds
+Mostly,Scattered
+Mostly,Partly
+Mostly,Cloudy
+Mostly,Clouds
+Scattered,Partly
+Scattered,Cloudy
+Scattered,Clouds
+Partly,Cloudy
+Partly,Clouds
+Cloudy,Clouds
+Mostly,Partly
+Mostly,Cloudy
+Mostly,And Sun
+Mostly,Intermittent
+Mostly,sky
+Mostly,Sunny
+Partly,Cloudy
+Partly,And Sun
+Partly,Intermittent
+Partly,sky
+Partly,Sunny
+Cloudy,And Sun
+Cloudy,Intermittent
+Cloudy,sky
+Cloudy,Sunny
+And Sun,Intermittent
+And Sun,sky
+And Sun,Sunny
+Intermittent,sky
+Intermittent,Sunny
+sky,Sunny
+Mostly,Overcast
+Mostly,cloudy
+Mostly,Cloudy
+Overcast,cloudy
+Overcast,Cloudy
+cloudy,Cloudy
+Mostly,Cloudy
+Mostly,Some
+Mostly,Clouds
+Mostly,mostly
+Mostly,Intermittent
+Cloudy,Some
+Cloudy,Clouds
+Cloudy,mostly
+Cloudy,Intermittent
+Some,Clouds
+Some,mostly
+Some,Intermittent
+Clouds,mostly
+Clouds,Intermittent
+mostly,Intermittent
+Mostly,mostly
+Mostly,Cloudy
+mostly,Cloudy
+clear,Few
+clear,Mostly
+clear,Partly
+clear,Cloudy
+clear,Few Clouds
+clear,Sunny
+Few,Mostly
+Few,Partly
+Few,Cloudy
+Few,Few Clouds
+Few,Sunny
+Mostly,Partly
+Mostly,Cloudy
+Mostly,Few Clouds
+Mostly,Sunny
+Partly,Cloudy
+Partly,Few Clouds
+Partly,Sunny
+Cloudy,Few Clouds
+Cloudy,Sunny
+Few Clouds,Sunny
+Haze,Cloudy
+Haze,Some
+Haze,Air AlertHaze
+Haze,Unclear
+Haze,Intermittent
+Haze,sky
+Cloudy,Some
+Cloudy,Air AlertHaze
+Cloudy,Unclear
+Cloudy,Intermittent
+Cloudy,sky
+Some,Air AlertHaze
+Some,Unclear
+Some,Intermittent
+Some,sky
+Air AlertHaze,Unclear
+Air AlertHaze,Intermittent
+Air AlertHaze,sky
+Unclear,Intermittent
+Unclear,sky
+Intermittent,sky
+Haze,Cloudy
+Haze,Quality AlertHaze
+Haze,Unclear
+Haze,Intermittent
+Haze,cloudy
+Cloudy,Quality AlertHaze
+Cloudy,Unclear
+Cloudy,Intermittent
+Cloudy,cloudy
+Quality AlertHaze,Unclear
+Quality AlertHaze,Intermittent
+Quality AlertHaze,cloudy
+Unclear,Intermittent
+Unclear,cloudy
+Intermittent,cloudy
+Few,Mostly
+Few,Scattered
+Few,Partly
+Few,Clouds
+Few,Sunny
+Few,sky
+Mostly,Scattered
+Mostly,Partly
+Mostly,Clouds
+Mostly,Sunny
+Mostly,sky
+Scattered,Partly
+Scattered,Clouds
+Scattered,Sunny
+Scattered,sky
+Partly,Clouds
+Partly,Sunny
+Partly,sky
+Clouds,Sunny
+Clouds,sky
+Sunny,sky
+snow,Light Mist
+snow,Shower
+snow,Flurries
+snow,"""Light"
+snow,Snow
+snow,Fog/Lgt.Snow
+snow,Fog/Light Snow
+snow,Light
+Light Mist,Shower
+Light Mist,Flurries
+Light Mist,"""Light"
+Light Mist,Snow
+Light Mist,Fog/Lgt.Snow
+Light Mist,Fog/Light Snow
+Light Mist,Light
+Shower,Flurries
+Shower,"""Light"
+Shower,Snow
+Shower,Fog/Lgt.Snow
+Shower,Fog/Light Snow
+Shower,Light
+Flurries,"""Light"
+Flurries,Snow
+Flurries,Fog/Lgt.Snow
+Flurries,Fog/Light Snow
+Flurries,Light
+"""Light",Snow
+"""Light",Fog/Lgt.Snow
+"""Light",Fog/Light Snow
+"""Light",Light
+Snow,Fog/Lgt.Snow
+Snow,Fog/Light Snow
+Snow,Light
+Fog/Lgt.Snow,Fog/Light Snow
+Fog/Lgt.Snow,Light
+Fog/Light Snow,Light
+Haze,Flurries
+Haze,Cloudy
+Haze,Unclear
+Haze,mostly
+Flurries,Cloudy
+Flurries,Unclear
+Flurries,mostly
+Cloudy,Unclear
+Cloudy,mostly
+Unclear,mostly
+Haze,Unclear
+Haze,mostly
+Haze,Cloudy
+Unclear,mostly
+Unclear,Cloudy
+mostly,Cloudy
+Haze,Unclear
+Haze,mostly
+Haze,Cloudy
+Unclear,mostly
+Unclear,Cloudy
+mostly,Cloudy
+Clean,clear
+Clean,Mostly
+Clean,Cloudy
+Clean,Sunny
+Clean,Overcast
+clear,Mostly
+clear,Cloudy
+clear,Sunny
+clear,Overcast
+Mostly,Cloudy
+Mostly,Sunny
+Mostly,Overcast
+Cloudy,Sunny
+Cloudy,Overcast
+Sunny,Overcast
+Sunny,Cloudy
+Sunny,clear
+Sunny,Clean
+Cloudy,clear
+Cloudy,Clean
+clear,Clean
+clear,Mostly
+clear,Cloudy
+clear,Clouds
+clear,Clear
+clear,Sunny
+clear,Clean
+Mostly,Cloudy
+Mostly,Clouds
+Mostly,Clear
+Mostly,Sunny
+Mostly,Clean
+Cloudy,Clouds
+Cloudy,Clear
+Cloudy,Sunny
+Cloudy,Clean
+Clouds,Clear
+Clouds,Sunny
+Clouds,Clean
+Clear,Sunny
+Clear,Clean
+Sunny,Clean
+Mostly,Cloudy
+Mostly,Partly
+Mostly,Clear
+Mostly,Sunny
+Mostly,sky
+Mostly,Clean
+Cloudy,Partly
+Cloudy,Clear
+Cloudy,Sunny
+Cloudy,sky
+Cloudy,Clean
+Partly,Clear
+Partly,Sunny
+Partly,sky
+Partly,Clean
+Clear,Sunny
+Clear,sky
+Clear,Clean
+Sunny,sky
+Sunny,Clean
+sky,Clean
+Haze,Unclear
+Haze,And Sun
+Haze,Intermittent
+Haze,sky
+Haze,Sunny
+Haze,Clean
+Unclear,And Sun
+Unclear,Intermittent
+Unclear,sky
+Unclear,Sunny
+Unclear,Clean
+And Sun,Intermittent
+And Sun,sky
+And Sun,Sunny
+And Sun,Clean
+Intermittent,sky
+Intermittent,Sunny
+Intermittent,Clean
+sky,Sunny
+sky,Clean
+Sunny,Clean
+Haze,Clouds And
+Haze,Cloudy
+Haze,Partly
+Haze,Unclear
+Haze,Intermittent
+Haze,sky
+Haze,Sunny
+Haze,Clean
+Clouds And,Cloudy
+Clouds And,Partly
+Clouds And,Unclear
+Clouds And,Intermittent
+Clouds And,sky
+Clouds And,Sunny
+Clouds And,Clean
+Cloudy,Partly
+Cloudy,Unclear
+Cloudy,Intermittent
+Cloudy,sky
+Cloudy,Sunny
+Cloudy,Clean
+Partly,Unclear
+Partly,Intermittent
+Partly,sky
+Partly,Sunny
+Partly,Clean
+Unclear,Intermittent
+Unclear,sky
+Unclear,Sunny
+Unclear,Clean
+Intermittent,sky
+Intermittent,Sunny
+Intermittent,Clean
+sky,Sunny
+sky,Clean
+Sunny,Clean
+Mostly,Cloudy
+Mostly,Clouds
+Mostly,And Sun
+Mostly,Sunny
+Mostly,sky
+Mostly,Clean
+Cloudy,Clouds
+Cloudy,And Sun
+Cloudy,Sunny
+Cloudy,sky
+Cloudy,Clean
+Clouds,And Sun
+Clouds,Sunny
+Clouds,sky
+Clouds,Clean
+And Sun,Sunny
+And Sun,sky
+And Sun,Clean
+Sunny,sky
+Sunny,Clean
+sky,Clean
+Mostly,Cloudy
+Mostly,Partly
+Mostly,Sunny
+Mostly,sky
+Mostly,Clean
+Cloudy,Partly
+Cloudy,Sunny
+Cloudy,sky
+Cloudy,Clean
+Partly,Sunny
+Partly,sky
+Partly,Clean
+Sunny,sky
+Sunny,Clean
+sky,Clean
+Clean,Cloudy
+Clean,Sunny
+Clean,sky
+Clean,Overcast
+Cloudy,Sunny
+Cloudy,sky
+Cloudy,Overcast
+Sunny,sky
+Sunny,Overcast
+sky,Overcast
+Clean,Cloudy
+Clean,Sunny
+Clean,sky
+Clean,Overcast
+Cloudy,Sunny
+Cloudy,sky
+Cloudy,Overcast
+Sunny,sky
+Sunny,Overcast
+sky,Overcast
+Partly,Overcast
+Partly,clear
+Partly,Cloudy
+Overcast,clear
+Overcast,Cloudy
+clear,Cloudy
+Mostly,Intermittent
+Mostly,Partly
+Mostly,Clear
+Mostly,Sunny
+Mostly,sky
+Mostly,Clean
+Intermittent,Partly
+Intermittent,Clear
+Intermittent,Sunny
+Intermittent,sky
+Intermittent,Clean
+Partly,Clear
+Partly,Sunny
+Partly,sky
+Partly,Clean
+Clear,Sunny
+Clear,sky
+Clear,Clean
+Sunny,sky
+Sunny,Clean
+sky,Clean
+clear,Cloudy
+clear,Partly
+clear,Sunny
+clear,Clean
+Cloudy,Partly
+Cloudy,Sunny
+Cloudy,Clean
+Partly,Sunny
+Partly,Clean
+Sunny,Clean
+Mostly,Cloudy
+Mostly,Partly
+Mostly,Sunny
+Mostly,sky
+Mostly,Clean
+Cloudy,Partly
+Cloudy,Sunny
+Cloudy,sky
+Cloudy,Clean
+Partly,Sunny
+Partly,sky
+Partly,Clean
+Sunny,sky
+Sunny,Clean
+sky,Clean
+Sunny,sky
+Sunny,Clean
+sky,Clean
+Haze,Winter watchCloudy
+Haze,Cloudy
+Haze,cloudy
+Haze,Overcast
+Winter watchCloudy,Cloudy
+Winter watchCloudy,cloudy
+Winter watchCloudy,Overcast
+Cloudy,cloudy
+Cloudy,Overcast
+cloudy,Overcast
+Haze,Winter watchCloudy
+Haze,Cloudy
+Haze,mostly
+Haze,Overcast
+Winter watchCloudy,Cloudy
+Winter watchCloudy,mostly
+Winter watchCloudy,Overcast
+Cloudy,mostly
+Cloudy,Overcast
+mostly,Overcast
+Partly,Cloudy
+Partly,Clouds
+Partly,Winter watchHaze
+Partly,Unclear
+Partly,mostly
+Cloudy,Clouds
+Cloudy,Winter watchHaze
+Cloudy,Unclear
+Cloudy,mostly
+Clouds,Winter watchHaze
+Clouds,Unclear
+Clouds,mostly
+Winter watchHaze,Unclear
+Winter watchHaze,mostly
+Unclear,mostly
+Sunny,Cloudy
+Sunny,clear
+Sunny,Overcast
+Cloudy,clear
+Cloudy,Overcast
+clear,Overcast
+Haze,Flurries
+Haze,Cloudy
+Haze,Snow
+Haze,Light
+Haze,cloudy
+Flurries,Cloudy
+Flurries,Snow
+Flurries,Light
+Flurries,cloudy
+Cloudy,Snow
+Cloudy,Light
+Cloudy,cloudy
+Snow,Light
+Snow,cloudy
+Light,cloudy
+Flurries,Cloudy
+Flurries,Snow
+Flurries,mostly
+Flurries,Light
+Flurries,Overcast
+Cloudy,Snow
+Cloudy,mostly
+Cloudy,Light
+Cloudy,Overcast
+Snow,mostly
+Snow,Light
+Snow,Overcast
+mostly,Light
+mostly,Overcast
+Light,Overcast
+Showers,Light Mist
+Showers,Mist/Light Rain Fog
+Showers,Rain
+Showers,warningRain
+Showers,rain
+Showers,Light
+Light Mist,Mist/Light Rain Fog
+Light Mist,Rain
+Light Mist,warningRain
+Light Mist,rain
+Light Mist,Light
+Mist/Light Rain Fog,Rain
+Mist/Light Rain Fog,warningRain
+Mist/Light Rain Fog,rain
+Mist/Light Rain Fog,Light
+Rain,warningRain
+Rain,rain
+Rain,Light
+warningRain,rain
+warningRain,Light
+rain,Light
+Mostly,Cloudy
+Mostly,Sunny
+Mostly,cloudy
+Mostly,Overcast
+Cloudy,Sunny
+Cloudy,cloudy
+Cloudy,Overcast
+Sunny,cloudy
+Sunny,Overcast
+cloudy,Overcast
+WarningsFog,Mostly
+WarningsFog,Cloudy
+WarningsFog,Mist
+WarningsFog,mostly
+WarningsFog,Fog Mist
+Mostly,Cloudy
+Mostly,Mist
+Mostly,mostly
+Mostly,Fog Mist
+Cloudy,Mist
+Cloudy,mostly
+Cloudy,Fog Mist
+Mist,mostly
+Mist,Fog Mist
+mostly,Fog Mist
+Haze,Fog
+Haze,Cloudy
+Haze,Unclear
+Haze,cloudy
+Fog,Cloudy
+Fog,Unclear
+Fog,cloudy
+Cloudy,Unclear
+Cloudy,cloudy
+Unclear,cloudy
+Haze,Fog
+Haze,Cloudy
+Haze,sky
+Haze,Overcast
+Fog,Cloudy
+Fog,sky
+Fog,Overcast
+Cloudy,sky
+Cloudy,Overcast
+sky,Overcast
+Overcast,mostly
+Overcast,Cloudy
+mostly,Cloudy
+WarningsCloudy,Cloudy
+WarningsCloudy,Light
+WarningsCloudy,cloudy
+WarningsCloudy,Overcast
+Cloudy,Light
+Cloudy,cloudy
+Cloudy,Overcast
+Light,cloudy
+Light,Overcast
+cloudy,Overcast
+Overcast,mostly
+Overcast,warningCloudy
+Overcast,Cloudy
+mostly,warningCloudy
+mostly,Cloudy
+warningCloudy,Cloudy
+Overcast,warningCloudy
+Overcast,cloudy
+Overcast,Cloudy
+warningCloudy,cloudy
+warningCloudy,Cloudy
+cloudy,Cloudy
+Overcast,warningCloudy
+Overcast,cloudy
+Overcast,Cloudy
+warningCloudy,cloudy
+warningCloudy,Cloudy
+cloudy,Cloudy
+Overcast,mostly
+Overcast,warningCloudy
+Overcast,Cloudy
+mostly,warningCloudy
+mostly,Cloudy
+warningCloudy,Cloudy
+Overcast,mostly
+Overcast,warningCloudy
+Overcast,Cloudy
+mostly,warningCloudy
+mostly,Cloudy
+warningCloudy,Cloudy
+cloudy,Overcast
+cloudy,Short forecastCloudy
+cloudy,Cloudy
+Overcast,Short forecastCloudy
+Overcast,Cloudy
+Short forecastCloudy,Cloudy
+Short term,Cloudy
+Short term,Rain
+Short term,mostly
+Short term,Overcast
+Cloudy,Rain
+Cloudy,mostly
+Cloudy,Overcast
+Rain,mostly
+Rain,Overcast
+mostly,Overcast
+Showers,Light Mist
+Showers,Short term
+Showers,Rain
+Showers,And Mist
+Showers,Light
+Showers,cloudy
+Light Mist,Short term
+Light Mist,Rain
+Light Mist,And Mist
+Light Mist,Light
+Light Mist,cloudy
+Short term,Rain
+Short term,And Mist
+Short term,Light
+Short term,cloudy
+Rain,And Mist
+Rain,Light
+Rain,cloudy
+And Mist,Light
+And Mist,cloudy
+Light,cloudy
+term forecastRain,Showers
+term forecastRain,Cloudy
+term forecastRain,Rain
+term forecastRain,rain
+term forecastRain,Light
+term forecastRain,Overcast
+Showers,Cloudy
+Showers,Rain
+Showers,rain
+Showers,Light
+Showers,Overcast
+Cloudy,Rain
+Cloudy,rain
+Cloudy,Light
+Cloudy,Overcast
+Rain,rain
+Rain,Light
+Rain,Overcast
+rain,Light
+rain,Overcast
+Light,Overcast
+light,Showers
+light,Rain
+light,Short forecastRain
+light,Light
+Showers,Rain
+Showers,Short forecastRain
+Showers,Light
+Rain,Short forecastRain
+Rain,Light
+Short forecastRain,Light
+Showers,Cloudy
+Showers,Rain
+Showers,mostly
+Showers,Short forecastCloudy
+Showers,Overcast
+Cloudy,Rain
+Cloudy,mostly
+Cloudy,Short forecastCloudy
+Cloudy,Overcast
+Rain,mostly
+Rain,Short forecastCloudy
+Rain,Overcast
+mostly,Short forecastCloudy
+mostly,Overcast
+Short forecastCloudy,Overcast
+Overcast,cloudy
+Overcast,Cloudy
+cloudy,Cloudy
+Overcast,mostly
+Overcast,Cloudy
+mostly,Cloudy
+Haze,Cloudy
+Haze,Unclear
+Haze,mostly
+Haze,Overcast
+Cloudy,Unclear
+Cloudy,mostly
+Cloudy,Overcast
+Unclear,mostly
+Unclear,Overcast
+mostly,Overcast
+Mostly,Partly
+Mostly,Cloudy
+Mostly,Sunny
+Mostly,cloudy
+Partly,Cloudy
+Partly,Sunny
+Partly,cloudy
+Cloudy,Sunny
+Cloudy,cloudy
+Sunny,cloudy
+Dense,Freezing
+Dense,Scattered
+Dense,Fog
+Dense,Cloudy
+Dense,Partly
+Dense,Clouds
+Dense,sky
+Dense,term forecastMostly Sunny
+Freezing,Scattered
+Freezing,Fog
+Freezing,Cloudy
+Freezing,Partly
+Freezing,Clouds
+Freezing,sky
+Freezing,term forecastMostly Sunny
+Scattered,Fog
+Scattered,Cloudy
+Scattered,Partly
+Scattered,Clouds
+Scattered,sky
+Scattered,term forecastMostly Sunny
+Fog,Cloudy
+Fog,Partly
+Fog,Clouds
+Fog,sky
+Fog,term forecastMostly Sunny
+Cloudy,Partly
+Cloudy,Clouds
+Cloudy,sky
+Cloudy,term forecastMostly Sunny
+Partly,Clouds
+Partly,sky
+Partly,term forecastMostly Sunny
+Clouds,sky
+Clouds,term forecastMostly Sunny
+sky,term forecastMostly Sunny
+clear,Mostly
+clear,Scattered
+clear,Cloudy
+clear,Partly
+clear,Clouds
+Mostly,Scattered
+Mostly,Cloudy
+Mostly,Partly
+Mostly,Clouds
+Scattered,Cloudy
+Scattered,Partly
+Scattered,Clouds
+Cloudy,Partly
+Cloudy,Clouds
+Partly,Clouds
+Mostly,Intermittent
+Mostly,Partly
+Mostly,Some
+Mostly,Cloudy
+Mostly,Clear
+Mostly,Sunny
+Mostly,sky
+Mostly,Clean
+Intermittent,Partly
+Intermittent,Some
+Intermittent,Cloudy
+Intermittent,Clear
+Intermittent,Sunny
+Intermittent,sky
+Intermittent,Clean
+Partly,Some
+Partly,Cloudy
+Partly,Clear
+Partly,Sunny
+Partly,sky
+Partly,Clean
+Some,Cloudy
+Some,Clear
+Some,Sunny
+Some,sky
+Some,Clean
+Cloudy,Clear
+Cloudy,Sunny
+Cloudy,sky
+Cloudy,Clean
+Clear,Sunny
+Clear,sky
+Clear,Clean
+Sunny,sky
+Sunny,Clean
+sky,Clean
+clear,Partly
+clear,Cloudy
+clear,Mist
+clear,Clouds
+clear,Sunny
+clear,Clean
+Partly,Cloudy
+Partly,Mist
+Partly,Clouds
+Partly,Sunny
+Partly,Clean
+Cloudy,Mist
+Cloudy,Clouds
+Cloudy,Sunny
+Cloudy,Clean
+Mist,Clouds
+Mist,Sunny
+Mist,Clean
+Clouds,Sunny
+Clouds,Clean
+Sunny,Clean
+clear,Mostly
+clear,Short term Sunny
+clear,Partly
+clear,Cloudy
+clear,Clouds
+clear,Sunny
+Mostly,Short term Sunny
+Mostly,Partly
+Mostly,Cloudy
+Mostly,Clouds
+Mostly,Sunny
+Short term Sunny,Partly
+Short term Sunny,Cloudy
+Short term Sunny,Clouds
+Short term Sunny,Sunny
+Partly,Cloudy
+Partly,Clouds
+Partly,Sunny
+Cloudy,Clouds
+Cloudy,Sunny
+Clouds,Sunny
+Few,Mostly
+Few,Cloudy
+Few,Partly
+Few,Clear
+Few,Sunny
+Few,sky
+Few,A Clouds
+Mostly,Cloudy
+Mostly,Partly
+Mostly,Clear
+Mostly,Sunny
+Mostly,sky
+Mostly,A Clouds
+Cloudy,Partly
+Cloudy,Clear
+Cloudy,Sunny
+Cloudy,sky
+Cloudy,A Clouds
+Partly,Clear
+Partly,Sunny
+Partly,sky
+Partly,A Clouds
+Clear,Sunny
+Clear,sky
+Clear,A Clouds
+Sunny,sky
+Sunny,A Clouds
+sky,A Clouds
+A Few,Mostly
+A Few,Cloudy
+A Few,Partly
+A Few,Sunny
+A Few,sky
+Mostly,Cloudy
+Mostly,Partly
+Mostly,Sunny
+Mostly,sky
+Cloudy,Partly
+Cloudy,Sunny
+Cloudy,sky
+Partly,Sunny
+Partly,sky
+Sunny,sky
+Mostly,Cloudy
+Mostly,Partly
+Mostly,Clear
+Mostly,Sunny
+Mostly,sky
+Cloudy,Partly
+Cloudy,Clear
+Cloudy,Sunny
+Cloudy,sky
+Partly,Clear
+Partly,Sunny
+Partly,sky
+Clear,Sunny
+Clear,sky
+Sunny,sky
+Mostly,Cloudy
+Mostly,Partly
+Mostly,Clouds
+Mostly,Clear
+Mostly,Sunny
+Mostly,sky
+Cloudy,Partly
+Cloudy,Clouds
+Cloudy,Clear
+Cloudy,Sunny
+Cloudy,sky
+Partly,Clouds
+Partly,Clear
+Partly,Sunny
+Partly,sky
+Clouds,Clear
+Clouds,Sunny
+Clouds,sky
+Clear,Sunny
+Clear,sky
+Sunny,sky
+Mostly,Partly
+Mostly,Cloudy
+Mostly,Clear
+Mostly,Sunny
+Mostly,sky
+Partly,Cloudy
+Partly,Clear
+Partly,Sunny
+Partly,sky
+Cloudy,Clear
+Cloudy,Sunny
+Cloudy,sky
+Clear,Sunny
+Clear,sky
+Sunny,sky
+clear,Mostly
+clear,Intermittent
+clear,Partly
+clear,Cloudy
+clear,Clouds
+clear,Clear
+clear,Sunny
+Mostly,Intermittent
+Mostly,Partly
+Mostly,Cloudy
+Mostly,Clouds
+Mostly,Clear
+Mostly,Sunny
+Intermittent,Partly
+Intermittent,Cloudy
+Intermittent,Clouds
+Intermittent,Clear
+Intermittent,Sunny
+Partly,Cloudy
+Partly,Clouds
+Partly,Clear
+Partly,Sunny
+Cloudy,Clouds
+Cloudy,Clear
+Cloudy,Sunny
+Clouds,Clear
+Clouds,Sunny
+Clear,Sunny
+Overcast,term forecastCloudy
+Overcast,mostly
+Overcast,Cloudy
+term forecastCloudy,mostly
+term forecastCloudy,Cloudy
+mostly,Cloudy
+Overcast,mostly
+Overcast,Short term
+Overcast,Cloudy
+mostly,Short term
+mostly,Cloudy
+Short term,Cloudy
+Sunny,Cloudy
+Sunny,clear
+Sunny,Clean
+Cloudy,clear
+Cloudy,Clean
+clear,Clean
+Sunny,Partly
+Sunny,sky
+Sunny,Clean
+Partly,sky
+Partly,Clean
+sky,Clean
+Sunny,Cloudy
+Sunny,sky
+Sunny,Clean
+Cloudy,sky
+Cloudy,Clean
+sky,Clean
+clear,Mostly
+clear,Partly
+clear,Clear
+clear,Sunny
+clear,Clean
+Mostly,Partly
+Mostly,Clear
+Mostly,Sunny
+Mostly,Clean
+Partly,Clear
+Partly,Sunny
+Partly,Clean
+Clear,Sunny
+Clear,Clean
+Sunny,Clean
+clear,Mostly
+clear,Cloudy
+clear,Partly
+clear,Sunny
+clear,Clean
+Mostly,Cloudy
+Mostly,Partly
+Mostly,Sunny
+Mostly,Clean
+Cloudy,Partly
+Cloudy,Sunny
+Cloudy,Clean
+Partly,Sunny
+Partly,Clean
+Sunny,Clean
+clear,Clouds And
+clear,Mostly
+clear,Intermittent
+clear,Cloudy
+clear,Sunny
+Clouds And,Mostly
+Clouds And,Intermittent
+Clouds And,Cloudy
+Clouds And,Sunny
+Mostly,Intermittent
+Mostly,Cloudy
+Mostly,Sunny
+Intermittent,Cloudy
+Intermittent,Sunny
+Cloudy,Sunny
+Sunny,Cloudy
+Sunny,sky
+Sunny,Clean
+Cloudy,sky
+Cloudy,Clean
+sky,Clean
+Partly,Cloudy
+Partly,Clear
+Partly,Sunny
+Partly,sky
+Partly,Clean
+Cloudy,Clear
+Cloudy,Sunny
+Cloudy,sky
+Cloudy,Clean
+Clear,Sunny
+Clear,sky
+Clear,Clean
+Sunny,sky
+Sunny,Clean
+sky,Clean
+Mostly,Overcast
+Mostly,mostly
+Mostly,Cloudy
+Overcast,mostly
+Overcast,Cloudy
+mostly,Cloudy
+Overcast,mostly
+Overcast,Cloudy
+mostly,Cloudy
+clear,Mostly
+clear,Clear
+clear,Sunny
+clear,Clean
+Mostly,Clear
+Mostly,Sunny
+Mostly,Clean
+Clear,Sunny
+Clear,Clean
+Sunny,Clean
+Mostly,Clear
+Mostly,Sunny
+Mostly,sky
+Mostly,Clean
+Clear,Sunny
+Clear,sky
+Clear,Clean
+Sunny,sky
+Sunny,Clean
+sky,Clean
+clear,Mostly
+clear,Clear
+clear,Sunny
+clear,Clean
+Mostly,Clear
+Mostly,Sunny
+Mostly,Clean
+Clear,Sunny
+Clear,Clean
+Sunny,Clean
+Mostly,Scattered
+Mostly,Cloudy
+Mostly,Partly
+Mostly,mostly
+Mostly,Clear
+Scattered,Cloudy
+Scattered,Partly
+Scattered,mostly
+Scattered,Clear
+Cloudy,Partly
+Cloudy,mostly
+Cloudy,Clear
+Partly,mostly
+Partly,Clear
+mostly,Clear
+Mostly,Partly
+Mostly,Sunny
+Mostly,sky
+Mostly,Clean
+Partly,Sunny
+Partly,sky
+Partly,Clean
+Sunny,sky
+Sunny,Clean
+sky,Clean
+Mostly,Cloudy
+Mostly,Sunny
+Mostly,sky
+Mostly,Clean
+Cloudy,Sunny
+Cloudy,sky
+Cloudy,Clean
+Sunny,sky
+Sunny,Clean
+sky,Clean
+clear,Mostly
+clear,Cloudy
+clear,Sunny
+clear,Clean
+Mostly,Cloudy
+Mostly,Sunny
+Mostly,Clean
+Cloudy,Sunny
+Cloudy,Clean
+Sunny,Clean
+clear,Mostly
+clear,Cloudy
+clear,Sunny
+clear,Overcast
+Mostly,Cloudy
+Mostly,Sunny
+Mostly,Overcast
+Cloudy,Sunny
+Cloudy,Overcast
+Sunny,Overcast
+Partly,Overcast
+Partly,clear
+Partly,Cloudy
+Overcast,clear
+Overcast,Cloudy
+clear,Cloudy
+clear,Cloudy
+clear,Partly
+clear,Clouds
+clear,Sunny
+clear,Clean
+Cloudy,Partly
+Cloudy,Clouds
+Cloudy,Sunny
+Cloudy,Clean
+Partly,Clouds
+Partly,Sunny
+Partly,Clean
+Clouds,Sunny
+Clouds,Clean
+Sunny,Clean
+clear,Mostly
+clear,Cloudy
+clear,Partly
+clear,Clouds
+clear,Sunny
+Mostly,Cloudy
+Mostly,Partly
+Mostly,Clouds
+Mostly,Sunny
+Cloudy,Partly
+Cloudy,Clouds
+Cloudy,Sunny
+Partly,Clouds
+Partly,Sunny
+Clouds,Sunny
+Overcast,cloudy
+Overcast,Cloudy
+cloudy,Cloudy
+Mostly,Partly
+Mostly,Cloudy
+Mostly,Clouds
+Mostly,mostly
+Mostly,Overcast
+Partly,Cloudy
+Partly,Clouds
+Partly,mostly
+Partly,Overcast
+Cloudy,Clouds
+Cloudy,mostly
+Cloudy,Overcast
+Clouds,mostly
+Clouds,Overcast
+mostly,Overcast
+snow,Flurries
+snow,Cloudy
+snow,Snow
+snow,Snow Mist
+snow,Overcast
+Flurries,Cloudy
+Flurries,Snow
+Flurries,Snow Mist
+Flurries,Overcast
+Cloudy,Snow
+Cloudy,Snow Mist
+Cloudy,Overcast
+Snow,Snow Mist
+Snow,Overcast
+Snow Mist,Overcast
+Haze,Flurries
+Haze,Fog
+Haze,Cloudy
+Haze,Unclear
+Haze,Sunny
+Haze,sky
+Haze,Light
+Flurries,Fog
+Flurries,Cloudy
+Flurries,Unclear
+Flurries,Sunny
+Flurries,sky
+Flurries,Light
+Fog,Cloudy
+Fog,Unclear
+Fog,Sunny
+Fog,sky
+Fog,Light
+Cloudy,Unclear
+Cloudy,Sunny
+Cloudy,sky
+Cloudy,Light
+Unclear,Sunny
+Unclear,sky
+Unclear,Light
+Sunny,sky
+Sunny,Light
+sky,Light
+Showers,Light Mist
+Showers,Flurries
+Showers,Fog And
+Showers,Fog
+Showers,Cloudy
+Showers,Mist
+Showers,Snow
+Showers,Fog/Lgt.Snow
+Showers,mostly
+Light Mist,Flurries
+Light Mist,Fog And
+Light Mist,Fog
+Light Mist,Cloudy
+Light Mist,Mist
+Light Mist,Snow
+Light Mist,Fog/Lgt.Snow
+Light Mist,mostly
+Flurries,Fog And
+Flurries,Fog
+Flurries,Cloudy
+Flurries,Mist
+Flurries,Snow
+Flurries,Fog/Lgt.Snow
+Flurries,mostly
+Fog And,Fog
+Fog And,Cloudy
+Fog And,Mist
+Fog And,Snow
+Fog And,Fog/Lgt.Snow
+Fog And,mostly
+Fog,Cloudy
+Fog,Mist
+Fog,Snow
+Fog,Fog/Lgt.Snow
+Fog,mostly
+Cloudy,Mist
+Cloudy,Snow
+Cloudy,Fog/Lgt.Snow
+Cloudy,mostly
+Mist,Snow
+Mist,Fog/Lgt.Snow
+Mist,mostly
+Snow,Fog/Lgt.Snow
+Snow,mostly
+Fog/Lgt.Snow,mostly
+light,Flurries
+light,Cloudy
+light,Mist
+light,Snow
+light,Fog/Lgt.Snow
+light,Fog/Light Snow
+light,Overcast
+Flurries,Cloudy
+Flurries,Mist
+Flurries,Snow
+Flurries,Fog/Lgt.Snow
+Flurries,Fog/Light Snow
+Flurries,Overcast
+Cloudy,Mist
+Cloudy,Snow
+Cloudy,Fog/Lgt.Snow
+Cloudy,Fog/Light Snow
+Cloudy,Overcast
+Mist,Snow
+Mist,Fog/Lgt.Snow
+Mist,Fog/Light Snow
+Mist,Overcast
+Snow,Fog/Lgt.Snow
+Snow,Fog/Light Snow
+Snow,Overcast
+Fog/Lgt.Snow,Fog/Light Snow
+Fog/Lgt.Snow,Overcast
+Fog/Light Snow,Overcast
+Mostly,Fog
+Mostly,Cloudy
+Mostly,Mist
+Mostly,And Mist
+Mostly,mostly
+Mostly,Light
+Mostly,Overcast
+Fog,Cloudy
+Fog,Mist
+Fog,And Mist
+Fog,mostly
+Fog,Light
+Fog,Overcast
+Cloudy,Mist
+Cloudy,And Mist
+Cloudy,mostly
+Cloudy,Light
+Cloudy,Overcast
+Mist,And Mist
+Mist,mostly
+Mist,Light
+Mist,Overcast
+And Mist,mostly
+And Mist,Light
+And Mist,Overcast
+mostly,Light
+mostly,Overcast
+Light,Overcast
+clear,Mostly
+clear,Fog
+clear,Partly
+clear,Cloudy
+clear,Mist
+clear,And Mist
+Mostly,Fog
+Mostly,Partly
+Mostly,Cloudy
+Mostly,Mist
+Mostly,And Mist
+Fog,Partly
+Fog,Cloudy
+Fog,Mist
+Fog,And Mist
+Partly,Cloudy
+Partly,Mist
+Partly,And Mist
+Cloudy,Mist
+Cloudy,And Mist
+Mist,And Mist
+Mostly,Cloudy
+Mostly,Partly
+Mostly,Clear
+Mostly,sky
+Cloudy,Partly
+Cloudy,Clear
+Cloudy,sky
+Partly,Clear
+Partly,sky
+Clear,sky
+Overcast,mostly
+Overcast,Cloudy
+mostly,Cloudy
+light,Light Mist
+light,Shower
+light,Flurries
+light,Snow
+light,Fog/Lgt.Snow
+light,WarningsSnow
+light,Light
+Light Mist,Shower
+Light Mist,Flurries
+Light Mist,Snow
+Light Mist,Fog/Lgt.Snow
+Light Mist,WarningsSnow
+Light Mist,Light
+Shower,Flurries
+Shower,Snow
+Shower,Fog/Lgt.Snow
+Shower,WarningsSnow
+Shower,Light
+Flurries,Snow
+Flurries,Fog/Lgt.Snow
+Flurries,WarningsSnow
+Flurries,Light
+Snow,Fog/Lgt.Snow
+Snow,WarningsSnow
+Snow,Light
+Fog/Lgt.Snow,WarningsSnow
+Fog/Lgt.Snow,Light
+WarningsSnow,Light
+Overcast,mostly
+Overcast,Cloudy
+mostly,Cloudy
+Mostly,mostly
+Mostly,Cloudy
+mostly,Cloudy
+Mostly,Partly
+Mostly,Cloudy
+Mostly,Clouds
+Mostly,Few Clouds
+Mostly,Sunny
+Mostly,sky
+Partly,Cloudy
+Partly,Clouds
+Partly,Few Clouds
+Partly,Sunny
+Partly,sky
+Cloudy,Clouds
+Cloudy,Few Clouds
+Cloudy,Sunny
+Cloudy,sky
+Clouds,Few Clouds
+Clouds,Sunny
+Clouds,sky
+Few Clouds,Sunny
+Few Clouds,sky
+Sunny,sky
+Mostly,mostly
+Mostly,Cloudy
+mostly,Cloudy
+Mostly,mostly
+Mostly,Special statementMostly Cloudy
+Mostly,Cloudy
+mostly,Special statementMostly Cloudy
+mostly,Cloudy
+Special statementMostly Cloudy,Cloudy
+Sunny,Partly
+Sunny,sky
+Sunny,Clean
+Partly,sky
+Partly,Clean
+sky,Clean
+Sunny,sky
+Sunny,Clear
+Sunny,Clean
+sky,Clear
+sky,Clean
+Clear,Clean
+Mostly,Cloudy
+Mostly,Clouds
+Mostly,mostly
+Mostly,Overcast
+Cloudy,Clouds
+Cloudy,mostly
+Cloudy,Overcast
+Clouds,mostly
+Clouds,Overcast
+mostly,Overcast
+Mostly,Partly
+Mostly,Cloudy
+Mostly,Clouds
+Mostly,Clear
+Mostly,sky
+Partly,Cloudy
+Partly,Clouds
+Partly,Clear
+Partly,sky
+Cloudy,Clouds
+Cloudy,Clear
+Cloudy,sky
+Clouds,Clear
+Clouds,sky
+Clear,sky
+Mostly,Overcast
+Mostly,mostly
+Mostly,Cloudy
+Overcast,mostly
+Overcast,Cloudy
+mostly,Cloudy
+Mostly,mostly
+Mostly,Cloudy
+mostly,Cloudy
+Mostly,mostly
+Mostly,Cloudy
+mostly,Cloudy
+light,Showers
+light,Cloudy
+light,Rain
+light,weather statementRain
+light,Light
+Showers,Cloudy
+Showers,Rain
+Showers,weather statementRain
+Showers,Light
+Cloudy,Rain
+Cloudy,weather statementRain
+Cloudy,Light
+Rain,weather statementRain
+Rain,Light
+weather statementRain,Light
+Mostly,weather statementMostly Cloudy
+Mostly,Cloudy
+Mostly,Clouds
+Mostly,And Sun
+Mostly,Intermittent
+Mostly,cloudy
+Mostly,Overcast
+weather statementMostly Cloudy,Cloudy
+weather statementMostly Cloudy,Clouds
+weather statementMostly Cloudy,And Sun
+weather statementMostly Cloudy,Intermittent
+weather statementMostly Cloudy,cloudy
+weather statementMostly Cloudy,Overcast
+Cloudy,Clouds
+Cloudy,And Sun
+Cloudy,Intermittent
+Cloudy,cloudy
+Cloudy,Overcast
+Clouds,And Sun
+Clouds,Intermittent
+Clouds,cloudy
+Clouds,Overcast
+And Sun,Intermittent
+And Sun,cloudy
+And Sun,Overcast
+Intermittent,cloudy
+Intermittent,Overcast
+cloudy,Overcast
+Mostly,Special weather statementMostly
+Mostly,Cloudy
+Mostly,Some
+Mostly,Intermittent
+Mostly,cloudy
+Special weather statementMostly,Cloudy
+Special weather statementMostly,Some
+Special weather statementMostly,Intermittent
+Special weather statementMostly,cloudy
+Cloudy,Some
+Cloudy,Intermittent
+Cloudy,cloudy
+Some,Intermittent
+Some,cloudy
+Intermittent,cloudy
+Mostly,weather statementMostly Cloudy
+Mostly,Cloudy
+Mostly,Clouds
+Mostly,mostly
+Mostly,Intermittent
+weather statementMostly Cloudy,Cloudy
+weather statementMostly Cloudy,Clouds
+weather statementMostly Cloudy,mostly
+weather statementMostly Cloudy,Intermittent
+Cloudy,Clouds
+Cloudy,mostly
+Cloudy,Intermittent
+Clouds,mostly
+Clouds,Intermittent
+mostly,Intermittent
+Showers,Cloudy
+Showers,Rain
+Showers,Special weather
+Showers,rain
+Showers,Light
+Cloudy,Rain
+Cloudy,Special weather
+Cloudy,rain
+Cloudy,Light
+Rain,Special weather
+Rain,rain
+Rain,Light
+Special weather,rain
+Special weather,Light
+rain,Light
+Cloudy,Rain
+Cloudy,weather statementRain
+Cloudy,Heavy
+Cloudy,rain
+Cloudy,Light
+Rain,weather statementRain
+Rain,Heavy
+Rain,rain
+Rain,Light
+weather statementRain,Heavy
+weather statementRain,rain
+weather statementRain,Light
+Heavy,rain
+Heavy,Light
+rain,Light
+term forecastRain,Showers
+term forecastRain,Rain
+term forecastRain,rain
+term forecastRain,Light
+Showers,Rain
+Showers,rain
+Showers,Light
+Rain,rain
+Rain,Light
+rain,Light
+Partly,Clear
+Partly,Sunny
+Partly,sky
+Partly,Clean
+Clear,Sunny
+Clear,sky
+Clear,Clean
+Sunny,sky
+Sunny,Clean
+sky,Clean
+Fog And,Fog
+Fog And,Cloudy
+Fog And,Mist
+Fog And,Unclear
+Fog And,mostly
+Fog And,Overcast
+Fog,Cloudy
+Fog,Mist
+Fog,Unclear
+Fog,mostly
+Fog,Overcast
+Cloudy,Mist
+Cloudy,Unclear
+Cloudy,mostly
+Cloudy,Overcast
+Mist,Unclear
+Mist,mostly
+Mist,Overcast
+Unclear,mostly
+Unclear,Overcast
+mostly,Overcast
+Overcast,cloudy
+Overcast,Cloudy
+cloudy,Cloudy
+term forecastCloudy,Cloudy
+term forecastCloudy,Snow
+term forecastCloudy,mostly
+term forecastCloudy,Overcast
+Cloudy,Snow
+Cloudy,mostly
+Cloudy,Overcast
+Snow,mostly
+Snow,Overcast
+mostly,Overcast
+Overcast,mostly
+Overcast,Cloudy
+mostly,Cloudy
+Overcast,cloudy
+Overcast,Cloudy
+cloudy,Cloudy
+Overcast,mostly
+Overcast,Cloudy
+mostly,Cloudy
+Overcast,cloudy
+Overcast,Cloudy
+cloudy,Cloudy
+Overcast,cloudy
+Overcast,Cloudy
+cloudy,Cloudy
+Overcast,cloudy
+Overcast,Cloudy
+cloudy,Cloudy
+Overcast,mostly
+Overcast,Cloudy
+mostly,Cloudy
+Overcast,cloudy
+Overcast,Cloudy
+cloudy,Cloudy
+light,term forecastRain
+light,Showers
+light,Fog And
+light,Cloudy
+light,Rain
+light,Light
+term forecastRain,Showers
+term forecastRain,Fog And
+term forecastRain,Cloudy
+term forecastRain,Rain
+term forecastRain,Light
+Showers,Fog And
+Showers,Cloudy
+Showers,Rain
+Showers,Light
+Fog And,Cloudy
+Fog And,Rain
+Fog And,Light
+Cloudy,Rain
+Cloudy,Light
+Rain,Light
+term forecastRain,Showers
+term forecastRain,Cloudy
+term forecastRain,Rain
+term forecastRain,Light
+term forecastRain,cloudy
+term forecastRain,Overcast
+Showers,Cloudy
+Showers,Rain
+Showers,Light
+Showers,cloudy
+Showers,Overcast
+Cloudy,Rain
+Cloudy,Light
+Cloudy,cloudy
+Cloudy,Overcast
+Rain,Light
+Rain,cloudy
+Rain,Overcast
+Light,cloudy
+Light,Overcast
+cloudy,Overcast
+Showers,Short term
+Showers,Light Rain
+Showers,Rain
+Showers,rain
+Showers,Light
+Short term,Light Rain
+Short term,Rain
+Short term,rain
+Short term,Light
+Light Rain,Rain
+Light Rain,rain
+Light Rain,Light
+Rain,rain
+Rain,Light
+rain,Light
+Overcast,cloudy
+Overcast,Cloudy
+cloudy,Cloudy
+Overcast,cloudy
+Overcast,Cloudy
+cloudy,Cloudy
+Overcast,cloudy
+Overcast,Cloudy
+cloudy,Cloudy
+clear,Mostly
+clear,Cloudy
+clear,Partly
+clear,Sunny
+clear,Clean
+Mostly,Cloudy
+Mostly,Partly
+Mostly,Sunny
+Mostly,Clean
+Cloudy,Partly
+Cloudy,Sunny
+Cloudy,Clean
+Partly,Sunny
+Partly,Clean
+Sunny,Clean
+clear,Mostly
+clear,Partly
+clear,Cloudy
+clear,Sunny
+clear,Clean
+Mostly,Partly
+Mostly,Cloudy
+Mostly,Sunny
+Mostly,Clean
+Partly,Cloudy
+Partly,Sunny
+Partly,Clean
+Cloudy,Sunny
+Cloudy,Clean
+Sunny,Clean
+Sunny,sky
+Sunny,Clear
+Sunny,Clean
+sky,Clear
+sky,Clean
+Clear,Clean
+clear,Mostly
+clear,Cloudy
+clear,Sunny
+clear,Short forecastClear
+clear,Clean
+Mostly,Cloudy
+Mostly,Sunny
+Mostly,Short forecastClear
+Mostly,Clean
+Cloudy,Sunny
+Cloudy,Short forecastClear
+Cloudy,Clean
+Sunny,Short forecastClear
+Sunny,Clean
+Short forecastClear,Clean
+Clean,Mostly
+Clean,Cloudy
+Clean,Sunny
+Clean,Short forecastClear
+Clean,sky
+Clean,Overcast
+Mostly,Cloudy
+Mostly,Sunny
+Mostly,Short forecastClear
+Mostly,sky
+Mostly,Overcast
+Cloudy,Sunny
+Cloudy,Short forecastClear
+Cloudy,sky
+Cloudy,Overcast
+Sunny,Short forecastClear
+Sunny,sky
+Sunny,Overcast
+Short forecastClear,sky
+Short forecastClear,Overcast
+sky,Overcast
+Showers,Short term
+Showers,Mostly
+Showers,Cloudy
+Showers,Rain
+Showers, Showers/Partly Sunny w
+Showers,sky
+Showers,Light
+Showers,Clean
+Short term,Mostly
+Short term,Cloudy
+Short term,Rain
+Short term, Showers/Partly Sunny w
+Short term,sky
+Short term,Light
+Short term,Clean
+Mostly,Cloudy
+Mostly,Rain
+Mostly, Showers/Partly Sunny w
+Mostly,sky
+Mostly,Light
+Mostly,Clean
+Cloudy,Rain
+Cloudy, Showers/Partly Sunny w
+Cloudy,sky
+Cloudy,Light
+Cloudy,Clean
+Rain, Showers/Partly Sunny w
+Rain,sky
+Rain,Light
+Rain,Clean
+ Showers/Partly Sunny w,sky
+ Showers/Partly Sunny w,Light
+ Showers/Partly Sunny w,Clean
+sky,Light
+sky,Clean
+Light,Clean
+Overcast,cloudy
+Overcast,Cloudy
+cloudy,Cloudy
+Mostly,Cloudy
+Mostly,Partly
+Mostly,Clear
+Mostly,Sunny
+Mostly,sky
+Mostly,Clean
+Cloudy,Partly
+Cloudy,Clear
+Cloudy,Sunny
+Cloudy,sky
+Cloudy,Clean
+Partly,Clear
+Partly,Sunny
+Partly,sky
+Partly,Clean
+Clear,Sunny
+Clear,sky
+Clear,Clean
+Sunny,sky
+Sunny,Clean
+sky,Clean
+Mostly,Scattered
+Mostly,Cloudy
+Mostly,Partly
+Mostly,Sunny
+Mostly,sky
+Mostly,Clean
+Scattered,Cloudy
+Scattered,Partly
+Scattered,Sunny
+Scattered,sky
+Scattered,Clean
+Cloudy,Partly
+Cloudy,Sunny
+Cloudy,sky
+Cloudy,Clean
+Partly,Sunny
+Partly,sky
+Partly,Clean
+Sunny,sky
+Sunny,Clean
+sky,Clean
+Mostly,Cloudy
+Mostly,Clouds
+Mostly,Clear
+Mostly,Sunny
+Mostly,sky
+Cloudy,Clouds
+Cloudy,Clear
+Cloudy,Sunny
+Cloudy,sky
+Clouds,Clear
+Clouds,Sunny
+Clouds,sky
+Clear,Sunny
+Clear,sky
+Sunny,sky
+Mostly,Cloudy
+Mostly,Partly
+Mostly,Clouds
+Mostly,Clear
+Mostly,sky
+Cloudy,Partly
+Cloudy,Clouds
+Cloudy,Clear
+Cloudy,sky
+Partly,Clouds
+Partly,Clear
+Partly,sky
+Clouds,Clear
+Clouds,sky
+Clear,sky
+light,Fog
+light,Cloudy
+light,Rain
+light,Mist
+light,And Mist
+light,Light
+light,Overcast
+Fog,Cloudy
+Fog,Rain
+Fog,Mist
+Fog,And Mist
+Fog,Light
+Fog,Overcast
+Cloudy,Rain
+Cloudy,Mist
+Cloudy,And Mist
+Cloudy,Light
+Cloudy,Overcast
+Rain,Mist
+Rain,And Mist
+Rain,Light
+Rain,Overcast
+Mist,And Mist
+Mist,Light
+Mist,Overcast
+And Mist,Light
+And Mist,Overcast
+Light,Overcast
+Fog And,Fog
+Fog And,Cloudy
+Fog And,Mist
+Fog And,Sunny
+Fog And,Light
+Fog And,cloudy
+Fog And,Overcast
+Fog,Cloudy
+Fog,Mist
+Fog,Sunny
+Fog,Light
+Fog,cloudy
+Fog,Overcast
+Cloudy,Mist
+Cloudy,Sunny
+Cloudy,Light
+Cloudy,cloudy
+Cloudy,Overcast
+Mist,Sunny
+Mist,Light
+Mist,cloudy
+Mist,Overcast
+Sunny,Light
+Sunny,cloudy
+Sunny,Overcast
+Light,cloudy
+Light,Overcast
+cloudy,Overcast
+Overcast,cloudy
+Overcast,Cloudy
+cloudy,Cloudy
+Overcast,cloudy
+Overcast,Cloudy
+cloudy,Cloudy
+Overcast,cloudy
+Overcast,Cloudy
+cloudy,Cloudy
+Overcast,cloudy
+Overcast,Cloudy
+cloudy,Cloudy
+Mostly,cloudy
+Mostly,Cloudy
+cloudy,Cloudy
+Mostly,cloudy
+Mostly,Cloudy
+cloudy,Cloudy
+Overcast,mostly
+Overcast,Cloudy
+mostly,Cloudy
+Overcast,mostly
+Overcast,Cloudy
+mostly,Cloudy
+Overcast,cloudy
+Overcast,Cloudy
+cloudy,Cloudy
+Overcast,mostly
+Overcast,Cloudy
+mostly,Cloudy
+Overcast,mostly
+Overcast,Cloudy
+mostly,Cloudy
+Mostly,Cloudy
+Mostly,Clouds
+Mostly,And Sun
+Mostly,cloudy
+Mostly,Overcast
+Cloudy,Clouds
+Cloudy,And Sun
+Cloudy,cloudy
+Cloudy,Overcast
+Clouds,And Sun
+Clouds,cloudy
+Clouds,Overcast
+And Sun,cloudy
+And Sun,Overcast
+cloudy,Overcast
+Showers,Cloudy
+Showers,Rain
+Showers,Flood WarningCloudy
+Showers,mostly
+Showers,Light
+Showers,Overcast
+Cloudy,Rain
+Cloudy,Flood WarningCloudy
+Cloudy,mostly
+Cloudy,Light
+Cloudy,Overcast
+Rain,Flood WarningCloudy
+Rain,mostly
+Rain,Light
+Rain,Overcast
+Flood WarningCloudy,mostly
+Flood WarningCloudy,Light
+Flood WarningCloudy,Overcast
+mostly,Light
+mostly,Overcast
+Light,Overcast
+Showers,WarningsCloudy
+Showers,Cloudy
+Showers,Rain
+Showers,rain
+WarningsCloudy,Cloudy
+WarningsCloudy,Rain
+WarningsCloudy,rain
+Cloudy,Rain
+Cloudy,rain
+Rain,rain
+Showers,Coastal WarningCloudy
+Showers,Cloudy
+Showers,Rain
+Showers,Mist
+Showers,moderate
+Showers,Light
+Coastal WarningCloudy,Cloudy
+Coastal WarningCloudy,Rain
+Coastal WarningCloudy,Mist
+Coastal WarningCloudy,moderate
+Coastal WarningCloudy,Light
+Cloudy,Rain
+Cloudy,Mist
+Cloudy,moderate
+Cloudy,Light
+Rain,Mist
+Rain,moderate
+Rain,Light
+Mist,moderate
+Mist,Light
+moderate,Light
+Fog And,Cloudy
+Fog And,Mist
+Fog And,cloudy
+Fog And,Overcast
+Cloudy,Mist
+Cloudy,cloudy
+Cloudy,Overcast
+Mist,cloudy
+Mist,Overcast
+cloudy,Overcast
+Cloudy,Mist
+Cloudy,And Mist
+Cloudy,mostly
+Cloudy,Overcast
+Mist,And Mist
+Mist,mostly
+Mist,Overcast
+And Mist,mostly
+And Mist,Overcast
+mostly,Overcast
+Cloudy,Mist
+Cloudy,mostly
+Cloudy,Fog Mist
+Cloudy,Overcast
+Mist,mostly
+Mist,Fog Mist
+Mist,Overcast
+mostly,Fog Mist
+mostly,Overcast
+Fog Mist,Overcast
+Cloudy,Rain
+Cloudy,Mist
+Cloudy,And Mist
+Cloudy,rain
+Cloudy,Overcast
+Rain,Mist
+Rain,And Mist
+Rain,rain
+Rain,Overcast
+Mist,And Mist
+Mist,rain
+Mist,Overcast
+And Mist,rain
+And Mist,Overcast
+rain,Overcast
+Mostly,Overcast
+Mostly,mostly
+Mostly,Cloudy
+Overcast,mostly
+Overcast,Cloudy
+mostly,Cloudy
+Clean,Cloudy
+Clean,Partly
+Clean,Clouds
+Clean,Clear
+Clean,Intermittent
+Clean,cloudy
+Clean,Overcast
+Cloudy,Partly
+Cloudy,Clouds
+Cloudy,Clear
+Cloudy,Intermittent
+Cloudy,cloudy
+Cloudy,Overcast
+Partly,Clouds
+Partly,Clear
+Partly,Intermittent
+Partly,cloudy
+Partly,Overcast
+Clouds,Clear
+Clouds,Intermittent
+Clouds,cloudy
+Clouds,Overcast
+Clear,Intermittent
+Clear,cloudy
+Clear,Overcast
+Intermittent,cloudy
+Intermittent,Overcast
+cloudy,Overcast
+Showers,Mostly
+Showers,Cloudy
+Showers,Clear
+Showers,Intermittent
+Showers,cloudy
+Showers,Overcast
+Mostly,Cloudy
+Mostly,Clear
+Mostly,Intermittent
+Mostly,cloudy
+Mostly,Overcast
+Cloudy,Clear
+Cloudy,Intermittent
+Cloudy,cloudy
+Cloudy,Overcast
+Clear,Intermittent
+Clear,cloudy
+Clear,Overcast
+Intermittent,cloudy
+Intermittent,Overcast
+cloudy,Overcast
+Showers,Mostly
+Showers,Cloudy
+Showers,Rain
+Showers,Light
+Showers,cloudy
+Showers,Overcast
+Mostly,Cloudy
+Mostly,Rain
+Mostly,Light
+Mostly,cloudy
+Mostly,Overcast
+Cloudy,Rain
+Cloudy,Light
+Cloudy,cloudy
+Cloudy,Overcast
+Rain,Light
+Rain,cloudy
+Rain,Overcast
+Light,cloudy
+Light,Overcast
+cloudy,Overcast
+light,Showers
+light,Mostly
+light,Cloudy
+light,Rain
+light,Light
+Showers,Mostly
+Showers,Cloudy
+Showers,Rain
+Showers,Light
+Mostly,Cloudy
+Mostly,Rain
+Mostly,Light
+Cloudy,Rain
+Cloudy,Light
+Rain,Light
+Mostly,Cloudy
+Mostly,And Sun
+Mostly,Intermittent
+Mostly,cloudy
+Cloudy,And Sun
+Cloudy,Intermittent
+Cloudy,cloudy
+And Sun,Intermittent
+And Sun,cloudy
+Intermittent,cloudy
+clear,Mostly
+clear,Partly
+clear,Cloudy
+clear,Clouds
+clear,Sunny
+Mostly,Partly
+Mostly,Cloudy
+Mostly,Clouds
+Mostly,Sunny
+Partly,Cloudy
+Partly,Clouds
+Partly,Sunny
+Cloudy,Clouds
+Cloudy,Sunny
+Clouds,Sunny
+Mostly,Cloudy
+Mostly,Some
+Mostly,Clouds
+Mostly,mostly
+Mostly,Overcast
+Cloudy,Some
+Cloudy,Clouds
+Cloudy,mostly
+Cloudy,Overcast
+Some,Clouds
+Some,mostly
+Some,Overcast
+Clouds,mostly
+Clouds,Overcast
+mostly,Overcast
+Mostly,Cloudy
+Mostly,mostly
+Mostly,Clear
+Mostly,Overcast
+Cloudy,mostly
+Cloudy,Clear
+Cloudy,Overcast
+mostly,Clear
+mostly,Overcast
+Clear,Overcast
+Mostly,Partly
+Mostly,cloudy
+Mostly,Cloudy
+Partly,cloudy
+Partly,Cloudy
+cloudy,Cloudy
+Mostly,Scattered
+Mostly,Cloudy
+Mostly,Partly
+Mostly,mostly
+Mostly,Clear
+Mostly,Sunny
+Scattered,Cloudy
+Scattered,Partly
+Scattered,mostly
+Scattered,Clear
+Scattered,Sunny
+Cloudy,Partly
+Cloudy,mostly
+Cloudy,Clear
+Cloudy,Sunny
+Partly,mostly
+Partly,Clear
+Partly,Sunny
+mostly,Clear
+mostly,Sunny
+Clear,Sunny
+clear,Mostly
+clear,Scattered
+clear,Partly
+clear,Cloudy
+clear,Clouds
+clear,Clear
+clear,Sunny
+Mostly,Scattered
+Mostly,Partly
+Mostly,Cloudy
+Mostly,Clouds
+Mostly,Clear
+Mostly,Sunny
+Scattered,Partly
+Scattered,Cloudy
+Scattered,Clouds
+Scattered,Clear
+Scattered,Sunny
+Partly,Cloudy
+Partly,Clouds
+Partly,Clear
+Partly,Sunny
+Cloudy,Clouds
+Cloudy,Clear
+Cloudy,Sunny
+Clouds,Clear
+Clouds,Sunny
+Clear,Sunny
+Mostly,Partly
+Mostly,Cloudy
+Mostly,Clouds
+Mostly,Clear
+Mostly,Sunny
+Mostly,sky
+Mostly,A Clouds
+Partly,Cloudy
+Partly,Clouds
+Partly,Clear
+Partly,Sunny
+Partly,sky
+Partly,A Clouds
+Cloudy,Clouds
+Cloudy,Clear
+Cloudy,Sunny
+Cloudy,sky
+Cloudy,A Clouds
+Clouds,Clear
+Clouds,Sunny
+Clouds,sky
+Clouds,A Clouds
+Clear,Sunny
+Clear,sky
+Clear,A Clouds
+Sunny,sky
+Sunny,A Clouds
+sky,A Clouds
+Sunny,Mostly
+Sunny,sky
+Sunny,Clean
+Mostly,sky
+Mostly,Clean
+sky,Clean
+Sunny,Mostly
+Sunny,sky
+Sunny,Clean
+Mostly,sky
+Mostly,Clean
+sky,Clean
+Cloudy,Winter storm
+Cloudy,mostly
+Cloudy,Light
+Cloudy,Overcast
+Winter storm,mostly
+Winter storm,Light
+Winter storm,Overcast
+mostly,Light
+mostly,Overcast
+Light,Overcast
+Sunny,Mostly
+Sunny,clear
+Sunny,Partly
+Mostly,clear
+Mostly,Partly
+clear,Partly
+Mostly,mostly
+Mostly,Cloudy
+mostly,Cloudy
+Mostly,mostly
+Mostly,Cloudy
+mostly,Cloudy
+Overcast,Short term
+Overcast,cloudy
+Overcast,Cloudy
+Short term,cloudy
+Short term,Cloudy
+cloudy,Cloudy
+Overcast,cloudy
+Overcast,Cloudy
+cloudy,Cloudy
+Overcast,mostly
+Overcast,Cloudy
+mostly,Cloudy
+Flurries,Cloudy
+Flurries,Snow
+Flurries,Fog/Lgt.Snow
+Flurries,mostly
+Flurries,Mixed
+Flurries,Snow Mist
+Flurries,term forecastSnow
+Flurries,Light
+Cloudy,Snow
+Cloudy,Fog/Lgt.Snow
+Cloudy,mostly
+Cloudy,Mixed
+Cloudy,Snow Mist
+Cloudy,term forecastSnow
+Cloudy,Light
+Snow,Fog/Lgt.Snow
+Snow,mostly
+Snow,Mixed
+Snow,Snow Mist
+Snow,term forecastSnow
+Snow,Light
+Fog/Lgt.Snow,mostly
+Fog/Lgt.Snow,Mixed
+Fog/Lgt.Snow,Snow Mist
+Fog/Lgt.Snow,term forecastSnow
+Fog/Lgt.Snow,Light
+mostly,Mixed
+mostly,Snow Mist
+mostly,term forecastSnow
+mostly,Light
+Mixed,Snow Mist
+Mixed,term forecastSnow
+Mixed,Light
+Snow Mist,term forecastSnow
+Snow Mist,Light
+term forecastSnow,Light
+Haze,snow
+Haze,Flurries
+Haze,Cloudy
+Haze,Snow
+Haze,Unclear
+snow,Flurries
+snow,Cloudy
+snow,Snow
+snow,Unclear
+Flurries,Cloudy
+Flurries,Snow
+Flurries,Unclear
+Cloudy,Snow
+Cloudy,Unclear
+Snow,Unclear
+Sunny,Overcast
+Sunny,mostly
+Sunny,Cloudy
+Overcast,mostly
+Overcast,Cloudy
+mostly,Cloudy
+Mostly,Overcast
+Mostly,mostly
+Mostly,Cloudy
+Overcast,mostly
+Overcast,Cloudy
+mostly,Cloudy
+Bkh,Mostly
+Bkh,Cloudy
+Bkh,Clouds
+Bkh,mostly
+Bkh,Clear
+Bkh,Sunny
+Mostly,Cloudy
+Mostly,Clouds
+Mostly,mostly
+Mostly,Clear
+Mostly,Sunny
+Cloudy,Clouds
+Cloudy,mostly
+Cloudy,Clear
+Cloudy,Sunny
+Clouds,mostly
+Clouds,Clear
+Clouds,Sunny
+mostly,Clear
+mostly,Sunny
+Clear,Sunny
+Bkh,Mostly
+Bkh,Cloudy
+Bkh,mostly
+Bkh,Clear
+Bkh,Intermittent
+Bkh,Sunny
+Mostly,Cloudy
+Mostly,mostly
+Mostly,Clear
+Mostly,Intermittent
+Mostly,Sunny
+Cloudy,mostly
+Cloudy,Clear
+Cloudy,Intermittent
+Cloudy,Sunny
+mostly,Clear
+mostly,Intermittent
+mostly,Sunny
+Clear,Intermittent
+Clear,Sunny
+Intermittent,Sunny
+Bkh,Mostly
+Bkh,Cloudy
+Bkh,mostly
+Bkh,Sunny
+Bkh,Overcast
+Mostly,Cloudy
+Mostly,mostly
+Mostly,Sunny
+Mostly,Overcast
+Cloudy,mostly
+Cloudy,Sunny
+Cloudy,Overcast
+mostly,Sunny
+mostly,Overcast
+Sunny,Overcast
+Sunny,Overcast
+Sunny,mostly
+Sunny,Cloudy
+Overcast,mostly
+Overcast,Cloudy
+mostly,Cloudy
+term forecastClear,Overcast
+term forecastClear,cloudy
+term forecastClear,Cloudy
+Overcast,cloudy
+Overcast,Cloudy
+cloudy,Cloudy
+Bkh,Mostly
+Bkh,Cloudy
+Bkh,Overcast Breezy
+Bkh,cloudy
+Bkh,Overcast
+Mostly,Cloudy
+Mostly,Overcast Breezy
+Mostly,cloudy
+Mostly,Overcast
+Cloudy,Overcast Breezy
+Cloudy,cloudy
+Cloudy,Overcast
+Overcast Breezy,cloudy
+Overcast Breezy,Overcast
+cloudy,Overcast
+Overcast,mostly
+Overcast,Cloudy
+mostly,Cloudy
+Bkh,Mostly
+Bkh,Partly
+Bkh,Cloudy
+Bkh,Sunny
+Bkh,cloudy
+Mostly,Partly
+Mostly,Cloudy
+Mostly,Sunny
+Mostly,cloudy
+Partly,Cloudy
+Partly,Sunny
+Partly,cloudy
+Cloudy,Sunny
+Cloudy,cloudy
+Sunny,cloudy
+clear,Mostly
+clear,Cloudy
+clear,Partly
+clear,Sunny
+Mostly,Cloudy
+Mostly,Partly
+Mostly,Sunny
+Cloudy,Partly
+Cloudy,Sunny
+Partly,Sunny
+Overcast,Lake Wind
+Overcast,cloudy
+Overcast,Cloudy
+Lake Wind,cloudy
+Lake Wind,Cloudy
+cloudy,Cloudy
+Mostly,Cloudy
+Mostly,Rain
+Mostly,mostly
+Mostly,Light
+Mostly,Overcast
+Cloudy,Rain
+Cloudy,mostly
+Cloudy,Light
+Cloudy,Overcast
+Rain,mostly
+Rain,Light
+Rain,Overcast
+mostly,Light
+mostly,Overcast
+Light,Overcast
+Cloudy,Rain
+Cloudy,Short forecastCloudy
+Cloudy,cloudy
+Cloudy,Overcast
+Rain,Short forecastCloudy
+Rain,cloudy
+Rain,Overcast
+Short forecastCloudy,cloudy
+Short forecastCloudy,Overcast
+cloudy,Overcast
+Cloudy,Rain
+Cloudy,rain
+Cloudy,Light
+Cloudy,Overcast
+Rain,rain
+Rain,Light
+Rain,Overcast
+rain,Light
+rain,Overcast
+Light,Overcast
+Overcast,cloudy
+Overcast,Cloudy
+cloudy,Cloudy
+clear,Few
+clear,Mostly
+clear,Partly
+clear,Cloudy
+clear,Sunny
+Few,Mostly
+Few,Partly
+Few,Cloudy
+Few,Sunny
+Mostly,Partly
+Mostly,Cloudy
+Mostly,Sunny
+Partly,Cloudy
+Partly,Sunny
+Cloudy,Sunny
+Few,Mostly
+Few,Partly
+Few,Cloudy
+Few,cloudy
+Mostly,Partly
+Mostly,Cloudy
+Mostly,cloudy
+Partly,Cloudy
+Partly,cloudy
+Cloudy,cloudy
+Clear,Partly
+Mostly,Cloudy
+Mostly,Partly
+Mostly,Some
+Mostly,Clouds
+Mostly,Clear
+Mostly,Sunny
+Mostly,cloudy
+Mostly,Clean
+Cloudy,Partly
+Cloudy,Some
+Cloudy,Clouds
+Cloudy,Clear
+Cloudy,Sunny
+Cloudy,cloudy
+Cloudy,Clean
+Partly,Some
+Partly,Clouds
+Partly,Clear
+Partly,Sunny
+Partly,cloudy
+Partly,Clean
+Some,Clouds
+Some,Clear
+Some,Sunny
+Some,cloudy
+Some,Clean
+Clouds,Clear
+Clouds,Sunny
+Clouds,cloudy
+Clouds,Clean
+Clear,Sunny
+Clear,cloudy
+Clear,Clean
+Sunny,cloudy
+Sunny,Clean
+cloudy,Clean
+Mostly,Intermittent
+Mostly,Partly
+Mostly,Cloudy
+Mostly,Clouds
+Mostly,mostly
+Mostly,Sunny
+Mostly,Clean
+Intermittent,Partly
+Intermittent,Cloudy
+Intermittent,Clouds
+Intermittent,mostly
+Intermittent,Sunny
+Intermittent,Clean
+Partly,Cloudy
+Partly,Clouds
+Partly,mostly
+Partly,Sunny
+Partly,Clean
+Cloudy,Clouds
+Cloudy,mostly
+Cloudy,Sunny
+Cloudy,Clean
+Clouds,mostly
+Clouds,Sunny
+Clouds,Clean
+mostly,Sunny
+mostly,Clean
+Sunny,Clean
+Mostly,Intermittent
+Mostly,Cloudy
+Mostly,Partly
+Mostly,Some
+Mostly,Clear
+Mostly,Sunny
+Mostly,cloudy
+Mostly,Clean
+Intermittent,Cloudy
+Intermittent,Partly
+Intermittent,Some
+Intermittent,Clear
+Intermittent,Sunny
+Intermittent,cloudy
+Intermittent,Clean
+Cloudy,Partly
+Cloudy,Some
+Cloudy,Clear
+Cloudy,Sunny
+Cloudy,cloudy
+Cloudy,Clean
+Partly,Some
+Partly,Clear
+Partly,Sunny
+Partly,cloudy
+Partly,Clean
+Some,Clear
+Some,Sunny
+Some,cloudy
+Some,Clean
+Clear,Sunny
+Clear,cloudy
+Clear,Clean
+Sunny,cloudy
+Sunny,Clean
+cloudy,Clean
+Mostly,Intermittent
+Mostly,Cloudy
+Mostly,Sunny
+Mostly,Clouds Sun
+Mostly,cloudy
+Mostly,Clean
+Intermittent,Cloudy
+Intermittent,Sunny
+Intermittent,Clouds Sun
+Intermittent,cloudy
+Intermittent,Clean
+Cloudy,Sunny
+Cloudy,Clouds Sun
+Cloudy,cloudy
+Cloudy,Clean
+Sunny,Clouds Sun
+Sunny,cloudy
+Sunny,Clean
+Clouds Sun,cloudy
+Clouds Sun,Clean
+cloudy,Clean
+Clouds And,Mostly
+Clouds And,Cloudy
+Clouds And,Partly
+Clouds And,Intermittent
+Clouds And,Sunny
+Clouds And,cloudy
+Clouds And,Clean
+Mostly,Cloudy
+Mostly,Partly
+Mostly,Intermittent
+Mostly,Sunny
+Mostly,cloudy
+Mostly,Clean
+Cloudy,Partly
+Cloudy,Intermittent
+Cloudy,Sunny
+Cloudy,cloudy
+Cloudy,Clean
+Partly,Intermittent
+Partly,Sunny
+Partly,cloudy
+Partly,Clean
+Intermittent,Sunny
+Intermittent,cloudy
+Intermittent,Clean
+Sunny,cloudy
+Sunny,Clean
+cloudy,Clean
+Mostly,Intermittent
+Mostly,Cloudy
+Mostly,Partly
+Mostly,Some
+Mostly,Clouds
+Mostly,Sunny
+Mostly,cloudy
+Mostly,Clean
+Intermittent,Cloudy
+Intermittent,Partly
+Intermittent,Some
+Intermittent,Clouds
+Intermittent,Sunny
+Intermittent,cloudy
+Intermittent,Clean
+Cloudy,Partly
+Cloudy,Some
+Cloudy,Clouds
+Cloudy,Sunny
+Cloudy,cloudy
+Cloudy,Clean
+Partly,Some
+Partly,Clouds
+Partly,Sunny
+Partly,cloudy
+Partly,Clean
+Some,Clouds
+Some,Sunny
+Some,cloudy
+Some,Clean
+Clouds,Sunny
+Clouds,cloudy
+Clouds,Clean
+Sunny,cloudy
+Sunny,Clean
+cloudy,Clean
+Mostly,Intermittent
+Mostly,Cloudy
+Mostly,Partly
+Mostly,Some
+Mostly,Clouds
+Mostly,mostly
+Mostly,Sunny
+Mostly,Clean
+Intermittent,Cloudy
+Intermittent,Partly
+Intermittent,Some
+Intermittent,Clouds
+Intermittent,mostly
+Intermittent,Sunny
+Intermittent,Clean
+Cloudy,Partly
+Cloudy,Some
+Cloudy,Clouds
+Cloudy,mostly
+Cloudy,Sunny
+Cloudy,Clean
+Partly,Some
+Partly,Clouds
+Partly,mostly
+Partly,Sunny
+Partly,Clean
+Some,Clouds
+Some,mostly
+Some,Sunny
+Some,Clean
+Clouds,mostly
+Clouds,Sunny
+Clouds,Clean
+mostly,Sunny
+mostly,Clean
+Sunny,Clean
+Mostly,Intermittent
+Mostly,Some
+Mostly,Clouds
+Mostly,Sunny
+Mostly,cloudy
+Mostly,Clean
+Intermittent,Some
+Intermittent,Clouds
+Intermittent,Sunny
+Intermittent,cloudy
+Intermittent,Clean
+Some,Clouds
+Some,Sunny
+Some,cloudy
+Some,Clean
+Clouds,Sunny
+Clouds,cloudy
+Clouds,Clean
+Sunny,cloudy
+Sunny,Clean
+cloudy,Clean
+Mostly,Cloudy
+Mostly,Partly
+Mostly,Clear
+Mostly,Sunny
+Mostly,sky
+Mostly,A Clouds
+Mostly,Clean
+Cloudy,Partly
+Cloudy,Clear
+Cloudy,Sunny
+Cloudy,sky
+Cloudy,A Clouds
+Cloudy,Clean
+Partly,Clear
+Partly,Sunny
+Partly,sky
+Partly,A Clouds
+Partly,Clean
+Clear,Sunny
+Clear,sky
+Clear,A Clouds
+Clear,Clean
+Sunny,sky
+Sunny,A Clouds
+Sunny,Clean
+sky,A Clouds
+sky,Clean
+A Clouds,Clean
+Cloudy,Partly
+Cloudy,Sunny
+Cloudy,sky
+Cloudy,Clean
+Partly,Sunny
+Partly,sky
+Partly,Clean
+Sunny,sky
+Sunny,Clean
+sky,Clean
+Sunny,Partly
+Sunny,clear
+Sunny,Clean
+Partly,clear
+Partly,Clean
+clear,Clean
+Sunny,Mostly
+Sunny,sky
+Sunny,Clean
+Mostly,sky
+Mostly,Clean
+sky,Clean
+Sunny,sky
+Sunny,Clean
+sky,Clean
+Mostly,Cloudy
+Mostly,Partly
+Mostly,Clear
+Mostly,Sunny
+Mostly,sky
+Mostly,Clean
+Cloudy,Partly
+Cloudy,Clear
+Cloudy,Sunny
+Cloudy,sky
+Cloudy,Clean
+Partly,Clear
+Partly,Sunny
+Partly,sky
+Partly,Clean
+Clear,Sunny
+Clear,sky
+Clear,Clean
+Sunny,sky
+Sunny,Clean
+sky,Clean
+clear,Mostly
+clear,Cloudy
+clear,Partly
+clear,Clear
+clear,Sunny
+clear,Clean
+Mostly,Cloudy
+Mostly,Partly
+Mostly,Clear
+Mostly,Sunny
+Mostly,Clean
+Cloudy,Partly
+Cloudy,Clear
+Cloudy,Sunny
+Cloudy,Clean
+Partly,Clear
+Partly,Sunny
+Partly,Clean
+Clear,Sunny
+Clear,Clean
+Sunny,Clean
+Scattered,Cloudy
+Scattered,Partly
+Scattered,Sunny
+Scattered,sky
+Scattered,Clean
+Cloudy,Partly
+Cloudy,Sunny
+Cloudy,sky
+Cloudy,Clean
+Partly,Sunny
+Partly,sky
+Partly,Clean
+Sunny,sky
+Sunny,Clean
+sky,Clean
+Mostly,Intermittent
+Mostly,Cloudy
+Mostly,Some
+Mostly,Clouds
+Mostly,mostly
+Mostly,Clear
+Mostly,Sunny
+Intermittent,Cloudy
+Intermittent,Some
+Intermittent,Clouds
+Intermittent,mostly
+Intermittent,Clear
+Intermittent,Sunny
+Cloudy,Some
+Cloudy,Clouds
+Cloudy,mostly
+Cloudy,Clear
+Cloudy,Sunny
+Some,Clouds
+Some,mostly
+Some,Clear
+Some,Sunny
+Clouds,mostly
+Clouds,Clear
+Clouds,Sunny
+mostly,Clear
+mostly,Sunny
+Clear,Sunny
+Mostly,Partly
+Mostly,Cloudy
+Mostly,Clouds
+Mostly,mostly
+Partly,Cloudy
+Partly,Clouds
+Partly,mostly
+Cloudy,Clouds
+Cloudy,mostly
+Clouds,mostly
+Few,Mostly
+Few,Partly
+Few,Cloudy
+Few,Clouds
+Few,mostly
+Few,And Sun
+Few,Sunny
+Mostly,Partly
+Mostly,Cloudy
+Mostly,Clouds
+Mostly,mostly
+Mostly,And Sun
+Mostly,Sunny
+Partly,Cloudy
+Partly,Clouds
+Partly,mostly
+Partly,And Sun
+Partly,Sunny
+Cloudy,Clouds
+Cloudy,mostly
+Cloudy,And Sun
+Cloudy,Sunny
+Clouds,mostly
+Clouds,And Sun
+Clouds,Sunny
+mostly,And Sun
+mostly,Sunny
+And Sun,Sunny
+Mostly,Intermittent
+Mostly,Partly
+Mostly,Cloudy
+Mostly,Clouds
+Mostly,Sunny
+Mostly,Clouds Sun
+Mostly,cloudy
+Intermittent,Partly
+Intermittent,Cloudy
+Intermittent,Clouds
+Intermittent,Sunny
+Intermittent,Clouds Sun
+Intermittent,cloudy
+Partly,Cloudy
+Partly,Clouds
+Partly,Sunny
+Partly,Clouds Sun
+Partly,cloudy
+Cloudy,Clouds
+Cloudy,Sunny
+Cloudy,Clouds Sun
+Cloudy,cloudy
+Clouds,Sunny
+Clouds,Clouds Sun
+Clouds,cloudy
+Sunny,Clouds Sun
+Sunny,cloudy
+Clouds Sun,cloudy
+Clouds And,Mostly
+Clouds And,Intermittent
+Clouds And,Cloudy
+Clouds And,Clouds
+Clouds And,Sunny
+Clouds And,cloudy
+Clouds And,Clean
+Mostly,Intermittent
+Mostly,Cloudy
+Mostly,Clouds
+Mostly,Sunny
+Mostly,cloudy
+Mostly,Clean
+Intermittent,Cloudy
+Intermittent,Clouds
+Intermittent,Sunny
+Intermittent,cloudy
+Intermittent,Clean
+Cloudy,Clouds
+Cloudy,Sunny
+Cloudy,cloudy
+Cloudy,Clean
+Clouds,Sunny
+Clouds,cloudy
+Clouds,Clean
+Sunny,cloudy
+Sunny,Clean
+cloudy,Clean
+Mostly,Intermittent
+Mostly,Cloudy
+Mostly,Partly
+Mostly,Clouds
+Mostly,mostly
+Mostly,Sunny
+Mostly,Clouds Sun
+Mostly,Clean
+Intermittent,Cloudy
+Intermittent,Partly
+Intermittent,Clouds
+Intermittent,mostly
+Intermittent,Sunny
+Intermittent,Clouds Sun
+Intermittent,Clean
+Cloudy,Partly
+Cloudy,Clouds
+Cloudy,mostly
+Cloudy,Sunny
+Cloudy,Clouds Sun
+Cloudy,Clean
+Partly,Clouds
+Partly,mostly
+Partly,Sunny
+Partly,Clouds Sun
+Partly,Clean
+Clouds,mostly
+Clouds,Sunny
+Clouds,Clouds Sun
+Clouds,Clean
+mostly,Sunny
+mostly,Clouds Sun
+mostly,Clean
+Sunny,Clouds Sun
+Sunny,Clean
+Clouds Sun,Clean
+Mostly,Intermittent
+Mostly,Cloudy
+Mostly,Sunny
+Mostly,Clouds Sun
+Mostly,cloudy
+Mostly,Clean
+Intermittent,Cloudy
+Intermittent,Sunny
+Intermittent,Clouds Sun
+Intermittent,cloudy
+Intermittent,Clean
+Cloudy,Sunny
+Cloudy,Clouds Sun
+Cloudy,cloudy
+Cloudy,Clean
+Sunny,Clouds Sun
+Sunny,cloudy
+Sunny,Clean
+Clouds Sun,cloudy
+Clouds Sun,Clean
+cloudy,Clean
+clear,Mostly
+clear,Cloudy
+clear,Partly
+clear,Clear
+clear,Sunny
+clear,Clean
+Mostly,Cloudy
+Mostly,Partly
+Mostly,Clear
+Mostly,Sunny
+Mostly,Clean
+Cloudy,Partly
+Cloudy,Clear
+Cloudy,Sunny
+Cloudy,Clean
+Partly,Clear
+Partly,Sunny
+Partly,Clean
+Clear,Sunny
+Clear,Clean
+Sunny,Clean
+clear,Mostly
+clear,Scattered
+clear,Partly
+clear,Sunny
+clear,Clean
+Mostly,Scattered
+Mostly,Partly
+Mostly,Sunny
+Mostly,Clean
+Scattered,Partly
+Scattered,Sunny
+Scattered,Clean
+Partly,Sunny
+Partly,Clean
+Sunny,Clean
+clear,Mostly
+clear,Cloudy
+clear,Partly
+clear,Clouds
+clear,Sunny
+clear,Clean
+Mostly,Cloudy
+Mostly,Partly
+Mostly,Clouds
+Mostly,Sunny
+Mostly,Clean
+Cloudy,Partly
+Cloudy,Clouds
+Cloudy,Sunny
+Cloudy,Clean
+Partly,Clouds
+Partly,Sunny
+Partly,Clean
+Clouds,Sunny
+Clouds,Clean
+Sunny,Clean
+clear,Mostly
+clear,Partly
+clear,Sunny
+clear,Clean
+Mostly,Partly
+Mostly,Sunny
+Mostly,Clean
+Partly,Sunny
+Partly,Clean
+Sunny,Clean
+Sunny,clear
+Sunny,Clear
+Sunny,Clean
+clear,Clear
+clear,Clean
+Clear,Clean
+Intermittent,Clear
+Intermittent,Sunny
+Intermittent,sky
+Intermittent,Clean
+Clear,Sunny
+Clear,sky
+Clear,Clean
+Sunny,sky
+Sunny,Clean
+sky,Clean
+Sunny,Partly
+Sunny,sky
+Sunny,Clean
+Partly,sky
+Partly,Clean
+sky,Clean
+Sunny,Mostly
+Sunny,sky
+Sunny,Clean
+Mostly,sky
+Mostly,Clean
+sky,Clean
+Haze,Mostly
+Haze,Unclear
+Haze,Sunny
+Haze,sky
+Haze,Clean
+Mostly,Unclear
+Mostly,Sunny
+Mostly,sky
+Mostly,Clean
+Unclear,Sunny
+Unclear,sky
+Unclear,Clean
+Sunny,sky
+Sunny,Clean
+sky,Clean
+Mostly,High AdvisoryClear
+Mostly,Sunny
+Mostly,sky
+Mostly,Clean
+High AdvisoryClear,Sunny
+High AdvisoryClear,sky
+High AdvisoryClear,Clean
+Sunny,sky
+Sunny,Clean
+sky,Clean
+Haze,clear
+Haze,Mostly
+Haze,Cloudy
+Haze,Partly
+Haze,Mist
+Haze,Unclear
+Haze,High AdvisoryHaze
+clear,Mostly
+clear,Cloudy
+clear,Partly
+clear,Mist
+clear,Unclear
+clear,High AdvisoryHaze
+Mostly,Cloudy
+Mostly,Partly
+Mostly,Mist
+Mostly,Unclear
+Mostly,High AdvisoryHaze
+Cloudy,Partly
+Cloudy,Mist
+Cloudy,Unclear
+Cloudy,High AdvisoryHaze
+Partly,Mist
+Partly,Unclear
+Partly,High AdvisoryHaze
+Mist,Unclear
+Mist,High AdvisoryHaze
+Unclear,High AdvisoryHaze
+Haze,Moonlight
+Haze,Hazy
+Haze,Partly
+Haze,Cloudy
+Haze,Mist
+Haze,Unclear
+Haze,Sunny
+Haze,sky
+Haze,High AdvisoryHaze
+Haze,Clean
+Moonlight,Hazy
+Moonlight,Partly
+Moonlight,Cloudy
+Moonlight,Mist
+Moonlight,Unclear
+Moonlight,Sunny
+Moonlight,sky
+Moonlight,High AdvisoryHaze
+Moonlight,Clean
+Hazy,Partly
+Hazy,Cloudy
+Hazy,Mist
+Hazy,Unclear
+Hazy,Sunny
+Hazy,sky
+Hazy,High AdvisoryHaze
+Hazy,Clean
+Partly,Cloudy
+Partly,Mist
+Partly,Unclear
+Partly,Sunny
+Partly,sky
+Partly,High AdvisoryHaze
+Partly,Clean
+Cloudy,Mist
+Cloudy,Unclear
+Cloudy,Sunny
+Cloudy,sky
+Cloudy,High AdvisoryHaze
+Cloudy,Clean
+Mist,Unclear
+Mist,Sunny
+Mist,sky
+Mist,High AdvisoryHaze
+Mist,Clean
+Unclear,Sunny
+Unclear,sky
+Unclear,High AdvisoryHaze
+Unclear,Clean
+Sunny,sky
+Sunny,High AdvisoryHaze
+Sunny,Clean
+sky,High AdvisoryHaze
+sky,Clean
+High AdvisoryHaze,Clean
+clear,Fog
+clear,Coastal Flood
+clear,Mist
+clear,Clear
+clear,Sunny
+clear,Clean
+Fog,Coastal Flood
+Fog,Mist
+Fog,Clear
+Fog,Sunny
+Fog,Clean
+Coastal Flood,Mist
+Coastal Flood,Clear
+Coastal Flood,Sunny
+Coastal Flood,Clean
+Mist,Clear
+Mist,Sunny
+Mist,Clean
+Clear,Sunny
+Clear,Clean
+Sunny,Clean
+Haze,Mostly
+Haze,Hazy
+Haze,Coastal Flood
+Haze,Mist
+Haze,Unclear
+Haze,Sunshine
+Haze,Sunny
+Haze,sky
+Mostly,Hazy
+Mostly,Coastal Flood
+Mostly,Mist
+Mostly,Unclear
+Mostly,Sunshine
+Mostly,Sunny
+Mostly,sky
+Hazy,Coastal Flood
+Hazy,Mist
+Hazy,Unclear
+Hazy,Sunshine
+Hazy,Sunny
+Hazy,sky
+Coastal Flood,Mist
+Coastal Flood,Unclear
+Coastal Flood,Sunshine
+Coastal Flood,Sunny
+Coastal Flood,sky
+Mist,Unclear
+Mist,Sunshine
+Mist,Sunny
+Mist,sky
+Unclear,Sunshine
+Unclear,Sunny
+Unclear,sky
+Sunshine,Sunny
+Sunshine,sky
+Sunny,sky
+Haze,clear
+Haze,Fog
+Haze,Mist
+Haze,Unclear
+Haze,Sunny
+Haze,Coastal StatementHaze
+Haze,Clean
+clear,Fog
+clear,Mist
+clear,Unclear
+clear,Sunny
+clear,Coastal StatementHaze
+clear,Clean
+Fog,Mist
+Fog,Unclear
+Fog,Sunny
+Fog,Coastal StatementHaze
+Fog,Clean
+Mist,Unclear
+Mist,Sunny
+Mist,Coastal StatementHaze
+Mist,Clean
+Unclear,Sunny
+Unclear,Coastal StatementHaze
+Unclear,Clean
+Sunny,Coastal StatementHaze
+Sunny,Clean
+Coastal StatementHaze,Clean
+Haze,clear
+Haze,Mist
+Haze,Unclear
+Haze,Sunny
+Haze,Flood StatementHaze
+Haze,Clean
+clear,Mist
+clear,Unclear
+clear,Sunny
+clear,Flood StatementHaze
+clear,Clean
+Mist,Unclear
+Mist,Sunny
+Mist,Flood StatementHaze
+Mist,Clean
+Unclear,Sunny
+Unclear,Flood StatementHaze
+Unclear,Clean
+Sunny,Flood StatementHaze
+Sunny,Clean
+Flood StatementHaze,Clean
+clear,Flood StatementClear
+clear,Clear
+clear,Sunny
+clear,Clean
+Flood StatementClear,Clear
+Flood StatementClear,Sunny
+Flood StatementClear,Clean
+Clear,Sunny
+Clear,Clean
+Sunny,Clean
+Haze,clear
+Haze,Mostly
+Haze,Coastal Flood
+Haze,Sunny
+Haze,Clean
+clear,Mostly
+clear,Coastal Flood
+clear,Sunny
+clear,Clean
+Mostly,Coastal Flood
+Mostly,Sunny
+Mostly,Clean
+Coastal Flood,Sunny
+Coastal Flood,Clean
+Sunny,Clean
+Sunny,sky
+Sunny,Special weather
+Sunny,Clean
+sky,Special weather
+sky,Clean
+Special weather,Clean
+clear,Mostly
+clear,Clear
+clear,Sunny
+clear,Clean
+Mostly,Clear
+Mostly,Sunny
+Mostly,Clean
+Clear,Sunny
+Clear,Clean
+Sunny,Clean
+clear,Mostly
+clear,Partly
+clear,Sunny
+clear,Clean
+Mostly,Partly
+Mostly,Sunny
+Mostly,Clean
+Partly,Sunny
+Partly,Clean
+Sunny,Clean
+Haze,Partly
+Haze,Cloudy
+Haze,Mist
+Haze,Unclear
+Haze,mostly
+Partly,Cloudy
+Partly,Mist
+Partly,Unclear
+Partly,mostly
+Cloudy,Mist
+Cloudy,Unclear
+Cloudy,mostly
+Mist,Unclear
+Mist,mostly
+Unclear,mostly
+clear,Haze
+clear,Hazy
+clear,Cloudy
+clear,Unclear
+Haze,Hazy
+Haze,Cloudy
+Haze,Unclear
+Hazy,Cloudy
+Hazy,Unclear
+Cloudy,Unclear
+Sunny,Mostly
+Sunny,sky
+Sunny,Clean
+Mostly,sky
+Mostly,Clean
+sky,Clean
+Mostly,Mist
+Mostly,Sunny
+Mostly,sky
+Mostly,Clean
+Mist,Sunny
+Mist,sky
+Mist,Clean
+Sunny,sky
+Sunny,Clean
+sky,Clean
+clear,Mostly
+clear,Mist
+clear,Sunny
+clear,Clean
+Mostly,Mist
+Mostly,Sunny
+Mostly,Clean
+Mist,Sunny
+Mist,Clean
+Sunny,Clean
+Overcast,Weather
+Overcast,mostly
+Overcast,Cloudy
+Weather,mostly
+Weather,Cloudy
+mostly,Cloudy
+Freezing,Light Rain
+Freezing,Weather
+Freezing,Freezing Rain
+Freezing,Rain
+Freezing,mostly
+Freezing,Light Rain and Breezy
+Freezing,Light Freezing
+Freezing,Sleet
+Freezing,Overcast
+Light Rain,Weather
+Light Rain,Freezing Rain
+Light Rain,Rain
+Light Rain,mostly
+Light Rain,Light Rain and Breezy
+Light Rain,Light Freezing
+Light Rain,Sleet
+Light Rain,Overcast
+Weather,Freezing Rain
+Weather,Rain
+Weather,mostly
+Weather,Light Rain and Breezy
+Weather,Light Freezing
+Weather,Sleet
+Weather,Overcast
+Freezing Rain,Rain
+Freezing Rain,mostly
+Freezing Rain,Light Rain and Breezy
+Freezing Rain,Light Freezing
+Freezing Rain,Sleet
+Freezing Rain,Overcast
+Rain,mostly
+Rain,Light Rain and Breezy
+Rain,Light Freezing
+Rain,Sleet
+Rain,Overcast
+mostly,Light Rain and Breezy
+mostly,Light Freezing
+mostly,Sleet
+mostly,Overcast
+Light Rain and Breezy,Light Freezing
+Light Rain and Breezy,Sleet
+Light Rain and Breezy,Overcast
+Light Freezing,Sleet
+Light Freezing,Overcast
+Sleet,Overcast
+Mostly,Cloudy
+Mostly,Partly
+Mostly,Clouds
+Mostly,mostly
+Mostly,Clear
+Cloudy,Partly
+Cloudy,Clouds
+Cloudy,mostly
+Cloudy,Clear
+Partly,Clouds
+Partly,mostly
+Partly,Clear
+Clouds,mostly
+Clouds,Clear
+mostly,Clear
+Mostly,Partly
+Mostly,Cloudy
+Mostly,Clouds
+Mostly,Intermittent
+Mostly,cloudy
+Partly,Cloudy
+Partly,Clouds
+Partly,Intermittent
+Partly,cloudy
+Cloudy,Clouds
+Cloudy,Intermittent
+Cloudy,cloudy
+Clouds,Intermittent
+Clouds,cloudy
+Intermittent,cloudy
+Overcast,cloudy
+Overcast,Cloudy
+cloudy,Cloudy
+Mist/Light Freezing Rain Fog,WarningsRain
+Mist/Light Freezing Rain Fog,Freezing
+Mist/Light Freezing Rain Fog,Light Rain
+Mist/Light Freezing Rain Fog,Freezing Rain Mist
+Mist/Light Freezing Rain Fog,Rain
+Mist/Light Freezing Rain Fog,mostly
+Mist/Light Freezing Rain Fog,Drizzle
+Mist/Light Freezing Rain Fog,Light Freezing
+WarningsRain,Freezing
+WarningsRain,Light Rain
+WarningsRain,Freezing Rain Mist
+WarningsRain,Rain
+WarningsRain,mostly
+WarningsRain,Drizzle
+WarningsRain,Light Freezing
+Freezing,Light Rain
+Freezing,Freezing Rain Mist
+Freezing,Rain
+Freezing,mostly
+Freezing,Drizzle
+Freezing,Light Freezing
+Light Rain,Freezing Rain Mist
+Light Rain,Rain
+Light Rain,mostly
+Light Rain,Drizzle
+Light Rain,Light Freezing
+Freezing Rain Mist,Rain
+Freezing Rain Mist,mostly
+Freezing Rain Mist,Drizzle
+Freezing Rain Mist,Light Freezing
+Rain,mostly
+Rain,Drizzle
+Rain,Light Freezing
+mostly,Drizzle
+mostly,Light Freezing
+Drizzle,Light Freezing
+Mist/Light Freezing Rain Fog,Freezing
+Mist/Light Freezing Rain Fog,Weather
+Mist/Light Freezing Rain Fog,Rain
+Mist/Light Freezing Rain Fog,"""Light Drizzle"
+Mist/Light Freezing Rain Fog,Light Freezing
+Mist/Light Freezing Rain Fog,Light Freezing Drizzle
+Mist/Light Freezing Rain Fog,cloudy
+Freezing,Weather
+Freezing,Rain
+Freezing,"""Light Drizzle"
+Freezing,Light Freezing
+Freezing,Light Freezing Drizzle
+Freezing,cloudy
+Weather,Rain
+Weather,"""Light Drizzle"
+Weather,Light Freezing
+Weather,Light Freezing Drizzle
+Weather,cloudy
+Rain,"""Light Drizzle"
+Rain,Light Freezing
+Rain,Light Freezing Drizzle
+Rain,cloudy
+"""Light Drizzle",Light Freezing
+"""Light Drizzle",Light Freezing Drizzle
+"""Light Drizzle",cloudy
+Light Freezing,Light Freezing Drizzle
+Light Freezing,cloudy
+Light Freezing Drizzle,cloudy
+Freezing Drizzle Mist,WarningsFog
+Freezing Drizzle Mist,Frz.Drizzle
+Freezing Drizzle Mist,Freezing
+Freezing Drizzle Mist,Rain
+Freezing Drizzle Mist,Light Drizzle
+Freezing Drizzle Mist,Mist/Light Freezing Drizzle Fog
+Freezing Drizzle Mist,Light
+Freezing Drizzle Mist,cloudy
+WarningsFog,Frz.Drizzle
+WarningsFog,Freezing
+WarningsFog,Rain
+WarningsFog,Light Drizzle
+WarningsFog,Mist/Light Freezing Drizzle Fog
+WarningsFog,Light
+WarningsFog,cloudy
+Frz.Drizzle,Freezing
+Frz.Drizzle,Rain
+Frz.Drizzle,Light Drizzle
+Frz.Drizzle,Mist/Light Freezing Drizzle Fog
+Frz.Drizzle,Light
+Frz.Drizzle,cloudy
+Freezing,Rain
+Freezing,Light Drizzle
+Freezing,Mist/Light Freezing Drizzle Fog
+Freezing,Light
+Freezing,cloudy
+Rain,Light Drizzle
+Rain,Mist/Light Freezing Drizzle Fog
+Rain,Light
+Rain,cloudy
+Light Drizzle,Mist/Light Freezing Drizzle Fog
+Light Drizzle,Light
+Light Drizzle,cloudy
+Mist/Light Freezing Drizzle Fog,Light
+Mist/Light Freezing Drizzle Fog,cloudy
+Light,cloudy
+WarningsFog,Freezing
+WarningsFog,Cloudy
+WarningsFog,Light Freezing Mist
+WarningsFog,Lgt.Frz.Driz.
+WarningsFog,Mist/Light Freezing Drizzle Fog
+WarningsFog,mostly
+WarningsFog,Light Freezing
+Freezing,Cloudy
+Freezing,Light Freezing Mist
+Freezing,Lgt.Frz.Driz.
+Freezing,Mist/Light Freezing Drizzle Fog
+Freezing,mostly
+Freezing,Light Freezing
+Cloudy,Light Freezing Mist
+Cloudy,Lgt.Frz.Driz.
+Cloudy,Mist/Light Freezing Drizzle Fog
+Cloudy,mostly
+Cloudy,Light Freezing
+Light Freezing Mist,Lgt.Frz.Driz.
+Light Freezing Mist,Mist/Light Freezing Drizzle Fog
+Light Freezing Mist,mostly
+Light Freezing Mist,Light Freezing
+Lgt.Frz.Driz.,Mist/Light Freezing Drizzle Fog
+Lgt.Frz.Driz.,mostly
+Lgt.Frz.Driz.,Light Freezing
+Mist/Light Freezing Drizzle Fog,mostly
+Mist/Light Freezing Drizzle Fog,Light Freezing
+mostly,Light Freezing
+Freezing,Weather
+Freezing,Lgt.Frz.Driz.
+Freezing,Rain
+Freezing,Light Drizzle
+Freezing,Drizzle
+Freezing,Freezing Drizzle
+Freezing,cloudy
+Weather,Lgt.Frz.Driz.
+Weather,Rain
+Weather,Light Drizzle
+Weather,Drizzle
+Weather,Freezing Drizzle
+Weather,cloudy
+Lgt.Frz.Driz.,Rain
+Lgt.Frz.Driz.,Light Drizzle
+Lgt.Frz.Driz.,Drizzle
+Lgt.Frz.Driz.,Freezing Drizzle
+Lgt.Frz.Driz.,cloudy
+Rain,Light Drizzle
+Rain,Drizzle
+Rain,Freezing Drizzle
+Rain,cloudy
+Light Drizzle,Drizzle
+Light Drizzle,Freezing Drizzle
+Light Drizzle,cloudy
+Drizzle,Freezing Drizzle
+Drizzle,cloudy
+Freezing Drizzle,cloudy
+Freezing,Freezing Rain Mist
+Freezing,Freezing Rain
+Freezing,Cloudy
+Freezing,Lgt.Frz.Driz.
+Freezing,Light Drizzle
+Freezing,mostly
+Freezing,WarningsDrizzle
+Freezing,Light Freezing
+Freezing Rain Mist,Freezing Rain
+Freezing Rain Mist,Cloudy
+Freezing Rain Mist,Lgt.Frz.Driz.
+Freezing Rain Mist,Light Drizzle
+Freezing Rain Mist,mostly
+Freezing Rain Mist,WarningsDrizzle
+Freezing Rain Mist,Light Freezing
+Freezing Rain,Cloudy
+Freezing Rain,Lgt.Frz.Driz.
+Freezing Rain,Light Drizzle
+Freezing Rain,mostly
+Freezing Rain,WarningsDrizzle
+Freezing Rain,Light Freezing
+Cloudy,Lgt.Frz.Driz.
+Cloudy,Light Drizzle
+Cloudy,mostly
+Cloudy,WarningsDrizzle
+Cloudy,Light Freezing
+Lgt.Frz.Driz.,Light Drizzle
+Lgt.Frz.Driz.,mostly
+Lgt.Frz.Driz.,WarningsDrizzle
+Lgt.Frz.Driz.,Light Freezing
+Light Drizzle,mostly
+Light Drizzle,WarningsDrizzle
+Light Drizzle,Light Freezing
+mostly,WarningsDrizzle
+mostly,Light Freezing
+WarningsDrizzle,Light Freezing
+Overcast,mostly
+Overcast,Cloudy
+mostly,Cloudy
+Freezing AdvisoryClear,Clear
+Freezing AdvisoryClear,Sunny
+Freezing AdvisoryClear,sky
+Freezing AdvisoryClear,Clean
+Clear,Sunny
+Clear,sky
+Clear,Clean
+Sunny,sky
+Sunny,Clean
+sky,Clean
+clear,Mostly
+clear,Scattered
+clear,Partly
+clear,Cloudy
+clear,Sunny
+Mostly,Scattered
+Mostly,Partly
+Mostly,Cloudy
+Mostly,Sunny
+Scattered,Partly
+Scattered,Cloudy
+Scattered,Sunny
+Partly,Cloudy
+Partly,Sunny
+Cloudy,Sunny
+Overcast,cloudy
+Overcast,Cloudy
+cloudy,Cloudy
+Overcast,cloudy
+Overcast,Cloudy
+cloudy,Cloudy
+Overcast,cloudy
+Overcast,Cloudy
+cloudy,Cloudy
+Overcast,mostly
+Overcast,Cloudy
+mostly,Cloudy
+Winter storm,Overcast
+Winter storm,cloudy
+Winter storm,Cloudy
+Overcast,cloudy
+Overcast,Cloudy
+cloudy,Cloudy
+Overcast,mostly
+Overcast,Cloudy
+mostly,Cloudy
+Overcast,cloudy
+Overcast,Cloudy
+cloudy,Cloudy
+Overcast,mostly
+Overcast,Cloudy
+mostly,Cloudy
+Sunny,Mostly
+Sunny,cloudy
+Sunny,Cloudy
+Mostly,cloudy
+Mostly,Cloudy
+cloudy,Cloudy
+Sunny,clear
+Sunny,Clear
+Sunny,Clean
+clear,Clear
+clear,Clean
+Clear,Clean
+Sunny,Mostly
+Sunny,clear
+Sunny,Clean
+Mostly,clear
+Mostly,Clean
+clear,Clean
+clear,Few
+clear,Short term
+clear,Mostly
+clear,Cloudy
+clear,Sunny
+clear,Clean
+Few,Short term
+Few,Mostly
+Few,Cloudy
+Few,Sunny
+Few,Clean
+Short term,Mostly
+Short term,Cloudy
+Short term,Sunny
+Short term,Clean
+Mostly,Cloudy
+Mostly,Sunny
+Mostly,Clean
+Cloudy,Sunny
+Cloudy,Clean
+Sunny,Clean
+Clouds And,Mostly
+Clouds And,Cloudy
+Clouds And,mostly
+Clouds And,Intermittent
+Mostly,Cloudy
+Mostly,mostly
+Mostly,Intermittent
+Cloudy,mostly
+Cloudy,Intermittent
+mostly,Intermittent
+Few,Mostly
+Few,Cloudy
+Few,Partly
+Few,Clear
+Few,Sunny
+Few,sky
+Few,A Clouds
+Mostly,Cloudy
+Mostly,Partly
+Mostly,Clear
+Mostly,Sunny
+Mostly,sky
+Mostly,A Clouds
+Cloudy,Partly
+Cloudy,Clear
+Cloudy,Sunny
+Cloudy,sky
+Cloudy,A Clouds
+Partly,Clear
+Partly,Sunny
+Partly,sky
+Partly,A Clouds
+Clear,Sunny
+Clear,sky
+Clear,A Clouds
+Sunny,sky
+Sunny,A Clouds
+sky,A Clouds
+clear,Mostly
+clear,Cloudy
+clear,Partly
+clear,Clear
+clear,Sunny
+Mostly,Cloudy
+Mostly,Partly
+Mostly,Clear
+Mostly,Sunny
+Cloudy,Partly
+Cloudy,Clear
+Cloudy,Sunny
+Partly,Clear
+Partly,Sunny
+Clear,Sunny
+clear,Scattered
+clear,Partly
+clear,Cloudy
+clear,Clouds
+clear,Clear
+clear,Sunny
+Scattered,Partly
+Scattered,Cloudy
+Scattered,Clouds
+Scattered,Clear
+Scattered,Sunny
+Partly,Cloudy
+Partly,Clouds
+Partly,Clear
+Partly,Sunny
+Cloudy,Clouds
+Cloudy,Clear
+Cloudy,Sunny
+Clouds,Clear
+Clouds,Sunny
+Clear,Sunny
+Mostly,Few
+Mostly,cloudy
+Mostly,Cloudy
+Few,cloudy
+Few,Cloudy
+cloudy,Cloudy
+clear,Few
+clear,Mostly
+clear,Cloudy
+clear,Partly
+clear,Clear
+clear,Sunny
+Few,Mostly
+Few,Cloudy
+Few,Partly
+Few,Clear
+Few,Sunny
+Mostly,Cloudy
+Mostly,Partly
+Mostly,Clear
+Mostly,Sunny
+Cloudy,Partly
+Cloudy,Clear
+Cloudy,Sunny
+Partly,Clear
+Partly,Sunny
+Clear,Sunny
+Overcast,cloudy
+Overcast,Cloudy
+cloudy,Cloudy
+Overcast,cloudy
+Overcast,Cloudy
+cloudy,Cloudy
+Overcast,cloudy
+Overcast,Cloudy
+cloudy,Cloudy
+Mostly,cloudy
+Mostly,Cloudy
+cloudy,Cloudy
+clear,Mostly
+clear,Scattered
+clear,Cloudy
+clear,Partly
+clear,Clouds
+clear,Clear
+clear,Sunny
+Mostly,Scattered
+Mostly,Cloudy
+Mostly,Partly
+Mostly,Clouds
+Mostly,Clear
+Mostly,Sunny
+Scattered,Cloudy
+Scattered,Partly
+Scattered,Clouds
+Scattered,Clear
+Scattered,Sunny
+Cloudy,Partly
+Cloudy,Clouds
+Cloudy,Clear
+Cloudy,Sunny
+Partly,Clouds
+Partly,Clear
+Partly,Sunny
+Clouds,Clear
+Clouds,Sunny
+Clear,Sunny
+clear,Mostly
+clear,Scattered
+clear,Partly
+clear,Cloudy
+clear,Sunny
+Mostly,Scattered
+Mostly,Partly
+Mostly,Cloudy
+Mostly,Sunny
+Scattered,Partly
+Scattered,Cloudy
+Scattered,Sunny
+Partly,Cloudy
+Partly,Sunny
+Cloudy,Sunny
+Overcast,mostly
+Overcast,Light
+Overcast,Cloudy
+mostly,Light
+mostly,Cloudy
+Light,Cloudy
+Showers,Shower
+Showers,snow
+Showers,Flurries
+Showers,Short forecastSnow
+Showers,Snow
+Showers,Light
+Shower,snow
+Shower,Flurries
+Shower,Short forecastSnow
+Shower,Snow
+Shower,Light
+snow,Flurries
+snow,Short forecastSnow
+snow,Snow
+snow,Light
+Flurries,Short forecastSnow
+Flurries,Snow
+Flurries,Light
+Short forecastSnow,Snow
+Short forecastSnow,Light
+Snow,Light
+Mostly,Partly
+Mostly,cloudy
+Mostly,Cloudy
+Partly,cloudy
+Partly,Cloudy
+cloudy,Cloudy
+clear,Few
+clear,A Few
+clear,Partly
+clear,Cloudy
+clear,Sunny
+Few,A Few
+Few,Partly
+Few,Cloudy
+Few,Sunny
+A Few,Partly
+A Few,Cloudy
+A Few,Sunny
+Partly,Cloudy
+Partly,Sunny
+Cloudy,Sunny
+Few,A Few
+Few,Mostly
+Few,Partly
+Few,Cloudy
+Few,Sunny
+Few,sky
+A Few,Mostly
+A Few,Partly
+A Few,Cloudy
+A Few,Sunny
+A Few,sky
+Mostly,Partly
+Mostly,Cloudy
+Mostly,Sunny
+Mostly,sky
+Partly,Cloudy
+Partly,Sunny
+Partly,sky
+Cloudy,Sunny
+Cloudy,sky
+Sunny,sky
+Mostly,Overcast
+Mostly,mostly
+Mostly,Cloudy
+Overcast,mostly
+Overcast,Cloudy
+mostly,Cloudy
+snow,Light Mist
+snow,Short term
+snow,Flurries
+snow,Snow
+snow,Fog/Lgt.Snow
+snow,Light
+Light Mist,Short term
+Light Mist,Flurries
+Light Mist,Snow
+Light Mist,Fog/Lgt.Snow
+Light Mist,Light
+Short term,Flurries
+Short term,Snow
+Short term,Fog/Lgt.Snow
+Short term,Light
+Flurries,Snow
+Flurries,Fog/Lgt.Snow
+Flurries,Light
+Snow,Fog/Lgt.Snow
+Snow,Light
+Fog/Lgt.Snow,Light
+light,Showers
+light,Short term
+light,Flurries
+light,Snow
+light,Light
+light,Snow Freezing Fog
+Showers,Short term
+Showers,Flurries
+Showers,Snow
+Showers,Light
+Showers,Snow Freezing Fog
+Short term,Flurries
+Short term,Snow
+Short term,Light
+Short term,Snow Freezing Fog
+Flurries,Snow
+Flurries,Light
+Flurries,Snow Freezing Fog
+Snow,Light
+Snow,Snow Freezing Fog
+Light,Snow Freezing Fog
+light,Snow
+light,Light
+light,Flurries
+Snow,Light
+Snow,Flurries
+Light,Flurries
+Haze,Fog And
+Haze,Cloudy
+Haze,Unclear
+Haze,mostly
+Fog And,Cloudy
+Fog And,Unclear
+Fog And,mostly
+Cloudy,Unclear
+Cloudy,mostly
+Unclear,mostly
+Haze,Mostly
+Haze,Cloudy
+Haze,Unclear
+Haze,cloudy
+Mostly,Cloudy
+Mostly,Unclear
+Mostly,cloudy
+Cloudy,Unclear
+Cloudy,cloudy
+Unclear,cloudy
+Mostly,mostly
+Mostly,Cloudy
+mostly,Cloudy
+Scattered,Cloudy
+Scattered,Partly
+Scattered,Air Quality Cloudy
+Scattered,Clear
+Scattered,Sunny
+Scattered,sky
+Cloudy,Partly
+Cloudy,Air Quality Cloudy
+Cloudy,Clear
+Cloudy,Sunny
+Cloudy,sky
+Partly,Air Quality Cloudy
+Partly,Clear
+Partly,Sunny
+Partly,sky
+Air Quality Cloudy,Clear
+Air Quality Cloudy,Sunny
+Air Quality Cloudy,sky
+Clear,Sunny
+Clear,sky
+Sunny,sky
+Scattered,Cloudy
+Scattered,Partly
+Scattered,Clouds
+Scattered,Clear
+Scattered,Sunny
+Scattered,sky
+Cloudy,Partly
+Cloudy,Clouds
+Cloudy,Clear
+Cloudy,Sunny
+Cloudy,sky
+Partly,Clouds
+Partly,Clear
+Partly,Sunny
+Partly,sky
+Clouds,Clear
+Clouds,Sunny
+Clouds,sky
+Clear,Sunny
+Clear,sky
+Sunny,sky
+Overcast,WarningsCloudy
+Overcast,cloudy
+Overcast,Cloudy
+WarningsCloudy,cloudy
+WarningsCloudy,Cloudy
+cloudy,Cloudy
+snow,Flurries
+snow,Weather
+snow,Cloudy
+snow,Snow
+snow,Light
+snow,Overcast
+Flurries,Weather
+Flurries,Cloudy
+Flurries,Snow
+Flurries,Light
+Flurries,Overcast
+Weather,Cloudy
+Weather,Snow
+Weather,Light
+Weather,Overcast
+Cloudy,Snow
+Cloudy,Light
+Cloudy,Overcast
+Snow,Light
+Snow,Overcast
+Light,Overcast
+clear,Mostly
+clear,Partly
+clear,Cloudy
+clear,Clouds
+clear,Clear
+Mostly,Partly
+Mostly,Cloudy
+Mostly,Clouds
+Mostly,Clear
+Partly,Cloudy
+Partly,Clouds
+Partly,Clear
+Cloudy,Clouds
+Cloudy,Clear
+Clouds,Clear
+Freezing Fog,Freezing
+Freezing Fog,Fog
+Freezing Fog,normal
+Freezing Fog,Partly
+Freezing Fog,Foggy
+Freezing Fog,Light
+Freezing,Fog
+Freezing,normal
+Freezing,Partly
+Freezing,Foggy
+Freezing,Light
+Fog,normal
+Fog,Partly
+Fog,Foggy
+Fog,Light
+normal,Partly
+normal,Foggy
+normal,Light
+Partly,Foggy
+Partly,Light
+Foggy,Light
+Freezing Fog,Fog
+Freezing Fog,Mist
+Freezing Fog,Foggy
+Freezing Fog,cloudy
+Fog,Mist
+Fog,Foggy
+Fog,cloudy
+Mist,Foggy
+Mist,cloudy
+Foggy,cloudy
+Mostly,Cloudy
+Mostly,And Sun
+Mostly,Intermittent
+Mostly,cloudy
+Cloudy,And Sun
+Cloudy,Intermittent
+Cloudy,cloudy
+And Sun,Intermittent
+And Sun,cloudy
+Intermittent,cloudy
+Mostly,Cloudy
+Mostly,Clouds
+Mostly,And Sun
+Mostly,Intermittent
+Mostly,cloudy
+Cloudy,Clouds
+Cloudy,And Sun
+Cloudy,Intermittent
+Cloudy,cloudy
+Clouds,And Sun
+Clouds,Intermittent
+Clouds,cloudy
+And Sun,Intermittent
+And Sun,cloudy
+Intermittent,cloudy
+snow,Light Snow
+snow,Fog And
+snow,Mist/Fog
+snow,Cloudy
+snow,Mist
+snow,Snow
+snow,Rain
+snow,Mixed
+snow,WarningsSnow
+snow,Sleet
+Light Snow,Fog And
+Light Snow,Mist/Fog
+Light Snow,Cloudy
+Light Snow,Mist
+Light Snow,Snow
+Light Snow,Rain
+Light Snow,Mixed
+Light Snow,WarningsSnow
+Light Snow,Sleet
+Fog And,Mist/Fog
+Fog And,Cloudy
+Fog And,Mist
+Fog And,Snow
+Fog And,Rain
+Fog And,Mixed
+Fog And,WarningsSnow
+Fog And,Sleet
+Mist/Fog,Cloudy
+Mist/Fog,Mist
+Mist/Fog,Snow
+Mist/Fog,Rain
+Mist/Fog,Mixed
+Mist/Fog,WarningsSnow
+Mist/Fog,Sleet
+Cloudy,Mist
+Cloudy,Snow
+Cloudy,Rain
+Cloudy,Mixed
+Cloudy,WarningsSnow
+Cloudy,Sleet
+Mist,Snow
+Mist,Rain
+Mist,Mixed
+Mist,WarningsSnow
+Mist,Sleet
+Snow,Rain
+Snow,Mixed
+Snow,WarningsSnow
+Snow,Sleet
+Rain,Mixed
+Rain,WarningsSnow
+Rain,Sleet
+Mixed,WarningsSnow
+Mixed,Sleet
+WarningsSnow,Sleet
+snow,Flurries
+snow,Light Snow
+snow,Snow
+snow,Fog/Lgt.Snow
+snow,Mist/Light Snow Fog
+snow,WarningsSnow
+snow,Fog/Light Snow
+snow,Light
+Flurries,Light Snow
+Flurries,Snow
+Flurries,Fog/Lgt.Snow
+Flurries,Mist/Light Snow Fog
+Flurries,WarningsSnow
+Flurries,Fog/Light Snow
+Flurries,Light
+Light Snow,Snow
+Light Snow,Fog/Lgt.Snow
+Light Snow,Mist/Light Snow Fog
+Light Snow,WarningsSnow
+Light Snow,Fog/Light Snow
+Light Snow,Light
+Snow,Fog/Lgt.Snow
+Snow,Mist/Light Snow Fog
+Snow,WarningsSnow
+Snow,Fog/Light Snow
+Snow,Light
+Fog/Lgt.Snow,Mist/Light Snow Fog
+Fog/Lgt.Snow,WarningsSnow
+Fog/Lgt.Snow,Fog/Light Snow
+Fog/Lgt.Snow,Light
+Mist/Light Snow Fog,WarningsSnow
+Mist/Light Snow Fog,Fog/Light Snow
+Mist/Light Snow Fog,Light
+WarningsSnow,Fog/Light Snow
+WarningsSnow,Light
+Fog/Light Snow,Light
+Short term,Cloudy
+Short term,Snow
+Short term,mostly
+Short term,Overcast
+Cloudy,Snow
+Cloudy,mostly
+Cloudy,Overcast
+Snow,mostly
+Snow,Overcast
+mostly,Overcast
+Overcast,WarningsCloudy
+Overcast,cloudy
+Overcast,Cloudy
+WarningsCloudy,cloudy
+WarningsCloudy,Cloudy
+cloudy,Cloudy
+clear,Special statementClear
+clear,Clear
+clear,Sunny
+clear,Clean
+Special statementClear,Clear
+Special statementClear,Sunny
+Special statementClear,Clean
+Clear,Sunny
+Clear,Clean
+Sunny,Clean
+Sunny,Mostly
+Sunny,sky
+Sunny,Clean
+Mostly,sky
+Mostly,Clean
+sky,Clean
+Mostly,Scattered
+Mostly,Partly
+Mostly,Cloudy
+Mostly,Sunny
+Mostly,sky
+Scattered,Partly
+Scattered,Cloudy
+Scattered,Sunny
+Scattered,sky
+Partly,Cloudy
+Partly,Sunny
+Partly,sky
+Cloudy,Sunny
+Cloudy,sky
+Sunny,sky
+Mostly,cloudy
+Mostly,Cloudy
+cloudy,Cloudy
+Overcast,Cloudy
+storm watchCloudy,Cloudy
+storm watchCloudy,mostly
+storm watchCloudy,cloudy
+storm watchCloudy,Overcast
+Cloudy,mostly
+Cloudy,cloudy
+Cloudy,Overcast
+mostly,cloudy
+mostly,Overcast
+cloudy,Overcast
+Overcast,mostly
+Overcast,Cloudy
+mostly,Cloudy
+Overcast,mostly
+Overcast,Short term
+Overcast,Cloudy
+mostly,Short term
+mostly,Cloudy
+Short term,Cloudy
+Showers,WarningsFog
+Showers,Fog
+Showers,Mist
+Showers,Drizzle
+Showers,Light
+Showers,cloudy
+Showers,Overcast
+WarningsFog,Fog
+WarningsFog,Mist
+WarningsFog,Drizzle
+WarningsFog,Light
+WarningsFog,cloudy
+WarningsFog,Overcast
+Fog,Mist
+Fog,Drizzle
+Fog,Light
+Fog,cloudy
+Fog,Overcast
+Mist,Drizzle
+Mist,Light
+Mist,cloudy
+Mist,Overcast
+Drizzle,Light
+Drizzle,cloudy
+Drizzle,Overcast
+Light,cloudy
+Light,Overcast
+cloudy,Overcast
+Weather,Fog
+Weather,Mist
+Weather,mostly
+Weather,Drizzle
+Weather,Snow mix/Rain
+Weather,Light
+Weather,Overcast
+Fog,Mist
+Fog,mostly
+Fog,Drizzle
+Fog,Snow mix/Rain
+Fog,Light
+Fog,Overcast
+Mist,mostly
+Mist,Drizzle
+Mist,Snow mix/Rain
+Mist,Light
+Mist,Overcast
+mostly,Drizzle
+mostly,Snow mix/Rain
+mostly,Light
+mostly,Overcast
+Drizzle,Snow mix/Rain
+Drizzle,Light
+Drizzle,Overcast
+Snow mix/Rain,Light
+Snow mix/Rain,Overcast
+Light,Overcast
+Showers,Fog
+Showers,Mist
+Showers,Light Drizzle
+Showers,mostly
+Showers,Drizzle
+Showers,Short forecastFog
+Showers,Light
+Fog,Mist
+Fog,Light Drizzle
+Fog,mostly
+Fog,Drizzle
+Fog,Short forecastFog
+Fog,Light
+Mist,Light Drizzle
+Mist,mostly
+Mist,Drizzle
+Mist,Short forecastFog
+Mist,Light
+Light Drizzle,mostly
+Light Drizzle,Drizzle
+Light Drizzle,Short forecastFog
+Light Drizzle,Light
+mostly,Drizzle
+mostly,Short forecastFog
+mostly,Light
+Drizzle,Short forecastFog
+Drizzle,Light
+Short forecastFog,Light
+Showers,Mostly
+Showers,term forecastFog
+Showers,normal
+Showers,Mist
+Showers,Drizzle Fog
+Showers,Drizzle
+Mostly,term forecastFog
+Mostly,normal
+Mostly,Mist
+Mostly,Drizzle Fog
+Mostly,Drizzle
+term forecastFog,normal
+term forecastFog,Mist
+term forecastFog,Drizzle Fog
+term forecastFog,Drizzle
+normal,Mist
+normal,Drizzle Fog
+normal,Drizzle
+Mist,Drizzle Fog
+Mist,Drizzle
+Drizzle Fog,Drizzle
+Foggy,Fog
+Foggy,normal
+Fog,normal
+Mostly,Cloudy
+Mostly,mostly
+Mostly,Overcast
+Cloudy,mostly
+Cloudy,Overcast
+mostly,Overcast
+Overcast,cloudy
+Overcast,Cloudy
+cloudy,Cloudy
+Overcast,cloudy
+Overcast,Cloudy
+cloudy,Cloudy
+Overcast,cloudy
+Overcast,Cloudy
+cloudy,Cloudy
+Overcast,cloudy
+Overcast,Cloudy
+cloudy,Cloudy
+Overcast,mostly
+Overcast,Cloudy
+mostly,Cloudy
+Sunny,clear
+Sunny,Clean
+clear,Clean
+Partly,Cloudy
+Partly,Clouds
+Partly,Clear
+Partly,Sunny
+Partly,sky
+Partly,Clean
+Cloudy,Clouds
+Cloudy,Clear
+Cloudy,Sunny
+Cloudy,sky
+Cloudy,Clean
+Clouds,Clear
+Clouds,Sunny
+Clouds,sky
+Clouds,Clean
+Clear,Sunny
+Clear,sky
+Clear,Clean
+Sunny,sky
+Sunny,Clean
+sky,Clean
+sky,Mostly
+sky,Partly
+sky,Cloudy
+Mostly,Partly
+Mostly,Cloudy
+Partly,Cloudy
+Overcast,mostly
+Overcast,Cloudy
+mostly,Cloudy
+Overcast,cloudy
+Overcast,Cloudy
+cloudy,Cloudy
+clear,Special statementClear
+clear,Partly
+clear,Sunny
+clear,Clean
+Special statementClear,Partly
+Special statementClear,Sunny
+Special statementClear,Clean
+Partly,Sunny
+Partly,Clean
+Sunny,Clean
+Sunny,clear
+Sunny,Clean
+clear,Clean
+Sunny,Clean
+Sunny,normal
+Sunny,Cloudy
+Clean,normal
+Clean,Cloudy
+normal,Cloudy
+Sunny,clear
+Sunny,Clean
+clear,Clean
+Sunny,sky
+Sunny,Clean
+sky,Clean
+Sunny,Partly
+Sunny,sky
+Sunny,Clean
+Partly,sky
+Partly,Clean
+sky,Clean
+Sunny,Cloudy
+Sunny,sky
+Sunny,Clean
+Cloudy,sky
+Cloudy,Clean
+sky,Clean
+Mostly,mostly
+Mostly,Cloudy
+mostly,Cloudy
+snow,Light Mist
+snow,Flurries
+snow,Special statementSnow
+snow,Snow
+snow,Fog/Lgt.Snow
+snow,Fog/Light Snow
+snow,Light
+Light Mist,Flurries
+Light Mist,Special statementSnow
+Light Mist,Snow
+Light Mist,Fog/Lgt.Snow
+Light Mist,Fog/Light Snow
+Light Mist,Light
+Flurries,Special statementSnow
+Flurries,Snow
+Flurries,Fog/Lgt.Snow
+Flurries,Fog/Light Snow
+Flurries,Light
+Special statementSnow,Snow
+Special statementSnow,Fog/Lgt.Snow
+Special statementSnow,Fog/Light Snow
+Special statementSnow,Light
+Snow,Fog/Lgt.Snow
+Snow,Fog/Light Snow
+Snow,Light
+Fog/Lgt.Snow,Fog/Light Snow
+Fog/Lgt.Snow,Light
+Fog/Light Snow,Light
+Showers,Flurries
+Showers,Cloudy
+Showers,Snow
+Showers,Special weather
+Showers,Light
+Showers,cloudy
+Showers,Overcast
+Flurries,Cloudy
+Flurries,Snow
+Flurries,Special weather
+Flurries,Light
+Flurries,cloudy
+Flurries,Overcast
+Cloudy,Snow
+Cloudy,Special weather
+Cloudy,Light
+Cloudy,cloudy
+Cloudy,Overcast
+Snow,Special weather
+Snow,Light
+Snow,cloudy
+Snow,Overcast
+Special weather,Light
+Special weather,cloudy
+Special weather,Overcast
+Light,cloudy
+Light,Overcast
+cloudy,Overcast
+Mostly,mostly
+Mostly,Cloudy
+mostly,Cloudy
+Mostly,Overcast
+Mostly,cloudy
+Mostly,Cloudy
+Overcast,cloudy
+Overcast,Cloudy
+cloudy,Cloudy
+snow,Shower
+snow,Flurries
+snow,Light Snow
+snow,Snow
+snow,And Fog
+snow,Weather AdvisorySnow
+snow,Fog/Light Snow
+snow,Light
+Shower,Flurries
+Shower,Light Snow
+Shower,Snow
+Shower,And Fog
+Shower,Weather AdvisorySnow
+Shower,Fog/Light Snow
+Shower,Light
+Flurries,Light Snow
+Flurries,Snow
+Flurries,And Fog
+Flurries,Weather AdvisorySnow
+Flurries,Fog/Light Snow
+Flurries,Light
+Light Snow,Snow
+Light Snow,And Fog
+Light Snow,Weather AdvisorySnow
+Light Snow,Fog/Light Snow
+Light Snow,Light
+Snow,And Fog
+Snow,Weather AdvisorySnow
+Snow,Fog/Light Snow
+Snow,Light
+And Fog,Weather AdvisorySnow
+And Fog,Fog/Light Snow
+And Fog,Light
+Weather AdvisorySnow,Fog/Light Snow
+Weather AdvisorySnow,Light
+Fog/Light Snow,Light
+snow,Shower
+snow,Light Snow
+snow,Fog/Snow
+snow,Snow
+snow,Snow And
+snow,WarningsSnow
+snow,Light
+Shower,Light Snow
+Shower,Fog/Snow
+Shower,Snow
+Shower,Snow And
+Shower,WarningsSnow
+Shower,Light
+Light Snow,Fog/Snow
+Light Snow,Snow
+Light Snow,Snow And
+Light Snow,WarningsSnow
+Light Snow,Light
+Fog/Snow,Snow
+Fog/Snow,Snow And
+Fog/Snow,WarningsSnow
+Fog/Snow,Light
+Snow,Snow And
+Snow,WarningsSnow
+Snow,Light
+Snow And,WarningsSnow
+Snow And,Light
+WarningsSnow,Light
+Fog,Mist
+Fog,Snow
+Fog,mostly
+Fog,Weather AdvisorySnow
+Fog,Overcast
+Mist,Snow
+Mist,mostly
+Mist,Weather AdvisorySnow
+Mist,Overcast
+Snow,mostly
+Snow,Weather AdvisorySnow
+Snow,Overcast
+mostly,Weather AdvisorySnow
+mostly,Overcast
+Weather AdvisorySnow,Overcast
+WarningsFog,Freezing
+WarningsFog,Light Rain
+WarningsFog,Freezing Rain
+WarningsFog,Fog
+WarningsFog,Light Freezing Mist
+WarningsFog,Cloudy
+WarningsFog,Mist
+WarningsFog,mostly
+WarningsFog,Foggy
+Freezing,Light Rain
+Freezing,Freezing Rain
+Freezing,Fog
+Freezing,Light Freezing Mist
+Freezing,Cloudy
+Freezing,Mist
+Freezing,mostly
+Freezing,Foggy
+Light Rain,Freezing Rain
+Light Rain,Fog
+Light Rain,Light Freezing Mist
+Light Rain,Cloudy
+Light Rain,Mist
+Light Rain,mostly
+Light Rain,Foggy
+Freezing Rain,Fog
+Freezing Rain,Light Freezing Mist
+Freezing Rain,Cloudy
+Freezing Rain,Mist
+Freezing Rain,mostly
+Freezing Rain,Foggy
+Fog,Light Freezing Mist
+Fog,Cloudy
+Fog,Mist
+Fog,mostly
+Fog,Foggy
+Light Freezing Mist,Cloudy
+Light Freezing Mist,Mist
+Light Freezing Mist,mostly
+Light Freezing Mist,Foggy
+Cloudy,Mist
+Cloudy,mostly
+Cloudy,Foggy
+Mist,mostly
+Mist,Foggy
+mostly,Foggy
+Haze,Cloudy
+Haze,Unclear
+Haze,mostly
+Haze,Overcast
+Cloudy,Unclear
+Cloudy,mostly
+Cloudy,Overcast
+Unclear,mostly
+Unclear,Overcast
+mostly,Overcast
+Haze,Cloudy
+Haze,Unclear
+Haze,cloudy
+Haze,Overcast
+Cloudy,Unclear
+Cloudy,cloudy
+Cloudy,Overcast
+Unclear,cloudy
+Unclear,Overcast
+cloudy,Overcast
+Mostly,Overcast
+Mostly,cloudy
+Mostly,Cloudy
+Overcast,cloudy
+Overcast,Cloudy
+cloudy,Cloudy
+term forecastFog,Cloudy
+term forecastFog,Mist
+term forecastFog,And Mist
+term forecastFog,cloudy
+term forecastFog,Overcast
+Cloudy,Mist
+Cloudy,And Mist
+Cloudy,cloudy
+Cloudy,Overcast
+Mist,And Mist
+Mist,cloudy
+Mist,Overcast
+And Mist,cloudy
+And Mist,Overcast
+cloudy,Overcast
+term forecastFog,Cloudy
+term forecastFog,Mist
+term forecastFog,And Mist
+term forecastFog,mostly
+term forecastFog,Overcast
+Cloudy,Mist
+Cloudy,And Mist
+Cloudy,mostly
+Cloudy,Overcast
+Mist,And Mist
+Mist,mostly
+Mist,Overcast
+And Mist,mostly
+And Mist,Overcast
+mostly,Overcast
+light,Fog
+light,Cloudy
+light,Rain
+light,And Mist
+light,Rain Mist
+light,Light
+Fog,Cloudy
+Fog,Rain
+Fog,And Mist
+Fog,Rain Mist
+Fog,Light
+Cloudy,Rain
+Cloudy,And Mist
+Cloudy,Rain Mist
+Cloudy,Light
+Rain,And Mist
+Rain,Rain Mist
+Rain,Light
+And Mist,Rain Mist
+And Mist,Light
+Rain Mist,Light
+light,Showers
+light,Light Mist
+light,Cloudy
+light,Rain
+light,Light
+light,Overcast
+Showers,Light Mist
+Showers,Cloudy
+Showers,Rain
+Showers,Light
+Showers,Overcast
+Light Mist,Cloudy
+Light Mist,Rain
+Light Mist,Light
+Light Mist,Overcast
+Cloudy,Rain
+Cloudy,Light
+Cloudy,Overcast
+Rain,Light
+Rain,Overcast
+Light,Overcast
+Showers,Light Rain
+Showers,Cloudy
+Showers,Rain
+Showers,rain
+Showers,Light
+Light Rain,Cloudy
+Light Rain,Rain
+Light Rain,rain
+Light Rain,Light
+Cloudy,Rain
+Cloudy,rain
+Cloudy,Light
+Rain,rain
+Rain,Light
+rain,Light
+WarningsRain,Flurries
+WarningsRain,Freezing
+WarningsRain,Light Rain
+WarningsRain,Weather
+WarningsRain,Freezing Rain
+WarningsRain,Rain
+WarningsRain,mostly
+WarningsRain,cloudy
+WarningsRain,Overcast
+Flurries,Freezing
+Flurries,Light Rain
+Flurries,Weather
+Flurries,Freezing Rain
+Flurries,Rain
+Flurries,mostly
+Flurries,cloudy
+Flurries,Overcast
+Freezing,Light Rain
+Freezing,Weather
+Freezing,Freezing Rain
+Freezing,Rain
+Freezing,mostly
+Freezing,cloudy
+Freezing,Overcast
+Light Rain,Weather
+Light Rain,Freezing Rain
+Light Rain,Rain
+Light Rain,mostly
+Light Rain,cloudy
+Light Rain,Overcast
+Weather,Freezing Rain
+Weather,Rain
+Weather,mostly
+Weather,cloudy
+Weather,Overcast
+Freezing Rain,Rain
+Freezing Rain,mostly
+Freezing Rain,cloudy
+Freezing Rain,Overcast
+Rain,mostly
+Rain,cloudy
+Rain,Overcast
+mostly,cloudy
+mostly,Overcast
+cloudy,Overcast
+Dense,Freezing
+Dense,Weather
+Dense,Fog
+Dense,normal
+Dense,Foggy
+Dense,Overcast
+Freezing,Weather
+Freezing,Fog
+Freezing,normal
+Freezing,Foggy
+Freezing,Overcast
+Weather,Fog
+Weather,normal
+Weather,Foggy
+Weather,Overcast
+Fog,normal
+Fog,Foggy
+Fog,Overcast
+normal,Foggy
+normal,Overcast
+Foggy,Overcast
+Fog AdvisoryFog,Dense
+Fog AdvisoryFog,Freezing
+Fog AdvisoryFog,Fog
+Fog AdvisoryFog,Mist
+Fog AdvisoryFog,Foggy
+Fog AdvisoryFog,cloudy
+Fog AdvisoryFog,Overcast
+Dense,Freezing
+Dense,Fog
+Dense,Mist
+Dense,Foggy
+Dense,cloudy
+Dense,Overcast
+Freezing,Fog
+Freezing,Mist
+Freezing,Foggy
+Freezing,cloudy
+Freezing,Overcast
+Fog,Mist
+Fog,Foggy
+Fog,cloudy
+Fog,Overcast
+Mist,Foggy
+Mist,cloudy
+Mist,Overcast
+Foggy,cloudy
+Foggy,Overcast
+cloudy,Overcast
+Sunny,sky
+Sunny,Clear
+Sunny,Clean
+sky,Clear
+sky,Clean
+Clear,Clean
+Mostly,Partly
+Mostly,Cloudy
+Mostly,Sunny
+Mostly,sky
+Partly,Cloudy
+Partly,Sunny
+Partly,sky
+Cloudy,Sunny
+Cloudy,sky
+Sunny,sky
+Sunny,clear
+Sunny,Clear
+Sunny,Clean
+clear,Clear
+clear,Clean
+Clear,Clean
+Mostly,Cloudy
+Mostly,Sunny
+Mostly,sky
+Mostly,Overcast
+Cloudy,Sunny
+Cloudy,sky
+Cloudy,Overcast
+Sunny,sky
+Sunny,Overcast
+sky,Overcast
+clear,Mostly
+clear,Scattered
+clear,Cloudy
+clear,Partly
+clear,Clouds
+clear,Sunny
+clear,Overcast
+Mostly,Scattered
+Mostly,Cloudy
+Mostly,Partly
+Mostly,Clouds
+Mostly,Sunny
+Mostly,Overcast
+Scattered,Cloudy
+Scattered,Partly
+Scattered,Clouds
+Scattered,Sunny
+Scattered,Overcast
+Cloudy,Partly
+Cloudy,Clouds
+Cloudy,Sunny
+Cloudy,Overcast
+Partly,Clouds
+Partly,Sunny
+Partly,Overcast
+Clouds,Sunny
+Clouds,Overcast
+Sunny,Overcast
+snow,Shower
+snow,Flurries
+snow,"""Light"
+snow,Snow
+snow,Special weather
+snow,Light Snow Snow
+snow,Light
+Shower,Flurries
+Shower,"""Light"
+Shower,Snow
+Shower,Special weather
+Shower,Light Snow Snow
+Shower,Light
+Flurries,"""Light"
+Flurries,Snow
+Flurries,Special weather
+Flurries,Light Snow Snow
+Flurries,Light
+"""Light",Snow
+"""Light",Special weather
+"""Light",Light Snow Snow
+"""Light",Light
+Snow,Special weather
+Snow,Light Snow Snow
+Snow,Light
+Special weather,Light Snow Snow
+Special weather,Light
+Light Snow Snow,Light
+Overcast,Weather AdvisoryCloudy
+Overcast,mostly
+Overcast,Cloudy
+Weather AdvisoryCloudy,mostly
+Weather AdvisoryCloudy,Cloudy
+mostly,Cloudy
+clear,Mostly
+clear,Cloudy
+clear,Partly
+clear,Clear
+clear,Sunny
+Mostly,Cloudy
+Mostly,Partly
+Mostly,Clear
+Mostly,Sunny
+Cloudy,Partly
+Cloudy,Clear
+Cloudy,Sunny
+Partly,Clear
+Partly,Sunny
+Clear,Sunny
+Sunny,sky
+Sunny,Clean
+sky,Clean
+Overcast,cloudy
+Overcast,Cloudy
+cloudy,Cloudy
+Mostly,Partly
+Mostly,Cloudy
+Mostly,Some
+Mostly,Clouds
+Mostly,Sunny
+Mostly,sky
+Partly,Cloudy
+Partly,Some
+Partly,Clouds
+Partly,Sunny
+Partly,sky
+Cloudy,Some
+Cloudy,Clouds
+Cloudy,Sunny
+Cloudy,sky
+Some,Clouds
+Some,Sunny
+Some,sky
+Clouds,Sunny
+Clouds,sky
+Sunny,sky
+Mostly,Cloudy
+Mostly,Partly
+Mostly,Clear
+Mostly,Sunny
+Mostly,sky
+Cloudy,Partly
+Cloudy,Clear
+Cloudy,Sunny
+Cloudy,sky
+Partly,Clear
+Partly,Sunny
+Partly,sky
+Clear,Sunny
+Clear,sky
+Sunny,sky
+sky,Mostly
+sky,Clouds
+sky,Cloudy
+Mostly,Clouds
+Mostly,Cloudy
+Clouds,Cloudy
+Weather AdvisoryCloudy,Mostly
+Weather AdvisoryCloudy,Cloudy
+Weather AdvisoryCloudy,cloudy
+Weather AdvisoryCloudy,Overcast
+Mostly,Cloudy
+Mostly,cloudy
+Mostly,Overcast
+Cloudy,cloudy
+Cloudy,Overcast
+cloudy,Overcast
+Overcast,Weather AdvisoryCloudy
+Overcast,cloudy
+Overcast,Cloudy
+Weather AdvisoryCloudy,cloudy
+Weather AdvisoryCloudy,Cloudy
+cloudy,Cloudy
+light,Light Mist
+light,Flurries
+light,Cloudy
+light,Snow
+light,Winter Weather
+light,Light
+Light Mist,Flurries
+Light Mist,Cloudy
+Light Mist,Snow
+Light Mist,Winter Weather
+Light Mist,Light
+Flurries,Cloudy
+Flurries,Snow
+Flurries,Winter Weather
+Flurries,Light
+Cloudy,Snow
+Cloudy,Winter Weather
+Cloudy,Light
+Snow,Winter Weather
+Snow,Light
+Winter Weather,Light
+Showers,snow
+Showers,Flurries
+Showers,Light Snow
+Showers,Cloudy
+Showers,Snow
+Showers,Winter AdvisorySnow
+Showers,Fog/Light Snow
+Showers,Light
+snow,Flurries
+snow,Light Snow
+snow,Cloudy
+snow,Snow
+snow,Winter AdvisorySnow
+snow,Fog/Light Snow
+snow,Light
+Flurries,Light Snow
+Flurries,Cloudy
+Flurries,Snow
+Flurries,Winter AdvisorySnow
+Flurries,Fog/Light Snow
+Flurries,Light
+Light Snow,Cloudy
+Light Snow,Snow
+Light Snow,Winter AdvisorySnow
+Light Snow,Fog/Light Snow
+Light Snow,Light
+Cloudy,Snow
+Cloudy,Winter AdvisorySnow
+Cloudy,Fog/Light Snow
+Cloudy,Light
+Snow,Winter AdvisorySnow
+Snow,Fog/Light Snow
+Snow,Light
+Winter AdvisorySnow,Fog/Light Snow
+Winter AdvisorySnow,Light
+Fog/Light Snow,Light
+snow,Light Mist
+snow,Flurries
+snow,Fog
+snow,Cloudy
+snow,Mist
+snow,Snow
+snow,Light
+Light Mist,Flurries
+Light Mist,Fog
+Light Mist,Cloudy
+Light Mist,Mist
+Light Mist,Snow
+Light Mist,Light
+Flurries,Fog
+Flurries,Cloudy
+Flurries,Mist
+Flurries,Snow
+Flurries,Light
+Fog,Cloudy
+Fog,Mist
+Fog,Snow
+Fog,Light
+Cloudy,Mist
+Cloudy,Snow
+Cloudy,Light
+Mist,Snow
+Mist,Light
+Snow,Light
+Mostly,Partly
+Mostly,Cloudy
+Mostly,Clear
+Mostly,Sunny
+Mostly,sky
+Partly,Cloudy
+Partly,Clear
+Partly,Sunny
+Partly,sky
+Cloudy,Clear
+Cloudy,Sunny
+Cloudy,sky
+Clear,Sunny
+Clear,sky
+Sunny,sky
+Mostly,Scattered
+Mostly,Partly
+Mostly,Clouds
+Mostly,Sunny
+Mostly,sky
+Scattered,Partly
+Scattered,Clouds
+Scattered,Sunny
+Scattered,sky
+Partly,Clouds
+Partly,Sunny
+Partly,sky
+Clouds,Sunny
+Clouds,sky
+Sunny,sky
+Scattered,Cloudy
+Scattered,Partly
+Scattered,Clear
+Scattered,Sunny
+Scattered,sky
+Cloudy,Partly
+Cloudy,Clear
+Cloudy,Sunny
+Cloudy,sky
+Partly,Clear
+Partly,Sunny
+Partly,sky
+Clear,Sunny
+Clear,sky
+Sunny,sky
+Few,Scattered
+Few,Cloudy
+Few,Partly
+Few,Clouds
+Few,Clear
+Few,Sunny
+Few,sky
+Scattered,Cloudy
+Scattered,Partly
+Scattered,Clouds
+Scattered,Clear
+Scattered,Sunny
+Scattered,sky
+Cloudy,Partly
+Cloudy,Clouds
+Cloudy,Clear
+Cloudy,Sunny
+Cloudy,sky
+Partly,Clouds
+Partly,Clear
+Partly,Sunny
+Partly,sky
+Clouds,Clear
+Clouds,Sunny
+Clouds,sky
+Clear,Sunny
+Clear,sky
+Sunny,sky
+Bkh,Mostly
+Bkh,Scattered
+Bkh,Cloudy
+Bkh,Partly
+Bkh,Clouds
+Bkh,Clear
+Bkh,Sunny
+Bkh,cloudy
+Mostly,Scattered
+Mostly,Cloudy
+Mostly,Partly
+Mostly,Clouds
+Mostly,Clear
+Mostly,Sunny
+Mostly,cloudy
+Scattered,Cloudy
+Scattered,Partly
+Scattered,Clouds
+Scattered,Clear
+Scattered,Sunny
+Scattered,cloudy
+Cloudy,Partly
+Cloudy,Clouds
+Cloudy,Clear
+Cloudy,Sunny
+Cloudy,cloudy
+Partly,Clouds
+Partly,Clear
+Partly,Sunny
+Partly,cloudy
+Clouds,Clear
+Clouds,Sunny
+Clouds,cloudy
+Clear,Sunny
+Clear,cloudy
+Sunny,cloudy
+clear,Mostly
+clear,Scattered
+clear,Partly
+clear,Cloudy
+clear,Clouds
+clear,Sunny
+Mostly,Scattered
+Mostly,Partly
+Mostly,Cloudy
+Mostly,Clouds
+Mostly,Sunny
+Scattered,Partly
+Scattered,Cloudy
+Scattered,Clouds
+Scattered,Sunny
+Partly,Cloudy
+Partly,Clouds
+Partly,Sunny
+Cloudy,Clouds
+Cloudy,Sunny
+Clouds,Sunny
+Mostly,Scattered
+Mostly,Cloudy
+Mostly,Partly
+Mostly,Clouds
+Mostly,Sunny
+Mostly,sky
+Scattered,Cloudy
+Scattered,Partly
+Scattered,Clouds
+Scattered,Sunny
+Scattered,sky
+Cloudy,Partly
+Cloudy,Clouds
+Cloudy,Sunny
+Cloudy,sky
+Partly,Clouds
+Partly,Sunny
+Partly,sky
+Clouds,Sunny
+Clouds,sky
+Sunny,sky
+clear,Mostly
+clear,Partly
+clear,Cloudy
+clear,Clouds
+clear,Clear
+clear,Sunny
+Mostly,Partly
+Mostly,Cloudy
+Mostly,Clouds
+Mostly,Clear
+Mostly,Sunny
+Partly,Cloudy
+Partly,Clouds
+Partly,Clear
+Partly,Sunny
+Cloudy,Clouds
+Cloudy,Clear
+Cloudy,Sunny
+Clouds,Clear
+Clouds,Sunny
+Clear,Sunny
+Mostly,Partly
+Mostly,Cloudy
+Mostly,Clear
+Mostly,Sunny
+Mostly,sky
+Partly,Cloudy
+Partly,Clear
+Partly,Sunny
+Partly,sky
+Cloudy,Clear
+Cloudy,Sunny
+Cloudy,sky
+Clear,Sunny
+Clear,sky
+Sunny,sky
+Mostly,Partly
+Mostly,Cloudy
+Mostly,Sunny
+Mostly,cloudy
+Partly,Cloudy
+Partly,Sunny
+Partly,cloudy
+Cloudy,Sunny
+Cloudy,cloudy
+Sunny,cloudy
+clear,Few
+clear,Scattered
+clear,Partly
+clear,Cloudy
+clear,Clouds
+clear,Clear
+clear,Sunny
+Few,Scattered
+Few,Partly
+Few,Cloudy
+Few,Clouds
+Few,Clear
+Few,Sunny
+Scattered,Partly
+Scattered,Cloudy
+Scattered,Clouds
+Scattered,Clear
+Scattered,Sunny
+Partly,Cloudy
+Partly,Clouds
+Partly,Clear
+Partly,Sunny
+Cloudy,Clouds
+Cloudy,Clear
+Cloudy,Sunny
+Clouds,Clear
+Clouds,Sunny
+Clear,Sunny
+clear,Mostly
+clear,Scattered
+clear,Cloudy
+clear,Partly
+clear,Clouds
+clear,Clear
+clear,Sunny
+Mostly,Scattered
+Mostly,Cloudy
+Mostly,Partly
+Mostly,Clouds
+Mostly,Clear
+Mostly,Sunny
+Scattered,Cloudy
+Scattered,Partly
+Scattered,Clouds
+Scattered,Clear
+Scattered,Sunny
+Cloudy,Partly
+Cloudy,Clouds
+Cloudy,Clear
+Cloudy,Sunny
+Partly,Clouds
+Partly,Clear
+Partly,Sunny
+Clouds,Clear
+Clouds,Sunny
+Clear,Sunny
+Mostly,Cloudy
+Mostly,Partly
+Mostly,mostly
+Mostly,Sunny
+Cloudy,Partly
+Cloudy,mostly
+Cloudy,Sunny
+Partly,mostly
+Partly,Sunny
+mostly,Sunny
+Clouds And,Mostly
+Clouds And,Cloudy
+Clouds And,mostly
+Clouds And,Intermittent
+Clouds And,Sunny
+Mostly,Cloudy
+Mostly,mostly
+Mostly,Intermittent
+Mostly,Sunny
+Cloudy,mostly
+Cloudy,Intermittent
+Cloudy,Sunny
+mostly,Intermittent
+mostly,Sunny
+Intermittent,Sunny
+Mostly,Cloudy
+Mostly,Intermittent
+Mostly,Clouds Sun
+Mostly,Sunny
+Mostly,cloudy
+Cloudy,Intermittent
+Cloudy,Clouds Sun
+Cloudy,Sunny
+Cloudy,cloudy
+Intermittent,Clouds Sun
+Intermittent,Sunny
+Intermittent,cloudy
+Clouds Sun,Sunny
+Clouds Sun,cloudy
+Sunny,cloudy
+Mostly,Intermittent
+Mostly,Cloudy
+Mostly,mostly
+Mostly,Sunny
+Intermittent,Cloudy
+Intermittent,mostly
+Intermittent,Sunny
+Cloudy,mostly
+Cloudy,Sunny
+mostly,Sunny
+Sunny,clear
+Sunny,Clear
+Sunny,Clean
+clear,Clear
+clear,Clean
+Clear,Clean
+Mostly,Cloudy
+Mostly,Some
+Mostly,Partly
+Mostly,Clouds
+Mostly,Sunny
+Mostly,cloudy
+Cloudy,Some
+Cloudy,Partly
+Cloudy,Clouds
+Cloudy,Sunny
+Cloudy,cloudy
+Some,Partly
+Some,Clouds
+Some,Sunny
+Some,cloudy
+Partly,Clouds
+Partly,Sunny
+Partly,cloudy
+Clouds,Sunny
+Clouds,cloudy
+Sunny,cloudy
+Mostly,Cloudy
+Mostly,Clouds
+Mostly,mostly
+Mostly,Sunny
+Mostly,Clean
+Cloudy,Clouds
+Cloudy,mostly
+Cloudy,Sunny
+Cloudy,Clean
+Clouds,mostly
+Clouds,Sunny
+Clouds,Clean
+mostly,Sunny
+mostly,Clean
+Sunny,Clean
+Mostly,Partly
+Mostly,Cloudy
+Mostly,Sunny
+Mostly,cloudy
+Partly,Cloudy
+Partly,Sunny
+Partly,cloudy
+Cloudy,Sunny
+Cloudy,cloudy
+Sunny,cloudy
+Mostly,Scattered
+Mostly,Partly
+Mostly,Cloudy
+Mostly,Clouds
+Mostly,Clear
+Mostly,Sunny
+Mostly,cloudy
+Scattered,Partly
+Scattered,Cloudy
+Scattered,Clouds
+Scattered,Clear
+Scattered,Sunny
+Scattered,cloudy
+Partly,Cloudy
+Partly,Clouds
+Partly,Clear
+Partly,Sunny
+Partly,cloudy
+Cloudy,Clouds
+Cloudy,Clear
+Cloudy,Sunny
+Cloudy,cloudy
+Clouds,Clear
+Clouds,Sunny
+Clouds,cloudy
+Clear,Sunny
+Clear,cloudy
+Sunny,cloudy
+Mostly,Cloudy
+Mostly,mostly
+Mostly,Light
+Mostly,Overcast
+Cloudy,mostly
+Cloudy,Light
+Cloudy,Overcast
+mostly,Light
+mostly,Overcast
+Light,Overcast
+Few,Mostly
+Few,Cloudy
+Few,Partly
+Few,mostly
+Few,Sunny
+Mostly,Cloudy
+Mostly,Partly
+Mostly,mostly
+Mostly,Sunny
+Cloudy,Partly
+Cloudy,mostly
+Cloudy,Sunny
+Partly,mostly
+Partly,Sunny
+mostly,Sunny
+clear,Mostly
+clear,Partly
+clear,Cloudy
+clear,Clouds
+clear,Sunny
+Mostly,Partly
+Mostly,Cloudy
+Mostly,Clouds
+Mostly,Sunny
+Partly,Cloudy
+Partly,Clouds
+Partly,Sunny
+Cloudy,Clouds
+Cloudy,Sunny
+Clouds,Sunny
+Sunny,Overcast
+Sunny,mostly
+Sunny,Cloudy
+Overcast,mostly
+Overcast,Cloudy
+mostly,Cloudy
+Mostly,Cloudy
+Mostly,Some
+Mostly,Intermittent
+Mostly,Sunny
+Mostly,cloudy
+Cloudy,Some
+Cloudy,Intermittent
+Cloudy,Sunny
+Cloudy,cloudy
+Some,Intermittent
+Some,Sunny
+Some,cloudy
+Intermittent,Sunny
+Intermittent,cloudy
+Sunny,cloudy
+Mostly,Cloudy
+Mostly,Clouds
+Mostly,And Sun
+Mostly,Sunny
+Mostly,cloudy
+Cloudy,Clouds
+Cloudy,And Sun
+Cloudy,Sunny
+Cloudy,cloudy
+Clouds,And Sun
+Clouds,Sunny
+Clouds,cloudy
+And Sun,Sunny
+And Sun,cloudy
+Sunny,cloudy
+Overcast,Bkh
+Overcast,cloudy
+Overcast,Cloudy
+Bkh,cloudy
+Bkh,Cloudy
+cloudy,Cloudy
+Bkh,Mostly
+Bkh,Cloudy
+Bkh,mostly
+Bkh,Overcast
+Mostly,Cloudy
+Mostly,mostly
+Mostly,Overcast
+Cloudy,mostly
+Cloudy,Overcast
+mostly,Overcast
+Few,Partly
+Few,Cloudy
+Few,cloudy
+Few,Overcast
+Partly,Cloudy
+Partly,cloudy
+Partly,Overcast
+Cloudy,cloudy
+Cloudy,Overcast
+cloudy,Overcast
+Overcast,mostly
+Overcast,Cloudy
+mostly,Cloudy
+Mostly,Partly
+Mostly,Cloudy
+Mostly,mostly
+Mostly,Sunny
+Partly,Cloudy
+Partly,mostly
+Partly,Sunny
+Cloudy,mostly
+Cloudy,Sunny
+mostly,Sunny
+Mostly,Partly
+Mostly,Cloudy
+Mostly,mostly
+Mostly,Sunny
+Partly,Cloudy
+Partly,mostly
+Partly,Sunny
+Cloudy,mostly
+Cloudy,Sunny
+mostly,Sunny
+clear,Showers
+clear,Observation is Caution Overcast
+clear,Cloudy
+clear,Overcast
+Showers,Observation is Caution Overcast
+Showers,Cloudy
+Showers,Overcast
+Observation is Caution Overcast,Cloudy
+Observation is Caution Overcast,Overcast
+Cloudy,Overcast
+Mostly,sky
+Mostly,Cloudy
+sky,Cloudy
+Mostly,Scattered
+Mostly,Partly
+Mostly,Cloudy
+Mostly,Clouds
+Mostly,Clear
+Mostly,sky
+Scattered,Partly
+Scattered,Cloudy
+Scattered,Clouds
+Scattered,Clear
+Scattered,sky
+Partly,Cloudy
+Partly,Clouds
+Partly,Clear
+Partly,sky
+Cloudy,Clouds
+Cloudy,Clear
+Cloudy,sky
+Clouds,Clear
+Clouds,sky
+Clear,sky
+Mostly,Scattered
+Mostly,Cloudy
+Mostly,Partly
+Mostly,Clouds
+Mostly,Sunny
+Mostly,sky
+Scattered,Cloudy
+Scattered,Partly
+Scattered,Clouds
+Scattered,Sunny
+Scattered,sky
+Cloudy,Partly
+Cloudy,Clouds
+Cloudy,Sunny
+Cloudy,sky
+Partly,Clouds
+Partly,Sunny
+Partly,sky
+Clouds,Sunny
+Clouds,sky
+Sunny,sky
+Showers,Cloudy
+Showers,Rain
+Showers,Observation Quality is Lt Rain
+Showers,sky
+Showers,Light
+Cloudy,Rain
+Cloudy,Observation Quality is Lt Rain
+Cloudy,sky
+Cloudy,Light
+Rain,Observation Quality is Lt Rain
+Rain,sky
+Rain,Light
+Observation Quality is Lt Rain,sky
+Observation Quality is Lt Rain,Light
+sky,Light
+Observation is Caution Overcast,Cloudy
+Observation is Caution Overcast,Rain
+Observation is Caution Overcast,sky
+Observation is Caution Overcast,Overcast
+Cloudy,Rain
+Cloudy,sky
+Cloudy,Overcast
+Rain,sky
+Rain,Overcast
+sky,Overcast
+Overcast,cloudy
+Overcast,Cloudy
+cloudy,Cloudy
+light,Overcast
+light,Cloudy
+Overcast,Cloudy
+Fog,Cloudy
+Fog,Mist
+Fog,Rain
+Fog,And Mist
+Fog,Foggy
+Fog,sky
+Fog,Overcast
+Cloudy,Mist
+Cloudy,Rain
+Cloudy,And Mist
+Cloudy,Foggy
+Cloudy,sky
+Cloudy,Overcast
+Mist,Rain
+Mist,And Mist
+Mist,Foggy
+Mist,sky
+Mist,Overcast
+Rain,And Mist
+Rain,Foggy
+Rain,sky
+Rain,Overcast
+And Mist,Foggy
+And Mist,sky
+And Mist,Overcast
+Foggy,sky
+Foggy,Overcast
+sky,Overcast
+Fog And,Fog
+Fog And,Cloudy
+Fog And,Mist
+Fog And,Foggy
+Fog And,cloudy
+Fog And,Overcast
+Fog,Cloudy
+Fog,Mist
+Fog,Foggy
+Fog,cloudy
+Fog,Overcast
+Cloudy,Mist
+Cloudy,Foggy
+Cloudy,cloudy
+Cloudy,Overcast
+Mist,Foggy
+Mist,cloudy
+Mist,Overcast
+Foggy,cloudy
+Foggy,Overcast
+cloudy,Overcast
+Mostly,Showers
+Mostly,mostly
+Mostly,Cloudy
+Showers,mostly
+Showers,Cloudy
+mostly,Cloudy
+Cloudy,mostly
+Cloudy,Sunny
+Cloudy,cloudy
+Cloudy,Overcast
+mostly,Sunny
+mostly,cloudy
+mostly,Overcast
+Sunny,cloudy
+Sunny,Overcast
+cloudy,Overcast
+Showers,Cloudy
+Showers,Rain
+Showers,mostly
+Showers,Light
+Cloudy,Rain
+Cloudy,mostly
+Cloudy,Light
+Rain,mostly
+Rain,Light
+mostly,Light
+clear,Overcast
+clear,Cloudy
+Overcast,Cloudy
+Mostly,sky
+Mostly,Cloudy
+sky,Cloudy
+Mostly,Cloudy
+Mostly,mostly
+Mostly,And Sun
+Mostly,Intermittent
+Mostly,Sunny
+Cloudy,mostly
+Cloudy,And Sun
+Cloudy,Intermittent
+Cloudy,Sunny
+mostly,And Sun
+mostly,Intermittent
+mostly,Sunny
+And Sun,Intermittent
+And Sun,Sunny
+Intermittent,Sunny
+light,Mostly
+light,Overcast
+light,Cloudy
+Mostly,Overcast
+Mostly,Cloudy
+Overcast,Cloudy
+snow,Showers
+snow,Cloudy
+snow,Rain
+snow,Overcast
+Showers,Cloudy
+Showers,Rain
+Showers,Overcast
+Cloudy,Rain
+Cloudy,Overcast
+Rain,Overcast
+light,Showers
+light,Mostly
+light,Cloudy
+light,Rain
+light,Light
+light,Overcast
+Showers,Mostly
+Showers,Cloudy
+Showers,Rain
+Showers,Light
+Showers,Overcast
+Mostly,Cloudy
+Mostly,Rain
+Mostly,Light
+Mostly,Overcast
+Cloudy,Rain
+Cloudy,Light
+Cloudy,Overcast
+Rain,Light
+Rain,Overcast
+Light,Overcast
+light,Showers
+light,Weather
+light,Cloudy
+light,Rain
+light,Rain Mist
+light,Light
+light,Overcast
+Showers,Weather
+Showers,Cloudy
+Showers,Rain
+Showers,Rain Mist
+Showers,Light
+Showers,Overcast
+Weather,Cloudy
+Weather,Rain
+Weather,Rain Mist
+Weather,Light
+Weather,Overcast
+Cloudy,Rain
+Cloudy,Rain Mist
+Cloudy,Light
+Cloudy,Overcast
+Rain,Rain Mist
+Rain,Light
+Rain,Overcast
+Rain Mist,Light
+Rain Mist,Overcast
+Light,Overcast
+Showers,Rain
+Showers,rain
+Showers,Heavy Rain
+Showers,Mist/Rain Fog
+Showers,Light
+Rain,rain
+Rain,Heavy Rain
+Rain,Mist/Rain Fog
+Rain,Light
+rain,Heavy Rain
+rain,Mist/Rain Fog
+rain,Light
+Heavy Rain,Mist/Rain Fog
+Heavy Rain,Light
+Mist/Rain Fog,Light
+light,Showers
+light,Partly and Breezy
+light,Mostly
+light,Scattered
+light,Short term Cloudy
+light,Cloudy
+light,Partly
+light,Clear
+light,Light
+Showers,Partly and Breezy
+Showers,Mostly
+Showers,Scattered
+Showers,Short term Cloudy
+Showers,Cloudy
+Showers,Partly
+Showers,Clear
+Showers,Light
+Partly and Breezy,Mostly
+Partly and Breezy,Scattered
+Partly and Breezy,Short term Cloudy
+Partly and Breezy,Cloudy
+Partly and Breezy,Partly
+Partly and Breezy,Clear
+Partly and Breezy,Light
+Mostly,Scattered
+Mostly,Short term Cloudy
+Mostly,Cloudy
+Mostly,Partly
+Mostly,Clear
+Mostly,Light
+Scattered,Short term Cloudy
+Scattered,Cloudy
+Scattered,Partly
+Scattered,Clear
+Scattered,Light
+Short term Cloudy,Cloudy
+Short term Cloudy,Partly
+Short term Cloudy,Clear
+Short term Cloudy,Light
+Cloudy,Partly
+Cloudy,Clear
+Cloudy,Light
+Partly,Clear
+Partly,Light
+Clear,Light
+Mostly,Overcast
+Mostly,cloudy
+Mostly,Cloudy
+Overcast,cloudy
+Overcast,Cloudy
+cloudy,Cloudy
+Mostly,Scattered
+Mostly,Partly
+Mostly,Sunny
+Mostly,sky
+Mostly,Clean
+Scattered,Partly
+Scattered,Sunny
+Scattered,sky
+Scattered,Clean
+Partly,Sunny
+Partly,sky
+Partly,Clean
+Sunny,sky
+Sunny,Clean
+sky,Clean
+Sunny,sky
+Sunny,Clear
+Sunny,Clean
+sky,Clear
+sky,Clean
+Clear,Clean
+Sunny,Mostly
+Sunny,clear
+Sunny,Clean
+Mostly,clear
+Mostly,Clean
+clear,Clean
+Sunny,Mostly
+Sunny,sky
+Sunny,Clean
+Mostly,sky
+Mostly,Clean
+sky,Clean
+Fog And,Mist/Fog
+Fog And,Cloudy
+Fog And,Mist
+Fog And,mostly
+Fog And,Clear
+Fog And,Overcast
+Mist/Fog,Cloudy
+Mist/Fog,Mist
+Mist/Fog,mostly
+Mist/Fog,Clear
+Mist/Fog,Overcast
+Cloudy,Mist
+Cloudy,mostly
+Cloudy,Clear
+Cloudy,Overcast
+Mist,mostly
+Mist,Clear
+Mist,Overcast
+mostly,Clear
+mostly,Overcast
+Clear,Overcast
+Haze,Overcast with
+Haze,Cloudy
+Haze,Unclear
+Haze,mostly
+Haze,Overcast
+Overcast with,Cloudy
+Overcast with,Unclear
+Overcast with,mostly
+Overcast with,Overcast
+Cloudy,Unclear
+Cloudy,mostly
+Cloudy,Overcast
+Unclear,mostly
+Unclear,Overcast
+mostly,Overcast
+Showers,Light Mist
+Showers,Cloudy
+Showers,Rain
+Showers,rain
+Showers,Short forecastRain
+Showers,Light
+Light Mist,Cloudy
+Light Mist,Rain
+Light Mist,rain
+Light Mist,Short forecastRain
+Light Mist,Light
+Cloudy,Rain
+Cloudy,rain
+Cloudy,Short forecastRain
+Cloudy,Light
+Rain,rain
+Rain,Short forecastRain
+Rain,Light
+rain,Short forecastRain
+rain,Light
+Short forecastRain,Light
+light,Light Mist
+light,Short term
+light,Cloudy
+light,Rain
+light,Light
+Light Mist,Short term
+Light Mist,Cloudy
+Light Mist,Rain
+Light Mist,Light
+Short term,Cloudy
+Short term,Rain
+Short term,Light
+Cloudy,Rain
+Cloudy,Light
+Rain,Light
+light,Short term
+light,Cloudy
+light,Rain
+light,Mist
+light,Drizzle Mist
+light,Drizzle
+light,Overcast
+Short term,Cloudy
+Short term,Rain
+Short term,Mist
+Short term,Drizzle Mist
+Short term,Drizzle
+Short term,Overcast
+Cloudy,Rain
+Cloudy,Mist
+Cloudy,Drizzle Mist
+Cloudy,Drizzle
+Cloudy,Overcast
+Rain,Mist
+Rain,Drizzle Mist
+Rain,Drizzle
+Rain,Overcast
+Mist,Drizzle Mist
+Mist,Drizzle
+Mist,Overcast
+Drizzle Mist,Drizzle
+Drizzle Mist,Overcast
+Drizzle,Overcast
+Showers,Fog
+Showers,Cloudy
+Showers,Mist
+Showers,Light Drizzle
+Showers,And Mist
+Showers,mostly
+Showers,Short forecastFog
+Showers,Light
+Fog,Cloudy
+Fog,Mist
+Fog,Light Drizzle
+Fog,And Mist
+Fog,mostly
+Fog,Short forecastFog
+Fog,Light
+Cloudy,Mist
+Cloudy,Light Drizzle
+Cloudy,And Mist
+Cloudy,mostly
+Cloudy,Short forecastFog
+Cloudy,Light
+Mist,Light Drizzle
+Mist,And Mist
+Mist,mostly
+Mist,Short forecastFog
+Mist,Light
+Light Drizzle,And Mist
+Light Drizzle,mostly
+Light Drizzle,Short forecastFog
+Light Drizzle,Light
+And Mist,mostly
+And Mist,Short forecastFog
+And Mist,Light
+mostly,Short forecastFog
+mostly,Light
+Short forecastFog,Light
+Showers,Light Fog
+Showers,Fog
+Showers,Cloudy
+Showers,term forecastFog
+Showers,Mist
+Showers,Fog Mist
+Showers,Light
+Showers,cloudy
+Light Fog,Fog
+Light Fog,Cloudy
+Light Fog,term forecastFog
+Light Fog,Mist
+Light Fog,Fog Mist
+Light Fog,Light
+Light Fog,cloudy
+Fog,Cloudy
+Fog,term forecastFog
+Fog,Mist
+Fog,Fog Mist
+Fog,Light
+Fog,cloudy
+Cloudy,term forecastFog
+Cloudy,Mist
+Cloudy,Fog Mist
+Cloudy,Light
+Cloudy,cloudy
+term forecastFog,Mist
+term forecastFog,Fog Mist
+term forecastFog,Light
+term forecastFog,cloudy
+Mist,Fog Mist
+Mist,Light
+Mist,cloudy
+Fog Mist,Light
+Fog Mist,cloudy
+Light,cloudy
+Showers,Light Fog
+Showers,Fog
+Showers,term forecastFog
+Showers,Mist
+Showers,And Mist
+Showers,Drizzle
+Showers,Foggy
+Showers,cloudy
+Light Fog,Fog
+Light Fog,term forecastFog
+Light Fog,Mist
+Light Fog,And Mist
+Light Fog,Drizzle
+Light Fog,Foggy
+Light Fog,cloudy
+Fog,term forecastFog
+Fog,Mist
+Fog,And Mist
+Fog,Drizzle
+Fog,Foggy
+Fog,cloudy
+term forecastFog,Mist
+term forecastFog,And Mist
+term forecastFog,Drizzle
+term forecastFog,Foggy
+term forecastFog,cloudy
+Mist,And Mist
+Mist,Drizzle
+Mist,Foggy
+Mist,cloudy
+And Mist,Drizzle
+And Mist,Foggy
+And Mist,cloudy
+Drizzle,Foggy
+Drizzle,cloudy
+Foggy,cloudy
+Showers,Light Mist
+Showers,Fog And
+Showers,Fog
+Showers,term forecastFog
+Showers,Mist
+Showers,Foggy
+Showers,Light
+Showers,cloudy
+Light Mist,Fog And
+Light Mist,Fog
+Light Mist,term forecastFog
+Light Mist,Mist
+Light Mist,Foggy
+Light Mist,Light
+Light Mist,cloudy
+Fog And,Fog
+Fog And,term forecastFog
+Fog And,Mist
+Fog And,Foggy
+Fog And,Light
+Fog And,cloudy
+Fog,term forecastFog
+Fog,Mist
+Fog,Foggy
+Fog,Light
+Fog,cloudy
+term forecastFog,Mist
+term forecastFog,Foggy
+term forecastFog,Light
+term forecastFog,cloudy
+Mist,Foggy
+Mist,Light
+Mist,cloudy
+Foggy,Light
+Foggy,cloudy
+Light,cloudy
+Short term,Cloudy
+Short term,Mist
+Short term,Unclear
+Short term,cloudy
+Short term,Overcast
+Cloudy,Mist
+Cloudy,Unclear
+Cloudy,cloudy
+Cloudy,Overcast
+Mist,Unclear
+Mist,cloudy
+Mist,Overcast
+Unclear,cloudy
+Unclear,Overcast
+cloudy,Overcast
+light,term forecastRain
+light,Showers
+light,Light Mist
+light,Rain
+light,Light
+term forecastRain,Showers
+term forecastRain,Light Mist
+term forecastRain,Rain
+term forecastRain,Light
+Showers,Light Mist
+Showers,Rain
+Showers,Light
+Light Mist,Rain
+Light Mist,Light
+Rain,Light
+WarningsRain,Rain
+WarningsRain,Mist
+WarningsRain,Heavy
+WarningsRain,moderate
+Rain,Mist
+Rain,Heavy
+Rain,moderate
+Mist,Heavy
+Mist,moderate
+Heavy,moderate
+light,Showers
+light,Weather
+light,Cloudy
+light,Rain
+light,Rain Mist
+light,Light
+Showers,Weather
+Showers,Cloudy
+Showers,Rain
+Showers,Rain Mist
+Showers,Light
+Weather,Cloudy
+Weather,Rain
+Weather,Rain Mist
+Weather,Light
+Cloudy,Rain
+Cloudy,Rain Mist
+Cloudy,Light
+Rain,Rain Mist
+Rain,Light
+Rain Mist,Light
+light,Showers
+light,Light Rain
+light,Weather
+light,Rain
+light,Light
+Showers,Light Rain
+Showers,Weather
+Showers,Rain
+Showers,Light
+Light Rain,Weather
+Light Rain,Rain
+Light Rain,Light
+Weather,Rain
+Weather,Light
+Rain,Light
+Clouds And,Mostly
+Clouds And,Cloudy
+Clouds And,Clear
+Clouds And,Intermittent
+Clouds And,Sunny
+Clouds And,cloudy
+Mostly,Cloudy
+Mostly,Clear
+Mostly,Intermittent
+Mostly,Sunny
+Mostly,cloudy
+Cloudy,Clear
+Cloudy,Intermittent
+Cloudy,Sunny
+Cloudy,cloudy
+Clear,Intermittent
+Clear,Sunny
+Clear,cloudy
+Intermittent,Sunny
+Intermittent,cloudy
+Sunny,cloudy
+Mostly,Partly
+Mostly,Cloudy
+Mostly,Clouds
+Mostly,Clear
+Mostly,Sunny
+Mostly,sky
+Partly,Cloudy
+Partly,Clouds
+Partly,Clear
+Partly,Sunny
+Partly,sky
+Cloudy,Clouds
+Cloudy,Clear
+Cloudy,Sunny
+Cloudy,sky
+Clouds,Clear
+Clouds,Sunny
+Clouds,sky
+Clear,Sunny
+Clear,sky
+Sunny,sky
+Haze,Mostly
+Haze,Cloudy
+Haze,Clouds
+Haze,Unclear
+Haze,mostly
+Haze,Sunny
+Haze,Clean
+Mostly,Cloudy
+Mostly,Clouds
+Mostly,Unclear
+Mostly,mostly
+Mostly,Sunny
+Mostly,Clean
+Cloudy,Clouds
+Cloudy,Unclear
+Cloudy,mostly
+Cloudy,Sunny
+Cloudy,Clean
+Clouds,Unclear
+Clouds,mostly
+Clouds,Sunny
+Clouds,Clean
+Unclear,mostly
+Unclear,Sunny
+Unclear,Clean
+mostly,Sunny
+mostly,Clean
+Sunny,Clean
+Mostly,Fog
+Mostly,Cloudy
+Mostly,Mist
+Mostly,Clouds
+Mostly,Unclear
+Mostly,cloudy
+Mostly,Clean
+Fog,Cloudy
+Fog,Mist
+Fog,Clouds
+Fog,Unclear
+Fog,cloudy
+Fog,Clean
+Cloudy,Mist
+Cloudy,Clouds
+Cloudy,Unclear
+Cloudy,cloudy
+Cloudy,Clean
+Mist,Clouds
+Mist,Unclear
+Mist,cloudy
+Mist,Clean
+Clouds,Unclear
+Clouds,cloudy
+Clouds,Clean
+Unclear,cloudy
+Unclear,Clean
+cloudy,Clean
+Haze,Mostly
+Haze,Cloudy
+Haze,Some
+Haze,Clouds
+Haze,Unclear
+Haze,Sunny
+Haze,cloudy
+Haze,Clean
+Mostly,Cloudy
+Mostly,Some
+Mostly,Clouds
+Mostly,Unclear
+Mostly,Sunny
+Mostly,cloudy
+Mostly,Clean
+Cloudy,Some
+Cloudy,Clouds
+Cloudy,Unclear
+Cloudy,Sunny
+Cloudy,cloudy
+Cloudy,Clean
+Some,Clouds
+Some,Unclear
+Some,Sunny
+Some,cloudy
+Some,Clean
+Clouds,Unclear
+Clouds,Sunny
+Clouds,cloudy
+Clouds,Clean
+Unclear,Sunny
+Unclear,cloudy
+Unclear,Clean
+Sunny,cloudy
+Sunny,Clean
+cloudy,Clean
+High Surf,Fog
+High Surf,Mist
+High Surf,Unclear
+High Surf,Clear
+High Surf,Sunny
+High Surf,sky
+Fog,Mist
+Fog,Unclear
+Fog,Clear
+Fog,Sunny
+Fog,sky
+Mist,Unclear
+Mist,Clear
+Mist,Sunny
+Mist,sky
+Unclear,Clear
+Unclear,Sunny
+Unclear,sky
+Clear,Sunny
+Clear,sky
+Sunny,sky
+High Surf,Fog
+High Surf,Cloudy
+High Surf,Partly
+High Surf,Mist
+High Surf,And Mist
+High Surf,Clear
+High Surf,Sunny
+High Surf,sky
+High Surf,Light
+Fog,Cloudy
+Fog,Partly
+Fog,Mist
+Fog,And Mist
+Fog,Clear
+Fog,Sunny
+Fog,sky
+Fog,Light
+Cloudy,Partly
+Cloudy,Mist
+Cloudy,And Mist
+Cloudy,Clear
+Cloudy,Sunny
+Cloudy,sky
+Cloudy,Light
+Partly,Mist
+Partly,And Mist
+Partly,Clear
+Partly,Sunny
+Partly,sky
+Partly,Light
+Mist,And Mist
+Mist,Clear
+Mist,Sunny
+Mist,sky
+Mist,Light
+And Mist,Clear
+And Mist,Sunny
+And Mist,sky
+And Mist,Light
+Clear,Sunny
+Clear,sky
+Clear,Light
+Sunny,sky
+Sunny,Light
+sky,Light
+High Surf,Clouds And
+High Surf,Mostly
+High Surf,Fog
+High Surf,Cloudy
+High Surf,Partly
+High Surf,Mist
+High Surf,Clouds
+High Surf,And Mist
+High Surf,Light
+High Surf,cloudy
+Clouds And,Mostly
+Clouds And,Fog
+Clouds And,Cloudy
+Clouds And,Partly
+Clouds And,Mist
+Clouds And,Clouds
+Clouds And,And Mist
+Clouds And,Light
+Clouds And,cloudy
+Mostly,Fog
+Mostly,Cloudy
+Mostly,Partly
+Mostly,Mist
+Mostly,Clouds
+Mostly,And Mist
+Mostly,Light
+Mostly,cloudy
+Fog,Cloudy
+Fog,Partly
+Fog,Mist
+Fog,Clouds
+Fog,And Mist
+Fog,Light
+Fog,cloudy
+Cloudy,Partly
+Cloudy,Mist
+Cloudy,Clouds
+Cloudy,And Mist
+Cloudy,Light
+Cloudy,cloudy
+Partly,Mist
+Partly,Clouds
+Partly,And Mist
+Partly,Light
+Partly,cloudy
+Mist,Clouds
+Mist,And Mist
+Mist,Light
+Mist,cloudy
+Clouds,And Mist
+Clouds,Light
+Clouds,cloudy
+And Mist,Light
+And Mist,cloudy
+Light,cloudy
+clear,High Surf AdvisoryPartly
+clear,Mostly
+clear,Scattered
+clear,Partly
+clear,Cloudy
+clear,Clear
+clear,Sunny
+High Surf AdvisoryPartly,Mostly
+High Surf AdvisoryPartly,Scattered
+High Surf AdvisoryPartly,Partly
+High Surf AdvisoryPartly,Cloudy
+High Surf AdvisoryPartly,Clear
+High Surf AdvisoryPartly,Sunny
+Mostly,Scattered
+Mostly,Partly
+Mostly,Cloudy
+Mostly,Clear
+Mostly,Sunny
+Scattered,Partly
+Scattered,Cloudy
+Scattered,Clear
+Scattered,Sunny
+Partly,Cloudy
+Partly,Clear
+Partly,Sunny
+Cloudy,Clear
+Cloudy,Sunny
+Clear,Sunny
+clear,Mostly
+clear,Scattered
+clear,Partly
+clear,Cloudy
+clear,Surf AdvisoryPartly Cloudy
+clear,Clouds
+clear,Sunny
+Mostly,Scattered
+Mostly,Partly
+Mostly,Cloudy
+Mostly,Surf AdvisoryPartly Cloudy
+Mostly,Clouds
+Mostly,Sunny
+Scattered,Partly
+Scattered,Cloudy
+Scattered,Surf AdvisoryPartly Cloudy
+Scattered,Clouds
+Scattered,Sunny
+Partly,Cloudy
+Partly,Surf AdvisoryPartly Cloudy
+Partly,Clouds
+Partly,Sunny
+Cloudy,Surf AdvisoryPartly Cloudy
+Cloudy,Clouds
+Cloudy,Sunny
+Surf AdvisoryPartly Cloudy,Clouds
+Surf AdvisoryPartly Cloudy,Sunny
+Clouds,Sunny
+Mostly,Scattered
+Mostly,Partly
+Mostly,Cloudy
+Mostly,Clouds
+Mostly,Sunny
+Mostly,sky
+Scattered,Partly
+Scattered,Cloudy
+Scattered,Clouds
+Scattered,Sunny
+Scattered,sky
+Partly,Cloudy
+Partly,Clouds
+Partly,Sunny
+Partly,sky
+Cloudy,Clouds
+Cloudy,Sunny
+Cloudy,sky
+Clouds,Sunny
+Clouds,sky
+Sunny,sky
+Haze,Mostly
+Haze,Partly
+Haze,Unclear
+Haze,Sunny
+Haze,sky
+Mostly,Partly
+Mostly,Unclear
+Mostly,Sunny
+Mostly,sky
+Partly,Unclear
+Partly,Sunny
+Partly,sky
+Unclear,Sunny
+Unclear,sky
+Sunny,sky
+Haze,clear
+Haze,Partly
+Haze,Cloudy
+Haze,Unclear
+Haze,Sunny
+clear,Partly
+clear,Cloudy
+clear,Unclear
+clear,Sunny
+Partly,Cloudy
+Partly,Unclear
+Partly,Sunny
+Cloudy,Unclear
+Cloudy,Sunny
+Unclear,Sunny
+clear,Mostly
+clear,Scattered
+clear,Cloudy
+clear,Partly
+clear,Sunny
+Mostly,Scattered
+Mostly,Cloudy
+Mostly,Partly
+Mostly,Sunny
+Scattered,Cloudy
+Scattered,Partly
+Scattered,Sunny
+Cloudy,Partly
+Cloudy,Sunny
+Partly,Sunny
+clear,Few
+clear,Partly
+clear,Cloudy
+clear,Weather WarningsMostly
+clear,Sunny
+Few,Partly
+Few,Cloudy
+Few,Weather WarningsMostly
+Few,Sunny
+Partly,Cloudy
+Partly,Weather WarningsMostly
+Partly,Sunny
+Cloudy,Weather WarningsMostly
+Cloudy,Sunny
+Weather WarningsMostly,Sunny
+clear,Mostly
+clear,Special weather statementMostly
+clear,Cloudy
+clear,Partly
+clear,Clouds
+Mostly,Special weather statementMostly
+Mostly,Cloudy
+Mostly,Partly
+Mostly,Clouds
+Special weather statementMostly,Cloudy
+Special weather statementMostly,Partly
+Special weather statementMostly,Clouds
+Cloudy,Partly
+Cloudy,Clouds
+Partly,Clouds
+Haze,Mostly
+Haze,Cloudy
+Haze,Special weather
+Haze,Unclear
+Haze,mostly
+Mostly,Cloudy
+Mostly,Special weather
+Mostly,Unclear
+Mostly,mostly
+Cloudy,Special weather
+Cloudy,Unclear
+Cloudy,mostly
+Special weather,Unclear
+Special weather,mostly
+Unclear,mostly
+Unclear,Cloudy
+Mostly,Cloudy
+Mostly,Clouds
+Mostly,And Sun
+Mostly,Intermittent
+Mostly,Sunny
+Mostly,cloudy
+Cloudy,Clouds
+Cloudy,And Sun
+Cloudy,Intermittent
+Cloudy,Sunny
+Cloudy,cloudy
+Clouds,And Sun
+Clouds,Intermittent
+Clouds,Sunny
+Clouds,cloudy
+And Sun,Intermittent
+And Sun,Sunny
+And Sun,cloudy
+Intermittent,Sunny
+Intermittent,cloudy
+Sunny,cloudy
+Haze,clear
+Haze,Mostly
+Haze,Partly
+Haze,Cloudy
+Haze,Some
+Haze,Clouds
+Haze,Unclear
+Haze,Clean
+clear,Mostly
+clear,Partly
+clear,Cloudy
+clear,Some
+clear,Clouds
+clear,Unclear
+clear,Clean
+Mostly,Partly
+Mostly,Cloudy
+Mostly,Some
+Mostly,Clouds
+Mostly,Unclear
+Mostly,Clean
+Partly,Cloudy
+Partly,Some
+Partly,Clouds
+Partly,Unclear
+Partly,Clean
+Cloudy,Some
+Cloudy,Clouds
+Cloudy,Unclear
+Cloudy,Clean
+Some,Clouds
+Some,Unclear
+Some,Clean
+Clouds,Unclear
+Clouds,Clean
+Unclear,Clean
+Haze,Mostly
+Haze,Cloudy
+Haze,Unclear
+Haze,cloudy
+Haze,Overcast
+Mostly,Cloudy
+Mostly,Unclear
+Mostly,cloudy
+Mostly,Overcast
+Cloudy,Unclear
+Cloudy,cloudy
+Cloudy,Overcast
+Unclear,cloudy
+Unclear,Overcast
+cloudy,Overcast
+Haze,Mostly
+Haze,Cloudy
+Haze,Clouds
+Haze,Unclear
+Haze,mostly
+Haze,And Sun
+Haze,Intermittent
+Mostly,Cloudy
+Mostly,Clouds
+Mostly,Unclear
+Mostly,mostly
+Mostly,And Sun
+Mostly,Intermittent
+Cloudy,Clouds
+Cloudy,Unclear
+Cloudy,mostly
+Cloudy,And Sun
+Cloudy,Intermittent
+Clouds,Unclear
+Clouds,mostly
+Clouds,And Sun
+Clouds,Intermittent
+Unclear,mostly
+Unclear,And Sun
+Unclear,Intermittent
+mostly,And Sun
+mostly,Intermittent
+And Sun,Intermittent
+Clouds And,Mostly
+Clouds And,Cloudy
+Clouds And,Clouds
+Clouds And,cloudy
+Mostly,Cloudy
+Mostly,Clouds
+Mostly,cloudy
+Cloudy,Clouds
+Cloudy,cloudy
+Clouds,cloudy
+Mostly,Weather WarningsMostly
+Mostly,cloudy
+Mostly,Cloudy
+Weather WarningsMostly,cloudy
+Weather WarningsMostly,Cloudy
+cloudy,Cloudy
+Haze,Mostly
+Haze,Weather
+Haze,Cloudy
+Haze,Unclear
+Haze,cloudy
+Mostly,Weather
+Mostly,Cloudy
+Mostly,Unclear
+Mostly,cloudy
+Weather,Cloudy
+Weather,Unclear
+Weather,cloudy
+Cloudy,Unclear
+Cloudy,cloudy
+Unclear,cloudy
+Haze,WarningsHaze
+Haze,Mostly
+Haze,Cloudy
+Haze,Unclear
+Haze,mostly
+WarningsHaze,Mostly
+WarningsHaze,Cloudy
+WarningsHaze,Unclear
+WarningsHaze,mostly
+Mostly,Cloudy
+Mostly,Unclear
+Mostly,mostly
+Cloudy,Unclear
+Cloudy,mostly
+Unclear,mostly
+Mostly,mostly
+Mostly,Weather Cloudy
+Mostly,Cloudy
+mostly,Weather Cloudy
+mostly,Cloudy
+Weather Cloudy,Cloudy
+Mostly,Partly
+Mostly,Cloudy
+Mostly,Mist
+Mostly,cloudy
+Mostly,Overcast
+Partly,Cloudy
+Partly,Mist
+Partly,cloudy
+Partly,Overcast
+Cloudy,Mist
+Cloudy,cloudy
+Cloudy,Overcast
+Mist,cloudy
+Mist,Overcast
+cloudy,Overcast
+Mostly,Lt
+Mostly,mostly
+Mostly,Cloudy
+Lt,mostly
+Lt,Cloudy
+mostly,Cloudy
+Mostly,cloudy
+Mostly,Cloudy
+cloudy,Cloudy
+Mostly,cloudy
+Mostly,Cloudy
+cloudy,Cloudy
+Mostly,Cloudy
+Mostly,Clouds
+Mostly,Intermittent
+Mostly,cloudy
+Cloudy,Clouds
+Cloudy,Intermittent
+Cloudy,cloudy
+Clouds,Intermittent
+Clouds,cloudy
+Intermittent,cloudy
+Showers,Mostly
+Showers,Cloudy
+Showers,Rain
+Showers,Light
+Showers,cloudy
+Showers,Overcast
+Mostly,Cloudy
+Mostly,Rain
+Mostly,Light
+Mostly,cloudy
+Mostly,Overcast
+Cloudy,Rain
+Cloudy,Light
+Cloudy,cloudy
+Cloudy,Overcast
+Rain,Light
+Rain,cloudy
+Rain,Overcast
+Light,cloudy
+Light,Overcast
+cloudy,Overcast
+Rain,Showers
+Rain,Light
+Rain,rain
+Showers,Light
+Showers,rain
+Light,rain
+light,Showers
+light,Cloudy
+light,Rain
+light,Mist
+light,Overcast
+Showers,Cloudy
+Showers,Rain
+Showers,Mist
+Showers,Overcast
+Cloudy,Rain
+Cloudy,Mist
+Cloudy,Overcast
+Rain,Mist
+Rain,Overcast
+Mist,Overcast
+light,Showers
+light,Light Rain
+light,Cloudy
+light,Rain
+light,Overcast
+Showers,Light Rain
+Showers,Cloudy
+Showers,Rain
+Showers,Overcast
+Light Rain,Cloudy
+Light Rain,Rain
+Light Rain,Overcast
+Cloudy,Rain
+Cloudy,Overcast
+Rain,Overcast
+clear,Mostly
+clear,Scattered
+clear,Partly
+clear,Cloudy
+clear,Clear
+Mostly,Scattered
+Mostly,Partly
+Mostly,Cloudy
+Mostly,Clear
+Scattered,Partly
+Scattered,Cloudy
+Scattered,Clear
+Partly,Cloudy
+Partly,Clear
+Cloudy,Clear
+clear,Mostly
+clear,Scattered
+clear,Cloudy
+clear,Partly
+clear,Clouds
+Mostly,Scattered
+Mostly,Cloudy
+Mostly,Partly
+Mostly,Clouds
+Scattered,Cloudy
+Scattered,Partly
+Scattered,Clouds
+Cloudy,Partly
+Cloudy,Clouds
+Partly,Clouds
+Mostly,Partly
+Mostly,mostly
+Mostly,Cloudy
+Partly,mostly
+Partly,Cloudy
+mostly,Cloudy
+Mostly,Cloudy
+Mostly,mostly
+Mostly,Partly
+Cloudy,mostly
+Cloudy,Partly
+mostly,Partly
+Mostly,Scattered
+Mostly,Cloudy
+Mostly,Partly
+Mostly,mostly
+Scattered,Cloudy
+Scattered,Partly
+Scattered,mostly
+Cloudy,Partly
+Cloudy,mostly
+Partly,mostly
+Scattered,Cloudy
+Scattered,Partly
+Scattered,Clouds
+Scattered,Clear
+Scattered,Sunny
+Scattered,sky
+Cloudy,Partly
+Cloudy,Clouds
+Cloudy,Clear
+Cloudy,Sunny
+Cloudy,sky
+Partly,Clouds
+Partly,Clear
+Partly,Sunny
+Partly,sky
+Clouds,Clear
+Clouds,Sunny
+Clouds,sky
+Clear,Sunny
+Clear,sky
+Sunny,sky
+clear,Mostly
+clear,Scattered
+clear,Partly
+clear,Cloudy
+clear,Sunny
+Mostly,Scattered
+Mostly,Partly
+Mostly,Cloudy
+Mostly,Sunny
+Scattered,Partly
+Scattered,Cloudy
+Scattered,Sunny
+Partly,Cloudy
+Partly,Sunny
+Cloudy,Sunny
+clear,Few
+clear,Mostly
+clear,Cloudy
+clear,Partly
+Few,Mostly
+Few,Cloudy
+Few,Partly
+Mostly,Cloudy
+Mostly,Partly
+Cloudy,Partly
+Mostly,Cloudy
+Mostly,Partly
+Mostly,Clouds
+Mostly,Sunny
+Mostly,sky
+Cloudy,Partly
+Cloudy,Clouds
+Cloudy,Sunny
+Cloudy,sky
+Partly,Clouds
+Partly,Sunny
+Partly,sky
+Clouds,Sunny
+Clouds,sky
+Sunny,sky
+Few,Partly
+Few,Cloudy
+Few,Clear
+Few,Sunny
+Few,sky
+Partly,Cloudy
+Partly,Clear
+Partly,Sunny
+Partly,sky
+Cloudy,Clear
+Cloudy,Sunny
+Cloudy,sky
+Clear,Sunny
+Clear,sky
+Sunny,sky
+Mostly,Partly
+Mostly,Cloudy
+Mostly,Clouds
+Mostly,cloudy
+Partly,Cloudy
+Partly,Clouds
+Partly,cloudy
+Cloudy,Clouds
+Cloudy,cloudy
+Clouds,cloudy
+Mostly,Partly
+Mostly,Cloudy
+Mostly,Some
+Mostly,Clouds
+Mostly,mostly
+Mostly,Intermittent
+Partly,Cloudy
+Partly,Some
+Partly,Clouds
+Partly,mostly
+Partly,Intermittent
+Cloudy,Some
+Cloudy,Clouds
+Cloudy,mostly
+Cloudy,Intermittent
+Some,Clouds
+Some,mostly
+Some,Intermittent
+Clouds,mostly
+Clouds,Intermittent
+mostly,Intermittent
+Mostly,Cloudy
+Mostly,Clouds
+Mostly,Intermittent
+Mostly,cloudy
+Mostly,Overcast
+Cloudy,Clouds
+Cloudy,Intermittent
+Cloudy,cloudy
+Cloudy,Overcast
+Clouds,Intermittent
+Clouds,cloudy
+Clouds,Overcast
+Intermittent,cloudy
+Intermittent,Overcast
+cloudy,Overcast
+Overcast,mostly
+Overcast,Cloudy
+mostly,Cloudy
+Overcast,cloudy
+Overcast,Cloudy
+cloudy,Cloudy
+Mostly,Overcast
+Mostly,cloudy
+Mostly,Cloudy
+Overcast,cloudy
+Overcast,Cloudy
+cloudy,Cloudy
+Overcast,mostly
+Overcast,Cloudy
+mostly,Cloudy
+Mostly,Showers
+Mostly,cloudy
+Mostly,Cloudy
+Showers,cloudy
+Showers,Cloudy
+cloudy,Cloudy
+Mostly,Overcast
+Mostly,cloudy
+Mostly,Cloudy
+Overcast,cloudy
+Overcast,Cloudy
+cloudy,Cloudy
+Mostly,mostly
+Mostly,Cloudy
+mostly,Cloudy
+Mostly,mostly
+Mostly,Cloudy
+mostly,Cloudy
+Mostly,Scattered
+Mostly,Cloudy
+Mostly,Partly
+Mostly,Clouds
+Mostly,Clear
+Mostly,cloudy
+Scattered,Cloudy
+Scattered,Partly
+Scattered,Clouds
+Scattered,Clear
+Scattered,cloudy
+Cloudy,Partly
+Cloudy,Clouds
+Cloudy,Clear
+Cloudy,cloudy
+Partly,Clouds
+Partly,Clear
+Partly,cloudy
+Clouds,Clear
+Clouds,cloudy
+Clear,cloudy
+Mostly,mostly
+Mostly,Cloudy
+mostly,Cloudy
+Mostly,sky
+Mostly,Clear
+Mostly,Cloudy
+sky,Clear
+sky,Cloudy
+Clear,Cloudy
+Mostly,Scattered
+Mostly,Partly
+Mostly,Cloudy
+Mostly,Clouds
+Mostly,Sunny
+Mostly,cloudy
+Scattered,Partly
+Scattered,Cloudy
+Scattered,Clouds
+Scattered,Sunny
+Scattered,cloudy
+Partly,Cloudy
+Partly,Clouds
+Partly,Sunny
+Partly,cloudy
+Cloudy,Clouds
+Cloudy,Sunny
+Cloudy,cloudy
+Clouds,Sunny
+Clouds,cloudy
+Sunny,cloudy
+Mostly,Partly
+Mostly,cloudy
+Mostly,Cloudy
+Partly,cloudy
+Partly,Cloudy
+cloudy,Cloudy
+Mostly,Overcast
+Mostly,mostly
+Mostly,Cloudy
+Overcast,mostly
+Overcast,Cloudy
+mostly,Cloudy
+Scattered,Partly
+Scattered,Cloudy
+Scattered,Clouds
+Scattered,Clear
+Scattered,sky
+Partly,Cloudy
+Partly,Clouds
+Partly,Clear
+Partly,sky
+Cloudy,Clouds
+Cloudy,Clear
+Cloudy,sky
+Clouds,Clear
+Clouds,sky
+Clear,sky
+Sunny,Cloudy
+Sunny,sky
+Sunny,Clean
+Cloudy,sky
+Cloudy,Clean
+sky,Clean
+Mostly,Cloudy
+Mostly,mostly
+Mostly,Overcast
+Cloudy,mostly
+Cloudy,Overcast
+mostly,Overcast
+Mostly,Scattered
+Mostly,Partly
+Mostly,Cloudy
+Mostly,Clouds
+Mostly,mostly
+Scattered,Partly
+Scattered,Cloudy
+Scattered,Clouds
+Scattered,mostly
+Partly,Cloudy
+Partly,Clouds
+Partly,mostly
+Cloudy,Clouds
+Cloudy,mostly
+Clouds,mostly
+Mostly,Cloudy
+Mostly,Rain
+Mostly,Short forecastMostly Cloudy
+Mostly,cloudy
+Mostly,Overcast
+Cloudy,Rain
+Cloudy,Short forecastMostly Cloudy
+Cloudy,cloudy
+Cloudy,Overcast
+Rain,Short forecastMostly Cloudy
+Rain,cloudy
+Rain,Overcast
+Short forecastMostly Cloudy,cloudy
+Short forecastMostly Cloudy,Overcast
+cloudy,Overcast
+Mostly,Overcast
+Mostly,mostly
+Mostly,Cloudy
+Overcast,mostly
+Overcast,Cloudy
+mostly,Cloudy
+Overcast,mostly
+Overcast,Cloudy
+mostly,Cloudy
+Mostly,Partly
+Mostly,Cloudy
+Mostly,Clouds
+Mostly,Sunny
+Mostly,sky
+Partly,Cloudy
+Partly,Clouds
+Partly,Sunny
+Partly,sky
+Cloudy,Clouds
+Cloudy,Sunny
+Cloudy,sky
+Clouds,Sunny
+Clouds,sky
+Sunny,sky
+clear,Cloudy
+clear,Partly
+clear,Clouds
+clear,Sunny
+Cloudy,Partly
+Cloudy,Clouds
+Cloudy,Sunny
+Partly,Clouds
+Partly,Sunny
+Clouds,Sunny
+clear,Fog And
+clear,Fog
+clear,Partly
+clear,Mist
+clear,Sunny
+clear,Clean
+Fog And,Fog
+Fog And,Partly
+Fog And,Mist
+Fog And,Sunny
+Fog And,Clean
+Fog,Partly
+Fog,Mist
+Fog,Sunny
+Fog,Clean
+Partly,Mist
+Partly,Sunny
+Partly,Clean
+Mist,Sunny
+Mist,Clean
+Sunny,Clean
+Mostly,mostly
+Mostly,Cloudy
+mostly,Cloudy
+Mostly,Scattered
+Mostly,Cloudy
+Mostly,Partly
+Mostly,Sunny
+Mostly,sky
+Scattered,Cloudy
+Scattered,Partly
+Scattered,Sunny
+Scattered,sky
+Cloudy,Partly
+Cloudy,Sunny
+Cloudy,sky
+Partly,Sunny
+Partly,sky
+Sunny,sky
+Clean,Cloudy
+Mostly,Cloudy
+Mostly,Clouds
+Mostly,mostly
+Mostly,Intermittent
+Cloudy,Clouds
+Cloudy,mostly
+Cloudy,Intermittent
+Clouds,mostly
+Clouds,Intermittent
+mostly,Intermittent
+Overcast,cloudy
+Overcast,Cloudy
+cloudy,Cloudy
+Mostly,Scattered
+Mostly,Partly
+Mostly,Cloudy
+Mostly,Clouds
+Mostly,cloudy
+Scattered,Partly
+Scattered,Cloudy
+Scattered,Clouds
+Scattered,cloudy
+Partly,Cloudy
+Partly,Clouds
+Partly,cloudy
+Cloudy,Clouds
+Cloudy,cloudy
+Clouds,cloudy
+Mostly,Fog And
+Mostly,Fog
+Mostly,Partly
+Mostly,Cloudy
+Mostly,Sunny
+Mostly,sky
+Fog And,Fog
+Fog And,Partly
+Fog And,Cloudy
+Fog And,Sunny
+Fog And,sky
+Fog,Partly
+Fog,Cloudy
+Fog,Sunny
+Fog,sky
+Partly,Cloudy
+Partly,Sunny
+Partly,sky
+Cloudy,Sunny
+Cloudy,sky
+Sunny,sky
+Mostly,Fog
+Mostly,Cloudy
+Mostly,mostly
+Mostly,Clear
+Mostly,Patches Fog
+Mostly,Sunny
+Fog,Cloudy
+Fog,mostly
+Fog,Clear
+Fog,Patches Fog
+Fog,Sunny
+Cloudy,mostly
+Cloudy,Clear
+Cloudy,Patches Fog
+Cloudy,Sunny
+mostly,Clear
+mostly,Patches Fog
+mostly,Sunny
+Clear,Patches Fog
+Clear,Sunny
+Patches Fog,Sunny
+Mostly,Scattered
+Mostly,Cloudy
+Mostly,Partly
+Mostly,Clouds
+Mostly,mostly
+Mostly,Sunny
+Scattered,Cloudy
+Scattered,Partly
+Scattered,Clouds
+Scattered,mostly
+Scattered,Sunny
+Cloudy,Partly
+Cloudy,Clouds
+Cloudy,mostly
+Cloudy,Sunny
+Partly,Clouds
+Partly,mostly
+Partly,Sunny
+Clouds,mostly
+Clouds,Sunny
+mostly,Sunny
+Overcast,cloudy
+Overcast,Cloudy
+cloudy,Cloudy
+Lt,Showers
+Lt,Rain
+Lt,rain
+Lt,Light
+Showers,Rain
+Showers,rain
+Showers,Light
+Rain,rain
+Rain,Light
+rain,Light
+Lt,Showers
+Lt,Cloudy
+Lt,Rain
+Lt,mostly
+Lt,Light
+Lt,Overcast
+Showers,Cloudy
+Showers,Rain
+Showers,mostly
+Showers,Light
+Showers,Overcast
+Cloudy,Rain
+Cloudy,mostly
+Cloudy,Light
+Cloudy,Overcast
+Rain,mostly
+Rain,Light
+Rain,Overcast
+mostly,Light
+mostly,Overcast
+Light,Overcast
+light,Lt
+light,Showers
+light,Rain
+light,Light
+Lt,Showers
+Lt,Rain
+Lt,Light
+Showers,Rain
+Showers,Light
+Rain,Light
+Showers,Cloudy
+Showers,Rain
+Showers,mostly
+Showers,Light
+Showers,Overcast
+Cloudy,Rain
+Cloudy,mostly
+Cloudy,Light
+Cloudy,Overcast
+Rain,mostly
+Rain,Light
+Rain,Overcast
+mostly,Light
+mostly,Overcast
+Light,Overcast
+Showers,Mostly
+Showers,Cloudy
+Showers,Rain
+Showers,Mist
+Showers,cloudy
+Showers,Overcast
+Mostly,Cloudy
+Mostly,Rain
+Mostly,Mist
+Mostly,cloudy
+Mostly,Overcast
+Cloudy,Rain
+Cloudy,Mist
+Cloudy,cloudy
+Cloudy,Overcast
+Rain,Mist
+Rain,cloudy
+Rain,Overcast
+Mist,cloudy
+Mist,Overcast
+cloudy,Overcast
+Showers,Mostly
+Showers,Cloudy
+Showers,mostly
+Showers,Sunny
+Mostly,Cloudy
+Mostly,mostly
+Mostly,Sunny
+Cloudy,mostly
+Cloudy,Sunny
+mostly,Sunny
+Mostly,Partly
+Mostly,mostly
+Mostly,Cloudy
+Partly,mostly
+Partly,Cloudy
+mostly,Cloudy
+Overcast,mostly
+Overcast,Cloudy
+mostly,Cloudy
+light,Showers
+light,Cloudy
+light,Rain
+light,Light
+light,Overcast
+Showers,Cloudy
+Showers,Rain
+Showers,Light
+Showers,Overcast
+Cloudy,Rain
+Cloudy,Light
+Cloudy,Overcast
+Rain,Light
+Rain,Overcast
+Light,Overcast
+Rain,Showers
+Rain,Light
+Rain,rain
+Showers,Light
+Showers,rain
+Light,rain
+clear,Mostly
+clear,Partly
+clear,Cloudy
+clear,Clouds
+clear,Sunny
+Mostly,Partly
+Mostly,Cloudy
+Mostly,Clouds
+Mostly,Sunny
+Partly,Cloudy
+Partly,Clouds
+Partly,Sunny
+Cloudy,Clouds
+Cloudy,Sunny
+Clouds,Sunny
+clear,Mostly
+clear,Cloudy
+clear,Clouds
+clear,Intermittent
+clear,Sunny
+Mostly,Cloudy
+Mostly,Clouds
+Mostly,Intermittent
+Mostly,Sunny
+Cloudy,Clouds
+Cloudy,Intermittent
+Cloudy,Sunny
+Clouds,Intermittent
+Clouds,Sunny
+Intermittent,Sunny
+Scattered,Cloudy
+Scattered,Partly
+Scattered,Clouds
+Scattered,Clear
+Scattered,Sunny
+Scattered,cloudy
+Cloudy,Partly
+Cloudy,Clouds
+Cloudy,Clear
+Cloudy,Sunny
+Cloudy,cloudy
+Partly,Clouds
+Partly,Clear
+Partly,Sunny
+Partly,cloudy
+Clouds,Clear
+Clouds,Sunny
+Clouds,cloudy
+Clear,Sunny
+Clear,cloudy
+Sunny,cloudy
+Mostly,Partly
+Mostly,cloudy
+Mostly,Cloudy
+Partly,cloudy
+Partly,Cloudy
+cloudy,Cloudy
+Showers,Cloudy
+Showers,Rain
+Showers,Light
+Showers,cloudy
+Cloudy,Rain
+Cloudy,Light
+Cloudy,cloudy
+Rain,Light
+Rain,cloudy
+Light,cloudy
+light,Showers
+light,Cloudy
+light,Rain
+light,Light
+Showers,Cloudy
+Showers,Rain
+Showers,Light
+Cloudy,Rain
+Cloudy,Light
+Rain,Light
+Mostly,Scattered
+Mostly,Cloudy
+Mostly,Partly
+Mostly,Sunny
+Mostly,sky
+Scattered,Cloudy
+Scattered,Partly
+Scattered,Sunny
+Scattered,sky
+Cloudy,Partly
+Cloudy,Sunny
+Cloudy,sky
+Partly,Sunny
+Partly,sky
+Sunny,sky
+Overcast,mostly
+Overcast,Cloudy
+mostly,Cloudy
+Overcast,mostly
+Overcast,Cloudy
+mostly,Cloudy
+Mostly,Partly
+Mostly,Clouds
+Mostly,mostly
+Mostly,Sunny
+Mostly,sky
+Mostly,Overcast
+Partly,Clouds
+Partly,mostly
+Partly,Sunny
+Partly,sky
+Partly,Overcast
+Clouds,mostly
+Clouds,Sunny
+Clouds,sky
+Clouds,Overcast
+mostly,Sunny
+mostly,sky
+mostly,Overcast
+Sunny,sky
+Sunny,Overcast
+sky,Overcast
+clear,Few
+clear,Cloudy
+clear,Partly
+clear,Clear
+clear,Sunny
+clear,cloudy
+clear,Overcast
+Few,Cloudy
+Few,Partly
+Few,Clear
+Few,Sunny
+Few,cloudy
+Few,Overcast
+Cloudy,Partly
+Cloudy,Clear
+Cloudy,Sunny
+Cloudy,cloudy
+Cloudy,Overcast
+Partly,Clear
+Partly,Sunny
+Partly,cloudy
+Partly,Overcast
+Clear,Sunny
+Clear,cloudy
+Clear,Overcast
+Sunny,cloudy
+Sunny,Overcast
+cloudy,Overcast
+clear,Clouds And
+clear,Mostly
+clear,Intermittent
+clear,Partly
+clear,Cloudy
+clear,Clouds
+clear,Sunny
+clear,cloudy
+Clouds And,Mostly
+Clouds And,Intermittent
+Clouds And,Partly
+Clouds And,Cloudy
+Clouds And,Clouds
+Clouds And,Sunny
+Clouds And,cloudy
+Mostly,Intermittent
+Mostly,Partly
+Mostly,Cloudy
+Mostly,Clouds
+Mostly,Sunny
+Mostly,cloudy
+Intermittent,Partly
+Intermittent,Cloudy
+Intermittent,Clouds
+Intermittent,Sunny
+Intermittent,cloudy
+Partly,Cloudy
+Partly,Clouds
+Partly,Sunny
+Partly,cloudy
+Cloudy,Clouds
+Cloudy,Sunny
+Cloudy,cloudy
+Clouds,Sunny
+Clouds,cloudy
+Sunny,cloudy
+clear,Scattered
+clear,Cloudy
+clear,Clouds
+clear,cloudy
+clear,Overcast
+Scattered,Cloudy
+Scattered,Clouds
+Scattered,cloudy
+Scattered,Overcast
+Cloudy,Clouds
+Cloudy,cloudy
+Cloudy,Overcast
+Clouds,cloudy
+Clouds,Overcast
+cloudy,Overcast
+Overcast,Winter Weather
+Overcast,cloudy
+Overcast,Cloudy
+Winter Weather,cloudy
+Winter Weather,Cloudy
+cloudy,Cloudy
+Weather AdvisoryCloudy,Mostly
+Weather AdvisoryCloudy,Cloudy
+Weather AdvisoryCloudy,Rain
+Weather AdvisoryCloudy,mostly
+Weather AdvisoryCloudy,rain
+Weather AdvisoryCloudy,Light
+Weather AdvisoryCloudy,Overcast
+Mostly,Cloudy
+Mostly,Rain
+Mostly,mostly
+Mostly,rain
+Mostly,Light
+Mostly,Overcast
+Cloudy,Rain
+Cloudy,mostly
+Cloudy,rain
+Cloudy,Light
+Cloudy,Overcast
+Rain,mostly
+Rain,rain
+Rain,Light
+Rain,Overcast
+mostly,rain
+mostly,Light
+mostly,Overcast
+rain,Light
+rain,Overcast
+Light,Overcast
+Showers,snow
+Showers,Weather
+Showers,Cloudy
+Showers,Rain
+Showers,Snow
+Showers,Heavy
+Showers,rain
+Showers,Light
+snow,Weather
+snow,Cloudy
+snow,Rain
+snow,Snow
+snow,Heavy
+snow,rain
+snow,Light
+Weather,Cloudy
+Weather,Rain
+Weather,Snow
+Weather,Heavy
+Weather,rain
+Weather,Light
+Cloudy,Rain
+Cloudy,Snow
+Cloudy,Heavy
+Cloudy,rain
+Cloudy,Light
+Rain,Snow
+Rain,Heavy
+Rain,rain
+Rain,Light
+Snow,Heavy
+Snow,rain
+Snow,Light
+Heavy,rain
+Heavy,Light
+rain,Light
+Showers,snow
+Showers,Cloudy
+Showers,Rain
+Showers,Snow
+Showers,rain
+Showers,WarningsSnow
+Showers,Light
+snow,Cloudy
+snow,Rain
+snow,Snow
+snow,rain
+snow,WarningsSnow
+snow,Light
+Cloudy,Rain
+Cloudy,Snow
+Cloudy,rain
+Cloudy,WarningsSnow
+Cloudy,Light
+Rain,Snow
+Rain,rain
+Rain,WarningsSnow
+Rain,Light
+Snow,rain
+Snow,WarningsSnow
+Snow,Light
+rain,WarningsSnow
+rain,Light
+WarningsSnow,Light
+light,Showers
+light,Weather
+light,Rain
+light,Snow
+light,Light
+Showers,Weather
+Showers,Rain
+Showers,Snow
+Showers,Light
+Weather,Rain
+Weather,Snow
+Weather,Light
+Rain,Snow
+Rain,Light
+Snow,Light
+Clean,clear
+Clean,Mostly
+Clean,Cloudy
+Clean,mostly
+Clean,Sunny
+Clean,Overcast
+clear,Mostly
+clear,Cloudy
+clear,mostly
+clear,Sunny
+clear,Overcast
+Mostly,Cloudy
+Mostly,mostly
+Mostly,Sunny
+Mostly,Overcast
+Cloudy,mostly
+Cloudy,Sunny
+Cloudy,Overcast
+mostly,Sunny
+mostly,Overcast
+Sunny,Overcast
+Clean,clear
+Clean,Cloudy
+Clean,mostly
+Clean,Sunny
+Clean,Overcast
+clear,Cloudy
+clear,mostly
+clear,Sunny
+clear,Overcast
+Cloudy,mostly
+Cloudy,Sunny
+Cloudy,Overcast
+mostly,Sunny
+mostly,Overcast
+Sunny,Overcast
+light,Showers
+light,Mostly
+light,WarningsMostly Cloudy
+light,Cloudy
+light,Rain
+light,Light
+light,cloudy
+light,Overcast
+Showers,Mostly
+Showers,WarningsMostly Cloudy
+Showers,Cloudy
+Showers,Rain
+Showers,Light
+Showers,cloudy
+Showers,Overcast
+Mostly,WarningsMostly Cloudy
+Mostly,Cloudy
+Mostly,Rain
+Mostly,Light
+Mostly,cloudy
+Mostly,Overcast
+WarningsMostly Cloudy,Cloudy
+WarningsMostly Cloudy,Rain
+WarningsMostly Cloudy,Light
+WarningsMostly Cloudy,cloudy
+WarningsMostly Cloudy,Overcast
+Cloudy,Rain
+Cloudy,Light
+Cloudy,cloudy
+Cloudy,Overcast
+Rain,Light
+Rain,cloudy
+Rain,Overcast
+Light,cloudy
+Light,Overcast
+cloudy,Overcast
+Winter watchCloudy,Mostly
+Winter watchCloudy,Cloudy
+Winter watchCloudy,rain
+Winter watchCloudy,cloudy
+Winter watchCloudy,Overcast
+Mostly,Cloudy
+Mostly,rain
+Mostly,cloudy
+Mostly,Overcast
+Cloudy,rain
+Cloudy,cloudy
+Cloudy,Overcast
+rain,cloudy
+rain,Overcast
+cloudy,Overcast
+Showers,Mostly
+Showers,Cloudy
+Showers,Rain
+Showers,Clouds
+Showers,rain
+Showers,Light
+Showers,cloudy
+Mostly,Cloudy
+Mostly,Rain
+Mostly,Clouds
+Mostly,rain
+Mostly,Light
+Mostly,cloudy
+Cloudy,Rain
+Cloudy,Clouds
+Cloudy,rain
+Cloudy,Light
+Cloudy,cloudy
+Rain,Clouds
+Rain,rain
+Rain,Light
+Rain,cloudy
+Clouds,rain
+Clouds,Light
+Clouds,cloudy
+rain,Light
+rain,cloudy
+Light,cloudy
+Overcast,Weather AdvisoryCloudy
+Overcast,cloudy
+Overcast,Cloudy
+Weather AdvisoryCloudy,cloudy
+Weather AdvisoryCloudy,Cloudy
+cloudy,Cloudy
+Mostly,Cloudy
+Mostly,Winter Weather
+Mostly,cloudy
+Mostly,Overcast
+Cloudy,Winter Weather
+Cloudy,cloudy
+Cloudy,Overcast
+Winter Weather,cloudy
+Winter Weather,Overcast
+cloudy,Overcast
+light,Shower
+light,Flurries
+light,Cloudy
+light,Mist
+light,Snow
+light,Fog/Lgt.Snow
+light,term forecastSnow
+light,Fog/Light Snow
+light,Light
+light,cloudy
+light,Overcast
+Shower,Flurries
+Shower,Cloudy
+Shower,Mist
+Shower,Snow
+Shower,Fog/Lgt.Snow
+Shower,term forecastSnow
+Shower,Fog/Light Snow
+Shower,Light
+Shower,cloudy
+Shower,Overcast
+Flurries,Cloudy
+Flurries,Mist
+Flurries,Snow
+Flurries,Fog/Lgt.Snow
+Flurries,term forecastSnow
+Flurries,Fog/Light Snow
+Flurries,Light
+Flurries,cloudy
+Flurries,Overcast
+Cloudy,Mist
+Cloudy,Snow
+Cloudy,Fog/Lgt.Snow
+Cloudy,term forecastSnow
+Cloudy,Fog/Light Snow
+Cloudy,Light
+Cloudy,cloudy
+Cloudy,Overcast
+Mist,Snow
+Mist,Fog/Lgt.Snow
+Mist,term forecastSnow
+Mist,Fog/Light Snow
+Mist,Light
+Mist,cloudy
+Mist,Overcast
+Snow,Fog/Lgt.Snow
+Snow,term forecastSnow
+Snow,Fog/Light Snow
+Snow,Light
+Snow,cloudy
+Snow,Overcast
+Fog/Lgt.Snow,term forecastSnow
+Fog/Lgt.Snow,Fog/Light Snow
+Fog/Lgt.Snow,Light
+Fog/Lgt.Snow,cloudy
+Fog/Lgt.Snow,Overcast
+term forecastSnow,Fog/Light Snow
+term forecastSnow,Light
+term forecastSnow,cloudy
+term forecastSnow,Overcast
+Fog/Light Snow,Light
+Fog/Light Snow,cloudy
+Fog/Light Snow,Overcast
+Light,cloudy
+Light,Overcast
+cloudy,Overcast
+Shower,Cloudy
+Shower,Mist
+Shower,Short forecastFog
+Shower,mostly
+Shower,Fog Mist
+Shower,cloudy
+Shower,Overcast
+Cloudy,Mist
+Cloudy,Short forecastFog
+Cloudy,mostly
+Cloudy,Fog Mist
+Cloudy,cloudy
+Cloudy,Overcast
+Mist,Short forecastFog
+Mist,mostly
+Mist,Fog Mist
+Mist,cloudy
+Mist,Overcast
+Short forecastFog,mostly
+Short forecastFog,Fog Mist
+Short forecastFog,cloudy
+Short forecastFog,Overcast
+mostly,Fog Mist
+mostly,cloudy
+mostly,Overcast
+Fog Mist,cloudy
+Fog Mist,Overcast
+cloudy,Overcast
+light,Short term
+light,Scattered
+light,Fog
+light,Cloudy
+light,Mist
+light,And Mist
+light,Foggy
+light,Light
+light,cloudy
+light,Overcast
+Short term,Scattered
+Short term,Fog
+Short term,Cloudy
+Short term,Mist
+Short term,And Mist
+Short term,Foggy
+Short term,Light
+Short term,cloudy
+Short term,Overcast
+Scattered,Fog
+Scattered,Cloudy
+Scattered,Mist
+Scattered,And Mist
+Scattered,Foggy
+Scattered,Light
+Scattered,cloudy
+Scattered,Overcast
+Fog,Cloudy
+Fog,Mist
+Fog,And Mist
+Fog,Foggy
+Fog,Light
+Fog,cloudy
+Fog,Overcast
+Cloudy,Mist
+Cloudy,And Mist
+Cloudy,Foggy
+Cloudy,Light
+Cloudy,cloudy
+Cloudy,Overcast
+Mist,And Mist
+Mist,Foggy
+Mist,Light
+Mist,cloudy
+Mist,Overcast
+And Mist,Foggy
+And Mist,Light
+And Mist,cloudy
+And Mist,Overcast
+Foggy,Light
+Foggy,cloudy
+Foggy,Overcast
+Light,cloudy
+Light,Overcast
+cloudy,Overcast
+light,Foggy
+light,Light Mist
+light,Scattered
+light,Fog
+light,Cloudy
+light,Partly
+light,Mist
+light,Snow
+light,Clouds
+light,Short forecastSnow
+light,Fog Mist
+light,sky
+light,Light
+Foggy,Light Mist
+Foggy,Scattered
+Foggy,Fog
+Foggy,Cloudy
+Foggy,Partly
+Foggy,Mist
+Foggy,Snow
+Foggy,Clouds
+Foggy,Short forecastSnow
+Foggy,Fog Mist
+Foggy,sky
+Foggy,Light
+Light Mist,Scattered
+Light Mist,Fog
+Light Mist,Cloudy
+Light Mist,Partly
+Light Mist,Mist
+Light Mist,Snow
+Light Mist,Clouds
+Light Mist,Short forecastSnow
+Light Mist,Fog Mist
+Light Mist,sky
+Light Mist,Light
+Scattered,Fog
+Scattered,Cloudy
+Scattered,Partly
+Scattered,Mist
+Scattered,Snow
+Scattered,Clouds
+Scattered,Short forecastSnow
+Scattered,Fog Mist
+Scattered,sky
+Scattered,Light
+Fog,Cloudy
+Fog,Partly
+Fog,Mist
+Fog,Snow
+Fog,Clouds
+Fog,Short forecastSnow
+Fog,Fog Mist
+Fog,sky
+Fog,Light
+Cloudy,Partly
+Cloudy,Mist
+Cloudy,Snow
+Cloudy,Clouds
+Cloudy,Short forecastSnow
+Cloudy,Fog Mist
+Cloudy,sky
+Cloudy,Light
+Partly,Mist
+Partly,Snow
+Partly,Clouds
+Partly,Short forecastSnow
+Partly,Fog Mist
+Partly,sky
+Partly,Light
+Mist,Snow
+Mist,Clouds
+Mist,Short forecastSnow
+Mist,Fog Mist
+Mist,sky
+Mist,Light
+Snow,Clouds
+Snow,Short forecastSnow
+Snow,Fog Mist
+Snow,sky
+Snow,Light
+Clouds,Short forecastSnow
+Clouds,Fog Mist
+Clouds,sky
+Clouds,Light
+Short forecastSnow,Fog Mist
+Short forecastSnow,sky
+Short forecastSnow,Light
+Fog Mist,sky
+Fog Mist,Light
+sky,Light
+light,Foggy
+light,clear
+light,Mostly
+light,Fog
+light,Cloudy
+light,Mist
+light,Fog Mist
+light,Light
+light,Overcast
+Foggy,clear
+Foggy,Mostly
+Foggy,Fog
+Foggy,Cloudy
+Foggy,Mist
+Foggy,Fog Mist
+Foggy,Light
+Foggy,Overcast
+clear,Mostly
+clear,Fog
+clear,Cloudy
+clear,Mist
+clear,Fog Mist
+clear,Light
+clear,Overcast
+Mostly,Fog
+Mostly,Cloudy
+Mostly,Mist
+Mostly,Fog Mist
+Mostly,Light
+Mostly,Overcast
+Fog,Cloudy
+Fog,Mist
+Fog,Fog Mist
+Fog,Light
+Fog,Overcast
+Cloudy,Mist
+Cloudy,Fog Mist
+Cloudy,Light
+Cloudy,Overcast
+Mist,Fog Mist
+Mist,Light
+Mist,Overcast
+Fog Mist,Light
+Fog Mist,Overcast
+Light,Overcast
+Haze,Mostly
+Haze,Fog
+Haze,Cloudy
+Haze,Unclear
+Haze,mostly
+Haze,Overcast
+Mostly,Fog
+Mostly,Cloudy
+Mostly,Unclear
+Mostly,mostly
+Mostly,Overcast
+Fog,Cloudy
+Fog,Unclear
+Fog,mostly
+Fog,Overcast
+Cloudy,Unclear
+Cloudy,mostly
+Cloudy,Overcast
+Unclear,mostly
+Unclear,Overcast
+mostly,Overcast
+Showers,Light Rain
+Showers,Weather
+Showers,Cloudy
+Showers,Partly
+Showers,Rain
+Showers,mostly
+Showers,rain
+Showers,Light
+Showers,Overcast
+Light Rain,Weather
+Light Rain,Cloudy
+Light Rain,Partly
+Light Rain,Rain
+Light Rain,mostly
+Light Rain,rain
+Light Rain,Light
+Light Rain,Overcast
+Weather,Cloudy
+Weather,Partly
+Weather,Rain
+Weather,mostly
+Weather,rain
+Weather,Light
+Weather,Overcast
+Cloudy,Partly
+Cloudy,Rain
+Cloudy,mostly
+Cloudy,rain
+Cloudy,Light
+Cloudy,Overcast
+Partly,Rain
+Partly,mostly
+Partly,rain
+Partly,Light
+Partly,Overcast
+Rain,mostly
+Rain,rain
+Rain,Light
+Rain,Overcast
+mostly,rain
+mostly,Light
+mostly,Overcast
+rain,Light
+rain,Overcast
+Light,Overcast

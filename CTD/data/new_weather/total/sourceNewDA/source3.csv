@@ -1,0 +1,14 @@
+entity,Domain,Conditions,Humidity,day
+2110,El Paso,Light Rain;Rain;Cloudy,87,1
+2111,El Paso,Light Rain;Rain,87,1
+2112,El Paso,Overcast;Cloudy,88,1
+2115,El Paso,Cloudy,71,1
+2120,El Paso,Cloudy,81,1
+2121,El Paso,Cloudy;Haze,81,1
+2152,Fort Worth,Overcast with Haze,83,1
+2161,Fort Worth,Overcast Haze,82,1
+2175,Fort Worth,Cloudy,57,1
+2176,Fort Worth,Mostly,54,1
+2180,Fort Worth,Cloudy;Mostly Cloudy,65,1
+2211,Fort Worth,Mostly,61,1
+2220,Fort Worth,Overcast,86,1

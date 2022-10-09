@@ -1,0 +1,151 @@
+entity,Domain,Conditions,Humidity,day
+5,Chicago,Rain;Light Rain,93,1
+10,Austin,Rain,93,1
+13,Austin,Cloudy;Overcast,81,1
+25,Austin,Cloudy,81,1
+31,Austin,Cloudy,84,1
+35,Austin,Cloudy;Overcast,81,1
+38,Austin,Cloudy,85,1
+39,Austin,Cloudy,87,1
+43,Austin,Cloudy;Overcast;Showers,93,1
+50,Austin,Cloudy;Fog;Haze,81,1
+60,Dallas,Overcast,85,1
+91,Austin,Not totally Cloudy;Partly Cloudy,64,1
+104,Austin,Clear;Not totally Sunny,80,1
+112,Austin,Sunny;Clear,53,1
+130,Austin,Cloudy,88,1
+132,Austin,Cloudy,88,1
+145,Austin,Cloudy,81,1
+149,Austin,Rain;Light Rain,93,1
+154,Austin,Cloudy;Overcast;Showers,93,1
+156,Austin,Rain;Light Rain,100,1
+167,Austin,Cloudy;Fog;Fog And Mist;Light Rain;Light Rain Mist,100,1
+174,Fort Worth,Mist/Fog,93,1
+205,Austin,Fog;Overcast;Showers;Mist,93,1
+209,Austin,Fog;Overcast;Rain,93,1
+251,Fort Worth,Mist/Fog,86,1
+254,Fort Worth,Mist/Fog,86,1
+257,Fort Worth,Overcast with Haze,80,1
+259,Austin,Cloudy,76,1
+273,Austin,Rain;Light Rain,87,1
+275,Austin,Rain,93,1
+1080,Charlotte,Cloudy,80,1
+1968,Dallas,Cloudy,68,1
+2014,Dallas,Cloudy;Overcast,75,1
+2051,Dallas,Cloudy;Overcast,82,1
+2053,Dallas,Cloudy;Overcast,85,1
+2120,Dallas,Cloudy,81,1
+2611,Detroit,Cloudy,54,1
+3017,El Paso,Cloudy,82,1
+3547,Houston,Partly Cloudy;Not totally Cloudy;Clear,81,1
+3650,Houston,Cloudy,75,1
+3659,Houston,Cloudy,75,1
+4051,Indianapolis,Cloudy,75,1
+4280,Jacksonville,Cloudy;Overcast,89,1
+5268,Memphis,Cloudy,55,1
+5316,Memphis,Cloudy,57,1
+5479,Milwaukee,Cloudy,67,1
+5485,Milwaukee,Cloudy,53,1
+5765,Nashville,Cloudy;Overcast,58,1
+5953,Nashville,Cloudy;Overcast,73,1
+6021,Nashville,Cloudy,62,1
+7314,Phoenix,Cloudy,64,1
+7449,Portland,Light Rain;Rain;Cloudy,79,1
+8208,San Diego,Cloudy;Haze,80,1
+8280,San Diego,Cloudy;Haze;Mainly Cloudy,77,1
+8792,San Jose,Cloudy,80,1
+9584,Milwaukee,Mist/Fog,85,1
+1388,Chicago,Partly Cloudy;Scattered Clouds;Not totally Cloudy,54,1
+1393,Chicago,Mostly Cloudy;Partly;Intermittent Clouds;Partly Cloudy,62,1
+1403,Chicago,Cloudy;Overcast,74,1
+1406,Chicago,Cloudy;Mostly Cloudy;Mainly Cloudy,71,1
+1411,Chicago,Mostly Cloudy;Mainly Cloudy,79,1
+1416,Chicago,Partly Cloudy;Mostly;Not totally Cloudy;Mostly Sunny,71,1
+1472,Chicago,Partly Cloudy;Cloudy;Partly;Partly Sunny,61,1
+2010,Dallas,Cloudy;Overcast,75,1
+2024,Dallas,Cloudy;Overcast,74,1
+2026,Dallas,Cloudy;Overcast,74,1
+2047,Dallas,Cloudy;Overcast,82,1
+2885,El Paso,Cloudy,85,1
+2889,El Paso,Mostly Cloudy;Cloudy,80,1
+2895,El Paso,Partly Cloudy;Not totally Cloudy;Partly Sunny,65,1
+2969,El Paso,Clear;Fair,62,1
+2974,El Paso,Sunny;Clear,75,1
+2995,El Paso,Cloudy;Overcast,43,1
+3002,El Paso,Not totally Cloudy;Mostly Clear;Scattered Clouds;Cloudy,65,1
+3024,El Paso,Cloudy;Mainly Cloudy,44,1
+3026,El Paso,Mostly Cloudy;Cloudy,41,1
+3291,Fort Worth,Cloudy;Overcast,78,1
+3296,Fort Worth,Cloudy,74,1
+3302,Fort Worth,Cloudy,77,1
+3307,Fort Worth,Cloudy,74,1
+3314,Fort Worth,Cloudy,74,1
+3316,Fort Worth,Cloudy,78,1
+3319,Fort Worth,Cloudy,78,1
+3324,Fort Worth,Cloudy,81,1
+3343,Fort Worth,Cloudy,81,1
+3534,Houston,Cloudy,82,1
+3856,Indianapolis,Mostly Cloudy;Cloudy,59,1
+3951,Indianapolis,Partly Cloudy;Not totally Cloudy;Sunny;Cloudy;Scattered,55,1
+3954,Indianapolis,Partly Cloudy;Not totally Cloudy;Scattered Clouds;Mostly Sunny,55,1
+3980,Indianapolis,Clear;Sunny,68,1
+3983,Indianapolis,Sunny;Clear,58,1
+4306,Jacksonville,Mostly Cloudy;Mainly Cloudy,70,1
+4584,Las Vegas,Clear;Partly Cloudy;Mostly Sunny;Sunny,75,1
+4888,Los Angeles,Sunny;Clear,59,1
+4899,Los Angeles,Cloudy;Haze;Mainly Cloudy;Unclear,82,1
+4900,Los Angeles,Hazy;Haze;Partly Cloudy;Fair,82,1
+4934,Los Angeles,Clear;Sunny,83,1
+4938,Los Angeles,Haze;Hazy Sunshine;Sunny;Clear,87,1
+4940,Los Angeles,Sunny;Haze;Hazy,74,1
+4941,Los Angeles,Sunny;Hazy;Haze,63,1
+4942,Los Angeles,Sunny;Clear,52,1
+4944,Los Angeles,Clear;Haze;Mostly Sunny,46,1
+4993,Los Angeles,Sunny;Clear,71,1
+5440,Milwaukee,Partly Cloudy;Mostly Clear;Partly;Clear,47,1
+5446,Milwaukee,Partly Cloudy;Not totally Cloudy,60,1
+5455,Milwaukee,Partly Cloudy;Not totally Cloudy;Partly;Partly Sunny,51,1
+5526,Milwaukee,Partly Cloudy;Cloudy;Mostly Clear,64,1
+5527,Milwaukee,Partly Cloudy;Mostly Cloudy;Scattered Clouds,62,1
+5534,Milwaukee,Cloudy;Overcast,57,1
+5548,Milwaukee,Light;Light Snow;Snow,86,1
+5573,Milwaukee,Mostly Cloudy;Mainly Cloudy,73,1
+5581,Milwaukee,Partly Sunny;Cloudy;Partly Cloudy;Sunny,46,1
+5868,Nashville,Cloudy;Overcast,77,1
+5873,Nashville,Cloudy;Overcast,74,1
+5888,Nashville,Clear,84,1
+5905,Nashville,Clear;Sunny,42,1
+6866,Philadelphia,Sunny;Clear,37,1
+6910,Philadelphia,Cloudy,64,1
+7048,Phoenix,Not totally Cloudy;Partly Cloudy;Partly,89,1
+7052,Phoenix,Partly Sunny;Partly Cloudy;Cloudy;Scattered Clouds,74,1
+7055,Phoenix,Partly Cloudy;Mostly Cloudy;Not totally Cloudy;Scattered Clouds,58,1
+7126,Phoenix,Partly Cloudy;Sunny;Not totally Cloudy,43,1
+7131,Phoenix,Partly Cloudy;Mainly Sunny;Mostly Clear,59,1
+7146,Phoenix,Mostly Cloudy;Mainly Cloudy;Mostly,56,1
+7150,Phoenix,Mostly Cloudy;Mainly Cloudy;Sunny,37,1
+7151,Phoenix,Mainly Cloudy;Mostly Cloudy;Intermittent,35,1
+7152,Phoenix,Cloudy;Mostly Cloudy,34,1
+7464,Portland,Cloudy;Overcast,81,1
+7477,Portland,Cloudy,82,1
+7485,Portland,Cloudy,93,1
+7497,Portland,Fog;Overcast;Mist,100,1
+7553,Portland,Cloudy;Overcast,68,1
+8009,San Diego,Mostly Cloudy;Mainly Cloudy;Intermittent Clouds;Cloudy,77,1
+8100,San Diego,Fog;Partly Cloudy;Clear;Fog And Mist,86,1
+8104,San Diego,Mostly Cloudy;Not totally Cloudy;Fog And Mist;Mainly Cloudy;Intermittent Clouds;Partly,82,1
+8110,San Diego,Not totally Cloudy;Partly Cloudy;Scattered Clouds;Cloudy;Mainly Sunny,62,1
+8111,San Diego,Partly Cloudy;Cloudy;Mostly Sunny;Mostly Cloudy;Scattered;Scattered Clouds,67,1
+8123,San Diego,Partly Cloudy;Partly;Clouds,77,1
+8135,San Diego,Haze;Partly Cloudy;Mostly Cloudy,82,1
+8140,San Diego,Haze;Partly Sunny;Cloudy,79,1
+8143,San Diego,Not totally Cloudy;Partly Sunny;Partly Cloudy,64,1
+8649,San Jose,Cloudy;Mostly Cloudy,93,1
+8969,Seattle,Mostly Cloudy;Cloudy;Mainly Cloudy,71,1
+9052,Seattle,Cloudy,79,1
+9066,Seattle,Light Rain;Showers,93,1
+9069,Seattle,Cloudy;Light;Light Rain,87,1
+9076,Seattle,Light Rain;Rain,87,1
+9079,Seattle,Cloudy;Overcast,87,1
+9084,Seattle,Cloudy;Overcast,93,1
+9423,Washington,Sunny;Clear,31,1

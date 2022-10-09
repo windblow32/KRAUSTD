@@ -1,0 +1,210 @@
+entity,Domain,Conditions,Humidity,day
+5,Austin,Light Rain,76,1
+10,Austin,Rain Mist,80,1
+13,Austin,Overcast,62,1
+25,Austin,Overcast,75,1
+31,Austin,Overcast,77,1
+35,Austin,Overcast,75,1
+38,Austin,Overcast,75,1
+39,Austin,Overcast,77,1
+43,Austin,Overcast,79,1
+50,Austin,Haze,72,1
+60,Austin,Overcast,85,1
+91,Austin,Scattered Clouds,53,1
+104,Austin,Clear,47,1
+112,Austin,Clear,47,1
+130,Austin,Overcast,78,1
+132,Austin,Overcast,78,1
+145,Austin,Haze,68,1
+149,Austin,Light Rain Mist,98,1
+154,Austin,Overcast,98,1
+156,Austin,Light Rain Mist,98,1
+167,Austin,Light Rain Mist,98,1
+174,Austin,Mist/Fog,93,1
+205,Austin,Overcast,89,1
+209,Austin,Overcast,93,1
+251,Austin,Mist/Fog,86,1
+254,Austin,Mist/Fog,86,1
+257,Baltimore,Overcast with Haze,80,1
+259,Austin,Haze,75,1
+273,Austin,Light Rain Mist,86,1
+275,Austin,Light Rain Mist,96,1
+280,Austin,Light Rain Mist,98,1
+302,Baltimore,Overcast,80,1
+314,Baltimore,Mist/Light Rain Fog,93,1
+315,Baltimore,Mist/Light Rain Fog,90,1
+324,Baltimore,Mostly Cloudy,50,1
+342,Baltimore,Clear,50,1
+376,Baltimore,Fair,43,1
+382,Baltimore,A Few Clouds,57,1
+398,Baltimore,Overcast,40,1
+407,Baltimore,Overcast,47,1
+408,Baltimore,Overcast,45,1
+428,Baltimore,Light Snow Mist,84,1
+441,Baltimore,Light Snow,77,1
+462,Baltimore,Clear,47,1
+467,Baltimore,Clear,47,1
+483,Baltimore,Clear,65,1
+496,Boston,Mainly Cloudy,65,1
+498,Boston,Partly Cloudy,60,1
+517,Baltimore,Scattered Clouds,55,1
+528,Baltimore,Scattered Clouds,75,1
+535,Baltimore,Haze,74,1
+552,Boston,Mostly Cloudy,61,1
+565,Boston,Overcast,75,1
+600,Baltimore,Overcast,88,1
+611,Boston,Light Snow,79,1
+625,Boston,Mist/Fog,85,1
+646,Boston,Clear,44,1
+649,Boston,Clear,34,1
+655,Boston,Partly Cloudy,27,1
+660,Boston,Clear,36,1
+669,Boston,Overcast,42,1
+671,Boston,Overcast,46,1
+673,Boston,Mostly Cloudy,46,1
+676,Boston,Clear,50,1
+684,Boston,Partly Cloudy,34,1
+692,Boston,Scattered Clouds,29,1
+731,Boston,Clear,31,1
+734,Boston,Clear,36,1
+746,Boston,Scattered Clouds,40,1
+756,Boston,Overcast,38,1
+768,Boston,Overcast,44,1
+774,Boston,Scattered Clouds,40,1
+776,Boston,Scattered Clouds,34,1
+789,Boston,Overcast,55,1
+791,Boston,Overcast,55,1
+798,Boston,Clear,64,1
+801,Boston,Clear,63,1
+831,Boston,Scattered Clouds,59,1
+837,Boston,Partly Cloudy,33,1
+843,Boston,Overcast,46,1
+848,Boston,Partly Cloudy,50,1
+852,Boston,Partly Cloudy,54,1
+859,Boston,Overcast,40,1
+908,Boston,Overcast,63,1
+961,Charlotte,Overcast,62,1
+965,Charlotte,Scattered Clouds,55,1
+997,Charlotte,Scattered Clouds,81,1
+1000,Charlotte,Mostly Cloudy,84,1
+1001,Charlotte,Mostly Cloudy,81,1
+1011,Charlotte,Partly Cloudy,59,1
+1074,Charlotte,Overcast,88,1
+1080,Charlotte,Overcast,83,1
+1083,Charlotte,Scattered Clouds,82,1
+1084,Charlotte,Partly Cloudy,83,1
+1086,Charlotte,Partly Cloudy,86,1
+1107,Charlotte,Partly Cloudy,69,1
+1113,Charlotte,Clear,80,1
+1152,Charlotte,Mostly Cloudy,60,1
+1154,Charlotte,Partly Cloudy,65,1
+1166,Charlotte,Overcast,81,1
+1183,Charlotte,Light Drizzle Mist,96,1
+1224,Charlotte,Overcast,97,1
+1226,Charlotte,Overcast,97,1
+1234,Charlotte,Fog,98,1
+1237,Charlotte,Fog,98,1
+1239,Charlotte,Fog,98,1
+1240,Charlotte,Overcast,98,1
+1286,Chicago,Mostly Cloudy,56,1
+1288,Chicago,Mostly Cloudy,54,1
+1294,Chicago,Mostly Cloudy,55,1
+1298,Chicago,Mostly Cloudy,66,1
+1304,Chicago,Partly Cloudy,50,1
+1308,Chicago,Scattered Clouds,55,1
+1313,Chicago,Overcast,60,1
+1317,Chicago,Overcast,59,1
+1318,Chicago,Overcast,60,1
+1331,Chicago,Haze,62,1
+1333,Columbus,A Few Clouds,60,1
+1335,Columbus,Clean,65,1
+1341,Columbus,Partly Cloudy,65,1
+1342,Columbus,Partly Cloudy,65,1
+1343,El Paso,A Few Clouds,68,1
+1350,Indianapolis,Overcast,62,1
+1365,Chicago,Mostly Cloudy,66,1
+1388,Chicago,Scattered Clouds,56,1
+1393,Chicago,Mostly Cloudy,64,1
+1403,Chicago,Overcast,70,1
+1406,Chicago,Mostly Cloudy,71,1
+1411,Chicago,Mostly Cloudy,74,1
+1416,Chicago,Partly Cloudy,68,1
+1438,Chicago,Haze,73,1
+1440,Chicago,Haze,74,1
+1450,Philadelphia,Overcast,72,1
+1462,Philadelphia,Overcast with Haze,78,1
+1468,Phoenix,Overcast with Haze,78,1
+1472,Chicago,Partly Cloudy,53,1
+1486,Chicago,Light Snow Mist,86,1
+1503,Chicago,Haze,72,1
+1507,San Francisco,Overcast Haze,63,1
+1546,Chicago,Haze,80,1
+1557,Chicago,Haze,82,1
+1570,San Francisco,Mist/Light Snow Fog,85,1
+1573,San Francisco,Light Snow,79,1
+1583,San Francisco,Overcast with Haze,81,1
+1588,San Francisco,Overcast with Haze,81,1
+1611,Columbus,Clear,59,1
+1614,Columbus,Clear,59,1
+1631,Columbus,Clear,87,1
+1633,Columbus,Clear,88,1
+1641,Columbus,Haze,78,1
+1871,Columbus,Haze,86,1
+1874,Columbus,Overcast,86,1
+2091,San Francisco,Mist/Fog,83,1
+2111,San Francisco,Light Rain;Rain,87,1
+2152,San Francisco,Overcast with Haze,83,1
+2161,San Francisco,Overcast Haze,82,1
+2226,San Francisco,Overcast,82,1
+2951,San Francisco,Mainly Cloudy,82,1
+3017,El Paso,Overcast,76,1
+3194,San Francisco,Light,83,1
+3512,San Francisco,Fair,77,1
+3513,San Francisco,Fair,77,1
+3584,San Francisco,Mostly Cloudy,83,1
+3773,San Francisco,Overcast,77,1
+3775,San Francisco,Overcast,78,1
+3839,San Francisco,Overcast,77,1
+4012,San Francisco,Fair,78,1
+4121,Indianapolis,Haze,74,1
+4136,San Francisco,Overcast,82,1
+4149,San Francisco,Overcast with Haze,81,1
+4150,San Francisco,Overcast with Haze,81,1
+4153,San Francisco,Overcast with Haze,78,1
+4186,Jacksonville,Mostly Cloudy,85,1
+4219,San Francisco,Mostly Cloudy,77,1
+4231,San Francisco,Overcast,83,1
+4244,San Francisco,Overcast,83,1
+4462,San Francisco,Overcast,77,1
+4484,Las Vegas,Mostly Cloudy,72,1
+4486,Las Vegas,Mostly Cloudy,72,1
+4697,Las Vegas,Mostly Cloudy,57,1
+4703,Las Vegas,Mostly Cloudy,36,1
+4739,Las Vegas,Mostly Cloudy,38,1
+4866,San Francisco,Fair,77,1
+4868,San Francisco,Haze,83,1
+4934,Los Angeles,Clear,89,1
+4981,San Francisco,Overcast,81,1
+5036,San Francisco,Haze,81,1
+5050,San Francisco,Haze,77,1
+5185,San Francisco,Mainly Cloudy,78,1
+5418,San Francisco,Clean,82,1
+5419,San Francisco,Fair,78,1
+5619,San Francisco,with Haze,81,1
+5643,Milwaukee,Light Snow Mist,90,1
+5928,San Francisco,Cloudy,,1
+6914,Philadelphia,Clear,51,1
+6932,Philadelphia,Partly Cloudy,83,1
+7241,Phoenix,Mostly Cloudy,63,1
+7387,Portland,Scattered Clouds,92,1
+7413,San Francisco,Mainly Cloudy,77,1
+7416,San Francisco,Mainly Cloudy,77,1
+7422,San Francisco,Mainly Cloudy,77,1
+7733,San Francisco,Overcast,82,1
+8168,San Francisco,Mostly Cloudy,,1
+8173,San Francisco,A Few,77,1
+8178,San Francisco,Partly Cloudy,82,1
+8180,San Francisco,A Few Clouds,77,1
+8297,San Francisco,Overcast,78,1
+8480,San Francisco,Mostly Cloudy,85,1
+9130,San Francisco,Mostly Cloudy,77,1

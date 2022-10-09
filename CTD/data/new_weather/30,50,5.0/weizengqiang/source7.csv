@@ -1,0 +1,170 @@
+entity,Domain,Conditions,Humidity,day
+1388,Chicago,Partly Cloudy,42,1
+1393,Chicago,Partly Cloudy,53,1
+1403,Chicago,Mostly Cloudy,71,1
+1406,Chicago,Mostly Cloudy,63,1
+1411,Chicago,Mostly Cloudy,76,1
+1416,Chicago,Partly Cloudy,71,1
+1472,Chicago,Partly Cloudy,50,1
+2010,Dallas,Cloudy,73,1
+2014,Dallas,Cloudy,75,1
+2024,Dallas,Cloudy,73,1
+2026,Dallas,Cloudy,69,1
+2047,Dallas,Cloudy,79,1
+2051,Dallas,Cloudy,80,1
+2053,Dallas,Cloudy,83,1
+2110,Dallas,Cloudy,87,1
+2112,Dallas,Cloudy,87,1
+2648,Detroit,Clear,52,1
+2649,Detroit,Clear,55,1
+2650,Detroit,Clear,64,1
+2672,Detroit,Partly Cloudy,52,1
+2685,Detroit,Partly Cloudy,71,1
+2687,Detroit,Clear,73,1
+2691,Detroit,Mostly Clear,78,1
+2885,El Paso,Cloudy,82,1
+2889,El Paso,Mostly Cloudy,71,1
+2895,El Paso,Partly Cloudy,65,1
+2969,El Paso,Clear,63,1
+2974,El Paso,Clear,81,1
+2995,El Paso,Cloudy,43,1
+3002,El Paso,Partly Cloudy,68,1
+3017,El Paso,Cloudy,82,1
+3024,El Paso,Mostly Cloudy,43,1
+3026,El Paso,Mostly Cloudy,40,1
+3209,Fort Worth,Showers,86,1
+3291,Fort Worth,Cloudy,68,1
+3296,Fort Worth,Cloudy,65,1
+3302,Fort Worth,Cloudy,66,1
+3307,Fort Worth,Cloudy,63,1
+3314,Fort Worth,Cloudy,65,1
+3316,Fort Worth,Cloudy,66,1
+3319,Fort Worth,Cloudy,70,1
+3324,Fort Worth,Cloudy,74,1
+3343,Fort Worth,Cloudy,74,1
+3534,Houston,Cloudy,84,1
+3608,Houston,Cloudy,78,1
+3623,Houston,Cloudy,72,1
+3625,Houston,Cloudy,73,1
+3627,Houston,Cloudy,71,1
+3632,Houston,Cloudy,67,1
+3634,Houston,Cloudy,67,1
+3641,Houston,Cloudy,78,1
+3643,Houston,Cloudy,78,1
+3645,Houston,Cloudy,76,1
+3650,Houston,Cloudy,80,1
+3659,Houston,Cloudy,75,1
+3666,Houston,Mostly Cloudy,68,1
+3856,Indianapolis,Mostly Cloudy,54,1
+3951,Indianapolis,Partly Cloudy,49,1
+3954,Indianapolis,Mostly Sunny,53,1
+3980,Indianapolis,Sunny,56,1
+3983,Indianapolis,Sunny,48,1
+4178,Jacksonville,Cloudy,58,1
+4259,Jacksonville,Cloudy,87,1
+4280,Jacksonville,Cloudy,89,1
+4292,Jacksonville,Cloudy,74,1
+4306,Jacksonville,Mostly Cloudy,71,1
+4584,Las Vegas,Sunny,75,1
+4672,Las Vegas,Sunny,55,1
+4800,Los Angeles,Partly Cloudy,80,1
+4810,Los Angeles,Sunny,59,1
+4815,Los Angeles,Partly Cloudy,38,1
+4888,Los Angeles,Mostly Clear,64,1
+4899,Los Angeles,Partly Cloudy,84,1
+4900,Los Angeles,Clear,83,1
+4934,Los Angeles,Clear,84,1
+4938,Los Angeles,Sunny,78,1
+4940,Los Angeles,Sunny,71,1
+4941,Los Angeles,Sunny,62,1
+4942,Los Angeles,Sunny,48,1
+4944,Los Angeles,Sunny,43,1
+4993,Los Angeles,Sunny,69,1
+5132,Memphis,Freezing Rain,85,1
+5209,Memphis,Freezing Drizzle,87,1
+5214,Memphis,Freezing Rain,90,1
+5229,Memphis,Cloudy,77,1
+5248,Memphis,Clear,83,1
+5263,Memphis,Mostly Sunny,68,1
+5312,Memphis,Cloudy,75,1
+5440,Milwaukee,Clear,45,1
+5446,Milwaukee,Partly Cloudy,58,1
+5455,Milwaukee,Partly Cloudy,37,1
+5526,Milwaukee,Mostly Clear,54,1
+5527,Milwaukee,Mostly Clear,57,1
+5534,Milwaukee,Cloudy,48,1
+5548,Milwaukee,Snow Showers,77,1
+5573,Milwaukee,Cloudy,66,1
+5581,Milwaukee,Sunny,40,1
+5632,Milwaukee,Mostly Sunny,49,1
+5765,Nashville,Cloudy,52,1
+5768,Nashville,Snow Showers,49,1
+5868,Nashville,Cloudy,73,1
+5873,Nashville,Cloudy,71,1
+5888,Nashville,Clear,80,1
+5905,Nashville,Sunny,47,1
+5953,Nashville,Cloudy,73,1
+6724,Philadelphia,Clear,36,1
+6728,Philadelphia,Partly Cloudy,39,1
+6824,Philadelphia,Cloudy,38,1
+6833,Philadelphia,Snow Showers,69,1
+6841,Philadelphia,Cloudy,42,1
+6850,Philadelphia,Partly Cloudy,48,1
+6866,Philadelphia,Sunny,32,1
+6910,Philadelphia,Cloudy,64,1
+7048,Phoenix,Partly Cloudy,90,1
+7052,Phoenix,Partly Cloudy,66,1
+7055,Phoenix,Partly Cloudy,58,1
+7126,Phoenix,Partly Cloudy,51,1
+7131,Phoenix,Partly Cloudy,62,1
+7146,Phoenix,Mostly Cloudy,51,1
+7150,Phoenix,Mostly Cloudy,36,1
+7151,Phoenix,Mostly Cloudy,34,1
+7152,Phoenix,Mostly Cloudy,34,1
+7170,Phoenix,Clear,78,1
+7176,Phoenix,Mostly Cloudy,77,1
+7179,Phoenix,Mostly Cloudy,57,1
+7182,Phoenix,Mostly Cloudy,40,1
+7183,Phoenix,Partly Cloudy,39,1
+7375,Portland,Cloudy,62,1
+7449,Portland,Cloudy,75,1
+7464,Portland,Mostly Cloudy,86,1
+7477,Portland,Cloudy,82,1
+7485,Portland,Cloudy,91,1
+7497,Portland,Cloudy,96,1
+7553,Portland,Cloudy,72,1
+7691,San Antonio,Mostly Cloudy,72,1
+7765,San Antonio,Partly Cloudy,56,1
+7776,San Antonio,Clear,68,1
+7778,San Antonio,Clear,67,1
+7802,San Antonio,Clear,77,1
+7811,San Antonio,Cloudy,88,1
+7824,San Antonio,Cloudy,80,1
+8009,San Diego,Mostly Cloudy,77,1
+8100,San Diego,Partly Cloudy,86,1
+8104,San Diego,Mostly Cloudy,82,1
+8110,San Diego,Partly Cloudy,62,1
+8111,San Diego,Partly Cloudy,69,1
+8123,San Diego,Partly Cloudy,80,1
+8135,San Diego,Partly Cloudy,83,1
+8140,San Diego,Partly Cloudy,76,1
+8143,San Diego,Partly Cloudy,64,1
+8336,San Francisco,Mostly Cloudy,79,1
+8649,San Jose,Mostly Cloudy,93,1
+8969,Seattle,Mostly Cloudy,71,1
+9052,Seattle,Cloudy,76,1
+9066,Seattle,Showers,90,1
+9069,Seattle,Cloudy,89,1
+9076,Seattle,Showers,86,1
+9079,Seattle,Cloudy,87,1
+9084,Seattle,Cloudy,90,1
+9280,Washington,Partly Cloudy,35,1
+9293,Washington,Cloudy,32,1
+9296,Washington,Cloudy,28,1
+9372,Washington,Cloudy,29,1
+9379,Washington,Cloudy,35,1
+9385,Washington,Snow,77,1
+9390,Washington,Snow Showers,68,1
+9394,Washington,Snow Showers,75,1
+9423,Washington,Mostly Sunny,23,1
+9425,Washington,Sunny,26,1

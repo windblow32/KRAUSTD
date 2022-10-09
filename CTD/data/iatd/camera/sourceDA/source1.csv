@@ -1,0 +1,21 @@
+entity_id,brand,number,image_resolution,white_balance,day
+6,Nikon,6305,26.10498612,Preset;Auto,1
+13,Nikon,159,17.45761761,Incandescent;Fluorescent;Direct Sunlight;Flash;Cloudy;Shade;Preset Manual;Color Temperature;All with Fine-Tuning;Auto,1
+18,Canon,5986,17.80193374,Daylight;Shade;Cloudy;Tungsten Light;White Fluorescent LightFlashCustomColor Temperature Setting;Auto,1
+19,Nikon,5368,26.81607815,Preset;Auto,1
+23,Canon,6578,18.42878059,Preset;User Defined;Color Temperature Setting;White Balance Correction and White Balance Bracketing;Available Auto,1
+41,Nikon,5759,26.43102536,Preset;Auto,1
+44,Nikon,5857,26.97124798,Preset;Auto,1
+48,Canon,172,12.79755124,Daylight;Cloudy;Tungsten;Fluorescent;Fluorescent H;Flash;Custom1;Custom 2;Multi-area WB Correction;White Balance Compensation;Auto,1
+58,Nikon,696,9.197391018,Custom White Balance;White Balance Presets,1
+65,Fujifilm,46,15.92489001,Preset;Automatic,1
+67,Canon,687,16.71349035,Day Light;Cloudy;Tungsten;Fluorescent;Fluorescent H;Custom;Auto,1
+69,Sony,52,38.30139049,Custom White Balance;White Balance Presets,1
+70,Panasonic,79,15.09644714,Daylight;Cloudy;Shade;Incandescent;White Set;Auto,1
+75,Nikon,5791,16.43193967,incandescent;fluorescent;direct sunlight;flash;cloudy;shade;preset manual white balance;color temperature selection;Auto,1
+76,Nikon,750,24.82511135,White Balance Presets;Auto;Incandescent;Fluorescent;Direct Sunlight;Flash;Cloudy;Shade;Preset Manual;All with Fine-tuning;Custom White Balance,1
+83,Nikon,5946,10.48332467,Auto,1
+88,Sony,139,19.51815235,Custom White Balance;White Balance Presets,1
+96,Canon,6338,21.21603705,preset;user-define;color temperature setting;with white balance correction and white balance bracketing functions;With flash color temperature information transmission;Auto,1
+101,Canon,5439,23.54608579,Preset;User Defined;Color Temperature Setting;White Balance Correction and White Balance Bracketing;Auto,1
+570,Nikon,126,34.85712352,White Balance Presets;Auto;Incandescent;Fluorescent;Direct Sunlight;Flash;Cloudy;Shade;Color Temperature;All with Fine-tuning;Custom White Balance,1

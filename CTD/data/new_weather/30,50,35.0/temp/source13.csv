@@ -1,0 +1,365 @@
+entity,Domain,Conditions,Humidity,day
+5,Austin,Rain Fog/Mist,93,1
+10,Austin,Rain Fog/Mist,93,1
+13,Austin,Mostly Cloudy,74,1
+25,,,,
+31,,,,
+35,,,,
+38,,,,
+39,,,,
+43,,,,
+50,,,,
+60,Austin,Overcast,85,1
+91,Austin,Partly Cloudy,64,1
+104,Austin,Fair,72,1
+112,Austin,Fair,53,1
+130,Austin,Overcast,85,1
+132,Austin,Overcast,85,1
+145,Austin,Overcast with Haze,82,1
+149,,,,
+154,,,,
+156,,,,
+167,,,,
+174,Austin,Fog/Mist,93,1
+205,,,,
+209,,,,
+251,Austin,Fog/Mist,86,1
+254,Austin,Fog/Mist,86,1
+257,Austin,Overcast with Haze,80,1
+259,,,,
+273,,,,
+275,,,,
+280,,,,
+302,Austin,Overcast,80,1
+314,Austin,Light Rain Fog/Mist,93,1
+315,Austin,Light Rain Fog/Mist,90,1
+324,Baltimore,Mostly Cloudy,41,1
+342,,,,
+376,Baltimore,Fair,43,1
+382,Baltimore,A Few Clouds,57,1
+398,Baltimore,Overcast,40,1
+407,Baltimore,Overcast,34,1
+408,Baltimore,Mostly Cloudy,35,1
+428,Baltimore,Snow,77,1
+441,Baltimore,Light Snow,68,1
+462,Baltimore,Fair,34,1
+467,Baltimore,Fair,28,1
+483,,,,
+496,Baltimore,Mostly Cloudy,65,1
+498,Baltimore,Partly Cloudy,60,1
+517,,,,
+528,,,,
+535,,,,
+552,Baltimore,Mostly Cloudy,61,1
+565,Baltimore,Overcast,75,1
+600,,,,
+611,Baltimore,Light Snow,79,1
+625,Baltimore,Fog/Mist,85,1
+646,,,,
+649,,,,
+655,,,,
+660,,,,
+669,,,,
+671,,,,
+673,,,,
+676,,,,
+684,,,,
+692,,,,
+731,,,,
+734,,,,
+746,,,,
+756,,,,
+768,,,,
+774,,,,
+776,,,,
+789,,,,
+791,,,,
+798,,,,
+801,,,,
+831,,,,
+837,,,,
+843,,,,
+848,,,,
+852,,,,
+859,,,,
+908,,,,
+961,,,,
+965,,,,
+997,,,,
+1000,,,,
+1001,,,,
+1011,,,,
+1074,,,,
+1080,,,,
+1083,,,,
+1084,,,,
+1086,,,,
+1107,,,,
+1113,,,,
+1152,,,,
+1154,,,,
+1166,,,,
+1183,,,,
+1224,,,,
+1226,,,,
+1234,,,,
+1237,,,,
+1239,,,,
+1240,,,,
+1286,Chicago,Mostly Cloudy,60,1
+1288,Chicago,Mostly Cloudy,55,1
+1294,Chicago,Mostly Cloudy,50,1
+1298,Chicago,Mostly Cloudy,62,1
+1304,,,,
+1308,,,,
+1313,,,,
+1317,,,,
+1318,,,,
+1331,,,,
+1333,Chicago,A Few Clouds,60,1
+1335,Chicago,Fair,65,1
+1341,Chicago,Partly Cloudy,65,1
+1342,Chicago,Partly Cloudy,65,1
+1343,Chicago,A Few Clouds,68,1
+1350,Chicago,Overcast,62,1
+1365,Chicago,Mostly Cloudy,65,1
+1388,Chicago,Partly Cloudy,55,1
+1393,Chicago,Mostly Cloudy,66,1
+1403,Chicago,Overcast,74,1
+1406,Chicago,Mostly Cloudy,71,1
+1411,Chicago,Mostly Cloudy,77,1
+1416,Chicago,A Few Clouds,71,1
+1438,,,,
+1440,,,,
+1450,Chicago,Overcast,72,1
+1462,Chicago,Overcast with Haze,78,1
+1468,Chicago,Overcast with Haze,78,1
+1472,Chicago,Partly Cloudy,58,1
+1486,,,,
+1503,,,,
+1507,Chicago,Overcast with Haze,63,1
+1546,,,,
+1557,,,,
+1570,Chicago,Light Snow Fog/Mist,85,1
+1573,Chicago,Light Snow,79,1
+1583,Chicago,Overcast with Haze,81,1
+1588,Chicago,Overcast with Haze,81,1
+1611,,,,
+1614,,,,
+1631,,,,
+1633,,,,
+1641,,,,
+1642,,,,
+1646,,,,
+1651,,,,
+1686,,,,
+1696,,,,
+1703,,,,
+1717,,,,
+1723,,,,
+1740,,,,
+1745,,,,
+1752,,,,
+1753,,,,
+1754,,,,
+1800,,,,
+1871,,,,
+1874,,,,
+1926,Dallas,Light Rain Fog/Mist,93,1
+1940,,,,
+1959,,,,
+1961,,,,
+1963,,,,
+1968,,,,
+1985,Dallas,Fog/Mist,88,1
+1995,Dallas,Overcast with Haze,79,1
+1999,Dallas,Overcast,68,1
+2010,Dallas,Overcast,76,1
+2014,Dallas,Overcast,75,1
+2024,Dallas,Overcast,75,1
+2026,Dallas,Overcast,75,1
+2047,Dallas,Overcast,82,1
+2051,Dallas,Overcast,82,1
+2053,Dallas,Overcast,85,1
+2073,,,,
+2079,,,,
+2091,Dallas,Fog/Mist,83,1
+2108,Dallas,Light Rain Fog/Mist,92,1
+2110,Dallas,Light Rain,87,1
+2111,Dallas,Light Rain,87,1
+2112,Dallas,Overcast,87,1
+2115,,,,
+2120,,,,
+2121,,,,
+2152,Dallas,Overcast with Haze,83,1
+2161,Dallas,Overcast with Haze,82,1
+2175,Dallas,Partly Cloudy,57,1
+2176,Dallas,Mostly Cloudy,54,1
+2180,,,,
+2211,Dallas,Mostly Cloudy,61,1
+2220,Dallas,Overcast,86,1
+2223,Dallas,Mostly Cloudy,86,1
+2226,Dallas,Overcast,82,1
+2247,Denver,Freezing Fog,92,1
+2268,,,,
+2272,,,,
+2273,,,,
+2281,,,,
+2305,Denver,Fog/Mist,92,1
+2309,Denver,A Few Clouds,69,1
+2318,Denver,A Few Clouds,25,1
+2320,Denver,A Few Clouds,23,1
+2323,Denver,Partly Cloudy,23,1
+2328,Denver,A Few Clouds,33,1
+2332,Denver,A Few Clouds,47,1
+2350,Denver,Partly Cloudy,30,1
+2355,Denver,Mostly Cloudy,28,1
+2358,Denver,Partly Cloudy,50,1
+2365,Denver,Partly Cloudy,69,1
+2396,,,,
+2402,,,,
+2417,Denver,Overcast,57,1
+2423,Denver,Overcast,85,1
+2442,,,,
+2445,,,,
+2447,,,,
+2451,,,,
+2457,,,,
+2479,Denver,Fair,71,1
+2500,,,,
+2535,Denver,Mostly Cloudy,52,1
+2543,Denver,Partly Cloudy,47,1
+2548,Denver,Partly Cloudy,36,1
+2549,Denver,Partly Cloudy,36,1
+2552,Denver,Partly Cloudy,29,1
+2558,Denver,Mostly Cloudy,27,1
+2580,,,,
+2589,,,,
+2605,,,,
+2611,,,,
+2625,Detroit,Fair,70,1
+2631,Detroit,Fair,80,1
+2648,Detroit,Fair,51,1
+2649,Detroit,Fair,58,1
+2650,Detroit,Fair,61,1
+2672,Detroit,Partly Cloudy,62,1
+2685,Detroit,Fair,77,1
+2687,Detroit,Fair,77,1
+2691,Detroit,Fair,84,1
+2692,Detroit,Overcast,81,1
+2710,,,,
+2712,,,,
+2713,,,,
+2743,Detroit,Fair,85,1
+2746,Detroit,Fair,85,1
+2755,,,,
+2763,,,,
+2777,,,,
+2780,,,,
+2798,Detroit,Overcast,85,1
+2806,Detroit,Fog/Mist,84,1
+2825,,,,
+2827,,,,
+2831,,,,
+2832,,,,
+2843,,,,
+2845,,,,
+2858,Detroit,Light Snow Fog/Mist,92,1
+2861,Detroit,Fog/Mist,88,1
+2877,Detroit,Overcast,66,1
+2881,,,,
+2885,El Paso,Overcast,85,1
+2889,El Paso,Mostly Cloudy,76,1
+2895,El Paso,A Few Clouds,65,1
+2916,,,,
+2918,,,,
+2936,El Paso,Mostly Cloudy,57,1
+2951,El Paso,Mostly Cloudy,82,1
+2955,El Paso,Mostly Cloudy,71,1
+2962,El Paso,Partly Cloudy,38,1
+2963,El Paso,Mostly Cloudy,31,1
+2969,El Paso,Fair,63,1
+2974,El Paso,Fair,76,1
+2995,El Paso,Overcast,43,1
+3002,El Paso,Partly Cloudy,65,1
+3017,El Paso,Mostly Cloudy,87,1
+3024,El Paso,Mostly Cloudy,42,1
+3026,El Paso,Mostly Cloudy,41,1
+3040,,,,
+3050,El Paso,Overcast,87,1
+3060,El Paso,Overcast,93,1
+3076,,,,
+3081,,,,
+3086,,,,
+3111,El Paso,Overcast,47,1
+3120,El Paso,Mostly Cloudy,65,1
+3135,El Paso,Mostly Cloudy,30,1
+3136,El Paso,Mostly Cloudy,30,1
+3162,,,,
+3167,,,,
+3176,El Paso,Overcast,57,1
+3181,El Paso,Overcast,73,1
+3186,El Paso,Light Rain,86,1
+3194,El Paso,Light Rain,83,1
+3202,Fort Worth,Light Rain,93,1
+3209,Fort Worth,Rain,89,1
+3225,,,,
+3245,,,,
+3251,,,,
+3259,Fort Worth,Fog/Mist,85,1
+3260,Fort Worth,Fog/Mist,88,1
+3262,Fort Worth,Fog/Mist,88,1
+3263,Fort Worth,Fog/Mist,92,1
+3265,Fort Worth,Fog/Mist,88,1
+3270,Fort Worth,Fog/Mist,89,1
+3291,Fort Worth,Overcast,75,1
+3296,Fort Worth,Overcast,75,1
+3302,Fort Worth,Overcast,78,1
+3307,Fort Worth,Overcast,75,1
+3314,Fort Worth,Overcast,75,1
+3316,Fort Worth,Overcast,78,1
+3319,Fort Worth,Overcast,78,1
+3324,Fort Worth,Overcast,82,1
+3343,Fort Worth,Overcast,82,1
+3351,,,,
+3358,,,,
+3361,,,,
+3373,Fort Worth,Light Rain,85,1
+3387,Fort Worth,Light Rain,97,1
+3398,,,,
+3399,,,,
+3418,,,,
+3424,,,,
+3433,Fort Worth,Overcast,80,1
+3435,Fort Worth,Overcast,86,1
+3453,Fort Worth,Mostly Cloudy,68,1
+3461,,,,
+3462,,,,
+3478,,,,
+3483,,,,
+3484,,,,
+3503,Fort Worth,Fair,89,1
+3511,Fort Worth,Fair,80,1
+3512,Fort Worth,Fair,77,1
+3513,Fort Worth,Fair,77,1
+3534,Houston,Overcast,80,1
+3544,,,,
+3546,,,,
+3547,,,,
+3549,,,,
+3568,,,,
+3571,,,,
+3705,Houston,Overcast,92,1
+4323,,,,
+5268,,,,
+5479,,,,
+5681,Milwaukee,Light Snow,92,1
+5683,Milwaukee,Light Snow,92,1
+6368,,,,
+6377,New York,Light Snow Fog/Mist,92,1
+7029,Philadelphia,Fog/Mist,88,1
+7314,,,,
+8208,,,,
+8792,,,,
+9293,Washington,Overcast,37,1
+9506,,Mostly,34,1

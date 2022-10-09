@@ -1,0 +1,57 @@
+entity,screen_type,supported_aspect_ratio,response_time(ms),screen_size_diagonal,day
+1388,Chicago,Cloudy,54.69671604,1
+1393,Chicago,Partly,67.93362542,1
+1403,Chicago,Overcast,74.04738738,1
+1406,Chicago,Cloudy,73.6368222,1
+1411,Chicago,Mostly,83.9467629,1
+1416,Chicago,Cloudy,74.83211815,1
+1472,Chicago,Partly,60.50119238,1
+2010,Dallas,Overcast,82.84758674,1
+2014,Dallas,Overcast,82.07040675,1
+2024,Dallas,Overcast,69.68465312,1
+2026,Dallas,Overcast,70.92886253,1
+2047,Dallas,Overcast,77.46098294,1
+2969,El Paso,Sunny,57.25153262,1
+2974,El Paso,Sunny,79.82291335,1
+2995,El Paso,Overcast,46.6073886,1
+3002,El Paso,Cloudy,72.2455956,1
+3017,El Paso,Overcast,77.48587366,1
+3024,El Paso,Mostly,44.70479763,1
+3026,El Paso,Mostly,44.95186702,1
+3951,Indianapolis,Cloudy,49.5232217,1
+3954,Indianapolis,Partly,58.21703204,1
+3980,Indianapolis,Sunny,60.27664716,1
+3983,Indianapolis,Sunny,51.9087567,1
+4584,Las Vegas,Cloudy,92.87055328,1
+4993,Los Angeles,Sunny,63.71824948,1
+5526,Milwaukee,Partly,62.21542235,1
+5527,Milwaukee,Partly,67.30194353,1
+5534,Milwaukee,Overcast,51.74309796,1
+5548,Milwaukee,Snow,82.4022413,1
+5573,Milwaukee,Cloudy,68.74471958,1
+5581,Milwaukee,Partly,43.32224739,1
+7048,Phoenix,Sunny,81.72399673,1
+7052,Phoenix,Few,68.55064691,1
+7055,Phoenix,Bkh,52.08416846,1
+7126,Phoenix,Few,42.68097099,1
+7131,Phoenix,Sunny,60.75292883,1
+7146,Phoenix,Sunny,49.73135231,1
+7150,Phoenix,Sunny,37.96582878,1
+7151,Phoenix,Sunny,37.73597591,1
+7152,Phoenix,Sunny,34.48722628,1
+7553,Portland,Overcast,72.78116934,1
+8100,San Diego,Sunny,90.7209266,1
+8104,San Diego,Mostly,94.31552651,1
+8110,San Diego,Partly,73.59150991,1
+8111,San Diego,Cloudy,70.74333764,1
+8123,San Diego,Cloudy,91.82483873,1
+8135,San Diego,Mostly,83.39437369,1
+8140,San Diego,Cloudy,85.86434028,1
+8143,San Diego,Cloudy,76.04105873,1
+8649,San Jose,Mostly,87.93877437,1
+9052,Seattle,Overcast,65.29999357,1
+9066,Seattle,Rain,88.19997818,1
+9069,Seattle,Rain,88.63270098,1
+9076,Seattle,Light,82.04915059,1
+9079,Seattle,Overcast,82.05986949,1
+9084,Seattle,Overcast,91.99234212,1

@@ -1,0 +1,294 @@
+entity,Domain,Conditions,Humidity,day
+5,Austin,Light Rain,97,1
+10,Austin,Light Rain,97,1
+13,Austin,Overcast,66,1
+25,Austin,Mist,80,1
+31,Austin,Overcast,86,1
+35,Austin,Overcast,88,1
+38,Austin,Overcast,85,1
+39,Austin,Overcast,84,1
+43,Austin,Mist,95,1
+50,Austin,Hazy,77,1
+60,,,,
+91,Austin,Partly Cloudy,52,1
+104,Austin,Clear,63,1
+112,Austin,Clear,41,1
+130,Austin,Overcast,87,1
+132,Austin,Overcast,89,1
+145,Austin,Hazy,70,1
+149,Austin,Light Rain,97,1
+154,Austin,Mist,97,1
+156,Austin,Light Rain,97,1
+167,Austin,Light Rain,97,1
+174,,,,
+205,Austin,Mist,97,1
+209,Austin,Mist,97,1
+251,,,,
+254,,,,
+257,,,,
+259,Austin,Hazy,78,1
+273,Austin,Light Rain,93,1
+275,Austin,Light Rain,97,1
+280,Austin,Light Rain,97,1
+302,,,,
+314,,,,
+315,,,,
+324,Baltimore,Mostly Cloudy,42,1
+342,Baltimore,Clear,46,1
+376,,,,
+382,,,,
+398,,,,
+407,Baltimore,Overcast,36,1
+408,Baltimore,Overcast,36,1
+428,Baltimore,Snow,79,1
+441,Baltimore,Snow,79,1
+462,Baltimore,Clear,33,1
+467,Baltimore,Clear,37,1
+483,Baltimore,Clear,64,1
+496,,,,
+498,,,,
+517,Baltimore,Partly Cloudy,54,1
+528,Baltimore,Mostly Cloudy,86,1
+535,Baltimore,Overcast,80,1
+552,,,,
+565,,,,
+600,Baltimore,Mist,87,1
+611,,,,
+625,,,,
+646,Boston,Clear,44,1
+649,Boston,Clear,37,1
+655,Boston,Partly Cloudy,27,1
+660,Boston,Clear,36,1
+669,Boston,Overcast,39,1
+671,Boston,Overcast,46,1
+673,Boston,Mostly Cloudy,46,1
+676,Boston,Clear,46,1
+684,Boston,Partly Cloudy,37,1
+692,Boston,Partly Cloudy,29,1
+731,Boston,Clear,31,1
+734,Boston,Clear,36,1
+746,Boston,Partly Cloudy,41,1
+756,Boston,Overcast,38,1
+768,Boston,Overcast,45,1
+774,Boston,Partly Cloudy,40,1
+776,Boston,Partly Cloudy,40,1
+789,Boston,Overcast,60,1
+791,Boston,Overcast,55,1
+798,Boston,Clear,64,1
+801,Boston,Clear,64,1
+831,Boston,Partly Cloudy,60,1
+837,Boston,Partly Cloudy,31,1
+843,Boston,Overcast,46,1
+848,Boston,Partly Cloudy,46,1
+852,Boston,Partly Cloudy,54,1
+859,Boston,Mostly Cloudy,43,1
+908,Boston,Overcast,69,1
+961,Charlotte,Clear,70,1
+965,Charlotte,Partly Cloudy,61,1
+997,Charlotte,Mist,81,1
+1000,Charlotte,Mist,84,1
+1001,Charlotte,Mostly Cloudy,81,1
+1011,Charlotte,Partly Cloudy,58,1
+1074,Charlotte,Overcast,80,1
+1080,Charlotte,Overcast,80,1
+1083,Charlotte,Partly Cloudy,80,1
+1084,Charlotte,Partly Cloudy,81,1
+1086,Charlotte,Partly Cloudy,81,1
+1107,Charlotte,Partly Cloudy,69,1
+1113,Charlotte,Clear,82,1
+1152,Charlotte,Mostly Cloudy,68,1
+1154,Charlotte,Partly Cloudy,63,1
+1166,Charlotte,Overcast,81,1
+1183,Charlotte,Drizzle,86,1
+1224,Charlotte,Mist,87,1
+1226,Charlotte,Mist,88,1
+1234,Charlotte,Fog,88,1
+1237,Charlotte,Fog,88,1
+1239,Charlotte,Fog,87,1
+1240,Charlotte,Mist,87,1
+1286,Chicago,Mostly Cloudy,60,1
+1288,Chicago,Mostly Cloudy,56,1
+1294,Chicago,Mostly Cloudy,49,1
+1298,Chicago,Mostly Cloudy,63,1
+1304,Chicago,Partly Cloudy,58,1
+1308,Chicago,Partly Cloudy,63,1
+1313,Chicago,Overcast,63,1
+1317,Chicago,Overcast,63,1
+1318,Chicago,Overcast,63,1
+1331,Chicago,Hazy,55,1
+1333,,,,
+1335,,,,
+1341,,,,
+1342,,,,
+1343,,,,
+1350,,,,
+1365,Chicago,Mostly Cloudy,68,1
+1388,Chicago,Partly Cloudy,54,1
+1393,Chicago,Partly Cloudy,63,1
+1403,Chicago,Overcast,73,1
+1406,Chicago,Mostly Cloudy,73,1
+1411,Chicago,Mostly Cloudy,79,1
+1416,Chicago,Partly Cloudy,73,1
+1438,Chicago,Hazy,74,1
+1440,Chicago,Hazy,74,1
+1450,,,,
+1462,,,,
+1468,,,,
+1472,Chicago,Partly Cloudy,61,1
+1486,Chicago,Snow,93,1
+1503,Chicago,Hazy,75,1
+1507,,,,
+1546,Chicago,Hazy,80,1
+1557,Chicago,Hazy,80,1
+1570,,,,
+1573,,,,
+1583,,,,
+1588,,,,
+1611,Columbus,Overcast,52,1
+1614,Columbus,Mostly Cloudy,48,1
+1631,Columbus,Partly Cloudy,73,1
+1633,Columbus,Partly Cloudy,79,1
+1641,Columbus,Hazy,74,1
+1642,Columbus,Mostly Cloudy,64,1
+1646,Columbus,Mostly Cloudy,55,1
+1651,Columbus,Mostly Cloudy,44,1
+1686,Columbus,Overcast,53,1
+1696,Columbus,Overcast,57,1
+1703,Columbus,Overcast,57,1
+1717,Columbus,Partly Cloudy,53,1
+1723,Columbus,Partly Cloudy,73,1
+1740,Columbus,Partly Cloudy,50,1
+1745,Columbus,Clear,43,1
+1752,Columbus,Overcast,75,1
+1753,Columbus,Overcast,75,1
+1754,Columbus,Hazy,80,1
+1800,Columbus,Overcast,69,1
+1871,Columbus,Snow,75,1
+1874,Columbus,Snow,81,1
+1926,Dallas,Light Rain,100,1
+1940,Dallas,Clear,53,1
+1959,Dallas,Mostly Cloudy,90,1
+1961,Dallas,Mostly Cloudy,78,1
+1963,Dallas,Overcast,62,1
+1968,Dallas,Overcast,50,1
+1985,,,,
+1995,,,,
+1999,,,,
+2010,Dallas,Overcast,78,1
+2014,Dallas,Overcast,77,1
+2024,Dallas,Overcast,71,1
+2026,Dallas,Overcast,69,1
+2047,Dallas,Overcast,78,1
+2051,Dallas,Overcast,79,1
+2053,Dallas,Overcast,77,1
+2073,Dallas,Overcast,78,1
+2079,Dallas,Light Rain,96,1
+2091,,,,
+2108,,,,
+2110,Dallas,Overcast,88,1
+2111,,,,
+2112,Dallas,Overcast,88,1
+2115,Dallas,Overcast,61,1
+2120,Dallas,Overcast,100,1
+2121,Dallas,Overcast,100,1
+2152,,,,
+2161,,,,
+2175,,,,
+2176,,,,
+2180,Dallas,Clear,60,1
+2211,,,,
+2220,,,,
+2223,,,,
+2226,,,,
+2247,Denver,Fog,84,1
+2268,Denver,Partly Cloudy,66,1
+2272,Denver,Partly Cloudy,70,1
+2273,Denver,Mist,61,1
+2281,Denver,Partly Cloudy,46,1
+2305,,,,
+2309,,,,
+2318,,,,
+2320,,,,
+2323,,,,
+2328,Denver,Partly Cloudy,32,1
+2332,Denver,Partly Cloudy,49,1
+2350,Denver,Partly Cloudy,31,1
+2355,Denver,Mostly Cloudy,32,1
+2358,Denver,Partly Cloudy,47,1
+2365,Denver,Partly Cloudy,50,1
+2396,Denver,Overcast,44,1
+2402,Denver,Overcast,68,1
+2417,,,,
+2423,,,,
+2442,Denver,Partly Cloudy,38,1
+2445,Denver,Clear,49,1
+2447,Denver,Clear,52,1
+2451,Denver,Partly Cloudy,52,1
+2457,Denver,Partly Cloudy,34,1
+2479,,,,
+2500,Denver,Mostly Cloudy,34,1
+2535,,,,
+2543,,,,
+2548,,,,
+2549,,,,
+2552,,,,
+2558,,,,
+2580,Detroit,Clear,54,1
+2589,Detroit,Clear,68,1
+2605,Detroit,Overcast,50,1
+2611,Detroit,Overcast,54,1
+2625,,,,
+2631,,,,
+2648,Detroit,Clear,53,1
+2649,Detroit,Clear,57,1
+2650,Detroit,Clear,62,1
+2672,Detroit,Partly Cloudy,62,1
+2685,Detroit,Clear,79,1
+2687,Detroit,Clear,79,1
+2691,Detroit,Clear,85,1
+2692,Detroit,Overcast,85,1
+2710,Detroit,Overcast,69,1
+2712,Detroit,Clear,74,1
+2743,,,,
+2746,,,,
+2798,,,,
+2877,,,,
+3017,El Paso,Overcast,81,1
+3120,,,,
+3259,,,,
+3373,,,,
+3512,,,,
+3513,,,,
+3534,Houston,Overcast,91,1
+3773,,,,
+3775,,,,
+3839,,,,
+4012,,,,
+4149,,,,
+4150,,,,
+4153,,,,
+4219,,,,
+4323,Jacksonville,Overcast,91,1
+4462,,,,
+4866,,,,
+4981,,,,
+5036,,,,
+5050,,,,
+5185,,,,
+5268,Memphis,Overcast,53,1
+5419,,,,
+5619,,,,
+6068,,,,
+6368,New York,Overcast,60,1
+7346,,,,
+7413,,,,
+7416,,,,
+7422,,,,
+8173,,,,
+8180,,,,
+8208,San Diego,Overcast,92,1
+8297,,,,
+8792,San Jose,Overcast,71,1
+9130,,,,
+9293,Washington,Overcast,36,1
+9516,,Mostly,66,1

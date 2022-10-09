@@ -1,0 +1,14 @@
+entity,Domain,Conditions,Humidity,day
+2110,Dallas,Rain,81.15348774,1
+2111,Dallas,Rain,94.00972992,1
+2112,Dallas,Rain,87.00478045,1
+2115,Dallas,Cloudy,67.41891569,1
+2120,Dallas,Cloudy,77.0800928,1
+2121,Dallas,Cloudy,84.33832858,1
+2152,Fort Worth,Overcast with Haze,83,1
+2161,Fort Worth,Overcast Haze,82,1
+2175,Fort Worth,Cloudy,57,1
+2176,Fort Worth,Mostly,54,1
+2180,Dallas,Cloudy,65.24695558,1
+2211,Fort Worth,Mostly,61,1
+2220,Fort Worth,Overcast,86,1

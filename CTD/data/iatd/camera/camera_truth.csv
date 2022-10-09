@@ -1,0 +1,21 @@
+entity_id,brand,number,external_memory_type,white_balance,day
+6,Canon,1352,24,Auto;Preset;Cloudy;Flash;Fluorescent;Custom White Balance;White Balance Presets;incandescent,1
+13,Nikon,899,16.2,Shade;Cloudy;Fluorescent;Flash;Incandescent;Preset Manual;Color Temperature,1
+18,Canon,1065,19,Auto;Daylight;Shade;Cloudy;Preset;Custom;Tungsten Light;White Fluorescent LightFlashCustomColor Temperature Setting,1
+19,Nikon,1677,25,Auto;Preset;Cloudy;Flash;Fluorescent;White Balance Presets;Custom White Balance,1
+23,Canon,1317,19,Available Auto;Preset;User Defined;Color Temperature Setting;White Balance Correction and White Balance Bracketing;Daylight;Shade;Cloudy,1
+41,Nikon,1003,24.7,Auto;Preset;Cloudy;Flash;Fluorescent;Incandescent;Shade;Sunlight;Sunny;Tungsten,1
+44,Nikon,950,24.7,Auto;Preset;Cloudy;Flash;Fluorescent;Incandescent,1
+48,Canon,665,12.1,Daylight;Cloudy;Tungsten;Fluorescent;Flash;Auto,1
+58,Fujifilm,1107,10.1,Cloudy;Sunny;Flash;Fluorescent;Incandescent;Shade,1
+65,Sony,1458,16,Automatic;Preset,1
+67,Panasonic,916,16,Fluorescent;Cloudy;Tungsten;Custom,1
+69,Nikon,1284,36.4,Daylight;Shade;Cloudy;Underwater;Auto;Incandescent,1
+70,Nikon,1138,14.1,Daylight;Cloudy;Shade;Incandescent,1
+75,Nikon,187,17,Auto;incandescent;fluorescent;direct sunlight;flash;cloudy;shade;preset manual white balance;color temperature selection;Incandescent,1
+76,Sony,1569,24.3,Auto;Custom White Balance;White Balance Presets;Incandescent;Fluorescent;Direct Sunlight;Flash;Cloudy,1
+83,Canon,1411,10.1,Auto,1
+88,Canon,1662,20,Cloudy;Flash;Daylight;one Push;Fluorescent White Balance 3;Fluorescent White Balance 1,1
+96,Nikon,929,20.9,Auto;preset;color temperature setting;with white balance correction and white balance bracketing functions;With flash color temperature information transmission;Preset;Custom,1
+101,Nikon,1721,23.4,Auto;Preset;Color Temperature Setting;User Defined;White Balance Correction and White Balance Bracketing;Cloudy,1
+570,Nikon,1450,36.3,Cloudy;Flash;Fluorescent;Incandescent;Shade;Auto,1

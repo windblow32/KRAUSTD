@@ -1,0 +1,21 @@
+entity_id,brand,number,external_memory_type,white_balance,day
+6,Nikon,16,25,Custom White Balance;White Balance Presets;Auto;incandescent;fluorescent;direct sunlight;flash;cloudy;shade;preset manual;all except preset manual with fine-tuning,1
+13,Nikon,159,16.2,Auto;Incandescent;Fluorescent;Direct Sunlight;Flash;Cloudy;Shade;Preset Manual;Color Temperature;All with Fine-Tuning,1
+18,Canon,773,19,White Balance Presets;Custom White Balance;Auto;Preset;Custom;Colour temperature setting,1
+19,Nikon,3,25,White Balance Presets;Custom White Balance;Auto;incandescent;fluorescent;direct sunlight;flash;cloudy;shade;preset manual;all except preset manual with fine-tuning,1
+23,Canon,763,18,White Balance Presets;Custom White Balance;Auto;Daylight;Shade;Cloudy;Tungsten Light;White Fluorescent Light;Flash;Custom,1
+41,Nikon,103,24.7,White Balance Presets;Custom White Balance;Auto;incandescent;fluorescent;direct sunlight;flash;cloudy;shade;preset manual;all except preset manual with fine-tuning,1
+44,Nikon,714,24.2,Auto;Incandescent;Fluorescent;Direct Sunlight;Flash;Cloudy;Shade;Preset Manual;White Balance Presets;Custom White Balance,1
+48,Canon,172,12.1,Auto;Daylight;Cloudy;Tungsten;Fluorescent;Fluorescent H;Flash;Custom1;Custom 2;Multi-area WB Correction;White Balance Compensation,1
+58,Nikon,696,10.1,White Balance Presets;Custom White Balance,1
+65,Fujifilm,46,16,Automatic;Preset,1
+67,Canon,687,16,Auto;Day Light;Cloudy;Tungsten;Fluorescent;Fluorescent H;Custom,1
+69,Sony,52,36.4,White Balance Presets;Custom White Balance,1
+70,Panasonic,79,14.1,Auto;Daylight;Cloudy;Shade;Incandescent;White Set,1
+75,Nikon,35,17,Custom White Balance;White Balance Presets;Auto;Incandescent;Fluorescent;Direct Sunlight;Flash;Cloudy;Shade;preset manua;choose color temperature,1
+76,Nikon,750,24.3,Custom White Balance;White Balance Presets;Auto;Incandescent;Fluorescent;Direct Sunlight;Flash;Cloudy;Shade;Preset Manual;All with Fine-tuning,1
+83,Nikon,187,10.1,Auto,1
+88,Sony,139,20,White Balance Presets;Custom White Balance,1
+96,Canon,181,20.2,Auto;Preset;Custom;Color Temperature Setting,1
+101,Canon,724,22.3,Auto;Preset,1
+570,Nikon,126,37,Custom White Balance;White Balance Presets;Auto;Incandescent;Fluorescent;Direct Sunlight;Flash;Cloudy;Shade;Color Temperature;All with Fine-tuning,1

@@ -1,21 +1,151 @@
 entity,screen_type,supported_aspect_ratio,response_time(ms),screen_size_diagonal,day
-22,LCD Monitor;LCD Monitor;LCD,5:04,5,48.3,1
-25,LCD Monitor;LCD Monitor,16:10,5,55.9,1
-27,LCD Monitor;LCD Monitor;TFT Brilliance LCD 16.7 Million Colour,16:09,5,54.6,1
-28,TFT LCD 16.7 Million Colour;LED,16:09,5,54.6,1
-32,LCD Monitor;LCD Monitor;LED,16:09,5,61,1
-33,LCD Monitor;LCD Monitor;TFT LCD 16.7 Million Colour,16:09,1,61,1
-39,Brilliance LCD Monitor;Brilliance LCD Monitor;Monitor,16:09,5,68.6,1
-40,TFT LCD Million Colour;TFT/LCD,16:09,5,68.6,1
-41,TFT/LCD;TFT LCD 16.7 Million Colour;LCD Monitor,16:09,5,68.6,1
-62,IPS;IPS TFT LCD 16.7 Million Colour;LCD Monitor,16:10,14,61,1
-88,LCD;TN+Film;TFT Brilliance LCD 16.7 million Colour,16:09,2,61,1
-103,LCD Monitor;LED Backlight 16.7 Million Colour;LED,16:09,5,49.5,1
-128,LCD Monitor;LCD Monitor,16:10,6,61,1
-132,LCD Monitor;LCD Monitor;IPS,21:09,5,73.7,1
-133,LCD Monitor;IGZO;Widescreen 1.07 Colour,16:09,8,80,1
-168,LCD Monitor;LCD;Monitor,16:09,2,68.6,1
-171,LCD Monitor;LCD Monitor,16:09,2,68.6,1
-186,Monitor;LED 16.7 million Colour;LCD Monitor,16:10,5,55.9,1
-190,Monitor;Widescreen IPS 16.7 Million Colour;Brilliance LCD Monitor,16:09,5,68.6,1
-193,LED Backlight LCD IPS Panel 16.7 million Colour;Brilliance LCD Monitor,16:09,5,58.4,1
+5,Austin,Light Rain,97,1
+10,Austin,Light Rain,97,1
+13,Austin,Overcast,66,1
+25,Austin,Mist,80,1
+31,Austin,Overcast,86,1
+35,Austin,Overcast,88,1
+38,Austin,Overcast,85,1
+39,Austin,Overcast,84,1
+43,Austin,Mist,95,1
+50,Austin,Hazy,77,1
+60,Dallas,Overcast,85,1
+91,Austin,Partly Cloudy,52,1
+104,Austin,Clear,63,1
+112,Austin,Clear,41,1
+130,Austin,Overcast,87,1
+132,Austin,Overcast,89,1
+145,Austin,Hazy,70,1
+149,Austin,Light Rain,97,1
+154,Austin,Mist,97,1
+156,Austin,Light Rain,97,1
+167,Austin,Light Rain,97,1
+174,Fort Worth,Mist/Fog,93,1
+205,Austin,Mist,97,1
+209,Austin,Mist,97,1
+251,Fort Worth,Mist/Fog,86,1
+254,Fort Worth,Mist/Fog,86,1
+257,Fort Worth,Overcast with Haze,80,1
+259,Austin,Hazy,78,1
+273,Austin,Light Rain,93,1
+275,Austin,Light Rain,97,1
+1080,Charlotte,Overcast,80,1
+1968,Dallas,Overcast,50,1
+2014,Dallas,Overcast,77,1
+2051,Dallas,Overcast,79,1
+2053,Dallas,Overcast,77,1
+2120,Dallas,Overcast,100,1
+2611,Detroit,Overcast,54,1
+3017,El Paso,Overcast,81,1
+3547,Houston,Clear,85,1
+3650,Houston,Overcast,83,1
+3659,Houston,Overcast,83,1
+4051,Indianapolis,Overcast,78,1
+4280,Jacksonville,Bkh,85,1
+5268,Memphis,Overcast,53,1
+5316,Memphis,Overcast,57,1
+5479,Milwaukee,Overcast,61,1
+5485,Milwaukee,Overcast,51,1
+5765,Nashville,Overcast,59,1
+5953,Nashville,Overcast,75,1
+6021,Nashville,Overcast,61,1
+7314,Phoenix,Few,53,1
+7449,Portland,Light Rain,72,1
+8208,San Diego,Overcast,92,1
+8280,San Diego,Hazy,77,1
+8792,San Jose,Overcast,71,1
+9584,Milwaukee,Mist/Fog,85,1
+1388,Chicago,Partly Cloudy,54,1
+1393,Chicago,Partly Cloudy,63,1
+1403,Chicago,Overcast,73,1
+1406,Chicago,Mostly Cloudy,73,1
+1411,Chicago,Mostly Cloudy,79,1
+1416,Chicago,Partly Cloudy,73,1
+1472,Chicago,Partly Cloudy,61,1
+2010,Dallas,Overcast,78,1
+2024,Dallas,Overcast,71,1
+2026,Dallas,Overcast,69,1
+2047,Dallas,Overcast,78,1
+2885,El Paso,Overcast,86,1
+2889,El Paso,Mostly Cloudy,80,1
+2895,El Paso,Partly Cloudy,61,1
+2969,El Paso,Clear,61,1
+2974,El Paso,Clear,75,1
+2995,El Paso,Overcast,44,1
+3002,El Paso,Partly Cloudy,66,1
+3024,El Paso,Mostly Cloudy,47,1
+3026,El Paso,Mostly Cloudy,41,1
+3291,Fort Worth,Overcast,75,1
+3296,Fort Worth,Overcast,69,1
+3302,Fort Worth,Overcast,69,1
+3307,Fort Worth,Overcast,69,1
+3314,Fort Worth,Overcast,69,1
+3316,Fort Worth,Overcast,69,1
+3319,Fort Worth,Overcast,75,1
+3324,Fort Worth,Overcast,80,1
+3343,Fort Worth,Overcast,75,1
+3534,Houston,Overcast,91,1
+3856,Indianapolis,Mostly Cloudy,62,1
+3951,Indianapolis,Partly Cloudy,54,1
+3954,Indianapolis,Partly Cloudy,59,1
+3980,Indianapolis,Clear,58,1
+3983,Indianapolis,Clear,51,1
+4306,Jacksonville,Bkh,73,1
+4584,Las Vegas,Partly Cloudy,91,1
+4888,Los Angeles,Clear,59,1
+4899,Los Angeles,Hazy,82,1
+4900,Los Angeles,Hazy,82,1
+4934,Los Angeles,Clear,87,1
+4938,Los Angeles,Hazy,87,1
+4940,Los Angeles,Hazy,63,1
+4941,Los Angeles,Hazy,63,1
+4942,Los Angeles,Clear,52,1
+4944,Los Angeles,Clear,46,1
+4993,Los Angeles,Clear,67,1
+5440,Milwaukee,Partly Cloudy,46,1
+5446,Milwaukee,Partly Cloudy,60,1
+5455,Milwaukee,Partly Cloudy,49,1
+5526,Milwaukee,Partly Cloudy,62,1
+5527,Milwaukee,Partly Cloudy,62,1
+5534,Milwaukee,Overcast,57,1
+5548,Milwaukee,Snow,86,1
+5573,Milwaukee,Mostly Cloudy,73,1
+5581,Milwaukee,Partly Cloudy,46,1
+5868,Nashville,Overcast,74,1
+5873,Nashville,Overcast,74,1
+5888,Nashville,Clear,79,1
+5905,Nashville,Clear,45,1
+6866,Philadelphia,Clear,37,1
+6910,Philadelphia,Overcast,65,1
+7048,Phoenix,Clear,90,1
+7052,Phoenix,Few,65,1
+7055,Phoenix,Bkh,55,1
+7126,Phoenix,Few,47,1
+7131,Phoenix,Clear,65,1
+7146,Phoenix,Clear,49,1
+7150,Phoenix,Clear,39,1
+7151,Phoenix,Clear,37,1
+7152,Phoenix,Clear,35,1
+7464,Portland,Overcast,76,1
+7477,Portland,Overcast,76,1
+7485,Portland,Overcast,81,1
+7497,Portland,Mist,83,1
+7553,Portland,Overcast,68,1
+8009,San Diego,Mostly Cloudy,81,1
+8100,San Diego,Clear,93,1
+8104,San Diego,Mostly Cloudy,93,1
+8110,San Diego,Partly Cloudy,68,1
+8111,San Diego,Partly Cloudy,65,1
+8123,San Diego,Partly Cloudy,87,1
+8135,San Diego,Mostly Cloudy,92,1
+8140,San Diego,Partly Cloudy,79,1
+8143,San Diego,Partly Cloudy,71,1
+8649,San Jose,Mostly Cloudy,88,1
+8969,Seattle,Mostly Cloudy,71,1
+9052,Seattle,Overcast,72,1
+9066,Seattle,Light Rain,93,1
+9069,Seattle,Light Rain,87,1
+9076,Seattle,Light Rain,87,1
+9079,Seattle,Overcast,87,1
+9084,Seattle,Overcast,93,1
+9423,Washington,Clear,31,1

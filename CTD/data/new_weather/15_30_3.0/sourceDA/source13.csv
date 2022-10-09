@@ -1,0 +1,95 @@
+entity,Domain,Conditions,Humidity,day
+1388,Chicago,Cloudy,49.58498164,1
+1393,Chicago,Cloudy,63.08013406,1
+1403,Chicago,Overcast,79.23894112,1
+1406,Chicago,Mostly,69.17782954,1
+1411,Chicago,Mostly,74.30829434,1
+1416,Chicago,Few Clouds,66.01333863,1
+1472,Chicago,Partly,61.71086957,1
+2010,Dallas,Overcast,73.76911539,1
+2024,Dallas,Overcast,71.8040318,1
+2026,Dallas,Overcast,69.64661661,1
+2047,Dallas,Overcast,78.05650458,1
+2885,El Paso,Overcast,77.14957288,1
+2889,El Paso,Mostly,73.40457571,1
+2895,El Paso,Few Clouds,64.66431238,1
+2969,El Paso,Clean,56.97242681,1
+2974,El Paso,Clean,69.48379242,1
+2995,El Paso,Overcast,41.94261246,1
+3002,El Paso,Cloudy,62.87613388,1
+3024,El Paso,Cloudy,41.74033403,1
+3026,El Paso,Mostly,38.20527601,1
+3291,Fort Worth,Overcast,75.258378,1
+3296,Fort Worth,Overcast,71.3666632,1
+3302,Fort Worth,Overcast,71.32234852,1
+3307,Fort Worth,Overcast,68.49551859,1
+3314,Fort Worth,Overcast,82.46141314,1
+3316,Fort Worth,Overcast,71.40021842,1
+3319,Fort Worth,Overcast,77.2281071,1
+3324,Fort Worth,Overcast,79.16384909,1
+3343,Fort Worth,Overcast,74.01753706,1
+3534,Houston,Overcast,76.71596457,1
+3856,Indianapolis,Cloudy,61.70474425,1
+3951,Indianapolis,Partly,56.52249114,1
+3954,Indianapolis,Cloudy,57.35530794,1
+3980,Indianapolis,Clean,57.01547497,1
+3983,Indianapolis,Clean,54.11193047,1
+4306,Jacksonville,Cloudy,73.91651108,1
+4584,Las Vegas,A Clouds,79.15030054,1
+4888,Los Angeles,Clean,59.21860514,1
+4899,Los Angeles,Haze,80.46716748,1
+4900,Los Angeles,Haze,80.04554299,1
+4934,Los Angeles,Fog,94.60010671,1
+4938,Los Angeles,Haze,79.23225326,1
+4940,Los Angeles,Fog,80.48175809,1
+4941,Los Angeles,Haze,62.56934435,1
+4942,Los Angeles,Clean,55.24275231,1
+4944,Los Angeles,Haze,42.40394193,1
+4993,Los Angeles,Clean,66.58212313,1
+5440,Milwaukee,A Clouds,48.39097587,1
+5446,Milwaukee,Cloudy,62.52592483,1
+5455,Milwaukee,Cloudy,55.35458928,1
+5526,Milwaukee,Partly,58.29620656,1
+5527,Milwaukee,Cloudy,60.73406092,1
+5534,Milwaukee,Overcast,61.57332038,1
+5548,Milwaukee,Snow,87.2615186,1
+5573,Milwaukee,Mostly,62.92070924,1
+5581,Milwaukee,A Few,42.62034801,1
+5868,Nashville,Overcast,77.25071059,1
+5873,Nashville,Overcast,79.16330353,1
+5888,Nashville,Clean,91.17280802,1
+5905,Nashville,Clean,41.52386386,1
+6866,Philadelphia,Clean,35.18526583,1
+6910,Philadelphia,Overcast,65.27521894,1
+7048,Phoenix,Partly,83.04134614,1
+7052,Phoenix,Partly,71.75638019,1
+7055,Phoenix,Cloudy,62.47985643,1
+7126,Phoenix,Partly,44.34505016,1
+7131,Phoenix,Partly,61.59972484,1
+7146,Phoenix,Mostly,49.43183138,1
+7150,Phoenix,Mostly,35.28330464,1
+7151,Phoenix,Mostly,36.49981768,1
+7152,Phoenix,Mostly,32.06349216,1
+7464,Portland,Observation is Caution Overcast,88.51013437,1
+7477,Portland,Overcast,81.57404205,1
+7485,Portland,Overcast,92.07004399,1
+7497,Portland,Fog,103.4097612,1
+7553,Portland,Overcast,64.36833671,1
+8009,San Diego,Cloudy,74.61629046,1
+8100,San Diego,Fog,86.47595094,1
+8104,San Diego,Fog,83.14092566,1
+8110,San Diego,Cloudy,65.75076717,1
+8111,San Diego,Cloudy,72.3090428,1
+8123,San Diego,Cloudy,83.79521933,1
+8135,San Diego,Haze,81.57859665,1
+8140,San Diego,Haze,66.55232823,1
+8143,San Diego,Cloudy,60.59261787,1
+8649,San Jose,Mostly,91.63843071,1
+8969,Seattle,Mostly,77.70354513,1
+9052,Seattle,Overcast,69.38139714,1
+9066,Seattle,Lt,90.74355352,1
+9069,Seattle,Lt,90.66428647,1
+9076,Seattle,Lt,85.45169466,1
+9079,Seattle,Overcast,89.0788817,1
+9084,Seattle,Mostly,85.66232748,1
+9423,Washington,Clean,27.71737311,1

@@ -1,0 +1,880 @@
+source,entity,Domain,Conditions,Humidity,day
+1,1388,Chicago,Partly Cloudy,,1
+2,1388,Chicago,Partly Cloudy,54,1
+3,1388,Chicago,Scattered Clouds,55,1
+4,1388,Chicago,Scattered Clouds,56,1
+5,1388,Chicago,Mostly Cloudy,59,1
+6,1388,Chicago,Partly Cloudy,54,1
+7,1388,Chicago,Partly Cloudy,42,1
+14,1388,Chicago,Partly Cloudy,48,1
+8,1388,Chicago,Mostly Cloudy,59,1
+9,1388,Chicago,Partly Cloudy,54,1
+15,1388,Chicago,Mostly Clear,55,1
+10,1388,Chicago,clear sky,58,1
+11,1388,Chicago,Mostly Cloudy,59,1
+12,1388,Chicago,Partly Sunny,54,1
+13,1388,Chicago,Partly Cloudy,55,1
+1,1393,Chicago,Partly Cloudy,,1
+2,1393,Chicago,Partly Cloudy,63,1
+3,1393,Chicago,Mostly Cloudy,66,1
+4,1393,Chicago,Mostly Cloudy,64,1
+5,1393,Chicago,Intermittent Clouds,62,1
+6,1393,Chicago,Partly Cloudy,63,1
+7,1393,Chicago,Partly Cloudy,53,1
+14,1393,Chicago,Partly Cloudy,56,1
+8,1393,Chicago,Intermittent Clouds,62,1
+9,1393,Chicago,Mostly Cloudy,68,1
+15,1393,Chicago,Mostly Cloudy,65,1
+10,1393,Chicago,clear sky,62,1
+11,1393,Chicago,Clouds And Sun,62,1
+12,1393,Chicago,Partly Sunny,62,1
+13,1393,Chicago,Mostly Cloudy,66,1
+1,1403,Chicago,Cloudy,,1
+2,1403,Chicago,Overcast,73,1
+3,1403,Chicago,Overcast,74,1
+4,1403,Chicago,Overcast,70,1
+5,1403,Chicago,Cloudy,74,1
+6,1403,Chicago,Overcast,73,1
+7,1403,Chicago,Mostly Cloudy,71,1
+14,1403,Chicago,Mostly Cloudy,62,1
+8,1403,Chicago,Cloudy,74,1
+9,1403,Chicago,Cloudy,73,1
+15,1403,Chicago,Cloudy,74,1
+10,1403,Chicago,mostly cloudy,68,1
+11,1403,Chicago,Cloudy,74,1
+12,1403,Chicago,Cloudy,74,1
+13,1403,Chicago,Overcast,74,1
+1,1406,Chicago,Mostly Cloudy,,1
+2,1406,Chicago,Mostly Cloudy,73,1
+3,1406,Chicago,Mostly Cloudy,71,1
+4,1406,Chicago,Mostly Cloudy,71,1
+5,1406,Chicago,Intermittent Clouds,76,1
+6,1406,Chicago,Mostly Cloudy,73,1
+7,1406,Chicago,Mostly Cloudy,63,1
+14,1406,Chicago,Mostly Cloudy,66,1
+8,1406,Chicago,Intermittent Clouds,76,1
+9,1406,Chicago,Mostly Cloudy,73,1
+15,1406,Chicago,Mostly Cloudy,71,1
+10,1406,Chicago,mostly cloudy,73,1
+11,1406,Chicago,Some Clouds,76,1
+12,1406,Chicago,Cloudy,71,1
+13,1406,Chicago,Mostly Cloudy,71,1
+1,1411,Chicago,Mostly Cloudy,,1
+2,1411,Chicago,Mostly Cloudy,79,1
+3,1411,Chicago,Mostly Cloudy,78,1
+4,1411,Chicago,Mostly Cloudy,74,1
+5,1411,Chicago,Mostly Cloudy,80,1
+6,1411,Chicago,Mostly Cloudy,79,1
+7,1411,Chicago,Mostly Cloudy,76,1
+14,1411,Chicago,Mostly Cloudy,68,1
+8,1411,Chicago,Cloudy,84,1
+9,1411,Chicago,Mostly Cloudy,79,1
+15,1411,Chicago,Mostly Cloudy,77,1
+10,1411,Chicago,mostly cloudy,73,1
+11,1411,Chicago,Mostly Cloudy,80,1
+12,1411,Chicago,Cloudy,77,1
+13,1411,Chicago,Mostly Cloudy,77,1
+1,1416,Chicago,Partly Cloudy,,1
+2,1416,Chicago,Partly Cloudy,79,1
+3,1416,Chicago,Partly Cloudy,71,1
+4,1416,Chicago,Partly Cloudy,68,1
+5,1416,Chicago,Mostly Sunny,80,1
+6,1416,Chicago,Partly Cloudy,73,1
+7,1416,Chicago,Partly Cloudy,71,1
+14,1416,Chicago,Partly Cloudy,76,1
+8,1416,Chicago,Mostly Sunny,80,1
+9,1416,Chicago,Mostly Sunny,79,1
+15,1416,Chicago,Few Clouds,71,1
+10,1416,Chicago,clear sky,79,1
+11,1416,Chicago,Mostly Sunny,80,1
+12,1416,Chicago,Partly Sunny,80,1
+13,1416,Chicago,A Few Clouds,71,1
+1,1472,Chicago,Partly Cloudy,,1
+2,1472,Chicago,Partly Cloudy,61,1
+3,1472,Chicago,Partly Cloudy,61,1
+4,1472,Chicago,Partly Cloudy,53,1
+5,1472,Chicago,Partly Sunny,63,1
+6,1472,Chicago,Partly Cloudy,61,1
+7,1472,Chicago,Partly Cloudy,50,1
+14,1472,Chicago,Partly Cloudy,61,1
+8,1472,Chicago,Partly Sunny,63,1
+9,1472,Chicago,Mostly Sunny,61,1
+15,1472,Chicago,Few Clouds,61,1
+10,1472,Chicago,clear sky,61,1
+11,1472,Chicago,Partly Sunny,63,1
+12,1472,Chicago,Partly Sunny,60,1
+13,1472,Chicago,Partly Cloudy,58,1
+1,1472,Chicago,Partly Cloudy,,1
+2,1472,Chicago,Partly Cloudy,61,1
+3,1472,Chicago,Scattered Clouds,58,1
+4,1472,Chicago,Scattered Clouds,51,1
+5,1472,Chicago,Partly Sunny,60,1
+1,2010,Dallas,Cloudy,,1
+2,2010,Dallas,Overcast,75,1
+3,2010,Dallas,Overcast,76,1
+4,2010,Dallas,Overcast,76,1
+5,2010,Dallas,Cloudy,80,1
+6,2010,Dallas,Overcast,78,1
+7,2010,Dallas,Cloudy,73,1
+14,2010,Dallas,Cloudy,75,1
+8,2010,Dallas,Cloudy,75,1
+9,2010,Dallas,Weather WarningsCloudy,80,1
+15,2010,Dallas,Cloudy,75,1
+10,2010,Dallas,mostly cloudy,74,1
+11,2010,Dallas,Light Snow,78,1
+12,2010,Dallas,Cloudy,75,1
+13,2010,Dallas,Overcast,76,1
+1,2014,Dallas,Cloudy,,1
+2,2014,Dallas,Overcast,80,1
+3,2014,Dallas,Overcast,75,1
+4,2014,Dallas,Overcast,77,1
+5,2014,Dallas,Cloudy,74,1
+6,2014,Dallas,Overcast,77,1
+7,2014,Dallas,Cloudy,75,1
+14,2014,Dallas,Cloudy,74,1
+8,2014,Dallas,Cloudy,74,1
+9,2014,Dallas,Flood warningCloudy,80,1
+15,2014,Dallas,Cloudy,75,1
+10,2014,Dallas,mostly cloudy,80,1
+11,2014,Dallas,Cloudy,74,1
+12,2014,Dallas,Cloudy,78,1
+13,2014,Dallas,Overcast,75,1
+1,2024,Dallas,Cloudy,,1
+2,2024,Dallas,Overcast,74,1
+3,2024,Dallas,Overcast,75,1
+4,2024,Dallas,Overcast,77,1
+5,2024,Dallas,Cloudy,74,1
+6,2024,Dallas,Overcast,71,1
+7,2024,Dallas,Cloudy,73,1
+14,2024,Dallas,Cloudy,70,1
+8,2024,Dallas,Cloudy,74,1
+9,2024,Dallas,Flood warningCloudy,74,1
+15,2024,Dallas,Cloudy,75,1
+10,2024,Dallas,mostly cloudy,80,1
+11,2024,Dallas,Cloudy,74,1
+12,2024,Dallas,Cloudy,74,1
+13,2024,Dallas,Overcast,75,1
+1,2026,Dallas,Cloudy,,1
+2,2026,Dallas,Overcast,74,1
+3,2026,Dallas,Overcast,75,1
+4,2026,Dallas,Overcast,75,1
+5,2026,Dallas,Cloudy,71,1
+6,2026,Dallas,Overcast,69,1
+7,2026,Dallas,Cloudy,69,1
+14,2026,Dallas,Cloudy,70,1
+8,2026,Dallas,Cloudy,71,1
+9,2026,Dallas,Flood warningCloudy,74,1
+15,2026,Dallas,Cloudy,75,1
+10,2026,Dallas,mostly cloudy,74,1
+11,2026,Dallas,Cloudy,71,1
+12,2026,Dallas,Cloudy,74,1
+13,2026,Dallas,Overcast,75,1
+1,2047,Dallas,Cloudy,,1
+2,2047,Dallas,Overcast,86,1
+3,2047,Dallas,Overcast,82,1
+4,2047,Dallas,Overcast,81,1
+5,2047,Dallas,Cloudy,81,1
+6,2047,Dallas,Overcast,78,1
+7,2047,Dallas,Cloudy,79,1
+14,2047,Dallas,Cloudy,74,1
+8,2047,Dallas,Cloudy,81,1
+9,2047,Dallas,Flood warningCloudy,86,1
+15,2047,Dallas,Cloudy,82,1
+10,2047,Dallas,mostly cloudy,80,1
+11,2047,Dallas,Cloudy,81,1
+12,2047,Dallas,Cloudy,82,1
+13,2047,Dallas,Overcast,82,1
+1,2969,El Paso,Fair,,1
+2,2969,El Paso,Clear,61,1
+3,2969,El Paso,Clear,63,1
+4,2969,El Paso,Clear,68,1
+5,2969,El Paso,Clear,62,1
+6,2969,El Paso,Clear,61,1
+7,2969,El Paso,Clear,63,1
+14,2969,El Paso,Partly Cloudy,63,1
+8,2969,El Paso,Partly Cloudy,62,1
+9,2969,El Paso,Clear,61,1
+15,2969,El Paso,Clear,62,1
+10,2969,El Paso,clear sky,61,1
+11,2969,El Paso,Clear,62,1
+12,2969,El Paso,Clear,62,1
+13,2969,El Paso,Fair,63,1
+1,2974,El Paso,Fair,,1
+2,2974,El Paso,Clear,75,1
+3,2974,El Paso,Clear,76,1
+4,2974,El Paso,Clear,75,1
+5,2974,El Paso,Clear,75,1
+6,2974,El Paso,Clear,75,1
+7,2974,El Paso,Clear,81,1
+14,2974,El Paso,Mostly Clear,76,1
+8,2974,El Paso,Clear,75,1
+9,2974,El Paso,Clear,75,1
+15,2974,El Paso,Clear,75,1
+10,2974,El Paso,clear sky,75,1
+11,2974,El Paso,Clear,75,1
+12,2974,El Paso,Clear,75,1
+13,2974,El Paso,Fair,76,1
+1,2995,El Paso,Cloudy,,1
+2,2995,El Paso,Overcast,44,1
+3,2995,El Paso,Overcast,43,1
+4,2995,El Paso,Overcast,41,1
+5,2995,El Paso,Cloudy,42,1
+6,2995,El Paso,Overcast,44,1
+7,2995,El Paso,Cloudy,43,1
+14,2995,El Paso,Mostly Cloudy,45,1
+8,2995,El Paso,Intermittent Clouds,44,1
+9,2995,El Paso,Cloudy,43,1
+15,2995,El Paso,Cloudy,43,1
+10,2995,El Paso,mostly cloudy,43,1
+11,2995,El Paso,Cloudy,42,1
+12,2995,El Paso,Cloudy,42,1
+13,2995,El Paso,Overcast,43,1
+1,3002,El Paso,Partly Cloudy,,1
+2,3002,El Paso,Partly Cloudy,66,1
+3,3002,El Paso,Scattered Clouds,65,1
+4,3002,El Paso,Scattered Clouds,67,1
+5,3002,El Paso,Mostly Clear,65,1
+6,3002,El Paso,Partly Cloudy,66,1
+7,3002,El Paso,Partly Cloudy,68,1
+14,3002,El Paso,Mostly Cloudy,68,1
+8,3002,El Paso,Mostly Clear,65,1
+9,3002,El Paso,Partly Cloudy,65,1
+15,3002,El Paso,Mostly Clear,65,1
+10,3002,El Paso,clear sky,65,1
+11,3002,El Paso,Mostly Clear,65,1
+12,3002,El Paso,Mostly Clear,65,1
+13,3002,El Paso,Partly Cloudy,65,1
+1,3017,El Paso,Cloudy,,1
+2,3017,El Paso,Overcast,81,1
+3,3017,El Paso,Overcast,82,1
+4,3017,El Paso,Overcast,76,1
+5,3017,El Paso,Cloudy,82,1
+6,3017,El Paso,Overcast,81,1
+7,3017,El Paso,Cloudy,82,1
+14,3017,El Paso,Cloudy,79,1
+8,3017,El Paso,Cloudy,79,1
+9,3017,El Paso,Cloudy,81,1
+15,3017,El Paso,Cloudy,76,1
+10,3017,El Paso,mostly cloudy,81,1
+11,3017,El Paso,Cloudy,82,1
+12,3017,El Paso,Cloudy,82,1
+13,3017,El Paso,Mostly Cloudy,87,1
+1,3024,El Paso,Mostly Cloudy,,1
+2,3024,El Paso,Mostly Cloudy,47,1
+3,3024,El Paso,Mostly Cloudy,42,1
+4,3024,El Paso,Mostly Cloudy,48,1
+5,3024,El Paso,Cloudy,44,1
+6,3024,El Paso,Mostly Cloudy,47,1
+7,3024,El Paso,Mostly Cloudy,43,1
+14,3024,El Paso,Mostly Cloudy,50,1
+8,3024,El Paso,Cloudy,44,1
+9,3024,El Paso,Mostly Cloudy,41,1
+15,3024,El Paso,Mostly Cloudy,41,1
+10,3024,El Paso,mostly cloudy,47,1
+11,3024,El Paso,Cloudy,44,1
+12,3024,El Paso,Cloudy,44,1
+13,3024,El Paso,Mostly Cloudy,42,1
+1,3026,El Paso,Mostly Cloudy,,1
+2,3026,El Paso,Mostly Cloudy,41,1
+3,3026,El Paso,Mostly Cloudy,40,1
+4,3026,El Paso,Mostly Cloudy,45,1
+5,3026,El Paso,Mostly Cloudy,40,1
+6,3026,El Paso,Mostly Cloudy,41,1
+7,3026,El Paso,Mostly Cloudy,40,1
+14,3026,El Paso,Mostly Cloudy,42,1
+8,3026,El Paso,Mostly Cloudy,41,1
+9,3026,El Paso,Mostly Cloudy,41,1
+15,3026,El Paso,Mostly Cloudy,40,1
+10,3026,El Paso,mostly cloudy,41,1
+11,3026,El Paso,Mostly Cloudy,40,1
+12,3026,El Paso,Mostly Cloudy,40,1
+13,3026,El Paso,Mostly Cloudy,41,1
+1,3951,Indianapolis,Partly Cloudy,,1
+2,3951,Indianapolis,Partly Cloudy,54,1
+3,3951,Indianapolis,Scattered Clouds,55,1
+4,3951,Indianapolis,Scattered Clouds,56,1
+5,3951,Indianapolis,Mostly Sunny,55,1
+6,3951,Indianapolis,Partly Cloudy,54,1
+7,3951,Indianapolis,Partly Cloudy,49,1
+14,3951,Indianapolis,Mostly Cloudy,48,1
+8,3951,Indianapolis,Mostly Sunny,55,1
+9,3951,Indianapolis,Partly Cloudy,54,1
+15,3951,Indianapolis,Mostly Clear,55,1
+10,3951,Indianapolis,mostly cloudy,54,1
+11,3951,Indianapolis,Mostly Sunny,55,1
+12,3951,Indianapolis,Sunny,68,1
+13,3951,Indianapolis,Partly Cloudy,55,1
+1,3954,Indianapolis,Partly Cloudy,,1
+2,3954,Indianapolis,Partly Cloudy,54,1
+3,3954,Indianapolis,Scattered Clouds,55,1
+4,3954,Indianapolis,Scattered Clouds,63,1
+5,3954,Indianapolis,Mostly Sunny,55,1
+6,3954,Indianapolis,Partly Cloudy,59,1
+7,3954,Indianapolis,Mostly Sunny,53,1
+14,3954,Indianapolis,Partly Cloudy,43,1
+8,3954,Indianapolis,Mostly Sunny,55,1
+9,3954,Indianapolis,Partly Cloudy,54,1
+15,3954,Indianapolis,Mostly Clear,55,1
+10,3954,Indianapolis,clear sky,54,1
+11,3954,Indianapolis,Mostly Sunny,55,1
+12,3954,Indianapolis,Sunny,68,1
+13,3954,Indianapolis,Partly Cloudy,55,1
+1,3980,Indianapolis,Fair,,1
+2,3980,Indianapolis,Clear,68,1
+3,3980,Indianapolis,Clear,63,1
+4,3980,Indianapolis,Clear,56,1
+5,3980,Indianapolis,Sunny,68,1
+6,3980,Indianapolis,Clear,58,1
+7,3980,Indianapolis,Sunny,56,1
+14,3980,Indianapolis,Mostly Sunny,73,1
+8,3980,Indianapolis,Sunny,68,1
+9,3980,Indianapolis,Clear,68,1
+15,3980,Indianapolis,Clear,63,1
+10,3980,Indianapolis,clear sky,68,1
+11,3980,Indianapolis,Sunny,68,1
+12,3980,Indianapolis,Sunny,63,1
+13,3980,Indianapolis,Fair,63,1
+1,3983,Indianapolis,Fair,,1
+2,3983,Indianapolis,Clear,59,1
+3,3983,Indianapolis,Clear,58,1
+4,3983,Indianapolis,Clear,50,1
+5,3983,Indianapolis,Sunny,58,1
+6,3983,Indianapolis,Clear,51,1
+7,3983,Indianapolis,Sunny,48,1
+14,3983,Indianapolis,Mostly Sunny,51,1
+8,3983,Indianapolis,Sunny,58,1
+9,3983,Indianapolis,Clear,59,1
+15,3983,Indianapolis,Clear,58,1
+10,3983,Indianapolis,clear sky,58,1
+11,3983,Indianapolis,Sunny,58,1
+12,3983,Indianapolis,Sunny,68,1
+13,3983,Indianapolis,Fair,58,1
+1,4584,Las Vegas,Fair,,1
+2,4584,Las Vegas,Clear,81,1
+3,4584,Las Vegas,Partly Cloudy,76,1
+4,4584,Las Vegas,Partly Cloudy,74,1
+5,4584,Las Vegas,Mostly Sunny,75,1
+6,4584,Las Vegas,Partly Cloudy,91,1
+7,4584,Las Vegas,Sunny,75,1
+14,4584,Las Vegas,Mostly Clear,83,1
+8,4584,Las Vegas,Mostly Clear,72,1
+9,4584,Las Vegas,Clear,81,1
+15,4584,Las Vegas,Clear,82,1
+10,4584,Las Vegas,clear sky,70,1
+11,4584,Las Vegas,Mostly Sunny,75,1
+12,4584,Las Vegas,Mostly Sunny,75,1
+13,4584,Las Vegas,A Few Clouds,75,1
+6,4993,Los Angeles,Clear,67,1
+7,4993,Los Angeles,Sunny,69,1
+14,4993,Los Angeles,Mostly Clear,71,1
+8,4993,Los Angeles,Sunny,71,1
+9,4993,Los Angeles,Clear,66,1
+15,4993,Los Angeles,Clear,77,1
+10,4993,Los Angeles,clear sky,71,1
+11,4993,Los Angeles,Sunny,68,1
+12,4993,Los Angeles,Sunny,35,1
+13,4993,Los Angeles,Fair,69,1
+1,4993,Los Angeles,Fair,,1
+2,4993,Los Angeles,Clear,67,1
+3,4993,Los Angeles,Clear,69,1
+4,4993,Los Angeles,Clear,70,1
+5,4993,Los Angeles,Sunny,68,1
+6,4993,Los Angeles,Clear,67,1
+7,4993,Los Angeles,Sunny,69,1
+14,4993,Los Angeles,Mostly Clear,71,1
+8,4993,Los Angeles,Sunny,71,1
+9,4993,Los Angeles,Clear,66,1
+15,4993,Los Angeles,Clear,77,1
+10,4993,Los Angeles,clear sky,71,1
+11,4993,Los Angeles,Sunny,68,1
+12,4993,Los Angeles,Sunny,35,1
+13,4993,Los Angeles,Fair,69,1
+1,5526,Milwaukee,Partly Cloudy,,1
+2,5526,Milwaukee,Partly Cloudy,57,1
+3,5526,Milwaukee,Scattered Clouds,64,1
+4,5526,Milwaukee,Scattered Clouds,68,1
+5,5526,Milwaukee,Partly Cloudy,64,1
+6,5526,Milwaukee,Partly Cloudy,62,1
+7,5526,Milwaukee,Mostly Clear,54,1
+14,5526,Milwaukee,Partly Cloudy,54,1
+8,5526,Milwaukee,Partly Cloudy,61,1
+9,5526,Milwaukee,Partly Cloudy,62,1
+15,5526,Milwaukee,Mostly Clear,64,1
+10,5526,Milwaukee,clear sky,57,1
+11,5526,Milwaukee,Partly Cloudy,64,1
+12,5526,Milwaukee,Clear,48,1
+13,5526,Milwaukee,Partly Cloudy,64,1
+1,5527,Milwaukee,Partly Cloudy,,1
+2,5527,Milwaukee,Partly Cloudy,62,1
+3,5527,Milwaukee,Scattered Clouds,64,1
+4,5527,Milwaukee,Mostly Cloudy,66,1
+5,5527,Milwaukee,Partly Cloudy,64,1
+6,5527,Milwaukee,Partly Cloudy,62,1
+7,5527,Milwaukee,Mostly Clear,57,1
+14,5527,Milwaukee,Partly Cloudy,54,1
+8,5527,Milwaukee,Partly Cloudy,64,1
+9,5527,Milwaukee,Partly Cloudy,62,1
+15,5527,Milwaukee,Mostly Cloudy,65,1
+10,5527,Milwaukee,clear sky,62,1
+11,5527,Milwaukee,Partly Cloudy,64,1
+12,5527,Milwaukee,Clear,48,1
+13,5527,Milwaukee,Mostly Cloudy,65,1
+1,5534,Milwaukee,Cloudy,,1
+2,5534,Milwaukee,Overcast,57,1
+3,5534,Milwaukee,Overcast,59,1
+4,5534,Milwaukee,Overcast,62,1
+5,5534,Milwaukee,Cloudy,57,1
+6,5534,Milwaukee,Overcast,57,1
+7,5534,Milwaukee,Cloudy,48,1
+14,5534,Milwaukee,Cloudy,52,1
+8,5534,Milwaukee,Cloudy,58,1
+9,5534,Milwaukee,Cloudy,57,1
+15,5534,Milwaukee,Cloudy,59,1
+10,5534,Milwaukee,mostly cloudy,57,1
+11,5534,Milwaukee,Cloudy,58,1
+12,5534,Milwaukee,Light Snow,56,1
+13,5534,Milwaukee,Overcast,59,1
+1,5548,Milwaukee,Light Snow,,1
+2,5548,Milwaukee,Light Snow,86,1
+3,5548,Milwaukee,Light Snow,86,1
+4,5548,Milwaukee,Light Snow,84,1
+5,5548,Milwaukee,Flurries,81,1
+6,5548,Milwaukee,Snow,86,1
+7,5548,Milwaukee,Snow Showers,77,1
+14,5548,Milwaukee,Snow Shower,75,1
+8,5548,Milwaukee,Flurries,85,1
+9,5548,Milwaukee,Short term forecastSnow,86,1
+15,5548,Milwaukee,Light Snow,86,1
+10,5548,Milwaukee,light snow,86,1
+11,5548,Milwaukee,Light Snow,85,1
+12,5548,Milwaukee,Light Snow,73,1
+13,5548,Milwaukee,Light Snow,82,1
+1,5573,Milwaukee,Mostly Cloudy,,1
+2,5573,Milwaukee,Mostly Cloudy,73,1
+3,5573,Milwaukee,Mostly Cloudy,71,1
+4,5573,Milwaukee,Mostly Cloudy,69,1
+5,5573,Milwaukee,Mostly Cloudy,70,1
+6,5573,Milwaukee,Mostly Cloudy,73,1
+7,5573,Milwaukee,Cloudy,66,1
+14,5573,Milwaukee,Partly Cloudy,62,1
+8,5573,Milwaukee,Mostly Cloudy,70,1
+9,5573,Milwaukee,Mostly Cloudy,73,1
+15,5573,Milwaukee,Mostly Cloudy,67,1
+10,5573,Milwaukee,mostly cloudy,72,1
+11,5573,Milwaukee,Mostly Cloudy,70,1
+12,5573,Milwaukee,Mostly Cloudy,71,1
+13,5573,Milwaukee,Mostly Cloudy,67,1
+1,5581,Milwaukee,Partly Cloudy,,1
+2,5581,Milwaukee,Partly Cloudy,46,1
+3,5581,Milwaukee,Partly Cloudy,46,1
+4,5581,Milwaukee,Partly Cloudy,46,1
+5,5581,Milwaukee,Partly Sunny,45,1
+6,5581,Milwaukee,Partly Cloudy,46,1
+7,5581,Milwaukee,Sunny,40,1
+14,5581,Milwaukee,Partly Cloudy,47,1
+8,5581,Milwaukee,Partly Sunny,45,1
+9,5581,Milwaukee,Mostly Sunny,46,1
+15,5581,Milwaukee,Few Clouds,46,1
+10,5581,Milwaukee,clear sky,45,1
+11,5581,Milwaukee,Partly Sunny,45,1
+12,5581,Milwaukee,Sunny,45,1
+13,5581,Milwaukee,A Few Clouds,46,1
+1,7048,Phoenix,Partly Cloudy,,1
+2,7048,Phoenix,Partly Cloudy,88,1
+3,7048,Phoenix,Scattered Clouds,89,1
+4,7048,Phoenix,Scattered Clouds,86,1
+5,7048,Phoenix,Partly Cloudy,89,1
+6,7048,Phoenix,Clear,90,1
+7,7048,Phoenix,Partly Cloudy,90,1
+14,7048,Phoenix,Partly Cloudy,89,1
+8,7048,Phoenix,Partly Cloudy,89,1
+9,7048,Phoenix,Partly Cloudy,87,1
+15,7048,Phoenix,Mostly Clear,89,1
+10,7048,Phoenix,clear sky,87,1
+11,7048,Phoenix,Partly Cloudy,89,1
+12,7048,Phoenix,Clear,89,1
+13,7048,Phoenix,Partly Cloudy,89,1
+1,7052,Phoenix,Partly Cloudy,,1
+2,7052,Phoenix,Partly Cloudy,77,1
+3,7052,Phoenix,Scattered Clouds,75,1
+4,7052,Phoenix,Scattered Clouds,66,1
+5,7052,Phoenix,Partly Sunny,74,1
+6,7052,Phoenix,Few,65,1
+7,7052,Phoenix,Partly Cloudy,66,1
+14,7052,Phoenix,Partly Cloudy,89,1
+8,7052,Phoenix,Partly Sunny,74,1
+9,7052,Phoenix,Partly Cloudy,76,1
+15,7052,Phoenix,Mostly Clear,67,1
+10,7052,Phoenix,clear sky,77,1
+11,7052,Phoenix,Partly Sunny,74,1
+12,7052,Phoenix,Partly Sunny,74,1
+13,7052,Phoenix,Partly Cloudy,67,1
+1,7055,Phoenix,Partly Cloudy,,1
+2,7055,Phoenix,Partly Cloudy,56,1
+3,7055,Phoenix,Scattered Clouds,58,1
+4,7055,Phoenix,Scattered Clouds,52,1
+5,7055,Phoenix,Partly Sunny,57,1
+6,7055,Phoenix,Bkh,55,1
+7,7055,Phoenix,Partly Cloudy,58,1
+14,7055,Phoenix,Mostly Cloudy,64,1
+8,7055,Phoenix,Mostly Cloudy,64,1
+9,7055,Phoenix,Partly Cloudy,55,1
+15,7055,Phoenix,Mostly Clear,57,1
+10,7055,Phoenix,mostly cloudy,63,1
+11,7055,Phoenix,Partly Sunny,57,1
+12,7055,Phoenix,Mostly Cloudy,55,1
+13,7055,Phoenix,Partly Cloudy,58,1
+1,7126,Phoenix,Partly Cloudy,,1
+2,7126,Phoenix,Partly Cloudy,43,1
+3,7126,Phoenix,Scattered Clouds,43,1
+4,7126,Phoenix,Scattered Clouds,46,1
+5,7126,Phoenix,Partly Sunny,43,1
+6,7126,Phoenix,Few,47,1
+7,7126,Phoenix,Partly Cloudy,51,1
+14,7126,Phoenix,Partly Cloudy,43,1
+8,7126,Phoenix,Partly Sunny,42,1
+9,7126,Phoenix,Partly Cloudy,45,1
+15,7126,Phoenix,Mostly Clear,43,1
+10,7126,Phoenix,clear sky,43,1
+11,7126,Phoenix,Partly Sunny,43,1
+12,7126,Phoenix,Sunny,42,1
+13,7126,Phoenix,Partly Cloudy,43,1
+1,7131,Phoenix,Partly Cloudy,,1
+2,7131,Phoenix,Partly Cloudy,59,1
+3,7131,Phoenix,Scattered Clouds,60,1
+4,7131,Phoenix,Scattered Clouds,75,1
+5,7131,Phoenix,Mostly Clear,59,1
+6,7131,Phoenix,Clear,65,1
+7,7131,Phoenix,Partly Cloudy,62,1
+14,7131,Phoenix,Partly Cloudy,60,1
+8,7131,Phoenix,Mostly Clear,59,1
+9,7131,Phoenix,Partly Cloudy,59,1
+15,7131,Phoenix,Mostly Clear,62,1
+10,7131,Phoenix,clear sky,59,1
+11,7131,Phoenix,Mostly Clear,59,1
+12,7131,Phoenix,Mostly Clear,66,1
+13,7131,Phoenix,Partly Cloudy,60,1
+1,7146,Phoenix,Mostly Cloudy,,1
+2,7146,Phoenix,Mostly Cloudy,55,1
+3,7146,Phoenix,Mostly Cloudy,57,1
+4,7146,Phoenix,Mostly Cloudy,50,1
+5,7146,Phoenix,Partly Sunny,56,1
+6,7146,Phoenix,Clear,49,1
+7,7146,Phoenix,Mostly Cloudy,51,1
+14,7146,Phoenix,Mostly Cloudy,69,1
+8,7146,Phoenix,Partly Sunny,56,1
+9,7146,Phoenix,Mostly Cloudy,54,1
+15,7146,Phoenix,Mostly Cloudy,47,1
+10,7146,Phoenix,mostly cloudy,54,1
+11,7146,Phoenix,Partly Sunny,56,1
+12,7146,Phoenix,Mostly Sunny,54,1
+13,7146,Phoenix,Mostly Cloudy,47,1
+1,7150,Phoenix,Mostly Cloudy,,1
+2,7150,Phoenix,Mostly Cloudy,37,1
+3,7150,Phoenix,Mostly Cloudy,38,1
+4,7150,Phoenix,Mostly Cloudy,38,1
+5,7150,Phoenix,Intermittent Clouds,37,1
+6,7150,Phoenix,Clear,39,1
+7,7150,Phoenix,Mostly Cloudy,36,1
+14,7150,Phoenix,Mostly Cloudy,42,1
+8,7150,Phoenix,Intermittent Clouds,37,1
+9,7150,Phoenix,Mostly Cloudy,36,1
+15,7150,Phoenix,Mostly Cloudy,37,1
+10,7150,Phoenix,mostly cloudy,36,1
+11,7150,Phoenix,Clouds And Sun,37,1
+12,7150,Phoenix,Sunny,37,1
+13,7150,Phoenix,Mostly Cloudy,38,1
+1,7151,Phoenix,Mostly Cloudy,,1
+2,7151,Phoenix,Mostly Cloudy,34,1
+3,7151,Phoenix,Mostly Cloudy,35,1
+4,7151,Phoenix,Mostly Cloudy,37,1
+5,7151,Phoenix,Intermittent Clouds,35,1
+6,7151,Phoenix,Clear,37,1
+7,7151,Phoenix,Mostly Cloudy,34,1
+14,7151,Phoenix,Mostly Cloudy,38,1
+8,7151,Phoenix,Intermittent Clouds,35,1
+9,7151,Phoenix,Mostly Cloudy,34,1
+15,7151,Phoenix,Mostly Cloudy,35,1
+10,7151,Phoenix,mostly cloudy,36,1
+11,7151,Phoenix,Clouds And Sun,35,1
+12,7151,Phoenix,Sunny,33,1
+13,7151,Phoenix,Mostly Cloudy,35,1
+1,7152,Phoenix,Mostly Cloudy,,1
+2,7152,Phoenix,Mostly Cloudy,34,1
+3,7152,Phoenix,Mostly Cloudy,34,1
+4,7152,Phoenix,Mostly Cloudy,38,1
+5,7152,Phoenix,Mostly Cloudy,33,1
+6,7152,Phoenix,Clear,35,1
+7,7152,Phoenix,Mostly Cloudy,34,1
+14,7152,Phoenix,Mostly Cloudy,35,1
+8,7152,Phoenix,Intermittent Clouds,35,1
+9,7152,Phoenix,Mostly Cloudy,34,1
+15,7152,Phoenix,Mostly Cloudy,34,1
+10,7152,Phoenix,mostly cloudy,34,1
+11,7152,Phoenix,Mostly Cloudy,33,1
+12,7152,Phoenix,Sunny,32,1
+13,7152,Phoenix,Mostly Cloudy,34,1
+6,7553,Portland,Overcast,68,1
+7,7553,Portland,Cloudy,72,1
+14,7553,Portland,Cloudy,66,1
+8,7553,Portland,Cloudy,65,1
+9,7553,Portland,Cloudy,66,1
+15,7553,Portland,Cloudy,68,1
+10,7553,Portland,mostly cloudy,65,1
+11,7553,Portland,Cloudy,67,1
+12,7553,Portland,Sunny,70,1
+13,7553,Portland,Overcast,68,1
+1,7553,Portland,Cloudy,,1
+2,7553,Portland,Overcast,66,1
+3,7553,Portland,Overcast,68,1
+4,7553,Portland,Overcast,74,1
+5,7553,Portland,Cloudy,67,1
+6,7553,Portland,Overcast,68,1
+7,7553,Portland,Cloudy,72,1
+14,7553,Portland,Cloudy,66,1
+8,7553,Portland,Cloudy,67,1
+9,7553,Portland,Cloudy,66,1
+15,7553,Portland,Cloudy,68,1
+10,7553,Portland,mostly cloudy,65,1
+11,7553,Portland,Cloudy,67,1
+12,7553,Portland,Sunny,70,1
+13,7553,Portland,Overcast,68,1
+1,8100,San Diego,Fog,,1
+2,8100,San Diego,Fog And Mist,88,1
+3,8100,San Diego,Partly Cloudy,86,1
+4,8100,San Diego,Partly Cloudy,93,1
+5,8100,San Diego,Fog,86,1
+6,8100,San Diego,Clear,93,1
+7,8100,San Diego,Partly Cloudy,86,1
+14,8100,San Diego,Mostly Clear,86,1
+8,8100,San Diego,Clear,85,1
+9,8100,San Diego,High Surf AdvisoryFog,87,1
+15,8100,San Diego,Mist,86,1
+10,8100,San Diego,clear sky,82,1
+11,8100,San Diego,Light Fog,86,1
+12,8100,San Diego,Light Fog,89,1
+13,8100,San Diego,Fog,87,1
+1,8104,San Diego,Partly Cloudy,,1
+2,8104,San Diego,Fog And Mist,82,1
+3,8104,San Diego,Mostly Cloudy,86,1
+4,8104,San Diego,Mostly Cloudy,94,1
+5,8104,San Diego,Intermittent Clouds,85,1
+6,8104,San Diego,Mostly Cloudy,93,1
+7,8104,San Diego,Mostly Cloudy,82,1
+14,8104,San Diego,Partly Cloudy,90,1
+8,8104,San Diego,Mostly Cloudy,89,1
+9,8104,San Diego,High Surf AdvisoryFog,82,1
+15,8104,San Diego,Mist,86,1
+10,8104,San Diego,mostly cloudy,82,1
+11,8104,San Diego,Clouds And Sun,85,1
+12,8104,San Diego,Light Fog,86,1
+13,8104,San Diego,Fog,86,1
+1,8110,San Diego,Partly Cloudy,,1
+2,8110,San Diego,Partly Cloudy,63,1
+3,8110,San Diego,Scattered Clouds,62,1
+4,8110,San Diego,Scattered Clouds,69,1
+5,8110,San Diego,Mostly Sunny,62,1
+6,8110,San Diego,Partly Cloudy,68,1
+7,8110,San Diego,Partly Cloudy,62,1
+14,8110,San Diego,Partly Cloudy,64,1
+8,8110,San Diego,Mostly Sunny,62,1
+9,8110,San Diego,High Surf AdvisoryPartly Cloudy,63,1
+15,8110,San Diego,Mostly Clear,67,1
+10,8110,San Diego,clear sky,63,1
+11,8110,San Diego,Mostly Sunny,62,1
+12,8110,San Diego,Sunny,59,1
+13,8110,San Diego,Partly Cloudy,62,1
+1,8111,San Diego,Mostly Cloudy,,1
+2,8111,San Diego,Partly Cloudy,68,1
+3,8111,San Diego,Scattered Clouds,67,1
+4,8111,San Diego,Scattered Clouds,70,1
+5,8111,San Diego,Mostly Sunny,66,1
+6,8111,San Diego,Partly Cloudy,65,1
+7,8111,San Diego,Partly Cloudy,69,1
+14,8111,San Diego,Partly Cloudy,62,1
+8,8111,San Diego,Mostly Sunny,66,1
+9,8111,San Diego,High Surf AdvisoryPartly Cloudy,67,1
+15,8111,San Diego,Mostly Clear,67,1
+10,8111,San Diego,clear sky,63,1
+11,8111,San Diego,Mostly Sunny,66,1
+12,8111,San Diego,Sunny,59,1
+13,8111,San Diego,Partly Cloudy,67,1
+1,8123,San Diego,Partly Cloudy,,1
+2,8123,San Diego,Partly Cloudy,77,1
+3,8123,San Diego,Scattered Clouds,80,1
+4,8123,San Diego,Scattered Clouds,89,1
+5,8123,San Diego,Partly Cloudy,79,1
+6,8123,San Diego,Partly Cloudy,87,1
+7,8123,San Diego,Partly Cloudy,80,1
+14,8123,San Diego,Partly Cloudy,77,1
+8,8123,San Diego,Partly Cloudy,77,1
+9,8123,San Diego,Partly Cloudy,76,1
+15,8123,San Diego,Mostly Clear,80,1
+10,8123,San Diego,clear sky,77,1
+11,8123,San Diego,Partly Cloudy,79,1
+12,8123,San Diego,Clear,86,1
+13,8123,San Diego,Partly Cloudy,80,1
+1,8135,San Diego,Partly Cloudy,,1
+2,8135,San Diego,Hazy,82,1
+3,8135,San Diego,Haze,83,1
+4,8135,San Diego,Haze,92,1
+5,8135,San Diego,Partly Cloudy,82,1
+6,8135,San Diego,Mostly Cloudy,92,1
+7,8135,San Diego,Partly Cloudy,83,1
+14,8135,San Diego,Mostly Cloudy,83,1
+8,8135,San Diego,Mostly Cloudy,84,1
+9,8135,San Diego,Haze,82,1
+15,8135,San Diego,Haze,83,1
+10,8135,San Diego,clear sky,82,1
+11,8135,San Diego,Partly Cloudy,82,1
+12,8135,San Diego,Clear,89,1
+13,8135,San Diego,Haze,83,1
+1,8140,San Diego,Partly Cloudy,,1
+2,8140,San Diego,Hazy,77,1
+3,8140,San Diego,Haze,72,1
+4,8140,San Diego,Haze,77,1
+5,8140,San Diego,Partly Sunny,79,1
+6,8140,San Diego,Partly Cloudy,79,1
+7,8140,San Diego,Partly Cloudy,76,1
+14,8140,San Diego,Partly Cloudy,86,1
+8,8140,San Diego,Partly Sunny,79,1
+9,8140,San Diego,Haze,76,1
+15,8140,San Diego,Haze,72,1
+10,8140,San Diego,clear sky,77,1
+11,8140,San Diego,Partly Sunny,79,1
+12,8140,San Diego,Partly Sunny,96,1
+13,8140,San Diego,Haze,72,1
+1,8143,San Diego,Partly Cloudy,,1
+2,8143,San Diego,Partly Cloudy,63,1
+3,8143,San Diego,Scattered Clouds,64,1
+4,8143,San Diego,Scattered Clouds,71,1
+5,8143,San Diego,Partly Sunny,64,1
+6,8143,San Diego,Partly Cloudy,71,1
+7,8143,San Diego,Partly Cloudy,64,1
+14,8143,San Diego,Partly Cloudy,67,1
+8,8143,San Diego,Partly Sunny,66,1
+9,8143,San Diego,Partly Cloudy,63,1
+15,8143,San Diego,Mostly Clear,64,1
+10,8143,San Diego,clear sky,67,1
+11,8143,San Diego,Partly Sunny,64,1
+12,8143,San Diego,Sunny,69,1
+13,8143,San Diego,Partly Cloudy,64,1
+1,8649,San Jose,Cloudy,,1
+2,8649,San Jose,Mostly Cloudy,93,1
+3,8649,San Jose,Mostly Cloudy,93,1
+4,8649,San Jose,Mostly Cloudy,99,1
+5,8649,San Jose,Cloudy,92,1
+6,8649,San Jose,Mostly Cloudy,88,1
+7,8649,San Jose,Mostly Cloudy,93,1
+14,8649,San Jose,Mostly Cloudy,93,1
+8,8649,San Jose,Cloudy,92,1
+9,8649,San Jose,Mostly Cloudy,93,1
+15,8649,San Jose,Mostly Cloudy,93,1
+10,8649,San Jose,mostly cloudy,93,1
+11,8649,San Jose,Cloudy,92,1
+12,8649,San Jose,Cloudy,93,1
+13,8649,San Jose,Mostly Cloudy,93,1
+1,9052,Seattle,Cloudy,,1
+2,9052,Seattle,Overcast,72,1
+3,9052,Seattle,Overcast,74,1
+4,9052,Seattle,Overcast,79,1
+5,9052,Seattle,Cloudy,79,1
+6,9052,Seattle,Overcast,72,1
+7,9052,Seattle,Cloudy,76,1
+14,9052,Seattle,Cloudy,61,1
+8,9052,Seattle,Cloudy,73,1
+9,9052,Seattle,Cloudy,71,1
+15,9052,Seattle,Cloudy,73,1
+10,9052,Seattle,mostly cloudy,58,1
+11,9052,Seattle,Cloudy,79,1
+12,9052,Seattle,Cloudy,63,1
+13,9052,Seattle,Overcast,74,1
+1,9066,Seattle,Light Rain,,1
+2,9066,Seattle,Light Rain,93,1
+3,9066,Seattle,Light Rain,90,1
+4,9066,Seattle,Light Rain,95,1
+5,9066,Seattle,Showers,92,1
+6,9066,Seattle,Light Rain,93,1
+7,9066,Seattle,Showers,90,1
+14,9066,Seattle,Rain,93,1
+8,9066,Seattle,Showers,89,1
+9,9066,Seattle,Rain,93,1
+15,9066,Seattle,Light Rain,93,1
+10,9066,Seattle,light rain,93,1
+11,9066,Seattle,Light Rain,92,1
+12,9066,Seattle,Light Rain,88,1
+13,9066,Seattle,Lt Rain,93,1
+1,9069,Seattle,Cloudy,,1
+2,9069,Seattle,Overcast,87,1
+3,9069,Seattle,Light Rain,86,1
+4,9069,Seattle,Light Rain,93,1
+5,9069,Seattle,Showers,95,1
+6,9069,Seattle,Light Rain,87,1
+7,9069,Seattle,Cloudy,89,1
+14,9069,Seattle,Cloudy,89,1
+8,9069,Seattle,Cloudy,88,1
+9,9069,Seattle,Rain,87,1
+15,9069,Seattle,Light Rain,86,1
+10,9069,Seattle,mostly cloudy,87,1
+11,9069,Seattle,Cloudy,92,1
+12,9069,Seattle,Light Rain,93,1
+13,9069,Seattle,Lt Rain,86,1
+1,9076,Seattle,Light Rain,,1
+2,9076,Seattle,Light Rain,87,1
+3,9076,Seattle,Light Rain,87,1
+4,9076,Seattle,Light Rain,93,1
+5,9076,Seattle,Rain,92,1
+6,9076,Seattle,Light Rain,87,1
+7,9076,Seattle,Showers,86,1
+14,9076,Seattle,Showers,86,1
+8,9076,Seattle,Showers,87,1
+9,9076,Seattle,Rain,87,1
+15,9076,Seattle,Light Rain,87,1
+10,9076,Seattle,light rain,87,1
+11,9076,Seattle,Rain,92,1
+12,9076,Seattle,Light Rain,88,1
+13,9076,Seattle,Lt Rain,87,1
+1,9079,Seattle,Cloudy,,1
+2,9079,Seattle,Overcast,87,1
+3,9079,Seattle,Overcast,86,1
+4,9079,Seattle,Overcast,94,1
+5,9079,Seattle,Showers,96,1
+6,9079,Seattle,Overcast,87,1
+7,9079,Seattle,Cloudy,87,1
+14,9079,Seattle,Cloudy,86,1
+8,9079,Seattle,Rain,92,1
+9,9079,Seattle,Cloudy,87,1
+15,9079,Seattle,Light Rain,87,1
+10,9079,Seattle,mostly cloudy,93,1
+11,9079,Seattle,Light Rain,96,1
+12,9079,Seattle,Cloudy,93,1
+13,9079,Seattle,Overcast,86,1
+1,9084,Seattle,Cloudy,,1
+2,9084,Seattle,Overcast,93,1
+3,9084,Seattle,Overcast,90,1
+4,9084,Seattle,Overcast,95,1
+5,9084,Seattle,Showers,96,1
+6,9084,Seattle,Overcast,93,1
+7,9084,Seattle,Cloudy,90,1
+14,9084,Seattle,Rain,90,1
+8,9084,Seattle,Cloudy,93,1
+9,9084,Seattle,Cloudy,93,1
+15,9084,Seattle,Cloudy,90,1
+10,9084,Seattle,mostly cloudy,93,1
+11,9084,Seattle,Mist,96,1
+12,9084,Seattle,Cloudy,92,1
+13,9084,Seattle,Mostly Cloudy,90,1
+0,0,0,0,0,0
+0,1,2,3,4,5,6,7,14,8,9,15,10,11,12,13
+Chicago,8,8,8,8,8,7,7,7,7,7,7,7,7,7,7
+Dallas,5,5,5,5,5,5,5,5,5,5,5,5,5,5,5
+El Paso,7,7,7,7,7,7,7,7,7,7,7,7,7,7,7
+Indianapolis,4,4,4,4,4,4,4,4,4,4,4,4,4,4,4
+Las Vegas,1,1,1,1,1,1,1,1,1,1,1,1,1,1,1
+Los Angeles,1,1,1,1,1,2,2,2,2,2,2,2,2,2,2
+Milwaukee,6,6,6,6,6,6,6,6,6,6,6,6,6,6,6
+Phoenix,9,9,9,9,9,9,9,9,9,9,9,9,9,9,9
+Portland,1,1,1,1,1,2,2,2,2,2,2,2,2,2,2
+San Diego,8,8,8,8,8,8,8,8,8,8,8,8,8,8,8
+San Jose,1,1,1,1,1,1,1,1,1,1,1,1,1,1,1
+Seattle,6,6,6,6,6,6,6,6,6,6,6,6,6,6,6

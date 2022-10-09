@@ -1,0 +1,8 @@
+<component name="ArtifactManager">
+  <artifact type="jar" build-on-make="true" name="ctd">
+    <output-path>$PROJECT_DIR$/out/artifacts/ctd</output-path>
+    <root id="archive" name="ctd.jar">
+      <element id="module-output" name="CTD" />
+    </root>
+  </artifact>
+</component>

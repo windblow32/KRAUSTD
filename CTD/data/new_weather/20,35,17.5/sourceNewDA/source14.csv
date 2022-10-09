@@ -1,0 +1,14 @@
+entity,Domain,Conditions,Humidity,day
+2010,Dallas,Cloudy,72.36792679,1
+2014,Dallas,Cloudy,77.90379796,1
+2024,Dallas,Cloudy,75.15361753,1
+2026,Dallas,Cloudy,65.7654627,1
+2047,Dallas,Cloudy,74.87272822,1
+3024,El Paso,Cloudy,49.34580575,1
+3026,El Paso,Cloudy,41.02835132,1
+4584,Las Vegas,Mostly,84.06303751,1
+7126,Phoenix,Cloudy,39.42320163,1
+7131,Phoenix,Partly,60.28916675,1
+7146,Phoenix,Cloudy,64.56605814,1
+7150,Phoenix,Mostly,38.55421913,1
+7152,Phoenix,Mostly,36.25283354,1

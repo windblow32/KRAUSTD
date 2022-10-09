@@ -1,20 +1,1000 @@
-22,LCD
-25,LCD
-27,TFT LCD 16.7 Million Colour
-28,TFT LCD 16.7 Million Colour
-32,LED
-33,TFT LCD 16.7 Million Colour
-39,LED
-40,TFT LCD 16.7 Million Colour
-41,LCD/TFT
-62,IPS
-88,TN+Film
-103,LED Backlight 16.7 Million Colour
-128,IPS
-132,IPS
-133,IGZO
-168,LCD
-171,16.7 million Colours
-186,LED 16.7 million Colour
-190,Widescreen IPS 16.7 Million Colour
-193,LED Backlight LCD IPS Panel 16.7 million Colour
+2,Heavy Rain
+5,Rain Fog/Mist
+10,Rain Fog/Mist
+13,Rain
+25,Fog
+31,mostly cloudy
+35,mostly cloudy
+38,mostly cloudy
+39,mostly cloudy
+43,Fog And Mist
+50,Mostly Cloudy
+60,Overcast
+91,Overcast
+104,Mostly Cloudy
+112,Sunny
+130,mostly cloudy
+132,mostly cloudy
+145,Overcast
+149,moderate rain
+154,Fog And Mist
+156,light rain
+167,Rain
+174,Fog/Mist
+205,Light Fog
+209,Light Fog
+251,Fog/Mist
+254,Fog/Mist
+257,Overcast with Haze
+259,mostly cloudy
+273,Showers
+275,light rain
+280,light rain
+302,Overcast
+314,Light Rain Fog/Mist
+315,Light Rain Fog/Mist
+324,Partly Cloudy
+342,Clear
+376,Fair
+382,A Few Clouds
+398,Overcast
+407,Partly Cloudy
+408,Partly Cloudy
+428,Snow And Fog
+441,Weather WarningsSnow
+462,normal
+467,normal
+483,Winter storm watchClear
+496,Mostly Cloudy
+498,Partly Cloudy
+517,Mostly Cloudy
+528,Scattered Clouds
+535,Overcast
+552,Mostly Cloudy
+565,Overcast
+600,Mostly Cloudy
+611,Light Snow
+625,Fog/Mist
+646,Clear
+649,Fair/Windy
+655,Few Clouds
+660,Clear
+669,Cloudy
+671,Cloudy
+673,Some Clouds
+676,Clear
+684,Few Clouds
+692,Scattered Clouds
+731,Clear
+734,Clear
+746,Partly Cloudy
+756,Cloudy
+768,Cloudy
+774,Mostly Clear
+776,Mostly Clear
+789,Cloudy
+791,Cloudy
+798,Clear
+801,Clear
+831,Mostly Clear
+837,Few Clouds
+843,Partly Cloudy
+848,Partly Cloudy
+852,Partly Cloudy
+859,Intermittent Clouds
+908,Cloudy
+961,Mostly Cloudy
+965,Winter storm warningPartly Cloudy
+997,Fog And Mist
+1000,Fog
+1001,Partly Cloudy
+1011,Few Clouds
+1074,mostly cloudy
+1080,mostly cloudy
+1083,Mostly Cloudy
+1084,Cloudy
+1086,Few Clouds
+1107,Few Clouds
+1113,clear sky
+1152,Winter storm watchMostly Cloudy
+1154,Mostly Sunny
+1166,mostly cloudy
+1183,Cloudy
+1224,Foggy
+1226,Foggy
+1234,Foggy
+1237,Foggy
+1239,Foggy
+1240,Light Fog
+1286,mostly cloudy
+1288,mostly cloudy
+1294,Cloudy
+1298,mostly cloudy
+1304,Mostly Sunny
+1308,clear sky
+1313,mostly cloudy
+1317,mostly cloudy
+1318,mostly cloudy
+1331,mostly cloudy
+1333,A Few Clouds
+1335,Fair
+1341,Partly Cloudy
+1342,Partly Cloudy
+1343,A Few Clouds
+1350,Overcast
+1365,Clouds And Sun
+1388,Partly Sunny
+1393,Partly Sunny
+1403,mostly cloudy
+1406,Cloudy
+1411,mostly cloudy
+1416,Few Clouds
+1438,clear sky
+1440,Air Quality AlertHaze
+1450,Overcast
+1462,Overcast with Haze
+1468,Overcast with Haze
+1472,Few Clouds
+1486,Light Snow/Fog
+1503,mostly cloudy
+1507,Overcast with Haze
+1546,mostly cloudy
+1557,mostly cloudy
+1570,Light Snow Fog/Mist
+1573,Light Snow
+1583,Overcast with Haze
+1588,Overcast with Haze
+1611,Mostly Cloudy
+1614,Sunny
+1631,clear sky
+1633,clear sky
+1641,clear sky
+1642,Mostly Cloudy
+1646,clear sky
+1651,Sunny
+1686,clear sky
+1696,Mostly Cloudy
+1703,Mostly Cloudy
+1717,Mostly Cloudy
+1723,Mostly Sunny
+1740,clear sky
+1745,clear sky
+1752,mostly cloudy
+1753,mostly cloudy
+1754,Partly Cloudy
+1800,clear sky
+1871,Flurries
+1874,mostly cloudy
+1926,Light Rain Fog/Mist
+1940,mostly cloudy
+1959,Mist
+1961,Mostly Cloudy
+1963,Light Fog
+1968,mostly cloudy
+1985,Fog/Mist
+1995,Overcast with Haze
+1999,Overcast
+2010,mostly cloudy
+2014,mostly cloudy
+2024,mostly cloudy
+2026,mostly cloudy
+2047,mostly cloudy
+2051,mostly cloudy
+2053,mostly cloudy
+2073,mostly cloudy
+2079,Showers
+2091,Fog/Mist
+2108,Light Rain Fog/Mist
+2110,Rain
+2111,light rain
+2112,Light Rain
+2115,mostly cloudy
+2120,mostly cloudy
+2121,Overcast
+2152,Overcast with Haze
+2161,Overcast with Haze
+2175,Partly Cloudy
+2176,Mostly Cloudy
+2180,mostly cloudy
+2211,Mostly Cloudy
+2220,Overcast
+2223,Mostly Cloudy
+2226,Overcast
+2247,clear sky
+2268,Few Clouds
+2272,Mostly Sunny
+2273,Mostly Sunny
+2281,Few Clouds
+2305,Fog/Mist
+2309,A Few Clouds
+2318,A Few Clouds
+2320,A Few Clouds
+2323,Partly Cloudy
+2328,Mostly Sunny
+2332,Mostly Sunny
+2350,clear sky
+2355,clear sky
+2358,clear sky
+2365,clear sky
+2396,mostly cloudy
+2402,mostly cloudy
+2417,Overcast
+2423,Overcast
+2442,clear sky
+2445,Partly Cloudy
+2447,Partly Cloudy
+2451,Mostly Sunny
+2457,clear sky
+2479,Fair
+2500,clear sky
+2535,Mostly Cloudy
+2543,Partly Cloudy
+2548,Partly Cloudy
+2549,Partly Cloudy
+2552,Partly Cloudy
+2558,Mostly Cloudy
+2580,Partly Cloudy
+2589,clear sky
+2605,mostly cloudy
+2611,mostly cloudy
+2625,Fair
+2631,Fair
+2648,clear sky
+2649,clear sky
+2650,clear sky
+2672,mostly cloudy
+2685,Partly Cloudy
+2687,clear sky
+2691,clear sky
+2692,clear sky
+2710,clear sky
+2712,Few Clouds
+2713,Few Clouds
+2743,Fair
+2746,Fair
+2755,mostly cloudy
+2763,Few Clouds
+2777,Overcast
+2780,Partly Sunny
+2798,Overcast
+2806,Fog/Mist
+2825,Snow Shower
+2827,Light Snow/Fog
+2831,Mostly Cloudy
+2832,Partly Cloudy
+2843,Mostly Sunny
+2845,mostly cloudy
+2858,Light Snow Fog/Mist
+2861,Fog/Mist
+2877,Overcast
+2881,Weather WarningsSnow
+2885,mostly cloudy
+2889,Cloudy
+2895,Few Clouds
+2916,Mostly Cloudy
+2918,mostly cloudy
+2936,Mostly Cloudy
+2951,Mostly Cloudy
+2955,Mostly Cloudy
+2962,Partly Cloudy
+2963,Mostly Cloudy
+2969,clear sky
+2974,clear sky
+2995,Mostly Cloudy
+3002,Mostly Cloudy
+3017,mostly cloudy
+3024,mostly cloudy
+3026,Mostly Cloudy
+3040,light rain
+3050,Overcast
+3060,Overcast
+3076,Overcast
+3081,Cloudy
+3086,mostly cloudy
+3111,Overcast
+3120,Mostly Cloudy
+3135,Mostly Cloudy
+3136,Mostly Cloudy
+3162,light rain
+3167,Special weather statementRain
+3176,Overcast
+3181,Overcast
+3186,Light Rain
+3194,Light Rain
+3202,Light Rain
+3209,Short term forecastRain
+3225,Partly Cloudy
+3245,Hazy
+3251,mostly cloudy
+3259,Fog/Mist
+3260,Fog/Mist
+3262,Fog/Mist
+3263,Fog/Mist
+3265,Fog/Mist
+3270,Fog/Mist
+3291,mostly cloudy
+3296,mostly cloudy
+3302,mostly cloudy
+3307,mostly cloudy
+3314,mostly cloudy
+3316,mostly cloudy
+3319,mostly cloudy
+3324,mostly cloudy
+3343,mostly cloudy
+3351,Cloudy
+3358,Rain
+3361,light rain
+3373,Light Rain
+3387,Light Rain
+3398,mostly cloudy
+3399,mostly cloudy
+3418,mostly cloudy
+3424,clear sky
+3433,Overcast
+3435,Overcast
+3453,Mostly Cloudy
+3461,Mostly Sunny
+3462,clear sky
+3478,Short term forecastClear
+3483,Mostly Sunny
+3484,Mostly Sunny
+3503,Fair
+3511,Fair
+3512,Fair
+3513,Fair
+3534,mostly cloudy
+3544,clear sky
+3546,Mostly Sunny
+3547,Mostly Sunny
+3549,Mostly Sunny
+3568,Light Rain
+3571,Fog
+3584,Mostly Cloudy
+3608,mostly cloudy
+3623,mostly cloudy
+3625,mostly cloudy
+3627,mostly cloudy
+3632,mostly cloudy
+3634,mostly cloudy
+3641,mostly cloudy
+3643,mostly cloudy
+3645,mostly cloudy
+3650,mostly cloudy
+3659,mostly cloudy
+3666,Clouds And Sun
+3667,Overcast
+3674,moderate rain
+3681,moderate rain
+3693,Rain Fog/Mist
+3705,Overcast
+3719,Fog And Mist
+3725,Fog And Mist
+3727,Fog And Mist
+3733,Light Rain
+3764,Fog/Mist
+3771,Light Rain
+3773,Overcast
+3775,Overcast
+3784,mostly cloudy
+3793,Partly Cloudy
+3794,Intermittent Clouds
+3795,Overcast
+3796,light rain
+3819,Mostly Cloudy
+3839,Overcast
+3856,mostly cloudy
+3860,Few Clouds
+3871,Partly Cloudy
+3874,Mostly Cloudy
+3886,Partly Cloudy
+3901,A Few Clouds
+3922,Mostly Cloudy
+3951,Mostly Cloudy
+3954,Sunny
+3961,Mostly Sunny
+3980,Mostly Sunny
+3983,Mostly Sunny
+4002,mostly cloudy
+4012,Fair
+4027,Fog/Mist
+4031,clear sky
+4034,Cloudy
+4036,mostly cloudy
+4051,mostly cloudy
+4063,mostly cloudy
+4072,Overcast
+4090,Overcast
+4094,Overcast
+4096,Overcast
+4108,mostly cloudy
+4111,Snow
+4121,Snow
+4136,Overcast
+4149,Overcast with Haze
+4150,Overcast with Haze
+4153,Overcast with Haze
+4178,mostly cloudy
+4182,mostly cloudy
+4186,Bkh
+4193,Bkh
+4199,Mostly Cloudy
+4205,Clear
+4212,Mostly Cloudy
+4219,Mostly Cloudy
+4227,Mostly Cloudy
+4231,Overcast
+4244,Overcast
+4259,mostly cloudy
+4280,Mostly Cloudy
+4292,mostly cloudy
+4306,Sunny
+4318,clear sky
+4323,mostly cloudy
+4334,Mostly Cloudy
+4337,Partly Cloudy
+4341,Overcast
+4343,Overcast
+4359,Mostly Cloudy
+4372,mostly cloudy
+4377,moderate rain
+4389,Overcast
+4399,Light Rain Fog/Mist
+4430,mostly cloudy
+4442,Few Clouds
+4444,Partly Cloudy
+4460,Overcast
+4462,Overcast
+4479,Mostly Cloudy
+4482,Partly Cloudy
+4484,Intermittent Clouds
+4486,Partly Cloudy
+4488,Partly Cloudy
+4500,Clouds And Sun
+4501,Mostly Sunny
+4543,Mostly Cloudy
+4554,A Few Clouds
+4569,Mostly Sunny
+4571,mostly cloudy
+4576,mostly cloudy
+4584,clear sky
+4629,clear sky
+4632,Partly Cloudy
+4634,clear sky
+4637,clear sky
+4645,clear sky
+4646,clear sky
+4666,A Few Clouds
+4668,A Few Clouds
+4672,Mostly Cloudy
+4680,mostly cloudy
+4694,mostly cloudy
+4697,Few Clouds
+4698,Mostly Sunny
+4701,Mostly Sunny
+4703,Clouds And Sun
+4717,Mostly Cloudy
+4726,Mostly Cloudy
+4727,Mostly Cloudy
+4739,Mostly Sunny
+4758,Sunny
+4764,Partly Cloudy
+4767,Mostly Cloudy
+4770,Mostly Cloudy
+4774,Mostly Cloudy
+4776,Mostly Cloudy
+4800,Partly Cloudy
+4810,clear sky
+4811,clear sky
+4815,Partly Cloudy
+4832,clear sky
+4850,clear sky
+4852,Fair
+4854,Fair
+4857,Fair
+4858,Fair
+4866,Fair
+4868,Haze
+4870,Haze
+4883,Haze
+4888,Mostly Sunny
+4899,clear sky
+4900,Mostly Cloudy
+4934,clear sky
+4938,clear sky
+4940,clear sky
+4941,clear sky
+4942,Mostly Sunny
+4944,clear sky
+4955,clear sky
+4971,Fair
+4981,Overcast
+4993,clear sky
+4997,Partly Cloudy
+5014,Mostly Cloudy
+5024,Mostly Cloudy
+5036,Haze
+5038,Fog
+5045,Haze
+5046,Haze
+5050,Haze
+5060,clear sky
+5075,clear sky
+5076,clear sky
+5092,Fair
+5115,Fair
+5118,Fair
+5121,mostly cloudy
+5132,Overcast
+5143,mostly cloudy
+5153,Partly Cloudy
+5170,mostly cloudy
+5185,Mostly Cloudy
+5207,Light Freezing Rain Fog/Mist
+5209,Light Freezing Rain Fog/Mist
+5210,Light Freezing Drizzle Fog/Mist
+5213,Light Freezing Drizzle Fog/Mist
+5214,Lgt.Frz.Driz.
+5215,Lgt.Frz.Driz.
+5229,mostly cloudy
+5248,Freezing Fog AdvisoryClear
+5263,Mostly Sunny
+5268,mostly cloudy
+5269,mostly cloudy
+5275,mostly cloudy
+5280,mostly cloudy
+5289,Overcast
+5296,Overcast
+5309,Light Rain
+5312,mostly cloudy
+5316,mostly cloudy
+5318,mostly cloudy
+5346,Overcast
+5352,Overcast
+5355,Overcast
+5378,mostly cloudy
+5381,mostly cloudy
+5385,clear sky
+5388,clear sky
+5393,Short term forecastClear
+5400,Partly Cloudy
+5409,Overcast
+5413,Fair
+5418,Fair
+5419,Fair
+5432,Partly Cloudy
+5439,Overcast
+5440,Mostly Sunny
+5446,clear sky
+5455,Sunny
+5460,Few Clouds
+5470,Mostly Sunny
+5479,mostly cloudy
+5480,mostly cloudy
+5485,mostly cloudy
+5491,mostly cloudy
+5504,Fair
+5506,Fair
+5507,A Few Clouds
+5510,Partly Cloudy
+5513,Overcast
+5516,Overcast with Haze
+5517,Overcast
+5518,Overcast
+5522,Overcast
+5526,clear sky
+5527,Scattered Clouds
+5534,mostly cloudy
+5548,Snow
+5573,Cloudy
+5581,Few Clouds
+5614,A Few Clouds
+5617,Fog/Mist
+5619,Fair with Haze
+5620,Fog/Mist
+5632,Few Clouds
+5636,mostly cloudy
+5643,Snow Shower
+5656,light snow
+5681,Light Snow
+5683,Light Snow
+5700,light snow
+5709,Fog And Mist
+5721,Mostly Cloudy
+5723,Cloudy
+5726,Mostly Cloudy
+5727,Sunny
+5751,Overcast with Haze
+5765,mostly cloudy
+5768,Overcast
+5786,Mostly Sunny
+5791,Foggy
+5792,mostly cloudy
+5807,mostly cloudy
+5808,mostly cloudy
+5855,Weather WarningsSnow
+5858,Weather WarningsSnow
+5868,mostly cloudy
+5873,mostly cloudy
+5888,clear sky
+5905,Mostly Sunny
+5907,Mostly Clear
+5916,mostly cloudy
+5928,Overcast
+5933,Fair
+5946,Overcast
+5953,Mostly Cloudy
+5956,mostly cloudy
+5960,mostly cloudy
+5970,Light Fog
+5971,Weather WarningsFog
+5974,Fog
+5975,Mostly Cloudy
+5978,Dense Fog
+5984,mostly cloudy
+5988,Overcast
+5998,Light Rain Fog/Mist
+6011,Fog/Mist
+6018,mostly cloudy
+6021,mostly cloudy
+6026,mostly cloudy
+6029,mostly cloudy
+6038,mostly cloudy
+6063,Overcast
+6068,Overcast
+6075,A Few Clouds
+6118,Sunny
+6157,Fair
+6188,Mostly Clear
+6192,Cloudy
+6196,mostly cloudy
+6197,mostly cloudy
+6215,Partly Cloudy
+6220,clear sky
+6223,Mostly Sunny
+6236,clear sky
+6238,clear sky
+6250,Overcast
+6260,Fair
+6274,Partly Cloudy
+6289,Partly Cloudy
+6298,mostly cloudy
+6307,Mostly Cloudy
+6313,Fair
+6319,Fair
+6326,Mostly Cloudy
+6332,Mostly Cloudy
+6337,Mostly Cloudy
+6344,Light Snow/Fog
+6350,Snow
+6364,Mostly Cloudy
+6368,mostly cloudy
+6369,Overcast
+6377,Light Snow Fog/Mist
+6392,Mostly Cloudy
+6393,Mostly Cloudy
+6410,Snow And Fog
+6412,Snow And Fog
+6418,Mist
+6425,Mist
+6506,Overcast
+6507,Overcast
+6514,mostly cloudy
+6518,Fog And Mist
+6521,Fog And Mist
+6559,Fog And Mist
+6560,Overcast
+6561,Showers
+6593,Flurries
+6667,Foggy
+6668,Foggy
+6724,clear sky
+6728,clear sky
+6751,clear sky
+6775,Fair
+6781,Fair
+6790,A Few Clouds
+6791,A Few Clouds
+6792,A Few Clouds
+6793,A Few Clouds
+6817,clear sky
+6824,Mostly Sunny
+6833,light snow
+6841,mostly cloudy
+6850,clear sky
+6866,Mostly Sunny
+6892,Mostly Cloudy
+6895,Partly Cloudy
+6897,Overcast
+6902,Partly Cloudy
+6910,mostly cloudy
+6914,Mostly Sunny
+6929,clear sky
+6932,clear sky
+6943,mostly cloudy
+6945,mostly cloudy
+6953,Partly Cloudy
+6955,Partly Cloudy
+6958,Partly Cloudy
+6968,Overcast
+6970,Overcast
+6974,Overcast
+6986,Snow
+6987,Light Snow/Fog
+6993,Snow Shower
+7003,Mostly Cloudy
+7004,Mostly Clear
+7029,Fog/Mist
+7037,Mostly Cloudy
+7048,Mostly Clear
+7052,Few
+7055,Bkh
+7063,Mostly Clear
+7076,clear sky
+7079,Mostly Sunny
+7081,Sunny
+7091,mostly cloudy
+7095,Fair
+7112,A Few Clouds
+7113,Partly Cloudy
+7121,Mostly Cloudy
+7126,Sunny
+7131,clear sky
+7146,mostly cloudy
+7150,Clouds And Sun
+7151,Clouds And Sun
+7152,Sunny
+7170,clear sky
+7176,Clear
+7179,Clear
+7182,Sunny
+7183,Sunny
+7192,Mostly Cloudy
+7197,Mostly Cloudy
+7202,Mostly Sunny
+7217,Mostly Cloudy
+7219,A Few Clouds
+7220,A Few Clouds
+7237,mostly cloudy
+7241,mostly cloudy
+7276,Mostly Cloudy
+7277,Overcast
+7291,Partly Cloudy
+7300,Mostly Sunny
+7309,mostly cloudy
+7310,mostly cloudy
+7314,mostly cloudy
+7316,mostly cloudy
+7327,mostly cloudy
+7328,mostly cloudy
+7336,Mostly Cloudy
+7346,Overcast
+7375,clear sky
+7380,clear sky
+7387,clear sky
+7393,clear sky
+7413,Mostly Cloudy
+7416,Mostly Cloudy
+7422,Mostly Cloudy
+7427,Fog
+7428,Fog
+7441,Lt Rain
+7449,Rain
+7464,Mostly Cloudy
+7477,mostly cloudy
+7485,light snow
+7496,Rain
+7497,Foggy
+7512,mostly cloudy
+7540,Lt Rain
+7553,mostly cloudy
+7560,mostly cloudy
+7572,clear sky
+7573,clear sky
+7585,Sunny
+7595,Overcast
+7608,Mostly Cloudy
+7611,Partly Cloudy
+7614,Mostly Cloudy
+7634,Mostly Cloudy
+7636,Light Rain
+7640,Mostly Cloudy
+7669,Lt Rain
+7681,Overcast
+7687,heavy rain
+7691,Partly Sunny
+7699,Mostly Cloudy
+7733,Overcast
+7739,Fog/Mist
+7743,Fog/Mist
+7757,Light Drizzle Fog/Mist
+7765,Mostly Sunny
+7776,clear sky
+7778,clear sky
+7802,Mostly Cloudy
+7811,Fog/Mist
+7824,Overcast with Haze
+7832,Showers
+7839,Mostly Cloudy
+7846,Short term forecastCloudy
+7865,Light Rain Fog/Mist
+7880,Cloudy
+7887,Fog
+7891,Foggy
+7894,Foggy
+7903,Mist
+7917,Light Drizzle Fog/Mist
+7920,Light Drizzle Fog
+7934,Fog/Mist
+7936,Fog/Mist
+7949,light rain
+7959,Rain Mist
+7967,Cloudy
+7968,Showers
+7980,Light Rain Fog/Mist
+7989,Rain Fog/Mist
+7993,Light Rain Fog/Mist
+8009,Clouds And Sun
+8026,Mostly Sunny
+8036,Hazy
+8038,Fog
+8040,Hazy
+8080,Mostly Cloudy
+8097,clear sky
+8100,High Surf AdvisoryFog
+8104,Fog
+8110,Sunny
+8111,Mostly Cloudy
+8123,Mostly Clear
+8135,clear sky
+8140,clear sky
+8143,Sunny
+8148,Few Clouds
+8158,Few Clouds
+8165,Special weather statementHaze
+8168,Mostly Cloudy
+8170,A Few Clouds
+8172,A Few Clouds
+8173,A Few Clouds
+8178,Partly Cloudy
+8180,A Few Clouds
+8194,Sunny
+8206,clear sky
+8208,Overcast
+8216,Mostly Sunny
+8223,Mostly Sunny
+8239,Haze
+8242,Overcast
+8253,Mostly Cloudy
+8262,mostly cloudy
+8275,Partly Cloudy
+8280,mostly cloudy
+8285,mostly cloudy
+8293,Mostly Cloudy
+8297,Overcast
+8313,Overcast
+8320,Partly Cloudy
+8336,mostly cloudy
+8367,Mostly Cloudy
+8368,mostly cloudy
+8370,mostly cloudy
+8406,Overcast
+8408,light rain
+8409,light rain
+8412,Overcast
+8417,Scattered Clouds
+8424,clear sky
+8425,mostly cloudy
+8432,mostly cloudy
+8433,Scattered Clouds
+8435,Mostly Clear
+8436,Mostly Clear
+8440,Mostly Sunny
+8441,Mostly Sunny
+8444,Mostly Sunny
+8476,Intermittent Clouds
+8477,mostly cloudy
+8480,Overcast
+8515,mostly cloudy
+8516,mostly cloudy
+8543,mostly cloudy
+8544,mostly cloudy
+8579,Showers
+8581,mostly cloudy
+8584,mostly cloudy
+8586,Cloudy
+8587,Mostly Clear
+8649,mostly cloudy
+8680,clear sky
+8692,Mostly Cloudy
+8693,Mostly Cloudy
+8696,Mostly Cloudy
+8698,Mostly Cloudy
+8705,Mostly Cloudy
+8782,mostly cloudy
+8788,mostly cloudy
+8792,Mostly Cloudy
+8800,Mostly Cloudy
+8807,Mostly Cloudy
+8812,Mostly Cloudy
+8828,Fair
+8834,mostly cloudy
+8850,Cloudy
+8859,Light Rain
+8863,mostly cloudy
+8903,mostly cloudy
+8907,Mostly Cloudy
+8915,Mostly Sunny
+8916,Fog
+8919,mostly cloudy
+8926,Mostly Clear
+8949,Mostly Cloudy
+8956,Partly Cloudy
+8962,Fair
+8969,Intermittent Clouds
+8992,mostly cloudy
+8994,Cloudy
+9000,Partly Cloudy
+9003,Sunny
+9004,Sunny
+9020,Overcast
+9023,Overcast
+9026,Mostly Cloudy
+9034,Fair
+9052,mostly cloudy
+9066,Lt Rain
+9069,Overcast
+9076,Lt Rain
+9079,Rain
+9084,Mostly Cloudy
+9109,mostly cloudy
+9124,mostly cloudy
+9130,Mostly Cloudy
+9133,Overcast
+9143,Lt Rain
+9149,Mostly Cloudy
+9151,Overcast
+9159,Rain
+9166,light rain
+9178,Sunny
+9194,Overcast
+9223,clear sky
+9224,Mostly Cloudy
+9230,mostly cloudy
+9236,Rain
+9248,Rain
+9251,Mostly Cloudy
+9252,Mostly Cloudy
+9268,Partly Cloudy
+9280,Mostly Clear
+9293,mostly cloudy
+9296,mostly cloudy
+9303,Mostly Cloudy
+9308,Mostly Sunny
+9321,clear sky
+9325,Partly Cloudy
+9351,Mostly Cloudy
+9372,Winter Weather AdvisoryCloudy
+9379,Mostly Cloudy
+9385,Weather WarningsSnow
+9390,Weather WarningsSnow
+9394,Weather WarningsSnow
+9423,clear sky
+9425,Mostly Sunny
+9427,Overcast
+9434,moderate rain
+9466,Fair
+9485,Showers
+9492,Winter Weather AdvisoryCloudy
+9493,Winter Weather AdvisoryCloudy
+9506,Mostly Cloudy
+9516,Mostly Cloudy
+9517,Mostly Cloudy
+9520,Mostly Cloudy
+9553,Snow
+9554,Fog And Mist
+9557,Partly Cloudy
+9558,clear sky
+9559,Foggy
+9560,Mostly Cloudy
+9566,Mostly Cloudy
+9584,Fog/Mist

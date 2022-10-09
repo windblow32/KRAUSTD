@@ -1,0 +1,17 @@
+DA过程的断点中断时间 : 11:11:03 至 11:11:04
+原始数据集（对应第二个断点）起始时间 : 11:11:07 至 11:11:07
+error distance GA : 13.0
+error rate GA : 0.325
+适应度数值: : 6.479954317022859
+游走长度为 : 35
+Attr 正态均值 : 1
+Attr 正态标准差 : 5
+Value 正态均值 : 4
+Value 正态标准差 : 4
+Tuple 正态均值 : 4
+Tuple 正态标准差 : 1
+drop Source ? (0 false, 1 true) : 0
+drop Sample ? (0 false, 1 true) : 1
+using model : 0
+embedding dim : 173
+windowSize : 1

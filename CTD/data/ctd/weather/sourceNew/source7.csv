@@ -1,0 +1,260 @@
+entity,screen_type,supported_aspect_ratio,response_time(ms),screen_size_diagonal,day
+5,Austin,Showers,87,1
+10,Austin,Rain,93,1
+13,Austin,Cloudy,76,1
+25,Austin,Cloudy,86,1
+31,Austin,Cloudy,89,1
+35,Austin,Cloudy,81,1
+38,Austin,Cloudy,82,1
+39,Austin,Cloudy,87,1
+43,Austin,Cloudy,87,1
+50,Austin,Cloudy,82,1
+60,Austin,Overcast,85,1
+91,Austin,Cloudy,63,1
+104,Austin,Partly Cloudy,65,1
+112,Austin,Sunny,54,1
+130,Austin,Cloudy,84,1
+132,Austin,Cloudy,82,1
+145,Austin,Cloudy,80,1
+149,Austin,Showers,93,1
+154,Austin,Cloudy,93,1
+156,Austin,Rain,100,1
+167,Austin,Cloudy,95,1
+174,Austin,Mist/Fog,93,1
+205,Austin,Fog,93,1
+209,Austin,Fog,93,1
+251,Austin,Mist/Fog,86,1
+254,Austin,Mist/Fog,86,1
+257,Austin,Overcast with Haze,80,1
+259,Austin,Cloudy,81,1
+273,Austin,Showers,86,1
+275,Austin,Rain,93,1
+280,Austin,Showers,97,1
+302,Austin,Overcast,80,1
+314,Austin,Mist/Light Rain Fog,93,1
+315,Austin,Mist/Light Rain Fog,90,1
+324,Baltimore,Partly Cloudy,30,1
+342,Baltimore,Clear,37,1
+376,Austin,Fair,43,1
+382,Austin,A Few Clouds,57,1
+398,Austin,Overcast,40,1
+407,Baltimore,Cloudy,27,1
+408,Baltimore,Cloudy,28,1
+428,Baltimore,Snow,76,1
+441,Baltimore,Snow Showers,55,1
+462,Baltimore,Sunny,22,1
+467,Baltimore,Sunny,29,1
+483,Baltimore,Clear,53,1
+496,Austin,Mainly Cloudy,65,1
+498,Austin,Partly Cloudy,60,1
+517,Baltimore,Partly Cloudy,43,1
+528,Baltimore,Partly Cloudy,69,1
+535,Baltimore,Cloudy,66,1
+552,Austin,Mostly Cloudy,61,1
+565,Austin,Overcast,75,1
+600,Baltimore,Mostly Cloudy,78,1
+611,Austin,Light Snow,79,1
+625,Austin,Mist/Fog,85,1
+646,Austin,Clear,42,1
+649,Austin,Sunny,38,1
+655,Austin,Mostly Sunny;Partly Cloudy,26,1
+660,Austin,Clear;Cloudy,36,1
+669,Austin,Cloudy,40,1
+671,Austin,Cloudy,44,1
+673,Austin,Mostly Cloudy;Mostly,44,1
+676,Austin,Clear,48,1
+684,Austin,Not totally Cloudy;Partly Sunny,36,1
+692,Austin,Partly Cloudy;Mainly Sunny;Mostly Clear,29,1
+731,Austin,Clear,31,1
+734,Austin,Clear,36,1
+746,Austin,Scattered Clouds;Mostly Cloudy;Cloudy;Partly,40,1
+756,Austin,Cloudy,38,1
+768,Austin,Cloudy,45,1
+774,Austin,Not totally Sunny;Scattered Clouds;Not totally Cloudy,38,1
+776,Austin,Partly Cloudy;Scattered Clouds;Partly,35,1
+789,Austin,Cloudy,58,1
+791,Austin,Cloudy,56,1
+798,Austin,Clear,63,1
+801,Austin,Clear,65,1
+831,Austin,Partly Sunny;Partly;Scattered Clouds,58,1
+837,Austin,Not totally Cloudy;Partly Cloudy;Mostly Clear,31,1
+843,Austin,Overcast;Cloudy,44,1
+848,Austin,Not totally Cloudy;Partly Cloudy,48,1
+852,Austin,Partly Cloudy;Not totally Cloudy,54,1
+859,Austin,Cloudy;Overcast,41,1
+908,Austin,Cloudy,66,1
+961,Charlotte,Mostly Cloudy,48,1
+965,Charlotte,Partly Cloudy,44,1
+997,Charlotte,Partly Cloudy,90,1
+1000,Charlotte,Partly Cloudy,92,1
+1001,Charlotte,Partly Cloudy,91,1
+1011,Charlotte,Mostly Sunny,45,1
+1074,Charlotte,Cloudy,73,1
+1080,Charlotte,Cloudy,72,1
+1083,Charlotte,Mostly Cloudy,66,1
+1084,Charlotte,Partly Cloudy,72,1
+1086,Charlotte,Partly Cloudy,77,1
+1107,Charlotte,Mostly Clear,57,1
+1113,Charlotte,Clear,70,1
+1152,Charlotte,Partly Cloudy,57,1
+1154,Charlotte,Mostly Clear,49,1
+1166,Charlotte,Cloudy,72,1
+1183,Charlotte,Cloudy,90,1
+1224,Charlotte,Cloudy,92,1
+1226,Charlotte,Cloudy,92,1
+1234,Charlotte,Fog,98,1
+1237,Charlotte,Fog,95,1
+1239,Charlotte,Fog,94,1
+1240,Charlotte,Fog,93,1
+1286,Chicago,Mostly Cloudy,47,1
+1288,Chicago,Mostly Cloudy,44,1
+1294,Chicago,Cloudy,33,1
+1298,Chicago,Cloudy,53,1
+1304,Chicago,Partly Cloudy,52,1
+1308,Chicago,Partly Cloudy,58,1
+1313,Chicago,Mostly Cloudy,61,1
+1317,Chicago,Cloudy,65,1
+1318,Chicago,Cloudy,61,1
+1331,Chicago,Cloudy,52,1
+1333,Austin,A Few Clouds,60,1
+1335,Austin,Clean,65,1
+1341,Austin,Partly Cloudy,65,1
+1342,Austin,Partly Cloudy,65,1
+1343,Austin,A Few Clouds,68,1
+1350,Austin,Overcast,62,1
+1365,Chicago,Cloudy,52,1
+1388,Chicago,Partly Cloudy,42,1
+1393,Chicago,Partly Cloudy,53,1
+1403,Chicago,Mostly Cloudy,71,1
+1406,Chicago,Mostly Cloudy,63,1
+1411,Chicago,Mostly Cloudy,76,1
+1416,Chicago,Partly Cloudy,71,1
+1438,Chicago,Partly Cloudy,78,1
+1440,Chicago,Cloudy,80,1
+1450,Austin,Overcast,72,1
+1462,Austin,Overcast with Haze,78,1
+1468,Austin,Overcast with Haze,78,1
+1472,Chicago,Partly Cloudy,50,1
+1486,Chicago,Snow Showers,88,1
+1503,Chicago,Cloudy,81,1
+1507,Austin,Overcast Haze,63,1
+1546,Chicago,Cloudy,79,1
+1557,Chicago,Cloudy,77,1
+1570,Austin,Mist/Light Snow Fog,85,1
+1573,Austin,Light Snow,79,1
+1583,Austin,Overcast with Haze,81,1
+1588,Austin,Overcast with Haze,81,1
+1611,Columbus,Mostly Cloudy,41,1
+1614,Columbus,Partly Cloudy,46,1
+1631,Columbus,Mostly Clear,74,1
+1633,Columbus,Partly Cloudy,81,1
+1641,Columbus,Sunny,69,1
+1642,Columbus,Partly Cloudy,69,1
+1646,Columbus,Sunny,53,1
+1651,Columbus,Partly Cloudy,46,1
+1686,Columbus,Partly Cloudy,58,1
+1696,Columbus,Mostly Cloudy,57,1
+1703,Columbus,Mostly Cloudy,59,1
+1717,Columbus,Mostly Clear,61,1
+1723,Columbus,Clear,81,1
+1740,Columbus,Mostly Sunny,62,1
+1745,Columbus,Sunny,46,1
+1752,Columbus,Cloudy,74,1
+1753,Columbus,Cloudy,77,1
+1754,Columbus,Partly Cloudy,82,1
+1800,Columbus,Partly Cloudy,73,1
+1871,Columbus,Cloudy,81,1
+1874,Columbus,Cloudy,86,1
+1926,Dallas,Showers,94,1
+1940,Dallas,Mostly Cloudy,78,1
+1959,Dallas,Cloudy,91,1
+1961,Dallas,Cloudy,83,1
+1963,Dallas,Cloudy,78,1
+1968,Dallas,Cloudy,69,1
+1985,Austin,Mist/Fog,88,1
+1995,Austin,Overcast with Haze,79,1
+1999,Austin,Overcast,68,1
+2010,Dallas,Cloudy,73,1
+2014,Dallas,Cloudy,75,1
+2024,Dallas,Cloudy,73,1
+2026,Dallas,Cloudy,69,1
+2047,Dallas,Cloudy,79,1
+2051,Dallas,Cloudy,80,1
+2053,Dallas,Cloudy,83,1
+2073,Dallas,Cloudy,76,1
+2079,Dallas,Showers,88,1
+2091,Austin,Mist/Fog,83,1
+2108,Austin,Mist/Light Rain Fog,92,1
+2110,Dallas,Cloudy,87,1
+2111,Austin,Light Rain;Rain,87,1
+2112,Dallas,Cloudy,87,1
+2115,Dallas,Cloudy,74,1
+2120,Dallas,Cloudy,87,1
+2121,Dallas,Cloudy,87,1
+2152,Austin,Overcast with Haze,83,1
+2161,Austin,Overcast Haze,82,1
+2175,Austin,Cloudy,57,1
+2176,Austin,Mostly,54,1
+2180,Dallas,Partly Cloudy,65,1
+2211,Austin,Mostly,61,1
+2220,Austin,Overcast,86,1
+2223,Austin,Mostly Cloudy,86,1
+2226,Austin,Overcast,82,1
+2247,Denver,Partly Cloudy,92,1
+2268,Denver,Partly Cloudy,70,1
+2272,Denver,Mostly Clear,84,1
+2273,Denver,Partly Cloudy,73,1
+2281,Denver,Mostly Sunny,35,1
+2305,Austin,Mist/Fog,92,1
+2309,Austin,A Few Clouds,69,1
+2318,Austin,A Few,25,1
+2320,Austin,A Few Clouds,23,1
+2423,Austin,Overcast,85,1
+2743,Austin,Clean,85,1
+2746,Austin,Clean,85,1
+2798,Austin,Overcast,85,1
+3017,El Paso,Cloudy,82,1
+3259,Austin,Mist/Fog,85,1
+3373,Austin,Light Rain,85,1
+3512,Austin,Fair,77,1
+3513,Austin,Fair,77,1
+3534,Houston,Cloudy,84,1
+3773,Austin,Overcast,77,1
+3775,Austin,Overcast,78,1
+3839,Austin,Overcast,77,1
+4012,Austin,Fair,78,1
+4149,Austin,Overcast with Haze,81,1
+4150,Austin,Overcast with Haze,81,1
+4153,Austin,Overcast with Haze,78,1
+4186,Jacksonville,Mostly Cloudy,77,1
+4219,Austin,Mostly Cloudy,77,1
+4462,Austin,Overcast,77,1
+4484,Las Vegas,Partly Cloudy,68,1
+4697,Las Vegas,Partly Cloudy,61,1
+4866,Austin,Fair,77,1
+4900,Los Angeles,Clear,83,1
+4981,Austin,Overcast,81,1
+5036,Austin,Haze,81,1
+5050,Austin,Haze,77,1
+5185,Austin,Mainly Cloudy,78,1
+5419,Austin,Fair,78,1
+5619,Austin,with Haze,81,1
+5643,Milwaukee,Snow Showers,90,1
+5928,Austin,Cloudy,,1
+6914,Philadelphia,Partly Cloudy,45,1
+6932,Philadelphia,Partly Cloudy,73,1
+6993,Philadelphia,Cloudy,96,1
+7413,Austin,Mainly Cloudy,77,1
+7416,Austin,Mainly Cloudy,77,1
+7422,Austin,Mainly Cloudy,77,1
+7691,San Antonio,Mostly Cloudy,72,1
+8168,Austin,Mostly Cloudy,,1
+8173,Austin,A Few,77,1
+8180,Austin,A Few Clouds,77,1
+8208,San Diego,Cloudy,81,1
+8297,Austin,Overcast,78,1
+8417,San Francisco,Mostly Cloudy,92,1
+8480,San Francisco,Cloudy,88,1
+8792,San Jose,Cloudy,83,1
+9130,Austin,Mostly Cloudy,77,1
+9584,Milwaukee,Mist/Fog,85,1

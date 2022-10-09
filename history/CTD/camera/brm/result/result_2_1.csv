@@ -1,0 +1,101 @@
+entity,brand,num,condition,day
+6_2,Nikon,17.631164894323877,Preset;Auto,1
+13_2,Nikon,17.4810534,Incandescent;Fluorescent;Direct Sunlight;Flash;Cloudy;Shade;Preset Manual;Color Temperature;All with Fine-Tuning;Auto,1
+18_2,Canon,11.685322869713517,Custom White Balance;Auto;Preset;Custom;Colour temperature setting;White Balance Presets,1
+19_2,Nikon,18.7641418601961,Preset;Auto,1
+23_2,Canon,13.555110830037497,Preset;User Defined;Color Temperature Setting;White Balance Correction and White Balance Bracketing;Available Auto,1
+41_2,Nikon,15.025796115791163,Preset;Auto,1
+44_2,Nikon,18.664065594903015,Preset;Auto,1
+48_2,Canon,12.44340008,Daylight;Cloudy;Tungsten;Fluorescent;Fluorescent H;Flash;Custom1;Custom 2;Multi-area WB Correction;White Balance Compensation;Auto,1
+570_2,Nikon,34.85712352,White Balance Presets;Auto;Incandescent;Fluorescent;Direct Sunlight;Flash;Cloudy;Shade;Color Temperature;All with Fine-tuning;Custom White Balance,1
+58_2,Nikon,9.197391018,Custom White Balance;White Balance Presets,1
+65_2,Fujifilm,15.92489001,Preset;Automatic,1
+67_2,Canon,16.15411089,Day Light;Cloudy;Tungsten;Fluorescent;Fluorescent H;Custom;Auto,1
+69_2,Sony,38.30139049,Custom White Balance;White Balance Presets,1
+70_2,Panasonic,15.09644714,Daylight;Cloudy;Shade;Incandescent;White Set;Auto,1
+75_2,Nikon,12.6250607728797,incandescent;fluorescent;direct sunlight;flash;cloudy;shade;preset manual white balance;color temperature selection;Auto,1
+76_2,Nikon,24.42504462,White Balance Presets;Auto;Incandescent;Fluorescent;Direct Sunlight;Flash;Cloudy;Shade;Preset Manual;All with Fine-tuning;Custom White Balance,1
+83_2,Nikon,4.643402787987479,Auto,1
+88_2,Sony,19.51815235,Custom White Balance;White Balance Presets,1
+96_2,Canon,15.06963102938984,Preset;Custom;Color Temperature Setting;Auto,1
+101_2,Canon,16.825376628564978,Preset;User Defined;Color Temperature Setting;White Balance Correction and White Balance Bracketing;Auto,1
+6_1,Nikon,18.20540056771379,Auto;Preset,1
+13_1,Nikon,16.2,Auto;Incandescent;Fluorescent;Direct Sunlight;Flash;Cloudy;Shade;Preset Manual;Color Temperature;All with Fine-Tuning,1
+18_1,Canon,11.638992075181998,White Balance Presets;Custom White Balance;Auto;Preset;Custom;Colour temperature setting,1
+19_1,Nikon,18.35272326834778,Auto;Preset,1
+23_1,Canon,13.764980492551661,Available Auto;Preset;User Defined;Color Temperature Setting;White Balance Correction and White Balance Bracketing,1
+41_1,Nikon,15.248397619417743,Auto;Preset,1
+44_1,Nikon,18.1649766756292,Auto;Preset,1
+48_1,Canon,12.1,Auto;Daylight;Cloudy;Tungsten;Fluorescent;Fluorescent H;Flash;Custom1;Custom 2;Multi-area WB Correction;White Balance Compensation,1
+570_1,Nikon,36.3,Custom White Balance;White Balance Presets;Auto;Incandescent;Fluorescent;Direct Sunlight;Flash;Cloudy;Shade;Color Temperature;All with Fine-tuning,1
+58_1,Nikon,10.1,White Balance Presets;Custom White Balance,1
+65_1,Fujifilm,16,Automatic;Preset,1
+67_1,Canon,16,Auto;Day Light;Cloudy;Tungsten;Fluorescent;Fluorescent H;Custom,1
+69_1,Sony,36,White Balance Presets;Custom White Balance,1
+70_1,Panasonic,14.1,Auto;Daylight;Cloudy;Shade;Incandescent;White Set,1
+75_1,Nikon,12.47209912331068,Auto;incandescent;fluorescent;direct sunlight;flash;cloudy;shade;preset manual white balance;color temperature selection,1
+76_1,Nikon,24,Custom White Balance;White Balance Presets;Auto;Incandescent;Fluorescent;Direct Sunlight;Flash;Cloudy;Shade;Preset Manual;All with Fine-tuning,1
+83_1,Nikon,4.601968991277897,Auto,1
+88_1,Sony,20,White Balance Presets;Custom White Balance,1
+96_1,Canon,15.243098724696807,Auto;Preset;Custom;Color Temperature Setting,1
+101_1,Canon,16.997150651897844,Auto;Preset;User Defined;Color Temperature Setting;White Balance Correction and White Balance Bracketing,1
+6_3,Nikon,17.631164894323877,Preset;Auto,1
+13_3,Nikon,17.4810534,Incandescent;Fluorescent;Direct Sunlight;Flash;Cloudy;Shade;Preset Manual;Color Temperature;All with Fine-Tuning;Auto,1
+18_3,Canon,11.685322869713517,Custom White Balance;Auto;Preset;Custom;Colour temperature setting;White Balance Presets,1
+19_3,Nikon,18.7641418601961,Custom White Balance;Auto;incandescent;fluorescent;direct sunlight;flash;cloudy;shade;preset manual;all except preset manual with fine-tuning;White Balance Presets,1
+23_3,Canon,13.555110830037497,Preset;User Defined;Color Temperature Setting;White Balance Correction and White Balance Bracketing;Available Auto,1
+41_3,Nikon,15.025796115791163,Preset;Auto,1
+44_3,Nikon,18.664065594903015,Preset;Auto,1
+48_3,Canon,12.44340008,Daylight;Cloudy;Tungsten;Fluorescent;Fluorescent H;Flash;Custom1;Custom 2;Multi-area WB Correction;White Balance Compensation;Auto,1
+570_3,Nikon,34.85712352,White Balance Presets;Auto;Incandescent;Fluorescent;Direct Sunlight;Flash;Cloudy;Shade;Color Temperature;All with Fine-tuning;Custom White Balance,1
+58_3,Nikon,9.197391018,Custom White Balance;White Balance Presets,1
+65_3,Fujifilm,15.92489001,Preset;Automatic,1
+67_3,Canon,16.15411089,Day Light;Cloudy;Tungsten;Fluorescent;Fluorescent H;Custom;Auto,1
+69_3,Sony,38.30139049,Custom White Balance;White Balance Presets,1
+70_3,Panasonic,15.09644714,Daylight;Cloudy;Shade;Incandescent;Preset;Auto,1
+75_3,Nikon,12.6250607728797,incandescent;fluorescent;direct sunlight;flash;cloudy;shade;preset manual white balance;color temperature selection;Auto,1
+76_3,Nikon,24.42504462,White Balance Presets;Auto;Incandescent;Fluorescent;Direct Sunlight;Flash;Cloudy;Shade;Preset Manual;All with Fine-tuning;Custom White Balance,1
+83_3,Nikon,4.643402787987479,Auto,1
+88_3,Sony,19.51815235,Custom White Balance;White Balance Presets,1
+96_3,Canon,15.06963102938984,Preset;Custom;Color Temperature Setting;Auto,1
+101_3,Canon,16.825376628564978,Preset;User Defined;Color Temperature Setting;White Balance Correction and White Balance Bracketing;Auto,1
+6_4,Nikon,17.631164894323877,Preset;Auto,1
+13_4,Nikon,17.4810534,Incandescent;Fluorescent;Direct Sunlight;Flash;Cloudy;Shade;Preset Manual;Color Temperature;All with Fine-Tuning;Auto,1
+18_4,Canon,11.685322869713517,Custom White Balance;Auto;Preset;Custom;Colour temperature setting;White Balance Presets,1
+19_4,Nikon,18.7641418601961,Custom White Balance;Auto;incandescent;fluorescent;direct sunlight;flash;cloudy;shade;preset manual;all except preset manual with fine-tuning;White Balance Presets,1
+23_4,Canon,13.555110830037497,Preset;User Defined;Color Temperature Setting;White Balance Correction and White Balance Bracketing;Available Auto,1
+41_4,Nikon,15.025796115791163,Custom White Balance;Auto;incandescence;fluorescent;direct sunlight;flash;cloudy;shade;preset manual;all except preset manual with fine-tuning;White Balance Presets,1
+44_4,Nikon,18.664065594903015,Preset;Auto,1
+48_4,Canon,12.44340008,Daylight;Cloudy;Tungsten;Fluorescent;Fluorescent H;Flash;Custom1;Custom 2;Multi-area WB Correction;White Balance Compensation;Auto,1
+570_4,Nikon,34.85712352,White Balance Presets;Auto;Incandescent;Fluorescent;Direct Sunlight;Flash;Cloudy;Shade;Color Temperature;All with Fine-tuning;Custom White Balance,1
+58_4,Nikon,9.197391018,Custom White Balance;White Balance Presets,1
+65_4,Fujifilm,15.92489001,Preset;Automatic,1
+67_4,Canon,16.15411089,Day Light;Cloudy;Tungsten;Fluorescent;Fluorescent H;Custom;Auto,1
+69_4,Sony,38.30139049,Custom White Balance;White Balance Presets,1
+70_4,Panasonic,15.09644714,Daylight;Cloudy;Shade;Incandescent;White Set;Auto,1
+75_4,Nikon,12.6250607728797,incandescent;fluorescent;direct sunlight;flash;cloudy;shade;preset manual white balance;color temperature selection;Auto,1
+76_4,Nikon,24.42504462,White Balance Presets;Auto;Incandescent;Fluorescent;Direct Sunlight;Flash;Cloudy;Shade;Preset Manual;All with Fine-tuning;Custom White Balance,1
+83_4,Nikon,4.643402787987479,Auto,1
+88_4,Sony,19.51815235,Custom White Balance;White Balanced Presets,1
+96_4,Canon,15.06963102938984,Preset;Custom;Color Temperature Setting,1
+101_4,Canon,16.825376628564978,Preset;User Defined;Color Temperature Setting;White Balance Correction and White Balance Bracketing;Auto,1
+6_5,Nikon,17.631164894323877,Preset;Auto,1
+13_5,Nikon,17.4810534,Incandescent;Fluorescent;Direct Sunlight;Flash;Cloudy;Shade;Preset Manual;Color Temperature;All with Fine-Tuning;Auto,1
+18_5,Canon,11.685322869713517,Custom White Balance;Auto;Preset;Custom;Colour temperature setting;White Balance Preset,1
+19_5,Nikon,18.7641418601961,Custom White Balance;Auto;incandescent;fluorescent;direct sunlight;flash;cloudy;shade;preset manual;all except preset manual with fine-tuning;White Balance Presets,1
+23_5,Canon,13.555110830037497,Preset;User Defined;Color Temperature Setting;White Balance Correction and White Balance Bracketing;Available Auto,1
+41_5,Nikon,15.025796115791163,Custom White Balance;Auto;incandescent;flscent;direct sunlight;flash;cloudy;shade;preset manual;all except preset manual with fine-tuning;White Balance Presets,1
+44_5,Nikon,18.664065594903015,Preset;Auto,1
+48_5,Canon,12.44340008,Daylight;Cloudy;Tungsten;Fluorescent;Fluorescent H;Flash;Custom1;Custom 2;Multi-area WB Correction;White Balance Compensation;Auto,1
+570_5,Nikon,34.85712352,White Balance Presets;Auto;Incandescent;Fluorescent;Direct Sunlight;Flash;Cloudy;Shade;Color Temperature;All with Fine-tuning;Custom White Balance,1
+58_5,Nikon,9.197391018,Custom White Balance;White Balance Preset,1
+65_5,Fujifilm,15.92489001,Preset;Automatic,1
+67_5,Canon,16.15411089,Day Light;Cloudy;Tungsten;Fluorescent;Fluorescent H;Custom;Autos,1
+69_5,Sony,38.30139049,Custom White Balance;White Balance Preset,1
+70_5,Panasonic,15.09644714,Daylight;Cloudy;Shade;Incandescent;White Set,1
+75_5,Nikon,12.6250607728797,incandescent;fluorescent;direct sunlight;flash;cloudy;shade;preset manual white balance;color temperature selection;Auto,1
+76_5,Nikon,24.42504462,White Balance Presets;Auto;Incandescent;Fluorescent;Direct Sunlight;Flash;Cloudy;Shade;Preset Manual;All with Fine-tuning;Custom White Balance,1
+83_5,Nikon,4.643402787987479,Auto,1
+88_5,Sony,19.51815235,Custom White Balance;White Balance Presets,1
+96_5,Canon,15.06963102938984,Preset;Custom;Color Temperature Setting;Auto,1
+101_5,Canon,16.825376628564978,Preset;User Defined;Color Temperature Setting;White Balance Correction and White Balance Bracketing;Auto,1

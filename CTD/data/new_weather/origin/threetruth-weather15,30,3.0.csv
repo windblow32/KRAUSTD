@@ -1,0 +1,56 @@
+5,Rain;Light Rain,93,1
+10,Rain,93,1
+13,Cloudy;Overcast,81,1
+25,Cloudy,81,1
+31,Cloudy,84,1
+35,Cloudy;Overcast,81,1
+38,Cloudy,85,1
+39,Cloudy,87,1
+43,Cloudy;Overcast;Showers,93,1
+50,Cloudy;Fog;Haze,81,1
+60,Overcast,85,1
+91,Not totally Cloudy;Partly Cloudy,64,1
+104,Clear;Not totally Sunny,80,1
+112,Sunny;Clear,53,1
+130,Cloudy,88,1
+132,Cloudy,88,1
+145,Cloudy,81,1
+149,Rain;Light Rain,93,1
+154,Cloudy;Overcast;Showers,93,1
+156,Rain;Light Rain,100,1
+167,Cloudy;Fog;Fog And Mist;Light Rain;Light Rain Mist,100,1
+174,Mist/Fog,93,1
+205,Fog;Overcast;Showers;Mist,93,1
+209,Fog;Overcast;Rain,93,1
+251,Mist/Fog,86,1
+254,Mist/Fog,86,1
+257,Overcast with Haze,80,1
+259,Cloudy,76,1
+273,Rain;Light Rain,87,1
+275,Rain,93,1
+1080,Cloudy,80,1
+1968,Cloudy,68,1
+2014,Cloudy;Overcast,75,1
+2051,Cloudy;Overcast,82,1
+2053,Cloudy;Overcast,85,1
+2120,Cloudy,81,1
+2611,Cloudy,54,1
+3017,Cloudy,82,1
+3547,Partly Cloudy;Not totally Cloudy;Clear,81,1
+3650,Cloudy,75,1
+3659,Cloudy,75,1
+4051,Cloudy,75,1
+4280,Cloudy;Overcast,89,1
+5268,Cloudy,55,1
+5316,Cloudy,57,1
+5479,Cloudy,67,1
+5485,Cloudy,53,1
+5765,Cloudy;Overcast,58,1
+5953,Cloudy;Overcast,73,1
+6021,Cloudy,62,1
+7314,Cloudy,64,1
+7449,Light Rain;Rain;Cloudy,79,1
+8208,Cloudy;Haze,80,1
+8280,Cloudy;Haze;Mainly Cloudy,77,1
+8792,Cloudy,80,1
+9584,Mist/Fog,85,1

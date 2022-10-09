@@ -18,4 +18,4 @@ entity,source,brand,number,screen_type,supported_aspect_ratio,response_time(ms),
 171,4,Asus,86,LCD Monitor,16:09,2,68.6,1
 186,4,Asus,387,LCD Monitor,16:10,5,55.9,1
 190,4,Asus,337,LCD Monitor,16:09,5,68.6,1
-193,4,iiyama_North_America,815,LED Backlight LCD IPS Panel 16.7 million Colour,16:09,5,58.4,1
+193,4,iiyama_North_America,815,IPS,16:09,5,58.4,1

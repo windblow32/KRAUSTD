@@ -1,0 +1,95 @@
+entity,screen_type,supported_aspect_ratio,response_time(ms),screen_size_diagonal,day
+1388,Chicago,Partly,51.18574379,1
+1393,Chicago,Mostly,66.77264432,1
+1403,Chicago,Cloudy,68.21730172,1
+1406,Chicago,Mostly,72.84478529,1
+1411,Chicago,Mostly,80.48383569,1
+1416,Chicago,Sunny,85.9771865,1
+1472,Chicago,Mostly,59.9898537,1
+2010,Dallas,WarningsCloudy,81.25508758,1
+2024,Dallas,warningCloudy,80.98847465,1
+2026,Dallas,warningCloudy,70.68776015,1
+2047,Dallas,warningCloudy,80.21774717,1
+2885,El Paso,Cloudy,81.7095906,1
+2889,El Paso,Mostly,79.95318468,1
+2895,El Paso,Mostly,59.30112162,1
+2969,El Paso,Sunny,64.39175058,1
+2974,El Paso,Sunny,69.83808325,1
+2995,El Paso,Cloudy,44.34542753,1
+3002,El Paso,Partly,59.47282329,1
+3024,El Paso,Mostly,38.08151509,1
+3026,El Paso,Mostly,37.14533622,1
+3291,Fort Worth,term forecastCloudy,73.24637968,1
+3296,Fort Worth,Cloudy,71.70077659,1
+3302,Fort Worth,Cloudy,68.3894973,1
+3307,Fort Worth,Cloudy,77.48592079,1
+3314,Fort Worth,Cloudy,76.05878657,1
+3316,Fort Worth,Cloudy,76.60709923,1
+3319,Fort Worth,Cloudy,76.168299,1
+3324,Fort Worth,Cloudy,84.36452354,1
+3343,Fort Worth,Cloudy,87.57903062,1
+3534,Houston,Cloudy,88.45150279,1
+3856,Indianapolis,Mostly,62.71756143,1
+3951,Indianapolis,Partly,56.62844865,1
+3954,Indianapolis,Cloudy,53.36820659,1
+3980,Indianapolis,Sunny,68.78641907,1
+3983,Indianapolis,Sunny,54.89096819,1
+4306,Jacksonville,Cloudy,65.74632662,1
+4584,Las Vegas,Sunny,79.11211362,1
+4888,Los Angeles,High AdvisoryClear,59.44181441,1
+4899,Los Angeles,High AdvisoryHaze,73.80048236,1
+4900,Los Angeles,High AdvisoryHaze,86.84019264,1
+4934,Los Angeles,Coastal Flood,86.13716483,1
+4938,Los Angeles,Coastal Flood,82.6345868,1
+4940,Los Angeles,Coastal StatementHaze,62.00429566,1
+4941,Los Angeles,Flood StatementHaze,63.04550886,1
+4942,Los Angeles,Flood StatementClear,51.45781182,1
+4944,Los Angeles,Coastal Flood,46.58468636,1
+4993,Los Angeles,Sunny,67.13926698,1
+5440,Milwaukee,Mostly,44.24317244,1
+5446,Milwaukee,Partly,60.82678466,1
+5455,Milwaukee,Cloudy,47.50595344,1
+5526,Milwaukee,Partly,63.21234104,1
+5527,Milwaukee,Cloudy,61.17885981,1
+5534,Milwaukee,Cloudy,60.10069069,1
+5548,Milwaukee,Short forecastSnow,86.78561333,1
+5573,Milwaukee,Mostly,72.2753287,1
+5581,Milwaukee,Sunny,44.1509034,1
+5868,Nashville,Short term,79.05337127,1
+5873,Nashville,WarningsCloudy,76.72100966,1
+5888,Nashville,Special statementClear,82.9864723,1
+5905,Nashville,Sunny,47.15178714,1
+6866,Philadelphia,Sunny,38.97577507,1
+6910,Philadelphia,Cloudy,68.01604993,1
+7048,Phoenix,Partly,86.49780142,1
+7052,Phoenix,Partly,80.63582362,1
+7055,Phoenix,Cloudy,50.90739475,1
+7126,Phoenix,Cloudy,48.31061797,1
+7131,Phoenix,Partly,62.74694799,1
+7146,Phoenix,Mostly,56.51788123,1
+7150,Phoenix,Mostly,36.68865953,1
+7151,Phoenix,Mostly,36.51454017,1
+7152,Phoenix,Mostly,36.54544072,1
+7464,Portland,Cloudy,79.74194793,1
+7477,Portland,Cloudy,73.40451385,1
+7485,Portland,Cloudy,100.2243304,1
+7497,Portland,Fog,107.9391473,1
+7553,Portland,Cloudy,61.03906583,1
+8009,San Diego,Mostly,75.64632806,1
+8100,San Diego,High Surf,90.08729251,1
+8104,San Diego,High Surf,76.71827916,1
+8110,San Diego,High Surf AdvisoryPartly,60.0906801,1
+8111,San Diego,Surf AdvisoryPartly Cloudy,61.45548484,1
+8123,San Diego,Partly,74.05480747,1
+8135,San Diego,Haze,78.43015748,1
+8140,San Diego,Haze,76.66443345,1
+8143,San Diego,Cloudy,68.52524775,1
+8649,San Jose,Mostly,90.96512,1
+8969,Seattle,Mostly,76.48736276,1
+9052,Seattle,Cloudy,64.38488624,1
+9066,Seattle,Rain,84.69140741,1
+9069,Seattle,Rain,95.13202951,1
+9076,Seattle,Rain,89.90679191,1
+9079,Seattle,Cloudy,90.3593929,1
+9084,Seattle,Cloudy,85.54338591,1
+9423,Washington,Sunny,31.84366445,1

@@ -1,0 +1,21 @@
+entity,brand,num,condition,day
+6_1,Nikon,26.10498612,Preset;Autos,1.0
+13_1,Nikon,17.4810534,Daylight;Sunny;Fine;Flash;Fluorescent;Incandescent;Shade;Sunlight;Tungsten;Cloudy,0.6987351120293814
+18_1,Canon,9.995440013270626,Daylight;Sunny;Flash;Fluorescent;Halogen;Incandescent;Shade;Tungsten;Cloud,0.6987351120293814
+19_1,Nikon,17.38857205788896,Flash;Fluorescent,0.6874236562843912
+23_1,Canon,12.467673847286434,Daylight;Sunny;Fine;Flash;Fluorescent;Shade;Tungsten;Underwater;Cloudy,0.8371042515817754
+41_1,Nikon,12.922803761789,Flash;Fluorescent;Incandescent;Shade;Sunlight;Sunny;Tungsten;Cloudy,0.6855199589085408
+44_1,Nikon,17.41135804250056,Preset;Auto,1.0
+48_1,Canon,12.44340008,Daylight;Sunny;Flash;Fluorescent;Tungsten;Cloudy,0.6987351120293814
+570_1,Nikon,34.07620968,Daylight;Sunny;Flash;Fluorescent;Incandescent;Shade;Tungsten;Cloudy,0.6987351120293814
+58_1,Nikon,10.67276466,Cloudy;Daylight;Sunny;Flash;Fluorescent;Incandescent;Shade;Sunlight;Sunny;Tungsten;Artificial,0.6987351120293814
+65_1,Fujifilm,14.77601053,Sunny;Shade,0.6987351120293814
+67_1,Canon,14.85500566,Cloudy;Daylight;Sunny;Fluorescent;Artificial,0.6987351120293814
+69_1,Sony,32.97253955,Daylight;Sunny;Shade;Underwater;Cloud,0.6987351120293814
+70_1,Panasonic,13.06127191,Daylight;Sunny;Incandescent;Shade;Cloudy,0.6987351120293814
+75_1,Nikon,11.671493252579104,incandescent;fluorescent;direct sunlight;flash;cloudy;shade;preset manual white balance;color temperature selection;Auto,0.8371042515817754
+76_1,Nikon,24.42504462,Sunlightly,0.6987351120293814
+83_1,Nikon,3.388889661915116,Auto,0.4905990411526986
+88_1,Sony,18.71933265,Daylight;flash;Cloudy,0.6987351120293814
+96_1,Canon,13.886475252734979,Daylight;Sunny;Flash;Fluorescent;Tungsten;Cloudy,0.8503194047026158
+101_1,Canon,15.526764014779083,Preset;User Defined;Color Temperature Setting;White Balance Correction and White Balance Bracketing;Auto,1.0

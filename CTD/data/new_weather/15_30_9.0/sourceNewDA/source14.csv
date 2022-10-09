@@ -1,0 +1,57 @@
+entity,Domain,Conditions,Humidity,day
+1388,Chicago,Cloudy,50.39946008,1
+1393,Chicago,Partly,56.60997751,1
+1403,Chicago,Mostly,63.37646027,1
+1406,Chicago,Cloudy,70.35086617,1
+1411,Chicago,Cloudy,69.83107657,1
+1416,Chicago,Cloudy,76.17153999,1
+1472,Chicago,Partly,61.14429547,1
+2010,Dallas,Cloudy,72.36792679,1
+2014,Dallas,Cloudy,77.90379796,1
+2024,Dallas,Cloudy,75.15361753,1
+2026,Dallas,Cloudy,65.7654627,1
+2047,Dallas,Cloudy,74.87272822,1
+2969,El Paso,Partly,67.89330317,1
+2974,El Paso,Clear,72.54331862,1
+2995,El Paso,Mostly,49.29974134,1
+3002,El Paso,Mostly,71.70427112,1
+3017,El Paso,Cloudy,84.00048192,1
+3024,El Paso,Cloudy,49.34580575,1
+3026,El Paso,Cloudy,41.02835132,1
+3951,Indianapolis,Mostly,48.78510272,1
+3954,Indianapolis,Partly,42.95907096,1
+3980,Indianapolis,Mostly,68.63475932,1
+3983,Indianapolis,Mostly,56.07650962,1
+4584,Las Vegas,Mostly,84.06303751,1
+4993,Los Angeles,Mostly,71.96042684,1
+5526,Milwaukee,Cloudy,58.00877954,1
+5527,Milwaukee,Cloudy,55.58936793,1
+5534,Milwaukee,Cloudy,50.13899739,1
+5548,Milwaukee,Shower,71.00195475,1
+5573,Milwaukee,Partly,66.88780954,1
+5581,Milwaukee,Partly,46.02196473,1
+7048,Phoenix,Partly,95.99534269,1
+7052,Phoenix,Partly,90.97887343,1
+7055,Phoenix,Cloudy,62.82907429,1
+7126,Phoenix,Cloudy,39.42320163,1
+7131,Phoenix,Partly,60.28916675,1
+7146,Phoenix,Cloudy,64.56605814,1
+7150,Phoenix,Mostly,38.55421913,1
+7151,Phoenix,Mostly,35.16199045,1
+7152,Phoenix,Mostly,36.25283354,1
+7553,Portland,Cloudy,70.76318113,1
+8100,San Diego,Clear,89.3730834,1
+8104,San Diego,Cloudy,91.7570078,1
+8110,San Diego,Partly,68.13831701,1
+8111,San Diego,Partly,63.58845586,1
+8123,San Diego,Cloudy,69.78269698,1
+8135,San Diego,Mostly,88.76865509,1
+8140,San Diego,Partly,93.68025794,1
+8143,San Diego,Cloudy,64.11078768,1
+8649,San Jose,Cloudy,92.69674227,1
+9052,Seattle,Cloudy,63.60056724,1
+9066,Seattle,Rain,91.04901818,1
+9069,Seattle,Cloudy,89.9919508,1
+9076,Seattle,Showers,78.06214375,1
+9079,Seattle,Cloudy,92.89871619,1
+9084,Seattle,Rain,82.63938844,1

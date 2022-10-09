@@ -1,0 +1,151 @@
+entity,Domain,Conditions,Humidity,day
+5,Austin,moderate rain,93,1
+10,Austin,moderate rain,93,1
+13,Austin,mostly cloudy,81,1
+25,Austin,mostly cloudy,80,1
+31,Austin,mostly cloudy,80,1
+35,Austin,mostly cloudy,87,1
+38,Austin,mostly cloudy,87,1
+39,Austin,mostly cloudy,87,1
+43,Austin,mostly cloudy,93,1
+50,Austin,mostly cloudy,81,1
+60,Austin,Overcast,85,1
+91,Austin,clear sky,64,1
+104,Austin,clear sky,80,1
+112,Austin,clear sky,61,1
+130,Austin,mostly cloudy,86,1
+132,Austin,mostly cloudy,86,1
+145,Austin,mostly cloudy,80,1
+149,Austin,moderate rain,93,1
+154,Austin,mostly cloudy,93,1
+156,Austin,light rain,93,1
+167,Austin,mostly cloudy,100,1
+174,Austin,Mist/Fog,93,1
+205,Austin,mostly cloudy,100,1
+209,Austin,light rain,100,1
+251,Austin,Mist/Fog,86,1
+254,Austin,Mist/Fog,86,1
+257,Baltimore,Overcast with Haze,80,1
+259,Austin,mostly cloudy,77,1
+273,Austin,light rain,87,1
+275,Austin,light rain,93,1
+280,Austin,light rain,93,1
+302,Baltimore,Overcast,80,1
+314,Baltimore,Mist/Light Rain Fog,93,1
+315,Baltimore,Mist/Light Rain Fog,90,1
+324,Baltimore,normal,38,1
+342,Baltimore,normal,43,1
+376,Baltimore,Fair,43,1
+382,Baltimore,A Few Clouds,57,1
+398,Baltimore,Overcast,40,1
+407,Baltimore,normal,30,1
+408,Baltimore,normal,33,1
+428,Baltimore,normal,79,1
+441,Baltimore,normal,73,1
+462,Baltimore,normal,28,1
+467,Baltimore,normal,34,1
+483,Baltimore,normal,51,1
+496,Boston,Mainly Cloudy,65,1
+498,Boston,Partly Cloudy,60,1
+517,Baltimore,normal,47,1
+528,Baltimore,normal,74,1
+535,Baltimore,normal,69,1
+552,Boston,Mostly Cloudy,61,1
+565,Boston,Overcast,75,1
+600,Baltimore,normal,80,1
+611,Boston,Light Snow,79,1
+625,Boston,Mist/Fog,85,1
+646,Boston,Clear,42,1
+649,Boston,Sunny,38,1
+655,Boston,Mostly Sunny;Partly Cloudy,26,1
+660,Boston,Clear;Cloudy,36,1
+669,Boston,Cloudy,40,1
+671,Boston,Cloudy,44,1
+673,Boston,Mostly Cloudy;Mostly,44,1
+676,Boston,Clear,48,1
+684,Boston,Not totally Cloudy;Partly Sunny,36,1
+692,Boston,Partly Cloudy;Mainly Sunny;Mostly Clear,29,1
+731,Boston,Clear,31,1
+734,Charlotte,Clear,36,1
+746,Charlotte,Scattered Clouds;Mostly Cloudy;Cloudy;Partly,40,1
+756,Charlotte,Cloudy,38,1
+768,Charlotte,Cloudy,45,1
+774,Charlotte,Not totally Sunny;Scattered Clouds;Not totally Cloudy,38,1
+776,Charlotte,Partly Cloudy;Scattered Clouds;Partly,35,1
+789,Houston,Cloudy,58,1
+791,Phoenix,Cloudy,56,1
+798,Seattle,Clear,63,1
+801,Seattle,Clear,65,1
+831,Seattle,Partly Sunny;Partly;Scattered Clouds,58,1
+837,Seattle,Not totally Cloudy;Partly Cloudy;Mostly Clear,31,1
+843,Seattle,Overcast;Cloudy,44,1
+848,Seattle,Not totally Cloudy;Partly Cloudy,48,1
+852,Seattle,Partly Cloudy;Not totally Cloudy,54,1
+859,Seattle,Cloudy;Overcast,41,1
+908,Seattle,Cloudy,66,1
+961,Charlotte,clear sky,45,1
+965,Charlotte,clear sky,44,1
+997,Charlotte,clear sky,86,1
+1000,Charlotte,clear sky,86,1
+1001,Charlotte,clear sky,93,1
+1011,Charlotte,clear sky,34,1
+3534,Houston,mostly cloudy,82,1
+7241,Phoenix,mostly cloudy,42,1
+9224,Seattle,mostly cloudy,66,1
+9584,Milwaukee,Mist/Fog,85,1
+1388,Chicago,clear sky,58,1
+1393,Chicago,clear sky,62,1
+1403,Chicago,mostly cloudy,68,1
+1406,Chicago,mostly cloudy,73,1
+1411,Chicago,mostly cloudy,73,1
+1416,Chicago,clear sky,79,1
+1472,Chicago,clear sky,61,1
+2010,Dallas,mostly cloudy,74,1
+2014,Dallas,mostly cloudy,80,1
+2024,Dallas,mostly cloudy,80,1
+2026,Dallas,mostly cloudy,74,1
+2047,Dallas,mostly cloudy,80,1
+2969,El Paso,clear sky,61,1
+2974,El Paso,clear sky,75,1
+2995,El Paso,mostly cloudy,43,1
+3002,El Paso,clear sky,65,1
+3017,El Paso,mostly cloudy,81,1
+3024,El Paso,mostly cloudy,47,1
+3026,El Paso,mostly cloudy,41,1
+3951,Indianapolis,mostly cloudy,54,1
+3954,Indianapolis,clear sky,54,1
+3980,Indianapolis,clear sky,68,1
+3983,Indianapolis,clear sky,58,1
+4584,Las Vegas,clear sky,70,1
+4993,Los Angeles,clear sky,71,1
+5526,Milwaukee,clear sky,57,1
+5527,Milwaukee,clear sky,62,1
+5534,Milwaukee,mostly cloudy,57,1
+5548,Milwaukee,light snow,86,1
+5573,Milwaukee,mostly cloudy,72,1
+5581,Milwaukee,clear sky,45,1
+7048,Phoenix,clear sky,87,1
+7052,Phoenix,clear sky,77,1
+7055,Phoenix,mostly cloudy,63,1
+7126,Phoenix,clear sky,43,1
+7131,Phoenix,clear sky,59,1
+7146,Phoenix,mostly cloudy,54,1
+7150,Phoenix,mostly cloudy,36,1
+7151,Phoenix,mostly cloudy,36,1
+7152,Phoenix,mostly cloudy,34,1
+7553,Portland,mostly cloudy,65,1
+8100,San Diego,clear sky,82,1
+8104,San Diego,mostly cloudy,82,1
+8110,San Diego,clear sky,63,1
+8111,San Diego,clear sky,63,1
+8123,San Diego,clear sky,77,1
+8135,San Diego,clear sky,82,1
+8140,San Diego,clear sky,77,1
+8143,San Diego,clear sky,67,1
+8649,San Jose,mostly cloudy,93,1
+9052,Seattle,mostly cloudy,58,1
+9066,Seattle,light rain,93,1
+9069,Seattle,mostly cloudy,87,1
+9076,Seattle,light rain,87,1
+9079,Seattle,mostly cloudy,93,1
+9084,Seattle,mostly cloudy,93,1

@@ -114,39 +114,42 @@ public class GenerateNormalizeDistributeSourceTripartiteRandomWalk {
             Iterator<String> keyItor= neighbor_map.keySet().iterator();
             int max = 0;
             // 存储value相同的key
-            Set<String> keySet = new HashSet<>();
+//            Set<String> keySet = new HashSet<>();
+            String currentKey = null;
+            // fixme : 只保留最大的，一趟扫描
             while (keyItor.hasNext()){
                 String key = keyItor.next();
                 int value = neighbor_map.get(key);
                 if(value>max){
                     max = value;
+                    currentKey = key;
                     // 原有的清除
-                    keySet.clear();
-                    keySet.add(key);
+//                    keySet.clear();
+//                    keySet.add(key);
                 }
-                else if(value==max){
-                    keySet.add(key);
-                }
+//                else if(value==max){
+//                    keySet.add(key);
+//                }
             }
-            Random r = new Random();
-            int index = 0;
-            try{
-                index = r.nextInt(keySet.size());
-            }
-            catch (IllegalArgumentException e){
-                // debug
-                System.out.println(" no neighbor vertex : " + vertex + " , max : " + max);
-            }
+//            Random r = new Random();
+//            int index = 0;
+//            try{
+//                index = r.nextInt(keySet.size());
+//            }
+//            catch (IllegalArgumentException e){
+//                // debug
+//                System.out.println(" no neighbor vertex : " + vertex + " , max : " + max);
+//            }
             // 返回随机选中的node
-            Iterator<String> itor = keySet.iterator();
-            while(itor.hasNext()){
-                node = itor.next();
-                if(index==0){
-                    break;
-                }
-                index--;
-            }
-            return node;
+//            Iterator<String> itor = keySet.iterator();
+//            while(itor.hasNext()){
+//                node = itor.next();
+//                if(index==0){
+//                    break;
+//                }
+//                index--;
+//            }
+            return currentKey;
         }
     }
     /**

@@ -1,0 +1,21 @@
+entity,brand,screen_type,supported_aspect_ratio,response_time(ms),screen_size_diagonal,day
+22_1,Philips Electronics,LCD,5:04,5.083093739,44.53785537,1
+25_1,Philips Electronics,LCD,16:10,4.678791561,53.39001563,1
+27_1,Philips Electronics,Lcd,16:09,4.91305422,50.26067372,1
+28_1,Philips Electronics,LCD,16:10,4.872858177,49.6731007,1
+32_1,Philips Electronics,LED/,16:09,4.841456829,64.81924765,1
+33_1,Philips Electronics,PN+Film,16:09,5.36681041,61.53001296,1
+39_1,Philips Electronics,LD,16:08,3.568469119,74.03915253,1
+40_1,Philips Electronics,LCD,16:09,4.819695583,74.99737969,1
+41_1,Philips Electronics,TFT,16:09,4.753762385,61.94106206,1
+62_1,Philips Electronics,IPS,16:10,15.24549792,65.05870274,1
+88_1,iiyama North America,TN+Film,16:09,2.154737621,59.81607704,1
+103_1,Hannspree,ProLite E2483HS - A HD LED Monitor with 2 ms Response Time,16:10,5.441076343,53.17478626,1
+128_1,,,,,,
+132_1,Asus,IPS,16:09,5.165395001,76.08221133,1
+133_1,Asus,IGZO,16:09,8.006460399,87.97896668,1
+168_1,Asus,LC,16:09,2.071719452,70.8135437,1
+171_1,,,,,,
+186_1,Asus,TN+Film,16:10,4.681169719,54.39630621,1
+190_1,Asus,IPS,16:09,4.874532936,64.41553641,1
+193_1,iiyama North America,IPS,16:10,4.805533954,61.80027728,1

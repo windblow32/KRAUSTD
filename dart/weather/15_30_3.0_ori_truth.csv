@@ -1,0 +1,150 @@
+5,"['Rain', 'Light Rain']",93,1
+10,['Rain'],93,1
+13,"['Cloudy', 'Overcast']",81,1
+25,['Cloudy'],81,1
+31,['Cloudy'],84,1
+35,"['Cloudy', 'Overcast']",81,1
+38,['Cloudy'],85,1
+39,['Cloudy'],87,1
+43,"['Cloudy', 'Overcast', 'Showers']",93,1
+50,"['Cloudy', 'Fog', 'Haze']",81,1
+60,['Overcast'],85,1
+91,"['Not totally Cloudy', 'Partly Cloudy']",64,1
+104,"['Clear', 'Not totally Sunny']",80,1
+112,"['Sunny', 'Clear']",53,1
+130,['Cloudy'],88,1
+132,['Cloudy'],88,1
+145,['Cloudy'],81,1
+149,"['Rain', 'Light Rain']",93,1
+154,"['Cloudy', 'Overcast', 'Showers']",93,1
+156,"['Rain', 'Light Rain']",100,1
+167,"['Cloudy', 'Fog', 'Fog And Mist', 'Light Rain', 'Light Rain Mist']",100,1
+174,['Mist/Fog'],93,1
+205,"['Fog', 'Overcast', 'Showers', 'Mist']",93,1
+209,"['Fog', 'Overcast', 'Rain']",93,1
+251,['Mist/Fog'],86,1
+254,['Mist/Fog'],86,1
+257,['Overcast with Haze'],80,1
+259,['Cloudy'],76,1
+273,"['Rain', 'Light Rain']",87,1
+275,['Rain'],93,1
+1080,['Cloudy'],80,1
+1388,"['Partly Cloudy', 'Scattered Clouds', 'Not totally Cloudy']",54,1
+1393,"['Mostly Cloudy', 'Partly', 'Intermittent Clouds', 'Partly Cloudy']",62,1
+1403,"['Cloudy', 'Overcast']",74,1
+1406,"['Cloudy', 'Mostly Cloudy', 'Mainly Cloudy']",71,1
+1411,"['Mostly Cloudy', 'Mainly Cloudy']",79,1
+1416,"['Partly Cloudy', 'Mostly', 'Not totally Cloudy', 'Mostly Sunny']",71,1
+1472,"['Partly Cloudy', 'Cloudy', 'Partly', 'Partly Sunny']",61,1
+1968,['Cloudy'],68,1
+2010,"['Cloudy', 'Overcast']",75,1
+2014,"['Cloudy', 'Overcast']",75,1
+2024,"['Cloudy', 'Overcast']",74,1
+2026,"['Cloudy', 'Overcast']",74,1
+2047,"['Cloudy', 'Overcast']",82,1
+2051,"['Cloudy', 'Overcast']",82,1
+2053,"['Cloudy', 'Overcast']",85,1
+2120,['Cloudy'],81,1
+2611,['Cloudy'],54,1
+2885,['Cloudy'],85,1
+2889,"['Mostly Cloudy', 'Cloudy']",80,1
+2895,"['Partly Cloudy', 'Not totally Cloudy', 'Partly Sunny']",65,1
+2969,"['Clear', 'Fair']",62,1
+2974,"['Sunny', 'Clear']",75,1
+2995,"['Cloudy', 'Overcast']",43,1
+3002,"['Not totally Cloudy', 'Mostly Clear', 'Scattered Clouds', 'Cloudy']",65,1
+3017,['Cloudy'],82,1
+3024,"['Cloudy', 'Mainly Cloudy']",44,1
+3026,"['Mostly Cloudy', 'Cloudy']",41,1
+3291,"['Cloudy', 'Overcast']",78,1
+3296,['Cloudy'],74,1
+3302,['Cloudy'],77,1
+3307,['Cloudy'],74,1
+3314,['Cloudy'],74,1
+3316,['Cloudy'],78,1
+3319,['Cloudy'],78,1
+3324,['Cloudy'],81,1
+3343,['Cloudy'],81,1
+3534,['Cloudy'],82,1
+3547,"['Partly Cloudy', 'Not totally Cloudy', 'Clear']",81,1
+3650,['Cloudy'],75,1
+3659,['Cloudy'],75,1
+3856,"['Mostly Cloudy', 'Cloudy']",59,1
+3951,"['Partly Cloudy', 'Not totally Cloudy', 'Sunny', 'Cloudy', 'Scattered']",55,1
+3954,"['Partly Cloudy', 'Not totally Cloudy', 'Scattered Clouds', 'Mostly Sunny']",55,1
+3980,"['Clear', 'Sunny']",68,1
+3983,"['Sunny', 'Clear']",58,1
+4051,['Cloudy'],75,1
+4280,"['Cloudy', 'Overcast']",89,1
+4306,"['Mostly Cloudy', 'Mainly Cloudy']",70,1
+4584,"['Clear', 'Partly Cloudy', 'Mostly Sunny', 'Sunny']",75,1
+4888,"['Sunny', 'Clear']",59,1
+4899,"['Cloudy', 'Haze', 'Mainly Cloudy', 'Unclear']",82,1
+4900,"['Hazy', 'Haze', 'Partly Cloudy', 'Fair']",82,1
+4934,"['Clear', 'Sunny']",83,1
+4938,"['Haze', 'Hazy Sunshine', 'Sunny', 'Clear']",87,1
+4940,"['Sunny', 'Haze', 'Hazy']",74,1
+4941,"['Sunny', 'Hazy', 'Haze']",63,1
+4942,"['Sunny', 'Clear']",52,1
+4944,"['Clear', 'Haze', 'Mostly Sunny']",46,1
+4993,"['Sunny', 'Clear']",71,1
+5268,['Cloudy'],55,1
+5316,['Cloudy'],57,1
+5440,"['Partly Cloudy', 'Mostly Clear', 'Partly', 'Clear']",47,1
+5446,"['Partly Cloudy', 'Not totally Cloudy']",60,1
+5455,"['Partly Cloudy', 'Not totally Cloudy', 'Partly', 'Partly Sunny']",51,1
+5479,['Cloudy'],67,1
+5485,['Cloudy'],53,1
+5526,"['Partly Cloudy', 'Cloudy', 'Mostly Clear']",64,1
+5527,"['Partly Cloudy', 'Mostly Cloudy', 'Scattered Clouds']",62,1
+5534,"['Cloudy', 'Overcast']",57,1
+5548,"['Light', 'Light Snow', 'Snow']",86,1
+5573,"['Mostly Cloudy', 'Mainly Cloudy']",73,1
+5581,"['Partly Sunny', 'Cloudy', 'Partly Cloudy', 'Sunny']",46,1
+5765,"['Cloudy', 'Overcast']",58,1
+5868,"['Cloudy', 'Overcast']",77,1
+5873,"['Cloudy', 'Overcast']",74,1
+5888,['Clear'],84,1
+5905,"['Clear', 'Sunny']",42,1
+5953,"['Cloudy', 'Overcast']",73,1
+6021,['Cloudy'],62,1
+6866,"['Sunny', 'Clear']",37,1
+6910,['Cloudy'],64,1
+7048,"['Not totally Cloudy', 'Partly Cloudy', 'Partly']",89,1
+7052,"['Partly Sunny', 'Partly Cloudy', 'Cloudy', 'Scattered Clouds']",74,1
+7055,"['Partly Cloudy', 'Mostly Cloudy', 'Not totally Cloudy', 'Scattered Clouds']",58,1
+7126,"['Partly Cloudy', 'Sunny', 'Not totally Cloudy']",43,1
+7131,"['Partly Cloudy', 'Mainly Sunny', 'Mostly Clear']",59,1
+7146,"['Mostly Cloudy', 'Mainly Cloudy', 'Mostly']",56,1
+7150,"['Mostly Cloudy', 'Mainly Cloudy', 'Sunny']",37,1
+7151,"['Mainly Cloudy', 'Mostly Cloudy', 'Intermittent']",35,1
+7152,"['Cloudy', 'Mostly Cloudy']",34,1
+7314,['Cloudy'],64,1
+7449,"['Light Rain', 'Rain', 'Cloudy']",79,1
+7464,"['Cloudy', 'Overcast']",81,1
+7477,['Cloudy'],82,1
+7485,['Cloudy'],93,1
+7497,"['Fog', 'Overcast', 'Mist']",100,1
+7553,"['Cloudy', 'Overcast']",68,1
+8009,"['Mostly Cloudy', 'Mainly Cloudy', 'Intermittent Clouds', 'Cloudy']",77,1
+8100,"['Fog', 'Partly Cloudy', 'Clear', 'Fog And Mist']",86,1
+8104,"['Mostly Cloudy', 'Not totally Cloudy', 'Fog And Mist', 'Mainly Cloudy', 'Intermittent Clouds', 'Partly']",82,1
+8110,"['Not totally Cloudy', 'Partly Cloudy', 'Scattered Clouds', 'Cloudy', 'Mainly Sunny']",62,1
+8111,"['Partly Cloudy', 'Cloudy', 'Mostly Sunny', 'Mostly Cloudy', 'Scattered', 'Scattered Clouds']",67,1
+8123,"['Partly Cloudy', 'Partly', 'Clouds']",77,1
+8135,"['Haze', 'Partly Cloudy', 'Mostly Cloudy']",82,1
+8140,"['Haze', 'Partly Sunny', 'Cloudy']",79,1
+8143,"['Not totally Cloudy', 'Partly Sunny', 'Partly Cloudy']",64,1
+8208,"['Cloudy', 'Haze']",80,1
+8280,"['Cloudy', 'Haze', 'Mainly Cloudy']",77,1
+8649,"['Cloudy', 'Mostly Cloudy']",93,1
+8792,['Cloudy'],80,1
+8969,"['Mostly Cloudy', 'Cloudy', 'Mainly Cloudy']",71,1
+9052,['Cloudy'],79,1
+9066,"['Light Rain', 'Showers']",93,1
+9069,"['Cloudy', 'Light', 'Light Rain']",87,1
+9076,"['Light Rain', 'Rain']",87,1
+9079,"['Cloudy', 'Overcast']",87,1
+9084,"['Cloudy', 'Overcast']",93,1
+9423,"['Sunny', 'Clear']",31,1
+9584,['Mist/Fog'],85,1

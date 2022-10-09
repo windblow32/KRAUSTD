@@ -1,5 +1,6 @@
 package main.java;
 
+import main.java.Embedding.EMBDI.SourceEmbedding.SourceEmbeddingViaWord2Vec;
 import py4j.GatewayServer;
 
 import com.medallia.word2vec.Searcher;
@@ -17,8 +18,12 @@ public class IATD {
     public double p1 = 0.20;
     // distance constrain between source and goldenStandard
     public double p2 = 0.196;
+
     public int entityNum = 20;
+    // source中的实体数
+    public int tupleNum = 150;
     public int exitBound = 0;
+    public int sourceNum = 15;
 
     public static boolean deleteWithPath(String filePath) {
         File file = new File(filePath);
@@ -192,16 +197,23 @@ public class IATD {
         exitBound =0;
         // add dataset
         List<String> fileList = new ArrayList<>();
-        for (int i = 1; i <= 5; i++) {
-            fileList.add("data/iatd/monitor/source/source" + i + ".csv");
+        // i <= sourceNum
+        for (int i = 1; i <= sourceNum; i++) {
+//            fileList.add("data/iatd/monitor/source/source" + i + ".csv");
+            fileList.add("data/new_weather/15_30_9.0/source/source" + i + ".csv");
         }
 //        fileList.add("data/iatd/stockForIATDTruth.CSV");
         // fixme truthPath
-        String truthPath = "data/iatd/monitor/source/monitor-truth-calcScoreUse.CSV";
+        String truthPath = "data/new_weather/15_30_9.0/allTruth.CSV";
         fileList.add(truthPath);
         // train model
         String graphPath = "data/stock100/weightCalcByVex/graph/55SourceStockGraphMin.txt";
         deleteWithPath(graphPath);
+//        SourceEmbeddingViaWord2Vec word2VecService = new SourceEmbeddingViaWord2Vec();
+//
+//        word2VecService.train(sourceList, graphPath, 3,3,length);
+//        String modelPath = "model/Tri/DART/monitor/DART_Connection.model";
+//        DARTModel = word2VecService.trainWithLocalWalks(modelPath);
         NormalizeDistributeSourceTripartiteEmbeddingViaWord2Vec word2VecService = new NormalizeDistributeSourceTripartiteEmbeddingViaWord2Vec();
         // fixme: set parameter, search length, 3 new parameter
         word2VecService.train(fileList, graphPath, 3, 3, length, usenum,AttrDistributeLow,
@@ -228,13 +240,15 @@ public class IATD {
             System.out.println(truthFileName);
             //  fixme : 为每个源的每个entity生成对应的source集合, 100 entity 55source,
             // todo : 内部,分割，entity之间;分割
-            for (int s = 0; s < 5; s++) {
+            // fixme : s < sourceNum
+            for (int s = 0; s < 15; s++) {
                 System.out.print("source_"+s+" list: ");
                 // compare between current and any other source
                 // 100 entity
-                for(int tuple = 0;tuple<20;tuple++){
-
-                    String tupleName = "row_" + tuple + "_s" + 5;
+                // fixme : tuple < sizeof(source)
+                for(int tuple = 0;tuple<150;tuple++){
+                    // fixme : tupleName = "row_" + tuple + "_s" + sourceNum(15)
+                    String tupleName = "row_" + tuple + "_s" + 15;
                     List<String> usefulSourceList = getUsefulSourceSetUsingTupleName(tupleName);
                     for (int t = 0; t < usefulSourceList.size(); t++) {
                         if((1-similarityUseSavedModel(IATDModel,"source_"+s, usefulSourceList.get(t)))>p1){
@@ -276,11 +290,104 @@ public class IATD {
         exitBound = 0;
         // add dataset
         List<String> fileList = new ArrayList<>();
-        for (int i = 1; i <= 5; i++) {
-            fileList.add("data/iatd/monitor/sourceDA/source" + i + ".csv");
+
+        for (int i = 1; i <= sourceNum; i++) {
+//            fileList.add("data/iatd/monitor/sourceDA/source" + i + ".csv");
+            fileList.add("data/new_weather/15_30_9.0/sourceDA/source" + i + ".csv");
+
         }
         // fixme truthPath
-        String truthPath = "data/iatd/monitor/sourceDA/DAtruth.CSV";
+//        String truthPath = "data/iatd/monitor/sourceDA/DAtruth.CSV";
+//        fileList.add(truthPath);
+        // train model
+        String graphPath = "data/stock100/weightCalcByVex/graph/55SourceStockGraphMin.txt";
+        deleteWithPath(graphPath);
+        NormalizeDistributeSourceTripartiteEmbeddingViaWord2Vec word2VecService = new NormalizeDistributeSourceTripartiteEmbeddingViaWord2Vec();
+
+        // fixme: set parameter, search length, 3 new parameter
+        // 新的三分图
+        word2VecService.train(fileList, graphPath, 3, 3, length, usenum,AttrDistributeLow,
+                AttrDistributeHigh,
+                ValueDistributeLow,
+                ValueDistributeHigh,
+                TupleDistributeLow,
+                TupleDistributeHigh,
+                dropSourceEdge,
+                dropSampleEdge,
+                isCBOW,
+                dim,
+                windowSize);
+        // BRM_al
+//        SourceEmbeddingViaWord2Vec word2VecService = new SourceEmbeddingViaWord2Vec();
+//        word2VecService.train(fileList, graphPath, 3, 3, length);
+        String modelPath = "model/Tri/IATD/IATD_Connection.model";
+        IATDModel = word2VecService.trainWithLocalWalks(modelPath);
+
+
+        File f = new File("log/Tri/IATD/sourceList "+p1+"_"+p2+"_"+".txt");
+        try {
+            f.createNewFile();
+            FileOutputStream fos = new FileOutputStream(f);
+            PrintStream ps = new PrintStream(fos);
+            System.setOut(ps);
+            System.out.println("DA"+truthFileName);
+            //  fixme : 为每个源的每个entity生成对应的source集合, 100 entity 55source,
+            // todo : 内部,分割，entity之间;分割
+            for (int s = 0; s < sourceNum; s++) {
+                System.out.print("source_"+s+" list: ");
+                // compare between current and any other source
+                // 5entity
+                // fixme : source中的实体数
+                for(int tuple = 0;tuple<tupleNum;tuple++){
+
+                    String tupleName = "row_" + tuple + "_s" + sourceNum;
+                    List<String> usefulSourceList = getUsefulSourceSetUsingTupleName(tupleName);
+                    for (int t = 0; t < usefulSourceList.size(); t++) {
+                        if((1-similarityUseSavedModel(IATDModel,"source_"+s, usefulSourceList.get(t)))>p1){
+                            // fixme : careful process using python!!!
+                            exitBound++;
+                            System.out.print(t+",");
+                        }
+                    }
+                    System.out.print(";");
+                }
+
+                System.out.print("\n");
+            }
+            ps.close();
+            fos.close();
+            File exitFile = new File("log/Tri/IATD/exitBound.txt");
+            PrintStream e1 = new PrintStream(exitFile);
+            System.setOut(e1);
+            System.out.println(exitBound);
+            e1.close();
+        } catch (IOException e) {
+            e.printStackTrace();
+        }
+        return IATDModel;
+    }
+
+    public Word2VecModel iatdUseDA_camera(int length,int usenum,int AttrDistributeLow,
+                                   int AttrDistributeHigh,
+                                   int ValueDistributeLow,
+                                   int ValueDistributeHigh,
+                                   int TupleDistributeLow,
+                                   int TupleDistributeHigh,
+                                   int dropSourceEdge,
+                                   int dropSampleEdge,
+                                   int isCBOW,
+                                   int dim,
+                                   int windowSize,
+                                   String truthFileName){
+        exitBound = 0;
+        int sourceNum = 6;
+        // add dataset
+        List<String> fileList = new ArrayList<>();
+        for (int i = 1; i <= sourceNum; i++) {
+            fileList.add("data/iatd/camera/sourceDA/source" + i + ".csv");
+        }
+        // fixme truthPath
+        String truthPath = "data/iatd/camera/sourceDA/DAtruth.CSV";
         fileList.add(truthPath);
         // train model
         String graphPath = "data/stock100/weightCalcByVex/graph/55SourceStockGraphMin.txt";
@@ -311,11 +418,95 @@ public class IATD {
             System.out.println("DA"+truthFileName);
             //  fixme : 为每个源的每个entity生成对应的source集合, 100 entity 55source,
             // todo : 内部,分割，entity之间;分割
-            for (int s = 0; s < 5; s++) {
+            for (int s = 0; s < sourceNum; s++) {
                 System.out.print("source_"+s+" list: ");
                 // compare between current and any other source
                 // 5entity
-                for(int tuple = 0;tuple<5;tuple++){
+                for(int tuple = 0;tuple<20;tuple++){
+
+                    String tupleName = "row_" + tuple + "_s" + 5;
+                    List<String> usefulSourceList = getUsefulSourceSetUsingTupleName(tupleName);
+                    for (int t = 0; t < usefulSourceList.size(); t++) {
+                        if((1-similarityUseSavedModel(IATDModel,"source_"+s, usefulSourceList.get(t)))>p1){
+                            // fixme : careful process using python!!!
+                            exitBound++;
+                            System.out.print(t+",");
+                        }
+                    }
+                    System.out.print(";");
+                }
+
+                System.out.print("\n");
+            }
+            ps.close();
+            fos.close();
+            File exitFile = new File("log/Tri/IATD/exitBound.txt");
+            PrintStream e1 = new PrintStream(exitFile);
+            System.setOut(e1);
+            System.out.println(exitBound);
+            e1.close();
+        } catch (IOException e) {
+            e.printStackTrace();
+        }
+        return IATDModel;
+    }
+    public Word2VecModel iatdUseOrigin_camera(int length,int usenum,int AttrDistributeLow,
+                                       int AttrDistributeHigh,
+                                       int ValueDistributeLow,
+                                       int ValueDistributeHigh,
+                                       int TupleDistributeLow,
+                                       int TupleDistributeHigh,
+                                       int dropSourceEdge,
+                                       int dropSampleEdge,
+                                       int isCBOW,
+                                       int dim,
+                                       int windowSize,
+                                       String truthFileName){
+        exitBound =0;
+        int sourceNum = 6;
+        // add dataset
+        List<String> fileList = new ArrayList<>();
+        for (int i = 1; i <= sourceNum; i++) {
+            fileList.add("data/iatd/camera/source/source" + i + ".csv");
+        }
+//        fileList.add("data/iatd/stockForIATDTruth.CSV");
+        // fixme truthPath
+        String truthPath = "data/iatd/camera/camera_truth.csv";
+        fileList.add(truthPath);
+        // train model
+        String graphPath = "data/stock100/weightCalcByVex/graph/55SourceStockGraphMin.txt";
+        deleteWithPath(graphPath);
+        NormalizeDistributeSourceTripartiteEmbeddingViaWord2Vec word2VecService = new NormalizeDistributeSourceTripartiteEmbeddingViaWord2Vec();
+        // fixme: set parameter, search length, 3 new parameter
+        word2VecService.train(fileList, graphPath, 3, 3, length, usenum,AttrDistributeLow,
+                AttrDistributeHigh,
+                ValueDistributeLow,
+                ValueDistributeHigh,
+                TupleDistributeLow,
+                TupleDistributeHigh,
+                dropSourceEdge,
+                dropSampleEdge,
+                isCBOW,
+                dim,
+                windowSize);
+        String modelPath = "model/Tri/IATD/IATD_Connection.model";
+        IATDModel = word2VecService.trainWithLocalWalks(modelPath);
+
+
+        File f = new File("log/Tri/IATD/sourceList "+p1+"_"+p2+"_"+".txt");
+        try {
+            f.createNewFile();
+            FileOutputStream fos = new FileOutputStream(f);
+            PrintStream ps = new PrintStream(fos);
+            System.setOut(ps);
+            System.out.println(truthFileName);
+            //  fixme : 为每个源的每个entity生成对应的source集合, 100 entity 55source,
+            // todo : 内部,分割，entity之间;分割
+            for (int s = 0; s < sourceNum; s++) {
+                System.out.print("source_"+s+" list: ");
+                // compare between current and any other source
+                // 100 entity
+                for(int tuple = 0;tuple<20;tuple++){
 
                     String tupleName = "row_" + tuple + "_s" + 5;
                     List<String> usefulSourceList = getUsefulSourceSetUsingTupleName(tupleName);
@@ -344,6 +535,7 @@ public class IATD {
         return IATDModel;
     }
 
+
     public static void main(String[] args){
         IATD app = new IATD();
         // py4j服务
@@ -354,7 +546,7 @@ public class IATD {
 
     public List<String> getUsefulSourceSetUsingTupleName(String tupleName){
         List<String> result = new ArrayList<>();
-        for (int s = 0; s < 5; s++) {
+        for (int s = 0; s < 15; s++) {
             String currentSource = "source_" + s;
             double sim = similarityUseSavedModel(IATDModel, currentSource, tupleName);
 //            if(sim == 0.0){

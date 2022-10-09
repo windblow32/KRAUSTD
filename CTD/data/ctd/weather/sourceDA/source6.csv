@@ -1,0 +1,1001 @@
+entity,Domain,Conditions,Humidity,day
+2,Austin,Rain,93.75799718,1
+5,Austin,Rain,95.35747527,1
+10,Austin,Rain,106.2080289,1
+13,Austin,Overcast,70.86393165,1
+25,Austin,Mist,76.18758988,1
+31,Austin,Overcast,79.65007754,1
+35,Austin,Overcast,87.68363376,1
+38,Austin,Overcast,90.21169921,1
+39,Austin,Overcast,92.2104433,1
+43,Austin,Mist,100.6707801,1
+50,Austin,Unclear,74.09462551,1
+60,Austin,Overcast,83.98582327,1
+91,Austin,Cloudy,48.14503774,1
+104,Austin,Sunny,63.04739752,1
+112,Austin,Sunny,43.61233144,1
+130,Austin,Overcast,85.94285724,1
+132,Austin,Overcast,87.82738273,1
+145,Austin,Unclear,69.27638185,1
+149,Austin,Light,99.11581269,1
+154,Austin,Mist,98.64695835,1
+156,Austin,Light,93.70622809,1
+167,Austin,Light,88.64807067,1
+174,Austin,Mist;Fog,86.82556585,1
+205,Austin,Mist,94.46213039,1
+209,Austin,Mist,100.8651796,1
+251,Austin,Mist;Fog,93.88008712,1
+254,Austin,Mist;Fog,88.4282313,1
+257,Austin,Overcast Haze,76.62818714,1
+259,Austin,Unclear,73.56611775,1
+273,Austin,Light,97.92946299,1
+275,Austin,Rain,90.7366918,1
+280,Austin,Light,100.126077,1
+302,Austin,Overcast,77.59778874,1
+314,Austin,Mist;Light Rain Fog,96.97509185,1
+315,Austin,Mist;Light Rain Fog,89.75660637,1
+324,Baltimore,Mostly,39.63524221,1
+342,Baltimore,Sunny,48.91175854,1
+376,Baltimore,Clean,41.9175746,1
+382,Baltimore,A Few,55.81253482,1
+398,Baltimore,Overcast,43.94796936,1
+407,Baltimore,Overcast,38.31294677,1
+408,Baltimore,Overcast,38.49203677,1
+428,Baltimore,Snow,85.88595418,1
+441,Baltimore,Snow,73.73015117,1
+462,Baltimore,Sunny,30.56148757,1
+467,Baltimore,Sunny,35.50129077,1
+483,Baltimore,Sunny,65.13451738,1
+496,Baltimore,Mostly,71.37343883,1
+498,Baltimore,Cloudy,59.23999352,1
+517,Baltimore,Partly,55.0290948,1
+528,Baltimore,Cloudy,77.93340057,1
+535,Baltimore,Overcast,83.07349343,1
+552,Baltimore,Mostly,65.98383607,1
+565,Baltimore,Overcast,77.51401619,1
+600,Baltimore,Mist,81.33146297,1
+611,Baltimore,Snow,79.59394659,1
+625,Baltimore,Mist;Fog,78.34647976,1
+646,Boston,Sunny,39.97829122,1
+649,Boston,Sunny,37.57489037,1
+655,Boston,Cloudy,26.6046503,1
+660,Boston,Sunny,35.81839774,1
+669,Boston,Overcast,40.91850454,1
+671,Boston,Overcast,49.62218031,1
+673,Boston,Mostly,45.36849029,1
+676,Boston,Sunny,43.69304264,1
+684,Boston,Partly,34.30201792,1
+692,Boston,Cloudy,31.8641248,1
+731,Boston,Sunny,28.22899768,1
+734,Boston,Sunny,38.74307398,1
+746,Boston,Cloudy,44.1961774,1
+756,Boston,Overcast,36.49517943,1
+768,Boston,Overcast,41.04033093,1
+774,Boston,Cloudy,42.52022891,1
+776,Boston,Cloudy,43.36409486,1
+789,Boston,Overcast,54.66006311,1
+791,Boston,Overcast,58.25924111,1
+798,Boston,Sunny,65.79142974,1
+801,Boston,Sunny,67.23861861,1
+831,Boston,Partly,63.9048612,1
+837,Boston,Cloudy,34.07753567,1
+843,Boston,Overcast,41.73803879,1
+848,Boston,Cloudy,45.31490043,1
+852,Boston,Cloudy,52.32748005,1
+859,Boston,Cloudy,41.46753449,1
+908,Boston,Overcast,72.45929076,1
+961,Charlotte,Sunny,73.41277533,1
+965,Charlotte,Cloudy,66.21710542,1
+997,Charlotte,Mist,74.92854213,1
+1000,Charlotte,Mist,80.85092541,1
+1001,Charlotte,Mostly,77.01264516,1
+1011,Charlotte,Partly,59.71781008,1
+1074,Charlotte,Overcast,82.71193019,1
+1080,Charlotte,Overcast,87.51508651,1
+1083,Charlotte,Cloudy,82.14383506,1
+1084,Charlotte,Partly,81.39548262,1
+1086,Charlotte,Partly,77.60599177,1
+1107,Charlotte,Partly,71.65858993,1
+1113,Charlotte,Sunny,87.45132306,1
+1152,Charlotte,Mostly,65.92745603,1
+1154,Charlotte,Cloudy,68.72903679,1
+1166,Charlotte,Overcast,76.10342609,1
+1183,Charlotte,Drizzle,79.48763777,1
+1224,Charlotte,Mist,82.50118874,1
+1226,Charlotte,Mist,92.22526209,1
+1234,Charlotte,Fog,87.40638593,1
+1237,Charlotte,Fog,80.48954584,1
+1239,Charlotte,Fog,89.72572233,1
+1240,Charlotte,Mist,83.85828777,1
+1286,Chicago,Cloudy,60.8243954,1
+1288,Chicago,Mostly,54.39684155,1
+1294,Chicago,Mostly,49.48819769,1
+1298,Chicago,Mostly,62.06587207,1
+1304,Chicago,Cloudy,53.75889391,1
+1308,Chicago,Partly,63.58950992,1
+1313,Chicago,Overcast,60.27464956,1
+1317,Chicago,Overcast,65.2966041,1
+1318,Chicago,Overcast,60.42882123,1
+1331,Chicago,Unclear,59.76313745,1
+1333,Chicago,A Clouds,61.43697772,1
+1335,Chicago,Clean,65.17972482,1
+1341,Chicago,Cloudy,65.66374274,1
+1342,Chicago,Partly,68.86847154,1
+1343,Chicago,A Clouds,67.59191065,1
+1350,Chicago,Overcast,64.23597558,1
+1365,Chicago,Cloudy,68.54082065,1
+1388,Chicago,Cloudy,54.69671604,1
+1393,Chicago,Partly,67.93362542,1
+1403,Chicago,Overcast,74.04738738,1
+1406,Chicago,Cloudy,73.6368222,1
+1411,Chicago,Mostly,83.9467629,1
+1416,Chicago,Cloudy,74.83211815,1
+1438,Chicago,Unclear,81.35740946,1
+1440,Chicago,Unclear,77.62434802,1
+1450,Chicago,Overcast,68.68497672,1
+1462,Chicago,with Haze,81.19945943,1
+1468,Chicago,Overcast with,73.58626019,1
+1472,Chicago,Partly,60.50119238,1
+1486,Chicago,Snow,94.41478726,1
+1503,Chicago,Unclear,76.9477464,1
+1507,Chicago,with Haze,65.5844597,1
+1546,Chicago,Unclear,72.85934034,1
+1557,Chicago,Unclear,73.56043777,1
+1570,Chicago,Mist;Light Snow Fog,85.8219966,1
+1573,Chicago,Snow,71.63211521,1
+1583,Chicago,Overcast Haze,88.42130585,1
+1588,Chicago,Overcast with,87.07094666,1
+1611,Columbus,Overcast,48.85929113,1
+1614,Columbus,Cloudy,49.8118609,1
+1631,Columbus,Cloudy,75.26007062,1
+1633,Columbus,Cloudy,76.00063886,1
+1641,Columbus,Unclear,72.2249139,1
+1642,Columbus,Cloudy,68.13285232,1
+1646,Columbus,Mostly,51.20119995,1
+1651,Columbus,Cloudy,41.33949975,1
+1686,Columbus,Overcast,48.51325676,1
+1696,Columbus,Overcast,54.3917693,1
+1703,Columbus,Overcast,61.42336783,1
+1717,Columbus,Partly,54.6487594,1
+1723,Columbus,Cloudy,79.16448827,1
+1740,Columbus,Partly,48.8316426,1
+1745,Columbus,Sunny,44.41540218,1
+1752,Columbus,Overcast,75.75352458,1
+1753,Columbus,Overcast,72.26124768,1
+1754,Columbus,Unclear,76.88743276,1
+1800,Columbus,Overcast,68.99839444,1
+1871,Columbus,Snow,76.01589624,1
+1874,Columbus,Snow,73.50203728,1
+1926,Dallas,Rain,97.04170071,1
+1940,Dallas,Sunny,54.0807871,1
+1959,Dallas,Cloudy,94.14834349,1
+1961,Dallas,Cloudy,70.36915314,1
+1963,Dallas,Overcast,59.65693846,1
+1968,Dallas,Overcast,48.91242341,1
+1985,Dallas,Mist;Fog,92.35575171,1
+1995,Dallas,Overcast with,72.89340125,1
+1999,Dallas,Overcast,71.18882413,1
+2010,Dallas,Overcast,82.84758674,1
+2014,Dallas,Overcast,82.07040675,1
+2024,Dallas,Overcast,69.68465312,1
+2026,Dallas,Overcast,70.92886253,1
+2047,Dallas,Overcast,77.46098294,1
+2051,Dallas,Overcast,81.27784672,1
+2053,Dallas,Overcast,79.56512405,1
+2073,Dallas,Overcast,78.71216677,1
+2079,Dallas,Light,92.1093845,1
+2091,Dallas,Mist;Fog,87.26166775,1
+2108,Dallas,Mist;Light Rain Fog,100.3749908,1
+2110,Dallas,Overcast,80.84537979,1
+2111,Dallas,Rain,87.94864924,1
+2112,Dallas,Overcast,93.19495832,1
+2115,Dallas,Overcast,64.35052571,1
+2120,Dallas,Overcast,105.3239935,1
+2121,Dallas,Overcast,99.68055653,1
+2152,Dallas,Overcast Haze,78.492912,1
+2161,Dallas,Overcast with,88.44655158,1
+2175,Dallas,Cloudy,57.79247569,1
+2176,Dallas,Mostly,55.31623516,1
+2180,Dallas,Sunny,61.84246738,1
+2211,Dallas,Cloudy,63.35113302,1
+2220,Dallas,Overcast,83.65129435,1
+2223,Dallas,Mostly,83.62842534,1
+2226,Dallas,Overcast,85.68121215,1
+2247,Denver,Fog,87.98543968,1
+2268,Denver,Cloudy,63.27343578,1
+2272,Denver,Partly,75.44543243,1
+2273,Denver,Mist,60.10407749,1
+2281,Denver,Cloudy,42.60686662,1
+2305,Denver,Mist;Fog,85.97356854,1
+2309,Denver,Few Clouds,71.84398912,1
+2318,Denver,A Few,25.38426759,1
+2320,Denver,Few Clouds,25.01283549,1
+2323,Denver,Cloudy,23.03807742,1
+2328,Denver,Cloudy,30.23148257,1
+2332,Denver,Cloudy,49.19798461,1
+2350,Denver,Partly,29.12528845,1
+2355,Denver,Cloudy,30.6541879,1
+2358,Denver,Cloudy,50.44014025,1
+2365,Denver,Partly,51.72404093,1
+2396,Denver,Overcast,42.24586107,1
+2402,Denver,Overcast,64.55307061,1
+2417,Denver,Overcast,60.67206692,1
+2423,Denver,Overcast,82.54369273,1
+2442,Denver,Cloudy,41.36741194,1
+2445,Denver,Sunny,52.93869466,1
+2447,Denver,Sunny,47.37977189,1
+2451,Denver,Partly,52.03559102,1
+2457,Denver,Partly,34.1154653,1
+2479,Denver,Clean,73.18890345,1
+2500,Denver,Mostly,35.70670086,1
+2535,Denver,Mostly,56.47052724,1
+2543,Denver,Partly,47.63780588,1
+2548,Denver,Partly,39.2248554,1
+2549,Denver,Cloudy,35.48482126,1
+2552,Denver,Partly,26.97031146,1
+2558,Denver,Mostly,27.73096371,1
+2580,Detroit,Sunny,49.30517869,1
+2589,Detroit,Sunny,74.45981488,1
+2605,Detroit,Overcast,47.09280243,1
+2611,Detroit,Overcast,55.66444809,1
+2625,Detroit,Clean,74.77221354,1
+2631,Detroit,Clean,78.05040523,1
+2648,Detroit,Sunny,50.74456361,1
+2649,Detroit,Sunny,55.90092459,1
+2650,Detroit,Sunny,59.19698257,1
+2672,Detroit,Cloudy,57.46900311,1
+2685,Detroit,Sunny,76.37404856,1
+2687,Detroit,Sunny,73.71985888,1
+2691,Detroit,Sunny,79.15542514,1
+2692,Detroit,Overcast,89.55041529,1
+2710,Detroit,Overcast,70.60550091,1
+2712,Detroit,Sunny,77.4633678,1
+2713,Detroit,Partly,80.45036163,1
+2743,Detroit,Clean,85.04407168,1
+2746,Detroit,Clean,81.46676899,1
+2755,Detroit,Overcast,74.89506091,1
+2763,Detroit,Overcast,72.05227561,1
+2777,Detroit,Overcast,87.06353186,1
+2780,Detroit,Unclear,81.238573,1
+2798,Detroit,Overcast,81.24529836,1
+2806,Detroit,Mist;Fog,84.62995945,1
+2825,Detroit,Mist,84.63634865,1
+2827,Detroit,Snow,90.66819307,1
+2831,Detroit,Mist,79.69901858,1
+2832,Detroit,Mist,92.78657762,1
+2843,Detroit,Partly,67.38201576,1
+2845,Detroit,Overcast,65.39164088,1
+2858,Detroit,Mist;Light Snow Fog,84.7123239,1
+2861,Detroit,Mist;Fog,86.77619702,1
+2877,Detroit,Overcast,72.2665486,1
+2881,El Paso,Snow,84.50051552,1
+2885,El Paso,Overcast,94.4099485,1
+2889,El Paso,Cloudy,87.06904063,1
+2895,El Paso,Partly,60.01753775,1
+2916,El Paso,Mostly,71.32395412,1
+2918,El Paso,Mostly,75.6871831,1
+2936,El Paso,Cloudy,53.30717366,1
+2951,El Paso,Mostly,85.329344,1
+2955,El Paso,Mostly,75.0319213,1
+2962,El Paso,Partly,41.63079696,1
+2963,El Paso,Cloudy,33.00592918,1
+2969,El Paso,Sunny,57.25153262,1
+2974,El Paso,Sunny,79.82291335,1
+2995,El Paso,Overcast,46.6073886,1
+3002,El Paso,Cloudy,72.2455956,1
+3017,El Paso,Overcast,77.48587366,1
+3024,El Paso,Mostly,44.70479763,1
+3026,El Paso,Mostly,44.95186702,1
+3040,El Paso,Light,83.89520902,1
+3050,El Paso,Overcast,85.43471436,1
+3060,El Paso,Overcast,102.1871865,1
+3076,El Paso,Cloudy,31.74582709,1
+3081,El Paso,Mostly,43.43751047,1
+3086,El Paso,Mostly,71.7952698,1
+3111,El Paso,Overcast,49.46323134,1
+3120,El Paso,Cloudy,64.67128641,1
+3135,El Paso,Cloudy,27.86511792,1
+3136,El Paso,Mostly,27.25666959,1
+3162,El Paso,Rain,84.04713611,1
+3167,El Paso,Heavy,93.45674139,1
+3176,El Paso,Overcast,61.33185486,1
+3181,El Paso,Overcast,76.67064673,1
+3186,El Paso,Light,80.63217862,1
+3194,El Paso,Light,81.64632071,1
+3202,Fort Worth,Rain,86.72900122,1
+3209,Fort Worth,Light,78.63571341,1
+3225,Fort Worth,Sunny,86.78468199,1
+3245,Fort Worth,Unclear,79.4311299,1
+3251,Fort Worth,Overcast,76.78929149,1
+3259,Fort Worth,Mist;Fog,83.81212376,1
+3260,Fort Worth,Mist;Fog,85.49038667,1
+3262,Fort Worth,Mist;Fog,80.86573187,1
+3263,Fort Worth,Mist;Fog,100.8891929,1
+3265,Fort Worth,Mist;Fog,79.33059048,1
+3270,Fort Worth,Mist;Fog,95.38853714,1
+3291,Fort Worth,Overcast,74.77739447,1
+3296,Fort Worth,Overcast,68.83664416,1
+3302,Fort Worth,Overcast,67.04896099,1
+3307,Fort Worth,Overcast,62.80541124,1
+3314,Fort Worth,Overcast,69.59908046,1
+3316,Fort Worth,Overcast,69.83959204,1
+3319,Fort Worth,Overcast,70.99158927,1
+3324,Fort Worth,Overcast,78.2080231,1
+3343,Fort Worth,Overcast,74.48612395,1
+3351,Fort Worth,Rain,79.57247585,1
+3358,Fort Worth,Overcast,81.91735067,1
+3361,Fort Worth,Rain,86.09450423,1
+3373,Fort Worth,Light,91.07529365,1
+3387,Fort Worth,Rain,88.95885466,1
+3398,Fort Worth,Overcast,82.5492892,1
+3399,Fort Worth,Overcast,78.8672387,1
+3418,Fort Worth,Overcast,61.29489233,1
+3424,Fort Worth,Cloudy,61.94198393,1
+3433,Fort Worth,Overcast,73.56575942,1
+3435,Fort Worth,Overcast,83.01112551,1
+3453,Fort Worth,Mostly,74.59551617,1
+3461,Fort Worth,Partly,56.2094411,1
+3462,Fort Worth,Sunny,64.80429506,1
+3478,Fort Worth,Mostly,95.62457828,1
+3483,Fort Worth,Overcast,65.53829886,1
+3484,Fort Worth,Light,75.33022204,1
+3503,Fort Worth,Clean,92.28595053,1
+3511,Fort Worth,Clean,74.43564101,1
+3512,Fort Worth,Clean,79.52345381,1
+3513,Fort Worth,Clean,71.03070949,1
+3534,Houston,Overcast,91.2501678,1
+3544,Houston,Cloudy,73.10054682,1
+3546,Houston,Cloudy,75.94547673,1
+3547,Houston,Sunny,77.07629237,1
+3549,Houston,Partly,85.64722384,1
+3568,Houston,Light,95.78698566,1
+3571,Houston,Sunny,90.36352318,1
+3584,Houston,Mostly,82.37538421,1
+3608,Houston,Overcast,79.58973582,1
+3623,Houston,Overcast,79.89621533,1
+3625,Houston,Overcast,72.93736111,1
+3627,Houston,Overcast,75.45563224,1
+3632,Houston,Mostly,64.27538743,1
+3634,Houston,Mostly,73.11517109,1
+3641,Houston,Overcast,72.3251468,1
+3643,Houston,Overcast,72.66472135,1
+3645,Houston,Overcast,87.52413147,1
+3650,Houston,Overcast,85.71983069,1
+3659,Houston,Overcast,76.88157116,1
+3666,Houston,Overcast,71.60273676,1
+3667,Houston,Rain,85.85512362,1
+3674,Houston,Rain,99.00319623,1
+3681,Houston,Light,97.06858736,1
+3693,Houston,Mist;Rain Fog,79.27963354,1
+3705,Houston,Overcast,101.1644319,1
+3719,Houston,Mist,105.281429,1
+3725,Houston,Mist,95.33934747,1
+3727,Houston,Mist,93.98025936,1
+3733,Houston,Rain,105.030838,1
+3764,Houston,Mist;Fog,84.90042236,1
+3771,Houston,Light,73.48954946,1
+3773,Houston,Overcast,76.61618802,1
+3775,Houston,Overcast,75.11377109,1
+3784,Houston,Overcast,77.58837432,1
+3793,Houston,Cloudy,92.45037728,1
+3794,Houston,Overcast,81.51238013,1
+3795,Houston,Overcast,80.51928966,1
+3796,Houston,Rain,84.27418765,1
+3819,Houston,Cloudy,81.03820183,1
+3839,Houston,Overcast,72.83924216,1
+3856,Indianapolis,Mostly,67.48904101,1
+3860,Indianapolis,Cloudy,59.88667818,1
+3871,Indianapolis,Overcast,65.0098546,1
+3874,Indianapolis,Overcast,68.95079304,1
+3886,Indianapolis,Cloudy,46.6775238,1
+3901,Indianapolis,A Few,68.78324178,1
+3922,Indianapolis,Mostly,37.1142916,1
+3951,Indianapolis,Cloudy,49.5232217,1
+3954,Indianapolis,Partly,58.21703204,1
+3961,Indianapolis,Cloudy,80.15114904,1
+3980,Indianapolis,Sunny,60.27664716,1
+3983,Indianapolis,Sunny,51.9087567,1
+4002,Indianapolis,Overcast,88.44411718,1
+4012,Indianapolis,Clean,71.00849706,1
+4027,Indianapolis,Mist;Fog,75.6417552,1
+4031,Indianapolis,Partly,70.1277154,1
+4034,Indianapolis,Mostly,51.57004987,1
+4036,Indianapolis,Cloudy,52.21702069,1
+4051,Indianapolis,Overcast,73.25320586,1
+4063,Indianapolis,Overcast,58.1327517,1
+4072,Indianapolis,Overcast,51.88627669,1
+4090,Indianapolis,Overcast,50.76531158,1
+4094,Indianapolis,Overcast,64.46785355,1
+4096,Indianapolis,Overcast,62.97722755,1
+4108,Indianapolis,Overcast,79.4547428,1
+4111,Indianapolis,Snow,94.13902682,1
+4121,Indianapolis,Snow,79.9203689,1
+4136,Indianapolis,Overcast,74.3442537,1
+4149,Indianapolis,Overcast Haze,83.18116098,1
+4150,Indianapolis,Overcast Haze,73.09175092,1
+4153,Indianapolis,with Haze,80.78385022,1
+4178,Jacksonville,Overcast,54.2361622,1
+4182,Jacksonville,Overcast,80.24373098,1
+4186,Jacksonville,Bkh,78.53620778,1
+4193,Jacksonville,Bkh,88.3821654,1
+4199,Jacksonville,Bkh,87.36772123,1
+4205,Jacksonville,Overcast,75.39281301,1
+4212,Jacksonville,Cloudy,74.70166809,1
+4219,Jacksonville,Mostly,77.55260309,1
+4227,Jacksonville,Cloudy,86.5078189,1
+4231,Jacksonville,Overcast,76.1829733,1
+4244,Jacksonville,Overcast,78.76784063,1
+4259,Jacksonville,Overcast,99.51718701,1
+4280,Jacksonville,Bkh,79.68414683,1
+4292,Jacksonville,Overcast,84.63229358,1
+4306,Jacksonville,Bkh,72.04382675,1
+4318,Jacksonville,Cloudy,88.159234,1
+4323,Jacksonville,Overcast,88.60550943,1
+4334,Jacksonville,Mostly,82.9847728,1
+4337,Jacksonville,Cloudy,94.00372743,1
+4341,Jacksonville,Overcast,80.13284797,1
+4343,Jacksonville,Overcast,93.37124482,1
+4359,Jacksonville,Overcast,80.83717199,1
+4372,Jacksonville,Overcast,99.36472496,1
+4377,Jacksonville,Overcast,92.73976247,1
+4389,Jacksonville,Overcast,78.88039705,1
+4399,Jacksonville,Mist;Light Rain Fog,102.105754,1
+4430,Jacksonville,Overcast,77.24536193,1
+4442,Jacksonville,Few,58.90153552,1
+4444,Jacksonville,Few,66.42559759,1
+4460,Jacksonville,Overcast,73.13523148,1
+4462,Jacksonville,Overcast,75.90039181,1
+4479,Jacksonville,Mostly,68.60637398,1
+4482,Las Vegas,Partly,68.64442367,1
+4484,Las Vegas,Cloudy,83.56852266,1
+4486,Las Vegas,Mostly,78.32346163,1
+4488,Las Vegas,Cloudy,82.16209951,1
+4500,Las Vegas,Cloudy,29.89665753,1
+4501,Las Vegas,Cloudy,38.05666124,1
+4543,Las Vegas,Cloudy,31.55924238,1
+4554,Las Vegas,Few Clouds,75.9555688,1
+4569,Las Vegas,Cloudy,64.89354416,1
+4571,Las Vegas,Cloudy,71.60812262,1
+4576,Las Vegas,Mostly,68.17914646,1
+4584,Las Vegas,Cloudy,92.87055328,1
+4629,Las Vegas,Cloudy,32.33286012,1
+4632,Las Vegas,Partly,51.40449286,1
+4634,Las Vegas,Sunny,57.98883366,1
+4637,Las Vegas,Sunny,67.32417744,1
+4645,Las Vegas,Partly,78.17833951,1
+4646,Las Vegas,Partly,70.0964844,1
+4666,Las Vegas,A Few,58.41872676,1
+4668,Las Vegas,Few Clouds,66.36657984,1
+4672,Las Vegas,Cloudy,57.34507076,1
+4680,Las Vegas,Cloudy,51.08985759,1
+4694,Las Vegas,Mostly,86.38184675,1
+4697,Las Vegas,Cloudy,69.44956889,1
+4698,Las Vegas,Mostly,50.63262347,1
+4701,Las Vegas,Mostly,33.10993025,1
+4703,Las Vegas,Mostly,36.48292691,1
+4717,Las Vegas,Mostly,54.01631334,1
+4726,Las Vegas,Cloudy,62.44673549,1
+4727,Las Vegas,Cloudy,62.99159816,1
+4739,Las Vegas,Cloudy,34.02450941,1
+4758,Las Vegas,Cloudy,87.99276427,1
+4764,Las Vegas,Partly,37.60947008,1
+4767,Las Vegas,Mostly,32.49409293,1
+4770,Las Vegas,Cloudy,36.62230019,1
+4774,Las Vegas,Cloudy,51.29091024,1
+4776,Las Vegas,Cloudy,51.87595262,1
+4800,Los Angeles,Sunny,72.96745935,1
+4810,Los Angeles,Sunny,54.33631424,1
+4811,Los Angeles,Sunny,62.73007632,1
+4815,Los Angeles,Sunny,35.1005519,1
+4832,Los Angeles,Sunny,69.30519929,1
+4850,Los Angeles,Unclear,50.46915409,1
+4852,Los Angeles,Clean,52.47105046,1
+4854,Los Angeles,Clean,52.26139776,1
+4857,Los Angeles,Clean,58.93560065,1
+4858,Los Angeles,Clean,52.44641806,1
+4866,Los Angeles,Clean,81.77110094,1
+4868,Los Angeles,Haze,78.55377683,1
+4870,Los Angeles,Haze,80.20455253,1
+4883,Los Angeles,Haze,44.71059922,1
+4888,Los Angeles,Sunny,53.59608204,1
+4899,Los Angeles,Unclear,85.76285738,1
+4900,Los Angeles,Unclear,83.87325626,1
+4934,Los Angeles,Sunny,93.55891799,1
+4938,Los Angeles,Unclear,85.60122433,1
+4940,Los Angeles,Unclear,68.81109818,1
+4941,Los Angeles,Unclear,63.47333645,1
+4942,Los Angeles,Sunny,51.53986141,1
+4944,Los Angeles,Sunny,44.03468044,1
+4955,Los Angeles,Sunny,75.95952304,1
+4971,Los Angeles,Clean,51.52707513,1
+4981,Los Angeles,Overcast,78.83179016,1
+4993,Los Angeles,Sunny,63.71824948,1
+4997,Los Angeles,Sunny,61.98026695,1
+5014,Los Angeles,Unclear,85.02049278,1
+5024,Los Angeles,Unclear,65.38689589,1
+5036,Los Angeles,Haze,79.84202828,1
+5038,Los Angeles,Fog,82.68671637,1
+5045,Los Angeles,Haze,77.22870475,1
+5046,Los Angeles,Haze,78.79768105,1
+5050,Los Angeles,Haze,70.74483496,1
+5060,Los Angeles,Sunny,54.24902692,1
+5075,Los Angeles,Sunny,86.51714604,1
+5076,Los Angeles,Sunny,75.90196567,1
+5092,Los Angeles,Clean,65.83423765,1
+5115,Los Angeles,Clean,42.18440942,1
+5118,Los Angeles,Clean,43.80744042,1
+5121,Memphis,Overcast,59.01481719,1
+5132,Memphis,Rain,91.64823089,1
+5143,Memphis,Cloudy,79.43849978,1
+5153,Memphis,Mostly,78.50600289,1
+5170,Memphis,Overcast,51.26904696,1
+5185,Memphis,Mostly,83.61727242,1
+5207,Memphis,Freezing,89.01740511,1
+5209,Memphis,Rain,88.30287771,1
+5210,Memphis,Freezing,88.07971266,1
+5213,Memphis,Freezing,93.11422941,1
+5214,Memphis,Freezing,101.9492462,1
+5215,Memphis,Freezing,90.4801122,1
+5229,Memphis,Overcast,84.00146888,1
+5248,Memphis,Sunny,84.29609146,1
+5263,Memphis,Cloudy,63.25369377,1
+5268,Memphis,Overcast,54.15382497,1
+5269,Memphis,Overcast,53.63198578,1
+5275,Memphis,Overcast,68.57967542,1
+5280,Memphis,Overcast,62.6786758,1
+5289,Memphis,Overcast,53.62402195,1
+5296,Memphis,Overcast,62.96301982,1
+5309,Memphis,Light,67.27939806,1
+5312,Memphis,Overcast,71.94471526,1
+5316,Memphis,Overcast,52.14449811,1
+5318,Memphis,Overcast,68.23598694,1
+5346,Memphis,Overcast,58.45316462,1
+5352,Memphis,Overcast,75.27760121,1
+5355,Memphis,Overcast,81.17703978,1
+5378,Memphis,Overcast,63.1053291,1
+5381,Memphis,Mostly,67.38918014,1
+5385,Memphis,Sunny,73.48402976,1
+5388,Memphis,Sunny,71.95786151,1
+5393,Memphis,Sunny,88.21335386,1
+5400,Memphis,Mostly,74.32422027,1
+5409,Memphis,Overcast,65.50393412,1
+5413,Memphis,Clean,72.1864496,1
+5418,Memphis,Clean,76.8393642,1
+5419,Memphis,Clean,84.55031998,1
+5432,Memphis,Cloudy,58.64382706,1
+5439,Memphis,Overcast,46.27591832,1
+5440,Milwaukee,Partly,45.78585599,1
+5446,Milwaukee,Partly,56.92213053,1
+5455,Milwaukee,Cloudy,48.34114917,1
+5460,Milwaukee,Mostly,44.46316366,1
+5470,Milwaukee,Cloudy,57.60083249,1
+5479,Milwaukee,Overcast,63.02496574,1
+5480,Milwaukee,Overcast,56.37176824,1
+5485,Milwaukee,Overcast,48.85387334,1
+5491,Milwaukee,Mostly,50.96135342,1
+5504,Milwaukee,Clean,64.55551574,1
+5506,Milwaukee,Clean,64.19462998,1
+5507,Milwaukee,Few Clouds,69.99791879,1
+5510,Milwaukee,Partly,60.86896393,1
+5513,Milwaukee,Overcast,66.71081201,1
+5516,Milwaukee,with Haze,66.62458241,1
+5517,Milwaukee,Overcast,59.45419935,1
+5518,Milwaukee,Overcast,53.3722654,1
+5522,Milwaukee,Overcast,52.13700582,1
+5526,Milwaukee,Partly,62.21542235,1
+5527,Milwaukee,Partly,67.30194353,1
+5534,Milwaukee,Overcast,51.74309796,1
+5548,Milwaukee,Snow,82.4022413,1
+5573,Milwaukee,Cloudy,68.74471958,1
+5581,Milwaukee,Partly,43.32224739,1
+5614,Milwaukee,A Few,74.15252774,1
+5617,Milwaukee,Mist;Fog,82.66787161,1
+5619,Milwaukee,with Haze,85.19735586,1
+5620,Milwaukee,Mist;Fog,77.81598149,1
+5632,Milwaukee,Partly,54.81081648,1
+5636,Milwaukee,Overcast,63.4407801,1
+5643,Milwaukee,Snow,88.59355574,1
+5656,Milwaukee,Snow,82.10628805,1
+5681,Milwaukee,Light,85.2153162,1
+5683,Milwaukee,Light,97.6854222,1
+5700,Milwaukee,Snow,81.80865635,1
+5709,Milwaukee,Unclear,89.78549403,1
+5721,Milwaukee,Unclear,60.8310468,1
+5723,Milwaukee,Mostly,59.27728259,1
+5726,Milwaukee,Partly,49.63123373,1
+5727,Milwaukee,Cloudy,64.41961525,1
+5751,Milwaukee,Overcast with,80.89766254,1
+5765,Nashville,Overcast,59.50367188,1
+5768,Nashville,Snow,59.42408029,1
+5786,Nashville,Cloudy,90.40864602,1
+5791,Nashville,Fog,100.3098251,1
+5792,Nashville,Fog,100.9823309,1
+5807,Nashville,Mostly,49.95086316,1
+5808,Nashville,Mostly,49.18889559,1
+5855,Nashville,Mist,87.01753568,1
+5858,Nashville,Snow,77.65298163,1
+5868,Nashville,Overcast,69.91145549,1
+5873,Nashville,Overcast,71.98622086,1
+5888,Nashville,Sunny,71.83037927,1
+5905,Nashville,Sunny,45.88509403,1
+5907,Nashville,Cloudy,50.09545695,1
+5916,Nashville,Mostly,68.69884459,1
+5928,Nashville,Overcast,74.31288315,1
+5933,Nashville,Clean,70.54134205,1
+5946,Nashville,Overcast,81.9028584,1
+5953,Nashville,Overcast,78.40230798,1
+5956,Nashville,Overcast,72.4428145,1
+5960,Nashville,Overcast,80.19079793,1
+5970,Nashville,Mist,83.85988426,1
+5971,Nashville,Mist,87.79533304,1
+5974,Nashville,Drizzle,94.58558766,1
+5975,Nashville,Drizzle,103.9033009,1
+5978,Nashville,Fog,102.178849,1
+5984,Nashville,Cloudy,51.7199605,1
+5988,Nashville,Overcast,74.55176978,1
+5998,Nashville,Mist;Light Rain Fog,96.83039832,1
+6011,Nashville,Mist;Fog,94.57476094,1
+6018,Nashville,Overcast,51.4967261,1
+6021,Nashville,Overcast,61.0173099,1
+6026,Nashville,Overcast,72.05745494,1
+6029,Nashville,Overcast,61.21029604,1
+6038,Nashville,Overcast,59.34606726,1
+6063,Nashville,Overcast,71.22736969,1
+6068,Nashville,Overcast,69.46927558,1
+6075,Nashville,A Clouds,52.51318157,1
+6118,New York,Sunny,46.83384058,1
+6157,New York,Clean,40.10744294,1
+6188,New York,Partly,38.64532443,1
+6192,New York,Mostly,39.93571579,1
+6196,New York,Overcast,45.5853896,1
+6197,New York,Overcast,47.91070959,1
+6215,New York,Sunny,47.41722219,1
+6220,New York,Sunny,35.69004516,1
+6223,New York,Sunny,32.72907072,1
+6236,New York,Sunny,66.55415477,1
+6238,New York,Sunny,64.97273779,1
+6250,New York,Overcast,59.71404071,1
+6260,New York,Clean,63.84184291,1
+6274,New York,Sunny,36.42010037,1
+6289,New York,Sunny,55.47287186,1
+6298,New York,Mostly,40.64387867,1
+6307,New York,Cloudy,41.46589506,1
+6313,New York,Clean,45.54444905,1
+6319,New York,Clean,51.69342039,1
+6326,New York,Cloudy,45.57673921,1
+6332,New York,Cloudy,39.44252522,1
+6337,New York,Mostly,50.71092156,1
+6344,New York,Snow,84.18652997,1
+6350,New York,Snow,97.35061835,1
+6364,New York,Cloudy,68.96311699,1
+6368,New York,Overcast,57.36472568,1
+6369,New York,Overcast,61.52157819,1
+6377,New York,Mist;Light Snow Fog,90.20838393,1
+6392,New York,Mostly,83.22544236,1
+6393,New York,Cloudy,67.70516424,1
+6410,Oklahoma City,Snow,81.42184188,1
+6412,Oklahoma City,Snow,83.7687651,1
+6418,Oklahoma City,Mist,84.0995811,1
+6425,Oklahoma City,Mist,81.28100947,1
+6506,Oklahoma City,Unclear,61.95780703,1
+6507,Oklahoma City,Unclear,51.27548761,1
+6514,Oklahoma City,Overcast,65.57644767,1
+6518,Oklahoma City,Mist,75.89959,1
+6521,Oklahoma City,Mist,69.61803927,1
+6559,Oklahoma City,Light,94.89121373,1
+6560,Oklahoma City,Light,104.1482223,1
+6561,Oklahoma City,Light,92.26666768,1
+6593,Oklahoma City,Overcast,53.09653567,1
+6667,Oklahoma City,Fog,92.57469627,1
+6668,Oklahoma City,Mist,85.57873489,1
+6724,Philadelphia,Sunny,41.78141704,1
+6728,Philadelphia,Cloudy,41.48509502,1
+6751,Philadelphia,Sunny,44.95927993,1
+6775,Philadelphia,Clean,54.96065398,1
+6781,Philadelphia,Clean,69.296695,1
+6790,Philadelphia,A Few,46.90402821,1
+6791,Philadelphia,A Clouds,49.21114627,1
+6792,Philadelphia,A Clouds,45.11592193,1
+6793,Philadelphia,A Few,41.02048305,1
+6817,Philadelphia,Overcast,44.20742812,1
+6824,Philadelphia,Overcast,44.59253647,1
+6833,Philadelphia,Snow,75.62167616,1
+6841,Philadelphia,Overcast,53.8926058,1
+6850,Philadelphia,Cloudy,54.93581665,1
+6866,Philadelphia,Sunny,39.33596246,1
+6892,Philadelphia,Mostly,64.05162502,1
+6895,Philadelphia,Cloudy,54.47400568,1
+6897,Philadelphia,Overcast,66.76037388,1
+6902,Philadelphia,Partly,44.21070221,1
+6910,Philadelphia,Overcast,65.95342749,1
+6914,Philadelphia,Cloudy,37.76323247,1
+6929,Philadelphia,Cloudy,65.67545487,1
+6932,Philadelphia,Cloudy,70.32291975,1
+6943,Philadelphia,Overcast,40.66818633,1
+6945,Philadelphia,Overcast,52.54573335,1
+6953,Philadelphia,Partly,71.04522989,1
+6955,Philadelphia,Cloudy,62.47878433,1
+6958,Philadelphia,Cloudy,68.5906465,1
+6968,Philadelphia,Overcast,48.66551835,1
+6970,Philadelphia,Overcast,42.23518311,1
+6974,Philadelphia,Overcast,41.49619241,1
+6986,Philadelphia,Snow,88.28990755,1
+6987,Philadelphia,Snow,101.1724132,1
+6993,Philadelphia,Snow,100.1494097,1
+7003,Philadelphia,Partly,64.07903974,1
+7004,Philadelphia,Partly,68.83505786,1
+7029,Philadelphia,Mist;Fog,82.04451577,1
+7037,Philadelphia,Mostly,59.59662498,1
+7048,Phoenix,Sunny,81.72399673,1
+7052,Phoenix,Few,68.55064691,1
+7055,Phoenix,Bkh,52.08416846,1
+7063,Phoenix,Sunny,52.76434815,1
+7076,Phoenix,Sunny,75.50767803,1
+7079,Phoenix,Sunny,77.63074236,1
+7081,Phoenix,Sunny,72.27125639,1
+7091,Phoenix,Sunny,40.10298636,1
+7095,Phoenix,Clean,40.27542834,1
+7112,Phoenix,A Few,78.18492854,1
+7113,Phoenix,Cloudy,68.67459504,1
+7121,Phoenix,Mostly,46.48052041,1
+7126,Phoenix,Few,42.68097099,1
+7131,Phoenix,Sunny,60.75292883,1
+7146,Phoenix,Sunny,49.73135231,1
+7150,Phoenix,Sunny,37.96582878,1
+7151,Phoenix,Sunny,37.73597591,1
+7152,Phoenix,Sunny,34.48722628,1
+7170,Phoenix,Sunny,67.15416655,1
+7176,Phoenix,Sunny,63.37191158,1
+7179,Phoenix,Sunny,55.06806296,1
+7182,Phoenix,Sunny,40.91627055,1
+7183,Phoenix,Sunny,36.34239451,1
+7192,Phoenix,Light,76.4421023,1
+7197,Phoenix,Sunny,70.28959392,1
+7202,Phoenix,Sunny,85.21645671,1
+7217,Phoenix,Mostly,61.06405711,1
+7219,Phoenix,A Clouds,67.51931343,1
+7220,Phoenix,Few Clouds,74.50402547,1
+7237,Phoenix,Sunny,43.50115566,1
+7241,Phoenix,Sunny,58.79362811,1
+7276,Phoenix,Cloudy,50.65064245,1
+7277,Phoenix,Overcast,54.32933396,1
+7291,Phoenix,Cloudy,36.6364659,1
+7300,Phoenix,Sunny,41.73614076,1
+7309,Phoenix,Bkh,54.72568665,1
+7310,Phoenix,Bkh,54.16594687,1
+7314,Phoenix,Few,48.60647519,1
+7316,Phoenix,Cloudy,49.03139619,1
+7327,Phoenix,Sunny,33.33736583,1
+7328,Phoenix,Sunny,34.42134269,1
+7336,Phoenix,Cloudy,66.73099233,1
+7346,Phoenix,Overcast,67.88090154,1
+7375,Portland,Overcast,67.51505795,1
+7380,Portland,Mostly,65.18687475,1
+7387,Portland,Partly,73.69629225,1
+7393,Portland,Partly,84.6526418,1
+7413,Portland,Cloudy,81.20349287,1
+7416,Portland,Mostly,75.58317868,1
+7422,Portland,Mostly,77.57914228,1
+7427,Portland,Fog,109.255617,1
+7428,Portland,Fog,90.9233959,1
+7441,Portland,Rain,91.87992569,1
+7449,Portland,Light,75.0215666,1
+7464,Portland,Overcast,78.91153674,1
+7477,Portland,Overcast,80.03501796,1
+7485,Portland,Overcast,77.89101897,1
+7496,Portland,Mist,84.20413325,1
+7497,Portland,Mist,85.00530996,1
+7512,Portland,Mostly,73.53867461,1
+7540,Portland,Rain,85.78843089,1
+7553,Portland,Overcast,72.78116934,1
+7560,Portland,Rain,87.94090875,1
+7572,Portland,Overcast,101.5205149,1
+7573,Portland,Cloudy,94.15208033,1
+7585,Portland,Mostly,78.81024831,1
+7595,Portland,Overcast,84.64762482,1
+7608,Portland,Cloudy,90.17716355,1
+7611,Portland,Partly,97.44024186,1
+7614,Portland,Cloudy,82.95804878,1
+7634,Portland,Overcast,74.4381161,1
+7636,Portland,Overcast,73.75962633,1
+7640,Portland,Overcast,77.18959991,1
+7669,Portland,Rain,84.21467327,1
+7681,San Antonio,Light,86.38061514,1
+7687,San Antonio,Rain,79.19198935,1
+7691,San Antonio,Cloudy,70.92576433,1
+7699,San Antonio,Overcast,61.81240355,1
+7733,San Antonio,Overcast,86.93861779,1
+7739,San Antonio,Mist;Fog,94.26900051,1
+7743,San Antonio,Mist;Fog,96.16667586,1
+7757,San Antonio,Mist;Light Drizzle Fog,94.78656951,1
+7765,San Antonio,Sunny,48.40253151,1
+7776,San Antonio,Sunny,56.10658643,1
+7778,San Antonio,Sunny,63.21230466,1
+7802,San Antonio,Sunny,67.73824662,1
+7811,San Antonio,Mist,74.08948221,1
+7824,San Antonio,Overcast,72.98281597,1
+7832,San Antonio,Light,87.97810244,1
+7839,San Antonio,Rain,90.40735898,1
+7846,San Antonio,Overcast,92.65940399,1
+7865,San Antonio,Mist;Light Rain Fog,102.1231966,1
+7880,San Antonio,Mist,90.08952584,1
+7887,San Antonio,Mist,77.94598206,1
+7891,San Antonio,Mist,94.72454693,1
+7894,San Antonio,Mist,89.3111135,1
+7903,San Antonio,Unclear,82.17085329,1
+7917,San Antonio,Mist;Light Drizzle Fog,95.53704446,1
+7920,San Antonio,Drizzle Fog,88.76100163,1
+7934,San Antonio,Mist;Fog,83.98045224,1
+7936,San Antonio,Mist;Fog,87.95635906,1
+7949,San Antonio,Rain,83.65527818,1
+7959,San Antonio,Rain,91.31152167,1
+7967,San Antonio,Light,80.34699447,1
+7968,San Antonio,Light,86.99581259,1
+7980,San Antonio,Mist;Light Rain Fog,86.02552588,1
+7989,San Antonio,Mist;Rain Fog,96.37834369,1
+7993,San Antonio,Mist;Light Rain Fog,87.77937137,1
+8009,San Diego,Cloudy,83.3454594,1
+8026,San Diego,Partly,88.02669717,1
+8036,San Diego,Cloudy,83.34687422,1
+8038,San Diego,Mostly,88.93661782,1
+8040,San Diego,Mostly,100.785201,1
+8080,San Diego,Mostly,63.80605041,1
+8097,San Diego,Sunny,95.670801,1
+8100,San Diego,Sunny,90.7209266,1
+8104,San Diego,Mostly,94.31552651,1
+8110,San Diego,Partly,73.59150991,1
+8111,San Diego,Cloudy,70.74333764,1
+8123,San Diego,Cloudy,91.82483873,1
+8135,San Diego,Mostly,83.39437369,1
+8140,San Diego,Cloudy,85.86434028,1
+8143,San Diego,Cloudy,76.04105873,1
+8148,San Diego,Partly,78.27322218,1
+8158,San Diego,Cloudy,73.69836591,1
+8165,San Diego,Unclear,81.04825109,1
+8168,San Diego,Unclear,69.76197621,1
+8170,San Diego,A Clouds,66.62068086,1
+8172,San Diego,A Clouds,65.83403017,1
+8173,San Diego,Few Clouds,74.93520732,1
+8178,San Diego,Cloudy,74.2563305,1
+8180,San Diego,A Few,76.70641423,1
+8194,San Diego,Cloudy,73.80818152,1
+8206,San Diego,Partly,87.20612721,1
+8208,San Diego,Overcast,90.49551249,1
+8216,San Diego,Cloudy,87.25109286,1
+8223,San Diego,Mostly,68.9507047,1
+8239,San Diego,Haze,87.05576062,1
+8242,San Diego,Overcast,67.04958938,1
+8253,San Diego,Mostly,68.79908674,1
+8262,San Diego,Cloudy,83.15581193,1
+8275,San Diego,Unclear,77.09269921,1
+8280,San Diego,Unclear,69.80492772,1
+8285,San Diego,Cloudy,71.15252142,1
+8293,San Diego,Cloudy,73.9621664,1
+8297,San Diego,Overcast,75.61981921,1
+8313,San Diego,Overcast,74.21039012,1
+8320,San Francisco,Mist,79.88397738,1
+8336,San Francisco,Cloudy,83.95316026,1
+8367,San Francisco,Cloudy,82.36872105,1
+8368,San Francisco,Mostly,75.37502133,1
+8370,San Francisco,Cloudy,80.77994994,1
+8406,San Francisco,Cloudy,64.05480397,1
+8408,San Francisco,Light,92.98223666,1
+8409,San Francisco,Mist,94.72339823,1
+8412,San Francisco,Rain,87.15645675,1
+8417,San Francisco,Partly,88.72490389,1
+8424,San Francisco,Partly,99.63649471,1
+8425,San Francisco,Cloudy,96.52964212,1
+8432,San Francisco,Mostly,78.84364711,1
+8433,San Francisco,Mostly,76.42879619,1
+8435,San Francisco,Partly,80.85915086,1
+8436,San Francisco,Cloudy,67.53136849,1
+8440,San Francisco,Cloudy,85.50461946,1
+8441,San Francisco,Cloudy,94.66918787,1
+8444,San Francisco,Partly,88.40329718,1
+8476,San Francisco,Cloudy,78.53916844,1
+8477,San Francisco,Cloudy,74.09816033,1
+8480,San Francisco,Cloudy,93.23993256,1
+8515,San Francisco,Overcast,70.51480407,1
+8516,San Francisco,Overcast,68.00906451,1
+8543,San Francisco,Cloudy,77.48963752,1
+8544,San Francisco,Overcast,83.82327393,1
+8579,San Francisco,Mostly,77.36198408,1
+8581,San Francisco,Overcast,87.47265223,1
+8584,San Francisco,Mostly,77.78480814,1
+8586,San Francisco,Cloudy,85.03579538,1
+8587,San Francisco,Cloudy,87.73309549,1
+8649,San Jose,Mostly,87.93877437,1
+8680,San Jose,Mostly,90.09023578,1
+8692,San Jose,Cloudy,62.76839127,1
+8693,San Jose,Cloudy,57.85662411,1
+8696,San Jose,Mostly,62.45715047,1
+8698,San Jose,Cloudy,58.86157621,1
+8705,San Jose,Mostly,81.92485987,1
+8782,San Jose,Cloudy,64.83775951,1
+8788,San Jose,Cloudy,59.08797185,1
+8792,San Jose,Overcast,77.91354821,1
+8800,San Jose,Cloudy,83.76200133,1
+8807,San Jose,Sunny,90.46723757,1
+8812,San Jose,Cloudy,66.75258732,1
+8828,San Jose,Clean,95.90985287,1
+8834,San Jose,Overcast,49.87569391,1
+8850,San Jose,Cloudy,89.09796521,1
+8859,San Jose,Cloudy,75.43262991,1
+8863,San Jose,Overcast,66.02265527,1
+8903,San Jose,Overcast,89.01210064,1
+8907,San Jose,Cloudy,76.58563,1
+8915,San Jose,Partly,77.77122413,1
+8916,San Jose,Mist,81.3610103,1
+8919,San Jose,Cloudy,84.17939222,1
+8926,San Jose,Cloudy,51.86277052,1
+8949,San Jose,Cloudy,95.12664014,1
+8956,San Jose,Cloudy,62.00445407,1
+8962,Seattle,Clean,,1
+8969,Seattle,Mostly,71.26782584,1
+8992,Seattle,Overcast,83.70374322,1
+8994,Seattle,Cloudy,94.55463885,1
+9000,Seattle,Sunny,84.61624581,1
+9003,Seattle,Mostly,93.2268674,1
+9004,Seattle,Partly,81.99556279,1
+9020,Seattle,Overcast,76.39168322,1
+9023,Seattle,Overcast,76.24117454,1
+9026,Seattle,Cloudy,94.37747703,1
+9034,Seattle,Clean,85.65762883,1
+9052,Seattle,Overcast,65.29999357,1
+9066,Seattle,Rain,88.19997818,1
+9069,Seattle,Rain,88.63270098,1
+9076,Seattle,Light,82.04915059,1
+9079,Seattle,Overcast,82.05986949,1
+9084,Seattle,Overcast,91.99234212,1
+9109,Seattle,Mostly,73.37853941,1
+9124,Seattle,Cloudy,93.73307146,1
+9130,Seattle,Mostly,82.28052657,1
+9133,Seattle,Overcast,79.64900651,1
+9143,Seattle,Rain,84.86318618,1
+9149,Seattle,Mostly,93.96156923,1
+9151,Seattle,Overcast,80.08117998,1
+9159,Seattle,Overcast,81.24934786,1
+9166,Seattle,Rain,80.45514202,1
+9178,Seattle,Partly,83.01792383,1
+9194,Seattle,Overcast,90.63064433,1
+9223,Seattle,Mostly,64.92918109,1
+9224,Seattle,Cloudy,73.09523961,1
+9230,Seattle,Cloudy,74.35497464,1
+9236,Seattle,Light,78.43065752,1
+9248,Seattle,Rain,99.56729671,1
+9251,Seattle,Mostly,64.68389367,1
+9252,Seattle,Cloudy,64.06770255,1
+9268,Seattle,Cloudy,84.14257688,1
+9280,Washington,Cloudy,40.61287382,1
+9293,Washington,Overcast,38.05171935,1
+9296,Washington,Overcast,33.58245667,1
+9303,Washington,Partly,43.44815975,1
+9308,Washington,Cloudy,51.93106903,1
+9321,Washington,Mostly,47.39062032,1
+9325,Washington,Overcast,40.92380271,1
+9351,Washington,Cloudy,52.26536532,1
+9372,Washington,Overcast,35.48292163,1
+9379,Washington,Overcast,41.06990046,1
+9385,Washington,Snow,81.33880693,1
+9390,Washington,Snow,69.15878749,1
+9394,Washington,Snow,77.731223,1
+9423,Washington,Sunny,33.6804024,1
+9425,Washington,Sunny,30.22583002,1
+9427,Washington,Mostly,69.57085886,1
+9434,Washington,Overcast,68.4986522,1
+9466,Washington,Clean,58.12677741,1
+9485,Washington,Mostly,70.33125961,1
+9492,Washington,Overcast,68.47438455,1
+9493,Washington,Overcast,65.51690203,1
+9506,Washington,Cloudy,36.8153586,1
+9516,Washington,Cloudy,63.1129956,1
+9517,Washington,Cloudy,67.8273393,1
+9520,Washington,Mostly,77.05164676,1
+9553,Washington,Snow,90.70662037,1
+9554,Washington,Mist,85.89754344,1
+9557,Washington,Mist,72.92265337,1
+9558,Washington,Mist,77.2025801,1
+9559,Washington,Mist,90.55384105,1
+9560,Washington,Unclear,80.09261281,1
+9566,Washington,Overcast,55.31396405,1
+9584,Washington,Mist;Fog,88.0770849,1

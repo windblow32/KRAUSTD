@@ -1,0 +1,14 @@
+entity,Domain,Conditions,Humidity,day
+2010,Dallas,Overcast,76,1
+2014,Dallas,Overcast,75,1
+2024,Dallas,Overcast,75,1
+2026,Dallas,Overcast,75,1
+2047,Dallas,Overcast,82,1
+3024,El Paso,Mostly Cloudy,42,1
+3026,El Paso,Mostly Cloudy,40,1
+4584,Las Vegas,Partly Cloudy,76,1
+7126,Phoenix,Scattered Clouds,43,1
+7131,Phoenix,Scattered Clouds,60,1
+7146,Phoenix,Mostly Cloudy,57,1
+7150,Phoenix,Mostly Cloudy,38,1
+7152,Phoenix,Mostly Cloudy,34,1

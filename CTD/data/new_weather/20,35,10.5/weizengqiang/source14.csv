@@ -1,0 +1,78 @@
+entity,Domain,Conditions,Humidity,day
+1388,Chicago,Partly Cloudy,48,1
+1393,Chicago,Partly Cloudy,56,1
+1403,Chicago,Mostly Cloudy,62,1
+1406,Chicago,Mostly Cloudy,66,1
+1411,Chicago,Mostly Cloudy,68,1
+1416,Chicago,Partly Cloudy,76,1
+1472,Chicago,Partly Cloudy,61,1
+2010,Dallas,Cloudy,75,1
+2014,Dallas,Cloudy,74,1
+2024,Dallas,Cloudy,70,1
+2026,Dallas,Cloudy,70,1
+2047,Dallas,Cloudy,74,1
+2885,El Paso,Cloudy,77,1
+2889,El Paso,Cloudy,77,1
+2895,El Paso,Partly Cloudy,65,1
+2969,El Paso,Partly Cloudy,63,1
+2974,El Paso,Mostly Clear,76,1
+2995,El Paso,Mostly Cloudy,45,1
+3002,El Paso,Mostly Cloudy,68,1
+3017,El Paso,Cloudy,79,1
+3024,El Paso,Mostly Cloudy,50,1
+3026,El Paso,Mostly Cloudy,42,1
+3534,Houston,Cloudy,87,1
+3951,Indianapolis,Mostly Cloudy,48,1
+3954,Indianapolis,Partly Cloudy,43,1
+3980,Indianapolis,Mostly Sunny,73,1
+3983,Indianapolis,Mostly Sunny,51,1
+4584,Las Vegas,Mostly Clear,83,1
+4888,Los Angeles,Mostly Sunny,48,1
+4899,Los Angeles,Mostly Cloudy,86,1
+4900,Los Angeles,Partly Cloudy,83,1
+4934,Los Angeles,Mostly Clear,83,1
+4938,Los Angeles,Mostly Clear,86,1
+4940,Los Angeles,Hazy,83,1
+4941,Los Angeles,Hazy,83,1
+4942,Los Angeles,Mostly Sunny,64,1
+4944,Los Angeles,Mostly Sunny,52,1
+4993,Los Angeles,Mostly Clear,71,1
+5440,Milwaukee,Partly Cloudy,40,1
+5455,Milwaukee,Partly Cloudy,31,1
+5526,Milwaukee,Partly Cloudy,54,1
+5527,Milwaukee,Partly Cloudy,54,1
+5534,Milwaukee,Cloudy,52,1
+5548,Milwaukee,Snow Shower,75,1
+5573,Milwaukee,Partly Cloudy,62,1
+5581,Milwaukee,Partly Cloudy,47,1
+5905,Nashville,Mostly Sunny,48,1
+5953,Nashville,Mostly Cloudy,73,1
+7048,Phoenix,Partly Cloudy,89,1
+7052,Phoenix,Partly Cloudy,89,1
+7055,Phoenix,Mostly Cloudy,64,1
+7126,Phoenix,Partly Cloudy,43,1
+7131,Phoenix,Partly Cloudy,60,1
+7146,Phoenix,Mostly Cloudy,69,1
+7150,Phoenix,Mostly Cloudy,42,1
+7449,Portland,Cloudy,68,1
+7464,Portland,Rain,89,1
+7477,Portland,Cloudy,83,1
+7485,Portland,Cloudy,93,1
+7497,Portland,Foggy,100,1
+7553,Portland,Cloudy,66,1
+8009,San Diego,Mostly Clear,80,1
+8100,San Diego,Mostly Clear,86,1
+8104,San Diego,Partly Cloudy,90,1
+8110,San Diego,Partly Cloudy,64,1
+8111,San Diego,Partly Cloudy,62,1
+8123,San Diego,Partly Cloudy,77,1
+8135,San Diego,Mostly Cloudy,83,1
+8140,San Diego,Partly Cloudy,86,1
+8143,San Diego,Partly Cloudy,67,1
+8649,San Jose,Mostly Cloudy,93,1
+9052,Seattle,Cloudy,61,1
+9066,Seattle,Rain,93,1
+9069,Seattle,Cloudy,89,1
+9076,Seattle,Showers,86,1
+9079,Seattle,Cloudy,86,1
+9084,Seattle,Rain,90,1

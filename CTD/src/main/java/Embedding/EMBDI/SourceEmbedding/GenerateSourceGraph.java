@@ -174,6 +174,9 @@ public class GenerateSourceGraph implements Serializable{
                             sourceGraph.addVertex(Vk);
                             sourceGraph.all_nodes.add(Vk);
                             // 将数值和属性连接
+//                            if(column>=5){
+//                                int sc = 2;
+//                            }
                             sourceGraph.addEdge(Vk,sourceGraph.column_i.get(column));
                             sourceGraph.addEdge(Vk,Ri);
                         }

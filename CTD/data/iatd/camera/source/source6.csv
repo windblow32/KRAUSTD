@@ -1,0 +1,21 @@
+entity_id,brand,number,external_memory_type,white_balance,day
+6,Nikon,9646,,Auto;Incandescent;Fluorescent;Direct Sunlight;Flash;Cloudy;Shade;Preset Manual;all Except Preset Manual with Fine-Tuning,1
+13,Nikon,9794,,Preset Manual;Shade;Color Temperature;Cloudy;Fluorescent;Flash;all with Fine-Tuning;Incandescent;Direct Sunlight;Auto,1
+18,Canon,942,,Auto;Preset;Custom;Color Temperature Setting,1
+19,Nikon,1677,24,Cloudy;Flash;Fluorescent,1
+23,Canon,1317,18,Cloudy;Daylight;Sunny;Fine;Flash;Fluorescent;Shade;Tungsten;Underwater,1
+41,Nikon,1003,24.1,Cloudy;Flash;Fluorescent;Incandescent;Shade;Sunlight;Sunny;Tungsten,1
+44,Nikon,9649,,Incandescent;Flash;Cloudy;Preset Manual;Shade;Fluorescent;Auto;Direct Sunlight,1
+48,Canon,929,,Daylight;White Balance Compensation;Tungsten;Custom1;Auto;Fluorescent;Custom 2;Fluorescent h;Multi-Area wb Correction;Cloudy;Flash,1
+58,Nikon,871,,Preset Manual;Fluorescent;Incandescent;Cloudy;Flash;Auto;Shade;Direct Sunlight,1
+65,Fujifilm,9757,,Automatic;Preset;Fluorescent Light,1
+67,Canon,9842,16,Cloudy;Tungsten;Fluorescent;Custom;day Light;Auto;Fluorescent,1
+69,Sony,737,,Auto;Daylight;Shade;Cloudy;Incandescent;Fluorescent;Flash;Color Temperature and Color Filter;Custom;Underwater,1
+70,Panasonic,9918,,Shade;White Set;Auto;Incandescent;Daylight;Cloudy,1
+75,Nikon,1284,16.2,Cloudy;Daylight;Sunny;Fine;Flash;Fluorescent;Incandescent;Indoor;Shade;Sunlight;Tungsten,1
+76,Nikon,732,,Auto;Choose Color Temperature;all with Fine-Tuning,1
+83,Nikon,9791,,Auto,1
+88,Sony,743,20,Cloudy;one Push;Fluorescent White Balance 3;Fluorescent White Balance 1;Flash;Incandescent;Daylight;Fluorescent White Balance 2;one Push Set;Auto,1
+96,Canon,805,,Auto;Preset;Custom;Color Temperature Setting,1
+101,Canon,,,And White Balance Bracketing;Flash Color Temperature Information Transmission Enabled;Color Temperature Setting;Auto;White Balance Correction;Shade;Flash;Cloudy;Tungsten Light;Custom;White Fluorescent LightPreset: Daylight,1
+570,Nikon,754,36.3,Auto;Incandescent;Fluorescent;Direct Sunlight;Flash;Cloudy;Shade;Color Temperature;all with Fine-Tuning,1

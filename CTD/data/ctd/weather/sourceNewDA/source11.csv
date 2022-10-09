@@ -1,0 +1,57 @@
+entity,screen_type,supported_aspect_ratio,response_time(ms),screen_size_diagonal,day
+1388,Chicago,Cloudy,56.58189017,1
+1393,Chicago,And Sun,66.9645076,1
+1403,Chicago,Cloudy,76.37188672,1
+1406,Chicago,Some,74.85963015,1
+1411,Chicago,Cloudy,79.98125785,1
+1416,Chicago,Mostly,74.79927135,1
+1472,Chicago,Sunny,67.89151241,1
+2010,Dallas,Light,84.77534604,1
+2014,Dallas,Cloudy,67.3315517,1
+2024,Dallas,Cloudy,76.40660292,1
+2026,Dallas,Cloudy,71.23979671,1
+2047,Dallas,Cloudy,74.07150866,1
+2969,El Paso,Sunny,62.07795949,1
+2974,El Paso,Sunny,73.81951808,1
+2995,El Paso,Cloudy,42.54628428,1
+3002,El Paso,Mostly,69.05902037,1
+3017,El Paso,Cloudy,85.07278672,1
+3024,El Paso,Cloudy,48.36899305,1
+3026,El Paso,Cloudy,39.57527207,1
+3951,Indianapolis,Sunny,57.87717649,1
+3954,Indianapolis,Sunny,53.63360429,1
+3980,Indianapolis,Sunny,69.68500002,1
+3983,Indianapolis,Sunny,60.82697925,1
+4584,Las Vegas,Mostly,72.88565645,1
+4993,Los Angeles,Sunny,64.15454867,1
+5526,Milwaukee,Cloudy,69.97469918,1
+5527,Milwaukee,Cloudy,62.55954896,1
+5534,Milwaukee,Cloudy,58.22277824,1
+5548,Milwaukee,Snow,92.47944762,1
+5573,Milwaukee,Mostly,66.03074442,1
+5581,Milwaukee,Partly,43.0841928,1
+7048,Phoenix,Cloudy,85.31755125,1
+7052,Phoenix,Partly,80.30617467,1
+7055,Phoenix,Sunny,52.94956144,1
+7126,Phoenix,Partly,39.38103626,1
+7131,Phoenix,Mostly,57.55157764,1
+7146,Phoenix,Partly,52.81797572,1
+7150,Phoenix,Clouds And,40.19930717,1
+7151,Phoenix,Clouds Sun,35.47689597,1
+7152,Phoenix,Mostly,34.83462874,1
+7553,Portland,Cloudy,68.85464256,1
+8100,San Diego,Fog,94.0628225,1
+8104,San Diego,Clouds And,82.07457769,1
+8110,San Diego,Mostly,60.47346805,1
+8111,San Diego,Sunny,68.2903026,1
+8123,San Diego,Cloudy,78.76773583,1
+8135,San Diego,Partly,85.47457726,1
+8140,San Diego,Partly,82.93990996,1
+8143,San Diego,Partly,68.78065528,1
+8649,San Jose,Cloudy,98.15035836,1
+9052,Seattle,Cloudy,78.64556054,1
+9066,Seattle,Rain,88.61903784,1
+9069,Seattle,Cloudy,95.03997094,1
+9076,Seattle,Rain,87.94201389,1
+9079,Seattle,Light,86.90621914,1
+9084,Seattle,Mist,89.74827932,1

@@ -1,0 +1,57 @@
+entity,screen_type,supported_aspect_ratio,response_time(ms),screen_size_diagonal,day
+1388,Chicago,clear,62.14087873,1
+1393,Chicago,sky,63.94108319,1
+1403,Chicago,cloudy,67.04589899,1
+1406,Chicago,mostly,70.87868022,1
+1411,Chicago,mostly,66.86007528,1
+1416,Chicago,clear,72.86923773,1
+1472,Chicago,sky,59.34672793,1
+2010,Dallas,cloudy,79.02421451,1
+2014,Dallas,mostly,76.87679449,1
+2024,Dallas,cloudy,86.62790151,1
+2026,Dallas,cloudy,70.14203686,1
+2047,Dallas,mostly,73.66350129,1
+2969,El Paso,sky,65.08839127,1
+2974,El Paso,sky,76.45722408,1
+2995,El Paso,mostly,40.7179421,1
+3002,El Paso,sky,58.9438098,1
+3017,El Paso,mostly,76.87503022,1
+3024,El Paso,mostly,50.41412222,1
+3026,El Paso,mostly,43.73433469,1
+3951,Indianapolis,mostly,59.07976154,1
+3954,Indianapolis,clear,56.21576503,1
+3980,Indianapolis,sky,72.75126519,1
+3983,Indianapolis,sky,62.46036497,1
+4584,Las Vegas,sky,75.68813932,1
+4993,Los Angeles,clear,75.96042489,1
+5526,Milwaukee,clear,58.42423303,1
+5527,Milwaukee,clear,59.38402506,1
+5534,Milwaukee,mostly,57.37613165,1
+5548,Milwaukee,snow,85.37225909,1
+5573,Milwaukee,cloudy,64.86454401,1
+5581,Milwaukee,clear,48.72113229,1
+7048,Phoenix,sky,87.95092297,1
+7052,Phoenix,sky,70.65340914,1
+7055,Phoenix,cloudy,57.65536641,1
+7126,Phoenix,clear,39.79771554,1
+7131,Phoenix,clear,56.52826811,1
+7146,Phoenix,mostly,49.89638609,1
+7150,Phoenix,mostly,33.52572175,1
+7151,Phoenix,cloudy,33.12204671,1
+7152,Phoenix,mostly,34.17072487,1
+7553,Portland,mostly,61.84550819,1
+8100,San Diego,sky,75.89207533,1
+8104,San Diego,cloudy,88.69360533,1
+8110,San Diego,clear,58.48716695,1
+8111,San Diego,clear,68.82018763,1
+8123,San Diego,sky,75.56217479,1
+8135,San Diego,sky,79.82383441,1
+8140,San Diego,clear,83.06805041,1
+8143,San Diego,clear,69.00137456,1
+8649,San Jose,mostly,95.28554366,1
+9052,Seattle,cloudy,61.37468043,1
+9066,Seattle,rain,98.59604748,1
+9069,Seattle,mostly,86.90745803,1
+9076,Seattle,light,83.56107638,1
+9079,Seattle,mostly,101.8045932,1
+9084,Seattle,cloudy,92.1086401,1

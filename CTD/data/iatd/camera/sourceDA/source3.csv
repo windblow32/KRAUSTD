@@ -1,0 +1,7 @@
+entity_id,website,brand,number,image_resolution,white_balance,day
+6,3,Nikon,89,,Preset;Auto,1
+23,3,Canon,131,,Preset;User Defined;Color Temperature Setting;White Balance Correction and White Balance Bracketing;Available Auto,1
+41,3,Nikon,8,,Preset;Auto,1
+44,3,Nikon,31,,Preset;Auto,1
+75,3,Nikon,29,,incandescent;fluorescent;direct sunlight;flash;cloudy;shade;preset manual white balance;color temperature selection;Auto,1
+101,3,Canon,83,,Preset;User Defined;Color Temperature Setting;White Balance Correction and White Balance Bracketing;Auto,1

@@ -1,0 +1,112 @@
+5,Rain;Light Rain,93,1
+10,Rain,93,1
+13,Cloudy;Overcast,81,1
+25,Cloudy,81,1
+31,Cloudy,84,1
+35,Cloudy;Overcast,81,1
+38,Cloudy,85,1
+39,Cloudy,87,1
+43,Cloudy;Overcast;Showers,93,1
+50,Cloudy;Fog;Haze,81,1
+60,Overcast,85,1
+91,Not totally Cloudy;Partly Cloudy,64,1
+104,Clear;Not totally Sunny,80,1
+112,Sunny;Clear,53,1
+130,Cloudy,88,1
+132,Cloudy,88,1
+145,Cloudy,81,1
+149,Rain;Light Rain,93,1
+154,Cloudy;Overcast;Showers,93,1
+156,Rain;Light Rain,100,1
+167,Cloudy;Fog;Fog And Mist;Light Rain;Light Rain Mist,100,1
+174,Mist/Fog,93,1
+205,Fog;Overcast;Showers;Mist,93,1
+209,Fog;Overcast;Rain,93,1
+251,Mist/Fog,86,1
+254,Mist/Fog,86,1
+257,Overcast with Haze,80,1
+259,Cloudy,76,1
+273,Rain;Light Rain,87,1
+275,Rain,93,1
+280,Rain;Light Rain,100,1
+302,Overcast,80,1
+314,Mist/Light Rain Fog,93,1
+315,Mist/Light Rain Fog,90,1
+324,Mostly Cloudy;Fair;Clean,43,1
+342,Clear,52,1
+376,Fair,43,1
+382,A Few Clouds,57,1
+398,Overcast,40,1
+407,Cloudy;Overcast,36,1
+408,Cloudy;Overcast,36,1
+428,Snow;Fair,79,1
+441,Light Snow;Flurries;Light,80,1
+462,Sunny;Clear,33,1
+467,Sunny;Clear,37,1
+483,Clear,61,1
+496,Mainly Cloudy,65,1
+498,Partly Cloudy,60,1
+517,Partly Cloudy;Scattered Clouds;Mainly Sunny,55,1
+528,Mostly Cloudy;Clean;Intermittent Clouds,81,1
+535,Cloudy;Haze,81,1
+552,Mostly Cloudy,61,1
+565,Overcast,75,1
+600,Cloudy;Overcast;Mist,86,1
+611,Light Snow,79,1
+625,Mist/Fog,85,1
+646,Clear,42,1
+649,Sunny,38,1
+655,Mostly Sunny;Partly Cloudy,26,1
+660,Clear;Cloudy,36,1
+669,Cloudy,40,1
+671,Cloudy,44,1
+673,Mostly Cloudy;Mostly,44,1
+676,Clear,48,1
+684,Not totally Cloudy;Partly Sunny,36,1
+692,Partly Cloudy;Mainly Sunny;Mostly Clear,29,1
+731,Clear,31,1
+734,Clear,36,1
+746,Scattered Clouds;Mostly Cloudy;Cloudy;Partly,40,1
+756,Cloudy,38,1
+768,Cloudy,45,1
+774,Not totally Sunny;Scattered Clouds;Not totally Cloudy,38,1
+776,Partly Cloudy;Scattered Clouds;Partly,35,1
+789,Cloudy,58,1
+791,Cloudy,56,1
+798,Clear,63,1
+801,Clear,65,1
+831,Partly Sunny;Partly;Scattered Clouds,58,1
+837,Not totally Cloudy;Partly Cloudy;Mostly Clear,31,1
+843,Overcast;Cloudy,44,1
+848,Not totally Cloudy;Partly Cloudy,48,1
+852,Partly Cloudy;Not totally Cloudy,54,1
+859,Cloudy;Overcast,41,1
+908,Cloudy,66,1
+961,Cloudy;Overcast,50,1
+965,Partly Cloudy;Scattered Clouds;Mostly Clear,41,1
+997,Partly Cloudy;Scattered Clouds;Mist;Cloudy,95,1
+1000,Mostly Cloudy;Intermittent;Mist;Fog And Mist,100,1
+1001,Mostly Cloudy;Mainly Cloudy,92,1
+1011,Not totally Cloudy;Partly Cloudy;Mostly Sunny;Sunny,43,1
+1074,Cloudy,81,1
+1080,Cloudy,80,1
+1083,Partly Cloudy;Cloudy;Scattered,74,1
+1084,Partly Cloudy;Not totally Cloudy,77,1
+1086,Partly Cloudy;Not totally Cloudy,80,1
+1107,Sunny;Mainly Sunny;Fair;Partly Cloudy;Partly,47,1
+1113,Clear,70,1
+1152,Mostly Cloudy;Mainly Cloudy;Intermittent Clouds,67,1
+1154,Partly Cloudy;Mainly Sunny;Mostly Clear,49,1
+1166,Cloudy,69,1
+1183,Drizzle;Light Drizzle;Showers,93,1
+1224,Fog;Overcast;Mist;Light Fog,95,1
+1226,Fog;Overcast;Mist,93,1
+1234,Fog,100,1
+1237,Fog,100,1
+3086,Mostly Cloudy;Mostly,66,1
+4698,Mainly Cloudy;Clear;Sunny,46,1
+5928,Cloudy,,1
+7197,Not totally Cloudy;Cloudy;Partly Cloudy,69,1
+7387,Partly Cloudy;Scattered Clouds;Mostly Clear,92,1
+8168,Mostly Cloudy,,1
+9584,Mist/Fog,85,1

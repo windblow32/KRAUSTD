@@ -1,0 +1,95 @@
+entity,screen_type,supported_aspect_ratio,response_time(ms),screen_size_diagonal,day
+1388,Chicago,Mostly,60.19874566,1
+1393,Chicago,Mostly,65.98877645,1
+1403,Chicago,Cloudy,80.48775132,1
+1406,Chicago,Mostly,73.97821145,1
+1411,Chicago,Mostly,79.68408607,1
+1416,Chicago,Few,74.84668116,1
+1472,Chicago,Few,58.47477774,1
+2010,Dallas,Cloudy,68.34245667,1
+2024,Dallas,Cloudy,67.52156062,1
+2026,Dallas,Cloudy,77.88815495,1
+2047,Dallas,Cloudy,74.38494967,1
+2885,El Paso,Cloudy,81.42765074,1
+2889,El Paso,Cloudy,72.91305441,1
+2895,El Paso,Clouds,61.7903449,1
+2969,El Paso,Sunny,65.60485477,1
+2974,El Paso,Sunny,74.50714455,1
+2995,El Paso,Cloudy,39.8995699,1
+3002,El Paso,Clear,67.63381088,1
+3024,El Paso,Cloudy,40.3346992,1
+3026,El Paso,Mostly,38.30009774,1
+3291,Fort Worth,Cloudy,76.60174618,1
+3296,Fort Worth,Cloudy,77.33514706,1
+3302,Fort Worth,Cloudy,74.65559345,1
+3307,Fort Worth,Cloudy,70.61955822,1
+3314,Fort Worth,Cloudy,77.45927113,1
+3316,Fort Worth,Cloudy,81.06832612,1
+3319,Fort Worth,Cloudy,72.18539641,1
+3324,Fort Worth,Cloudy,77.51027831,1
+3343,Fort Worth,Cloudy,77.87734993,1
+3534,Houston,Cloudy,89.81293346,1
+3856,Indianapolis,Cloudy,57.85177259,1
+3951,Indianapolis,Clear,50.37977951,1
+3954,Indianapolis,Clear,51.12464519,1
+3980,Indianapolis,Sunny,59.10943002,1
+3983,Indianapolis,Sunny,62.13540723,1
+4306,Jacksonville,Cloudy,67.64907259,1
+4584,Las Vegas,Sunny,82.20734052,1
+4888,Los Angeles,Sunny,72.96010224,1
+4899,Los Angeles,Mist,85.45364799,1
+4900,Los Angeles,Mist,88.38749108,1
+4934,Los Angeles,Mist,99.64444161,1
+4938,Los Angeles,Mist,92.0539748,1
+4940,Los Angeles,Mist,90.51105067,1
+4941,Los Angeles,Mist,83.4422222,1
+4942,Los Angeles,Clear,67.64811107,1
+4944,Los Angeles,Sunny,62.19106335,1
+4993,Los Angeles,Sunny,80.44761766,1
+5440,Milwaukee,Few,44.94272306,1
+5446,Milwaukee,Clear,64.18925306,1
+5455,Milwaukee,Clear,49.7813718,1
+5526,Milwaukee,Mostly,62.82898802,1
+5527,Milwaukee,Cloudy,64.73096447,1
+5534,Milwaukee,Cloudy,61.29060897,1
+5548,Milwaukee,Light,91.19570783,1
+5573,Milwaukee,Mostly,68.86425438,1
+5581,Milwaukee,Few,41.69848305,1
+5868,Nashville,Cloudy,70.16105515,1
+5873,Nashville,Cloudy,69.01914206,1
+5888,Nashville,Sunny,80.5763004,1
+5905,Nashville,Sunny,39.99971252,1
+6866,Philadelphia,Sunny,33.87606518,1
+6910,Philadelphia,Cloudy,58.27564975,1
+7048,Phoenix,Clear,82.37887082,1
+7052,Phoenix,Clear,71.56008282,1
+7055,Phoenix,Clear,51.73784224,1
+7126,Phoenix,Clear,46.62096212,1
+7131,Phoenix,Clear,64.90500389,1
+7146,Phoenix,Mostly,44.58722331,1
+7150,Phoenix,Mostly,39.99045142,1
+7151,Phoenix,Mostly,37.34692172,1
+7152,Phoenix,Cloudy,33.15600243,1
+7464,Portland,Cloudy,77.30038036,1
+7477,Portland,Cloudy,86.33277747,1
+7485,Portland,Cloudy,91.65351753,1
+7497,Portland,Mist,108.5096264,1
+7553,Portland,Cloudy,63.74955457,1
+8009,San Diego,Cloudy,77.80594288,1
+8100,San Diego,Mist,87.0581499,1
+8104,San Diego,Mist,83.82944074,1
+8110,San Diego,Clear,68.83864067,1
+8111,San Diego,Mostly,72.05516262,1
+8123,San Diego,Mostly,82.28251572,1
+8135,San Diego,Haze,80.6117445,1
+8140,San Diego,Haze,67.95332657,1
+8143,San Diego,Mostly,69.40592132,1
+8649,San Jose,Cloudy,94.69621856,1
+8969,Seattle,Mostly,75.27189161,1
+9052,Seattle,Cloudy,67.00381305,1
+9066,Seattle,Light,89.78131755,1
+9069,Seattle,Rain,84.58065512,1
+9076,Seattle,Rain,88.78249408,1
+9079,Seattle,Rain,94.70762457,1
+9084,Seattle,Cloudy,92.17119219,1
+9423,Washington,Sunny,31.00749347,1

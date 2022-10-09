@@ -17,7 +17,7 @@ public class MetaAlgorithmNormalizeDistribute {
      * @param length   embedding的长度
      */
     // todo: 返回值不应该是void，查看Generate中的返回值修改
-    public List<String> Meta_Algorithm(List<String> fileList, int n_walks, int n_nodes, int length, int AttrDistributeLow,
+    public List<List<String>> Meta_Algorithm(List<String> fileList, int n_walks, int n_nodes, int length, int AttrDistributeLow,
                                        int AttrDistributeHigh,
                                        int ValueDistributeLow,
                                        int ValueDistributeHigh,
@@ -25,7 +25,7 @@ public class MetaAlgorithmNormalizeDistribute {
                                        int TupleDistributeHigh,
                                        int dropSourceEdge,
                                        int dropSampleEdge) throws InterruptedException {
-        List<String> walks = new ArrayList<>();
+        List<List<String>> walks = new ArrayList<>();
         GenerateNormalizeDistributeSourceTripartite graph = new GenerateNormalizeDistributeSourceTripartite();
         graph = graph.generateSourceTripartiteGraph(fileList, AttrDistributeLow,
                 AttrDistributeHigh,
@@ -40,18 +40,11 @@ public class MetaAlgorithmNormalizeDistribute {
         for (String str : nodes) {
             for (int i = 0; i < n_walks / n_nodes; i++) {
                 List<String> list = walkGraph.randomWalk(str, length);
-//                StringBuilder sentence = null;
-//                for (int index = 0; index < length; index++) {
-//                    sentence = (sentence == null ? new StringBuilder("null") : sentence).append(list.get(index));
-//                }
-//
-//                walks.add(sentence == null ? null : sentence.toString());
-                walks.addAll(list);
+                walks.add(list);
             }
-            // Thread.sleep(200);
+
         }
-//        Word2Vec method = new Word2Vec();
-//         method.generateEmbedding(walks);
+
         return walks;
     }
 
@@ -72,18 +65,10 @@ public class MetaAlgorithmNormalizeDistribute {
         for (String str : nodes) {
             for (int i = 0; i < n_walks / n_nodes; i++) {
                 List<String> list = walkGraph.randomWalk(str, length);
-//                StringBuilder sentence = null;
-//                for (int index = 0; index < length; index++) {
-//                    sentence = (sentence == null ? new StringBuilder("null") : sentence).append(list.get(index));
-//                }
-//
-//                walks.add(sentence == null ? null : sentence.toString());
                 walks.addAll(list);
             }
-            // Thread.sleep(200);
         }
-//        Word2Vec method = new Word2Vec();
-//         method.generateEmbedding(walks);
+
         return walks;
     }
 

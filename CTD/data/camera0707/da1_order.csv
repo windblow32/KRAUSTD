@@ -1,0 +1,80 @@
+101_2,0,23.54608579;21.8385981;20.43863873,Preset;User Defined;Color Temperature Setting;White Balance Correction and White Balance Bracketing;Auto,1
+101_3,0,23.54608579;21.8385981;20.43863873,Preset;User Defined;Color Temperature Setting;White Balance Correction and White Balance Bracketing;Auto,1
+101_4,0,23.54608579;21.8385981;20.43863873,Preset;User Defined;Color Temperature Setting;White Balance Correction and White Balance Bracketing;Auto,1
+101_5,0,23.54608579;21.8385981;20.43863873,Preset;User Defined;Color Temperature Setting;White Balance Correction and White Balance Bracketing;Auto,1
+13_2,0,,Flash;Fluorescent;Incandescent;Shade;Cloudy,1
+13_3,0,,Flash;Fluorescent;Incandescent;Shade;Cloudy;Direct Sunlight;Preset Manual;Color Temperature;Auto,1
+13_4,0,,Flash;Fluorescent;Incandescent;Shade;Cloudy;Direct Sunlight;Preset Manual;Color Temperature;Auto,1
+13_5,0,,Flash;Fluorescent;Incandescent;Shade;Cloudy;Direct Sunlight;Preset Manual;Color Temperature;Auto,1
+18_2,0,18.39080655;19.72810603,Daylight;Shade;Cloudy;Auto,1
+18_3,0,18.39080655;19.72810603,Daylight;Shade;Cloudy;Auto;Preset;Custom,1
+18_4,0,18.39080655;19.72810603,Daylight;Shade;Cloudy;Auto;Preset;Custom,1
+18_5,0,18.39080655;19.72810603,Daylight;Shade;Auto;Preset;Custom,1
+19_2,0,22.07742669;26.84420823,Auto;Flash;Fluorescent;Cloudy,1
+19_3,0,22.07742669;26.84420823,Preset;Auto;Flash;Fluorescent;Cloudy,1
+19_4,0,22.07742669;26.84420823,Preset;Auto;Flash;Fluorescent;Cloudy,1
+19_5,0,22.07742669;26.84420823,Auto;Flash;Fluorescent;Cloudy,1
+23_2,0,18.42878059;17.39314156;16.6899513,Preset;User Defined;Color Temperature Setting;White Balance Correction and White Balance Bracketing;Available Auto,1
+23_3,0,18.42878059;17.39314156;16.6899513,Preset;User Defined;Color Temperature Setting;White Balance Correction and White Balance Bracketing;Available Auto,1
+23_4,0,18.42878059;17.39314156;16.6899513,Preset;User Defined;White Balance Correction and White Balance Bracketing;Available Auto,1
+23_5,0,18.42878059;17.39314156;16.6899513,Preset;User Defined;Color Temperature Setting;White Balance Correction and White Balance Bracketing;Available Auto,1
+41_2,0,23.64172126;22.62696373,Auto,1
+41_3,0,23.64172126;22.62696373,Auto,1
+41_4,0,23.64172126;22.62696373,Auto,1
+41_5,0,23.64172126;22.62696373,Auto,1
+44_2,0,24.18269001;24.53992339,Preset;Auto;Cloudy;Flash;Fluorescent;Incandescent;Shade,1
+44_3,0,24.18269001;24.53992339,Auto;Cloudy;Flash;Fluorescent;Incandescent;Shade,1
+44_4,0,24.18269001;24.53992339,Auto;Cloudy;Flash;Fluorescent;Incandescent;Shade,1
+44_5,0,24.18269001;24.53992339,Cloudy;Flash;Fluorescent;Incandescent;Shade;Auto;Direct Sunlight;Preset Manual,1
+48_2,0,,Daylight;Flash;Fluorescent;Tungsten;Cloudy,1
+48_3,0,,Daylight;Flash;Fluorescent;Tungsten;Cloudy,1
+48_4,0,,Daylight;Flash;Fluorescent;Tungsten;Cloudy,1
+48_5,0,,Daylight;Flash;Fluorescent;Tungsten;Cloudy,1
+570_2,0,34.07620968;34.85712352;33.24789061,Flash;Fluorescent;Incandescent;Shade;Cloudy;Auto;Direct Sunlight;Color Temperature,1
+570_3,0,34.07620968;34.85712352;33.24789061,Flash;Fluorescent;Incandescent;Shade;Cloudy;Auto;Direct Sunlight;Color Temperature,1
+570_4,0,34.07620968;34.85712352;33.24789061,Flash;Fluorescent;Incandescent;Shade;Cloudy;Auto;Direct Sunlight;Color Temperature,1
+570_5,0,34.07620968;34.85712352;33.24789061,Flash;Fluorescent;Incandescent;Shade;Cloudy;Auto;Direct Sunlight;Color Temperature,1
+58_2,0,,Cloudy;Sunny;Flash;Fluorescent;Incandescent;Shade;Custom White Balance;White Balance Presets,1
+58_3,0,,Cloudy;Sunny;Flash;Fluorescent;Incandescent;Shade;Custom White Balance;White Balance Presets,1
+58_4,0,,Cloudy;Sunny;Flash;Fluorescent;Incandescent;Shade;Custom White Balance;White Balance Presets,1
+58_5,0,,Cloudy;Sunny;Flash;Fluorescent;Incandescent;Shade;Auto;Custom White Balance;White Balance Preset,1
+6_2,0,22.07789275;23.06500085,Preset;Auto;Flash;Fluorescent;Cloudy,1
+6_3,0,22.07789275;23.06500085,Preset;Auto;Flash;Fluorescent;Cloudy,1
+6_4,0,22.07789275;23.06500085,Preset;Auto;Flash;Cloudy,1
+6_5,0,22.07789275;23.06500085,Preset;Auto;Flash;Fluorescent,1
+65_2,0,,Sunny;Shade;Daylight;Preset;Automatic;Fluorescent Light,1
+65_3,0,,Sunny;Shade;Daylight;Preset;Automatic;Fluorescent Light,1
+65_4,0,,Sunny;Shade;Daylight;Preset;Automatic;Fluorescent Light,1
+65_5,0,,Sunny;Shade;Daylight;Preset;Automatic;Fluorescent Light;Auto,1
+67_2,0,14.85500566;16.71349035;16.15411089,Cloudy;Fluorescent;Tungsten;Custom;Auto,1
+67_3,0,14.85500566;16.71349035;16.15411089,Cloudy;Fluorescent;Tungsten;Day Light;Custom;Auto,1
+67_4,0,14.85500566;16.71349035;16.15411089,Cloudy;Fluorescent;Tungsten;Custom;Auto,1
+67_5,0,14.85500566;16.71349035;16.15411089,Cloudy;Fluorescent;Tungsten;Custom,1
+69_2,0,,Daylight;Shade;Underwater;Cloudy;Custom White Balance;White Balance Presets,1
+69_3,0,,Daylight;Shade;Underwater;Cloudy;Custom White Balance;White Balance Presets,1
+69_4,0,,Daylight;Shade;Underwater;Cloudy;Custom White Balance;White Balance Presets,1
+69_5,0,,Daylight;Cloudy;Shade;Underwater;Custom White Balance;White Balance Preset,1
+70_2,0,,Daylight;Incandescent;Shade;Cloudy;White Set;Auto,1
+70_3,0,,Daylight;Incandescent;Shade;Cloudy;Auto,1
+70_4,0,,Daylight;Incandescent;Shade;Cloudy;White Set;Auto,1
+70_5,0,,Daylight;Incandescent;Shade;Cloudy;White Set,1
+75_2,0,17.06378901;17.50482921,,1
+75_3,0,17.06378901;17.50482921,,1
+75_4,0,17.06378901;17.50482921,Auto,1
+75_5,0,17.06378901;17.50482921,Auto,1
+76_2,0,,Sunlight;Auto;Choose Color Temperature;all with Fine-Tuning,1
+76_3,0,,Sunlight;Auto;Choose Color Temperature;all with Fine-Tuning,1
+76_4,0,,Sunlight;Choose Color Temperature;all with Fine-Tuning,1
+76_5,0,,Sunlight;Auto;Choose Color Temperature;all with Fine-Tuning,1
+83_2,0,,Auto,1
+83_3,0,,Auto,1
+83_4,0,,Auto,1
+83_5,0,,Preset;Autos,1
+88_2,0,18.71933265;19.51815235;20.75334813,Daylight;Flash;Cloudy;Custom White Balance;White Balance Presets,1
+88_3,0,18.71933265;19.51815235;20.75334813,Daylight;Flash;Cloudy;Custom White Balance;White Balance Presets,1
+88_4,0,18.71933265;19.51815235;20.75334813,Daylight;Flash;Cloudy;Custom White Balance;White Balanced Presets,1
+88_5,0,18.71933265;19.51815235;20.75334813,Daylight;Flash;Cloudy;Custom White Balance;White Balance Presets,1
+96_2,0,21.21603705;18.76776583;19.178631,preset;color temperature setting;with white balance correction and white balance bracketing functions;With flash color temperature information transmission;Auto;Preset;Custom;Color Temperature Setting,1
+96_3,0,21.21603705;18.76776583;19.178631,preset;color temperature setting;With flash color temperature information transmission;Auto;Preset;Custom;Color Temperature Setting,1
+96_4,0,21.21603705;18.76776583;19.178631,preset;color temperature setting;With flash color temperature information transmission;Auto;Preset;Custom;Color Temperature Setting,1
+96_5,0,21.21603705;18.76776583;19.178631,preset;color temperature setting;with white balance correction and white balance bracketing functions;With flash color temperature information transmission;Auto;Preset;Custom,1

@@ -1,0 +1,630 @@
+entity,Domain,Conditions,Humidity,day
+2.0,Austin,Rain;Mist,93.0,1.0
+5.0,Austin,Rain;Light Rain,93.0,1.0
+10.0,Austin,Rain,93.0,1.0
+13.0,Austin,Cloudy;Overcast,81.0,1.0
+25.0,Austin,Cloudy,81.0,1.0
+31.0,Austin,Cloudy,84.0,1.0
+35.0,Austin,Cloudy;Overcast,81.0,1.0
+38.0,Austin,Cloudy,85.0,1.0
+39.0,Austin,Cloudy,87.0,1.0
+43.0,Austin,Cloudy;Overcast;Showers,93.0,1.0
+50.0,Austin,Cloudy;Fog;Haze,81.0,1.0
+60.0,Austin,Overcast,85.0,1.0
+91.0,Austin,Not totally Cloudy;Partly Cloudy,64.0,1.0
+104.0,Austin,Clear;Not totally Sunny,80.0,1.0
+112.0,Austin,Sunny;Clear,53.0,1.0
+130.0,Austin,Cloudy,88.0,1.0
+132.0,Austin,Cloudy,88.0,1.0
+145.0,Austin,Cloudy,81.0,1.0
+149.0,Austin,Rain;Light Rain,93.0,1.0
+154.0,Austin,Cloudy;Overcast;Showers,93.0,1.0
+156.0,Austin,Rain;Light Rain,100.0,1.0
+167.0,Austin,Cloudy;Fog;Fog And Mist;Light Rain;Light Rain Mist,100.0,1.0
+174.0,Austin,Mist/Fog,93.0,1.0
+205.0,Austin,Fog;Overcast;Showers;Mist,93.0,1.0
+209.0,Austin,Fog;Overcast;Rain,93.0,1.0
+251.0,Austin,Mist/Fog,86.0,1.0
+254.0,Austin,Mist/Fog,86.0,1.0
+257.0,Baltimore,Overcast with Haze,80.0,1.0
+259.0,Baltimore,Cloudy,76.0,1.0
+273.0,Baltimore,Rain;Light Rain,87.0,1.0
+275.0,Baltimore,Rain,93.0,1.0
+280.0,Baltimore,Rain;Light Rain,100.0,1.0
+302.0,Baltimore,Overcast,80.0,1.0
+314.0,Baltimore,Mist/Light Rain Fog,93.0,1.0
+315.0,Baltimore,Mist/Light Rain Fog,90.0,1.0
+324.0,Baltimore,Mostly Cloudy;Fair;Clean,43.0,1.0
+342.0,Baltimore,Clear,52.0,1.0
+376.0,Baltimore,Fair,43.0,1.0
+382.0,Baltimore,A Few Clouds,57.0,1.0
+398.0,Baltimore,Overcast,40.0,1.0
+407.0,Charlotte,Cloudy;Overcast,36.0,1.0
+408.0,Charlotte,Cloudy;Overcast,36.0,1.0
+428.0,Charlotte,Snow;Fair,79.0,1.0
+441.0,Charlotte,Light Snow;Flurries;Light,80.0,1.0
+462.0,Charlotte,Sunny;Clear,33.0,1.0
+467.0,Charlotte,Sunny;Clear,37.0,1.0
+483.0,Charlotte,Clear,61.0,1.0
+496.0,Charlotte,Mainly Cloudy,65.0,1.0
+498.0,Charlotte,Partly Cloudy,60.0,1.0
+517.0,Charlotte,Partly Cloudy;Scattered Clouds;Mainly Sunny,55.0,1.0
+528.0,Charlotte,Mostly Cloudy;Clean;Intermittent Clouds,81.0,1.0
+535.0,Charlotte,Cloudy;Haze,81.0,1.0
+552.0,Charlotte,Mostly Cloudy,61.0,1.0
+565.0,Charlotte,Overcast,75.0,1.0
+600.0,Charlotte,Cloudy;Overcast;Mist,86.0,1.0
+611.0,Charlotte,Light Snow,79.0,1.0
+625.0,Charlotte,Mist/Fog,85.0,1.0
+646.0,Charlotte,Clear,42.0,1.0
+649.0,Charlotte,Sunny,38.0,1.0
+655.0,Charlotte,Mostly Sunny;Partly Cloudy,26.0,1.0
+660.0,Charlotte,Clear;Cloudy,36.0,1.0
+669.0,Charlotte,Cloudy,40.0,1.0
+671.0,Charlotte,Cloudy,44.0,1.0
+673.0,Chicago,Mostly Cloudy;Mostly,44.0,1.0
+676.0,Chicago,Clear,48.0,1.0
+684.0,Chicago,Not totally Cloudy;Partly Sunny,36.0,1.0
+692.0,Chicago,Partly Cloudy;Mainly Sunny;Mostly Clear,29.0,1.0
+731.0,Chicago,Clear,31.0,1.0
+734.0,Chicago,Clear,36.0,1.0
+746.0,Chicago,Scattered Clouds;Mostly Cloudy;Cloudy;Partly,40.0,1.0
+756.0,Chicago,Cloudy,38.0,1.0
+768.0,Chicago,Cloudy,45.0,1.0
+774.0,Chicago,Not totally Sunny;Scattered Clouds;Not totally Cloudy,38.0,1.0
+776.0,Chicago,Partly Cloudy;Scattered Clouds;Partly,35.0,1.0
+789.0,Chicago,Cloudy,58.0,1.0
+791.0,Chicago,Cloudy,56.0,1.0
+798.0,Chicago,Clear,63.0,1.0
+801.0,Chicago,Clear,65.0,1.0
+831.0,Chicago,Partly Sunny;Partly;Scattered Clouds,58.0,1.0
+837.0,Chicago,Not totally Cloudy;Partly Cloudy;Mostly Clear,31.0,1.0
+843.0,Chicago,Overcast;Cloudy,44.0,1.0
+848.0,Chicago,Not totally Cloudy;Partly Cloudy,48.0,1.0
+852.0,Chicago,Partly Cloudy;Not totally Cloudy,54.0,1.0
+859.0,Chicago,Cloudy;Overcast,41.0,1.0
+908.0,Chicago,Cloudy,66.0,1.0
+961.0,Chicago,Cloudy;Overcast,50.0,1.0
+965.0,Chicago,Partly Cloudy;Scattered Clouds;Mostly Clear,41.0,1.0
+997.0,Columbus,Partly Cloudy;Scattered Clouds;Mist;Cloudy,95.0,1.0
+1000.0,Columbus,Mostly Cloudy;Intermittent;Mist;Fog And Mist,100.0,1.0
+1001.0,Columbus,Mostly Cloudy;Mainly Cloudy,92.0,1.0
+1011.0,Columbus,Not totally Cloudy;Partly Cloudy;Mostly Sunny;Sunny,43.0,1.0
+1074.0,Columbus,Cloudy,81.0,1.0
+1080.0,Columbus,Cloudy,80.0,1.0
+1083.0,Columbus,Partly Cloudy;Cloudy;Scattered,74.0,1.0
+1084.0,Columbus,Partly Cloudy;Not totally Cloudy,77.0,1.0
+1086.0,Columbus,Partly Cloudy;Not totally Cloudy,80.0,1.0
+1107.0,Columbus,Sunny;Mainly Sunny;Fair;Partly Cloudy;Partly,47.0,1.0
+1113.0,Columbus,Clear,70.0,1.0
+1152.0,Columbus,Mostly Cloudy;Mainly Cloudy;Intermittent Clouds,67.0,1.0
+1154.0,Columbus,Partly Cloudy;Mainly Sunny;Mostly Clear,49.0,1.0
+1166.0,Columbus,Cloudy,69.0,1.0
+1183.0,Columbus,Drizzle;Light Drizzle;Showers,93.0,1.0
+1224.0,Columbus,Fog;Overcast;Mist;Light Fog,95.0,1.0
+1226.0,Columbus,Fog;Overcast;Mist,93.0,1.0
+1234.0,Columbus,Fog,100.0,1.0
+1237.0,Columbus,Fog,100.0,1.0
+1239.0,Columbus,Fog,100.0,1.0
+1240.0,Columbus,Fog;Overcast;Mist,100.0,1.0
+1286.0,Dallas,Cloudy;Mostly Cloudy;Mostly,60.0,1.0
+1288.0,Dallas,Cloudy;Mostly Cloudy;Mainly Cloudy,57.0,1.0
+1294.0,Dallas,Mostly Cloudy;Mostly,49.0,1.0
+1298.0,Dallas,Cloudy;Mostly Cloudy;Partly Sunny,62.0,1.0
+1304.0,Dallas,Mainly Sunny;Partly Cloudy;Not totally Cloudy,58.0,1.0
+1308.0,Dallas,Partly Cloudy;Partly;Mostly Clear;Scattered,62.0,1.0
+1313.0,Dallas,Cloudy;Overcast,63.0,1.0
+1317.0,Dallas,Cloudy,62.0,1.0
+1318.0,Dallas,Cloudy,62.0,1.0
+1331.0,Dallas,Cloudy;Haze,55.0,1.0
+1333.0,Dallas,A Few Clouds,60.0,1.0
+1335.0,Dallas,Clean,65.0,1.0
+1341.0,Dallas,Partly Cloudy,65.0,1.0
+1342.0,Dallas,Partly Cloudy,65.0,1.0
+1343.0,Dallas,A Few Clouds,68.0,1.0
+1350.0,Dallas,Overcast,62.0,1.0
+1365.0,Dallas,Mostly Cloudy;Cloudy;Mostly,65.0,1.0
+1388.0,Dallas,Partly Cloudy;Scattered Clouds;Not totally Cloudy,54.0,1.0
+1393.0,Dallas,Mostly Cloudy;Partly;Intermittent Clouds;Partly Cloudy,62.0,1.0
+1403.0,Dallas,Cloudy;Overcast,74.0,1.0
+1406.0,Dallas,Cloudy;Mostly Cloudy;Mainly Cloudy,71.0,1.0
+1411.0,Dallas,Mostly Cloudy;Mainly Cloudy,79.0,1.0
+1416.0,Denver,Partly Cloudy;Mostly;Not totally Cloudy;Mostly Sunny,71.0,1.0
+1438.0,Denver,Haze;Partly Cloudy;Hazy,74.0,1.0
+1440.0,Denver,Cloudy;Haze,74.0,1.0
+1450.0,Denver,Overcast,72.0,1.0
+1462.0,Denver,Overcast with Haze,78.0,1.0
+1468.0,Denver,Overcast with Haze,78.0,1.0
+1472.0,Denver,Partly Cloudy;Cloudy;Partly;Partly Sunny,61.0,1.0
+1486.0,Denver,Snow;Flurries;Light Snow;Light,93.0,1.0
+1503.0,Denver,Cloudy;Haze,74.0,1.0
+1507.0,Denver,Overcast Haze,63.0,1.0
+1546.0,Denver,Cloudy;Haze,80.0,1.0
+1557.0,Denver,Cloudy;Haze,80.0,1.0
+1570.0,Denver,Mist/Light Snow Fog,85.0,1.0
+1573.0,Denver,Light Snow,79.0,1.0
+1583.0,Denver,Overcast with Haze,81.0,1.0
+1588.0,Denver,Overcast with Haze,81.0,1.0
+1611.0,Denver,Cloudy;Overcast;Sunny,52.0,1.0
+1614.0,Denver,Sunny;Cloudy;Clean;Mostly Cloudy,48.0,1.0
+1631.0,Denver,Sunny;Cloudy;Fair;Mostly Cloudy,73.0,1.0
+1633.0,Detroit,Partly Cloudy;Sunny;Mostly Clear,79.0,1.0
+1641.0,Detroit,Haze;Hazy;Sunny,74.0,1.0
+1642.0,Detroit,Haze;Fair;Hazy;Intermittent Clouds,74.0,1.0
+1646.0,Detroit,Clear;Mostly Cloudy;Fair;Cloudy,55.0,1.0
+1651.0,Detroit,Mostly Cloudy;Cloudy;Clear,44.0,1.0
+1686.0,Detroit,Cloudy;Overcast,53.0,1.0
+1696.0,Detroit,Cloudy;Clear,57.0,1.0
+1703.0,Detroit,Cloudy;Overcast,57.0,1.0
+1717.0,Detroit,Clear;Mostly Clear;Fair,53.0,1.0
+1723.0,Detroit,Partly Cloudy;Clear;Sunny,73.0,1.0
+1740.0,Detroit,Clear;Sunny;Partly;Fair,57.0,1.0
+1745.0,Detroit,Sunny,43.0,1.0
+1752.0,Detroit,Cloudy;Overcast,72.0,1.0
+1753.0,Detroit,Cloudy;Overcast,72.0,1.0
+1754.0,Detroit,Cloudy;Scattered Clouds,80.0,1.0
+1800.0,Detroit,Cloudy;Overcast,66.0,1.0
+1871.0,Detroit,Cloudy;Snow;Light Snow,75.0,1.0
+1874.0,Detroit,Light Snow;Cloudy;Overcast,81.0,1.0
+1926.0,Detroit,Light Rain;Rain,93.0,1.0
+1940.0,Detroit,Cloudy;Mostly Cloudy,70.0,1.0
+1959.0,Detroit,Cloudy;Mostly Cloudy,92.0,1.0
+1961.0,Detroit,Cloudy;Haze,81.0,1.0
+1963.0,Detroit,Cloudy;Haze,75.0,1.0
+1968.0,Detroit,Cloudy,68.0,1.0
+1985.0,Detroit,Mist/Fog,88.0,1.0
+1995.0,El Paso,Overcast with Haze,79.0,1.0
+1999.0,El Paso,Overcast,68.0,1.0
+2010.0,El Paso,Cloudy;Overcast,75.0,1.0
+2014.0,El Paso,Cloudy;Overcast,75.0,1.0
+2024.0,El Paso,Cloudy;Overcast,74.0,1.0
+2026.0,El Paso,Cloudy;Overcast,74.0,1.0
+2047.0,El Paso,Cloudy;Overcast,82.0,1.0
+2051.0,El Paso,Cloudy;Overcast,82.0,1.0
+2053.0,El Paso,Cloudy;Overcast,85.0,1.0
+2073.0,El Paso,Cloudy;Overcast,76.0,1.0
+2079.0,El Paso,Rain;Light Rain;Light,87.0,1.0
+2091.0,El Paso,Mist/Fog,83.0,1.0
+2108.0,El Paso,Mist/Light Rain Fog,92.0,1.0
+2110.0,Dallas,Light Rain;Rain;Cloudy,85.57958829124999,1.0
+2111.0,El Paso,Light Rain;Rain,88.2137749775,1.0
+2112.0,El Paso,Overcast;Cloudy,88.760646446875,1.0
+2115.0,El Paso,Cloudy,69.9768414225,1.0
+2120.0,El Paso,Cloudy,79.481527566875,1.0
+2121.0,El Paso,Cloudy;Haze,81.756914608125,1.0
+2152.0,Fort Worth,Overcast with Haze,82.718307,1.0
+2161.0,Fort Worth,Overcast Haze,82.40290947375,1.0
+2175.0,Fort Worth,Cloudy,57.049529730625,1.0
+2176.0,Fort Worth,Mostly,54.0822646975,1.0
+2180.0,Fort Worth,Cloudy;Mostly Cloudy,63.59269753624999,1.0
+2211.0,Fort Worth,Mostly,61.14694581375,1.0
+2220.0,Fort Worth,Overcast,85.853205896875,1.0
+2223.0,Fort Worth,Mostly Cloudy,86.0,1.0
+2226.0,Fort Worth,Overcast,82.0,1.0
+2247.0,Fort Worth,Fog;Partly Cloudy;Not totally Cloudy;Scattered Clouds,92.0625,1.0
+2268.0,Fort Worth,Partly Cloudy;Mostly Cloudy,77.6875,1.0
+2272.0,Fort Worth,Partly Cloudy;Clear;Clean;Sunny;Intermittent Clouds,74.3125,1.0
+2273.0,Fort Worth,Partly Cloudy;Clear,75.9375,1.0
+2281.0,Fort Worth,Partly;Partly Cloudy;Partly Sunny,48.75,1.0
+2305.0,Fort Worth,Mist/Fog,92.0,1.0
+2309.0,Fort Worth,A Few Clouds,69.0,1.0
+2318.0,Fort Worth,A Few,25.0,1.0
+2320.0,Fort Worth,A Few Clouds,23.0,1.0
+2323.0,Fort Worth,Not totally Cloudy,23.0,1.0
+2328.0,Fort Worth,Mostly Clear;Partly;Mainly Sunny,31.75,1.0
+2332.0,Fort Worth,Clear;Sunny,40.875,1.0
+2350.0,Fort Worth,Not totally Cloudy;Mostly Cloudy;Clear;Mostly;Partly Cloudy,30.5,1.0
+2355.0,Fort Worth,Mostly Cloudy;Sunny,23.1875,1.0
+2358.0,Fort Worth,Partly Cloudy;Cloudy;Mostly Cloudy;Clear,48.8125,1.0
+2365.0,Fort Worth,Mainly Cloudy;Partly Cloudy;Mostly Cloudy;Mostly Clear,57.1875,1.0
+2396.0,Houston,Cloudy,48.4375,1.0
+2402.0,Houston,Cloudy,82.9375,1.0
+2417.0,Houston,Overcast,57.0,1.0
+2423.0,Houston,Overcast,85.0,1.0
+2442.0,Houston,Clear,41.875,1.0
+2445.0,Houston,Clear,59.125,1.0
+2447.0,Houston,Clear,48.3125,1.0
+2451.0,Houston,Clear;Partly Cloudy;Mainly Sunny,44.0625,1.0
+2457.0,Houston,Sunny;Mostly Sunny,42.25,1.0
+2479.0,Houston,Clean,71.0,1.0
+2500.0,Houston,Mainly Cloudy;Mostly Cloudy;Intermittent Clouds,39.375,1.0
+2535.0,Houston,Cloudy,52.0,1.0
+2543.0,Houston,Partly Cloudy,47.0,1.0
+2548.0,Houston,Not totally Cloudy,36.0,1.0
+2549.0,Houston,Not totally Cloudy,36.0,1.0
+2552.0,Houston,Not totally Cloudy,29.0,1.0
+2558.0,Houston,Mostly Cloudy,27.0,1.0
+2580.0,Houston,Clear;Mostly Cloudy,54.125,1.0
+2589.0,Houston,Clear;Sunny,67.75,1.0
+2605.0,Houston,Cloudy;Overcast,52.875,1.0
+2611.0,Houston,Cloudy,55.25,1.0
+2625.0,Houston,Fair,70.0,1.0
+2631.0,Houston,Clean,80.0,1.0
+2648.0,Houston,Clear;Mostly Clear,53.9375,1.0
+2649.0,Houston,Clear;Mostly Clear,57.3125,1.0
+2650.0,Houston,Clear;Sunny,61.6875,1.0
+2672.0,Houston,Partly Cloudy;Partly Sunny;Scattered Clouds;Scattered;Not totally Cloudy,60.3125,1.0
+2685.0,Houston,Clear;Clean;Mostly Clear,78.75,1.0
+2687.0,Houston,Clear;Fair,78.25,1.0
+2691.0,Houston,Clear;Fair;Mostly Cloudy,83.3125,1.0
+2692.0,Houston,Overcast;Cloudy;Clear,83.75,1.0
+2710.0,Indianapolis,Cloudy,70.0625,1.0
+2712.0,Indianapolis,Clear;Cloudy,73.8125,1.0
+2713.0,Indianapolis,Partly Cloudy;Cloudy,73.0625,1.0
+2743.0,Indianapolis,Clean,85.0,1.0
+2746.0,Indianapolis,Clean,85.0,1.0
+2755.0,Indianapolis,Cloudy,66.0,1.0
+2763.0,Indianapolis,Cloudy;Overcast;Partly Cloudy,77.9375,1.0
+2777.0,Indianapolis,Light Snow;Flurries;Cloudy;Light,80.375,1.0
+2780.0,Indianapolis,Haze;Hazy;Cloudy;Partly Cloudy,80.1875,1.0
+2798.0,Indianapolis,Overcast,85.0,1.0
+2806.0,Indianapolis,Mist/Fog,84.0,1.0
+2825.0,Indianapolis,Flurries;Cloudy;Fog And Mist;Light Snow;Light Snow Mist;Mist,92.875,1.0
+2827.0,Indianapolis,Light Snow;Overcast;Flurries;Snow,93.1875,1.0
+2831.0,Indianapolis,Cloudy;Overcast;Fog,86.5625,1.0
+2832.0,Indianapolis,Cloudy;Fog;Mist,92.5625,1.0
+2843.0,Indianapolis,Cloudy;Partly;Partly Cloudy,70.1875,1.0
+2845.0,Indianapolis,Cloudy,64.75,1.0
+2858.0,Indianapolis,Mist/Light Snow Fog,92.0,1.0
+2861.0,Indianapolis,Mist/Fog,88.0,1.0
+2877.0,Jacksonville,Overcast,66.0,1.0
+2881.0,Jacksonville,Light Snow;Snow;Light Snow Mist;Flurries,92.75,1.0
+2885.0,Jacksonville,Cloudy,85.125,1.0
+2889.0,Jacksonville,Mostly Cloudy;Cloudy,78.8125,1.0
+2895.0,Jacksonville,Partly Cloudy;Not totally Cloudy;Partly Sunny,64.5,1.0
+2916.0,Jacksonville,Mostly Cloudy,75.75,1.0
+2918.0,Jacksonville,Mostly Cloudy;Mainly Cloudy,80.6875,1.0
+2936.0,Jacksonville,Mostly Cloudy,57.0,1.0
+2951.0,Jacksonville,Mainly Cloudy,82.0,1.0
+2955.0,Jacksonville,Mainly Cloudy,71.0,1.0
+2962.0,Jacksonville,Partly,38.0,1.0
+2963.0,Jacksonville,Mostly Cloudy,31.0,1.0
+2969.0,Jacksonville,Clear;Fair,61.9375,1.0
+2974.0,Jacksonville,Sunny;Clear,75.0625,1.0
+2995.0,Jacksonville,Cloudy;Overcast,42.9375,1.0
+3002.0,Jacksonville,Not totally Cloudy;Mostly Clear;Scattered Clouds;Cloudy,65.0,1.0
+3017.0,Jacksonville,Cloudy,81.625,1.0
+3024.0,Jacksonville,Cloudy;Mainly Cloudy,43.6875,1.0
+3026.0,Las Vegas,Mostly Cloudy;Cloudy,40.8125,1.0
+3040.0,Las Vegas,Light Rain,87.5625,1.0
+3050.0,Las Vegas,Overcast,87.0,1.0
+3060.0,Las Vegas,Overcast,93.0,1.0
+3076.0,Las Vegas,Mostly Cloudy;Intermittent Clouds;Cloudy,31.375,1.0
+3081.0,Las Vegas,Mainly Cloudy;Mostly Cloudy;Cloudy,46.8125,1.0
+3086.0,Las Vegas,Mostly Cloudy;Mostly,65.5625,1.0
+3111.0,Las Vegas,Overcast,47.0,1.0
+3120.0,Las Vegas,Mostly Cloudy,65.0,1.0
+3135.0,Las Vegas,Mostly,30.0,1.0
+3136.0,Las Vegas,Mostly Cloudy,30.0,1.0
+3162.0,Las Vegas,Light Rain;Showers,81.875,1.0
+3167.0,Las Vegas,Light Rain;Rain,93.8125,1.0
+3176.0,Las Vegas,Overcast,57.0,1.0
+3181.0,Las Vegas,Overcast,73.0,1.0
+3186.0,Las Vegas,Light Rain,86.0,1.0
+3194.0,Las Vegas,Light,83.0,1.0
+3202.0,Las Vegas,Light Rain,92.0625,1.0
+3209.0,Las Vegas,Rain,87.6875,1.0
+3225.0,Las Vegas,Clear,80.0625,1.0
+3245.0,Las Vegas,Cloudy;Overcast,86.8125,1.0
+3251.0,Las Vegas,Cloudy,75.25,1.0
+3259.0,Las Vegas,Mist/Fog,85.0,1.0
+3260.0,Las Vegas,Mist/Fog,88.0,1.0
+3262.0,Las Vegas,Mist/Fog,88.0,1.0
+3263.0,Las Vegas,Mist/Fog,92.0,1.0
+3265.0,Los Angeles,Mist/Fog,88.0,1.0
+3270.0,Los Angeles,Mist/Fog,89.0,1.0
+3291.0,Los Angeles,Cloudy;Overcast,78.0625,1.0
+3296.0,Los Angeles,Cloudy,74.125,1.0
+3302.0,Los Angeles,Cloudy,76.5625,1.0
+3307.0,Los Angeles,Cloudy,73.9375,1.0
+3314.0,Los Angeles,Cloudy,74.0,1.0
+3316.0,Los Angeles,Cloudy,77.625,1.0
+3319.0,Los Angeles,Cloudy,78.25,1.0
+3324.0,Los Angeles,Cloudy,81.625,1.0
+3343.0,Los Angeles,Cloudy,80.75,1.0
+3351.0,Los Angeles,Light Rain;Rain,85.0,1.0
+3358.0,Los Angeles,Light Rain;Cloudy,87.875,1.0
+3361.0,Los Angeles,Light Rain;Rain,92.3125,1.0
+3373.0,Los Angeles,Light Rain,85.0,1.0
+3387.0,Los Angeles,Light Rain,97.0,1.0
+3398.0,Los Angeles,Cloudy,79.1875,1.0
+3399.0,Los Angeles,Cloudy,79.1875,1.0
+3418.0,Los Angeles,Cloudy,70.25,1.0
+3424.0,Los Angeles,Sunny;Not totally Cloudy,57.8125,1.0
+3433.0,Los Angeles,Overcast,80.0,1.0
+3435.0,Los Angeles,Overcast,86.0,1.0
+3453.0,Los Angeles,Mainly Cloudy,68.0,1.0
+3461.0,Los Angeles,Sunny;Partly Cloudy;Clear,67.1875,1.0
+3462.0,Memphis,Clear;Sunny,71.8125,1.0
+3478.0,Memphis,Sunny;Cloudy;Mostly,85.25,1.0
+3483.0,Memphis,Clear;Sunny;Overcast,68.5625,1.0
+3484.0,Memphis,Light Rain;Cloudy;Clean,71.125,1.0
+3503.0,Memphis,Clean,89.0,1.0
+3511.0,Memphis,Fair,80.0,1.0
+3512.0,Memphis,Fair,77.0,1.0
+3513.0,Memphis,Fair,77.0,1.0
+3534.0,Memphis,Cloudy,82.25,1.0
+3544.0,Memphis,Partly Cloudy;Fair,75.5,1.0
+3546.0,Memphis,Partly Cloudy;Clear;Scattered Clouds;Clean,78.875,1.0
+3547.0,Memphis,Partly Cloudy;Not totally Cloudy;Clear,80.5,1.0
+3549.0,Memphis,Partly;Scattered Clouds;Cloudy;Not totally Cloudy,80.9375,1.0
+3568.0,Memphis,Cloudy;Overcast;Fog And Mist,92.0625,1.0
+3571.0,Memphis,Cloudy;Overcast,86.5,1.0
+3584.0,Memphis,Mostly Cloudy,83.0,1.0
+3608.0,Memphis,Cloudy,73.6875,1.0
+3623.0,Memphis,Cloudy,73.1875,1.0
+3625.0,Memphis,Cloudy,71.75,1.0
+3627.0,Memphis,Cloudy,69.875,1.0
+3632.0,Memphis,Cloudy;Mostly Cloudy,62.0625,1.0
+3634.0,Memphis,Cloudy;Mostly,61.8125,1.0
+3641.0,Memphis,Cloudy,72.875,1.0
+3643.0,Memphis,Cloudy,74.625,1.0
+3645.0,Memphis,Cloudy,74.375,1.0
+3650.0,Memphis,Cloudy,75.5625,1.0
+3659.0,Memphis,Cloudy,75.125,1.0
+3666.0,Milwaukee,Cloudy;Mostly Cloudy,69.0,1.0
+3667.0,Milwaukee,Cloudy;Light;Light Rain,81.4375,1.0
+3674.0,Milwaukee,Rain;Cloudy,92.0625,1.0
+3681.0,Milwaukee,Rain;Showers;Cloudy,92.5625,1.0
+3693.0,Milwaukee,Mist/Rain Fog,86.0,1.0
+3705.0,Milwaukee,Overcast,92.0,1.0
+3719.0,Milwaukee,Cloudy,89.0,1.0
+3725.0,Milwaukee,Cloudy,92.0625,1.0
+3727.0,Milwaukee,Cloudy,87.125,1.0
+3733.0,Milwaukee,Cloudy;Overcast,91.6875,1.0
+3764.0,Milwaukee,Mist/Fog,90.0,1.0
+3771.0,Milwaukee,Light Rain,80.0,1.0
+3773.0,Milwaukee,Overcast,77.0,1.0
+3775.0,Milwaukee,Overcast,78.0,1.0
+3784.0,Milwaukee,Cloudy;Mostly Cloudy,81.375,1.0
+3793.0,Milwaukee,Cloudy;Mostly Cloudy;Overcast,79.75,1.0
+3794.0,Milwaukee,Overcast;Cloudy,81.3125,1.0
+3795.0,Milwaukee,Light Rain;Mostly Cloudy;Cloudy,79.375,1.0
+3796.0,Milwaukee,Light Rain;Showers,81.4375,1.0
+3819.0,Milwaukee,Mostly Cloudy,80.0,1.0
+3839.0,Milwaukee,Overcast,77.0,1.0
+3856.0,Milwaukee,Mostly Cloudy;Cloudy,59.625,1.0
+3860.0,Milwaukee,Partly Cloudy;Sunny;Cloudy,55.6875,1.0
+3871.0,Milwaukee,Mostly Cloudy;Mainly Cloudy;Overcast;Intermittent Clouds,71.125,1.0
+3874.0,Milwaukee,Cloudy;Overcast,69.6875,1.0
+3886.0,Nashville,Mostly Cloudy,54.375,1.0
+3901.0,Nashville,A Few Clouds,68.0,1.0
+3922.0,Nashville,Mostly Cloudy,41.0,1.0
+3951.0,Nashville,Partly Cloudy;Not totally Cloudy;Sunny;Cloudy;Scattered,55.6875,1.0
+3954.0,Nashville,Partly Cloudy;Not totally Cloudy;Scattered Clouds;Mostly Sunny,55.6875,1.0
+3961.0,Nashville,Partly Cloudy;Mostly Clear,73.125,1.0
+3980.0,Nashville,Clear;Sunny,67.0625,1.0
+3983.0,Nashville,Sunny;Clear,58.6875,1.0
+4002.0,Nashville,Cloudy;Overcast,81.9375,1.0
+4012.0,Nashville,Fair,78.0,1.0
+4027.0,Nashville,Mist/Fog,84.0,1.0
+4031.0,Nashville,Partly;Partly Sunny;Mostly Clear,73.25,1.0
+4034.0,Nashville,Mostly Cloudy;Mainly Cloudy,44.375,1.0
+4036.0,Nashville,Mostly Cloudy;Cloudy,54.875,1.0
+4051.0,Nashville,Cloudy,75.5625,1.0
+4063.0,Nashville,Cloudy,59.5,1.0
+4072.0,Nashville,Overcast,56.0,1.0
+4090.0,Nashville,Overcast,54.0,1.0
+4094.0,Nashville,Overcast,59.0,1.0
+4096.0,Nashville,Overcast,62.0,1.0
+4108.0,Nashville,Cloudy,80.5625,1.0
+4111.0,Nashville,Light Snow;Flurries;Cloudy;Light,87.6875,1.0
+4121.0,Nashville,Haze;Cloudy;Snow,78.25,1.0
+4136.0,Nashville,Overcast,82.0,1.0
+4149.0,Nashville,Overcast with Haze,81.0,1.0
+4150.0,Nashville,Overcast with Haze,81.0,1.0
+4153.0,Nashville,Overcast with Haze,78.0,1.0
+4178.0,Nashville,Cloudy;Overcast,55.125,1.0
+4182.0,Nashville,Cloudy,75.75,1.0
+4186.0,Nashville,Cloudy;Mainly Cloudy;Mostly Cloudy;Mostly,76.8125,1.0
+4193.0,New York,Mostly Cloudy;Mainly Cloudy;Clear,79.3125,1.0
+4199.0,New York,Cloudy;Overcast;Sunny,84.625,1.0
+4205.0,New York,Cloudy;Overcast,72.4375,1.0
+4212.0,New York,Mostly Cloudy,71.0,1.0
+4219.0,New York,Mostly Cloudy,77.0,1.0
+4227.0,New York,Mainly Cloudy,80.0,1.0
+4231.0,New York,Overcast,83.0,1.0
+4244.0,New York,Overcast,83.0,1.0
+4259.0,New York,Cloudy;Overcast,91.0625,1.0
+4280.0,New York,Cloudy;Overcast,88.6875,1.0
+4292.0,New York,Cloudy,74.375,1.0
+4306.0,New York,Mostly Cloudy;Mainly Cloudy,69.25,1.0
+4318.0,New York,Cloudy;Not totally Cloudy;Mostly,97.0,1.0
+4323.0,New York,Cloudy,83.125,1.0
+4334.0,New York,Mostly Cloudy,80.0,1.0
+4337.0,New York,Not totally Cloudy,86.0,1.0
+4341.0,New York,Overcast,89.0,1.0
+4343.0,Oklahoma City,Overcast,86.0,1.0
+4359.0,Oklahoma City,Cloudy;Light Rain,89.625,1.0
+4372.0,Oklahoma City,Cloudy;Overcast,95.0625,1.0
+4377.0,Oklahoma City,Rain;Overcast,94.6875,1.0
+4389.0,Oklahoma City,Overcast,87.0,1.0
+4399.0,Oklahoma City,Mist/Light Rain Fog,97.0,1.0
+4430.0,Oklahoma City,Cloudy,74.75,1.0
+4442.0,Oklahoma City,Partly Cloudy;Sunny;Cloudy,65.8125,1.0
+4444.0,Oklahoma City,Mostly Cloudy;Partly Sunny;Mainly Cloudy,68.5,1.0
+4460.0,Oklahoma City,Overcast,74.0,1.0
+4462.0,Oklahoma City,Overcast,77.0,1.0
+4479.0,Oklahoma City,Cloudy,67.0,1.0
+4482.0,Oklahoma City,Mostly Clear,62.0625,1.0
+4484.0,Oklahoma City,Clear;Mostly;Cloudy,69.0,1.0
+4486.0,Oklahoma City,Clear;Mainly Cloudy;Cloudy;Fair,68.8125,1.0
+4488.0,Oklahoma City,Mostly Cloudy;Clear;Intermittent Clouds;Fair,71.0,1.0
+4500.0,Philadelphia,Mostly Cloudy;Intermittent Clouds;Mostly Sunny;Sunny,33.125,1.0
+4501.0,Philadelphia,Mostly Cloudy;Intermittent Clouds;Fair,32.1875,1.0
+4543.0,Philadelphia,Mainly Cloudy,33.0,1.0
+4554.0,Philadelphia,A Few Clouds,73.0,1.0
+4569.0,Philadelphia,Mostly Cloudy;Clear;Intermittent Clouds;Fair,51.0,1.0
+4571.0,Philadelphia,Clear;Mostly;Partly Cloudy;Clean;Mostly Cloudy,62.0625,1.0
+4576.0,Philadelphia,Mostly Cloudy;Clear;Clean,67.8125,1.0
+4584.0,Philadelphia,Clear;Partly Cloudy;Mostly Sunny;Sunny,75.3125,1.0
+4629.0,Philadelphia,Clear;Not totally Cloudy;Sunny;Partly,29.5,1.0
+4632.0,Philadelphia,Sunny;Clear,36.5,1.0
+4634.0,Philadelphia,Clear,52.75,1.0
+4637.0,Philadelphia,Clear,53.75,1.0
+4645.0,Philadelphia,Clear;Partly Cloudy,59.875,1.0
+4646.0,Philadelphia,Clear;Mostly Clear;Not totally Cloudy,60.4375,1.0
+4666.0,Philadelphia,A Few Clouds,62.0,1.0
+4668.0,Philadelphia,A Few Clouds,62.0,1.0
+4672.0,Philadelphia,Clear;Scattered Clouds;Not totally Sunny;Clean;Sunny,59.3125,1.0
+4680.0,Philadelphia,Mainly Cloudy;Clear;Mostly Cloudy;Cloudy,40.625,1.0
+4694.0,Philadelphia,Cloudy;Not totally Cloudy,65.25,1.0
+4697.0,Philadelphia,Mostly Cloudy;Partly Cloudy,53.0,1.0
+4698.0,Phoenix,Mainly Cloudy;Clear;Sunny,48.1875,1.0
+4701.0,Phoenix,Sunny;Mainly Cloudy;Clear;Fair,35.8125,1.0
+4703.0,Phoenix,Clear;Mainly Cloudy;Intermittent Clouds;Partly Cloudy,34.1875,1.0
+4717.0,Phoenix,Mostly Cloudy,56.0,1.0
+4726.0,Phoenix,Mostly,60.0,1.0
+4727.0,Phoenix,Cloudy,60.0,1.0
+4739.0,Phoenix,Clear;Mainly Cloudy;Clean;Mostly Cloudy,35.625,1.0
+4758.0,Phoenix,Clear;Mostly Clear;Fair,70.0,1.0
+4764.0,Phoenix,Sunny;Clear;Fair;Scattered Clouds;Scattered;Partly Sunny,43.3125,1.0
+4767.0,Phoenix,Sunny;Partly Sunny;Fair;Clear,31.0625,1.0
+4770.0,Phoenix,Mostly Cloudy,36.0,1.0
+4774.0,Phoenix,Mostly Cloudy,48.0,1.0
+4776.0,Phoenix,Mostly,52.0,1.0
+4800.0,Phoenix,Clear,73.9375,1.0
+4810.0,Phoenix,Sunny;Clear,59.5625,1.0
+4811.0,Phoenix,Sunny;Clear,58.1875,1.0
+4815.0,Phoenix,Sunny;Clear,39.0625,1.0
+4832.0,Phoenix,Clear,77.25,1.0
+4850.0,Phoenix,Haze;Sunny;Mainly Sunny,45.625,1.0
+4852.0,Phoenix,Fair,54.0,1.0
+4854.0,Phoenix,Fair,56.0,1.0
+4857.0,Phoenix,Fair,56.0,1.0
+4858.0,Phoenix,Fair,56.0,1.0
+4866.0,Phoenix,Fair,77.0,1.0
+4868.0,Phoenix,Haze,83.0,1.0
+4870.0,Phoenix,Haze,79.0,1.0
+4883.0,Phoenix,Haze,42.0,1.0
+4888.0,Phoenix,Sunny;Clear,59.8125,1.0
+4899.0,Phoenix,Cloudy;Haze;Mainly Cloudy;Unclear,83.0,1.0
+4900.0,Phoenix,Hazy;Haze;Partly Cloudy;Fair,82.75,1.0
+4934.0,Phoenix,Clear;Sunny,85.25,1.0
+4938.0,Portland,Haze;Hazy Sunshine;Sunny;Clear,87.0625,1.0
+4940.0,Portland,Sunny;Haze;Hazy,75.4375,1.0
+4941.0,Portland,Sunny;Hazy;Haze,64.6875,1.0
+4942.0,Portland,Sunny;Clear,53.5625,1.0
+4944.0,Portland,Clear;Haze;Mostly Sunny,46.6875,1.0
+4955.0,Portland,Clear,77.3125,1.0
+4971.0,Portland,Fair,47.0,1.0
+4981.0,Portland,Overcast,81.0,1.0
+4993.0,Portland,Sunny;Clear,68.5,1.0
+4997.0,Portland,Clear;Sunny,67.0,1.0
+5014.0,Portland,Haze;Hazy,88.0,1.0
+5024.0,Portland,Haze;Cloudy,60.0,1.0
+5036.0,Portland,Haze,81.0,1.0
+5038.0,Portland,Fog,86.0,1.0
+5045.0,Portland,Haze,84.0,1.0
+5046.0,Portland,Haze,80.0,1.0
+5050.0,Portland,Haze,77.0,1.0
+5060.0,Portland,Clear;Sunny,57.0,1.0
+5075.0,Portland,Clear,82.0,1.0
+5076.0,Portland,Clear,82.0,1.0
+5092.0,San Antonio,Clean,60.0,1.0
+5115.0,San Antonio,Clean,46.0,1.0
+5118.0,San Antonio,Fair,41.0,1.0
+5121.0,San Antonio,Cloudy,64.0,1.0
+5132.0,San Antonio,Light Freezing Rain;Sleet;Freezing Rain,86.0,1.0
+5143.0,San Antonio,Mainly Cloudy;Mostly Cloudy;Not totally Cloudy;Partly;Cloudy,75.0,1.0
+5153.0,San Antonio,Mostly Cloudy;Mostly;Mainly Cloudy,81.0,1.0
+5170.0,San Antonio,Cloudy,53.0,1.0
+5185.0,San Antonio,Mainly Cloudy,78.0,1.0
+5207.0,San Antonio,Freezing Rain;Light Freezing,85.0,1.0
+5209.0,San Antonio,Freezing Rain;Light Freezing Rain;Freezing,86.0,1.0
+5210.0,San Antonio,Freezing Drizzle;Freezing Rain;Light Freezing Drizzle;Light Freezing Drizzle Mist,86.0,1.0
+5213.0,San Antonio,Freezing Drizzle;Light Freezing;Light Freezing Drizzle Mist;Rain;Cloudy,88.0,1.0
+5214.0,San Antonio,Freezing Drizzle;Light Freezing Drizzle;Freezing Rain,93.0,1.0
+5215.0,San Antonio,Light Freezing Drizzle;Freezing Drizzle;Rain,86.0,1.0
+5229.0,San Antonio,Cloudy,86.0,1.0
+5248.0,San Antonio,Clear;Sunny,81.0,1.0
+5263.0,San Antonio,Partly Cloudy;Partly Sunny,67.0,1.0
+5268.0,San Antonio,Cloudy,55.0,1.0
+5269.0,San Antonio,Cloudy,55.0,1.0
+5275.0,San Antonio,Cloudy,65.0,1.0
+5280.0,San Antonio,Cloudy,65.0,1.0
+5289.0,San Diego,Overcast,55.0,1.0
+5296.0,San Diego,Overcast,63.0,1.0
+5309.0,San Diego,Rain,73.0,1.0
+5312.0,San Diego,Cloudy;Overcast,70.0,1.0
+5316.0,San Diego,Cloudy,57.0,1.0
+5318.0,San Diego,Cloudy,73.0,1.0
+5346.0,San Diego,Overcast,60.0,1.0
+5352.0,San Diego,Overcast,73.0,1.0
+5355.0,San Diego,Overcast,76.0,1.0
+5378.0,San Diego,Cloudy,70.0,1.0
+5381.0,San Diego,Cloudy;Mostly Cloudy,70.0,1.0
+5385.0,San Diego,Clear,75.0,1.0
+5388.0,San Diego,Clear,78.0,1.0
+5393.0,San Diego,Clear;Sunny;Fair,93.0,1.0
+5400.0,San Diego,Mainly Cloudy;Cloudy,70.0,1.0
+5409.0,San Diego,Overcast,70.0,1.0
+5413.0,San Diego,Fair,76.0,1.0
+5418.0,San Diego,Clean,82.0,1.0
+5419.0,San Diego,Fair,78.0,1.0
+5432.0,San Diego,Not totally Cloudy,60.0,1.0
+5439.0,San Diego,Overcast,50.0,1.0
+5440.0,San Diego,Partly Cloudy;Mostly Clear;Partly;Clear,47.0,1.0
+5446.0,San Diego,Partly Cloudy;Not totally Cloudy,60.0,1.0
+5455.0,San Diego,Partly Cloudy;Not totally Cloudy;Partly;Partly Sunny,51.0,1.0
+5460.0,San Diego,Mostly Cloudy;Cloudy,45.0,1.0
+5470.0,San Diego,Partly Cloudy;Not totally Cloudy;Clear,61.0,1.0
+5479.0,San Francisco,Cloudy,67.0,1.0
+5480.0,San Francisco,Cloudy,67.0,1.0
+5485.0,San Francisco,Cloudy,53.0,1.0
+5491.0,San Francisco,Cloudy;Mostly Cloudy,55.0,1.0
+5504.0,San Francisco,Clean,61.0,1.0
+5506.0,San Francisco,Fair,67.0,1.0
+5507.0,San Francisco,A Clouds,64.0,1.0
+5510.0,San Francisco,Cloudy,64.0,1.0
+5513.0,San Francisco,Overcast,67.0,1.0
+5516.0,San Francisco,Overcast with Haze,62.0,1.0
+5517.0,San Francisco,Overcast,55.0,1.0
+5518.0,San Francisco,Overcast,52.0,1.0
+5522.0,San Francisco,Overcast,53.0,1.0
+5526.0,San Francisco,Partly Cloudy;Cloudy;Mostly Clear,64.0,1.0
+5527.0,San Francisco,Partly Cloudy;Mostly Cloudy;Scattered Clouds,62.0,1.0
+5534.0,San Francisco,Cloudy;Overcast,57.0,1.0
+5548.0,San Francisco,Light;Light Snow;Snow,86.0,1.0
+5573.0,San Francisco,Mostly Cloudy;Mainly Cloudy,73.0,1.0
+5581.0,San Francisco,Partly Sunny;Cloudy;Partly Cloudy;Sunny,46.0,1.0
+5614.0,San Francisco,A Few Clouds,71.0,1.0
+5617.0,San Francisco,Mist/Fog,84.0,1.0
+5619.0,San Francisco,with Haze,81.0,1.0
+5620.0,San Francisco,Mist/Fog,84.0,1.0
+5632.0,San Francisco,Partly Cloudy;Partly,57.0,1.0
+5636.0,San Francisco,Cloudy,68.0,1.0
+5643.0,San Francisco,Snow;Light Snow;Flurries,86.0,1.0
+5656.0,San Francisco,Snow;Light Snow,86.0,1.0
+5681.0,San Francisco,Light Snow,92.0,1.0
+5683.0,San Francisco,Light Snow,92.0,1.0
+5700.0,San Francisco,Light Snow;Snow,81.0,1.0
+5709.0,San Francisco,Cloudy;Haze,86.0,1.0
+5721.0,San Jose,Cloudy;Haze,74.0,1.0
+5723.0,San Jose,Mostly Cloudy,64.0,1.0
+5726.0,San Jose,Partly Cloudy;Partly Sunny;Scattered Clouds;Scattered,56.0,1.0
+5727.0,San Jose,Partly Cloudy;Scattered Clouds;Partly Sunny;Not totally Cloudy,63.0,1.0
+5751.0,San Jose,Overcast with Haze,75.0,1.0
+5765.0,San Jose,Cloudy;Overcast,58.0,1.0
+5768.0,San Jose,Light Snow;Snow;Flurries,55.0,1.0
+5786.0,San Jose,Partly Cloudy;Not totally Cloudy;Mostly Clear,88.0,1.0
+5791.0,San Jose,Fog;Freezing Fog,100.0,1.0
+5792.0,San Jose,Fog;Foggy,100.0,1.0
+5807.0,San Jose,Mostly Cloudy,53.0,1.0
+5808.0,San Jose,Mostly Cloudy;Mostly,55.0,1.0
+5855.0,San Jose,Cloudy;Sleet;Light Sleet;Fog And Mist;Light Snow;Light Snow Mist,92.0,1.0
+5858.0,San Jose,Light Snow;Flurries;Snow,92.0,1.0
+5868.0,San Jose,Cloudy;Overcast,77.0,1.0
+5873.0,San Jose,Cloudy;Overcast,74.0,1.0
+5888.0,San Jose,Clear,84.0,1.0
+5905.0,Seattle,Clear;Sunny,42.0,1.0
+5907.0,Seattle,Not totally Cloudy;Scattered Clouds;Mostly Sunny;Partly Cloudy,49.0,1.0
+5916.0,Seattle,Mostly Cloudy;Cloudy,75.0,1.0
+5928.0,Seattle,Cloudy,null,1.0
+5933.0,Seattle,Fair,67.0,1.0
+5946.0,Seattle,Overcast,76.0,1.0
+5953.0,Seattle,Cloudy;Overcast,73.0,1.0
+5956.0,Seattle,Cloudy,70.0,1.0
+5960.0,Seattle,Cloudy,78.0,1.0
+5970.0,Seattle,Drizzle;Overcast;Showers;Mist,93.0,1.0
+5971.0,Seattle,Fog;Overcast;Mist,93.0,1.0

@@ -1,0 +1,151 @@
+entity,Domain,Conditions,Humidity,day
+5,Austin,Rain;Light Rain,93,1
+10,Austin,Rain,93,1
+13,Austin,Cloudy;Overcast,81,1
+25,Austin,Cloudy,81,1
+31,Austin,Cloudy,84,1
+35,Austin,Cloudy;Overcast,81,1
+38,Austin,Cloudy,85,1
+39,Austin,Cloudy,87,1
+43,Austin,Cloudy;Overcast;Showers,93,1
+50,Austin,Cloudy;Fog;Haze,81,1
+60,Austin,Overcast,85,1
+91,Austin,Not totally Cloudy;Partly Cloudy,64,1
+104,Austin,Clear;Not totally Sunny,80,1
+112,Austin,Sunny;Clear,53,1
+130,Austin,Cloudy,88,1
+132,Austin,Cloudy,88,1
+145,Austin,Cloudy,81,1
+149,Austin,Rain;Light Rain,93,1
+154,Austin,Cloudy;Overcast;Showers,93,1
+156,Austin,Rain;Light Rain,100,1
+167,Austin,Cloudy;Fog;Fog And Mist;Light Rain;Light Rain Mist,100,1
+174,Austin,Mist/Fog,93,1
+205,Austin,Fog;Overcast;Showers;Mist,93,1
+209,Austin,Fog;Overcast;Rain,93,1
+251,Austin,Mist/Fog,86,1
+254,Austin,Mist/Fog,86,1
+257,Baltimore,Overcast with Haze,80,1
+259,Baltimore,Cloudy,76,1
+273,Baltimore,Rain;Light Rain,87,1
+275,Baltimore,Rain,93,1
+280,Baltimore,Rain;Light Rain,100,1
+302,Baltimore,Overcast,80,1
+314,Baltimore,Mist/Light Rain Fog,93,1
+315,Baltimore,Mist/Light Rain Fog,90,1
+324,Baltimore,Mostly Cloudy,45,1
+342,Baltimore,Clear,52,1
+376,Baltimore,Fair,43,1
+382,Baltimore,A Few Clouds,57,1
+398,Baltimore,Overcast,40,1
+407,Baltimore,Cloudy,36,1
+408,Baltimore,Mostly Cloudy,40,1
+428,Boston,Snow;Fair,79,1
+441,Baltimore,Light Snow,80,1
+462,Baltimore,Clear,34,1
+467,Baltimore,Clear,37,1
+483,Baltimore,Clear,60,1
+496,Boston,Mainly Cloudy,65,1
+498,Boston,Partly Cloudy,60,1
+517,Baltimore,Mostly Cloudy,60,1
+528,Baltimore,Mostly Clear,81,1
+535,Baltimore,Haze,82,1
+552,Boston,Mostly Cloudy,61,1
+565,Boston,Overcast,75,1
+600,Baltimore,Mist,86,1
+611,Boston,Light Snow,79,1
+625,Boston,Mist/Fog,85,1
+646,Boston,Clear,42,1
+649,Boston,Clear,38,1
+655,Boston,Few Clouds,26,1
+660,Boston,Clear,35,1
+669,Boston,Cloudy,40,1
+671,Boston,Cloudy,44,1
+673,Boston,Mostly Cloudy,44,1
+676,Boston,Clear,48,1
+684,Boston,Few Clouds,36,1
+692,Boston,Mostly Clear,29,1
+731,Boston,Clear,32,1
+734,Boston,Clear,36,1
+746,Boston,Mostly Clear,40,1
+756,Boston,Cloudy,38,1
+768,Boston,Cloudy,45,1
+774,Boston,Mostly Clear,38,1
+776,Boston,Mostly Clear,35,1
+789,Boston,Cloudy,56,1
+791,Boston,Cloudy,56,1
+798,Boston,Clear,63,1
+801,Boston,Clear,65,1
+831,Boston,Mostly Clear,58,1
+837,Boston,Few Clouds,35,1
+843,Boston,Cloudy,44,1
+848,Boston,Few Clouds,50,1
+852,Boston,Mostly Clear,55,1
+859,Boston,Cloudy,41,1
+908,Boston,Cloudy,66,1
+961,Charlotte,Clear,50,1
+965,Charlotte,Mostly Clear,40,1
+997,Charlotte,Mist,96,1
+1000,Charlotte,Mist,100,1
+1001,Charlotte,Mostly Cloudy,92,1
+1011,Charlotte,Few Clouds,43,1
+3534,Houston,Cloudy,82,1
+7241,Phoenix,Mostly Cloudy,36,1
+9224,Seattle,Mostly Clear,68,1
+9584,Milwaukee,Mist/Fog,85,1
+1388,Chicago,Mostly Clear,55,1
+1393,Chicago,Mostly Cloudy,65,1
+1403,Chicago,Cloudy,74,1
+1406,Chicago,Mostly Cloudy,71,1
+1411,Chicago,Mostly Cloudy,77,1
+1416,Chicago,Few Clouds,71,1
+1472,Chicago,Few Clouds,61,1
+2010,Dallas,Cloudy,75,1
+2014,Dallas,Cloudy,75,1
+2024,Dallas,Cloudy,75,1
+2026,Dallas,Cloudy,75,1
+2047,Dallas,Cloudy,82,1
+2969,El Paso,Clear,62,1
+2974,El Paso,Clear,75,1
+2995,El Paso,Cloudy,43,1
+3002,El Paso,Mostly Clear,65,1
+3017,El Paso,Cloudy,76,1
+3024,El Paso,Mostly Cloudy,41,1
+3026,El Paso,Mostly Cloudy,40,1
+3951,Indianapolis,Mostly Clear,55,1
+3954,Indianapolis,Mostly Clear,55,1
+3980,Indianapolis,Clear,63,1
+3983,Indianapolis,Clear,58,1
+4584,Las Vegas,Clear,82,1
+4993,Los Angeles,Clear,77,1
+5526,Milwaukee,Mostly Clear,64,1
+5527,Milwaukee,Mostly Cloudy,65,1
+5534,Milwaukee,Cloudy,59,1
+5548,Milwaukee,Light Snow,86,1
+5573,Milwaukee,Mostly Cloudy,67,1
+5581,Milwaukee,Few Clouds,46,1
+7048,Phoenix,Mostly Clear,89,1
+7052,Phoenix,Mostly Clear,67,1
+7055,Phoenix,Mostly Clear,57,1
+7126,Phoenix,Mostly Clear,43,1
+7131,Phoenix,Mostly Clear,62,1
+7146,Phoenix,Mostly Cloudy,47,1
+7150,Phoenix,Mostly Cloudy,37,1
+7151,Phoenix,Mostly Cloudy,35,1
+7152,Phoenix,Mostly Cloudy,34,1
+7553,Portland,Cloudy,68,1
+8100,San Diego,Mist,86,1
+8104,San Diego,Mist,86,1
+8110,San Diego,Mostly Clear,67,1
+8111,San Diego,Mostly Clear,67,1
+8123,San Diego,Mostly Clear,80,1
+8135,San Diego,Haze,83,1
+8140,San Diego,Haze,72,1
+8143,San Diego,Mostly Clear,64,1
+8649,San Jose,Mostly Cloudy,93,1
+9052,Seattle,Cloudy,73,1
+9066,Seattle,Light Rain,93,1
+9069,Seattle,Light Rain,86,1
+9076,Seattle,Light Rain,87,1
+9079,Seattle,Light Rain,87,1
+9084,Seattle,Cloudy,90,1

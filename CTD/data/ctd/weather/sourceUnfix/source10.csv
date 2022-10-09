@@ -1,0 +1,1001 @@
+0,entity,Domain,Conditions,Humidity,day
+10,2,Austin,heavy rain,94,1
+10,5,Austin,moderate rain,93,1
+10,10,Austin,moderate rain,93,1
+10,13,Austin,mostly cloudy,81,1
+10,25,Austin,mostly cloudy,80,1
+10,31,Austin,mostly cloudy,80,1
+10,35,Austin,mostly cloudy,87,1
+10,38,Austin,mostly cloudy,87,1
+10,39,Austin,mostly cloudy,87,1
+10,43,Austin,mostly cloudy,93,1
+10,50,Austin,mostly cloudy,81,1
+10,60,Austin,Overcast,85,1
+10,91,Austin,clear sky,64,1
+10,104,Austin,clear sky,80,1
+10,112,Austin,clear sky,61,1
+10,130,Austin,mostly cloudy,86,1
+10,132,Austin,mostly cloudy,86,1
+10,145,Austin,mostly cloudy,80,1
+10,149,Austin,moderate rain,93,1
+10,154,Austin,mostly cloudy,93,1
+10,156,Austin,light rain,93,1
+10,167,Austin,mostly cloudy,100,1
+10,174,Austin,Fog;Mist,93,1
+10,205,Austin,mostly cloudy,100,1
+10,209,Austin,light rain,100,1
+10,251,Austin,Fog;Mist,86,1
+10,254,Austin,Fog;Mist,86,1
+10,257,Austin,Overcast with Haze,80,1
+10,259,Austin,mostly cloudy,77,1
+10,273,Austin,light rain,87,1
+10,275,Austin,light rain,93,1
+10,280,Austin,light rain,93,1
+10,302,Austin,Overcast,80,1
+10,314,Austin,Light Rain Fog;Mist,93,1
+10,315,Austin,Light Rain Fog;Mist,90,1
+10,324,Baltimore,normal,38,1
+10,342,Baltimore,normal,43,1
+10,376,Baltimore,Fair,43,1
+10,382,Baltimore,A Few Clouds,57,1
+10,398,Baltimore,Overcast,40,1
+10,407,Baltimore,normal,30,1
+10,408,Baltimore,normal,33,1
+10,428,Baltimore,normal,79,1
+10,441,Baltimore,normal,73,1
+10,462,Baltimore,normal,28,1
+10,467,Baltimore,normal,34,1
+10,483,Baltimore,normal,51,1
+10,496,Baltimore,Mostly Cloudy,65,1
+10,498,Baltimore,Partly Cloudy,60,1
+10,517,Baltimore,normal,47,1
+10,528,Baltimore,normal,74,1
+10,535,Baltimore,normal,69,1
+10,552,Baltimore,Mostly Cloudy,61,1
+10,565,Baltimore,Overcast,75,1
+10,600,Baltimore,normal,80,1
+10,611,Baltimore,Light Snow,79,1
+10,625,Baltimore,Fog;Mist,85,1
+10,646,Boston,Clear,42,1
+10,649,Boston,Sunny,38,1
+10,655,Boston,Mostly Sunny,26,1
+10,660,Boston,Partly Cloudy,32,1
+10,669,Boston,Cloudy,40,1
+10,671,Boston,Cloudy,44,1
+10,673,Boston,Some Clouds,44,1
+10,676,Boston,Clear,48,1
+10,684,Boston,Partly Sunny,36,1
+10,692,Boston,Mostly Clear,29,1
+10,731,Boston,Clear,30,1
+10,734,Boston,Clear,36,1
+10,746,Boston,Partly Sunny,40,1
+10,756,Boston,Cloudy,38,1
+10,768,Boston,Cloudy,44,1
+10,774,Boston,Partly Sunny,38,1
+10,776,Boston,Partly Sunny,35,1
+10,789,Boston,Cloudy,58,1
+10,791,Boston,Cloudy,56,1
+10,798,Boston,Clear,63,1
+10,801,Boston,Clear,65,1
+10,831,Boston,Partly Cloudy,60,1
+10,837,Boston,Mostly Clear,31,1
+10,843,Boston,Cloudy,44,1
+10,848,Boston,Partly Cloudy,48,1
+10,852,Boston,Partly Cloudy,54,1
+10,859,Boston,Cloudy,41,1
+10,908,Boston,Cloudy,66,1
+10,961,Charlotte,clear sky,45,1
+10,965,Charlotte,clear sky,44,1
+10,997,Charlotte,clear sky,86,1
+10,1000,Charlotte,clear sky,86,1
+10,1001,Charlotte,clear sky,93,1
+10,1011,Charlotte,clear sky,34,1
+10,1074,Charlotte,mostly cloudy,80,1
+10,1080,Charlotte,mostly cloudy,86,1
+10,1083,Charlotte,mostly cloudy,86,1
+10,1084,Charlotte,mostly cloudy,79,1
+10,1086,Charlotte,mostly cloudy,73,1
+10,1107,Charlotte,clear sky,47,1
+10,1113,Charlotte,clear sky,87,1
+10,1152,Charlotte,clear sky,56,1
+10,1154,Charlotte,clear sky,34,1
+10,1166,Charlotte,mostly cloudy,60,1
+10,1183,Charlotte,mostly cloudy,93,1
+10,1224,Charlotte,mostly cloudy,93,1
+10,1226,Charlotte,mostly cloudy,93,1
+10,1234,Charlotte,mostly cloudy,100,1
+10,1237,Charlotte,mostly cloudy,93,1
+10,1239,Charlotte,mostly cloudy,100,1
+10,1240,Charlotte,mostly cloudy,100,1
+10,1286,Chicago,mostly cloudy,51,1
+10,1288,Chicago,mostly cloudy,55,1
+10,1294,Chicago,mostly cloudy,49,1
+10,1298,Chicago,mostly cloudy,62,1
+10,1304,Chicago,clear sky,58,1
+10,1308,Chicago,clear sky,62,1
+10,1313,Chicago,mostly cloudy,67,1
+10,1317,Chicago,mostly cloudy,62,1
+10,1318,Chicago,mostly cloudy,62,1
+10,1331,Chicago,mostly cloudy,55,1
+10,1333,Chicago,A Few Clouds,60,1
+10,1335,Chicago,Fair,65,1
+10,1341,Chicago,Partly Cloudy,65,1
+10,1342,Chicago,Partly Cloudy,65,1
+10,1343,Chicago,A Few Clouds,68,1
+10,1350,Chicago,Overcast,62,1
+10,1365,Chicago,mostly cloudy,62,1
+10,1388,Chicago,clear sky,58,1
+10,1393,Chicago,clear sky,62,1
+10,1403,Chicago,mostly cloudy,68,1
+10,1406,Chicago,mostly cloudy,73,1
+10,1411,Chicago,mostly cloudy,73,1
+10,1416,Chicago,clear sky,79,1
+10,1438,Chicago,clear sky,74,1
+10,1440,Chicago,mostly cloudy,74,1
+10,1450,Chicago,Overcast,72,1
+10,1462,Chicago,Overcast with Haze,78,1
+10,1468,Chicago,Overcast with Haze,78,1
+10,1472,Chicago,clear sky,61,1
+10,1486,Chicago,light snow,93,1
+10,1503,Chicago,mostly cloudy,74,1
+10,1507,Chicago,Overcast with Haze,63,1
+10,1546,Chicago,mostly cloudy,80,1
+10,1557,Chicago,mostly cloudy,79,1
+10,1570,Chicago,Light Snow Fog;Mist,85,1
+10,1573,Chicago,Light Snow,79,1
+10,1583,Chicago,Overcast with Haze,81,1
+10,1588,Chicago,Overcast with Haze,81,1
+10,1611,Columbus,clear sky,56,1
+10,1614,Columbus,clear sky,52,1
+10,1631,Columbus,clear sky,73,1
+10,1633,Columbus,clear sky,79,1
+10,1641,Columbus,clear sky,86,1
+10,1642,Columbus,clear sky,79,1
+10,1646,Columbus,clear sky,63,1
+10,1651,Columbus,clear sky,51,1
+10,1686,Columbus,clear sky,61,1
+10,1696,Columbus,clear sky,61,1
+10,1703,Columbus,clear sky,67,1
+10,1717,Columbus,clear sky,62,1
+10,1723,Columbus,clear sky,78,1
+10,1740,Columbus,clear sky,68,1
+10,1745,Columbus,clear sky,50,1
+10,1752,Columbus,mostly cloudy,80,1
+10,1753,Columbus,mostly cloudy,80,1
+10,1754,Columbus,mostly cloudy,80,1
+10,1800,Columbus,clear sky,74,1
+10,1871,Columbus,mostly cloudy,80,1
+10,1874,Columbus,mostly cloudy,86,1
+10,1926,Dallas,light rain,93,1
+10,1940,Dallas,mostly cloudy,75,1
+10,1959,Dallas,mostly cloudy,86,1
+10,1961,Dallas,mostly cloudy,80,1
+10,1963,Dallas,clear sky,75,1
+10,1968,Dallas,mostly cloudy,66,1
+10,1985,Dallas,Fog;Mist,88,1
+10,1995,Dallas,Overcast with Haze,79,1
+10,1999,Dallas,Overcast,68,1
+10,2010,Dallas,mostly cloudy,74,1
+10,2014,Dallas,mostly cloudy,80,1
+10,2024,Dallas,mostly cloudy,80,1
+10,2026,Dallas,mostly cloudy,74,1
+10,2047,Dallas,mostly cloudy,80,1
+10,2051,Dallas,mostly cloudy,86,1
+10,2053,Dallas,mostly cloudy,86,1
+10,2073,Dallas,mostly cloudy,76,1
+10,2079,Dallas,mostly cloudy,87,1
+10,2091,Dallas,Fog;Mist,83,1
+10,2108,Dallas,Light Rain Fog;Mist,92,1
+10,2110,Dallas,light rain,88,1
+10,2111,Dallas,light rain,88,1
+10,2112,Dallas,mostly cloudy,88,1
+10,2115,Dallas,mostly cloudy,71,1
+10,2120,Dallas,mostly cloudy,81,1
+10,2121,Dallas,mostly cloudy,81,1
+10,2152,Dallas,Overcast with Haze,83,1
+10,2161,Dallas,Overcast with Haze,82,1
+10,2175,Dallas,Partly Cloudy,57,1
+10,2176,Dallas,Mostly Cloudy,54,1
+10,2180,Dallas,mostly cloudy,62,1
+10,2211,Dallas,Mostly Cloudy,61,1
+10,2220,Dallas,Overcast,86,1
+10,2223,Dallas,Mostly Cloudy,86,1
+10,2226,Dallas,Overcast,82,1
+10,2247,Denver,clear sky,86,1
+10,2268,Denver,clear sky,68,1
+10,2272,Denver,clear sky,73,1
+10,2273,Denver,clear sky,73,1
+10,2281,Denver,clear sky,49,1
+10,2305,Denver,Fog;Mist,92,1
+10,2309,Denver,A Few Clouds,69,1
+10,2318,Denver,A Few Clouds,25,1
+10,2320,Denver,A Few Clouds,23,1
+10,2323,Denver,Partly Cloudy,23,1
+10,2328,Denver,clear sky,29,1
+10,2332,Denver,clear sky,43,1
+10,2350,Denver,clear sky,23,1
+10,2355,Denver,clear sky,17,1
+10,2358,Denver,clear sky,48,1
+10,2365,Denver,clear sky,59,1
+10,2396,Denver,mostly cloudy,47,1
+10,2402,Denver,mostly cloudy,86,1
+10,2417,Denver,Overcast,57,1
+10,2423,Denver,Overcast,85,1
+10,2442,Denver,clear sky,46,1
+10,2445,Denver,clear sky,50,1
+10,2447,Denver,clear sky,54,1
+10,2451,Denver,clear sky,62,1
+10,2457,Denver,clear sky,50,1
+10,2479,Denver,Fair,71,1
+10,2500,Denver,clear sky,38,1
+10,2535,Denver,Mostly Cloudy,52,1
+10,2543,Denver,Partly Cloudy,47,1
+10,2548,Denver,Partly Cloudy,36,1
+10,2549,Denver,Partly Cloudy,36,1
+10,2552,Denver,Partly Cloudy,29,1
+10,2558,Denver,Mostly Cloudy,27,1
+10,2580,Detroit,clear sky,54,1
+10,2589,Detroit,clear sky,62,1
+10,2605,Detroit,mostly cloudy,54,1
+10,2611,Detroit,mostly cloudy,54,1
+10,2625,Detroit,Fair,70,1
+10,2631,Detroit,Fair,80,1
+10,2648,Detroit,clear sky,52,1
+10,2649,Detroit,clear sky,52,1
+10,2650,Detroit,clear sky,56,1
+10,2672,Detroit,mostly cloudy,62,1
+10,2685,Detroit,clear sky,79,1
+10,2687,Detroit,clear sky,79,1
+10,2691,Detroit,clear sky,78,1
+10,2692,Detroit,clear sky,85,1
+10,2710,Detroit,clear sky,69,1
+10,2712,Detroit,clear sky,74,1
+10,2713,Detroit,clear sky,74,1
+10,2743,Detroit,Fair,85,1
+10,2746,Detroit,Fair,85,1
+10,2755,Detroit,mostly cloudy,54,1
+10,2763,Detroit,mostly cloudy,79,1
+10,2777,Detroit,light snow,86,1
+10,2780,Detroit,clear sky,80,1
+10,2798,Detroit,Overcast,85,1
+10,2806,Detroit,Fog;Mist,84,1
+10,2825,Detroit,mostly cloudy,93,1
+10,2827,Detroit,light snow,93,1
+10,2831,Detroit,mostly cloudy,86,1
+10,2832,Detroit,clear sky,93,1
+10,2843,Detroit,clear sky,74,1
+10,2845,Detroit,mostly cloudy,64,1
+10,2858,Detroit,Light Snow Fog;Mist,92,1
+10,2861,Detroit,Fog;Mist,88,1
+10,2877,Detroit,Overcast,66,1
+10,2881,El Paso,light snow,86,1
+10,2885,El Paso,mostly cloudy,86,1
+10,2889,El Paso,mostly cloudy,80,1
+10,2895,El Paso,clear sky,65,1
+10,2916,El Paso,mostly cloudy,71,1
+10,2918,El Paso,mostly cloudy,81,1
+10,2936,El Paso,Mostly Cloudy,57,1
+10,2951,El Paso,Mostly Cloudy,82,1
+10,2955,El Paso,Mostly Cloudy,71,1
+10,2962,El Paso,Partly Cloudy,38,1
+10,2963,El Paso,Mostly Cloudy,31,1
+10,2969,El Paso,clear sky,61,1
+10,2974,El Paso,clear sky,75,1
+10,2995,El Paso,mostly cloudy,43,1
+10,3002,El Paso,clear sky,65,1
+10,3017,El Paso,mostly cloudy,81,1
+10,3024,El Paso,mostly cloudy,47,1
+10,3026,El Paso,mostly cloudy,41,1
+10,3040,El Paso,light rain,87,1
+10,3050,El Paso,Overcast,87,1
+10,3060,El Paso,Overcast,93,1
+10,3076,El Paso,mostly cloudy,31,1
+10,3081,El Paso,mostly cloudy,47,1
+10,3086,El Paso,mostly cloudy,66,1
+10,3111,El Paso,Overcast,47,1
+10,3120,El Paso,Mostly Cloudy,65,1
+10,3135,El Paso,Mostly Cloudy,30,1
+10,3136,El Paso,Mostly Cloudy,30,1
+10,3162,El Paso,light rain,81,1
+10,3167,El Paso,light rain,93,1
+10,3176,El Paso,Overcast,57,1
+10,3181,El Paso,Overcast,73,1
+10,3186,El Paso,Light Rain,86,1
+10,3194,El Paso,Light Rain,83,1
+10,3202,Fort Worth,Light Rain,93,1
+10,3209,Fort Worth,moderate rain,87,1
+10,3225,Fort Worth,clear sky,80,1
+10,3245,Fort Worth,mostly cloudy,87,1
+10,3251,Fort Worth,mostly cloudy,75,1
+10,3259,Fort Worth,Fog;Mist,85,1
+10,3260,Fort Worth,Fog;Mist,88,1
+10,3262,Fort Worth,Fog;Mist,88,1
+10,3263,Fort Worth,Fog;Mist,92,1
+10,3265,Fort Worth,Fog;Mist,88,1
+10,3270,Fort Worth,Fog;Mist,89,1
+10,3291,Fort Worth,mostly cloudy,80,1
+10,3296,Fort Worth,mostly cloudy,74,1
+10,3302,Fort Worth,mostly cloudy,74,1
+10,3307,Fort Worth,mostly cloudy,74,1
+10,3314,Fort Worth,mostly cloudy,74,1
+10,3316,Fort Worth,mostly cloudy,74,1
+10,3319,Fort Worth,mostly cloudy,80,1
+10,3324,Fort Worth,mostly cloudy,86,1
+10,3343,Fort Worth,mostly cloudy,80,1
+10,3351,Fort Worth,light rain,87,1
+10,3358,Fort Worth,mostly cloudy,87,1
+10,3361,Fort Worth,light rain,93,1
+10,3373,Fort Worth,Light Rain,85,1
+10,3387,Fort Worth,Light Rain,97,1
+10,3398,Fort Worth,mostly cloudy,81,1
+10,3399,Fort Worth,mostly cloudy,81,1
+10,3418,Fort Worth,mostly cloudy,70,1
+10,3424,Fort Worth,clear sky,58,1
+10,3433,Fort Worth,Overcast,80,1
+10,3435,Fort Worth,Overcast,86,1
+10,3453,Fort Worth,Mostly Cloudy,68,1
+10,3461,Fort Worth,clear sky,66,1
+10,3462,Fort Worth,clear sky,70,1
+10,3478,Fort Worth,clear sky,87,1
+10,3483,Fort Worth,clear sky,76,1
+10,3484,Fort Worth,clear sky,71,1
+10,3503,Fort Worth,Fair,89,1
+10,3511,Fort Worth,Fair,80,1
+10,3512,Fort Worth,Fair,77,1
+10,3513,Fort Worth,Fair,77,1
+10,3534,Houston,mostly cloudy,82,1
+10,3544,Houston,clear sky,75,1
+10,3546,Houston,clear sky,81,1
+10,3547,Houston,clear sky,81,1
+10,3549,Houston,clear sky,81,1
+10,3568,Houston,light rain,93,1
+10,3571,Houston,mostly cloudy,87,1
+10,3584,Houston,Mostly Cloudy,83,1
+10,3608,Houston,mostly cloudy,70,1
+10,3623,Houston,mostly cloudy,69,1
+10,3625,Houston,mostly cloudy,75,1
+10,3627,Houston,mostly cloudy,70,1
+10,3632,Houston,mostly cloudy,56,1
+10,3634,Houston,mostly cloudy,60,1
+10,3641,Houston,mostly cloudy,70,1
+10,3643,Houston,mostly cloudy,75,1
+10,3645,Houston,mostly cloudy,70,1
+10,3650,Houston,mostly cloudy,75,1
+10,3659,Houston,mostly cloudy,75,1
+10,3666,Houston,mostly cloudy,70,1
+10,3667,Houston,mostly cloudy,76,1
+10,3674,Houston,moderate rain,87,1
+10,3681,Houston,moderate rain,93,1
+10,3693,Houston,Rain Fog;Mist,86,1
+10,3705,Houston,Overcast,92,1
+10,3719,Houston,mostly cloudy,87,1
+10,3725,Houston,mostly cloudy,93,1
+10,3727,Houston,mostly cloudy,87,1
+10,3733,Houston,light rain,93,1
+10,3764,Houston,Fog;Mist,90,1
+10,3771,Houston,Light Rain,80,1
+10,3773,Houston,Overcast,77,1
+10,3775,Houston,Overcast,78,1
+10,3784,Houston,mostly cloudy,77,1
+10,3793,Houston,mostly cloudy,76,1
+10,3794,Houston,mostly cloudy,82,1
+10,3795,Houston,mostly cloudy,82,1
+10,3796,Houston,light rain,82,1
+10,3819,Houston,Mostly Cloudy,80,1
+10,3839,Houston,Overcast,77,1
+10,3856,Indianapolis,mostly cloudy,62,1
+10,3860,Indianapolis,clear sky,54,1
+10,3871,Indianapolis,mostly cloudy,67,1
+10,3874,Indianapolis,mostly cloudy,67,1
+10,3886,Indianapolis,mostly cloudy,55,1
+10,3901,Indianapolis,A Few Clouds,68,1
+10,3922,Indianapolis,Mostly Cloudy,41,1
+10,3951,Indianapolis,mostly cloudy,54,1
+10,3954,Indianapolis,clear sky,54,1
+10,3961,Indianapolis,clear sky,73,1
+10,3980,Indianapolis,clear sky,68,1
+10,3983,Indianapolis,clear sky,58,1
+10,4002,Indianapolis,mostly cloudy,80,1
+10,4012,Indianapolis,Fair,78,1
+10,4027,Indianapolis,Fog;Mist,84,1
+10,4031,Indianapolis,clear sky,72,1
+10,4034,Indianapolis,mostly cloudy,41,1
+10,4036,Indianapolis,mostly cloudy,55,1
+10,4051,Indianapolis,mostly cloudy,74,1
+10,4063,Indianapolis,mostly cloudy,60,1
+10,4072,Indianapolis,Overcast,56,1
+10,4090,Indianapolis,Overcast,54,1
+10,4094,Indianapolis,Overcast,59,1
+10,4096,Indianapolis,Overcast,62,1
+10,4108,Indianapolis,mostly cloudy,80,1
+10,4111,Indianapolis,mostly cloudy,86,1
+10,4121,Indianapolis,light snow,80,1
+10,4136,Indianapolis,Overcast,82,1
+10,4149,Indianapolis,Overcast with Haze,81,1
+10,4150,Indianapolis,Overcast with Haze,81,1
+10,4153,Indianapolis,Overcast with Haze,78,1
+10,4178,Jacksonville,mostly cloudy,55,1
+10,4182,Jacksonville,mostly cloudy,70,1
+10,4186,Jacksonville,mostly cloudy,76,1
+10,4193,Jacksonville,mostly cloudy,81,1
+10,4199,Jacksonville,mostly cloudy,82,1
+10,4205,Jacksonville,mostly cloudy,72,1
+10,4212,Jacksonville,Mostly Cloudy,71,1
+10,4219,Jacksonville,Mostly Cloudy,77,1
+10,4227,Jacksonville,Mostly Cloudy,80,1
+10,4231,Jacksonville,Overcast,83,1
+10,4244,Jacksonville,Overcast,83,1
+10,4259,Jacksonville,mostly cloudy,88,1
+10,4280,Jacksonville,mostly cloudy,88,1
+10,4292,Jacksonville,mostly cloudy,70,1
+10,4306,Jacksonville,mostly cloudy,66,1
+10,4318,Jacksonville,clear sky,87,1
+10,4323,Jacksonville,mostly cloudy,82,1
+10,4334,Jacksonville,Mostly Cloudy,80,1
+10,4337,Jacksonville,Partly Cloudy,86,1
+10,4341,Jacksonville,Overcast,89,1
+10,4343,Jacksonville,Overcast,86,1
+10,4359,Jacksonville,mostly cloudy,88,1
+10,4372,Jacksonville,mostly cloudy,94,1
+10,4377,Jacksonville,moderate rain,94,1
+10,4389,Jacksonville,Overcast,87,1
+10,4399,Jacksonville,Light Rain Fog;Mist,97,1
+10,4430,Jacksonville,mostly cloudy,71,1
+10,4442,Jacksonville,clear sky,67,1
+10,4444,Jacksonville,mostly cloudy,71,1
+10,4460,Jacksonville,Overcast,74,1
+10,4462,Jacksonville,Overcast,77,1
+10,4479,Jacksonville,Mostly Cloudy,67,1
+10,4482,Las Vegas,Partly Cloudy,63,1
+10,4484,Las Vegas,mostly cloudy,70,1
+10,4486,Las Vegas,mostly cloudy,70,1
+10,4488,Las Vegas,mostly cloudy,75,1
+10,4500,Las Vegas,mostly cloudy,33,1
+10,4501,Las Vegas,mostly cloudy,33,1
+10,4543,Las Vegas,Mostly Cloudy,33,1
+10,4554,Las Vegas,A Few Clouds,73,1
+10,4569,Las Vegas,mostly cloudy,41,1
+10,4571,Las Vegas,mostly cloudy,50,1
+10,4576,Las Vegas,mostly cloudy,62,1
+10,4584,Las Vegas,clear sky,70,1
+10,4629,Las Vegas,clear sky,29,1
+10,4632,Las Vegas,clear sky,36,1
+10,4634,Las Vegas,clear sky,41,1
+10,4637,Las Vegas,clear sky,54,1
+10,4645,Las Vegas,clear sky,61,1
+10,4646,Las Vegas,clear sky,61,1
+10,4666,Las Vegas,A Few Clouds,62,1
+10,4668,Las Vegas,A Few Clouds,62,1
+10,4672,Las Vegas,clear sky,61,1
+10,4680,Las Vegas,mostly cloudy,41,1
+10,4694,Las Vegas,mostly cloudy,66,1
+10,4697,Las Vegas,mostly cloudy,53,1
+10,4698,Las Vegas,mostly cloudy,50,1
+10,4701,Las Vegas,mostly cloudy,35,1
+10,4703,Las Vegas,mostly cloudy,35,1
+10,4717,Las Vegas,Mostly Cloudy,56,1
+10,4726,Las Vegas,Mostly Cloudy,60,1
+10,4727,Las Vegas,Mostly Cloudy,60,1
+10,4739,Las Vegas,mostly cloudy,33,1
+10,4758,Las Vegas,clear sky,70,1
+10,4764,Las Vegas,clear sky,47,1
+10,4767,Las Vegas,clear sky,31,1
+10,4770,Las Vegas,Mostly Cloudy,36,1
+10,4774,Las Vegas,Mostly Cloudy,48,1
+10,4776,Las Vegas,Mostly Cloudy,52,1
+10,4800,Los Angeles,clear sky,72,1
+10,4810,Los Angeles,clear sky,62,1
+10,4811,Los Angeles,clear sky,58,1
+10,4815,Los Angeles,clear sky,42,1
+10,4832,Los Angeles,clear sky,77,1
+10,4850,Los Angeles,clear sky,46,1
+10,4852,Los Angeles,Fair,54,1
+10,4854,Los Angeles,Fair,56,1
+10,4857,Los Angeles,Fair,56,1
+10,4858,Los Angeles,Fair,56,1
+10,4866,Los Angeles,Fair,77,1
+10,4868,Los Angeles,Haze,83,1
+10,4870,Los Angeles,Haze,79,1
+10,4883,Los Angeles,Haze,42,1
+10,4888,Los Angeles,clear sky,59,1
+10,4899,Los Angeles,clear sky,82,1
+10,4900,Los Angeles,clear sky,82,1
+10,4934,Los Angeles,clear sky,82,1
+10,4938,Los Angeles,clear sky,87,1
+10,4940,Los Angeles,clear sky,76,1
+10,4941,Los Angeles,clear sky,63,1
+10,4942,Los Angeles,clear sky,63,1
+10,4944,Los Angeles,clear sky,45,1
+10,4955,Los Angeles,clear sky,77,1
+10,4971,Los Angeles,Fair,47,1
+10,4981,Los Angeles,Overcast,81,1
+10,4993,Los Angeles,clear sky,71,1
+10,4997,Los Angeles,clear sky,68,1
+10,5014,Los Angeles,mostly cloudy,88,1
+10,5024,Los Angeles,clear sky,60,1
+10,5036,Los Angeles,Haze,81,1
+10,5038,Los Angeles,Fog,86,1
+10,5045,Los Angeles,Haze,84,1
+10,5046,Los Angeles,Haze,80,1
+10,5050,Los Angeles,Haze,77,1
+10,5060,Los Angeles,clear sky,56,1
+10,5075,Los Angeles,clear sky,87,1
+10,5076,Los Angeles,clear sky,82,1
+10,5092,Los Angeles,Fair,60,1
+10,5115,Los Angeles,Fair,46,1
+10,5118,Los Angeles,Fair,41,1
+10,5121,Memphis,mostly cloudy,59,1
+10,5132,Memphis,mostly cloudy,86,1
+10,5143,Memphis,mostly cloudy,75,1
+10,5153,Memphis,mostly cloudy,74,1
+10,5170,Memphis,mostly cloudy,53,1
+10,5185,Memphis,Mostly Cloudy,78,1
+10,5207,Memphis,mostly cloudy,86,1
+10,5209,Memphis,mostly cloudy,86,1
+10,5210,Memphis,mostly cloudy,86,1
+10,5213,Memphis,mostly cloudy,86,1
+10,5214,Memphis,mostly cloudy,93,1
+10,5215,Memphis,mostly cloudy,86,1
+10,5229,Memphis,mostly cloudy,86,1
+10,5248,Memphis,clear sky,79,1
+10,5263,Memphis,clear sky,69,1
+10,5268,Memphis,mostly cloudy,53,1
+10,5269,Memphis,mostly cloudy,56,1
+10,5275,Memphis,mostly cloudy,65,1
+10,5280,Memphis,mostly cloudy,65,1
+10,5289,Memphis,Overcast,55,1
+10,5296,Memphis,Overcast,63,1
+10,5309,Memphis,Light Rain,73,1
+10,5312,Memphis,mostly cloudy,70,1
+10,5316,Memphis,mostly cloudy,57,1
+10,5318,Memphis,mostly cloudy,65,1
+10,5346,Memphis,Overcast,60,1
+10,5352,Memphis,Overcast,73,1
+10,5355,Memphis,Overcast,76,1
+10,5378,Memphis,mostly cloudy,70,1
+10,5381,Memphis,mostly cloudy,70,1
+10,5385,Memphis,clear sky,75,1
+10,5388,Memphis,clear sky,86,1
+10,5393,Memphis,clear sky,93,1
+10,5400,Memphis,mostly cloudy,81,1
+10,5409,Memphis,Overcast,70,1
+10,5413,Memphis,Fair,76,1
+10,5418,Memphis,Fair,82,1
+10,5419,Memphis,Fair,78,1
+10,5432,Memphis,Partly Cloudy,60,1
+10,5439,Memphis,Overcast,50,1
+10,5440,Milwaukee,clear sky,46,1
+10,5446,Milwaukee,clear sky,55,1
+10,5455,Milwaukee,clear sky,37,1
+10,5460,Milwaukee,mostly cloudy,45,1
+10,5470,Milwaukee,clear sky,57,1
+10,5479,Milwaukee,mostly cloudy,67,1
+10,5480,Milwaukee,mostly cloudy,67,1
+10,5485,Milwaukee,mostly cloudy,53,1
+10,5491,Milwaukee,mostly cloudy,54,1
+10,5504,Milwaukee,Fair,61,1
+10,5506,Milwaukee,Fair,67,1
+10,5507,Milwaukee,A Few Clouds,64,1
+10,5510,Milwaukee,Partly Cloudy,64,1
+10,5513,Milwaukee,Overcast,67,1
+10,5516,Milwaukee,Overcast with Haze,62,1
+10,5517,Milwaukee,Overcast,55,1
+10,5518,Milwaukee,Overcast,52,1
+10,5522,Milwaukee,Overcast,53,1
+10,5526,Milwaukee,clear sky,57,1
+10,5527,Milwaukee,clear sky,62,1
+10,5534,Milwaukee,mostly cloudy,57,1
+10,5548,Milwaukee,light snow,86,1
+10,5573,Milwaukee,mostly cloudy,72,1
+10,5581,Milwaukee,clear sky,45,1
+10,5614,Milwaukee,A Few Clouds,71,1
+10,5617,Milwaukee,Fog;Mist,84,1
+10,5619,Milwaukee,Fair with Haze,81,1
+10,5620,Milwaukee,Fog;Mist,84,1
+10,5632,Milwaukee,clear sky,55,1
+10,5636,Milwaukee,mostly cloudy,68,1
+10,5643,Milwaukee,light snow,86,1
+10,5656,Milwaukee,light snow,93,1
+10,5681,Milwaukee,Light Snow,92,1
+10,5683,Milwaukee,Light Snow,92,1
+10,5700,Milwaukee,light snow,80,1
+10,5709,Milwaukee,mostly cloudy,86,1
+10,5721,Milwaukee,mostly cloudy,74,1
+10,5723,Milwaukee,mostly cloudy,63,1
+10,5726,Milwaukee,clear sky,55,1
+10,5727,Milwaukee,clear sky,63,1
+10,5751,Milwaukee,Overcast with Haze,75,1
+10,5765,Nashville,mostly cloudy,59,1
+10,5768,Nashville,light snow,54,1
+10,5786,Nashville,clear sky,80,1
+10,5791,Nashville,normal,86,1
+10,5792,Nashville,mostly cloudy,100,1
+10,5807,Nashville,mostly cloudy,52,1
+10,5808,Nashville,mostly cloudy,52,1
+10,5855,Nashville,light snow,86,1
+10,5858,Nashville,light snow,93,1
+10,5868,Nashville,mostly cloudy,74,1
+10,5873,Nashville,mostly cloudy,74,1
+10,5888,Nashville,clear sky,86,1
+10,5905,Nashville,clear sky,44,1
+10,5907,Nashville,clear sky,49,1
+10,5916,Nashville,mostly cloudy,75,1
+10,5928,Nashville,Overcast,70,1
+10,5933,Nashville,Fair,67,1
+10,5946,Nashville,Overcast,76,1
+10,5953,Nashville,mostly cloudy,70,1
+10,5956,Nashville,mostly cloudy,70,1
+10,5960,Nashville,mostly cloudy,80,1
+10,5970,Nashville,mostly cloudy,93,1
+10,5971,Nashville,mostly cloudy,93,1
+10,5974,Nashville,mostly cloudy,100,1
+10,5975,Nashville,normal,100,1
+10,5978,Nashville,normal,100,1
+10,5984,Nashville,mostly cloudy,57,1
+10,5988,Nashville,Overcast,76,1
+10,5998,Nashville,Light Rain Fog;Mist,96,1
+10,6011,Nashville,Fog;Mist,89,1
+10,6018,Nashville,mostly cloudy,57,1
+10,6021,Nashville,mostly cloudy,61,1
+10,6026,Nashville,mostly cloudy,70,1
+10,6029,Nashville,mostly cloudy,70,1
+10,6038,Nashville,mostly cloudy,65,1
+10,6063,Nashville,Overcast,70,1
+10,6068,Nashville,Overcast,65,1
+10,6075,Nashville,A Few Clouds,51,1
+10,6118,New York,clear sky,49,1
+10,6157,New York,Fair,40,1
+10,6188,New York,clear sky,37,1
+10,6192,New York,clear sky,41,1
+10,6196,New York,mostly cloudy,41,1
+10,6197,New York,mostly cloudy,41,1
+10,6215,New York,clear sky,52,1
+10,6220,New York,clear sky,38,1
+10,6223,New York,normal,33,1
+10,6236,New York,clear sky,64,1
+10,6238,New York,clear sky,64,1
+10,6250,New York,Overcast,55,1
+10,6260,New York,Fair,61,1
+10,6274,New York,clear sky,37,1
+10,6289,New York,clear sky,46,1
+10,6298,New York,mostly cloudy,43,1
+10,6307,New York,Mostly Cloudy,38,1
+10,6313,New York,Fair,45,1
+10,6319,New York,Fair,47,1
+10,6326,New York,Mostly Cloudy,45,1
+10,6332,New York,Mostly Cloudy,40,1
+10,6337,New York,Mostly Cloudy,54,1
+10,6344,New York,light snow,80,1
+10,6350,New York,mostly cloudy,93,1
+10,6364,New York,mostly cloudy,69,1
+10,6368,New York,mostly cloudy,52,1
+10,6369,New York,Overcast,56,1
+10,6377,New York,Light Snow Fog;Mist,92,1
+10,6392,New York,Mostly Cloudy,79,1
+10,6393,New York,Mostly Cloudy,70,1
+10,6410,Oklahoma City,light snow,86,1
+10,6412,Oklahoma City,light snow,86,1
+10,6418,Oklahoma City,mostly cloudy,93,1
+10,6425,Oklahoma City,mostly cloudy,93,1
+10,6506,Oklahoma City,mostly cloudy,86,1
+10,6507,Oklahoma City,mostly cloudy,86,1
+10,6514,Oklahoma City,mostly cloudy,80,1
+10,6518,Oklahoma City,mostly cloudy,86,1
+10,6521,Oklahoma City,mostly cloudy,93,1
+10,6559,Oklahoma City,light rain,93,1
+10,6560,Oklahoma City,light rain,93,1
+10,6561,Oklahoma City,light rain,93,1
+10,6593,Oklahoma City,mostly cloudy,74,1
+10,6667,Oklahoma City,normal,100,1
+10,6668,Oklahoma City,mostly cloudy,93,1
+10,6724,Philadelphia,clear sky,44,1
+10,6728,Philadelphia,clear sky,48,1
+10,6751,Philadelphia,clear sky,53,1
+10,6775,Philadelphia,Fair,53,1
+10,6781,Philadelphia,Fair,63,1
+10,6790,Philadelphia,A Few Clouds,52,1
+10,6791,Philadelphia,A Few Clouds,48,1
+10,6792,Philadelphia,A Few Clouds,48,1
+10,6793,Philadelphia,A Few Clouds,44,1
+10,6817,Philadelphia,clear sky,44,1
+10,6824,Philadelphia,clear sky,44,1
+10,6833,Philadelphia,light snow,62,1
+10,6841,Philadelphia,mostly cloudy,49,1
+10,6850,Philadelphia,clear sky,52,1
+10,6866,Philadelphia,clear sky,26,1
+10,6892,Philadelphia,Mostly Cloudy,62,1
+10,6895,Philadelphia,Partly Cloudy,59,1
+10,6897,Philadelphia,Overcast,64,1
+10,6902,Philadelphia,Partly Cloudy,46,1
+10,6910,Philadelphia,mostly cloudy,60,1
+10,6914,Philadelphia,clear sky,37,1
+10,6929,Philadelphia,clear sky,68,1
+10,6932,Philadelphia,clear sky,73,1
+10,6943,Philadelphia,mostly cloudy,44,1
+10,6945,Philadelphia,mostly cloudy,47,1
+10,6953,Philadelphia,Partly Cloudy,69,1
+10,6955,Philadelphia,Partly Cloudy,69,1
+10,6958,Philadelphia,Partly Cloudy,72,1
+10,6968,Philadelphia,Overcast,49,1
+10,6970,Philadelphia,Overcast,40,1
+10,6974,Philadelphia,Overcast,40,1
+10,6986,Philadelphia,light snow,93,1
+10,6987,Philadelphia,light snow,93,1
+10,6993,Philadelphia,light snow,93,1
+10,7003,Philadelphia,clear sky,80,1
+10,7004,Philadelphia,clear sky,75,1
+10,7029,Philadelphia,Fog;Mist,88,1
+10,7037,Philadelphia,Mostly Cloudy,62,1
+10,7048,Phoenix,clear sky,87,1
+10,7052,Phoenix,clear sky,77,1
+10,7055,Phoenix,mostly cloudy,63,1
+10,7063,Phoenix,clear sky,35,1
+10,7076,Phoenix,clear sky,71,1
+10,7079,Phoenix,clear sky,76,1
+10,7081,Phoenix,clear sky,76,1
+10,7091,Phoenix,mostly cloudy,34,1
+10,7095,Phoenix,Fair,37,1
+10,7112,Phoenix,A Few Clouds,76,1
+10,7113,Phoenix,Partly Cloudy,74,1
+10,7121,Phoenix,Mostly Cloudy,43,1
+10,7126,Phoenix,clear sky,43,1
+10,7131,Phoenix,clear sky,59,1
+10,7146,Phoenix,mostly cloudy,54,1
+10,7150,Phoenix,mostly cloudy,36,1
+10,7151,Phoenix,mostly cloudy,36,1
+10,7152,Phoenix,mostly cloudy,34,1
+10,7170,Phoenix,clear sky,76,1
+10,7176,Phoenix,mostly cloudy,71,1
+10,7179,Phoenix,mostly cloudy,66,1
+10,7182,Phoenix,mostly cloudy,45,1
+10,7183,Phoenix,mostly cloudy,42,1
+10,7192,Phoenix,mostly cloudy,43,1
+10,7197,Phoenix,mostly cloudy,63,1
+10,7202,Phoenix,clear sky,82,1
+10,7217,Phoenix,Mostly Cloudy,64,1
+10,7219,Phoenix,A Few Clouds,69,1
+10,7220,Phoenix,A Few Clouds,72,1
+10,7237,Phoenix,mostly cloudy,37,1
+10,7241,Phoenix,mostly cloudy,42,1
+10,7276,Phoenix,Mostly Cloudy,53,1
+10,7277,Phoenix,Overcast,60,1
+10,7291,Phoenix,Partly Cloudy,38,1
+10,7300,Phoenix,mostly cloudy,29,1
+10,7309,Phoenix,mostly cloudy,59,1
+10,7310,Phoenix,mostly cloudy,63,1
+10,7314,Phoenix,mostly cloudy,67,1
+10,7316,Phoenix,mostly cloudy,67,1
+10,7327,Phoenix,mostly cloudy,28,1
+10,7328,Phoenix,mostly cloudy,28,1
+10,7336,Phoenix,Mostly Cloudy,62,1
+10,7346,Phoenix,Overcast,66,1
+10,7375,Portland,clear sky,35,1
+10,7380,Portland,clear sky,49,1
+10,7387,Portland,clear sky,49,1
+10,7393,Portland,clear sky,46,1
+10,7413,Portland,Mostly Cloudy,77,1
+10,7416,Portland,Mostly Cloudy,77,1
+10,7422,Portland,Mostly Cloudy,77,1
+10,7427,Portland,Fog,100,1
+10,7428,Portland,Fog,93,1
+10,7441,Portland,Lt Rain,87,1
+10,7449,Portland,clear sky,37,1
+10,7464,Portland,clear sky,56,1
+10,7477,Portland,mostly cloudy,79,1
+10,7485,Portland,light snow,74,1
+10,7496,Portland,clear sky,58,1
+10,7497,Portland,mostly cloudy,59,1
+10,7512,Portland,mostly cloudy,74,1
+10,7540,Portland,Lt Rain,87,1
+10,7553,Portland,mostly cloudy,65,1
+10,7560,Portland,mostly cloudy,55,1
+10,7572,Portland,clear sky,54,1
+10,7573,Portland,clear sky,54,1
+10,7585,Portland,mostly cloudy,50,1
+10,7595,Portland,Overcast,93,1
+10,7608,Portland,Mostly Cloudy,97,1
+10,7611,Portland,Partly Cloudy,89,1
+10,7614,Portland,Mostly Cloudy,86,1
+10,7634,Portland,light snow,93,1
+10,7636,Portland,light snow,100,1
+10,7640,Portland,light snow,93,1
+10,7669,Portland,Lt Rain,87,1
+10,7681,San Antonio,light rain,88,1
+10,7687,San Antonio,heavy rain,87,1
+10,7691,San Antonio,light rain,81,1
+10,7699,San Antonio,mostly cloudy,75,1
+10,7733,San Antonio,Overcast,82,1
+10,7739,San Antonio,Fog;Mist,86,1
+10,7743,San Antonio,Fog;Mist,89,1
+10,7757,San Antonio,Light Drizzle Fog;Mist,97,1
+10,7765,San Antonio,clear sky,57,1
+10,7776,San Antonio,clear sky,75,1
+10,7778,San Antonio,clear sky,74,1
+10,7802,San Antonio,clear sky,75,1
+10,7811,San Antonio,mostly cloudy,86,1
+10,7824,San Antonio,mostly cloudy,86,1
+10,7832,San Antonio,light rain,94,1
+10,7839,San Antonio,light rain,100,1
+10,7846,San Antonio,light rain,100,1
+10,7865,San Antonio,Light Rain Fog;Mist,93,1
+10,7880,San Antonio,mostly cloudy,100,1
+10,7887,San Antonio,mostly cloudy,100,1
+10,7891,San Antonio,mostly cloudy,93,1
+10,7894,San Antonio,mostly cloudy,93,1
+10,7903,San Antonio,mostly cloudy,82,1
+10,7917,San Antonio,Light Drizzle Fog;Mist,93,1
+10,7920,San Antonio,Light Drizzle Fog,97,1
+10,7934,San Antonio,Fog;Mist,86,1
+10,7936,San Antonio,Fog;Mist,89,1
+10,7949,San Antonio,light rain,94,1
+10,7959,San Antonio,moderate rain,94,1
+10,7967,San Antonio,light rain,93,1
+10,7968,San Antonio,light rain,93,1
+10,7980,San Antonio,Light Rain Fog;Mist,93,1
+10,7989,San Antonio,Rain Fog;Mist,96,1
+10,7993,San Antonio,Light Rain Fog;Mist,96,1
+10,8009,San Diego,mostly cloudy,76,1
+10,8026,San Diego,clear sky,72,1
+10,8036,San Diego,mostly cloudy,82,1
+10,8038,San Diego,mostly cloudy,82,1
+10,8040,San Diego,mostly cloudy,82,1
+10,8080,San Diego,Mostly Cloudy,67,1
+10,8097,San Diego,clear sky,77,1
+10,8100,San Diego,clear sky,82,1
+10,8104,San Diego,mostly cloudy,82,1
+10,8110,San Diego,clear sky,63,1
+10,8111,San Diego,clear sky,63,1
+10,8123,San Diego,clear sky,77,1
+10,8135,San Diego,clear sky,82,1
+10,8140,San Diego,clear sky,77,1
+10,8143,San Diego,clear sky,67,1
+10,8148,San Diego,clear sky,72,1
+10,8158,San Diego,clear sky,82,1
+10,8165,San Diego,mostly cloudy,72,1
+10,8168,San Diego,Hazy,77,1
+10,8170,San Diego,A Few Clouds,72,1
+10,8172,San Diego,A Few Clouds,72,1
+10,8173,San Diego,A Few Clouds,77,1
+10,8178,San Diego,Partly Cloudy,82,1
+10,8180,San Diego,A Few Clouds,77,1
+10,8194,San Diego,mostly cloudy,68,1
+10,8206,San Diego,clear sky,82,1
+10,8208,San Diego,mostly cloudy,82,1
+10,8216,San Diego,mostly cloudy,82,1
+10,8223,San Diego,mostly cloudy,63,1
+10,8239,San Diego,Haze,80,1
+10,8242,San Diego,Overcast,74,1
+10,8253,San Diego,Mostly Cloudy,64,1
+10,8262,San Diego,mostly cloudy,77,1
+10,8275,San Diego,mostly cloudy,82,1
+10,8280,San Diego,mostly cloudy,82,1
+10,8285,San Diego,mostly cloudy,68,1
+10,8293,San Diego,Mostly Cloudy,75,1
+10,8297,San Diego,Overcast,78,1
+10,8313,San Diego,Overcast,74,1
+10,8320,San Francisco,mostly cloudy,87,1
+10,8336,San Francisco,mostly cloudy,82,1
+10,8367,San Francisco,mostly cloudy,82,1
+10,8368,San Francisco,mostly cloudy,82,1
+10,8370,San Francisco,mostly cloudy,82,1
+10,8406,San Francisco,mostly cloudy,59,1
+10,8408,San Francisco,light rain,88,1
+10,8409,San Francisco,light rain,88,1
+10,8412,San Francisco,light rain,88,1
+10,8417,San Francisco,clear sky,87,1
+10,8424,San Francisco,clear sky,93,1
+10,8425,San Francisco,mostly cloudy,93,1
+10,8432,San Francisco,mostly cloudy,82,1
+10,8433,San Francisco,mostly cloudy,82,1
+10,8435,San Francisco,clear sky,82,1
+10,8436,San Francisco,clear sky,77,1
+10,8440,San Francisco,clear sky,82,1
+10,8441,San Francisco,clear sky,87,1
+10,8444,San Francisco,clear sky,87,1
+10,8476,San Francisco,mostly cloudy,82,1
+10,8477,San Francisco,mostly cloudy,82,1
+10,8480,San Francisco,mostly cloudy,82,1
+10,8515,San Francisco,mostly cloudy,67,1
+10,8516,San Francisco,mostly cloudy,63,1
+10,8543,San Francisco,mostly cloudy,82,1
+10,8544,San Francisco,mostly cloudy,77,1
+10,8579,San Francisco,mostly cloudy,82,1
+10,8581,San Francisco,mostly cloudy,82,1
+10,8584,San Francisco,mostly cloudy,77,1
+10,8586,San Francisco,mostly cloudy,88,1
+10,8587,San Francisco,mostly cloudy,88,1
+10,8649,San Jose,mostly cloudy,93,1
+10,8680,San Jose,clear sky,87,1
+10,8692,San Jose,Mostly Cloudy,60,1
+10,8693,San Jose,Mostly Cloudy,60,1
+10,8696,San Jose,Mostly Cloudy,60,1
+10,8698,San Jose,Mostly Cloudy,60,1
+10,8705,San Jose,Mostly Cloudy,86,1
+10,8782,San Jose,mostly cloudy,76,1
+10,8788,San Jose,mostly cloudy,52,1
+10,8792,San Jose,mostly cloudy,82,1
+10,8800,San Jose,clear sky,94,1
+10,8807,San Jose,clear sky,87,1
+10,8812,San Jose,Mostly Cloudy,72,1
+10,8828,San Jose,Fair,89,1
+10,8834,San Jose,mostly cloudy,48,1
+10,8850,San Jose,mostly cloudy,82,1
+10,8859,San Jose,mostly cloudy,87,1
+10,8863,San Jose,mostly cloudy,72,1
+10,8903,San Jose,mostly cloudy,77,1
+10,8907,San Jose,clear sky,87,1
+10,8915,San Jose,clear sky,93,1
+10,8916,San Jose,clear sky,93,1
+10,8919,San Jose,mostly cloudy,93,1
+10,8926,San Jose,clear sky,59,1
+10,8949,San Jose,Mostly Cloudy,96,1
+10,8956,San Jose,Partly Cloudy,62,1
+10,8962,Seattle,Fair,,1
+10,8969,Seattle,mostly cloudy,70,1
+10,8992,Seattle,mostly cloudy,87,1
+10,8994,Seattle,mostly cloudy,87,1
+10,9000,Seattle,clear sky,93,1
+10,9003,Seattle,mostly cloudy,93,1
+10,9004,Seattle,mostly cloudy,93,1
+10,9020,Seattle,Overcast,76,1
+10,9023,Seattle,Overcast,76,1
+10,9026,Seattle,Mostly Cloudy,86,1
+10,9034,Seattle,Fair,89,1
+10,9052,Seattle,mostly cloudy,58,1
+10,9066,Seattle,light rain,93,1
+10,9069,Seattle,mostly cloudy,87,1
+10,9076,Seattle,light rain,87,1
+10,9079,Seattle,mostly cloudy,93,1
+10,9084,Seattle,mostly cloudy,93,1
+10,9109,Seattle,mostly cloudy,76,1
+10,9124,Seattle,mostly cloudy,87,1
+10,9130,Seattle,Mostly Cloudy,77,1
+10,9133,Seattle,Overcast,86,1
+10,9143,Seattle,Lt Rain,86,1
+10,9149,Seattle,Mostly Cloudy,89,1
+10,9151,Seattle,mostly cloudy,87,1
+10,9159,Seattle,light rain,81,1
+10,9166,Seattle,light rain,87,1
+10,9178,Seattle,clear sky,93,1
+10,9194,Seattle,Overcast,86,1
+10,9223,Seattle,clear sky,62,1
+10,9224,Seattle,mostly cloudy,66,1
+10,9230,Seattle,mostly cloudy,76,1
+10,9236,Seattle,mostly cloudy,87,1
+10,9248,Seattle,light rain,87,1
+10,9251,Seattle,Mostly Cloudy,61,1
+10,9252,Seattle,Mostly Cloudy,61,1
+10,9268,Seattle,Partly Cloudy,86,1
+10,9280,Washington,clear sky,42,1
+10,9293,Washington,mostly cloudy,36,1
+10,9296,Washington,mostly cloudy,33,1
+10,9303,Washington,clear sky,43,1
+10,9308,Washington,clear sky,54,1
+10,9321,Washington,mostly cloudy,50,1
+10,9325,Washington,mostly cloudy,40,1
+10,9351,Washington,Mostly Cloudy,49,1
+10,9372,Washington,mostly cloudy,33,1
+10,9379,Washington,mostly cloudy,41,1
+10,9385,Washington,heavy snow,73,1
+10,9390,Washington,light snow,73,1
+10,9394,Washington,light snow,73,1
+10,9423,Washington,clear sky,31,1
+10,9425,Washington,clear sky,29,1
+10,9427,Washington,mostly cloudy,61,1
+10,9434,Washington,mostly cloudy,65,1
+10,9466,Washington,Fair,54,1
+10,9485,Washington,mostly cloudy,69,1
+10,9492,Washington,mostly cloudy,74,1
+10,9493,Washington,mostly cloudy,74,1
+10,9506,Washington,Mostly Cloudy,34,1
+10,9516,Washington,Mostly Cloudy,66,1
+10,9517,Washington,Mostly Cloudy,69,1
+10,9520,Washington,Mostly Cloudy,75,1
+10,9553,Washington,light snow,86,1
+10,9554,Washington,mostly cloudy,86,1
+10,9557,Washington,mostly cloudy,86,1
+10,9558,Washington,light snow,86,1
+10,9559,Washington,light snow,86,1
+10,9560,Washington,mostly cloudy,86,1
+10,9566,Washington,mostly cloudy,61,1
+10,9584,Washington,Fog;Mist,85,1

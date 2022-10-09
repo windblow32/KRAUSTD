@@ -1,0 +1,17 @@
+原始数据集（对应第二个断点）CTD时间 : 20:57:17 至 21:30:53
+遗传算法代数2
+error rmse : 133.3365768000009
+error rate : 0.010033444816053512
+数值类型rmse: 0.09406488189191557
+游走长度为 : 24
+Attr 正态均值 : 6
+Attr 正态标准差 : 4
+Value 正态均值 : 1
+Value 正态标准差 : 1
+Tuple 正态均值 : 5
+Tuple 正态标准差 : 7
+drop Source ? (0 false, 1 true) : 0
+drop Sample ? (0 false, 1 true) : 1
+using model : 1
+embedding dim : 165
+windowSize : 5
