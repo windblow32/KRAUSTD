@@ -1,7 +1,0 @@
-source,Flight,scheduled_departure,actual_departure,departure_gate,scheduled_arrival,actual_arrival,arrival_gate,,,
-1,2,0,30,,0,335,,,,2
-1,20,0,360,370,0,400,379,,,20
-1,25,0,360,369,0,560,540,,,25
-1,26,0,360,,0,443,,,,26
-1,75,0,405,417,0,465,460,,,75
-1,93,0,420,,0,595,,,,93
