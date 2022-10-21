@@ -2,9 +2,9 @@ This project seeks to build a demonstration to enhance the semantic awareness of
 ## Guide
 All versions of our algorithm is in test.main.java. As to weather dataset, we present many versions of our algorithm in test.main.java.ctd.weather. Take test.main.java.ctd.weather.all for example, users can simply execute GAImpl_all.java to check the result of our whole algorithm. If you want to change dataset, please change the variable "dataPath" in row 28. The result will be shown in "dataPath/result". Other versions of our algorithm has the same file structure. DART part can refer to test.main.java.dart and IATD part can refer to test.main.java.iatd.
 ## Dependencies
-jdk version 1.8.0_251
-org.junit.Test. Tested on version 4.13.1
-com.medallia.word2vec:word2vecjava_2.11. Tested on version 1.0.1
+jdk version 1.8.0_251  
+org.junit.Test. Tested on version 4.13.1  
+com.medallia.word2vec:word2vecjava_2.11. Tested on version 1.0.1  
 other maven dependencies, please refer to our pom.xml file
 ## Platforms
 Our algorithm has been tested on Windows 10
