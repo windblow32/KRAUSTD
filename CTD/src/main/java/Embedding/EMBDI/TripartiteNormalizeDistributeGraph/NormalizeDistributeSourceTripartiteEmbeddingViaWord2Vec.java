@@ -16,13 +16,14 @@ import static com.medallia.word2vec.Word2VecModel.fromBinFile;
 
 @Slf4j
 public class NormalizeDistributeSourceTripartiteEmbeddingViaWord2Vec {
-    public List<String> total_nodes = new ArrayList<>();
+    // public List<String> total_nodes = new ArrayList<>();
     public Word2VecModel word2VecModel;
     public List<List<String>> smallList = new ArrayList<>();
     public int isCBOW;
     public int dim;
     public int windowSize;
     public int sourceNum = 55;
+    private final PrintStream out = System.out;
 
 
     public List<Double> train(List<String> fileList, String graphFilePath, int n_walks, int n_nodes, int length, int useNum, int AttrDistributeLow,
@@ -37,78 +38,22 @@ public class NormalizeDistributeSourceTripartiteEmbeddingViaWord2Vec {
                               int dim,
                               int windowSize) {
 
-        // 输出此次信息
-        System.out.println("游走长度为 : " + length);
-        System.out.println("Attr 正态均值 : " + AttrDistributeLow);
-        System.out.println("Attr 正态标准差 : " + AttrDistributeHigh);
-        System.out.println("Value 正态均值 : " + ValueDistributeLow);
-        System.out.println("Value 正态标准差 : " + ValueDistributeHigh);
-        System.out.println("Tuple 正态均值 : " + TupleDistributeLow);
-        System.out.println("Tuple 正态标准差 : " + TupleDistributeHigh);
-        System.out.println("drop Source ? (0 false, 1 true) : " + dropSourceEdge);
-        System.out.println("drop Sample ? (0 false, 1 true) : " + dropSampleEdge);
-        System.out.println("using model : " + isCBOW);
-        System.out.println("embedding dim : " + dim);
-        System.out.println("windowSize : " + windowSize);
         this.isCBOW = isCBOW;
         this.dim = dim;
         this.windowSize = windowSize;
-
+        System.setOut(out);
         try {
             MetaAlgorithmNormalizeDistribute meta = new MetaAlgorithmNormalizeDistribute();
-//            List data = meta.Meta_Algorithm(fileList, n_walks, n_nodes, length);
-//            this.total_nodes.addAll(meta.nodes);
-//            List list = Lists.transform(data, var11 -> data);
-            // todo : judge whether graph is saved
-            String testFilePath = graphFilePath;
-            File testFile = new File(testFilePath);
-//            List<List<String>> data = null;
-            // fixme 图的名字没有更改，一旦存储了一次就不被更新
-            if(testFile.exists()){
-                // 图已经建立，其他数值无法改变了
-                // data = meta.Meta_AlgorithmUseGraphFilePath(graphFilePath, n_walks, n_nodes, length);
-            }
-            else {
-                // 不存在就训练
-                smallList = meta.Meta_Algorithm(fileList, n_walks, n_nodes, length, AttrDistributeLow,
-                        AttrDistributeHigh,
-                        ValueDistributeLow,
-                        ValueDistributeHigh,
-                        TupleDistributeLow,
-                        TupleDistributeHigh,
-                        dropSourceEdge,
-                        dropSampleEdge);
-            }
+            smallList = meta.Meta_Algorithm(fileList, n_walks, n_nodes, length, AttrDistributeLow,
+                    AttrDistributeHigh,
+                    ValueDistributeLow,
+                    ValueDistributeHigh,
+                    TupleDistributeLow,
+                    TupleDistributeHigh,
+                    dropSourceEdge,
+                    dropSampleEdge);
 
             // fixme : disable total_nodes to test heap
-            this.total_nodes.addAll(meta.nodes);
-            // save node
-//            String totalNodePath = "data/stock100/totalMinNode1.txt";
-            // saveList(totalNodePath, total_nodes);
-            // System.out.println("save totalNodes successfully");
-
-//            List<String> finalData = data;
-//            List<List<String>> list = data.stream().map(var11 -> finalData).collect(Collectors.toList());
-//            List<List<String>> list = data;
-//
-//            List<String> temp = new ArrayList<>();
-//            Iterator<List<String>> itor = list.iterator();
-//            int k = 0;
-//            temp = itor.next();
-//            System.out.println("list size : "+temp.size());
-
-//            System.out.println("(abandon)use : "+useNum);
-//            int index = 0;
-//            for (k = 0; k < temp.size(); k++) {
-//                List<String> tempList = new ArrayList<>();
-//                for (int t = index; t < index + length; t++) {
-//                    if(t<temp.size()){
-//                        tempList.add(temp.get(t));
-//                    }
-//                }
-//                smallList.add(tempList);
-//                index += length;
-//            }
             System.out.println("train successfully");
 
         } catch (InterruptedException e) {
@@ -134,11 +79,8 @@ public class NormalizeDistributeSourceTripartiteEmbeddingViaWord2Vec {
 //            List list = Lists.transform(data, var11 -> data);
             List<String> data = meta.Meta_AlgorithmUseGraphFilePath(graphFilePath, n_walks, n_nodes, length);
             // fixme : disable total_nodes to test heap
-            this.total_nodes.addAll(meta.nodes);
+//            this.total_nodes.addAll(meta.nodes);
             // save node, 测试用，后面没用
-            String totalNodePath = "data/stock100/totalNode10.txt";
-            saveList(totalNodePath, total_nodes);
-            System.out.println("save totalNodes successfully");
             List<List<String>> list = data.stream().map(var11 -> data).collect(Collectors.toList());
 
             List<String> temp = new ArrayList<>();
@@ -190,18 +132,18 @@ public class NormalizeDistributeSourceTripartiteEmbeddingViaWord2Vec {
     /**
      * @param modelFilePath 模型保存位置
      */
-    public void saveModel(Word2VecModel model, String modelFilePath) {
-        File f = new File(modelFilePath);
-        try {
-            f.createNewFile();
-            FileOutputStream fo = new FileOutputStream(f);
-            PrintStream printStream = new PrintStream(fo);
-            System.setOut(printStream);
-            model.toBinFile(printStream);
-        } catch (IOException e) {
-            e.printStackTrace();
-        }
-    }
+//    public void saveModel(Word2VecModel model, String modelFilePath) {
+//        File f = new File(modelFilePath);
+//        try {
+//            f.createNewFile();
+//            FileOutputStream fo = new FileOutputStream(f);
+//            PrintStream printStream = new PrintStream(fo);
+//            System.setOut(printStream);
+//            model.toBinFile(printStream);
+//        } catch (IOException e) {
+//            e.printStackTrace();
+//        }
+//    }
 
     public Word2VecModel loadModel(String modelFilePath) {
         File f = new File(modelFilePath);
@@ -215,17 +157,6 @@ public class NormalizeDistributeSourceTripartiteEmbeddingViaWord2Vec {
         return null;
     }
 
-    public Map<String, List<Double>> getEmbeddings() throws Searcher.UnknownWordException {
-//        nodes.add("1");
-        Map<String, List<Double>> vecMap = new HashMap<>();
-        List<String> nodeslist = new ArrayList<>(total_nodes);
-        for (String word : nodeslist) {
-            Searcher searcher = word2VecModel.forSearch();
-            List<Double> list = new ArrayList<>(searcher.getRawVector(word));
-            vecMap.put(word, list);
-        }
-        return vecMap;
-    }
 
     /**
      * @param k : get k nodes' embeddings
@@ -449,7 +380,7 @@ public class NormalizeDistributeSourceTripartiteEmbeddingViaWord2Vec {
                     setNumIterations(5).train(list);
             Word2VecModelThrift thrift = word2VecModel.toThrift();
             NormalizedWord2VecModel.fromThrift(thrift);
-            saveModel(word2VecModel, modelSavePath);
+            // saveModel(word2VecModel, modelSavePath);
             return word2VecModel;
 //            return new ArrayList<Double>(thrift.getVectors());
         } catch (InterruptedException e) {
@@ -478,9 +409,7 @@ public class NormalizeDistributeSourceTripartiteEmbeddingViaWord2Vec {
 
             Word2VecModelThrift thrift = word2VecModel.toThrift();
             NormalizedWord2VecModel.fromThrift(thrift);
-            saveModel(word2VecModel, modelSavePath);
             return word2VecModel;
-//            return new ArrayList<Double>(thrift.getVectors());
         } catch (InterruptedException e) {
             e.printStackTrace();
         }

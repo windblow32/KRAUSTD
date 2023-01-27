@@ -2,6 +2,7 @@ package main.java;
 
 import com.medallia.word2vec.Searcher;
 import com.medallia.word2vec.Word2VecModel;
+import main.java.Embedding.EMBDI.GA.GeneticAlgorithm;
 import main.java.Embedding.EMBDI.SourceEmbedding.SourceEmbeddingViaWord2Vec;
 import main.java.Embedding.EMBDI.TripartiteNormalizeDistributeGraph.NormalizeDistributeSourceTripartiteEmbeddingViaWord2Vec;
 import scala.collection.script.Index;
@@ -14,6 +15,8 @@ import java.util.ArrayList;
 import java.util.Arrays;
 import java.util.List;
 import java.util.regex.Pattern;
+
+import static java.lang.System.exit;
 
 public class CTD_Algorithm {
 
@@ -35,8 +38,8 @@ public class CTD_Algorithm {
     // pass rmse to GA
     public double rmseForGA = 0;
     public String[][] calcTruth = null;
-
-    public int CTD_sotaFlag = 0;
+    // 如果是0，就运行最原始ctd算法
+    public int CTD_sotaFlag = 1;
     // word2VecModel, change every time value update
     public Word2VecModel TriModel;
     public int v;
@@ -45,7 +48,7 @@ public class CTD_Algorithm {
     // fixme : 原始ctd把下列参数置为0
     public int useTriModel = 1;
     // fixme : ctd迭代次数，属于先验知识
-    public int time = 3;
+    public int time = 5;
     // L行tuple
     private int L;
     // 二维数组repaired table无法初始化，在算法中返回即可。
@@ -56,7 +59,20 @@ public class CTD_Algorithm {
     private List<String> attributes = new ArrayList<>();
     // fixme : change source da num
     private int zengqiangshu;
+    public String timeBeforeWalk;
+    public String timeAfterWalk;
+    public String timeAfterTrain;
+    public String timeAfterDis1;
+    public String timeAfterDis2;
+    public List<Integer> versionList;
+    private final List<Integer> numList = new ArrayList<>();
+    public PrintStream out = System.out;
+    private void initNumList(){
+        numList.add(4);
+        numList.add(5);
+        numList.add(6);
 
+    }
     public static boolean deleteWithPath(String filePath) {
         File file = new File(filePath);
         if (!file.exists()) {
@@ -129,6 +145,7 @@ public class CTD_Algorithm {
             int isCBOW,
             int dim,
             int windowSize,
+            List<Integer> versionList,
             int isDA,
             int useTriModel
     ) {
@@ -141,49 +158,19 @@ public class CTD_Algorithm {
         this.isDA = isDA;
         this.v = version;
         this.k = k; // this.k = files.size();
-        this.useTriModel = 1;
+        this.useTriModel = useTriModel;
+        this.versionList = versionList;
         // fixme : change source 替换成sourceDA中任意一个文件path
         String daTF = dataPath + "/sourceDA/source1.csv";
         File fileTF = new File(daTF);
         if(fileTF.exists()){
             initDATupleList(daTF);
         }
-
+        initNumList();
 
         // double输出限制
         DecimalFormat df = new DecimalFormat("#.00");
-//        // use date to name file
-//        LocalTime time1 = LocalTime.now();
-//        DateTimeFormatter formatter1 = DateTimeFormatter.ofPattern("HH:mm:ss");
-//        String t1 = time1.format(formatter1);
-//        String[] data1 = t1.split(":");
-//        String insertT1 = data1[0] + data1[1] + data1[2];
-//        String logPath;
-//        if (isDA == 1) {
-//            logPath = "log/Tri/CTD/monitor/DA/logMin" + insertT1 + ".txt";
-//
-//        } else {
-//            logPath = "log/Tri/CTD/monitor/logMin" + insertT1 + ".txt";
-//        }
-//        File logFile = new File(logPath);
-//        try {
-//            logFile.createNewFile();
-//            FileOutputStream fos = new FileOutputStream(logFile);
-//            PrintStream ps = new PrintStream(fos);
-//            System.setOut(ps);
-//        } catch (IOException e) {
-//            e.printStackTrace();
-//        }
-//
-//        // print information, if 0 then not in topk list
-//        System.out.println("GA printer : rmse = " + rmsePrinter);
-//        System.out.println("GA printer : r2 square = " + r2_squarePrinter);
-//        System.out.println("GA printer : last time fitScore = " + fitScore);
-//        System.out.println("GA printer : last time extracted data's rmse = " + extractedCTD_RMSE);
 
-        // 解析DC,默认的DC格式为:
-        // 值域约束 : zipcode < 12
-        // 函数依赖 : attribute1 < attribute2
         for (String dc : DCs) {
             String[] split_DC = dc.split(" ");
             processed_DC.add(split_DC);
@@ -220,7 +207,7 @@ public class CTD_Algorithm {
         String[][] result = new String[L][p];
         // 一定需要初始化，否则evaluate返回0
         String[][] pre_result = new String[L][p];
-        // 初始化pre_result,别问我为啥初始化成0，因为他最后第一次赋值也没啥用，但是还不能空，就很离谱
+        // 初始化pre_result
         // 用于循环的变量就随便起了233
         for (int x = 0; x < L; x++) {
             for (int c = 0; c < p; c++) {
@@ -340,7 +327,7 @@ public class CTD_Algorithm {
         // 记录result文件的个数
         int times = 0;
         double goal = 0;
-        while (error > min_error) {
+        while (times<time){
             for (int i = 0; i < L; i++) {
                 for (int j = 0; j < p; j++) {
                     int before_judge = 0;
@@ -403,7 +390,7 @@ public class CTD_Algorithm {
 
                     // judge satisfy (20) or (31)
                     boolean judge;
-          /*
+                    /*
                     用于在judge部分应用不同的update方法！
                     1, 2, 3为single entity
                     1代表 code < 10;
@@ -411,7 +398,7 @@ public class CTD_Algorithm {
                     3代表前两种的混合情况, 如果flag被先后赋值1，2或者2，1,就将其赋值为3
                     4代表 multi entity
                      */
-                    //                    int flag = 0;
+                    // int flag = 0;
                     int find_count;
                     // 用于发现multi entity，跳出循环标志
                     int multi_flag = 0;
@@ -424,13 +411,10 @@ public class CTD_Algorithm {
                             // 记录需要查找的属性数量
                             // 1代表 code < 10 类型的DC
                             find_count = 1;
-
                             // attribute judge
                             // 当前开头不是属性开头时，默认是多实体间的DC,以tuple开头
-
                             if (!attributes.contains(dc[0])) {
-                                //                                System.out.println("DC is not legal, the first word isn't an attribute!");
-                                // 注意，这里认位多实体约束和单实体约束是分开的，不能混合使用！
+                                // 注意，这里认为多实体约束和单实体约束是分开的，不能混合使用！
                                 multi_flag = 1;
                                 // 完全托付给外部了
                                 int index = processed_DC.indexOf(dc);
@@ -485,7 +469,7 @@ public class CTD_Algorithm {
                                 judge = false;
                             }
                             if (v1 == null || v2 == null) {
-                                int sd = 0;
+                                exit(-15);
                             }
                             // 如果result中出现 空值，说明所有数据源提供的都是空值，那就是空值
                             if (v1.equals("") || v2.equals("")) {
@@ -557,35 +541,31 @@ public class CTD_Algorithm {
                             }
                         }
                     }
-                    // else, data in result is the final v.lp
-
                 }
             }
             // 至此,更新结束
-//            CTD_sotaFlag = 1;
             try {
                 writeValue(value);
                 writeResult(result, times);
                 //
                 // 1为仅仅CTD自身
-                if (times % time == 0 && times != 0) {
-                    calcTruth = result;
-                    return weights;
-                }
+//                if (times % time == 0 && times != 0) {
+//                    calcTruth = result;
+//                    return weights;
+//                }
             } catch (IOException e) {
                 e.printStackTrace();
             }
-            if (times % time == 0 && times != 0) {
-                calcTruth = result;
-                return weights;
-            }
+//            if (times % time == 0 && times != 0) {
+//                calcTruth = result;
+//                return weights;
+//            }
             // update weight of kth source w.k by (17)
             double up = 0; // 分子
             double down; //分母
             // calculate up,必须分开计算，因为分子是三重循环的总和，定值
             // finished : matrix数值此后不改变，distance中模型训练一次保存后，不用改变了
             flag = 0;
-            double distanceSum = 0;
             for (int s = 0; s < k; s++) {
                 for (int l = 0; l < L; l++) {
                     for (int col = 0; col < p; col++) {
@@ -598,12 +578,15 @@ public class CTD_Algorithm {
                             return weights;
                         }
                         up += r;
-                        distanceSum += r;
                         // flag = 1代表数值不变
                         flag = 1;
                     }
                 }
             }
+            // after calc distance time
+            LocalTime now = LocalTime.now();
+            DateTimeFormatter formatter1 = DateTimeFormatter.ofPattern("HH:mm:ss");
+            timeAfterDis1 = now.format(formatter1);
             // calculate wk
             for (int s = 0; s < k; s++) {
                 down = 0;
@@ -619,7 +602,6 @@ public class CTD_Algorithm {
                             return weights;
                         }
                         down += r2;
-
                     }
                 }
                 // calculate nature log
@@ -630,8 +612,8 @@ public class CTD_Algorithm {
                 } else {
                     weights.set(s, wk);
                 }
-
             }
+            timeAfterDis2 = now.format(formatter1);
             flag = 0;
             // 计算距离用到result的路径，其中有times作为标志，因而在两次distance计算过后再增加times
             times++;
@@ -639,16 +621,17 @@ public class CTD_Algorithm {
             error = 0;
             for (int q = 0; q < L; q++) {
                 for (int w = 0; w < p; w++) {
-                    error += sim.levenshtein(result[q][w], pre_result[q][w]);
+                    // attention : 数字类型用rel-diff
+                    if(numList.contains(w)){
+                        // numerical data use abs normal
+                        error += sim.abs_normal(result[q][w],pre_result[q][w]);
+                    }else error += sim.levenshtein(result[q][w], pre_result[q][w]);
                 }
             }
             System.out.println("error is " + error);
-            System.out.println("distanceSum is " + distanceSum);
+            System.out.println("distanceSum is " + up);
             pre_result = result;
 
-            if (times % time == 0 && times != 0) {
-                break;
-            }
         }
         // attention : if only ctd, dont need under
         if (isDA == 0) {
@@ -671,7 +654,7 @@ public class CTD_Algorithm {
         if (judge_number(v1) && judge_number(v2)) {
             double value1 = Double.parseDouble(v1);
             double value2 = Double.parseDouble(v2);
-            if (Math.abs((value2 - value1)) < 0.5) {
+            if (Math.abs((value2 - value1)) < 0.001) {
                 return 1;
             } else return 0;
         } else {
@@ -912,7 +895,7 @@ public class CTD_Algorithm {
         }
         // attention : tempDA path
         String tempDAFilePath = dataPath + "/result/DAresult/tempDA.csv";
-        if (isDA == 0&&existDA==1) {
+        if (isDA == 0&&existDA==1&&flag==0) {
             // 拿到需要读入的数据
             // fixme : change source
             String DAresultPath = dataPath + "/result/DAresult/result_" + 1 + "_" + times + ".csv";
@@ -929,7 +912,6 @@ public class CTD_Algorithm {
                     line++;
                 }
 
-//                File resultFile = new File("data/ctd/weather/result/result_" + v + "_" + times + ".csv");
                 File resultFile = new File(dataPath + "/result/result_" + v + "_" + times + ".csv");
 
                 FileReader resultFr = new FileReader(resultFile);
@@ -944,9 +926,7 @@ public class CTD_Algorithm {
                 System.setOut(ps);
                 // write attr
                 System.out.println(str);
-
                 // 从正常的result读取str输入到tempDA中，如果tuple在daTupleList中，就用这个替换
-
                 while ((str = resultBr.readLine()) != null) {
                     data = str.split(",", -1);
                     if (daTupleList.contains(data[0])) {
@@ -962,42 +942,27 @@ public class CTD_Algorithm {
                 br.close();
                 fr.close();
                 ps.close();
-
-
+                System.setOut(out);
             } catch (IOException e) {
                 e.printStackTrace();
             }
         }
-
-
-        if (isDA == 0&&existDA==1) {
+        if(isDA == 0&&existDA==1){
             // 添加改动过的
             fileList.add(tempDAFilePath);
-        } else {
+        }
+        else{
             // 否则正常添加
             fileList.add(resultPath);
         }
-
-
         if (times % time == 0 && times != 0) {
             return -100;
         }
-
-        if (mode.equals("FIVE")) {
-            // 五分图没修改对应的类
-            // 五分图
-            NormalizeDistributeSourceTripartiteEmbeddingViaWord2Vec word2VecService = new NormalizeDistributeSourceTripartiteEmbeddingViaWord2Vec();
-            //GA instead,利用遗传算法计算超参
-            // GA()得到超参
-//            word2VecService.train(fileList, graphPath, 20, 3, 60,20000,1,1,1,1,1,1);
-//            return 1 - word2VecService.distance(v1, v2);
-        } else if (mode.equals("THREE")) {
+        if (mode.equals("THREE")) {
             // fixme : ctd-BRM_al
             if(version == 5){
                 // 三分图
                 SourceEmbeddingViaWord2Vec word2VecService = new SourceEmbeddingViaWord2Vec();
-                // 如果是0，就运行最原始ctd算法
-                CTD_sotaFlag = 1;
 
                 if (CTD_sotaFlag == 0 && useTriModel == 0) {
                     int value1 = (int)Double.parseDouble(v1);
@@ -1019,7 +984,7 @@ public class CTD_Algorithm {
                     String insertT = data[0] + data[1] + data[2];
                     String graphFilePath = "data/stock100/weightCalcByVex/graph/55SourceStockGraphMin" + v + "_" + insertT + ".txt";
                     // fixme : change source model path
-                    String modelPath = "model/Tri/CTD/weather/totalMin" + v + "_" + insertT + ".model";
+                    String modelPath = "model/Tri/CTD/monitor/totalMin" + v + "_" + insertT + ".model";
                     word2VecService.train(fileList, graphFilePath, 3, 3, length);
                     TriModel = word2VecService.trainWithLocalWalks(modelPath);
                     // distanceUseSavedModel 计算的是相似度，需要处理
@@ -1030,19 +995,7 @@ public class CTD_Algorithm {
             }else{
                 // 三分图
                 NormalizeDistributeSourceTripartiteEmbeddingViaWord2Vec word2VecService = new NormalizeDistributeSourceTripartiteEmbeddingViaWord2Vec();
-                // GA第一次训练，构造图用
-                File versionListFile = new File(dataPath + "/version.txt");
-                FileInputStream fileInputStream = null;
-                try {
-                    fileInputStream = new FileInputStream(versionListFile);
-                    ObjectInputStream objectInputStream = new ObjectInputStream(fileInputStream);
-                    List<Integer> versionList = (List<Integer>) objectInputStream.readObject();
-
-                    CTD_sotaFlag = versionList.get(versionList.size() - 1);
-
-                } catch (IOException | ClassNotFoundException e) {
-                    e.printStackTrace();
-                }
+                CTD_sotaFlag = versionList.get(versionList.size() - 1);
                 // fixme : only ctd
 //                CTD_sotaFlag = 0;
 //                useTriModel = 0;
@@ -1074,12 +1027,22 @@ public class CTD_Algorithm {
                     String graphFilePath = "data/stock100/weightCalcByVex/graph/55SourceStockGraphMin" + v + "_" + insertT + ".txt";
 //                String modelPath = "model/Tri/CTD/weather/totalMin" + v + "_" + insertT + ".model";
                     // fixme : change source model path
-                    String modelPath = "model/Tri/CTD/camera/totalMin" + v + "_" + insertT + ".model";
-
+                    String modelPath = "model/Tri/CTD/monitor/totalMin" + v + "_" + insertT + ".model";
+                    // attention : debug, record time
+                    LocalTime now = LocalTime.now();
+                    DateTimeFormatter formatter1 = DateTimeFormatter.ofPattern("HH:mm:ss");
+                    timeBeforeWalk = now.format(formatter1);
                     word2VecService.train(fileList, graphFilePath, 3, 3, length, 20000,
                             AttrDistributeLow, AttrDistributeHigh, ValueDistributeLow, ValueDistributeHigh,
                             TupleDistributeLow, TupleDistributeHigh, dropSourceEdge, dropSampleEdge, isCBOW, dim, windowSize);
+                    now = LocalTime.now();
+                    timeAfterWalk = now.format(formatter1);
+
                     TriModel = word2VecService.trainWithLocalWalks(modelPath);
+                    now = LocalTime.now();
+                    timeAfterTrain = now.format(formatter1);
+                    // 恢复输出流
+                    System.setOut(out);
                     // distanceUseSavedModel 计算的是相似度，需要处理
                     double res = 1 - word2VecService.distanceUseSavedModel(TriModel, v1, v2);
                     if(res > 0.65) return 1;
@@ -1200,6 +1163,8 @@ public class CTD_Algorithm {
 
         PrintStream stream = null;
         try {
+            File file = new File(sourcePath);
+            file.createNewFile();
             stream = new PrintStream(sourcePath);
             // 覆盖写入
             for (int e = 0; e < header.length - 1; e++) {
@@ -1218,7 +1183,7 @@ public class CTD_Algorithm {
             }
             stream.close();
             //            bw.close();
-        } catch (FileNotFoundException e) {
+        } catch (IOException e) {
             e.printStackTrace();
         }
     }
@@ -1248,33 +1213,6 @@ public class CTD_Algorithm {
      * @return 数据信息量
      */
 
-//    public double RMSE(String[][] calcTruth, String[][] goldenStandard, int D1, int D2) {
-//
-//        double sum = 0;
-//        for (int i = 0; i < D1; i++) {
-//            for (int j = 0; j < D2; j++) {
-//                try {
-//                    if (calcTruth[i][j].equals("NaN")
-//                            || goldenStandard[i][j].equals("NaN")
-//                            || calcTruth[i][j].equals("")
-//                            || calcTruth[i][j] == null
-//                            || goldenStandard[i][j].equals("")
-//                            || goldenStandard[i][j] == null) {
-//                        sum += 0;
-//                    } else {
-//                        double v1 = Double.parseDouble(calcTruth[i][j]);
-//                        double v2 = Double.parseDouble(goldenStandard[i][j]);
-//                        sum += Math.pow(Math.abs(v1 - v2), 2) / (D1 * D2);
-//                    }
-//                } catch (NumberFormatException | NullPointerException e) {
-//                    // fixme 异常处理为0是否合理
-//                    sum += 0;
-//                }
-//            }
-//        }
-//        sum = Math.sqrt(sum);
-//        return sum;
-//    }
 
     public List<String> daTupleList = new ArrayList<>();
     public List<String> initDATupleList(String daFilePath){
@@ -1297,10 +1235,10 @@ public class CTD_Algorithm {
         return res;
     }
     // 计算初始适应度，内部包含global embedding生成
-    public double calcInitFitnessScore(int t) {
+    public double calcInitFitnessScore(int times) {
+        times = times - 1;
         Searcher search = TriModel.forSearch();
         String resultFilePath;
-        int times = time - 1;
 
         resultFilePath = dataPath + "/result/result_" + v + "_" + times + ".csv";
         String truthFilePath;

@@ -5,7 +5,9 @@ import java.io.FileInputStream;
 import java.io.IOException;
 import java.io.ObjectInputStream;
 import java.util.ArrayList;
+import java.util.HashSet;
 import java.util.List;
+import java.util.Set;
 
 public class MetaAlgorithmNormalizeDistribute {
     public List<String> nodes = new ArrayList<>();
@@ -37,7 +39,8 @@ public class MetaAlgorithmNormalizeDistribute {
                 dropSampleEdge);
         GenerateNormalizeDistributeSourceTripartiteRandomWalk walkGraph = new GenerateNormalizeDistributeSourceTripartiteRandomWalk(graph);
         nodes = graph.getAll_nodes();
-        for (String str : nodes) {
+        Set<String> nodeSet = new HashSet<>(nodes);
+        for (String str : nodeSet) {
             for (int i = 0; i < n_walks / n_nodes; i++) {
                 List<String> list = walkGraph.randomWalk(str, length);
                 walks.add(list);
@@ -62,7 +65,8 @@ public class MetaAlgorithmNormalizeDistribute {
         }
         GenerateNormalizeDistributeSourceTripartiteRandomWalk walkGraph = new GenerateNormalizeDistributeSourceTripartiteRandomWalk(graph);
         nodes = graph.getAll_nodes();
-        for (String str : nodes) {
+        Set<String> nodeSet = new HashSet<>(nodes);
+        for (String str : nodeSet) {
             for (int i = 0; i < n_walks / n_nodes; i++) {
                 List<String> list = walkGraph.randomWalk(str, length);
                 walks.addAll(list);

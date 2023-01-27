@@ -23,49 +23,11 @@ public class SourceEmbeddingViaWord2Vec{
     public List<List<String>> smallList = new ArrayList<>();
 
     public List<Double> train(List<String> fileList, String graphFilePath, int n_walks, int n_nodes, int length) {
+        System.setOut(System.out);
         MetaAlgorithm meta = new MetaAlgorithm();
-        // todo : judge whether graph is saved
-        String testFilePath = graphFilePath;
-        File testFile = new File(testFilePath);
-        List<String> data = null;
-        // fixme 图的名字没有更改，一旦存储了一次就不被更新
-        if(testFile.exists()){
-            // 图已经建立，其他数值无法改变了
-            data = meta.Meta_AlgorithmUseGraphFilePath(graphFilePath, n_walks, n_nodes, length);
-        }
-        else {
-            // 不存在就训练
-            data = meta.Meta_Algorithm(fileList, n_walks, n_nodes, length);
-        }
+        smallList = meta.Meta_Algorithm(fileList, n_walks, n_nodes, length);
         // fixme : disable total_nodes to test heap
         this.total_nodes.addAll(meta.nodes);
-        // save node
-        String totalNodePath = "data/stock100/totalMinNode2.txt";
-        saveList(totalNodePath, total_nodes);
-        System.out.println("save totalNodes successfully");
-
-        List<String> finalData = data;
-        List<List<String>> list = data.stream().map(var11 -> finalData).collect(Collectors.toList());
-
-        List<String> temp = new ArrayList<>();
-        Iterator<List<String>> itor = list.iterator();
-        int k = 0;
-        temp = itor.next();
-        System.out.println("list size : "+temp.size());
-        int index = 0;
-        // useNum instead of temp.size()
-        for (k = 0; k < temp.size(); k++) {
-            // fixme: sublist 是视图，不能本地化
-            List<String> tempList = new ArrayList<>();
-            for (int t = index; t < index + length; t++) {
-                if(t<temp.size()){
-                    tempList.add(temp.get(t));
-                }
-            }
-            smallList.add(tempList);
-            index += length;
-        }
-
         System.out.println("train successfully");
         return null;
     }
@@ -157,7 +119,7 @@ public class SourceEmbeddingViaWord2Vec{
                     setNumIterations(5).train(smallList);
             Word2VecModelThrift thrift = word2VecModel.toThrift();
             NormalizedWord2VecModel.fromThrift(thrift);
-            saveModel(word2VecModel, modelSavePath);
+            // saveModel(word2VecModel, modelSavePath);
             return word2VecModel;
 //            return new ArrayList<Double>(thrift.getVectors());
         } catch (InterruptedException e) {

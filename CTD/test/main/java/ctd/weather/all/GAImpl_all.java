@@ -183,7 +183,7 @@ public class GAImpl_all extends GeneticAlgorithm {
         int dim = getPartNum(parameter11)+63;
         int windowSize = getPartNum(parameter12)+1;
 
-        CTD_Algorithm CtdService = new CTD_Algorithm();
+        CTD_Algorithm_all CtdService = new CTD_Algorithm_all();
         // 数据集列表
         List<String> fileList = new ArrayList<>();
         String dataset = "weather";

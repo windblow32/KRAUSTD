@@ -183,7 +183,7 @@ public class GAImpl_nop extends GeneticAlgorithm {
         int dim = getPartNum(parameter11)+63;
         int windowSize = getPartNum(parameter12)+1;
 
-        CTD_Algorithm CtdService = new CTD_Algorithm();
+        CTD_Algorithm_nop CtdService = new CTD_Algorithm_nop();
         // 数据集列表
         List<String> fileList = new ArrayList<>();
         String dataset = "weather";
@@ -202,6 +202,9 @@ public class GAImpl_nop extends GeneticAlgorithm {
         deleteWithPath(graphPath);
         String t_DApre = null;
         String t_DAafter = null;
+        if(version == 1){
+            versionList.add(0);
+        }
         // SOURCENUM
         if(version == 1&&existDA==1){
             // time start

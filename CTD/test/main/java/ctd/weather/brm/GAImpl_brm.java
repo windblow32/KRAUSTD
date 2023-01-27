@@ -5,23 +5,18 @@ package main.java.ctd.weather.brm;
 
 import com.medallia.word2vec.Searcher;
 import com.medallia.word2vec.Word2VecModel;
-import main.java.CTD_Algorithm;
 import main.java.Embedding.EMBDI.GA.Chromosome;
 import main.java.Embedding.EMBDI.GA.GeneticAlgorithm;
-import main.java.Embedding.EMBDI.TripartiteNormalizeDistributeGraph.NormalizeDistributeRunInGA;
 
 import java.io.*;
 import java.time.LocalTime;
 import java.time.format.DateTimeFormatter;
 import java.util.ArrayList;
-import java.util.Collection;
 import java.util.Collections;
 import java.util.List;
-import main.java.Embedding.EMBDI.TripartiteGraphWithSource.RunInGA;
 import org.junit.Test;
 
 import static java.lang.System.*;
-import static org.apache.log4j.spi.Configurator.NULL;
 
 /**
  *@Description:

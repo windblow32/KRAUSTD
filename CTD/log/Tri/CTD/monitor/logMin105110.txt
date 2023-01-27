@@ -1,5 +1,0 @@
-GA printer : rmse = 61.35262958294227
-GA printer : r2 square = 0.0
-GA printer : last time fitScore = 0.0
-GA printer : last time extracted data's rmse = 233.0
-delete graph succeed

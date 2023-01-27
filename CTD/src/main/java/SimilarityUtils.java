@@ -14,15 +14,34 @@ public class SimilarityUtils {
 
         sim.levenshtein(str1.toLowerCase(),str2.toLowerCase());
     }
+    public double abs_normal(String str1, String str2){
+        if(str1==null||str2==null){
+            return 1;
+        }
+        if(str1.equals(str2)) return 0;
+        if(str1.equals("")||str2.equals("")||str1.equals("NaN")||str2.equals("NaN")){
+            return 1;
+        }
+        double v1 = Double.parseDouble(str1);
+        double v2 = Double.parseDouble(str2);
+        double num = Math.max(Math.abs(v1), Math.abs(v2));
+        if(num == 0){
+            // NaN
+            return 0;
+        }
+        return Math.abs(v1-v2)/num;
+    }
 
     /**
-     *
-     * @param str1
-     * @param str2
+     * 莱温斯坦距离
      */
     public double levenshtein(String str1,String str2) {
-        if(str1==null||str2==null||str1.equals("")||str2.equals("")||str1.equals("NaN")||str2.equals("NaN")){
-            return 0;
+        if(str1==null||str2==null){
+            return 1;
+        }
+        if(str1.equals(str2)) return 0;
+        if(str1.equals("")||str2.equals("")||str1.equals("NaN")||str2.equals("NaN")){
+            return 1;
         }
         //计算两个字符串的长度。
         int len1 = str1.length();
@@ -53,10 +72,8 @@ public class SimilarityUtils {
 //        System.out.println("字符串\""+str1+"\"与\""+str2+"\"的比较");
         //取数组右下角的值，同样不同位置代表不同字符串的比较
 //        System.out.println("差异步骤："+dif[len1][len2]);
-        //计算相似度
-        float similarity =1 - (float) dif[len1][len2] / Math.max(str1.length(), str2.length());
-//        System.out.println("相似度："+similarity);
-        return similarity;
+        //计算距离
+        return (float) dif[len1][len2] / Math.max(str1.length(), str2.length());
     }
 
     //得到最小值

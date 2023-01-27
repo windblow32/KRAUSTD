@@ -1,0 +1,23 @@
+原始数据集（对应第二个断点）CTD时间 : 21:36:16 至 21:36:38
+遗传算法代数4
+随机游走前时间21:36:28
+随机游走后时间(开始训练)21:36:33
+训练结束时间21:36:36
+distance1计算结束时间(与训练结束时间做差查看利用模型计算的时间)21:36:37
+distance2计算结束时间(与distance1做差查看利用模型计算的时间)21:36:37
+error rmse : 21.271464450374353
+error rate : 0.1457142857142857
+error distance: 5058.932581712273
+适应度: 0.0
+游走长度为 : 47
+Attr 正态均值 : 6
+Attr 正态标准差 : 2
+Value 正态均值 : 7
+Value 正态标准差 : 6
+Tuple 正态均值 : 3
+Tuple 正态标准差 : 0
+drop Source ? (0 false, 1 true) : 1
+drop Sample ? (0 false, 1 true) : 0
+using model : 0
+embedding dim : 185
+windowSize : 7
