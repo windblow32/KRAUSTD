@@ -282,7 +282,7 @@ public class GA_iatd_all extends GeneticAlgorithm {
                 dropSampleEdge,
                 isCBOW,
                 dim,
-                windowSize,truthFileName);
+                windowSize,truthFileName,dataPath);
         LocalTime time_pre = LocalTime.now();
         DateTimeFormatter formatter_pre = DateTimeFormatter.ofPattern("HH:mm:ss");
         t_pre = time_pre.format(formatter_pre);

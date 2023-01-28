@@ -329,7 +329,7 @@ public class GA_iatd extends GeneticAlgorithm {
                 dropSampleEdge,
                 isCBOW,
                 dim,
-                windowSize, truthFileName);
+                windowSize, truthFileName,dataPath);
         LocalTime time_pre = LocalTime.now();
         DateTimeFormatter formatter_pre = DateTimeFormatter.ofPattern("HH:mm:ss");
         t_pre = time_pre.format(formatter_pre);
@@ -464,6 +464,8 @@ public class GA_iatd extends GeneticAlgorithm {
                     try {
                         int rank = rmseList.indexOf(RMSEScore);
                         if (rank < 0) {
+                            System.setOut(out);
+                            System.out.println("error rank < 0");
                             exit(-200);
                         }
                         double Qi = (double) (rank + 1) / (k + 1);
@@ -636,7 +638,7 @@ public class GA_iatd extends GeneticAlgorithm {
         } catch (IOException e) {
             e.printStackTrace();
         } catch (ArrayIndexOutOfBoundsException e2) {
-            int a = 2;
+            System.setOut(out);
             System.out.println("ArrayIndexOutOfBoundsException");
             System.out.println(data);
             System.out.println(path);
@@ -646,7 +648,7 @@ public class GA_iatd extends GeneticAlgorithm {
     }
 
     public String[][] readGoldStandard(int D1, int D2) {
-        // 这里路径选用金标按照source抽取的allTruth
+        // 这里路径选用金标按照source抽取的threetruth
         String[][] goldenStandard = new String[D1][D2];
 
         String goldenStandardPath = dataPath + "/threetruth.csv";
@@ -832,14 +834,14 @@ public class GA_iatd extends GeneticAlgorithm {
             // ctd
             // truthFilePath = "data/stock100/DATruth/trueForDA.csv";
 
-            truthFilePath = dataPath + "/allTruth.CSV";
+            truthFilePath = dataPath + "/threetruth.CSV";
         }
 
         // result是python给的
         // find embedding
         File resultFile = new File(resultFilePath);
         File truthFile = new File(truthFilePath);
-        // 标注距离，应该比较threetruth，不是allTruth
+        // 标注距离，应该比较threetruth
         // calcResult and golden standard
         double totalGTDistance = 0;
         try {

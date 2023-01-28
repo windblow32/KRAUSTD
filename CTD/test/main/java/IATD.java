@@ -58,7 +58,9 @@ public class IATD {
                         int isCBOW,
                         int dim,
                         int windowSize,
-                        String truthFileName){
+                        String truthFileName,
+                        String dataPath){
+        this.dataPath = dataPath;
         exitBound =0;
         // add dataset
         List<String> fileList = new ArrayList<>();
@@ -68,7 +70,7 @@ public class IATD {
             fileList.add(dataPath + "/source/source" + i + ".csv");
         }
 //        fileList.add("data/iatd/stockForIATDTruth.CSV");
-        String truthPath = dataPath + "/allTruth.CSV";
+        String truthPath = dataPath + "/threetruth.CSV";
         fileList.add(truthPath);
         // train model
         String graphPath = "data/stock100/weightCalcByVex/graph/55SourceStockGraphMin.txt";
