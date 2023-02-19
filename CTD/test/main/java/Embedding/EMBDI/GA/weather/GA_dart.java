@@ -3,9 +3,11 @@ package main.java.Embedding.EMBDI.GA.weather;
 import com.medallia.word2vec.Searcher;
 import com.medallia.word2vec.Word2VecModel;
 import main.java.DART;
+import main.java.Embedding.EMBDI.GA.Chromosome;
+import main.java.Embedding.EMBDI.GA.GeneticAlgorithm;
+import org.junit.Test;
 
 import java.io.*;
-import java.nio.Buffer;
 import java.time.LocalTime;
 import java.time.format.DateTimeFormatter;
 import java.util.ArrayList;
@@ -13,34 +15,26 @@ import java.util.Arrays;
 import java.util.Collections;
 import java.util.List;
 
-import main.java.Embedding.EMBDI.GA.Chromosome;
-import main.java.Embedding.EMBDI.GA.GeneticAlgorithm;
-import main.java.Embedding.EMBDI.TripartiteNormalizeDistributeGraph.NormalizeDistributeSourceTripartiteEmbeddingViaWord2Vec;
-import org.junit.Test;
-import py4j.Gateway;
-import py4j.GatewayServer;
-import py4j.PythonClient;
-
 import static java.lang.System.arraycopy;
 
 /**
- *@Description:
+ * @Description:
  */
 
 public class GA_dart extends GeneticAlgorithm {
 
-    // fixme: change source existDA
-    public int existDA = 1;
+    public static final int NUM = 1 << 26;
+    public int existDA;
+    public PrintStream out = System.out;
     // fixme : change source
-    public String dataPath = "data/new_weather/15_30_9.0/";
+    public String dataPath = "data/monitor0707";
     // fixme : multi type index
     // string 多值
-    public List<Integer> stringType_multi_list = Arrays.asList(2);
+    public List<Integer> stringType_multi_list;
     // num 多值
-    public List<Integer> numType_multi_list = Arrays.asList(3);
-    public int domain_index = 1;
-    // fixme : change source 标注数
-    public int biaozhushu = 94;
+    public List<Integer> numType_multi_list;
+    // public int domain_index = 1;
+    public int biaozhushu;
     public int D1;
     public int D2;
     public String[][] calcTruth = null;
@@ -51,15 +45,9 @@ public class GA_dart extends GeneticAlgorithm {
     public double fitScore = 0;
     // print extracted rmse using CTD
     public double extractedCTD_RMSE;
-
-    public int Qi;
+    public double Qi;
     public double B_sum;
     public String truthFileName;
-
-
-
-
-    public static final int NUM = 1 << 26;
     public int version;
 
     // 分批转化成不同的超参，带入评价函数中
@@ -83,8 +71,7 @@ public class GA_dart extends GeneticAlgorithm {
     public int p10_length = 1;
     public int p11_length = 7;
     public int p12_length = 3;
-    // fixme : sourceNum
-    public int sourceNum = 9;
+    public int sourceNum;
     // k是质优度的超参
     public int k = 3;
     public int isDA = 0;
@@ -92,9 +79,91 @@ public class GA_dart extends GeneticAlgorithm {
     // 存储Topk
     public List<Double> rmseList = new ArrayList<>();
     public double minRMSE = Double.MAX_VALUE;
+    public List<String> daTupleList = new ArrayList<>();
+    private String attrName;
 
     public GA_dart() {
         super(37);
+    }
+
+    public static float Levenshtein(String a, String b) {
+        if (a == null && b == null) {
+            return 1f;
+        }
+        if (a == null || b == null) {
+            return 0F;
+        }
+        int editDistance = editDis(a, b);
+//        return 1 - ((float) editDistance / Math.max(a.length(), b.length()));
+        return editDistance;
+    }
+    private void initMultipleList(){
+        numType_multi_list.clear();
+        stringType_multi_list.clear();
+        if(dataPath.equals("data/monitor0707")){
+            numType_multi_list.add(100);
+            stringType_multi_list.add(2);
+            stringType_multi_list.add(3);
+        }else if(dataPath.equals("data/camera0707")){
+            numType_multi_list.add(100);
+            stringType_multi_list.add(3);
+        }else {
+            numType_multi_list.add(100);
+            for(int i = 0;i<D2;i++){
+                stringType_multi_list.add(i);
+            }
+        }
+    }
+    private static int editDis(String a, String b) {
+
+        int aLen = a.length();
+        int bLen = b.length();
+
+        if (aLen == 0) return aLen;
+        if (bLen == 0) return bLen;
+
+        int[][] v = new int[aLen + 1][bLen + 1];
+        for (int i = 0; i <= aLen; ++i) {
+            for (int j = 0; j <= bLen; ++j) {
+                if (i == 0) {
+                    v[i][j] = j;
+                } else if (j == 0) {
+                    v[i][j] = i;
+                } else if (a.charAt(i - 1) == b.charAt(j - 1)) {
+                    v[i][j] = v[i - 1][j - 1];
+                } else {
+                    v[i][j] = 1 + Math.min(v[i - 1][j - 1], Math.min(v[i][j - 1], v[i - 1][j]));
+                }
+            }
+        }
+        return v[aLen][bLen];
+    }
+
+    public static String removeCharAt(String s, int pos) {
+        return s.substring(0, pos) + s.substring(pos + 1);
+    }
+
+    public static boolean deleteWithPath(String filePath) {
+        File file = new File(filePath);
+        if (!file.exists()) {
+            // file not exist
+            System.out.println("graphFile is not exist, safe");
+            return false;
+        } else {
+            if (file.exists() && file.isFile()) {
+                // file exist
+                if (file.delete()) {
+                    System.out.println("delete graph succeed");
+                    return true;
+                } else {
+                    System.out.println("graph delete failed");
+                    return false;
+                }
+            } else {
+                System.out.println("input graphPath error!");
+                return false;
+            }
+        }
     }
 
     @Override
@@ -116,38 +185,37 @@ public class GA_dart extends GeneticAlgorithm {
         boolean[] parameter10 = new boolean[p10_length];
         boolean[] parameter11 = new boolean[p11_length];
         boolean[] parameter12 = new boolean[p12_length];
-        arraycopy(chro.gene,0,parameter1,0,p1_length);
-        arraycopy(chro.gene,p1_length,parameter2,0,p2_length);
-        arraycopy(chro.gene,p1_length+p2_length,parameter3,0,p2_length);
-        arraycopy(chro.gene,p1_length+p2_length*2,parameter4,0,p2_length);
-        arraycopy(chro.gene,p1_length+p2_length*3,parameter5,0,p2_length);
-        arraycopy(chro.gene,p1_length+p2_length*4,parameter6,0,p2_length);
-        arraycopy(chro.gene,p1_length+p2_length*5,parameter7,0,p2_length);
-        arraycopy(chro.gene,p1_length+p2_length*6,parameter8,0,p8_length);
-        arraycopy(chro.gene,p1_length+p2_length*6+p8_length,parameter9,0,p8_length);
+        arraycopy(chro.gene, 0, parameter1, 0, p1_length);
+        arraycopy(chro.gene, p1_length, parameter2, 0, p2_length);
+        arraycopy(chro.gene, p1_length + p2_length, parameter3, 0, p2_length);
+        arraycopy(chro.gene, p1_length + p2_length * 2, parameter4, 0, p2_length);
+        arraycopy(chro.gene, p1_length + p2_length * 3, parameter5, 0, p2_length);
+        arraycopy(chro.gene, p1_length + p2_length * 4, parameter6, 0, p2_length);
+        arraycopy(chro.gene, p1_length + p2_length * 5, parameter7, 0, p2_length);
+        arraycopy(chro.gene, p1_length + p2_length * 6, parameter8, 0, p8_length);
+        arraycopy(chro.gene, p1_length + p2_length * 6 + p8_length, parameter9, 0, p8_length);
 
-        arraycopy(chro.gene,p1_length+p2_length*6+p8_length*2,parameter10,0,p10_length);
-        arraycopy(chro.gene,p1_length+p2_length*6+p8_length*2+p10_length,parameter11,0,p11_length);
-        arraycopy(chro.gene,p1_length+p2_length*6+p8_length*2+p10_length+p11_length,parameter12,0,p12_length);
-        return p1 + ": " + String.valueOf(getPartNum(parameter1))
-                + p2 + ": " + String.valueOf(getPartNum(parameter2))
-                + p3 + ": " + String.valueOf(getPartNum(parameter3))
-                + p4 + ": " + String.valueOf(getPartNum(parameter4))
-                + p5 + ": " + String.valueOf(getPartNum(parameter5))
-                + p6 + ": " + String.valueOf(getPartNum(parameter6))
-                + p7 + ": " + String.valueOf(getPartNum(parameter7))
-                + p8 + ": " + String.valueOf(getPartNum(parameter8))
-                + p9 + ": " + String.valueOf(getPartNum(parameter9))
-                + p10 + ": " + String.valueOf(getPartNum(parameter10))
-                + p11 + ": " + String.valueOf(getPartNum(parameter11))
-                + p12 + ": " + String.valueOf(getPartNum(parameter12));
+        arraycopy(chro.gene, p1_length + p2_length * 6 + p8_length * 2, parameter10, 0, p10_length);
+        arraycopy(chro.gene, p1_length + p2_length * 6 + p8_length * 2 + p10_length, parameter11, 0, p11_length);
+        arraycopy(chro.gene, p1_length + p2_length * 6 + p8_length * 2 + p10_length + p11_length, parameter12, 0, p12_length);
+        return p1 + ": " + getPartNum(parameter1)
+                + p2 + ": " + getPartNum(parameter2)
+                + p3 + ": " + getPartNum(parameter3)
+                + p4 + ": " + getPartNum(parameter4)
+                + p5 + ": " + getPartNum(parameter5)
+                + p6 + ": " + getPartNum(parameter6)
+                + p7 + ": " + getPartNum(parameter7)
+                + p8 + ": " + getPartNum(parameter8)
+                + p9 + ": " + getPartNum(parameter9)
+                + p10 + ": " + getPartNum(parameter10)
+                + p11 + ": " + getPartNum(parameter11)
+                + p12 + ": " + getPartNum(parameter12);
 
     }
 
-
     @Override
     /**
-     * @Description: 设计评价函数,将changeX的参数带入模型中训练，根据训练结果计算估价函数
+     * @Description: 设计评价函数, 将changeX的参数带入模型中训练，根据训练结果计算估价函数
      */
     public double calculateY(Chromosome chro) {
 
@@ -166,23 +234,23 @@ public class GA_dart extends GeneticAlgorithm {
         boolean[] parameter10 = new boolean[p10_length];
         boolean[] parameter11 = new boolean[p11_length];
         boolean[] parameter12 = new boolean[p12_length];
-        arraycopy(chro.gene,0,parameter1,0,p1_length);
-        arraycopy(chro.gene,p1_length,parameter2,0,p2_length);
-        arraycopy(chro.gene,p1_length+p2_length,parameter3,0,p2_length);
-        arraycopy(chro.gene,p1_length+p2_length*2,parameter4,0,p2_length);
-        arraycopy(chro.gene,p1_length+p2_length*3,parameter5,0,p2_length);
-        arraycopy(chro.gene,p1_length+p2_length*4,parameter6,0,p2_length);
-        arraycopy(chro.gene,p1_length+p2_length*5,parameter7,0,p2_length);
-        arraycopy(chro.gene,p1_length+p2_length*6,parameter8,0,p8_length);
-        arraycopy(chro.gene,p1_length+p2_length*6+p8_length,parameter9,0,p8_length);
-        arraycopy(chro.gene,p1_length+p2_length*6+p8_length*2,parameter10,0,p10_length);
-        arraycopy(chro.gene,p1_length+p2_length*6+p8_length*2+p10_length,parameter11,0,p11_length);
-        arraycopy(chro.gene,p1_length+p2_length*6+p8_length*2+p10_length+p11_length,parameter12,0,p12_length);
+        arraycopy(chro.gene, 0, parameter1, 0, p1_length);
+        arraycopy(chro.gene, p1_length, parameter2, 0, p2_length);
+        arraycopy(chro.gene, p1_length + p2_length, parameter3, 0, p2_length);
+        arraycopy(chro.gene, p1_length + p2_length * 2, parameter4, 0, p2_length);
+        arraycopy(chro.gene, p1_length + p2_length * 3, parameter5, 0, p2_length);
+        arraycopy(chro.gene, p1_length + p2_length * 4, parameter6, 0, p2_length);
+        arraycopy(chro.gene, p1_length + p2_length * 5, parameter7, 0, p2_length);
+        arraycopy(chro.gene, p1_length + p2_length * 6, parameter8, 0, p8_length);
+        arraycopy(chro.gene, p1_length + p2_length * 6 + p8_length, parameter9, 0, p8_length);
+        arraycopy(chro.gene, p1_length + p2_length * 6 + p8_length * 2, parameter10, 0, p10_length);
+        arraycopy(chro.gene, p1_length + p2_length * 6 + p8_length * 2 + p10_length, parameter11, 0, p11_length);
+        arraycopy(chro.gene, p1_length + p2_length * 6 + p8_length * 2 + p10_length + p11_length, parameter12, 0, p12_length);
 
 //        NormalizeDistributeRunInGA obj = new NormalizeDistributeRunInGA();
         // trans what
-        int length=getPartNum(parameter1);
-        int useNum=20000;
+        int length = getPartNum(parameter1);
+        int useNum = 20000;
         int AttrDistributeLow = getPartNum(parameter2);
         int AttrDistributeHigh = getPartNum(parameter3);
         int ValueDistributeLow = getPartNum(parameter4);
@@ -192,24 +260,20 @@ public class GA_dart extends GeneticAlgorithm {
         int dropSourceEdge = getPartNum(parameter8);
         int dropSampleEdge = getPartNum(parameter9);
         int isCBOW = getPartNum(parameter10);
-        int dim = getPartNum(parameter11)+63;
-        int windowSize = getPartNum(parameter12)+1;
+        int dim = getPartNum(parameter11) + 63;
+        int windowSize = getPartNum(parameter12) + 1;
 
         // 数据集列表
-        List<String> fileList = new ArrayList<>();
+        // List<String> fileList = new ArrayList<>();
         // dataset type
-        String dataset = "weather";
-
-
-        List<String> DAfileList = new ArrayList<>();
-        initExistDA();
-        if(existDA==1){
-            DAfileList = initialFileListDA(dataset);
-            // fixme : step 1 随便选一个文件，导入da的id
+        // List<String> DAfileList = new ArrayList<>();
+        if (existDA == 1) {
+            // DAfileList = initialFileListDA();
             String daSet = dataPath + "sourceDA/source1.csv";
             daTupleList = initDATupleList(daSet);
         }
-
+        initParameter();
+        initMultipleList();
         // CTD返回的source weight
         List<Double> weightList = new ArrayList<>();
         String graphPath = "data/stock100/weightCalcByVex/graph/55SourceStockGraphMin.txt";
@@ -218,17 +282,15 @@ public class GA_dart extends GeneticAlgorithm {
         String calcTruthPath;
         String t_DApre = null;
         String t_DAafter = null;
-        int thisflag =0;
-        // fixme : source中元组个数
-        initD1andD2();
         // SOURCENUM
-        if(version == 1&&existDA==1){
+        if (version == 1 && existDA == 1) {
             // add DA
             isDA = 1;
-            thisflag = 1;
             calcTruthPath = "E:\\GitHub\\KRAUSTD\\dart\\DA" + 1 + "_truth.csv";
             DART dart = new DART();
-            DARTModel = dart.distanceForDartUsingMonitorDA(length,20000,AttrDistributeLow,
+            dart.sourceNum = sourceNum;
+            dart.dataPath = dataPath;
+            DARTModel = dart.distanceForDartUsingMonitorDA(length, 20000, AttrDistributeLow,
                     AttrDistributeHigh,
                     ValueDistributeLow,
                     ValueDistributeHigh,
@@ -238,7 +300,7 @@ public class GA_dart extends GeneticAlgorithm {
                     dropSampleEdge,
                     isCBOW,
                     dim,
-                    windowSize,truthFileName);
+                    windowSize, truthFileName);
             LocalTime time_pre = LocalTime.now();
             DateTimeFormatter formatter_pre = DateTimeFormatter.ofPattern("HH:mm:ss");
             t_DApre = time_pre.format(formatter_pre);
@@ -262,12 +324,12 @@ public class GA_dart extends GeneticAlgorithm {
 
             LocalTime time_after = LocalTime.now();
             t_DAafter = time_after.format(formatter_pre);
-            saveDA(D1,D2,calcTruthPath);
+            // saveDA(D1, D2, calcTruthPath);
             // gatewayServer.shutdown();
             // fixCalc,修正第二列
             // fix("E:\\GitHub\\KRAUSTD\\dart\\DA" + truthFileName + "_truth.csv");
         }
-        if(version == 2){
+        if (version == 2) {
             int a = 0;
         }
 
@@ -277,14 +339,16 @@ public class GA_dart extends GeneticAlgorithm {
 
         isDA = 0;
         // calc tempDA
-        if(existDA ==1){
+        if (existDA == 1) {
             getTempDA();
         }
-        fileList = initialFileList(dataset);
+        initialFileList();
         calcTruthPath = "E:\\GitHub\\KRAUSTD\\dart\\" + truthFileName + "_truth.csv";
 
         DART dart = new DART();
-        DARTModel = dart.distanceForDartUsingMonitorOrigin(length,20000,AttrDistributeLow,
+        dart.sourceNum = sourceNum;
+        dart.dataPath = dataPath;
+        DARTModel = dart.distanceForDartUsingMonitorOrigin(length, 20000, AttrDistributeLow,
                 AttrDistributeHigh,
                 ValueDistributeLow,
                 ValueDistributeHigh,
@@ -294,7 +358,7 @@ public class GA_dart extends GeneticAlgorithm {
                 dropSampleEdge,
                 isCBOW,
                 dim,
-                windowSize,truthFileName);
+                windowSize, truthFileName);
         LocalTime time_pre = LocalTime.now();
         DateTimeFormatter formatter_pre = DateTimeFormatter.ofPattern("HH:mm:ss");
         t_pre = time_pre.format(formatter_pre);
@@ -321,14 +385,12 @@ public class GA_dart extends GeneticAlgorithm {
         // formatResultFromPy(calcTruthPath);
         // fix("E:\\GitHub\\KRAUSTD\\dart\\" + truthFileName + "_truth.csv");
 
-        String[][] calcTruth = readCalcTruth(D1,D2,calcTruthPath);
+        String[][] calcTruth = readCalcTruth(D1, D2, calcTruthPath);
         this.calcTruth = calcTruth;
         // calcTruth和真值求RMSE
         // golden standard读取
 
-        String[][] goldenStandard = readGoldStandard(D1,D2);
-        initBiaoZhuShu();
-
+        String[][] goldenStandard = readGoldStandard(D1, D2);
         // 遗传算法的评分
         double score = calcInitFitnessScore();
         // CTD
@@ -337,7 +399,7 @@ public class GA_dart extends GeneticAlgorithm {
         List<Double> error_list = new ArrayList<>();
         // num multi index list and string multi index list
 
-        error_list = errorForMonitor(calcTruth,goldenStandard,D1,D2);
+        error_list = errorForMonitor(calcTruth, goldenStandard, D1, D2);
         double RMSEScore = error_list.get(1);        // monitor 中就是error rate
         rmse = RMSEScore;
         // using CTD print last time's extracted data's rmse
@@ -351,7 +413,7 @@ public class GA_dart extends GeneticAlgorithm {
         String t1 = time1.format(formatter1);
         String[] data1 = t1.split(":");
         String insertT1 = data1[0] + data1[1] + data1[2];
-        // fixme log path
+        // attention : log path
         String logPath = "log/Tri/DART/weather/parameter/log" + insertT1 + ".txt";
         File logFile = new File(logPath);
 
@@ -361,10 +423,10 @@ public class GA_dart extends GeneticAlgorithm {
             PrintStream ps = new PrintStream(fos);
             System.setOut(ps);
             double error_rate = error_list.get(0);
-            if(version==1){
-                System.out.println("DA过程的断点中断时间 : " + t_DApre +" 至 " + t_DAafter);
+            if (version == 1) {
+                System.out.println("DA过程的断点中断时间 : " + t_DApre + " 至 " + t_DAafter);
             }
-            System.out.println("原始数据集（对应第二个断点）起始时间 : " + t_pre +" 至 " + t_after);
+            System.out.println("原始数据集（对应第二个断点）起始时间 : " + t_pre + " 至 " + t_after);
             System.out.println("error distance GA : " + RMSEScore);
             System.out.println("error rate GA : " + error_rate);
             System.out.println("rmse: " + error_list.get(2));
@@ -391,209 +453,142 @@ public class GA_dart extends GeneticAlgorithm {
 
         // version.txt > 2
         // read errorList
-        List<Double> judgeFuncList = new ArrayList<>();
-        // fixme : change source
-        String judgeFuncFile = "data/dart/weather/rmseFile.txt";
-        File judgeFuncListFile = new File(judgeFuncFile);
-        try {
-            // read out
-            FileInputStream fi = new FileInputStream(judgeFuncListFile);
-            ObjectInputStream objectInputStream = new ObjectInputStream(fi);
-            judgeFuncList = (List<Double>)objectInputStream.readObject();
-        } catch (IOException | ClassNotFoundException e) {
-            e.printStackTrace();
-        }
+        System.setOut(out);
         double error_rate = rmse;
         judgeFuncList.add(error_rate);
         // 数值升序排序
         Collections.sort(judgeFuncList);
 
-        if(version == 1){
+        if (version == 1) {
             return score;
         }
         //
-        // 用一个文件传递参数，告诉CTD应该下次运行哪个版本
-        int nextVersion = 0;
-        // fixme : change source
-        String version_list_path = "data/dart/weather/version.txt";
-        File version_list_file = new File(version_list_path);
-        try {
-            // version_list_file.createNewFile();
-            FileOutputStream fos = null;
-            if(!version_list_file.exists()){
-                version_list_file.createNewFile();//如果文件不存在，就创建该文件
-                fos = new FileOutputStream(version_list_file);//首次写入获取
-            }else{
-                //如果文件已存在，那么就在文件末尾追加写入
-                fos = new FileOutputStream(version_list_file,true);//这里构造方法多了一个参数true,表示在文件末尾追加写入
-            }
-            OutputStreamWriter osw = new OutputStreamWriter(fos, "UTF-8");//指定以UTF-8格式写入文件
+        if (version >= 2) {
+            // 开始考虑是否增加罚函数
+            int index = judgeFuncList.indexOf(error_rate);
+            if (index <= 0) {
+                // error 排名在第一,直接采用原始算法
+                // use origin ctd, al_kind_flag = 0
+                versionList.add(0);
+                return score;
+            } else if (index >= judgeFuncList.size() - 2) {
+                // 排名在最后一名
+                // 以后不用罚函数了,直接套用representing learning, al_kind_flag = 1
+                versionList.add(1);
+                return score;
+            } else {
 
-            if(version >= 2){
-                // 开始考虑是否增加罚函数
-                int index = judgeFuncList.indexOf(error_rate);
-                if(index <= 1){
-                    // error 排名在第一,直接采用原始算法
-                    // use origin ctd, al_kind_flag = 0
-                    nextVersion = 0;
-                    return score;
-                }else if(index >= judgeFuncList.size() - 2){
-                    // 排名在最后一名
-                    // 以后不用罚函数了,直接套用representing learning, al_kind_flag = 1
-                    nextVersion = 1;
-                    return score;
-                }else {
+                versionList.add(1);
+                // 罚函数的消融实验
+                // return CtdService.initFitnessScore;
 
-                    nextVersion = 1;
-                    // 罚函数的消融实验
-                    // return CtdService.initFitnessScore;
-
-                    // 表示学习嵌入ctd，并且加上罚函数, al_kind_flag = 1
-                    // read rmseList
-                    // fixme : change source
-                    String rmseStoreFile = "data/dart/weather/rmseFile.txt";
-                    File storeRmseList = new File(rmseStoreFile);
-                    try {
-                        // read out
-                        FileInputStream FI = new FileInputStream(storeRmseList);
-                        ObjectInputStream objectInputStream = new ObjectInputStream(FI);
-                        List<Double> list = new ArrayList<>();
-                        rmseList = (List<Double>)objectInputStream.readObject();
-                        objectInputStream.close();
-                        FI.close();
-                    } catch (IOException | ClassNotFoundException e) {
-                        e.printStackTrace();
+                // 表示学习嵌入ctd，并且加上罚函数, al_kind_flag = 1
+                rmseList = judgeFuncList;
+                // 罚函数计算
+                if (rmseList.size() < k + 1) {
+                    rmseList.add(RMSEScore);
+                    if (RMSEScore < minRMSE) {
+                        minRMSE = RMSEScore;
                     }
-
-                    // 罚函数计算
-                    if(rmseList.size() < k+1){
-                        rmseList.add(RMSEScore);
-                        if(RMSEScore<minRMSE){
-                            minRMSE = RMSEScore;
-                        }
-                        try {
-                            // store
-                            FileOutputStream outputStream = new FileOutputStream(storeRmseList);
-                            ObjectOutputStream objectOutputStream = new ObjectOutputStream(outputStream);
-                            objectOutputStream.writeObject(rmseList);
-                            outputStream.close();
-                            System.out.println("new rmseList is saved");
-                        } catch (IOException e) {
-                            e.printStackTrace();
-                        }
-                    }
-
-                    else {
-                        // 保留TopK最小的
-                        rmseList.add(RMSEScore);
-                        rmseList.remove(Collections.max(rmseList));
-                        // 升序,rmse小的，返回的index小，评估的分数就小，适应度下降，不合理
+                } else {
+                    // 保留TopK最小的
+                    rmseList.add(RMSEScore);
+                    rmseList.remove(Collections.max(rmseList));
+                    // 升序,rmse小的，返回的index小，评估的分数就小，适应度下降，不合理
 //            Collections.sort(rmseList);
-                        // 降序，rmse小的，index大，评估分数大，适应度高
-                        Collections.reverse(rmseList);
-                        Word2VecModel m = DARTModel;
-                        try{
-                            int rank = rmseList.indexOf(RMSEScore);
-                            int Qi = rank/(k+1);
-                            this.Qi = Qi;
-                            double B_sum = 0;
-                            for(int s1 = 1;s1<sourceNum;s1++){
-                                for(int s2 = s1 + 1;s2<=sourceNum;s2++){
-                                    // s1与s2的weight
-                                    String sourceP = "source_"+s1;
-                                    String sourceQ = "source_"+s2;
-                                    double detaSimilarity = Math.abs(distanceUseSavedModel(m,sourceP,sourceQ));
-                                    double detaWeight = 0;
-                                    try{
-                                        detaWeight = Math.abs(distanceUseSavedModel(DARTModel,sourceP,sourceQ));
-                                    }catch (IndexOutOfBoundsException e){
-                                        detaWeight = 0;
-                                    }
-                                    B_sum += Math.abs(detaSimilarity-detaWeight);
+                    // 降序，rmse小的，index大，评估分数大，适应度高
+                    Collections.reverse(rmseList);
+                    Word2VecModel m = DARTModel;
+                    try {
+                        int rank = rmseList.indexOf(RMSEScore);
+                        double Qi = (double) (rank + 1) / (k + 1);
+                        this.Qi = Qi;
+                        double B_sum = 0;
+                        for (int s1 = 1; s1 < sourceNum; s1++) {
+                            for (int s2 = s1 + 1; s2 <= sourceNum; s2++) {
+                                // s1与s2的weight
+                                String sourceP = "source_" + s1;
+                                String sourceQ = "source_" + s2;
+                                double detaSimilarity = Math.abs(distanceUseSavedModel(m, sourceP, sourceQ));
+                                double detaWeight = 0;
+                                try {
+                                    detaWeight = Math.abs(distanceUseSavedModel(DARTModel, sourceP, sourceQ));
+                                } catch (IndexOutOfBoundsException e) {
+                                    detaWeight = 0;
                                 }
+                                B_sum += Math.abs(detaSimilarity - detaWeight);
                             }
-                            this.B_sum = B_sum;
-                            if(String.valueOf((double)Qi*B_sum).equals("NaN")||B_sum==0.0){
-                                return 8.0 + calcInitFitnessScore();
-                            }
-
-                            fitScore = (double)Qi*B_sum;
-                            return fitScore + calcInitFitnessScore();
-
-                        }catch (NullPointerException e){
-                            // 被抛弃了，排序很低
-                            System.exit(-20);
+                        }
+                        this.B_sum = B_sum;
+                        if (String.valueOf(Qi * B_sum).equals("NaN") || B_sum == 0.0) {
                             return 8.0 + calcInitFitnessScore();
                         }
+
+                        fitScore = Qi * B_sum;
+                        return fitScore + calcInitFitnessScore();
+
+                    } catch (NullPointerException e) {
+                        // 被抛弃了，排序很低
+                        System.exit(-20);
+                        return 8.0 + calcInitFitnessScore();
                     }
-                    return 4*rmseList.size() + + calcInitFitnessScore();
                 }
+                return 4 * rmseList.size() + +calcInitFitnessScore();
             }
-            osw.write(nextVersion);
-            osw.close();
-            fos.close();
-        } catch (IOException e) {
-            e.printStackTrace();
         }
-
-
         return 0.0;
     }
-    public void initBiaoZhuShu(){
-        // fixme : threetruth file path
-        String  filePath = dataPath + "threetruth.csv";
-        File f = new File(filePath);
-        int line = 0;
-        try {
-            FileReader fr = new FileReader(f);
-            BufferedReader br = new BufferedReader(fr);
-            String str;
-            while((str = br.readLine())!=null){
-               line++;
-            }
-        } catch (IOException e) {
-            e.printStackTrace();
-        }
-        biaozhushu = line - 1;
-    }
 
-    public void initExistDA(){
-        // fixme : sourceDA中任意一个文件路径,没有就是空字符串
-        String filePath = dataPath + "sourceDA/source2.csv";
-        File f = new File(filePath);
-        if(f.exists()){
-            existDA = 1;
-        }else existDA = 0;
-    }
-    public void initD1andD2(){
-        // fixme : source file path
-        String filePath = dataPath + "source/source2.csv";
-        File f = new File(filePath);
-        FileReader fr = null;
-        int line = 0;
-        int attrN = 0;
+    public void initParameter() {
+        File source = new File(dataPath + "/source/source1.csv");
         try {
-            fr = new FileReader(f);
-            BufferedReader br = new BufferedReader(fr);
+            FileReader fileReader = new FileReader(source);
+            BufferedReader br = new BufferedReader(fileReader);
             String str;
             String[] data;
-            // attr line
-            str = br.readLine();
-            data = str.split(",",-1);
-            this.D2 = data.length;
-            // init D1
-            while((str = br.readLine())!=null){
-                data = str.split(",",-1);
+            attrName = br.readLine();
+            D2 = attrName.split(",", -1).length;
+            int line = 0;
+            while ((str = br.readLine()) != null) {
                 line++;
             }
-            this.D1 = line;
+            D1 = line;
+            fileReader.close();
+            br.close();
+            // DA
+            File daFile = new File(dataPath + "/sourceDA/source1.csv");
+            if (daFile.exists()) {
+                existDA = 1;
+                FileReader fr = new FileReader(daFile);
+                BufferedReader bufferedReader = new BufferedReader(fr);
+                bufferedReader.readLine();
+                int DAline = 0;
+                while ((str = bufferedReader.readLine()) != null) {
+                    DAline++;
+                }
+                biaozhushu = DAline;
+                bufferedReader.close();
+                fr.close();
+            } else {
+                existDA = 0;
+            }
+            int flag = 1;
+            int num = 1;
+            while (flag == 1) {
+                File s = new File(dataPath + "/source/source" + num + ".csv");
+                if (s.exists()) {
+                    num++;
+                } else {
+                    flag = 0;
+                }
+            }
+            sourceNum = num - 1;
         } catch (IOException e) {
             e.printStackTrace();
         }
     }
 
     private void saveDA(int D1, int D2, String path) {
-        // fixme : 把da1_order前面的路径改成文件夹路径
         File saveFile = new File(dataPath + "da1_order.csv");
         String[][] calcTruth = new String[D1][D2];
         try {
@@ -608,25 +603,25 @@ public class GA_dart extends GeneticAlgorithm {
             int row = 0;
             // 第一行已经不是attr
             // br.readLine();
-            while ((str = br.readLine())!=null){
+            while ((str = br.readLine()) != null) {
                 // data长度不足
                 // 存储数据
-                data = str.split(",",-1);
-                if(daTupleList.contains(data[0])){
+                data = str.split(",", -1);
+                if (daTupleList.contains(data[0])) {
                     continue;
                 }
-
-                System.arraycopy(data,0,calcTruth[row],0,D2);
+                System.arraycopy(data, 0, calcTruth[row], 0, D2);
                 System.out.println(str);
                 row++;
             }
             // 重置指针，指向开头，再次遍历，遇到是增强的id就落下
             br.reset();
-            while ((str = br.readLine())!=null){
-                if(daTupleList.contains(data[0])){
+            while ((str = br.readLine()) != null) {
+                data = str.split(",", -1);
+                if (daTupleList.contains(data[0])) {
                     // 存储数据
-                    data = str.split(",",-1);
-                    System.arraycopy(data,0,calcTruth[row],0,D2);
+                    data = str.split(",", -1);
+                    System.arraycopy(data, 0, calcTruth[row], 0, D2);
                     System.out.println(str);
                     row++;
                 }
@@ -636,7 +631,7 @@ public class GA_dart extends GeneticAlgorithm {
             fr.close();
         } catch (IOException e) {
             e.printStackTrace();
-        }catch (ArrayIndexOutOfBoundsException e2){
+        } catch (ArrayIndexOutOfBoundsException e2) {
             int a = 2;
         }
     }
@@ -645,19 +640,11 @@ public class GA_dart extends GeneticAlgorithm {
 
     }
 
-    private List<String> initialFileListDA(String dataset) {
+    private List<String> initialFileListDA() {
         List<String> fileListDA = new ArrayList<>();
-        if(dataset.equals("monitor")){
-            for (int i = 1; i <= sourceNum; i++) {
-                String filePath = dataPath + "source/source" + i + ".csv";
-                fileListDA.add(filePath);
-            }
-        }else if(dataset.equals("weather")){
-            for (int i = 1; i <= sourceNum; i++) {
-                // fixme : step 2
-                String filePath = dataPath + "sourceDA/source" + i + ".csv";
-                fileListDA.add(filePath);
-            }
+        for (int i = 1; i <= sourceNum; i++) {
+            String filePath = dataPath + "sourceDA/source" + i + ".csv";
+            fileListDA.add(filePath);
         }
         // fileListDA.add("data/dart/monitor/da-truth.csv");
         return fileListDA;
@@ -680,61 +667,59 @@ public class GA_dart extends GeneticAlgorithm {
     private List<String> getDistanceForDART(Word2VecModel model, String source, String domain1, String domain2) {
         Searcher search = model.forSearch();
         // 获取三角形三边
-        double a = Math.max(0,distanceUseSavedModel(DARTModel,source,domain1));
-        double b = Math.max(0,distanceUseSavedModel(DARTModel,source,domain2));
-        double c = Math.max(0,distanceUseSavedModel(DARTModel,domain1,domain2));
+        double a = Math.max(0, distanceUseSavedModel(DARTModel, source, domain1));
+        double b = Math.max(0, distanceUseSavedModel(DARTModel, source, domain2));
+        double c = Math.max(0, distanceUseSavedModel(DARTModel, domain1, domain2));
         // 余弦定理
-        double cosC = Math.abs((a*a + b*b - c*c)/(2*a*b));
+        double cosC = Math.abs((a * a + b * b - c * c) / (2 * a * b));
         // check bugs
-        if(cosC>=1){
+        if (cosC >= 1) {
             int e = 23;
-            cosC=0;
+            cosC = 0;
 
         }
         List<String> distanceList = new ArrayList<>();
-        distanceList.add(source + "&" + domain1 + "&" +domain2 +":" + a*cosC);
-        distanceList.add(source + "&" + domain2 + "&" +domain1 +":" + b*cosC);
+        distanceList.add(source + "&" + domain1 + "&" + domain2 + ":" + a * cosC);
+        distanceList.add(source + "&" + domain2 + "&" + domain1 + ":" + b * cosC);
         return distanceList;
 
     }
 
-
     /**
      * 读取version文件夹下的所有source数据即可
+     *
      * @return
      */
-    public List<String> initialFileList(String dataset){
+    public List<String> initialFileList() {
         List<String> fileList = new ArrayList<>();
-        if(dataset.equals("weather")){
-            for (int i = 1; i <= sourceNum; i++) {
-                // fixme : step 9
-                String filePath = dataPath + "source/source" + i + ".csv";
-                fileList.add(filePath);
-            }
+        for (int i = 1; i <= sourceNum; i++) {
+            String filePath = dataPath + "source/source" + i + ".csv";
+            fileList.add(filePath);
         }
         fileList.add(dataPath + "tempDA.csv");
 
         return fileList;
     }
-    public String[][] readCalcTruth(int D1, int D2,String path){
+
+    public String[][] readCalcTruth(int D1, int D2, String path) {
         String[][] calcTruth = new String[D1][D2];
         String[] data = null;
         try {
             FileReader fr = new FileReader(path);
             BufferedReader br = new BufferedReader(fr);
             String str = null;
-
+            // fixme : br limit
             br.mark(100000);
             int row = 0;
 
-            while((str = br.readLine())!=null){
-                data = str.split(",",-1);
-                System.arraycopy(data,0,calcTruth[row],0,D2);
+            while ((str = br.readLine()) != null) {
+                data = str.split(",", -1);
+                System.arraycopy(data, 0, calcTruth[row], 0, D2);
                 row++;
             }
         } catch (IOException e) {
             e.printStackTrace();
-        }catch (ArrayIndexOutOfBoundsException e2){
+        } catch (ArrayIndexOutOfBoundsException e2) {
             int a = 2;
             System.out.println("ArrayIndexOutOfBoundsException");
             System.out.println("wrong file path : " + path);
@@ -745,10 +730,10 @@ public class GA_dart extends GeneticAlgorithm {
         return calcTruth;
 
     }
-    public String[][] readGoldStandard(int D1, int D2){
+
+    public String[][] readGoldStandard(int D1, int D2) {
         // 这里路径选用金标按照source抽取的allTruth
         String[][] goldenStandard = new String[D1][D2];
-        // fixme : step 8
         String goldenStandardPath = dataPath + "threetruth.CSV";
         try {
             FileReader fr = new FileReader(goldenStandardPath);
@@ -758,12 +743,12 @@ public class GA_dart extends GeneticAlgorithm {
             int row = 0;
             // 扔掉第一行attr
             br.readLine();
-            while ((str = br.readLine())!=null ){
+            while ((str = br.readLine()) != null) {
                 // data长度不足
-                if(row<D1){
-                    data = str.split(",",-1);
+                if (row < D1) {
+                    data = str.split(",", -1);
                     System.out.println(Arrays.toString(data));
-                    System.arraycopy(data,0,goldenStandard[row],0,D2);
+                    System.arraycopy(data, 0, goldenStandard[row], 0, D2);
 
                 }
                 row++;
@@ -778,159 +763,116 @@ public class GA_dart extends GeneticAlgorithm {
     /*
         计算monitor数据集的error rate
      */
-    public List<Double> errorForMonitor(String[][] calcTruth, String[][] goldenStandard,int D1,int D2){
-        List<Double> error_list = new ArrayList<>();;
+    public List<Double> errorForMonitor(String[][] calcTruth, String[][] goldenStandard, int D1, int D2) {
+        List<Double> error_list = new ArrayList<>();
         double r = 0;
         int n = 0;
         int error_sample = 0;
         double error_rate = 0;
+        double res = 0;
         // 数字类型计算差值，string类型看是否一样,计算累计误差
         double sum = 0;
-        for(int i = 0;i<D1;i++){
-            for(int j = 2;j<D2;j++){
-                if(calcTruth[i][j] == null
-                        ||goldenStandard[i][j] == null
-                        ||calcTruth[i][j].equals("NaN")
-                        ||goldenStandard[i][j].equals("NaN")
-                        ||calcTruth[i][j].equals("")
-                        || goldenStandard[i][j].equals("")
-                        ){
-                    sum += 1;
-                    error_sample++;
-                    continue;
-                }
-                else if(numType_multi_list.contains(j)){
-                    // num,并且有多值
-                    String type = calcTruth[i][j];
-                    String truthType = goldenStandard[i][j];
-                    String[] typeArray;
-                    String[] calcArray;
-                    calcArray = type.split(";",-1);
-                    typeArray = truthType.split(";");
-                    double precise = 0;
-                    int flag = 0;
-                    for(String str : calcArray){
-                        flag = 0;
-                        for(String t_str : typeArray){
-                            // error < 5%
-                            if((Math.abs(Double.parseDouble(t_str)-Double.parseDouble(str))<Double.parseDouble(t_str)*0.05)&&flag != 1){
-                                precise += 1.0/calcArray.length;
-                                // 命中了
-                                flag = 1;
-                            }
-                        }
-                    }
-//                    for(String str : typeArray){
-//                        double currentDis = Levenshtein(type,str);
-//                        if(currentDis < minDis){
-//                            minDis = currentDis;
-//                        }
-//                    }
-                    sum += 1-precise;
-                    error_sample+=1-precise;
-//                }else if(j == 2){
-//                    String type = calcTruth[i][j];
-//                    String truthType = goldenStandard[i][j];
-//                    sum += Levenshtein(type,truthType);
-                }
-                else if(stringType_multi_list.contains(j)){
-                    // String类型,并且有多值
-                    String type = calcTruth[i][j];
-                    String truthType = goldenStandard[i][j];
-                    String[] typeArray;
-                    String[] calcArray;
-                    calcArray = type.split(";",-1);
-                    typeArray = truthType.split(";");
-                    double precise = 0;
-                    int flag = 0;
-                    // 只要包含了真值的多值即可
-                    for(String str : calcArray){
-                        flag = 0;
-                        for(String t_str : typeArray){
-                            if(t_str.equals(str)&&flag != 1){
-                                precise += 1.0/typeArray.length;
-                                // 命中了
-                                flag = 1;
-                            }
-                        }
-                    }
-//                    for(String str : typeArray){
-//                        double currentDis = Levenshtein(type,str);
-//                        if(currentDis < minDis){
-//                            minDis = currentDis;
-//                        }
-//                    }
-                    sum += 1-precise;
-                    error_sample+=1-precise;
-//                }else if(j == 2){
-//                    String type = calcTruth[i][j];
-//                    String truthType = goldenStandard[i][j];
-//                    sum += Levenshtein(type,truthType);
-                }else{
-                    // 连续性数据
-                    String str1 = calcTruth[i][j];
-                    String str2 = goldenStandard[i][j];
-                    double v1 = Double.parseDouble(str1);
-                    double v2 = Double.parseDouble(str2);
-                    double cha = Math.abs(v1-v2);
-                    if(cha>2){
-                        // same
+        // fixme : change source
+        int i1 = 0;
+        int i2 = 0;
+        try {
+            for (int i = 0; i < D1; i++) {
+                for (int j = 2; j < D2; j++) {
+                    i1 = i;
+                    i2 = j;
+                    if (calcTruth[i][j] == null
+                            || goldenStandard[i][j] == null
+                            || calcTruth[i][j].equals("NaN")
+                            || goldenStandard[i][j].equals("NaN")
+                            || calcTruth[i][j].equals("")
+                            || goldenStandard[i][j].equals("")
+                    ) {
+                        sum += 1;
+                        res++;
                         error_sample++;
+                    } else if (numType_multi_list.contains(j)) {
+                        // num,并且有多值
+                        String type = calcTruth[i][j];
+                        String truthType = goldenStandard[i][j];
+                        String[] typeArray;
+                        String[] calcArray;
+                        calcArray = type.split(";", -1);
+                        typeArray = truthType.split(";");
+                        double precise = 0;
+                        int flag = 0;
+                        for (String str : calcArray) {
+                            flag = 0;
+                            for (String t_str : typeArray) {
+                                // error < 5%
+                                if ((Math.abs(Double.parseDouble(t_str) - Double.parseDouble(str)) < Double.parseDouble(t_str) * 0.05) && flag != 1) {
+                                    precise += 1.0 / calcArray.length;
+                                    // 命中了
+                                    flag = 1;
+                                }
+                            }
+                        }
+                        sum += 1 - precise;
+                        res += (1 - precise) * (1 - precise);
+                        error_sample += 1 - precise;
+                    } else if (stringType_multi_list.contains(j)) {
+                        // String类型,并且有多值
+                        String type = calcTruth[i][j];
+                        String truthType = goldenStandard[i][j];
+                        String[] typeArray;
+                        String[] calcArray;
+                        calcArray = type.split(";", -1);
+                        typeArray = truthType.split(";");
+                        double precise = 0;
+                        int flag = 0;
+                        // 只要包含了真值的多值即可
+                        for (String str : calcArray) {
+                            flag = 0;
+                            for (String t_str : typeArray) {
+                                if (t_str.equals(str) && flag != 1) {
+                                    precise += 1.0 / typeArray.length;
+                                    // 命中了
+                                    flag = 1;
+                                }
+                            }
+                        }
+                        sum += 1 - precise;
+                        res += (1 - precise) * (1 - precise);
+                        error_sample += 1 - precise;
+                    } else {
+                        // 连续性数据
+                        String str1 = calcTruth[i][j];
+                        String str2 = goldenStandard[i][j];
+                        double v1 = Double.parseDouble(str1);
+                        double v2 = Double.parseDouble(str2);
+                        double cha = Math.abs(v1 - v2);
+                        if (cha > 0.5) {
+                            // same
+                            error_sample++;
+                        }
+                        r += cha * cha;
+                        n++;
+                        sum += cha;
+                        res += cha * cha;
                     }
-                    r += cha*cha;
-                    n++;
-                    sum += cha;
                 }
             }
+        } catch (NullPointerException e3) {
+            int h = i1 + i2;
         }
-        error_rate = 1.0*error_sample/(D1*D2);
-        double rmse = Math.sqrt((r*1.0)/n);
+
+        error_rate = 1.0 * error_sample / (D1 * D2);
+        // sum = Math.sqrt(sum*sum/(D1*D2));
         // 第一维
         error_list.add(error_rate);
+        // ed
         error_list.add(sum);
-        error_list.add(rmse);
+        // rmse
+        error_list.add(Math.sqrt(res / (D1 * D2)));
 
         return error_list;
     }
 
-    public static float Levenshtein(String a, String b) {
-        if (a == null && b == null) {
-            return 1f;
-        }
-        if (a == null || b == null) {
-            return 0F;
-        }
-        int editDistance = editDis(a, b);
-//        return 1 - ((float) editDistance / Math.max(a.length(), b.length()));
-        return editDistance;
-    }
-
-    private static int editDis(String a, String b) {
-
-        int aLen = a.length();
-        int bLen = b.length();
-
-        if (aLen == 0) return aLen;
-        if (bLen == 0) return bLen;
-
-        int[][] v = new int[aLen + 1][bLen + 1];
-        for (int i = 0; i <= aLen; ++i) {
-            for (int j = 0; j <= bLen; ++j) {
-                if (i == 0) {
-                    v[i][j] = j;
-                } else if (j == 0) {
-                    v[i][j] = i;
-                } else if (a.charAt(i - 1) == b.charAt(j - 1)) {
-                    v[i][j] = v[i - 1][j - 1];
-                } else {
-                    v[i][j] = 1 + Math.min(v[i - 1][j - 1], Math.min(v[i][j - 1], v[i - 1][j]));
-                }
-            }
-        }
-        return v[aLen][bLen];
-    }
-
-    public double distanceUseSavedModel(Word2VecModel model, String s1, String s2){
+    public double distanceUseSavedModel(Word2VecModel model, String s1, String s2) {
         Searcher search = model.forSearch();
         double d = 0;
         try {
@@ -938,17 +880,17 @@ public class GA_dart extends GeneticAlgorithm {
             List<Double> s1List = search.getRawVector(s1);
             List<Double> s2List = search.getRawVector(s2);
             double total1 = 0;
-            for(double s:s1List){
-                total1 += s*s;
+            for (double s : s1List) {
+                total1 += s * s;
             }
             double model1 = Math.sqrt(total1);
             double total2 = 0;
-            for(double s : s2List){
-                total2 += s*s;
+            for (double s : s2List) {
+                total2 += s * s;
             }
             double model2 = Math.sqrt(total2);
-            return d/(model1*model2);
-        } catch (Searcher.UnknownWordException|NullPointerException e) {
+            return d / (model1 * model2);
+        } catch (Searcher.UnknownWordException | NullPointerException e) {
 //            e.printStac
 //            kTrace();
             System.out.println("word not find");
@@ -958,28 +900,26 @@ public class GA_dart extends GeneticAlgorithm {
     }
 
     // 计算初始适应度，内部包含global embedding生成
-    public double calcInitFitnessScore(){
+    public double calcInitFitnessScore() {
         Searcher search = DARTModel.forSearch();
         String resultFilePath;
-        if(isDA == 0){
+        if (isDA == 0) {
 //            resultFilePath = "data/ctd/monitor/result/result_" + version + ".csv";
             resultFilePath = "E:\\GitHub\\KRAUSTD\\dart\\" + truthFileName + "_truth.csv";
 
-        }else{
+        } else {
 //            resultFilePath = "data/ctd/monitor/result/DAresult/result_" + "DA" + ".csv";
             resultFilePath = "E:\\GitHub\\KRAUSTD\\dart\\DA" + 1 + "_truth.csv";
         }
         String truthFilePath;
-        if(isDA == 0){
+        if (isDA == 0) {
             // ctd
             // truthFilePath = "data/stock100/100truth.csv";
             // monitor
 //            truthFilePath = "data/dart/monitor/monitor_truth.csv";
-            // fixme : truth采用带有伪标签的threetruth
             truthFilePath = dataPath + "threetruth.csv";
 
-        }
-        else{
+        } else {
             // 无法到达
             // 专门提取da数据写成truth file
             // ctd
@@ -1011,27 +951,27 @@ public class GA_dart extends GeneticAlgorithm {
             int attrKind = D2;
             // 限制只读取前n行,前n是标注的元组，如何保证result的前n行也是标注的
             int usedLine = 0;
-            while((str = brResult.readLine())!=null&&(strT = brTruth.readLine())!=null&&usedLine<biaozhushu){
-                data = str.split(",",-1);
-                dataT = strT.split(",",-1);
-                if(daTupleList.contains(dataT[0])){
+            while ((str = brResult.readLine()) != null && (strT = brTruth.readLine()) != null && usedLine < biaozhushu) {
+                data = str.split(",", -1);
+                dataT = strT.split(",", -1);
+                if (daTupleList.contains(dataT[0])) {
                     continue;
                 }
                 // 按照da file对比
 
-                for(int a = 0;a<attrKind;a++){
-                    try{
+                for (int a = 0; a < attrKind; a++) {
+                    try {
                         // 每次读取新单元格，重新初始化
                         List<List<Double>> listOfSingleWord = new ArrayList<>();
                         List<Double> s1List = search.getRawVector(data[a]);
                         // calc list
-                        if(data[a].contains(" ")){
+                        if (data[a].contains(" ")) {
                             String[] singleWordArray = data[a].split(" ");
                             // add each single word split by " "
-                            for(int s = 0;s<singleWordArray.length;s++){
+                            for (int s = 0; s < singleWordArray.length; s++) {
                                 listOfSingleWord.add(search.getRawVector(singleWordArray[s]));
                             }
-                        }else {
+                        } else {
                             listOfSingleWord.add(s1List);
                         }
                         // calc pooling embedding并且拼接
@@ -1049,14 +989,15 @@ public class GA_dart extends GeneticAlgorithm {
                         // 欧氏距离
                         double totalSingleWord = 0;
                         int globalSize = globalEmbedding.size();
-                        for(int i = 0;i<globalSize-1;i++){
-                            try{
-                                totalSingleWord += Math.pow(Math.abs(globalEmbedding.get(i) - truthEmbedding.get(i)),2);
-                            }catch(IndexOutOfBoundsException ignored){}
+                        for (int i = 0; i < globalSize - 1; i++) {
+                            try {
+                                totalSingleWord += Math.pow(Math.abs(globalEmbedding.get(i) - truthEmbedding.get(i)), 2);
+                            } catch (IndexOutOfBoundsException ignored) {
+                            }
                         }
                         totalSingleWord = Math.sqrt(totalSingleWord);
                         totalGTDistance += totalSingleWord;
-                    }catch (Searcher.UnknownWordException e){
+                    } catch (Searcher.UnknownWordException e) {
                         totalGTDistance += 1;
                     }
                 }
@@ -1068,7 +1009,7 @@ public class GA_dart extends GeneticAlgorithm {
             e.printStackTrace();
         }
         double totalDADistance = 0;
-        if(isDA==0&&existDA==1){
+        if (isDA == 0 && existDA == 1) {
             // 数据增强
             String DAFilePath = "E:\\GitHub\\KRAUSTD\\dart\\DA" + 1 + "_truth.csv";
             // find embedding
@@ -1086,49 +1027,48 @@ public class GA_dart extends GeneticAlgorithm {
                 String[] dataDA;
 
                 // daFile读走前n=56+1行,剩下全是da
-                int passLines = biaozhushu+1;
-                for(int line = 0;line<passLines;line++){
+                int passLines = biaozhushu + 1;
+                for (int line = 0; line < passLines; line++) {
                     brDA.readLine();
                 }
                 int attrKind = 5;
 
                 int usedLine = 0;
-                while(usedLine<biaozhushu&&(strDA = brDA.readLine())!=null){
+                while (usedLine < biaozhushu && (strDA = brDA.readLine()) != null) {
 
-                    dataDA = strDA.split(",",-1);
+                    dataDA = strDA.split(",", -1);
                     int flag = 0;
                     do {
-                            // 遍历result，定位到1388
-                            str = brResult.readLine();
-                            data = str.split(",", -1);
-                            flag = 0;
-                            try{
-                                if(Math.abs(Double.parseDouble(data[0]) - Double.parseDouble(dataDA[0])) > 0.5){
-                                    flag = 1;
-                                }
+                        // 遍历result，定位到1388
+                        str = brResult.readLine();
+                        data = str.split(",", -1);
+                        flag = 0;
+                        try {
+                            if (Math.abs(Double.parseDouble(data[0]) - Double.parseDouble(dataDA[0])) > 0.5) {
+                                flag = 1;
                             }
-                            catch(NumberFormatException e){
-                                if(!data[0].equals(dataDA[0])){
-                                    flag = 1;
-                                }
+                        } catch (NumberFormatException e) {
+                            if (!data[0].equals(dataDA[0])) {
+                                flag = 1;
                             }
-                    } while (flag==1);
-                    if(!daTupleList.contains(data[0])){
+                        }
+                    } while (flag == 1);
+                    if (!daTupleList.contains(data[0])) {
                         continue;
                     }
-                    for(int a = 0;a<attrKind;a++){
-                        try{
+                    for (int a = 0; a < attrKind; a++) {
+                        try {
                             // 每次读取新单元格，重新初始化
                             List<List<Double>> listOfSingleWord = new ArrayList<>();
                             List<Double> s1List = search.getRawVector(data[a]);
                             // calc list
-                            if(data[a].contains(" ")){
+                            if (data[a].contains(" ")) {
                                 String[] singleWordArray = data[a].split(" ");
                                 // add each single word split by " "
-                                for(int s = 0;s<singleWordArray.length;s++){
+                                for (int s = 0; s < singleWordArray.length; s++) {
                                     listOfSingleWord.add(search.getRawVector(singleWordArray[s]));
                                 }
-                            }else {
+                            } else {
                                 listOfSingleWord.add(s1List);
                             }
                             // calc pooling embedding并且拼接
@@ -1146,12 +1086,12 @@ public class GA_dart extends GeneticAlgorithm {
                             // 欧氏距离
                             double totalSingleWord = 0;
                             int globalSize = globalEmbedding.size();
-                            for(int i = 0;i<globalSize-1;i++){
-                                totalSingleWord += Math.pow(Math.abs(globalEmbedding.get(i) - DAEmbedding.get(i)),2);
+                            for (int i = 0; i < globalSize - 1; i++) {
+                                totalSingleWord += Math.pow(Math.abs(globalEmbedding.get(i) - DAEmbedding.get(i)), 2);
                             }
                             totalSingleWord = Math.sqrt(totalSingleWord);
                             totalDADistance += totalSingleWord;
-                        }catch (Searcher.UnknownWordException e){
+                        } catch (Searcher.UnknownWordException e) {
                             totalDADistance += 1;
                         }
                     }
@@ -1161,40 +1101,17 @@ public class GA_dart extends GeneticAlgorithm {
                 e.printStackTrace();
             }
             return totalDADistance + totalGTDistance;
-        }
-        else if(isDA==0&&existDA==0){
+        } else if (isDA == 0 && existDA == 0) {
             return totalGTDistance;
-        }else{
+        } else {
             return 0;
         }
-
-    }
-    public static String removeCharAt(String s, int pos) {
-        return s.substring(0, pos) + s.substring(pos + 1);
-    }
-    public void fix(String path){
-        String str;
-        String[] data;
-        File file = new File(path);
-        try {
-            FileReader fr = new FileReader(file);
-            BufferedReader br = new BufferedReader(fr);
-            while((str = br.readLine())!=null){
-                if(str.charAt(0)=='\"'){
-                    removeCharAt(str,0);
-                    removeCharAt(str,str.length()-1);
-                }
-            }
-        } catch (IOException e) {
-            e.printStackTrace();
-        }
-
-
 
     }
 
     /**
      * 平均池化输入的embedding
+     *
      * @param listOfSingleWord list of embedding to mean pooling
      */
     private List<Double> meanPooling(List<List<Double>> listOfSingleWord) {
@@ -1202,54 +1119,31 @@ public class GA_dart extends GeneticAlgorithm {
         int size = listOfSingleWord.size();
         int poolWindow = 2;
         int currentIndex = 0;
-        while(currentIndex+poolWindow<size){
+        while (currentIndex + poolWindow < size) {
             double pool = 0;
-            for(int l = 0;l<size;l++){
+            for (int l = 0; l < size; l++) {
                 // 对于每个embedding
                 List<Double> currentList = listOfSingleWord.get(l);
-                for(int i = 0;i<poolWindow;i++){
+                for (int i = 0; i < poolWindow; i++) {
                     // 每次取五个
                     pool += currentList.get(currentIndex + i);
                 }
             }
-            result.add(pool/(poolWindow*size));
+            result.add(pool / (poolWindow * size));
             currentIndex++;
         }
         return result;
     }
 
-    public boolean detectFile(String filePath){
+    public boolean detectFile(String filePath) {
         File file = new File(filePath);
-        if(file.exists()){
+        if (file.exists()) {
             System.out.println("result file from python detected!");
             return true;
-        }else return false;
+        } else return false;
     }
-    public static boolean deleteWithPath(String filePath){
-        File file = new File(filePath);
-        if(!file.exists()){
-            // file not exist
-            System.out.println("graphFile is not exist, safe");
-            return false;
-        }else {
-            if(file.exists() && file.isFile()){
-                // file exist
-                if(file.delete()){
-                    System.out.println("delete graph succeed");
-                    return true;
-                }
-                else {
-                    System.out.println("graph delete failed");
-                    return false;
-                }
-            }else {
-                System.out.println("input graphPath error!");
-                return false;
-            }
-        }
-    }
-    public List<String> daTupleList = new ArrayList<>();
-    public List<String> initDATupleList(String daFilePath){
+
+    public List<String> initDATupleList(String daFilePath) {
         List<String> res = new ArrayList<>();
         File f = new File(daFilePath);
         try {
@@ -1258,8 +1152,8 @@ public class GA_dart extends GeneticAlgorithm {
             br.readLine();
             String str;
             String[] data;
-            while((str = br.readLine())!=null){
-                data = str.split(",",-1);
+            while ((str = br.readLine()) != null) {
+                data = str.split(",", -1);
                 res.add(data[0]);
             }
             fr.close();
@@ -1268,78 +1162,14 @@ public class GA_dart extends GeneticAlgorithm {
         }
         return res;
     }
+
     /*
     和数据集中的数据对齐
      */
-    public void getTempDA(){
+    public void getTempDA() {
         // 写入的路径
         String tempDAFilePath = dataPath + "tempDA.csv";
-//        if(isDA==0){
-//            // 拿到需要修改的数据
-//            String DAresultPath = "E:\\GitHub\\KRAUSTD\\dart\\DA"+1+"_truth.csv";
-//            File DAresult = new File(DAresultPath);
-//            try {
-//                FileReader fr = new FileReader(DAresult);
-//                BufferedReader br = new BufferedReader(fr);
-//                String str;
-//                String[] data;
-//                int line = 0;
-//
-//                while(line<biaozhushu){
-//                    // fixme:这里的DAstr = br.readline()对后面的有没有影响？
-//                    String DAstr = br.readLine();
-//                    String[] DAdata = DAstr.split(",",-1);
-//                    line++;
-//                }
-//                // fixme : step 5 change da truth
-//                File truthFile = new File(dataPath + "source/source4.csv");
-//                FileReader truthFr = new FileReader(truthFile);
-//                BufferedReader truthBr = new BufferedReader(truthFr);
-//                // read attr
-//                str = truthBr.readLine();
-//
-//                File DAFile = new File(tempDAFilePath);
-//                deleteWithPath(tempDAFilePath);
-//                DAFile.createNewFile();
-//                PrintStream ps = new PrintStream(DAFile);
-//                System.setOut(ps);
-//                // write attr
-//                System.out.println(str);
-//
-//                // 从正常的truth读取str输入到tempDA中，如果tuple在daTupleList中，就用这个替换
-//
-//                while((str = truthBr.readLine())!=null){
-//                    data = str.split(",",-1);
-//                    if(daTupleList.contains(data[0])){
-//                        // 需要被替换,因为元组是有序的，直接读取DAresult下一行就行
-//                        //把第二列替换就可以
-//                        String DAstr = br.readLine();
-//                        //fixed: DAstr的br.readline()为什么会是空？读的究竟是source文件还是DAsource？
-//                        String[] DAdata = DAstr.split(",",-1);
-//                        data[1] = DAdata[domain_index];
-//                        String newStr = "";
-//                        for(int i = 0;i< data.length;i++){
-//                            newStr += data[i];
-//                            if(i<data.length-1){
-//                                newStr += ",";
-//                            }
-//                        }
-//                        System.out.println(newStr);
-//                    }else{
-//                        System.out.println(str);
-//                    }
-//                }
-//                ps.close();
-//                truthBr.close();
-//                truthFr.close();
-//                br.close();
-//                fr.close();
-//
-//            } catch (IOException e) {
-//                e.printStackTrace();
-//            }
-//        }
-        if(isDA==0) {
+        if (isDA == 0) {
             // 拿到需要修改的数据
 
             String DAresultPath = "E:\\GitHub\\KRAUSTD\\dart\\DA" + 1 + "_truth.csv";
@@ -1352,7 +1182,7 @@ public class GA_dart extends GeneticAlgorithm {
                 BufferedReader br = new BufferedReader(fr);
                 String str;
                 String[] data;
-                while((str = br.readLine())!=null){
+                while ((str = br.readLine()) != null) {
                     System.out.println(str);
                 }
                 br.close();
@@ -1361,14 +1191,12 @@ public class GA_dart extends GeneticAlgorithm {
             } catch (IOException e) {
                 e.printStackTrace();
             }
-
         }
     }
 
 
-
     @Test
-    public void test(){
+    public void test() {
         GA_dart gaImplTest = new GA_dart();
         gaImplTest.calculate();
         // 最好的代数

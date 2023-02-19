@@ -74,6 +74,11 @@ public class GAImplTest extends GeneticAlgorithm {
     // 存储Top k
     public List<Double> rmseList = new ArrayList<>();
     public double minRMSE = Double.MAX_VALUE;
+    private String attrName;
+    // string 多值
+    public List<Integer> stringType_multi_list;
+    // num 多值
+    public List<Integer> numType_multi_list;
 
     public GAImplTest() {
         super(37);
@@ -234,13 +239,13 @@ public class GAImplTest extends GeneticAlgorithm {
         int isCBOW = getPartNum(parameter10);
         int dim = getPartNum(parameter11) + 63;
         int windowSize = getPartNum(parameter12) + 1;
-
+        initParameter();
+        initMultipleList();
         CTD_Algorithm CtdService = new CTD_Algorithm();
         // 数据集列表
         List<String> fileList;
         // fixme : 更换整体数据集时变化 ，dataset type
-        String dataset = "weather";
-        fileList = initialFileList(dataset);
+        fileList = initialFileList();
 
         List<String> fileListDA;
         fileListDA = initialFileListDA();
@@ -504,39 +509,14 @@ public class GAImplTest extends GeneticAlgorithm {
      *
      * @return
      */
-    public List<String> initialFileList(String dataset) {
+    public List<String> initialFileList() {
         List<String> fileList = new ArrayList<>();
-        switch (dataset) {
-            case "CTD": {
-                for (int i = 0; i < sourceNum; i++) {
-                    int temp = i + 1;
-                    String filePath = "data/stock100/divideSource/source" + temp + ".csv";
-                    fileList.add(filePath);
-                }
-                String truthFilePath = "data/stock100/100truth.csv";
-                fileList.add(truthFilePath);
-                break;
-            }
-            case "monitor": {
-                for (int i = 1; i <= sourceNum; i++) {
-                    String filePath = "data/ctd/monitor/source/source" + i + ".csv";
-                    fileList.add(filePath);
-                }
-                String truthFilePath = "data/ctd/monitor/monitor_truth.csv";
-                fileList.add(truthFilePath);
-                break;
-            }
-            case "weather":
-            case "camera": {
-                for (int i = 1; i <= sourceNum; i++) {
-                    String filePath = dataPath + "/source/source" + i + ".csv";
-                    fileList.add(filePath);
-                }
-                String truthFilePath = dataPath + "/threetruth.CSV";
-                fileList.add(truthFilePath);
-                break;
-            }
+        for (int i = 1; i <= sourceNum; i++) {
+            String filePath = dataPath + "/source/source" + i + ".csv";
+            fileList.add(filePath);
         }
+        String truthFilePath = dataPath + "/threetruth.CSV";
+        fileList.add(truthFilePath);
 
         return fileList;
     }
@@ -682,6 +662,73 @@ public class GAImplTest extends GeneticAlgorithm {
         error_list.add(Math.sqrt(res / (D1 * D2)));
 
         return error_list;
+    }
+
+    public void initParameter() {
+        File source = new File(dataPath + "/source/source1.csv");
+        try {
+            FileReader fileReader = new FileReader(source);
+            BufferedReader br = new BufferedReader(fileReader);
+            String str;
+            String[] data;
+            attrName = br.readLine();
+            D2 = attrName.split(",", -1).length;
+            int line = 0;
+            while ((str = br.readLine()) != null) {
+                line++;
+            }
+            D1 = line;
+            fileReader.close();
+            br.close();
+            // DA
+            File daFile = new File(dataPath + "/sourceDA/source1.csv");
+            if (daFile.exists()) {
+                existDA = 1;
+                FileReader fr = new FileReader(daFile);
+                BufferedReader bufferedReader = new BufferedReader(fr);
+                bufferedReader.readLine();
+                int DAline = 0;
+                while ((str = bufferedReader.readLine()) != null) {
+                    DAline++;
+                }
+                biaozhushu = DAline;
+                bufferedReader.close();
+                fr.close();
+            } else {
+                existDA = 0;
+            }
+            int flag = 1;
+            int num = 1;
+            while (flag == 1) {
+                File s = new File(dataPath + "/source/source" + num + ".csv");
+                if (s.exists()) {
+                    num++;
+                } else {
+                    flag = 0;
+                }
+            }
+            sourceNum = num - 1;
+        } catch (IOException e) {
+            e.printStackTrace();
+        }
+    }
+
+    private void initMultipleList(){
+        numType_multi_list.clear();
+        stringType_multi_list.clear();
+        if(dataPath.equals("data/monitor0707")){
+            numType_multi_list.add(100);
+            stringType_multi_list.add(2);
+            stringType_multi_list.add(3);
+        }else if(dataPath.equals("data/camera0707")){
+            numType_multi_list.add(100);
+            stringType_multi_list.add(3);
+        }else {
+            numType_multi_list.add(100);
+            for(int i = 0;i<D2;i++){
+                stringType_multi_list.add(i);
+            }
+        }
     }
 
     public double distanceUseSavedModel(Word2VecModel model, String s1, String s2) {

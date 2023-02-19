@@ -30,9 +30,10 @@ public class GA_iatd extends GeneticAlgorithm {
     public int existDA = 1;
     // fixme : fixcsy change source sizeof(threetruth) -1
     public int biaozhushu = 20;
-    // fixme : fixcsy7, D1 = tupleNum, D2 = attributeNum
+    private String attrName = null;
+    // fixme : D1 = tupleNum, D2 = attributeNum
     public int D1 = 100;
-    public int D2 = 5;
+    public int D2 = 7;
     public String[][] calcTruth = null;
     public double rmse = 0;
     public double r2 = 0;
@@ -76,7 +77,10 @@ public class GA_iatd extends GeneticAlgorithm {
     public List<Double> rmseList = new ArrayList<>();
     public double minRMSE = Double.MAX_VALUE;
     public List<String> daTupleList = new ArrayList<>();
-
+    // string 多值
+    public List<Integer> stringType_multi_list;
+    // num 多值
+    public List<Integer> numType_multi_list;
     public GA_iatd() {
         super(37);
     }
@@ -242,6 +246,9 @@ public class GA_iatd extends GeneticAlgorithm {
         int dim = getPartNum(parameter11) + 63;
         int windowSize = getPartNum(parameter12) + 1;
 
+        // init param
+        initParameter();
+        initMultipleList();
         // 数据集列表
         List<String> fileList = new ArrayList<>();
         // dataset type
@@ -249,7 +256,7 @@ public class GA_iatd extends GeneticAlgorithm {
 
         if (existDA == 1) {
             List<String> DAfileList = new ArrayList<>();
-            DAfileList = initialFileListDA(dataset);
+            DAfileList = initialFileListDA();
             String daSet = dataPath + "/sourceDA/source1.csv";
             daTupleList = initDATupleList(daSet);
         }
@@ -270,6 +277,7 @@ public class GA_iatd extends GeneticAlgorithm {
             IATD iatd = new IATD();
             iatd.sourceNum = sourceNum;
             iatd.tupleNum = D1;
+            iatd.dataPath = dataPath;
             IATDModel = iatd.iatdUseDA(length, 20000, AttrDistributeLow,
                     AttrDistributeHigh,
                     ValueDistributeLow,
@@ -316,9 +324,12 @@ public class GA_iatd extends GeneticAlgorithm {
         if (existDA == 1) {
             getTempDA();
         }
-        fileList = initialFileList(dataset);
+        fileList = initialFileList();
         calcTruthPath = "E:\\GitHub\\KRAUSTD\\IATD\\" + truthFileName + "_truth.csv";
         IATD iatd = new IATD();
+        iatd.sourceNum = sourceNum;
+        iatd.tupleNum = D1;
+        iatd.dataPath = dataPath;
         IATDModel = iatd.iatdUseOrigin(length, 20000, AttrDistributeLow,
                 AttrDistributeHigh,
                 ValueDistributeLow,
@@ -367,7 +378,6 @@ public class GA_iatd extends GeneticAlgorithm {
         // monitor的error rate
         List<Double> error_list = new ArrayList<>();
         error_list = errorForMonitor(calcTruth, goldenStandard, D1, D2);
-        error_list = errorForMonitor(calcTruth, goldenStandard, D1, D2);
         double RMSEScore = error_list.get(1);        // monitor 中就是error rate
         rmse = RMSEScore;
         deleteWithPath("E:\\GitHub\\KRAUSTD\\IATD\\DA" + 1 + "_truth.csv");
@@ -380,8 +390,9 @@ public class GA_iatd extends GeneticAlgorithm {
         String insertT1 = data1[0] + data1[1] + data1[2];
         // fixme : change source fixcsy10 换数据集改即可
         String logPath = "log/Tri/IATD/monitor/parameter/log" + insertT1 + ".txt";
+        // read weight.txt
+        weightList = readWeight("E:\\GitHub\\KRAUSTD\\IATD\\weight.txt");
         File logFile = new File(logPath);
-
         try {
             logFile.createNewFile();
             FileOutputStream fos = new FileOutputStream(logFile);
@@ -393,9 +404,9 @@ public class GA_iatd extends GeneticAlgorithm {
             }
             System.out.println("原始数据集（对应第二个断点）起始时间 : " + t_pre + " 至 " + t_after);
             System.out.println("遗传算法代数 : " + version);
-            System.out.println("error distance GA : " + RMSEScore);
-            System.out.println("error rate GA : " + error_rate);
-            System.out.println("数值类型rmse: " + error_list.get(2));
+            System.out.println("error rmse : " + error_list.get(2));
+            System.out.println("error rate : " + error_list.get(0));
+            System.out.println("error distance: " + error_list.get(1));
 
             System.out.println("适应度数值: : " + score);
 //            r2 = R_square(calcTruth,goldenStandard,D1,D2);
@@ -416,7 +427,6 @@ public class GA_iatd extends GeneticAlgorithm {
         } catch (IOException e) {
             e.printStackTrace();
         }
-
         // version.txt > 2
         // read errorList
         System.setOut(out);
@@ -431,7 +441,6 @@ public class GA_iatd extends GeneticAlgorithm {
         if (version >= 2) {
             // 开始考虑是否增加罚函数
             int index = judgeFuncList.indexOf(error_rate);
-
             if (index <= 0) {
                 // error 排名在第一,直接采用原始算法
                 versionList.add(0);
@@ -479,6 +488,7 @@ public class GA_iatd extends GeneticAlgorithm {
                                 double detaSimilarity = Math.abs(distanceUseSavedModel(m, sourceP, sourceQ));
                                 double detaWeight = 0;
                                 try {
+                                    // fixme : read weight.txt
                                     detaWeight = Math.abs(weightList.get(s1) - weightList.get(s2));
                                 } catch (IndexOutOfBoundsException e) {
                                     detaWeight = 0;
@@ -487,7 +497,7 @@ public class GA_iatd extends GeneticAlgorithm {
                             }
                         }
                         this.B_sum = B_sum;
-                        if (String.valueOf((double) Qi * B_sum).equals("NaN") || B_sum == 0.0) {
+                        if (String.valueOf(Qi * B_sum).equals("NaN") || B_sum == 0.0) {
                             return 8.0 + score;
                         }
 
@@ -554,18 +564,11 @@ public class GA_iatd extends GeneticAlgorithm {
         }
     }
 
-    private List<String> initialFileListDA(String dataset) {
+    private List<String> initialFileListDA() {
         List<String> fileListDA = new ArrayList<>();
-        if (dataset.equals("monitor")) {
-            for (int i = 1; i <= sourceNum; i++) {
-                String filePath = dataPath + "/source/source" + i + ".csv";
-                fileListDA.add(filePath);
-            }
-        } else if (dataset.equals("weather")) {
-            for (int i = 1; i <= sourceNum; i++) {
-                String filePath = dataPath + "/sourceDA/source" + i + ".csv";
-                fileListDA.add(filePath);
-            }
+        for (int i = 1; i <= sourceNum; i++) {
+            String filePath = dataPath + "/sourceDA/source" + i + ".csv";
+            fileListDA.add(filePath);
         }
         return fileListDA;
     }
@@ -608,15 +611,12 @@ public class GA_iatd extends GeneticAlgorithm {
      *
      * @return
      */
-    public List<String> initialFileList(String dataset) {
+    public List<String> initialFileList() {
         List<String> fileList = new ArrayList<>();
-        if (dataset.equals("weather")) {
-            for (int i = 1; i <= sourceNum; i++) {
-                String filePath = dataPath + "/source/source" + i + ".csv";
-                fileList.add(filePath);
-            }
+        for (int i = 1; i <= sourceNum; i++) {
+            String filePath = dataPath + "/source/source" + i + ".csv";
+            fileList.add(filePath);
         }
-
         fileList.add(dataPath + "/tempDA.csv");
         return fileList;
     }
@@ -677,107 +677,108 @@ public class GA_iatd extends GeneticAlgorithm {
      */
     public List<Double> errorForMonitor(String[][] calcTruth, String[][] goldenStandard, int D1, int D2) {
         List<Double> error_list = new ArrayList<>();
-        ;
         double r = 0;
         int n = 0;
         int error_sample = 0;
         double error_rate = 0;
+        double res = 0;
         // 数字类型计算差值，string类型看是否一样,计算累计误差
         double sum = 0;
-        // fixme : fixcsy change source 更换数据集后，根据列的多值情况，num多值或者string类型多值，更改else if的判断条件!!!
-        for (int i = 0; i < D1; i++) {
-            for (int j = 2; j < D2; j++) {
-                int csy2 = 0;
-                if (calcTruth[i][j] == null
-                        || goldenStandard[i][j] == null
-                        || calcTruth[i][j].equals("NaN")
-                        || goldenStandard[i][j].equals("NaN")
-                        || calcTruth[i][j].equals("")
-                        || goldenStandard[i][j].equals("")
-                ) {
-                    sum += 1;
-                    error_sample++;
-                    continue;
-                } else if (j == 4) {
-                    // attention ： num,并且有多值
-                    // fixcsy8 不换数据集不用改！！
-                    String type = calcTruth[i][j];
-                    String truthType = goldenStandard[i][j];
-                    String[] typeArray;
-                    String[] calcArray;
-                    calcArray = type.split(";", -1);
-                    typeArray = truthType.split(";");
-                    double precise = 0;
-                    int flag = 0;
-                    for (String str : calcArray) {
-                        flag = 0;
-                        for (String t_str : typeArray) {
-                            // error < 5%
-                            if ((Math.abs(Double.parseDouble(t_str) - Double.parseDouble(str)) < Double.parseDouble(t_str) * 0.05) && flag != 1) {
-                                precise += 1.0 / calcArray.length;
-                                // 命中了
-                                flag = 1;
-                            }
-                        }
-                    }
-//                    for(String str : typeArray){
-//                        double currentDis = Levenshtein(type,str);
-//                        if(currentDis < minDis){
-//                            minDis = currentDis;
-//                        }
-//                    }
-                    sum += 1 - precise;
-                    error_sample += 1 - precise;
-//                }else if(j == 2){
-//                    String type = calcTruth[i][j];
-//                    String truthType = goldenStandard[i][j];
-//                    sum += Levenshtein(type,truthType);
-                } else if (j == 2 || j == 3) {
-                    // attention : String类型,并且有多值
-                    String type = calcTruth[i][j];
-                    String truthType = goldenStandard[i][j];
-                    String[] typeArray;
-                    String[] calcArray;
-                    calcArray = type.split(";", -1);
-                    typeArray = truthType.split(";");
-                    double precise = 0;
-                    int flag = 0;
-                    // 只要包含了真值的多值即可
-                    for (String str : calcArray) {
-                        flag = 0;
-                        for (String t_str : typeArray) {
-                            if (t_str.equals(str) && flag != 1) {
-                                precise += 1.0 / typeArray.length;
-                                // 命中了
-                                flag = 1;
-                            }
-                        }
-                    }
-                    sum += 1 - precise;
-                    error_sample += 1 - precise;
-                } else {
-                    // 连续性数据
-                    String str1 = calcTruth[i][j];
-                    String str2 = goldenStandard[i][j];
-                    double v1 = Double.parseDouble(str1);
-                    double v2 = Double.parseDouble(str2);
-                    double cha = Math.abs(v1 - v2);
-                    if (cha > 2) {
-                        // same
+        // fixme : change source
+        int i1 = 0;
+        int i2 = 0;
+        try {
+            for (int i = 0; i < D1; i++) {
+                for (int j = 2; j < D2; j++) {
+                    i1 = i;
+                    i2 = j;
+                    if (calcTruth[i][j] == null
+                            || goldenStandard[i][j] == null
+                            || calcTruth[i][j].equals("NaN")
+                            || goldenStandard[i][j].equals("NaN")
+                            || calcTruth[i][j].equals("")
+                            || goldenStandard[i][j].equals("")
+                    ) {
+                        sum += 1;
+                        res++;
                         error_sample++;
+                    } else if (numType_multi_list.contains(j)) {
+                        // num,并且有多值
+                        String type = calcTruth[i][j];
+                        String truthType = goldenStandard[i][j];
+                        String[] typeArray;
+                        String[] calcArray;
+                        calcArray = type.split(";", -1);
+                        typeArray = truthType.split(";");
+                        double precise = 0;
+                        int flag = 0;
+                        for (String str : calcArray) {
+                            flag = 0;
+                            for (String t_str : typeArray) {
+                                // error < 5%
+                                if ((Math.abs(Double.parseDouble(t_str) - Double.parseDouble(str)) < Double.parseDouble(t_str) * 0.05) && flag != 1) {
+                                    precise += 1.0 / calcArray.length;
+                                    // 命中了
+                                    flag = 1;
+                                }
+                            }
+                        }
+                        sum += 1 - precise;
+                        res += (1 - precise) * (1 - precise);
+                        error_sample += 1 - precise;
+                    } else if (stringType_multi_list.contains(j)) {
+                        // String类型,并且有多值
+                        String type = calcTruth[i][j];
+                        String truthType = goldenStandard[i][j];
+                        String[] typeArray;
+                        String[] calcArray;
+                        calcArray = type.split(";", -1);
+                        typeArray = truthType.split(";");
+                        double precise = 0;
+                        int flag = 0;
+                        // 只要包含了真值的多值即可
+                        for (String str : calcArray) {
+                            flag = 0;
+                            for (String t_str : typeArray) {
+                                if (t_str.equals(str) && flag != 1) {
+                                    precise += 1.0 / typeArray.length;
+                                    // 命中了
+                                    flag = 1;
+                                }
+                            }
+                        }
+                        sum += 1 - precise;
+                        res += (1 - precise) * (1 - precise);
+                        error_sample += 1 - precise;
+                    } else {
+                        // 连续性数据
+                        String str1 = calcTruth[i][j];
+                        String str2 = goldenStandard[i][j];
+                        double v1 = Double.parseDouble(str1);
+                        double v2 = Double.parseDouble(str2);
+                        double cha = Math.abs(v1 - v2);
+                        if (cha > 0.5) {
+                            // same
+                            error_sample++;
+                        }
+                        r += cha * cha;
+                        n++;
+                        sum += cha;
+                        res += cha * cha;
                     }
-                    r += cha * cha;
-                    n++;
-                    sum += cha;
                 }
             }
+        } catch (NullPointerException e3) {
+            int h = i1 + i2;
         }
         error_rate = 1.0 * error_sample / (D1 * D2);
-        double rmse = Math.sqrt((r * 1.0) / n);
+        // sum = Math.sqrt(sum*sum/(D1*D2));
         // 第一维
         error_list.add(error_rate);
+        // ed
         error_list.add(sum);
-        error_list.add(rmse);
+        // rmse
+        error_list.add(Math.sqrt(res / (D1 * D2)));
 
         return error_list;
     }
@@ -806,9 +807,7 @@ public class GA_iatd extends GeneticAlgorithm {
             System.out.println("word not find");
             return 0;
         }
-
     }
-
     // 计算初始适应度，内部包含global embedding生成
     public double calcInitFitnessScore() {
         Searcher search = IATDModel.forSearch();
@@ -816,7 +815,6 @@ public class GA_iatd extends GeneticAlgorithm {
         if (isDA == 0) {
 //            resultFilePath = "data/ctd/monitor/result/result_" + version + ".csv";
             resultFilePath = "E:\\GitHub\\KRAUSTD\\IATD\\" + truthFileName + "_truth.csv";
-
         } else {
 //            resultFilePath = "data/ctd/monitor/result/DAresult/result_" + "DA" + ".csv";
             resultFilePath = "E:\\GitHub\\KRAUSTD\\IATD\\DA" + 1 + "_truth.csv";
@@ -829,15 +827,9 @@ public class GA_iatd extends GeneticAlgorithm {
             truthFilePath = dataPath + "/threetruth.csv";
 
         } else {
-            // 无法到达
-            // 专门提取da数据写成truth file
-            // ctd
-            // truthFilePath = "data/stock100/DATruth/trueForDA.csv";
-
             truthFilePath = dataPath + "/threetruth.CSV";
         }
 
-        // result是python给的
         // find embedding
         File resultFile = new File(resultFilePath);
         File truthFile = new File(truthFilePath);
@@ -943,7 +935,7 @@ public class GA_iatd extends GeneticAlgorithm {
                 for (int line = 0; line < passLines; line++) {
                     brDA.readLine();
                 }
-                int attrKind = 5;
+                int attrKind = D2;
 
                 int usedLine = 0;
                 // entity id 是string类型，置为1
@@ -1064,7 +1056,6 @@ public class GA_iatd extends GeneticAlgorithm {
         }
         return result;
     }
-
     public boolean detectFile(String filePath) {
         File file = new File(filePath);
         if (file.exists()) {
@@ -1099,7 +1090,6 @@ public class GA_iatd extends GeneticAlgorithm {
     public void getTempDA() {
         String tempDAFilePath = dataPath + "/tempDA.csv";
         // fixcsy : 属性名字
-        String attrName = "entity,Domain,Conditions,Humidity,day";
         if (isDA == 0) {
             // 拿到需要修改的数据
 
@@ -1123,11 +1113,98 @@ public class GA_iatd extends GeneticAlgorithm {
             } catch (IOException e) {
                 e.printStackTrace();
             }
-
         }
-
     }
 
+    public List<Double> readWeight(String s){
+        List<Double> res = new ArrayList<>();
+        File f = new File(s);
+        try {
+            FileReader fr = new FileReader(f);
+            BufferedReader br = new BufferedReader(fr);
+            String str;
+            String[] data = new String[0];
+            while((str = br.readLine())!=null){
+                data = str.split(",",-1);
+            }
+            for(String w : data){
+                res.add(Double.parseDouble(w));
+            }
+            if(res.size()!=sourceNum){
+                System.out.println("weight is error");
+                exit(-110);
+            }
+        } catch (IOException e) {
+            e.printStackTrace();
+        }
+        return res;
+    }
+    public void initParameter(){
+        File source = new File(dataPath + "/source/source1.csv");
+        try {
+            FileReader fileReader = new FileReader(source);
+            BufferedReader br = new BufferedReader(fileReader);
+            String str;
+            String[] data;
+            attrName = br.readLine();
+            D2 = attrName.split(",",-1).length;
+            int line = 0;
+            while((str = br.readLine())!=null){
+                line++;
+            }
+            D1 = line;
+            fileReader.close();;
+            br.close();
+            // DA
+            File daFile = new File(dataPath + "/sourceDA/source1.csv");
+            if(daFile.exists()){
+                existDA = 1;
+                FileReader fr = new FileReader(daFile);
+                BufferedReader bufferedReader = new BufferedReader(fr);
+                bufferedReader.readLine();
+                int DAline = 0;
+                while((str = bufferedReader.readLine())!=null){
+                    DAline++;
+                }
+                biaozhushu = DAline;
+                bufferedReader.close();
+                fr.close();
+            }else {
+                existDA = 0;
+            }
+            int flag = 1;
+            int num = 1;
+            while(flag == 1){
+                File s = new File(dataPath + "/source/source" + num + ".csv");
+                if(s.exists()){
+                    num++;
+                }else {
+                    flag = 0;
+                }
+            }
+            sourceNum = num - 1;
+        } catch (IOException e) {
+            e.printStackTrace();
+        }
+    }
+
+    private void initMultipleList(){
+        numType_multi_list.clear();
+        stringType_multi_list.clear();
+        if(dataPath.equals("data/monitor0707")){
+            numType_multi_list.add(100);
+            stringType_multi_list.add(2);
+            stringType_multi_list.add(3);
+        }else if(dataPath.equals("data/camera0707")){
+            numType_multi_list.add(100);
+            stringType_multi_list.add(3);
+        }else {
+            numType_multi_list.add(100);
+            for(int i = 0;i<D2;i++){
+                stringType_multi_list.add(i);
+            }
+        }
+    }
 
     @Test
     public void test() {
