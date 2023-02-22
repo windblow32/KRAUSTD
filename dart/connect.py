@@ -7,51 +7,56 @@ import csv
 if __name__ == '__main__':
 
     glo._init()
-    f = open(r'E:\GitHub\KRAUSTD\CTD\data\dart\weather\version.txt', 'r')
+    f = open(r'E:/GitHub/KRAUSTD/CTD/data/dart/weather/version.txt', 'r')
     flag = int(f.read()[-1])
+    f.close()
 
     # 读取多个真值文件，对应proprocess里边的output文件
     # 然后把多个属性对应的真值文件合并成为同一个文件"_truth.csv" /53行
 
-    # 第一个待计算超参的index
-    glo.set_value('author_index', 3)
-    file = dart_pro.run(r'E:\GitHub\KRAUSTD\CTD\log\Tri\DART\weather\DART_connection.txt', flag, 0.5)
-    proprocess.process("E:\GitHub\KRAUSTD\dart\\"+ file + "_truth_pro.csv")
-
-    if os.path.isfile("E:\GitHub\KRAUSTD\dart\\"+ file + "_truthv1.csv"):
-        os.remove("E:\GitHub\KRAUSTD\dart\\"+ file + "_truthv1.csv")
-    os.rename("E:\GitHub\KRAUSTD\dart\output.csv", "E:\GitHub\KRAUSTD\dart\\"+ file + "_truthv1.csv")
-
-    # 第二个待计算超参的index
-    glo.set_value('author_index', 4)
-    file = dart_pro.run(r'E:\GitHub\KRAUSTD\CTD\log\Tri\DART\weather\DART_connection.txt', flag, 0.8)
-    proprocess.process("E:\GitHub\KRAUSTD\dart\\"+ file + "_truth_pro.csv")
-    if os.path.isfile("E:\GitHub\KRAUSTD\dart\\"+ file + "_truthv2.csv"):
-        os.remove("E:\GitHub\KRAUSTD\dart\\"+ file + "_truthv2.csv")
-    os.rename("E:\GitHub\KRAUSTD\dart\output.csv", "E:\GitHub\KRAUSTD\dart\\"+ file + "_truthv2.csv")
-
-    data0 = []
-    with open("E:\\GitHub\\KRAUSTD\\dart\\"+ file + "_truthv1.csv", 'r') as f0:
-        reader = csv.reader(f0)
+    file_to_read = "E:\GitHub\KRAUSTD\CTD\log\Tri\DART\DART_connection.txt"
+    with open(str(file_to_read), 'r', encoding='utf-8') as data:
+        reader = csv.reader(data)
         for row in reader:
-            data0.append(row)
-    data1 = []
-    with open("E:\\GitHub\\KRAUSTD\\dart\\"+ file + "_truthv2.csv", 'r') as f1:
-        reader = csv.reader(f1)
+            if '/' in row:
+                source_tang = row
+    data.close()
+    source_tang = 'data/monitor0707'
+
+    attribute_index = []
+    with open("E:/GitHub/KRAUSTD/dart/" + source_tang + "_ori.csv", 'r', encoding='utf-8') as data:
+        reader = csv.reader(data)
+        # k用来判断第几行，从0开始
+        k = 0
         for row in reader:
-            data1.append(row)
-    f0.close()
-    f1.close()
+            if k == 0:
+                for j in range(len(row)):
+                    if row[j] != 'source' and row[j] != 'entity' and row[j] != 'day' and j not in attribute_index:
+                        attribute_index.append(j)
+            k += 1
 
+    for attribute_i in attribute_index:
+        glo.set_value('author_index', attribute_i)
+        file = dart_pro.run(r'E:\GitHub\KRAUSTD\CTD\log\Tri\DART\weather\DART_connection.txt', flag, 0.5, source_tang)
+        proprocess.process("E:\GitHub\KRAUSTD\dart\\" + file + "_truth_pro.csv", source_tang)
 
-    result = [[] for _ in range(len(data0))]
-    for i in range(len(data0)):
-        result[i].append(data0[i][0])
-        result[i].append(data0[i][1])
-        result[i].append(data0[i][2])
-        result[i].append(data1[i][2])
-        result[i].append(data1[i][3])
-        result[i].append(data1[i][3])
+        if os.path.isfile("E:\GitHub\KRAUSTD\dart\\" + file + "_truthv" + str(attribute_i) + ".csv"):
+            os.remove("E:\GitHub\KRAUSTD\dart\\" + file + "_truthv" + str(attribute_i) + ".csv")
+        os.rename("E:\GitHub\KRAUSTD\dart\output.csv", "E:\GitHub\KRAUSTD\dart\\" + file + "_truthv" + str(attribute_i) + ".csv")
+
+    result = []
+    for attribute_i in attribute_index:
+        with open("E:\\GitHub\\KRAUSTD\\dart\\" + file + "_truthv" + str(attribute_i) + ".csv", 'r') as f0:
+            k = 0
+            reader = csv.reader(f0)
+            for row in reader:
+                if len(result) <= k:
+                    result.append([row[0]])
+                result[k].append(row[1])
+                k += 1
+
+    for i in range(len(result)):
+        result[i].append(1)
 
     f = open("E:\\GitHub\\KRAUSTD\\dart\\" + file + "_truth.csv", 'w', newline="")
     csv_writer = csv.writer(f)

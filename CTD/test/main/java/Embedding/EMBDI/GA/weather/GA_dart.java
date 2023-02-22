@@ -30,9 +30,9 @@ public class GA_dart extends GeneticAlgorithm {
     public String dataPath = "data/monitor0707";
     // fixme : multi type index
     // string 多值
-    public List<Integer> stringType_multi_list;
+    public List<Integer> stringType_multi_list = new ArrayList<>();
     // num 多值
-    public List<Integer> numType_multi_list;
+    public List<Integer> numType_multi_list = new ArrayList<>();
     // public int domain_index = 1;
     public int biaozhushu;
     public int D1;
@@ -269,7 +269,7 @@ public class GA_dart extends GeneticAlgorithm {
         // List<String> DAfileList = new ArrayList<>();
         if (existDA == 1) {
             // DAfileList = initialFileListDA();
-            String daSet = dataPath + "sourceDA/source1.csv";
+            String daSet = dataPath + "/sourceDA/source1.csv";
             daTupleList = initDATupleList(daSet);
         }
         initParameter();
@@ -316,18 +316,11 @@ public class GA_dart extends GeneticAlgorithm {
                 }
                 in.close();
                 proc.waitFor();
-            } catch (IOException e) {
-                e.printStackTrace();
-            } catch (InterruptedException e) {
+            } catch (IOException | InterruptedException e) {
                 e.printStackTrace();
             }
-
             LocalTime time_after = LocalTime.now();
             t_DAafter = time_after.format(formatter_pre);
-            // saveDA(D1, D2, calcTruthPath);
-            // gatewayServer.shutdown();
-            // fixCalc,修正第二列
-            // fix("E:\\GitHub\\KRAUSTD\\dart\\DA" + truthFileName + "_truth.csv");
         }
         if (version == 2) {
             int a = 0;
@@ -414,7 +407,13 @@ public class GA_dart extends GeneticAlgorithm {
         String[] data1 = t1.split(":");
         String insertT1 = data1[0] + data1[1] + data1[2];
         // attention : log path
-        String logPath = "log/Tri/DART/weather/parameter/log" + insertT1 + ".txt";
+        String logPath;
+        if(dataPath.equals("data/monitor0707")){
+            logPath = "log/Tri/DART/monitor/parameter/log" + insertT1 + ".txt";
+
+        }else {
+            logPath = "log/Tri/DART/camera/parameter/log" + insertT1 + ".txt";
+        }
         File logFile = new File(logPath);
 
         try {
@@ -589,7 +588,7 @@ public class GA_dart extends GeneticAlgorithm {
     }
 
     private void saveDA(int D1, int D2, String path) {
-        File saveFile = new File(dataPath + "da1_order.csv");
+        File saveFile = new File(dataPath + "/da1_order.csv");
         String[][] calcTruth = new String[D1][D2];
         try {
             saveFile.createNewFile();
@@ -643,7 +642,7 @@ public class GA_dart extends GeneticAlgorithm {
     private List<String> initialFileListDA() {
         List<String> fileListDA = new ArrayList<>();
         for (int i = 1; i <= sourceNum; i++) {
-            String filePath = dataPath + "sourceDA/source" + i + ".csv";
+            String filePath = dataPath + "/sourceDA/source" + i + ".csv";
             fileListDA.add(filePath);
         }
         // fileListDA.add("data/dart/monitor/da-truth.csv");
@@ -693,10 +692,10 @@ public class GA_dart extends GeneticAlgorithm {
     public List<String> initialFileList() {
         List<String> fileList = new ArrayList<>();
         for (int i = 1; i <= sourceNum; i++) {
-            String filePath = dataPath + "source/source" + i + ".csv";
+            String filePath = dataPath + "/source/source" + i + ".csv";
             fileList.add(filePath);
         }
-        fileList.add(dataPath + "tempDA.csv");
+        fileList.add(dataPath + "/tempDA.csv");
 
         return fileList;
     }
@@ -734,7 +733,7 @@ public class GA_dart extends GeneticAlgorithm {
     public String[][] readGoldStandard(int D1, int D2) {
         // 这里路径选用金标按照source抽取的allTruth
         String[][] goldenStandard = new String[D1][D2];
-        String goldenStandardPath = dataPath + "threetruth.CSV";
+        String goldenStandardPath = dataPath + "/threetruth.CSV";
         try {
             FileReader fr = new FileReader(goldenStandardPath);
             BufferedReader br = new BufferedReader(fr);
@@ -917,7 +916,7 @@ public class GA_dart extends GeneticAlgorithm {
             // truthFilePath = "data/stock100/100truth.csv";
             // monitor
 //            truthFilePath = "data/dart/monitor/monitor_truth.csv";
-            truthFilePath = dataPath + "threetruth.csv";
+            truthFilePath = dataPath + "/threetruth.csv";
 
         } else {
             // 无法到达
@@ -1168,7 +1167,7 @@ public class GA_dart extends GeneticAlgorithm {
      */
     public void getTempDA() {
         // 写入的路径
-        String tempDAFilePath = dataPath + "tempDA.csv";
+        String tempDAFilePath = dataPath + "/tempDA.csv";
         if (isDA == 0) {
             // 拿到需要修改的数据
 

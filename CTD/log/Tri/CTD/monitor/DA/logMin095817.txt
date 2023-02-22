@@ -1,7 +1,0 @@
-GA printer : rmse = 61.351709142315
-GA printer : r2 square = 0.0
-GA printer : last time fitScore = 0.0
-GA printer : last time extracted data's rmse = 233.0
-error is 42.21721386909485
-error is 470.0
-error is 470.0

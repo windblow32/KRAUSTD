@@ -78,9 +78,9 @@ public class GA_iatd extends GeneticAlgorithm {
     public double minRMSE = Double.MAX_VALUE;
     public List<String> daTupleList = new ArrayList<>();
     // string 多值
-    public List<Integer> stringType_multi_list;
+    public List<Integer> stringType_multi_list = new ArrayList<>();
     // num 多值
-    public List<Integer> numType_multi_list;
+    public List<Integer> numType_multi_list = new ArrayList<>();
     public GA_iatd() {
         super(37);
     }
@@ -92,9 +92,8 @@ public class GA_iatd extends GeneticAlgorithm {
         if (a == null || b == null) {
             return 0F;
         }
-        int editDistance = editDis(a, b);
-//        return 1 - ((float) editDistance / Math.max(a.length(), b.length()));
-        return editDistance;
+        //        return 1 - ((float) editDistance / Math.max(a.length(), b.length()));
+        return editDis(a, b);
     }
 
     private static int editDis(String a, String b) {

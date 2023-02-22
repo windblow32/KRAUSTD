@@ -1,150 +1,100 @@
-5,1,Rain Fog/Mist,1,1
-10,1,Thunderstorm,1,1
-13,1,Rain,1,1
-25,1,Mist,1,1
-31,1,mostly cloudy,1,1
-35,1,mostly cloudy,1,1
-38,1,Short term forecastCloudy,1,1
-39,1,Short term forecastFog,1,1
-43,1,Drizzle,1,1
-50,1,Light Fog,1,1
-60,1,Overcast,1,1
-91,1,clear sky,1,1
-104,1,Cloudy,1,1
-112,1,Partly Cloudy,1,1
-130,1,mostly cloudy,1,1
-132,1,mostly cloudy,1,1
-145,1,Overcast with Haze,1,1
-149,1,Light Rain Mist,1,1
-154,1,Drizzle,1,1
-156,1,Light Rain Mist,1,1
-167,1,Light Rain Mist,1,1
-174,1,Fog/Mist,1,1
-205,1,Light Fog,1,1
-209,1,Light Fog,1,1
-251,1,Fog/Mist,1,1
-254,1,Fog/Mist,1,1
-257,1,Overcast with Haze,1,1
-259,1,Short term forecastHaze,1,1
-273,1,Light Rain Mist,1,1
-275,1,Light Rain Mist,1,1
-280,1,Light Rain Mist,1,1
-302,1,Overcast,1,1
-314,1,Light Rain Fog/Mist,1,1
-315,1,Light Rain Fog/Mist,1,1
-324,1,Some Clouds,1,1
-342,1,Clear,1,1
-376,1,Fair,1,1
-382,1,A Few Clouds,1,1
-398,1,Overcast,1,1
-407,1,normal,1,1
-408,1,normal,1,1
-428,1,Light Snow,1,1
-441,1,normal,1,1
-462,1,normal,1,1
-467,1,normal,1,1
-483,1,normal,1,1
-496,1,Mostly Cloudy,1,1
-498,1,Partly Cloudy,1,1
-517,1,normal,1,1
-528,1,Scattered Clouds,1,1
-535,1,normal,1,1
-552,1,Mostly Cloudy,1,1
-565,1,Overcast,1,1
-600,1,normal,1,1
-611,1,Light Snow,1,1
-625,1,Fog/Mist,1,1
-646,1,Clear,1,1
-649,1,Fair/Windy,1,1
-655,1,Few Clouds,1,1
-660,1,Clear,1,1
-669,1,Cloudy,1,1
-671,1,Cloudy,1,1
-673,1,Some Clouds,1,1
-676,1,Clear,1,1
-684,1,Few Clouds,1,1
-692,1,Scattered Clouds,1,1
-731,1,Clear,1,1
-734,1,Clear,1,1
-746,1,Partly Cloudy,1,1
-756,1,Cloudy,1,1
-768,1,Cloudy,1,1
-774,1,Mostly Clear,1,1
-776,1,Mostly Clear,1,1
-789,1,Cloudy,1,1
-791,1,Cloudy,1,1
-798,1,Clear,1,1
-801,1,Clear,1,1
-831,1,Mostly Clear,1,1
-837,1,Few Clouds,1,1
-843,1,Partly Cloudy,1,1
-848,1,Partly Cloudy,1,1
-852,1,Partly Cloudy,1,1
-859,1,Intermittent Clouds,1,1
-908,1,Cloudy,1,1
-961,1,Winter storm warningClear,1,1
-965,1,Cloudy,1,1
-997,1,Special weather statementFog,1,1
-1000,1,Clouds And Sun,1,1
-1001,1,clear sky,1,1
-1011,1,clear sky,1,1
-3534,1,mostly cloudy,1,1
-7241,1,Some Clouds,1,1
-9224,1,Some Clouds,1,1
-9584,1,Fog/Mist,1,1
-1388,1,clear sky,1,1
-1393,1,Clouds And Sun,1,1
-1403,1,mostly cloudy,1,1
-1406,1,Some Clouds,1,1
-1411,1,mostly cloudy,1,1
-1416,1,clear sky,1,1
-1472,1,Mostly Sunny,1,1
-2010,1,Light Snow,1,1
-2014,1,Flood warningCloudy,1,1
-2024,1,Flood warningCloudy,1,1
-2026,1,Flood warningCloudy,1,1
-2047,1,Flood warningCloudy,1,1
-2969,1,clear sky,1,1
-2974,1,Mostly Clear,1,1
-2995,1,mostly cloudy,1,1
-3002,1,clear sky,1,1
-3017,1,mostly cloudy,1,1
-3024,1,mostly cloudy,1,1
-3026,1,Mostly Cloudy,1,1
-3951,1,Mostly Cloudy,1,1
-3954,1,clear sky,1,1
-3980,1,clear sky,1,1
-3983,1,clear sky,1,1
-4584,1,A Few Clouds,1,1
-4993,1,clear sky,1,1
-5526,1,clear sky,1,1
-5527,1,Scattered Clouds,1,1
-5534,1,Light Snow,1,1
-5548,1,light snow,1,1
-5573,1,mostly cloudy,1,1
-5581,1,Mostly Sunny,1,1
-7048,1,clear sky,1,1
-7052,1,Few,1,1
-7055,1,Bkh,1,1
-7126,1,Few,1,1
-7131,1,clear sky,1,1
-7146,1,Mostly Sunny,1,1
-7150,1,Clouds And Sun,1,1
-7151,1,Clouds And Sun,1,1
-7152,1,Clear,1,1
-7553,1,mostly cloudy,1,1
-8100,1,Mist,1,1
-8104,1,Clouds And Sun,1,1
-8110,1,High Surf AdvisoryPartly Cloudy,1,1
-8111,1,High Surf AdvisoryPartly Cloudy,1,1
-8123,1,clear sky,1,1
-8135,1,clear sky,1,1
-8140,1,clear sky,1,1
-8143,1,clear sky,1,1
-8649,1,mostly cloudy,1,1
-9052,1,mostly cloudy,1,1
-9066,1,Lt Rain,1,1
-9069,1,Rain,1,1
-9076,1,Lt Rain,1,1
-9079,1,Rain,1,1
-9084,1,Rain,1,1
+22_2,Philips Electronics,LCD Monitor,5:04,5.083093739,44.53785537,1
+25_2,Philips Electronics,LCD Monitor,16:10,4.678791561,55.9,1
+27_2,Philips Electronics,LCD Monitor,16:09,4.941355792,50.26067372,1
+28_2,Philips Electronics,LED,16:10,4.956908763,63.26740814,1
+32_2,Philips Electronics,LED,16:10,5.440694411,65.6823886,1
+33_2,Philips Electronics,TN+Film,16:10,5.36681041,56.21933905,1
+39_2,Philips Electronics,Brilliance LCD Monitor,16:08,3.568469119,63.66514511,1
+40_2,Philips Electronics,TFT/LCD,16:09,5.057868627,74.99737969,1
+41_2,Philips Electronics,TFT LCD 16.7 Million Colour,16:08,4.753762385,61.94106206,1
+62_2,Philips Electronics,IPS,16:09,15.24549792,60.88332386,1
+88_2,iiyama North America,TN+Film,16:09,1.863241398,58.31340379,1
+103_2,Hannspree,LED Backlight 16.7 Million Colour,16:09,5.441076343,53.4889547,1
+128_2,Asus,LCD Monitor,16:11,6.508493947,26.02481999,1
+132_2,Asus,IPS,16:09,5.165395001,81.05588904,1
+133_2,Asus,IGZO,16:09,7.481648931,81.26593594,1
+168_2,Asus,LCD,16:09,2.071719452,69.82179407,1
+171_2,Asus,LCD Monitor,16:09,2.019846024,66.21457049,1
+186_2,Asus,LED 16.7 million Colour,16:10,4.681169719,54.39630621,1
+190_2,Asus,Widescreen IPS 16.7 Million Colour,16:08,4.96169952,64.41553641,1
+193_2,iiyama North America,LED Backlight LCD IPS Panel 16.7 million Colour,16:10,5.44966093,61.80027728,1
+22_1,Philips Electronics,LCD,5:04,2,48.3,1
+25_1,Philips Electronics,LCD,16:10,5,0,1
+27_1,Philips Electronics,LED,16:09,5,0,1
+28_1,Philips Electronics,LCD Monitor,16:09,2,0,1
+32_1,Philips Electronics,LCD Monitor,16:09,5,0,1
+33_1,Philips Electronics,LCD Monitor,16:09,1,61,1
+39_1,Philips Electronics,LCD Monitor,16:09,5,0,1
+40_1,Philips Electronics,LCD/TFT,16:09,5,0,1
+41_1,Philips Electronics,LCD/TFT,16:09,2,0,1
+62_1,Philips Electronics,LCD Monitor,16:10,2,61,1
+88_1,iiyama North America,LCD Monitor,16:09,2,61,1
+103_1,Hannspree,LCD Monitor,16:09,2,49.5,1
+128_1,Asus,LCD Monitor,16:10,6,0,1
+132_1,Asus,LCD Monitor,21:09,2,73.7,1
+133_1,Asus,IGZO,16:09,2,0,1
+168_1,Asus,LCD Monitor,16:09,2,68.6,1
+171_1,Asus,LCD Monitor,16:09,4,68.6,1
+186_1,Asus,TN+Film,16:10,2,0,1
+190_1,Asus,LCD Monitor,16:09,5,0,1
+193_1,iiyama North America,IPS,16:09,2,58.4,1
+22_3,Philips Electronics,TFT LCD 16.7 Million Colour,5:04,5,48.3,1
+25_3,Philips Electronics,LCD,16:11,5,55.9,1
+27_3,Philips Electronics,TFT Brilliance LCD 16.7 Million,16:09,2,54.6,1
+28_3,Philips Electronics,LED,16:10,2,0,1
+32_3,Philips Electronics,LCD Monitor,16:09,2,0,1
+33_3,Philips Electronics,LCD Monitor,16:08,2,0,1
+39_3,Philips Electronics,Brilliance LCD Monitor,16:09,2,0,1
+40_3,Philips Electronics,TFT LCD Million Colour,16:10,5,0,1
+41_3,Philips Electronics,TFT/LCD,16:08,5,0,1
+62_3,Philips Electronics,IPS TFT LCD 16.7 Million Colour,16:10,14,0,1
+88_3,iiyama North America,TN+Film,16:08,4,0,1
+103_3,Hannspree,LED Backlight 16.7 Million Colour,16:10,5,49.5,1
+128_3,Asus,IPS,16:11,6,0,1
+132_3,Asus,IPS,21:09,5,0,1
+133_3,Asus,Widescreen 1.07 Colour,16:09,2,80,1
+168_3,Asus,Widescreen 16.7 Million Colour,16:09,2,0,1
+171_3,Asus,LCD Monitor,16:10,4,68.6,1
+186_3,Asus,TN+Films,16:10,2,0,1
+190_3,Asus,IPS,16:09,2,68.6,1
+193_3,iiyama North America,IP,16:09,2,0,1
+22_4,Philips Electronics,TFT/LCD 16.7 Million Colour,5:04,2,0,1
+25_4,Philips Electronics,LCD,16:11,5,55.9,1
+27_4,Philips Electronics,LEDs,16:09,5,0,1
+28_4,Philips Electronics,TFT LCD 16.7 Million Colour,16:09,5,54.6,1
+32_4,Philips Electronics,LCD Monitor,16:09,5,61,1
+33_4,Philips Electronics,LCD Monitor,16:09,2,0,1
+39_4,Philips Electronics,Brilliance LCD Monitor,16:09,2,68.6,1
+40_4,Philips Electronics,TFT LCD Million Colour,16:09,5,0,1
+41_4,Philips Electronics,TFT/LCD,16:09,2,0,1
+62_4,Philips Electronics,IPS,16:09,2,0,1
+88_4,iiyama North America,TN+Film,16:09,4,61,1
+103_4,Hannspree,LED,16:09,5,49.5,1
+128_4,Asus,IP,16:10,6,0,1
+132_4,Asus,LCD Monitor,16:09,2,73.7,1
+133_4,Asus,Widescreen 1.07 Colour,16:09,2,0,1
+168_4,Asus,LCD,16:09,2,68.6,1
+171_4,Asus,16.7 Billion Colours,16:10,4,68.6,1
+186_4,Asus,LED 16.7 million Colour,16:10,2,55.9,1
+190_4,Asus,Widescreen IPS 16.7 Million Colour,16:09,2,0,1
+193_4,iiyama North America,IP,16:10,5,0,1
+22_5,Philips Electronics,LC,5:04,5,48.3,1
+25_5,Philips Electronics,LCD Monitor,16:10,2,55.9,1
+27_5,Philips Electronics,LCD Monitor,16:09,2,0,1
+28_5,Philips Electronics,LED,16:10,2,54.6,1
+32_5,Philips Electronics,LED,16:09,5,0,1
+33_5,Philips Electronics,TN+,16:08,1,61,1
+39_5,Philips Electronics,LEDS,16:08,2,0,1
+40_5,Philips Electronics,TFT LCD Million Colour,16:10,5,0,1
+41_5,Philips Electronics,TFT LCD 16.7 Million Colour,16:09,2,68.6,1
+62_5,Philips Electronics,IPS TFT LCD 16.7 Million Colour,16:10,14,0,1
+88_5,iiyama North America,TN+Film,16:09,4,0,1
+103_5,Hannspree,LED Backlight 16.7 Million Colour,16:10,5,49.5,1
+128_5,Asus,IPS,16:11,6,0,1
+132_5,Asus,IPS,16:09,2,0,1
+133_5,Asus,Widescreen 1.07 Colour,16:09,8,80,1
+168_5,Asus,LCD,16:09,4,0,1
+171_5,Asus,16.7 million Colours,16:10,4,0,1
+186_5,Asus,LED 136.7 million Colour,16:09,5,55.9,1
+190_5,Asus,IPS,16:08,5,0,1
+193_5,iiyama North America,IP,16:10,5,0,1

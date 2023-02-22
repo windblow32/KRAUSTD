@@ -1,0 +1,101 @@
+entity,brand,screen_type,supported_aspect_ratio,response_time(ms),screen_size_diagonal,day
+22_2,Philips Electronics,"""Brilliance LCD Monitor",5:04,5.252174642,46.79495392,1
+25_2,Philips Electronics,"""Brilliance LCD monitor",16:09,4.871696934,54.3211644,1
+27_2,Philips Electronics,Brilliance Monitor LED Backlight with PowerSensor,16:09,4.946323687,56.31519869,1
+28_2,,,,,,
+32_2,Philips Electronics,"""Brilliance LCD Monitor",16:10,4.945744991,55.09251412,1
+33_2,Philips Electronics,Brilliance LCD Monitor with Game 242G5DJEB 144Hz 24\,16:10,1.032566619,64.59470548,1
+39_2,Philips Electronics,273E3LHSB Widescreen LCD Monitor,16:09,4.765482176,70.63484284,1
+40_2,,,,,,
+41_2,Philips Electronics,Brilliance LCD Monitor with SmartControl Lite,16:09,4.943369621,68.81979478,1
+62_2,Philips Electronics,Brilliance Brilliance LCD Monitor With Clinical D-image,16:09,13.27237134,56.26817443,1
+88_2,iiyama North America,ProLite E2483HS - A HD LED Monitor with 2 ms Response Time,16:10,2.093742294,56.72511738,1
+103_2,Hannspree,HL205DPB Widescreen LCD,16:09,4.808079486,48.46050914,1
+128_2,Asus,PA249Q Widescreen LCD Monitor,16:10,6.508493947,65.9059877,1
+132_2,Asus,PB298Q Widescreen Brilliance LCD Monitor,21:09,5.173041311,71.4102863,1
+133_2,Asus,PQ321QE Widescreen LCD Monitor,16:09,7.796809735,87.08919434,1
+168_2,Asus,VG278HE Widescreen LCD Monitor,16:10,1.928628055,72.21348452,1
+171_2,Asus,VK278Q Widescreen Monitor,16:09,2.019846024,62.00247127,1
+186_2,Asus,VW22ATL Widescreen LCD Monitor,16:10,4.688201757,51.42207553,1
+190_2,Asus,VX279Q Widescreen LCD Monitor,16:09,5.464426261,75.29406814,1
+193_2,,,,,,3
+22_1,Philips Electronics,Brilliance LCD Monitor, LED Backlight with SmartImage,,,3
+25_1,Philips Electronics,Brilliance LCD monitor, LED Backlight With PowerSensor,,,3
+27_1,Philips Electronics,Brilliance LCD Monitor LED Backlight with PowerSensor,16:09,,,3
+28_1,,,,,,3
+32_1,Philips Electronics,Brilliance LCD Monitor, LED Backlight with PowerSensor,,,3
+33_1,Philips Electronics,Brilliance LCD Monitor with SmartImage Game 242G5DJEB 144Hz 24\,16:09,,,3
+39_1,Philips Electronics,273E3LHSB Widescreen LCD Monitor,16:09,,,3
+40_1,,,,,,3
+41_1,Philips Electronics,LCD Monitor with SmartControl Lite,16:09,,,3
+62_1,Philips Electronics,Brilliance LCD Monitor With Clinical D-image,16:10,,,3
+88_1,iiyama North America,ProLite E2483HS - A Full HD LED Monitor with 2 ms Response Time,16:09,,,3
+103_1,Hannspree,HL205DPB Widescreen LCD Monitor,16:09,,,3
+128_1,Asus,PA249Q Widescreen LCD Monitor,16:10,,,3
+132_1,Asus,PB298Q Widescreen LCD Monitor,21:09,,,3
+133_1,Asus,PQ321QE Widescreen LCD Monitor,16:09,,,3
+168_1,Asus,VG278HE Widescreen LCD Monitor,16:09,,,3
+171_1,Asus,VK278Q Widescreen LCD Monitor,16:09,,,3
+186_1,Asus,VW22ATL Widescreen LCD Monitor,16:10,,,3
+190_1,Asus,VX279Q Widescreen LCD Monitor,16:09,,,3
+193_1,,,,,,3
+22_3,Philips Electronics,"""Brilliance LCD Monitor",5:04,,,3
+25_3,Philips Electronics,"""Brilliance LCD monitor",16:09,,,3
+27_3,Philips Electronics,Brilliance Monitor LED Backlight with PowerSensor,16:09,,,3
+28_3,,,,,,3
+32_3,Philips Electronics,"""Brilliance LCD Monitor",16:10,,,3
+33_3,Philips Electronics,Brilliance LCD Monitor with Game 242G5DJEB 144Hz 24\,16:10,,,3
+39_3,Philips Electronics,273E3LHSB Widescreen LCD Monitor,16:09,,,3
+40_3,,,,,,3
+41_3,Philips Electronics,Brilliance LCD Monitor with SmartControl Lite,16:09,,,3
+62_3,Philips Electronics,Brilliance Brilliance LCD Monitor With Clinical D-image,16:09,,,3
+88_3,iiyama North America,ProLite E2483HS - A HD LED Monitor with 2 ms Response Time,16:10,,,3
+103_3,Hannspree,HL205DPB Widescreen LCD,16:09,,,3
+128_3,Asus,PA249Q Widescreen LCD Monitor,16:10,,,3
+132_3,Asus,PB298Q Widescreen Brilliance LCD Monitor,21:09,,,3
+133_3,Asus,PQ321QE Widescreen LCD Monitor,16:09,,,3
+168_3,Asus,VG279HE Widescreen LCD Monitor,16:10,,,3
+171_3,Asus,VK278Q Widescreen Monitor,16:09,,,3
+186_3,Asus,VW22ATL Widescreen LCD Monitor,16:10,,,3
+190_3,Asus,VX279Q Widescreen LCD Monitor,16:09,,,3
+193_3,,,,,,3
+22_4,Philips Electronics,"""Brilliance LCD Monitor",5:04,,,3
+25_4,Philips Electronics,"""Brilliance LCD monitor",16:09,,,3
+27_4,Philips Electronics,Brilliance Monitor LED Backlight with PowerSensor,16:09,,,3
+28_4,,,,,,3
+32_4,Philips Electronics,"""Brilliance LCD Monitor",16:10,,,3
+33_4,Philips Electronics,Brilliance LCD Monitor with Game 242G5DJEB 144Hz 24\,16:10,,,3
+39_4,Philips Electronics,273E3LHSB Widescreen LCD Monitor,16:09,,,3
+40_4,,,,,,3
+41_4,Philips Electronics,Brilliance LCD Monitor with SmartControl Lite,16:09,,,3
+62_4,Philips Electronics,Brilliance Brilliance LCD Monitor With Clinical D-image,16:09,,,3
+88_4,iiyama North America,ProLite E2483HS HD LED Monitor with 2 ms Response Time,16:10,,,3
+103_4,Hannspree,HL205DPB Widescreen LCD,16:09,,,3
+128_4,Asus,PA24Q Widescreen LCD Monitor,16:10,,,3
+132_4,Asus,PB298Q Widescreen Brilliance LCD Monitor,21:09,,,3
+133_4,Asus,PQ321Q Widescreen LCD Monitor,16:09,,,3
+168_4,Asus,VG278HE Widescreen LED Monitor,16:10,,,3
+171_4,Asus,VK278Q Widescreen Monitor,16:09,,,3
+186_4,Asus,Vv22ATL Widescreen LCD Monitor,16:10,,,3
+190_4,Asus,VX279Q Widescreen LCD Monitor,16:09,,,3
+193_4,,,,,,3
+22_5,Philips Electronics,"""Brilliance LCD Monitor",5:04,,,3
+25_5,Philips Electronics,"""Brilliance LED monitor",16:09,,,3
+27_5,Philips Electronics,Brilliance Monitor LED Backlight with PowerSensor,16:09,,,3
+28_5,,,,,,3
+32_5,Philips Electronics,"""Brilliance LCD Monitor",16:10,,,3
+33_5,Philips Electronics,Brilliance LCD Monitor with Game 242G5DJEB 144Hz,16:10,,,3
+39_5,Philips Electronics,73E3LHSB Widescreen LCD Monitor,16:09,,,3
+40_5,,,,,,3
+41_5,Philips Electronics,Brilliance LCD Monitor with SmartControl Lite,16:09,,,3
+62_5,Philips Electronics,Brilliance Brilliance LCD Monitor With D-image,16:09,,,3
+88_5,iiyama North America,ProLite E2483HS - A HD LED Monitor with 3 ms Response Time,16:10,,,3
+103_5,Hannspree,HL205B Widescreen LCD,16:09,,,3
+128_5,Asus,PA249Q Widescreen LCD Monitor,16:10,,,3
+132_5,Asus,PB298Q Widescreen Brilliance LCD Monitor,21:09,,,3
+133_5,Asus,PR321QE Widescreen LCD Monitor,16:09,,,3
+168_5,Asus,VG278HE Widescreen LCD Monitor,16:10,,,3
+171_5,Asus,VK278Q Widescreen Monitor,16:09,,,3
+186_5,Asus,VW23ATL Widescreen LCD Monitor,16:10,,,3
+190_5,Asus,VX279Q Widescreen LCD Monitor,16:09,,,3
+193_5,,,,,,3

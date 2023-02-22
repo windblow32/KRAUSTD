@@ -12,35 +12,49 @@ import glo
 # domain_num:domain的数目，看ori文件结尾的table里有几个domain（如9.0中，1813-1830行为domain，domain_num = 18）
 # object_number:实体的数目，看对应的truth文件有多少实体
 
-all_num = 1810  # 所有数据的数目（包括首行）###
-source_num = 15 ###
-domain_num = 18 ###
-object_number = 150####
-max_claim = 3
+max_claim = 12
 truth_index = 1
-name_index, domain_index, source_index, author_index = 1, 2, 0, 3
+author_index = 3
+source_index, name_index, domain_index = 0, 1, 2
+
+
 book_domain = []
 domain = []
 book_object = []
 f0 = open("E:\GitHub\KRAUSTD\dart\hyperpara.txt", 'r', newline="")
 glo._init()
-print(author_index)
 f0.close
 
 # 设置参数
 a, c, p = 1, 0.5, 0.5
 
 
-def read_data():
+def read_data(source_tang):
     data = []
-    with open("E:\\GitHub\\KRAUSTD\\dart\\weather\\15_30_9.0_ori.csv", 'r') as f:
+    with open("E:/GitHub/KRAUSTD/dart/" + source_tang + "_ori.csv", 'r') as f:
         reader = csv.reader(f)
+        k = 0
         for row in reader:
             data.append(row)
-    return data
+            if row[0] == '0' and row[1] == '0' and row[2] == '0':
+                all_num = k
+            k += 1
+            source_num = len(row)-1
+    domain_num = k - all_num - 2
+    print(all_num, source_num, domain_num)
+    object = []
+    object_number = 0
+    for i in range(1, len(data)):
+        if data[i][name_index] == '0':
+            break
+        if data[i][name_index] not in object:
+            object.append(data[i][name_index])
+            object_number += 1
+    print(object_number)
+    return data, all_num, source_num, domain_num, object_number
 
 
-def data_process(book):
+def data_process(book, all_num, source_num, domain_num, object_number):
     source_all = []
     # 把源按照顺序转换成数字
     for i in range(1, all_num):
@@ -86,7 +100,7 @@ def data_process(book):
 # domain对应的数字是数组domain中的顺序
 # source对应的数字是数据集中source的顺序
 # return O_number
-def calculate_number(o, book):
+def calculate_number(o, book, all_num, source_num, domain_num, object_number):
     for i in range(1, all_num):
         for j in range(1, domain_num + 1):
             for k in range(1, source_num + 1):
@@ -96,7 +110,7 @@ def calculate_number(o, book):
     return o
 
 
-def calculate_infs(infs, book, file, flag):
+def calculate_infs(infs, book, file, flag, all_num, source_num, domain_num, object_number):
     if flag == 0:
         Pr = [[0 for i in range(source_num + 1)] for j in range(domain_num + 1)]
         # Pr[domain][source]
@@ -167,7 +181,7 @@ def calculate_infs(infs, book, file, flag):
     return infs, name
 
 
-def one_step(book, book_domain, file, flag, theta):
+def one_step(book, book_domain, file, flag, theta, all_num, source_num, domain_num, object_number):
     author_index = glo.get_value('author_index')
     # 算Pd(s)[domain][s]
     Pd = [[0 for i in range(source_num+1)]for j in range(domain_num+1)]
@@ -191,7 +205,7 @@ def one_step(book, book_domain, file, flag, theta):
 
     # infs[source,k,i] source = 5 domain = 5
     infs = [[[0 for i in range(domain_num+1)]for j in range(domain_num+1)] for k in range(source_num+1)]
-    infs, name = calculate_infs(infs, book, file, flag)
+    infs, name = calculate_infs(infs, book, file, flag, all_num, source_num, domain_num, object_number)
     #print("---infs:", infs)
 
     # 算ed(s)[d][s]
@@ -420,7 +434,7 @@ def one_step(book, book_domain, file, flag, theta):
         for j in range(len(value)):
             if value[j][i][0] != 0:
                 output_name = value[j][i][0]
-        output.append([output_name]+[already]+[1])
+        output.append([output_name]+[already])
         already = []
     name = name[:-1]
     print(output)
@@ -467,12 +481,13 @@ def score(a, b):
     '''
 
 
-def run(file, flag, theta):
+def run(file, flag, theta, source_tang):
+
     start = time.time()
-    book = read_data()
-    data_process(book)
+    book, all_num, source_num, domain_num, object_number = read_data(source_tang)
+    data_process(book, all_num, source_num, domain_num, object_number)
     print("data:", book)
-    a, name = one_step(book, book_domain, file, flag, theta)
+    a, name = one_step(book, book_domain, file, flag, theta, all_num, source_num, domain_num, object_number)
     end = time.time()
     print("time(Dart_pro):", end - start, "(s)")
     # score(a, 1)

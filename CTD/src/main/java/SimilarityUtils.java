@@ -25,9 +25,9 @@ public class SimilarityUtils {
         double v1 = Double.parseDouble(str1);
         double v2 = Double.parseDouble(str2);
         double num = Math.max(Math.abs(v1), Math.abs(v2));
-        if(num == 0){
+        if(num == 0.0){
             // NaN
-            return 0;
+            return 0.0;
         }
         return Math.abs(v1-v2)/num;
     }

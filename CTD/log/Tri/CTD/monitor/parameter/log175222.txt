@@ -1,0 +1,24 @@
+DA过程的CTD时间 : 17:51:34 至 17:51:43
+原始数据集（对应第二个断点）CTD时间 : 17:51:43 至 17:52:22
+遗传算法代数1
+随机游走前时间17:52:15
+随机游走后时间(开始训练)17:52:20
+训练结束时间17:52:21
+distance1计算结束时间(与训练结束时间做差查看利用模型计算的时间)17:52:22
+distance2计算结束时间(与distance1做差查看利用模型计算的时间)17:52:22
+error rmse : 21.271491696969917
+error rate : 0.15142857142857144
+error distance: 5062.235235605859
+适应度: 86.12537210338041
+游走长度为 : 49
+Attr 正态均值 : 6
+Attr 正态标准差 : 7
+Value 正态均值 : 4
+Value 正态标准差 : 7
+Tuple 正态均值 : 2
+Tuple 正态标准差 : 2
+drop Source ? (0 false, 1 true) : 1
+drop Sample ? (0 false, 1 true) : 1
+using model : 1
+embedding dim : 114
+windowSize : 3

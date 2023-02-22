@@ -27,7 +27,7 @@ public class CTD_Algorithm {
     public int existDA;
     private final double min_error = 1;
     // fixme : 属性数
-    public int D2 = 7;
+    public int D2;
     // fixme : change source , biaozhushu
     public int biaozhushu;
     private final List<Double> weights = new ArrayList<>();
@@ -68,10 +68,14 @@ public class CTD_Algorithm {
     private final List<Integer> numList = new ArrayList<>();
     public PrintStream out = System.out;
     private void initNumList(){
-        numList.add(4);
-        numList.add(5);
-        numList.add(6);
-
+        if(dataPath.equals("data/monitor0707")){
+            numList.add(4);
+            numList.add(5);
+            numList.add(6);
+        }else if(dataPath.equals("data/camera0707")){
+            numList.add(4);
+            numList.add(2);
+        }
     }
     public static boolean deleteWithPath(String filePath) {
         File file = new File(filePath);
@@ -177,7 +181,7 @@ public class CTD_Algorithm {
         }
 
         for (int wi = 0; wi < k; wi++) {
-            weights.add(1.0 / k);
+            weights.add(1.0);
         }
         // 获取L,p,attributes，用于初始化value，result，pre_result数组
         String first_file = files.get(0);

@@ -2,29 +2,52 @@ import csv
 import numpy as np
 import random
 import proprocess
+import judge_attribute
 import time
-
-all_num = 10014
-# hyper parameters setting
-a_e, b_e, u_b, o_b, g_c, l, p, c = 10, 10, 0, 10, -10, 0.9, 0.3, 0.01
-o = [0.1 for i in range(all_num)]
-bv = [0 for i in range(all_num)]
+import os
 
 
-o = [0.1 for i in range(all_num)]
-bv = [0 for i in range(all_num)]
-#bv = [int(np.random.normal(loc=0, scale=10, size=1)) for i in range(5499)]
-attribute_index = 3
-source_index = 0
-object_index = 1
-source_num = 15
-object_num = 1000
-truth_index = 1
-source = []
-object = []
-object2 = []
-attribute = []
-related_oj = [[0 for i in range(source_num)] for j in range(115240)]
+a_e, b_e, u_b, o_b, g_c, l, p, c = 10, 10, 0, 10, 10, 0.9, 0.3, 0.01
+
+
+# 计算实体所在列索引数据源个数、实体个数
+# 计算需要用的source, attribute_index
+# 读取source文件夹的所有文件
+def find_index(source_tang):
+    # 数据源文件夹
+    source_path = 'E:/GitHub/KRAUSTD/CTD/' + source_tang + '/source'
+    # 遍历source中的所有文件
+    source_dirs = os.listdir(source_path)
+
+    # object_index:在每个source文件的第一行找'entity'
+    # source_num:查找source文件夹中带'source'的文件的个数
+    # object_num:用数组查找(to_find_object_num)
+    source_num, object_num = 0, 0
+    source, attribute_index = ['source'], []
+    to_find_object_num = []
+    for source_dir in source_dirs:
+        if 'source' in source_dir:
+            source_num += 1
+            with open(source_path + '/' + source_dir, 'r', encoding='utf-8') as data:
+                reader = csv.reader(data)
+                # k用来判断第几行，从0开始
+                k = 0
+                for row in reader:
+                    if k == 0:
+                        for j in range(len(row)):
+                            if row[j] == 'entity':
+                                object_index = j
+                            if row[j] != 'entity' and row[j] != 'day' and j not in attribute_index:
+                                attribute_index.append(j)
+                    else:
+                        if row[object_index] not in to_find_object_num:
+                            to_find_object_num.append(row[object_index])
+                            object_num += 1
+                    k += 1
+    for i in range(object_num):
+        for j in range(source_num):
+            source.append(j+1)
+    return object_index, source_num, object_num, source, attribute_index
 
 
 # 计算逻辑回归函数
@@ -49,7 +72,7 @@ def derta(a, b):
 #    第四步：计算后验概率（某个对象的某个声明的个数占所有声明数的比值）
 #    第五步：计算先验概率
 # 输出最大条件概率对应的声明
-def sample_tv(tv):
+def sample_tv(tv, source_num, object_num, all_num, o, bv, source, object, attribute):
     p_con = [0 for _ in range(all_num)]
     gama = [{} for _ in range(object_num)]
     j = 0
@@ -69,8 +92,8 @@ def sample_tv(tv):
                     gama[k][attribute[i]] = 1
                 else:
                     gama[k][attribute[i]] += 1
-    print("gama", gama)
 
+    # 计算公式7
     k = -1
     j = 0
     for i in range(1, len(object)):
@@ -82,7 +105,6 @@ def sample_tv(tv):
                 p_con[i] = 1
             else:
                 p_con[i] = h(-o[i] + bv[i] + g_c) ** derta((attribute[i]), tv[k]) * ((1 - h(-o[i] + bv[i] + g_c))/(len(gama[k]) - 1)) ** (1-derta((attribute[i]), tv[k]))
-    #print("p_con:", p_con)
     k = -1
     j = 0
     p_mul = [{} for _ in range(object_num)]
@@ -102,8 +124,6 @@ def sample_tv(tv):
             key_sum += gama[i][key]
         for key in gama[i]:
             p_post[i][key] = gama[i][key]/key_sum
-    print("p_mul:", p_mul)
-    print("p_post:", p_post)
     k = -1
     j = 0
     p_rec = [{} for _ in range(object_num)]
@@ -118,11 +138,9 @@ def sample_tv(tv):
     return tv
 
 
-def calculate_distance(A, tv, file, flag):
+def calculate_distance(A, tv, file, flag, source_num, object_num, all_num, o, bv, source, object, attribute):
     if flag == 0:
         row_num = 0
-        print(str(file))
-        exit(2)
         with open(str(file), 'r', encoding='utf-8') as data:
             reader = csv.reader(data)
             for row in reader:
@@ -144,16 +162,10 @@ def calculate_distance(A, tv, file, flag):
     else:
         inter = {}
         k = -1
-        for i in range(1, len(o)):
+        for i in range(0, len(o)):
             if object[i] != object[i - 1]:
                 k += 1
                 inter[object[i]] = k
-        f = open(r"E:\GitHub\KRAUSTD\IATD\tv.csv", 'w', newline="")
-        csv_writer = csv.writer(f)
-        for row in range(len(tv)):
-            csv_writer.writerow([tv[row]])
-        f.close()
-        #passs()
         A_temp = []
         row_num = 0
         with open(str(file), 'r', encoding='utf-8') as data:
@@ -164,7 +176,6 @@ def calculate_distance(A, tv, file, flag):
                 else:
                     A_temp.append(row)
                 row_num += 1
-        A_temp1 = []
         for i in range(len(A_temp)):
             k = 1
             for j in range(len(A_temp[i])):
@@ -172,7 +183,8 @@ def calculate_distance(A, tv, file, flag):
                     if ':' in A_temp[i][j] or ';' in A_temp[i][j]:
                         if j == 0:
                             temp = []
-                            temp.append(int(A_temp[i][j][-1]))
+                            if A_temp[i][j][-1] != ';':
+                                temp.append(int(A_temp[i][j][-1]))
                         else:
                             A[i][inter[object[k]]] = temp
                             k += 1
@@ -185,9 +197,9 @@ def calculate_distance(A, tv, file, flag):
     return A, name
 
 
-def calculate_Esv(os, oj, tv, file, flag):
+def calculate_Esv(os, oj, tv, file, flag, source_num, object_num, all_num, o, bv, source, object, attribute):
     A = [[[] for i in range(object_num)] for j in range(source_num)]
-    A, name = calculate_distance(A, tv, file, flag)
+    A, name = calculate_distance(A, tv, file, flag, source_num, object_num, all_num, o, bv, source, object, attribute)
     inter = {}
     k = -1
     for i in range(1, len(o)):
@@ -205,7 +217,7 @@ def calculate_Esv(os, oj, tv, file, flag):
     return name
 
 
-def renew_osj(os, oj, tv, file, flag_a):
+def renew_osj(os, oj, tv, file, flag_a, source_num, object_num, all_num, o, bv, source, object, attribute):
     inter = {}
     k = -1
     for i in range(1, len(o)):
@@ -221,7 +233,7 @@ def renew_osj(os, oj, tv, file, flag_a):
         provide_object[inter[object[i]]] = provide_object[inter[object[i]]] + 1
 
     A = [[[] for i in range(object_num)] for j in range(source_num)]
-    A, name = calculate_distance(A, tv, file, flag_a)
+    A, name = calculate_distance(A, tv, file, flag_a, source_num, object_num, all_num, o, bv, source, object, attribute)
 
     # calculate the osj
     osj = [[0.1 for i in range(source_num+2)] for j in range(len(object))]
@@ -265,15 +277,11 @@ def renew_osj(os, oj, tv, file, flag_a):
             e3[i] = h(-o[i] + bv[i] + g_c) - derta((attribute[i]), tv[k]) + (bv[i] - u_b) / provide_object[inter[object[i]]] / o_b
     # print("ebv=", e3)
     # calculate t and osj(k+1)
-    aaa = 0
     for i in range(1, len(object)):
         flag = 0
         t = 0
-        # represent osj(k+1)
         os_temp = [0 for i in range(source_num+2)]
         while flag == 0:
-            # calculate the osj(k+1)
-            # print("i:", i, "e:", e1[i], e2[i])
             os_temp[1] = osj[i][1] - (p ** t) * e1[i]
             for j in range(2, source_num + 2):
                 os_temp[j] = osj[i][j] - (p ** t) * e2[i]
@@ -285,10 +293,7 @@ def renew_osj(os, oj, tv, file, flag_a):
             temp = e1[i] * (os_temp[1] - osj[i][1])
             for j in range(2, source_num+2):
                 temp = temp + e2[i] * (os_temp[j] - osj[i][j])
-            # print("c*temp", c*temp)
-            # print("差：   ", L(i, os_temp, A, source_provide[int(source[i])], provide_object[int(object[i])])-L(i, osj[i], A, source_provide[int(source[i])], provide_object[int(object[i])]))
-            if L(i, inter[object[i]], os_temp, A, source_provide[int(source[i])], provide_object[inter[object[i]]])-L(i, inter[object[i]], osj[i], A, source_provide[int(source[i])], provide_object[inter[object[i]]]) <= c * temp:
-                # print("ll")
+            if L(tv, i, inter[object[i]], os_temp, A, source_provide[int(source[i])], provide_object[inter[object[i]]], source_num, object_num, all_num, o, bv, source, object, attribute)-L(tv, i, inter[object[i]], osj[i], A, source_provide[int(source[i])], provide_object[inter[object[i]]], source_num, object_num, all_num, o, bv, source, object, attribute) <= c * temp:
                 for j in range(1, source_num+2):
                     osj[i][j] = os_temp[j]
                     oj[i][j-2] = osj[i][j]
@@ -297,14 +302,10 @@ def renew_osj(os, oj, tv, file, flag_a):
                 bv[i] = bv[i] - (p ** t) * e3[i]
             else:
                 t = t + 1
-            if aaa == 10000:
-                # print(str(i/len(object)*100)+' %')
-                aaa = 0
-            aaa += 1
 
 
 # index:the index of object, x:osj, num:source_provide, provide_object
-def L(ind, index, x, A, num1, num2):
+def L(tv, ind, index, x, A, num1, num2, source_num, object_num, all_num, o, bv, source, object, attribute):
     result = 0
     o_temp = x[1] * (1 - l)
     if len(A[int(source[ind])-1][index]) != 0:
@@ -323,33 +324,7 @@ def L(ind, index, x, A, num1, num2):
     return result
 
 
-# calculate correlation
-def sim(i, j):
-    source_i = source[i]
-    source_j = source[j]
-    flag = 0
-    w1 = 0
-    w2 = 0
-    w12 = 0
-    for k in range(1, len(object)):
-        if object[i] != object[i-1]:
-            flag = 0
-        if source[k] == source_i:
-            if int(attribute[k]) != tv[int(object[k])]:
-                w1 = w1 + 1
-                flag = flag + 1
-        if source[k] == source_j:
-            if int(attribute[k]) != tv[int(object[k])]:
-                w2 = w2 + 1
-                flag = flag + 1
-        if flag == 2:
-            w12 = w12 + 1
-            flag = 0
-    result = w12 / (w1 + w2 + w12)
-    return result
-
-
-def top_k():
+def top_k(object_num, all_num, o, bv, source, object, attribute):
     start = []
     gama = [{} for _ in range(object_num)]
     j = 0
@@ -369,131 +344,277 @@ def top_k():
                     gama[k][attribute[i]] = 1
                 else:
                     gama[k][attribute[i]] += 1
-        print(k)
-    print("gama:", gama)
+    # 把每个实体的桶按照声明的数量顺序排序
     for i in range(len(gama)):
         gama[i] = sorted(gama[i].items(), key=lambda x:x[1], reverse=True)
-    print("gama:", gama)
     for i in range(len(gama)):
         j = 0
         temp = []
-        for key in gama[i]:
-            if j < 1:
-                temp.append(key)
+        for key_value in gama[i]:
+            if j < 2:
+                temp.append(key_value[0])
             j += 1
-        print(i, gama[i], len(object))
         start.append(random.choice(temp))
     return start
 
 
-if __name__ == '__main__':
-    start = time.time()
-    file_to_read = "E:\GitHub\KRAUSTD\CTD\log\Tri\IATD\sourceList 0.2_0.196_.txt"
+def run():
+    # 判断数据集
+    file_to_read = "E:\GitHub\KRAUSTD\CTD\log\Tri\IATD\sourceList 0.1_0.1_.txt"
+    with open(str(file_to_read), 'r', encoding='utf-8') as data:
+        reader = csv.reader(data)
+        for row in reader:
+            if '/' in row:
+                source_tang = row
+    data.close()
+
     f = open(r"E:\GitHub\KRAUSTD\IATD\1.txt", 'r')
     flag_a = int(f.read()[-1])
-    # read data
-    with open("E:\GitHub\KRAUSTD\IATD\weather_original_sam.csv", 'r', encoding='utf-8') as data:
-        reader = csv.reader(data)
-        index = 0
-        for row in reader:
-            index = index + 1
-            source.append(row[source_index])
-            object.append(row[object_index])
-            attribute.append(row[attribute_index])
-            if index == all_num:
-                break
-    object2 = list(set(object[1:]))
-    for i in range(len(object2)):
-        object2[i] = int(object2[i])
-    for i in range(len(object2)):
-        for j in range(i, len(object2)):
-            if object2[i] > object2[j]:
-                temp = object2[i]
-                object2[i] = object2[j]
-                object2[j] = temp
-
-    print("source:", source)
-    print("attribute:", attribute)
-    print("object:", object2)
-
-    flag = 1
-    m = 0
-    t0 = [1000 for i in range(object_num)]
-    tv = top_k()
-    print("tv_start:", tv)
-    while flag == 1:
-        # calculate tv
-        tv = sample_tv(tv)
-
-        # calculate Esv
-        oj = [[0.1 for i in range(source_num)] for j in range(len(object))]
-
-        # 这里可以更换成embedding的值
-        os = [0.1 for i in range(len(object))]
-        name = calculate_Esv(os, oj, tv, file_to_read, flag_a)
-        print("?")
-
-        # calculate os, oj, bv
-        renew_osj(os, oj, tv, file_to_read, flag_a)
-        print("good")
-
-        # print values
-        m = m + 1
-        print("m=", m)
-        print("tv=", tv)
-        flag = 0
-        min_gap = 10000000
-        for i in range(object_num):
-            if (os[i] - os[i]) >= 1 or (os[i] - os[i]) <= -1:
-                if np.abs(os[i] - os[i]) < min_gap:
-                    min_gap = np.abs(t0[i] - tv[i])
-                flag = 1
-        print("gap:", min_gap)
-        if min_gap < 1.2:
-            flag = 0
-        for i in range(len(tv)):
-            t0[i] = tv[i]
-    k = 0
-    out = []
-    for i in range(len(tv)):
-        if tv[i] != 0:
-            #tv[i] = tv[i] + average[k]
-            k += 1
-            out.append([object2[i], tv[i]])
-        else:
-            tv[i] = 0
-    print("tv(final)=", tv)
-    print("name:", name)
-    f = open("E:\GitHub\KRAUSTD\IATD\\" + name + ".csv", 'w', newline="")
-    csv_writer = csv.writer(f)
-    for row in range(len(out)):
-        csv_writer.writerow(out[row])
     f.close()
-    proprocess.process("E:\GitHub\KRAUSTD\IATD\\" + name + ".csv")
-
-    end = time.time()
-    print("time for IATD:", end - start)
+    source_tang = "data/monitor0707"
 
 
-    truth = []
-    with open("E:\GitHub\KRAUSTD\IATD\weather_truth_sam.csv", 'r', encoding='utf-8') as data:
-        reader = csv.reader(data)
-        index = 0
-        for row in reader:
-            temp = row[truth_index].split(',')
-            for j in range(len(temp)):
-                temp[j] = temp[j].strip()
-                temp[j] = temp[j].strip('[')
-                temp[j] = temp[j].strip(']')
-                temp[j] = temp[j].strip('\'')
-            truth.append(temp)
-    error_num, total_num = 0, 0
-    for i in range(len(tv)):
-        temp = tv[i].split(',')
-        for j in range(len(temp)):
-            if temp[j] not in truth[i]:
-                error_num += 1
-        total_num += len(temp)
-    print("error_rate:", error_num/total_num, error_num, total_num)
+
+    # 计算一些超参
+    object_index, source_num, object_num, source, attribute_index = find_index(source_tang)
+    all_num = source_num * object_num + 1
+
+    o = [0.1 for i in range(all_num)]
+    bv = [0 for i in range(all_num)]
+
+    for attribute_i in attribute_index:
+        object, object_no_repeat, attribute = ['entity'], [], ['attribute']
+        object_source_sort, attribute_source_sort = [], []
+        start = time.time()
+
+        import os
+        # 计算object attribute
+        source_path = 'E:/GitHub/KRAUSTD/CTD/' + source_tang + '/source'
+        source_dirs = os.listdir(source_path)
+        for source_dir in source_dirs:
+            if 'source' in source_dir:
+                with open(source_path + '/' + source_dir, 'r', encoding='utf-8') as data:
+                    reader = csv.reader(data)
+                    # k用来判断第几行，从0开始
+                    k = 0
+                    for row in reader:
+                        if k != 0:
+                            object_source_sort.append(row[object_index])
+                            attribute_source_sort.append(row[attribute_i])
+                            if row[object_index] not in object_no_repeat:
+                                object_no_repeat.append(row[object_index])
+                        k += 1
+        for i in range(object_num):
+            for j in range(source_num):
+                object.append(object_source_sort[i + j * object_num])
+                attribute.append(attribute_source_sort[i + j * object_num])
+
+        flag = 1
+        m = 0
+        t0 = [1000 for i in range(object_num)]
+        os0 = [0.1 for i in range(len(object))]
+        tv = top_k(object_num, all_num, o, bv, source, object, attribute)
+        print(tv)
+        while flag == 1:
+            # calculate tv
+            tv = sample_tv(tv, source_num, object_num, all_num, o, bv, source, object, attribute)
+
+            # calculate Esv
+            oj = [[0.1 for i in range(source_num)] for j in range(len(object))]
+            os = [0.1 for i in range(len(object))]
+            name = calculate_Esv(os, oj, tv, file_to_read, flag_a, source_num,object_num, all_num, o, bv, source, object, attribute)
+
+            # calculate os, oj, bv
+            renew_osj(os, oj, tv, file_to_read, flag_a, source_num, object_num, all_num, o, bv, source, object, attribute)
+
+            # print values
+            m = m + 1
+            print("---------------------------------------")
+            print("迭代轮数：", m)
+            print("tv=", tv)
+
+            # 计算gap
+            flag = 0
+            gap = 0
+            for i in range(1, object_num):
+                gap += np.abs(os0[i] - os[i])
+                flag = 1
+            print("gap:", gap)
+            if gap < 1.2 or m > 10:
+                flag = 0
+            for i in range(len(tv)):
+                t0[i] = tv[i]
+            os0 = [os[i] for i in range(len(object))]
+        k = 0
+        out = []
+        for i in range(len(tv)):
+            if tv[i] != 0:
+                k += 1
+                out.append([object_no_repeat[i], tv[i]])
+            else:
+                tv[i] = 0
+        print("---------------------------------------")
+        print("tv(final)=", tv)
+        print("name:", name)
+        f = open("E:\GitHub\KRAUSTD\IATD\\" + name + "-" + str(attribute_i) +".csv", 'w', newline="")
+        csv_writer = csv.writer(f)
+        for row in range(len(out)):
+            csv_writer.writerow(out[row])
+        f.close()
+        proprocess.process("E:\GitHub\KRAUSTD\IATD\\" + name + "-" + str(attribute_i) + ".csv", source_tang)
+
+
+        # 把结果拼接之后输出
+        end = time.time()
+        print("time for IATD:", end - start)
+        # here!
+        # 输出结果
+        out = [[1 for i in range(len(attribute_index)+2)] for _ in range(len(tv))]
+        for attribute_i in attribute_index:
+            f = open("E:\GitHub\KRAUSTD\IATD\\" + name + "-" + str(attribute_i) + "-truth.csv", 'r', newline="")
+            reader = csv.reader(f)
+            po = 0
+            for row in reader:
+                out[po][0] = row[0]
+                out[po][attribute_i] = row[1]
+                po += 1
+            f.close()
+
+        f = open("E:\GitHub\KRAUSTD\IATD\\" + name + "_truth.csv", 'w', newline="")
+        csv_writer = csv.writer(f)
+        for row in range(len(out)):
+            csv_writer.writerow(out[row])
+        f.close()
+
+
+if __name__ == '__main__':
+    run()
+    # # 传递参数:source_num, object_num, o, bv, source, object
+    #
+    # # 计算一些超参
+    # object_index, source_num, object_num, source, attribute_index = find_index("data/monitor0707")
+    # all_num = source_num * object_num + 1
+    #
+    # o = [0.1 for i in range(all_num)]
+    # bv = [0 for i in range(all_num)]
+    # object_index += 1
+    # for attribute_index in range(3, 5):
+    #     object = []
+    #     object2 = []
+    #     attribute = []
+    #     start = time.time()
+    #     file_to_read = "E:\GitHub\KRAUSTD\CTD\log\Tri\IATD\sourceList 0.1_0.1_.txt"
+    #     f = open(r"E:\GitHub\KRAUSTD\IATD\1.txt", 'r')
+    #     flag_a = int(f.read()[-1])
+    #     # read data
+    #     # todo
+    #     # object2:无重复的object
+    #     with open("E:\\GitHub\\KRAUSTD\\IATD\\data\\monitor_ori.csv", 'r', encoding='utf-8') as data:
+    #         reader = csv.reader(data)
+    #         index = 0
+    #         for row in reader:
+    #             index = index + 1
+    #             object.append(row[object_index])
+    #             attribute.append(row[attribute_index])
+    #             if index == all_num:
+    #                 break
+    #     object2 = list(set(object[1:]))
+    #     for i in range(len(object2)):
+    #         object2[i] = str(object2[i])
+    #     for i in range(len(object2)):
+    #         for j in range(i, len(object2)):
+    #             if object2[i] > object2[j]:
+    #                 temp = object2[i]
+    #                 object2[i] = object2[j]
+    #                 object2[j] = temp
+    #     print(object)
+    #     print(object2)
+    #     flag = 1
+    #     m = 0
+    #     t0 = [1000 for i in range(object_num)]
+    #     os0 = [0.1 for i in range(len(object))]
+    #     tv = top_k(object_num, all_num, o, bv, source, object, attribute)
+    #     print("tv_start:", tv)
+    #     while flag == 1:
+    #         # calculate tv
+    #         tv = sample_tv(tv, source_num, object_num, all_num, o, bv, source, object, attribute)
+    #
+    #         # calculate Esv
+    #         oj = [[0.1 for i in range(source_num)] for j in range(len(object))]
+    #         os = [0.1 for i in range(len(object))]
+    #         name = calculate_Esv(os, oj, tv, file_to_read, flag_a, source_num,object_num, all_num, o, bv, source, object, attribute)
+    #
+    #         # calculate os, oj, bv
+    #         renew_osj(os, oj, tv, file_to_read, flag_a, source_num, object_num, all_num, o, bv, source, object, attribute)
+    #
+    #         # print values
+    #         m = m + 1
+    #         print("---------------------------------------")
+    #         print("迭代轮数：", m)
+    #         print("tv=", tv)
+    #
+    #         # 计算gap
+    #         flag = 0
+    #         gap = 0
+    #         for i in range(1, object_num):
+    #             gap += np.abs(os0[i] - os[i])
+    #             flag = 1
+    #         print("gap:", gap)
+    #         if gap < 1.2 or m > 10:
+    #             flag = 0
+    #         for i in range(len(tv)):
+    #             t0[i] = tv[i]
+    #         os0 = [os[i] for i in range(len(object))]
+    #     k = 0
+    #     out = []
+    #     for i in range(len(tv)):
+    #         if tv[i] != 0:
+    #             k += 1
+    #             out.append([object2[i], tv[i]])
+    #         else:
+    #             tv[i] = 0
+    #     print("---------------------------------------")
+    #     print("tv(final)=", tv)
+    #     print("name:", name)
+    #     f = open("E:\GitHub\KRAUSTD\IATD\\" + name + "-" + str(attribute_index) + ".csv", 'w', newline="")
+    #     csv_writer = csv.writer(f)
+    #     for row in range(len(out)):
+    #         csv_writer.writerow(out[row])
+    #     f.close()
+    #     proprocess.process("E:\GitHub\KRAUSTD\IATD\\" + name + "-" + str(attribute_index) + ".csv")
+    #
+    #     end = time.time()
+    #     print("time for IATD:", end - start)
+    #
+    #
+    # # 输出结果
+    # out = [[0, 1, 0, 0, 0, 0, 1] for _ in range(len(tv))]
+    # for attribute_index in range(3, 5):
+    #     f = open("E:\GitHub\KRAUSTD\IATD\\" + name + "-" + str(attribute_index) + "_truth.csv", 'r', newline="")
+    #     reader = csv.reader(f)
+    #     po = 0
+    #     for row in reader:
+    #         out[po][0] = row[0]
+    #         out[po][2] = row[1]
+    #         po += 1
+    #     f.close()
+    # # todo
+    # f = open("E:\\GitHub\\KRAUSTD\\IATD\\data\\monitor_ori_truth.csv")
+    # reader = csv.reader(f)
+    # po = 0
+    # for row in reader:
+    #     if po >= 0:
+    #         out[po][1] = row[1]
+    #         out[po][4] = row[4]
+    #         out[po][5] = row[5]
+    #     po += 1
+    # f = open("E:\GitHub\KRAUSTD\IATD\\" + name + "_truth.csv", 'w', newline="")
+    # csv_writer = csv.writer(f)
+    # for row in range(len(out)):
+    #     csv_writer.writerow(out[row])
+    # f.close()
 # time:0.17339348793029785+0.1566298007965088+0.10737729072570801+0.1598656177520752
 # error_rate:0.35 0 0.05 0
+
+
+

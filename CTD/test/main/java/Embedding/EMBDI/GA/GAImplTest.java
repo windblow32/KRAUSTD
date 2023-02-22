@@ -76,9 +76,9 @@ public class GAImplTest extends GeneticAlgorithm {
     public double minRMSE = Double.MAX_VALUE;
     private String attrName;
     // string 多值
-    public List<Integer> stringType_multi_list;
+    public List<Integer> stringType_multi_list = new ArrayList<>();
     // num 多值
-    public List<Integer> numType_multi_list;
+    public List<Integer> numType_multi_list = new ArrayList<>();
 
     public GAImplTest() {
         super(37);

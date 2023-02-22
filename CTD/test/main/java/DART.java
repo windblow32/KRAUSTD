@@ -25,7 +25,7 @@ public class DART {
         List<String> sourceList = new ArrayList<>();
         // not include golden standard
         for (int s = 1; s <= sourceNum; s++) {
-            sourceList.add(dataPath + "source/source" + s + ".csv");
+            sourceList.add(dataPath + "/source/source" + s + ".csv");
         }
         // 反正不用存储图，路径随便写了
         String graphPath = "data/stock100/weightCalcByVex/graph/55SourceStockGraphMin.txt";
@@ -76,7 +76,7 @@ public class DART {
         List<String> sourceList = new ArrayList<>();
         // not include golden standard
         for (int s = 1; s <= sourceNum; s++) {
-            sourceList.add(dataPath + "source/source" + s + ".csv");
+            sourceList.add(dataPath + "/source/source" + s + ".csv");
         }
         // 反正不用存储图，路径随便写了
         String graphPath = "data/stock100/weightCalcByVex/graph/55SourceStockGraphMin.txt";
@@ -129,7 +129,7 @@ public class DART {
         List<String> sourceList = new ArrayList<>();
         // not include golden standard
         for (int s = 1; s <= sourceNum; s++) {
-            sourceList.add(dataPath + "source/source" + s + ".csv");
+            sourceList.add(dataPath + "/source/source" + s + ".csv");
         }
         // 反正不用存储图，路径随便写了
         String graphPath = "data/stock100/weightCalcByVex/graph/55SourceStockGraphMin.txt";
@@ -202,7 +202,7 @@ public class DART {
         // not include golden standard
         for (int s = 1; s <= sourceNum; s++) {
             // fixme : step 3 change 15_30_9.0
-            sourceList.add(dataPath + "source/source" + s + ".csv");
+            sourceList.add(dataPath + "/source/source" + s + ".csv");
         }
 
 
@@ -230,36 +230,39 @@ public class DART {
         String modelPath = "model/Tri/DART/monitor/DART_Connection.model";
         DARTModel = word2VecService.trainWithLocalWalks(modelPath);
         List<String> domainList = new ArrayList<>();
-//        domainList.add("Philips_Electronics");
-//        domainList.add("iiyama_North_America");
-//        domainList.add("Hannspree");
-//        domainList.add("Asus");
-        // todo : weather
-        domainList.add("Chicago");
-        domainList.add("Dallas");
-        domainList.add("El Paso");
-        domainList.add("Fort Worth");
-        domainList.add("Houston");
-        domainList.add("Indianapolis");
-        domainList.add("Jacksonville");
-        domainList.add("Las Vegas");
-        domainList.add("Los Angeles");
-        domainList.add("Milwaukee");
-        domainList.add("Nashville");
-        domainList.add("Philadelphia");
-        domainList.add("Phoenix");
-        domainList.add("Portland");
-        domainList.add("San Jose");
-        domainList.add("San Diego");
-        domainList.add("Seattle");
-        domainList.add("Washington");
 
-//        // todo : camera
-//        domainList.add("Nikon");
-//        domainList.add("Sony");
-//        domainList.add("Canon");
-//        domainList.add("Fujifilm");
-//        domainList.add("Panasonic");
+        if (dataPath.equals("data/monitor0707")) {
+            domainList.add("Philips_Electronics");
+            domainList.add("iiyama_North_America");
+            domainList.add("Hannspree");
+            domainList.add("Asus");
+        } else if (dataPath.equals("data/camera0707")) {
+            domainList.add("Nikon");
+            domainList.add("Sony");
+            domainList.add("Canon");
+            domainList.add("Fujifilm");
+            domainList.add("Panasonic");
+        }
+        // todo : weather
+//        domainList.add("Chicago");
+//        domainList.add("Dallas");
+//        domainList.add("El Paso");
+//        domainList.add("Fort Worth");
+//        domainList.add("Houston");
+//        domainList.add("Indianapolis");
+//        domainList.add("Jacksonville");
+//        domainList.add("Las Vegas");
+//        domainList.add("Los Angeles");
+//        domainList.add("Milwaukee");
+//        domainList.add("Nashville");
+//        domainList.add("Philadelphia");
+//        domainList.add("Phoenix");
+//        domainList.add("Portland");
+//        domainList.add("San Jose");
+//        domainList.add("San Diego");
+//        domainList.add("Seattle");
+//        domainList.add("Washington");
+
 
 
         // fixme set output file path
@@ -285,6 +288,7 @@ public class DART {
                     }
                 }
             }
+            System.out.println(dataPath);
             ps.close();
             fos.close();
         } catch (IOException e) {
@@ -311,11 +315,11 @@ public class DART {
         // fixme : change sources
         for (int s = 1; s <= sourceNum; s++) {
             // fixme : step 6 change source
-            sourceList.add(dataPath + "source/source" + s + ".csv");
+            sourceList.add(dataPath + "/source/source" + s + ".csv");
         }
-        sourceList.add(dataPath + "tempDA.csv");
+        sourceList.add(dataPath + "/tempDA.csv");
         // fixme : step 7 change allTruth
-        sourceList.add(dataPath + "threetruth.CSV");
+        sourceList.add(dataPath + "/threetruth.CSV");
 
         String graphPath = "data/stock100/weightCalcByVex/graph/55SourceStockGraphMin.txt";
         deleteWithPath(graphPath);
@@ -373,7 +377,12 @@ public class DART {
             domainList.add("Panasonic");
         }
         // set output file path
-        File f = new File("log/Tri/DART/weather/DART_connection.txt");
+        File f;
+        if(dataPath.equals("data/monitor0707")){
+            f = new File("log/Tri/DART/monitor/DART_connection.txt");
+        }else {
+            f = new File("log/Tri/DART/camera/DART_connection.txt");
+        }
         try {
             f.createNewFile();
             FileOutputStream fos = new FileOutputStream(f);
@@ -394,6 +403,7 @@ public class DART {
                     }
                 }
             }
+            System.out.println(dataPath);
             ps.close();
             fos.close();
         } catch (IOException e) {

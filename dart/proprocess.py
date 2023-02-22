@@ -1,13 +1,13 @@
 import csv
 
 
-def process(file1):
+def process(file1, source_tang):
     with open(file1) as f:
         f_csv = csv.reader(f)
         data = []
         #headers = next(f_csv)
         for row in f_csv:
-            a, b, c = row
+            a, b = row
             #print(b)
             labelsWord = []
             spaceindex = []
@@ -25,12 +25,12 @@ def process(file1):
             strcell = ''
             for i2word in labelsWord:
                 strcell+=i2word
-            data.append([a, 1, strcell, 1, 1])
+            data.append([a, strcell])
     f.close()
     # output:按照source排序的没有冗余字符发真值文件（只有一个属性）
     f1 = open(r"E:\GitHub\KRAUSTD\dart\output.csv", 'w', encoding='utf-8', newline="")
     csv_write = csv.writer(f1)
-    f2 = open("E:\\GitHub\\KRAUSTD\\CTD\\data\\new_weather\\15_30_9.0\\source\\source1.csv", 'r', encoding='utf-8', newline="")
+    f2 = open("E:/GitHub/KRAUSTD/CTD/"+ source_tang +"/source/source1.csv", 'r', encoding='utf-8', newline="")
     reader = csv.reader(f2)
     for row in reader:
         for i in range(len(data)):

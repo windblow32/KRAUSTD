@@ -1,0 +1,100 @@
+101_1,23.4,"['Auto', 'Preset', 'Color Temperature Setting', 'User Defined', 'White Balance Correction and White Balance Bracketing', 'Cloudy']",1
+101_2,23.4,"['Auto', 'Preset', 'Color Temperature Setting', 'User Defined', 'White Balance Correction and White Balance Bracketing', 'Cloudy']",1
+101_3,23.4,"['Auto', 'Preset', 'Color Temperature Setting', 'User Defined', 'White Balance Correction and White Balance Bracketing', 'Cloudy']",1
+101_4,23.4,"['Auto', 'Preset', 'Color Temperature Setting', 'User Defined', 'White Balance Correction and White Balance Bracketing', 'Cloudy']",1
+101_5,23.4,"['Auto', 'Preset', 'Color Temperature Setting', 'User Defined', 'White Balance Correction and White Balance Bracketing', 'Cloudy']",1
+13_1,16.2,"['Shade', 'Cloudy', 'Fluorescent', 'Flash', 'Incandescent', 'Preset Manual', 'Color Temperature']",1
+13_2,16.2,"['Shade', 'Cloudy', 'Fluorescent', 'Flash', 'Incandescent', 'Preset Manual', 'Color Temperature']",1
+13_3,16.2,"['Shade', 'Cloudy', 'Fluorescent', 'Flash', 'Incandescent', 'Preset Manual', 'Color Temperature']",1
+13_4,16.2,"['Shade', 'Cloudy', 'Fluorescent', 'Flash', 'Incandescent', 'Preset Manual', 'Color Temperature']",1
+13_5,16.2,"['Shade', 'Cloudy', 'Fluorescent', 'Flash', 'Incandescent', 'Preset Manual', 'Color Temperature']",1
+18_1,19,"['Auto', 'Daylight', 'Shade', 'Cloudy', 'Preset', 'Custom', 'Tungsten Light', 'White Fluorescent LightFlashCustomColor Temperature Setting']",1
+18_2,19,"['Auto', 'Daylight', 'Shade', 'Cloudy', 'Preset', 'Custom', 'Tungsten Light', 'White Fluorescent LightFlashCustomColor Temperature Setting']",1
+18_3,19,"['Auto', 'Daylight', 'Shade', 'Cloudy', 'Preset', 'Custom', 'Tungsten Light', 'White Fluorescent LightFlashCustomColor Temperature Setting']",1
+18_4,19,"['Auto', 'Daylight', 'Shade', 'Cloudy', 'Preset', 'Custom', 'Tungsten Light', 'White Fluorescent LightFlashCustomColor Temperature Setting']",1
+18_5,19,"['Auto', 'Daylight', 'Shade', 'Cloudy', 'Preset', 'Custom', 'Tungsten Light', 'White Fluorescent LightFlashCustomColor Temperature Setting']",1
+19_1,25,"['Auto', 'Preset', 'Cloudy', 'Flash', 'Fluorescent', 'White Balance Presets', 'Custom White Balance']",1
+19_2,25,"['Auto', 'Preset', 'Cloudy', 'Flash', 'Fluorescent', 'White Balance Presets', 'Custom White Balance']",1
+19_3,25,"['Auto', 'Preset', 'Cloudy', 'Flash', 'Fluorescent', 'White Balance Presets', 'Custom White Balance']",1
+19_4,25,"['Auto', 'Preset', 'Cloudy', 'Flash', 'Fluorescent', 'White Balance Presets', 'Custom White Balance']",1
+19_5,25,"['Auto', 'Preset', 'Cloudy', 'Flash', 'Fluorescent', 'White Balance Presets', 'Custom White Balance']",1
+23_1,19,"['Available Auto', 'Preset', 'User Defined', 'Color Temperature Setting', 'White Balance Correction and White Balance Bracketing', 'Daylight', 'Shade', 'Cloudy']",1
+23_2,19,"['Available Auto', 'Preset', 'User Defined', 'Color Temperature Setting', 'White Balance Correction and White Balance Bracketing', 'Daylight', 'Shade', 'Cloudy']",1
+23_3,19,"['Available Auto', 'Preset', 'User Defined', 'Color Temperature Setting', 'White Balance Correction and White Balance Bracketing', 'Daylight', 'Shade', 'Cloudy']",1
+23_4,19,"['Available Auto', 'Preset', 'User Defined', 'Color Temperature Setting', 'White Balance Correction and White Balance Bracketing', 'Daylight', 'Shade', 'Cloudy']",1
+23_5,19,"['Available Auto', 'Preset', 'User Defined', 'Color Temperature Setting', 'White Balance Correction and White Balance Bracketing', 'Daylight', 'Shade', 'Cloudy']",1
+41_1,24.7,"['Auto', 'Preset', 'Cloudy', 'Flash', 'Fluorescent', 'Incandescent', 'Shade', 'Sunlight', 'Sunny', 'Tungsten']",1
+41_2,24.7,"['Auto', 'Preset', 'Cloudy', 'Flash', 'Fluorescent', 'Incandescent', 'Shade', 'Sunlight', 'Sunny', 'Tungsten']",1
+41_3,24.7,"['Auto', 'Preset', 'Cloudy', 'Flash', 'Fluorescent', 'Incandescent', 'Shade', 'Sunlight', 'Sunny', 'Tungsten']",1
+41_4,24.7,"['Auto', 'Preset', 'Cloudy', 'Flash', 'Fluorescent', 'Incandescent', 'Shade', 'Sunlight', 'Sunny', 'Tungsten']",1
+41_5,24.7,"['Auto', 'Preset', 'Cloudy', 'Flash', 'Fluorescent', 'Incandescent', 'Shade', 'Sunlight', 'Sunny', 'Tungsten']",1
+44_1,24.7,"['Auto', 'Preset', 'Cloudy', 'Flash', 'Fluorescent', 'Incandescent']",1
+44_2,24.7,"['Auto', 'Preset', 'Cloudy', 'Flash', 'Fluorescent', 'Incandescent']",1
+44_3,24.7,"['Auto', 'Preset', 'Cloudy', 'Flash', 'Fluorescent', 'Incandescent']",1
+44_4,24.7,"['Auto', 'Preset', 'Cloudy', 'Flash', 'Fluorescent', 'Incandescent']",1
+44_5,24.7,"['Auto', 'Preset', 'Cloudy', 'Flash', 'Fluorescent', 'Incandescent']",1
+48_1,12.1,"['Daylight', 'Cloudy', 'Tungsten', 'Fluorescent', 'Flash', 'Auto']",1
+48_2,12.1,"['Daylight', 'Cloudy', 'Tungsten', 'Fluorescent', 'Flash', 'Auto']",1
+48_3,12.1,"['Daylight', 'Cloudy', 'Tungsten', 'Fluorescent', 'Flash', 'Auto']",1
+48_4,12.1,"['Daylight', 'Cloudy', 'Tungsten', 'Fluorescent', 'Flash', 'Auto']",1
+48_5,12.1,"['Daylight', 'Cloudy', 'Tungsten', 'Fluorescent', 'Flash', 'Auto']",1
+570_1,36.3,"['Cloudy', 'Flash', 'Fluorescent', 'Incandescent', 'Shade', 'Auto']",1
+570_2,36.3,"['Cloudy', 'Flash', 'Fluorescent', 'Incandescent', 'Shade', 'Auto']",1
+570_3,36.3,"['Cloudy', 'Flash', 'Fluorescent', 'Incandescent', 'Shade', 'Auto']",1
+570_4,36.3,"['Cloudy', 'Flash', 'Fluorescent', 'Incandescent', 'Shade', 'Auto']",1
+570_5,36.3,"['Cloudy', 'Flash', 'Fluorescent', 'Incandescent', 'Shade', 'Auto']",1
+58_1,10.1,"['Cloudy', 'Sunny', 'Flash', 'Fluorescent', 'Incandescent', 'Shade']",1
+58_2,10.1,"['Cloudy', 'Sunny', 'Flash', 'Fluorescent', 'Incandescent', 'Shade']",1
+58_3,10.1,"['Cloudy', 'Sunny', 'Flash', 'Fluorescent', 'Incandescent', 'Shade']",1
+58_4,10.1,"['Cloudy', 'Sunny', 'Flash', 'Fluorescent', 'Incandescent', 'Shade']",1
+58_5,10.1,"['Cloudy', 'Sunny', 'Flash', 'Fluorescent', 'Incandescent', 'Shade']",1
+6_1,24,"['Auto', 'Preset', 'Cloudy', 'Flash', 'Fluorescent', 'Custom White Balance', 'White Balance Presets', 'incandescent']",1
+6_2,24,"['Auto', 'Preset', 'Cloudy', 'Flash', 'Fluorescent', 'Custom White Balance', 'White Balance Presets', 'incandescent']",1
+6_3,24,"['Auto', 'Preset', 'Cloudy', 'Flash', 'Fluorescent', 'Custom White Balance', 'White Balance Presets', 'incandescent']",1
+6_4,24,"['Auto', 'Preset', 'Cloudy', 'Flash', 'Fluorescent', 'Custom White Balance', 'White Balance Presets', 'incandescent']",1
+6_5,24,"['Auto', 'Preset', 'Cloudy', 'Flash', 'Fluorescent', 'Custom White Balance', 'White Balance Presets', 'incandescent']",1
+65_1,16,"['Automatic', 'Preset']",1
+65_2,16,"['Automatic', 'Preset']",1
+65_3,16,"['Automatic', 'Preset']",1
+65_4,16,"['Automatic', 'Preset']",1
+65_5,16,"['Automatic', 'Preset']",1
+67_1,16,"['Fluorescent', 'Cloudy', 'Tungsten', 'Custom']",1
+67_2,16,"['Fluorescent', 'Cloudy', 'Tungsten', 'Custom']",1
+67_3,16,"['Fluorescent', 'Cloudy', 'Tungsten', 'Custom']",1
+67_4,16,"['Fluorescent', 'Cloudy', 'Tungsten', 'Custom']",1
+67_5,16,"['Fluorescent', 'Cloudy', 'Tungsten', 'Custom']",1
+69_1,36.4,"['Daylight', 'Shade', 'Cloudy', 'Underwater', 'Auto', 'Incandescent']",1
+69_2,36.4,"['Daylight', 'Shade', 'Cloudy', 'Underwater', 'Auto', 'Incandescent']",1
+69_3,36.4,"['Daylight', 'Shade', 'Cloudy', 'Underwater', 'Auto', 'Incandescent']",1
+69_4,36.4,"['Daylight', 'Shade', 'Cloudy', 'Underwater', 'Auto', 'Incandescent']",1
+69_5,36.4,"['Daylight', 'Shade', 'Cloudy', 'Underwater', 'Auto', 'Incandescent']",1
+70_1,14.1,"['Daylight', 'Cloudy', 'Shade', 'Incandescent']",1
+70_2,14.1,"['Daylight', 'Cloudy', 'Shade', 'Incandescent']",1
+70_3,14.1,"['Daylight', 'Cloudy', 'Shade', 'Incandescent']",1
+70_4,14.1,"['Daylight', 'Cloudy', 'Shade', 'Incandescent']",1
+70_5,14.1,"['Daylight', 'Cloudy', 'Shade', 'Incandescent']",1
+75_1,17,"['Auto', 'incandescent', 'fluorescent', 'direct sunlight', 'flash', 'cloudy', 'shade', 'preset manual white balance', 'color temperature selection', 'Incandescent']",1
+75_2,17,"['Auto', 'incandescent', 'fluorescent', 'direct sunlight', 'flash', 'cloudy', 'shade', 'preset manual white balance', 'color temperature selection', 'Incandescent']",1
+75_3,17,"['Auto', 'incandescent', 'fluorescent', 'direct sunlight', 'flash', 'cloudy', 'shade', 'preset manual white balance', 'color temperature selection', 'Incandescent']",1
+75_4,17,"['Auto', 'incandescent', 'fluorescent', 'direct sunlight', 'flash', 'cloudy', 'shade', 'preset manual white balance', 'color temperature selection', 'Incandescent']",1
+75_5,17,"['Auto', 'incandescent', 'fluorescent', 'direct sunlight', 'flash', 'cloudy', 'shade', 'preset manual white balance', 'color temperature selection', 'Incandescent']",1
+76_1,24.3,"['Auto', 'Custom White Balance', 'White Balance Presets', 'Incandescent', 'Fluorescent', 'Direct Sunlight', 'Flash', 'Cloudy']",1
+76_2,24.3,"['Auto', 'Custom White Balance', 'White Balance Presets', 'Incandescent', 'Fluorescent', 'Direct Sunlight', 'Flash', 'Cloudy']",1
+76_3,24.3,"['Auto', 'Custom White Balance', 'White Balance Presets', 'Incandescent', 'Fluorescent', 'Direct Sunlight', 'Flash', 'Cloudy']",1
+76_4,24.3,"['Auto', 'Custom White Balance', 'White Balance Presets', 'Incandescent', 'Fluorescent', 'Direct Sunlight', 'Flash', 'Cloudy']",1
+76_5,24.3,"['Auto', 'Custom White Balance', 'White Balance Presets', 'Incandescent', 'Fluorescent', 'Direct Sunlight', 'Flash', 'Cloudy']",1
+83_1,10.1,['Auto'],1
+83_2,10.1,['Auto'],1
+83_3,10.1,['Auto'],1
+83_4,10.1,['Auto'],1
+83_5,10.1,['Auto'],1
+88_1,20,"['Cloudy', 'Flash', 'Daylight', 'one Push', 'Fluorescent White Balance 3', 'Fluorescent White Balance 1']",1
+88_2,20,"['Cloudy', 'Flash', 'Daylight', 'one Push', 'Fluorescent White Balance 3', 'Fluorescent White Balance 1']",1
+88_3,20,"['Cloudy', 'Flash', 'Daylight', 'one Push', 'Fluorescent White Balance 3', 'Fluorescent White Balance 1']",1
+88_4,20,"['Cloudy', 'Flash', 'Daylight', 'one Push', 'Fluorescent White Balance 3', 'Fluorescent White Balance 1']",1
+88_5,20,"['Cloudy', 'Flash', 'Daylight', 'one Push', 'Fluorescent White Balance 3', 'Fluorescent White Balance 1']",1
+96_1,20.9,"['Auto', 'preset', 'color temperature setting', 'with white balance correction and white balance bracketing functions', 'With flash color temperature information transmission', 'Preset', 'Custom']",1
+96_2,20.9,"['Auto', 'preset', 'color temperature setting', 'with white balance correction and white balance bracketing functions', 'With flash color temperature information transmission', 'Preset', 'Custom']",1
+96_3,20.9,"['Auto', 'preset', 'color temperature setting', 'with white balance correction and white balance bracketing functions', 'With flash color temperature information transmission', 'Preset', 'Custom']",1
+96_4,20.9,"['Auto', 'preset', 'color temperature setting', 'with white balance correction and white balance bracketing functions', 'With flash color temperature information transmission', 'Preset', 'Custom']",1
+96_5,20.9,"['Auto', 'preset', 'color temperature setting', 'with white balance correction and white balance bracketing functions', 'With flash color temperature information transmission', 'Preset', 'Custom']",1
