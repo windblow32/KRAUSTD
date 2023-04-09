@@ -10,13 +10,6 @@
             </Attribute>
           </value>
         </entry>
-        <entry key="\1_truth.csv">
-          <value>
-            <Attribute>
-              <option name="separator" value=";" />
-            </Attribute>
-          </value>
-        </entry>
         <entry key="\monitor_original.csv">
           <value>
             <Attribute>

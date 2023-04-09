@@ -9,8 +9,8 @@ source_0&iiyama_North_America&Hannspree:0.4621171572600098
 source_0&Hannspree&iiyama_North_America:0.4621171572600098
 source_0&iiyama_North_America&Asus:0.4621171572600098
 source_0&Asus&iiyama_North_America:0.4621171572600098
-source_0&Hannspree&Asus:0.3053118939600664
-source_0&Asus&Hannspree:0.33116232542809065
+source_0&Hannspree&Asus:0.23491694832718393
+source_0&Asus&Hannspree:0.28143796740239546
 source_1&Philips_Electronics&iiyama_North_America:0.4621171572600098
 source_1&iiyama_North_America&Philips_Electronics:0.4621171572600098
 source_1&Philips_Electronics&Hannspree:0.4621171572600098
@@ -21,8 +21,8 @@ source_1&iiyama_North_America&Hannspree:0.4621171572600098
 source_1&Hannspree&iiyama_North_America:0.4621171572600098
 source_1&iiyama_North_America&Asus:0.4621171572600098
 source_1&Asus&iiyama_North_America:0.4621171572600098
-source_1&Hannspree&Asus:0.34915575331931353
-source_1&Asus&Hannspree:0.37385720068905803
+source_1&Hannspree&Asus:0.4094667710362188
+source_1&Asus&Hannspree:0.3586166590219441
 source_2&Philips_Electronics&iiyama_North_America:0.4621171572600098
 source_2&iiyama_North_America&Philips_Electronics:0.4621171572600098
 source_2&Philips_Electronics&Hannspree:0.4621171572600098
@@ -33,8 +33,8 @@ source_2&iiyama_North_America&Hannspree:0.4621171572600098
 source_2&Hannspree&iiyama_North_America:0.4621171572600098
 source_2&iiyama_North_America&Asus:0.4621171572600098
 source_2&Asus&iiyama_North_America:0.4621171572600098
-source_2&Hannspree&Asus:0.1614437518759522
-source_2&Asus&Hannspree:0.20638628420945462
+source_2&Hannspree&Asus:0.45718075298598093
+source_2&Asus&Hannspree:0.4625573738480854
 source_3&Philips_Electronics&iiyama_North_America:0.4621171572600098
 source_3&iiyama_North_America&Philips_Electronics:0.4621171572600098
 source_3&Philips_Electronics&Hannspree:0.4621171572600098
@@ -45,8 +45,8 @@ source_3&iiyama_North_America&Hannspree:0.4621171572600098
 source_3&Hannspree&iiyama_North_America:0.4621171572600098
 source_3&iiyama_North_America&Asus:0.4621171572600098
 source_3&Asus&iiyama_North_America:0.4621171572600098
-source_3&Hannspree&Asus:0.41697278057562476
-source_3&Asus&Hannspree:0.4227003726473191
+source_3&Hannspree&Asus:0.28949974860437144
+source_3&Asus&Hannspree:0.22230913892554044
 source_4&Philips_Electronics&iiyama_North_America:0.4621171572600098
 source_4&iiyama_North_America&Philips_Electronics:0.4621171572600098
 source_4&Philips_Electronics&Hannspree:0.4621171572600098
@@ -57,6 +57,6 @@ source_4&iiyama_North_America&Hannspree:0.4621171572600098
 source_4&Hannspree&iiyama_North_America:0.4621171572600098
 source_4&iiyama_North_America&Asus:0.4621171572600098
 source_4&Asus&iiyama_North_America:0.4621171572600098
-source_4&Hannspree&Asus:0.30823462207654306
-source_4&Asus&Hannspree:0.3170085872598459
+source_4&Hannspree&Asus:0.39429380083945
+source_4&Asus&Hannspree:0.33935970450104164
 data/monitor0707
