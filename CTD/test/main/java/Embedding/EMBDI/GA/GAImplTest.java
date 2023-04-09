@@ -351,7 +351,6 @@ public class GAImplTest extends GeneticAlgorithm {
         // fixme : log路径
         String logPath = "log/Tri/CTD/monitor/parameter/log" + insertT1 + ".txt";
         File logFile = new File(logPath);
-
         try {
             logFile.createNewFile();
             FileOutputStream fos = new FileOutputStream(logFile);

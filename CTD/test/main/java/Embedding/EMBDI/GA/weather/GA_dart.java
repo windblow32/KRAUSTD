@@ -410,9 +410,15 @@ public class GA_dart extends GeneticAlgorithm {
             logPath = "log/Tri/DART/camera/parameter/log" + insertT1 + ".txt";
         }
         File logFile = new File(logPath);
-
+        File weight = new File("E:\\GitHub\\KRAUSTD\\dart\\source_weight.txt");
         try {
             logFile.createNewFile();
+            // read weightList from python result
+            BufferedReader br = new BufferedReader( new FileReader(weight));
+            String str;
+            while ((str = br.readLine())!=null){
+                weightList.add(Double.parseDouble(str));
+            }
             FileOutputStream fos = new FileOutputStream(logFile);
             PrintStream ps = new PrintStream(fos);
             System.setOut(ps);

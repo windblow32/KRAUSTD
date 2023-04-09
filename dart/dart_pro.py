@@ -412,6 +412,8 @@ def one_step(book, book_domain, file, flag, theta, all_num, source_num, domain_n
             # print(tdrec)
             # print(tdsp)
         l = l - 1
+
+
     output = []
     already = []
     for i in range(1, object_number+1):
@@ -439,6 +441,14 @@ def one_step(book, book_domain, file, flag, theta, all_num, source_num, domain_n
     name = name[:-1]
     print(output)
     print(name)
+    f = open("E:\GitHub\KRAUSTD\dart\source_weight.txt", 'w', newline="")
+    for i in range(1, source_num+1):
+        for j in range(1, domain_num+1):
+            f.write(str(tdsp[j][i])+';')
+        for j in range(1, domain_num+1):
+            f.write(str(tdrec[j][i])+';')
+        f.write('\n')
+    f.close()
     f = open("E:\GitHub\KRAUSTD\dart\\"+name+"_truth_pro.csv", 'w', newline="")
     csv_writer = csv.writer(f)
     for row in range(len(output)):
