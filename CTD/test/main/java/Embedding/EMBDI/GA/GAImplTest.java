@@ -362,6 +362,7 @@ public class GAImplTest extends GeneticAlgorithm {
             }
             System.out.println("原始数据集（对应第二个断点）CTD时间 : " + t_pre + " 至 " + t_after);
             System.out.println("遗传算法代数" + version);
+            System.out.println("数据源权重" + weightList);
             System.out.println("随机游走前时间" + CtdService.timeBeforeWalk);
             System.out.println("随机游走后时间(开始训练)" + CtdService.timeAfterWalk);
             System.out.println("训练结束时间" + CtdService.timeAfterTrain);

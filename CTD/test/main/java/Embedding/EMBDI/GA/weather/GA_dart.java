@@ -80,7 +80,6 @@ public class GA_dart extends GeneticAlgorithm {
     public List<Double> rmseList = new ArrayList<>();
     public double minRMSE = Double.MAX_VALUE;
     public List<String> daTupleList = new ArrayList<>();
-    private String attrName;
 
     public GA_dart() {
         super(37);
@@ -93,9 +92,8 @@ public class GA_dart extends GeneticAlgorithm {
         if (a == null || b == null) {
             return 0F;
         }
-        int editDistance = editDis(a, b);
-//        return 1 - ((float) editDistance / Math.max(a.length(), b.length()));
-        return editDistance;
+        //        return 1 - ((float) editDistance / Math.max(a.length(), b.length()));
+        return editDis(a, b);
     }
     private void initMultipleList(){
         numType_multi_list.clear();
@@ -167,7 +165,7 @@ public class GA_dart extends GeneticAlgorithm {
     }
 
     @Override
-    /**
+    /*
      * @Description: x的显示表示，将chro转换为用户需要的显示信息，只在print时候和calc时候调用，返回类型是double
      * 7个参数，一个length，6个low和high
      */
@@ -214,7 +212,7 @@ public class GA_dart extends GeneticAlgorithm {
     }
 
     @Override
-    /**
+    /*
      * @Description: 设计评价函数, 将changeX的参数带入模型中训练，根据训练结果计算估价函数
      */
     public double calculateY(Chromosome chro) {
@@ -250,7 +248,6 @@ public class GA_dart extends GeneticAlgorithm {
 //        NormalizeDistributeRunInGA obj = new NormalizeDistributeRunInGA();
         // trans what
         int length = getPartNum(parameter1);
-        int useNum = 20000;
         int AttrDistributeLow = getPartNum(parameter2);
         int AttrDistributeHigh = getPartNum(parameter3);
         int ValueDistributeLow = getPartNum(parameter4);
@@ -274,7 +271,7 @@ public class GA_dart extends GeneticAlgorithm {
         }
         initParameter();
         initMultipleList();
-        // CTD返回的source weight
+        // attention : 真值发现算法中返回的source weight
         List<Double> weightList = new ArrayList<>();
         String graphPath = "data/stock100/weightCalcByVex/graph/55SourceStockGraphMin.txt";
         deleteWithPath(graphPath);
@@ -366,9 +363,7 @@ public class GA_dart extends GeneticAlgorithm {
             }
             in.close();
             proc.waitFor();
-        } catch (IOException e) {
-            e.printStackTrace();
-        } catch (InterruptedException e) {
+        } catch (IOException | InterruptedException e) {
             e.printStackTrace();
         }
         LocalTime time_after = LocalTime.now();
@@ -429,7 +424,8 @@ public class GA_dart extends GeneticAlgorithm {
             System.out.println("error distance GA : " + RMSEScore);
             System.out.println("error rate GA : " + error_rate);
             System.out.println("rmse: " + error_list.get(2));
-
+            System.out.println("遗传算法代数" + version);
+            System.out.println("数据源权重" + weightList);
             System.out.println("适应度数值: : " + score);
 //            r2 = R_square(calcTruth,goldenStandard,D1,D2);
 //            System.out.println("R square GA : " + r2);
@@ -543,12 +539,12 @@ public class GA_dart extends GeneticAlgorithm {
         try {
             FileReader fileReader = new FileReader(source);
             BufferedReader br = new BufferedReader(fileReader);
-            String str;
-            String[] data;
-            attrName = br.readLine();
+//            String str;
+//            String[] data;
+            String attrName = br.readLine();
             D2 = attrName.split(",", -1).length;
             int line = 0;
-            while ((str = br.readLine()) != null) {
+            while ((br.readLine()) != null) {
                 line++;
             }
             D1 = line;
@@ -562,7 +558,7 @@ public class GA_dart extends GeneticAlgorithm {
                 BufferedReader bufferedReader = new BufferedReader(fr);
                 bufferedReader.readLine();
                 int DAline = 0;
-                while ((str = bufferedReader.readLine()) != null) {
+                while ((bufferedReader.readLine()) != null) {
                     DAline++;
                 }
                 biaozhushu = DAline;
@@ -587,6 +583,7 @@ public class GA_dart extends GeneticAlgorithm {
         }
     }
 
+    @Deprecated
     private void saveDA(int D1, int D2, String path) {
         File saveFile = new File(dataPath + "/da1_order.csv");
         String[][] calcTruth = new String[D1][D2];
@@ -630,15 +627,10 @@ public class GA_dart extends GeneticAlgorithm {
             fr.close();
         } catch (IOException e) {
             e.printStackTrace();
-        } catch (ArrayIndexOutOfBoundsException e2) {
-            int a = 2;
+        } catch (ArrayIndexOutOfBoundsException ignored) {
         }
     }
-
-    private void formatResultFromPy(String path) {
-
-    }
-
+    @Deprecated
     private List<String> initialFileListDA() {
         List<String> fileListDA = new ArrayList<>();
         for (int i = 1; i <= sourceNum; i++) {
@@ -662,7 +654,7 @@ public class GA_dart extends GeneticAlgorithm {
         }
         return num;
     }
-
+    @Deprecated
     private List<String> getDistanceForDART(Word2VecModel model, String source, String domain1, String domain2) {
         Searcher search = model.forSearch();
         // 获取三角形三边
@@ -673,7 +665,6 @@ public class GA_dart extends GeneticAlgorithm {
         double cosC = Math.abs((a * a + b * b - c * c) / (2 * a * b));
         // check bugs
         if (cosC >= 1) {
-            int e = 23;
             cosC = 0;
 
         }
@@ -967,8 +958,8 @@ public class GA_dart extends GeneticAlgorithm {
                         if (data[a].contains(" ")) {
                             String[] singleWordArray = data[a].split(" ");
                             // add each single word split by " "
-                            for (int s = 0; s < singleWordArray.length; s++) {
-                                listOfSingleWord.add(search.getRawVector(singleWordArray[s]));
+                            for (String value : singleWordArray) {
+                                listOfSingleWord.add(search.getRawVector(value));
                             }
                         } else {
                             listOfSingleWord.add(s1List);
@@ -1064,8 +1055,8 @@ public class GA_dart extends GeneticAlgorithm {
                             if (data[a].contains(" ")) {
                                 String[] singleWordArray = data[a].split(" ");
                                 // add each single word split by " "
-                                for (int s = 0; s < singleWordArray.length; s++) {
-                                    listOfSingleWord.add(search.getRawVector(singleWordArray[s]));
+                                for (String value : singleWordArray) {
+                                    listOfSingleWord.add(search.getRawVector(value));
                                 }
                             } else {
                                 listOfSingleWord.add(s1List);
@@ -1120,9 +1111,8 @@ public class GA_dart extends GeneticAlgorithm {
         int currentIndex = 0;
         while (currentIndex + poolWindow < size) {
             double pool = 0;
-            for (int l = 0; l < size; l++) {
+            for (List<Double> currentList : listOfSingleWord) {
                 // 对于每个embedding
-                List<Double> currentList = listOfSingleWord.get(l);
                 for (int i = 0; i < poolWindow; i++) {
                     // 每次取五个
                     pool += currentList.get(currentIndex + i);
@@ -1133,7 +1123,7 @@ public class GA_dart extends GeneticAlgorithm {
         }
         return result;
     }
-
+    @Deprecated
     public boolean detectFile(String filePath) {
         File file = new File(filePath);
         if (file.exists()) {
@@ -1199,7 +1189,7 @@ public class GA_dart extends GeneticAlgorithm {
         GA_dart gaImplTest = new GA_dart();
         gaImplTest.calculate();
         // 最好的代数
-        gaImplTest.getGeneI();
+        System.out.println(gaImplTest.getGeneI());
 
     }
 

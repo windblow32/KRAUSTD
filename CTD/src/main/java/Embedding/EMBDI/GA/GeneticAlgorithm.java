@@ -15,7 +15,7 @@ public abstract class GeneticAlgorithm {
     private double mutationRate = 0.1;//基因变异的概率
     private int maxMutationNum = 3;//最大变异步长
 
-    public int generation = 4;//当前遗传到第几代
+    public int generation;//当前遗传到第几代
 
     private double bestScore;//最好得分
     private double worstScore;//最坏得分
