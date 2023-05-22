@@ -17,8 +17,8 @@ public class MetaAlgorithm {
      * @param length  embedding的长度
      */
     // todo: 返回值不应该是void，查看Generate中的返回值修改
-    public List<String> Meta_Algorithm(List<String> fileList, int n_walks, int n_nodes, int length) throws InterruptedException {
-        List<String> walks = new ArrayList<>();
+    public List<List<String>> Meta_Algorithm(List<String> fileList, int n_walks, int n_nodes, int length) throws InterruptedException {
+        List<List<String>> walks = new ArrayList<>();
         GenerateSourceTripartite graph = new GenerateSourceTripartite();
         graph = graph.generateSourceTripartiteGraph(fileList);
         GenerateSourceTripartiteRandomWalk walkGraph = new GenerateSourceTripartiteRandomWalk(graph);
@@ -32,7 +32,7 @@ public class MetaAlgorithm {
 //                }
 //
 //                walks.add(sentence == null ? null : sentence.toString());
-                walks.addAll(list);
+                walks.add(list);
             }
             // Thread.sleep(200);
         }

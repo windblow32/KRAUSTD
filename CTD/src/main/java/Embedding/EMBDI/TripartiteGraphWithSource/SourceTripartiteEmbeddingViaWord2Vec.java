@@ -25,45 +25,10 @@ public class SourceTripartiteEmbeddingViaWord2Vec {
 //            List data = meta.Meta_Algorithm(fileList, n_walks, n_nodes, length);
 //            this.total_nodes.addAll(meta.nodes);
 //            List list = Lists.transform(data, var11 -> data);
-            List<String> data = meta.Meta_Algorithm(fileList, n_walks, n_nodes, length);
+            smallList = meta.Meta_Algorithm(fileList, n_walks, n_nodes, length);
             // fixme : disable total_nodes to test heap
             this.total_nodes.addAll(meta.nodes);
-            // save node
-            String totalNodePath = "data/stock100/totalNode10.txt";
-            saveList(totalNodePath, total_nodes);
 
-            List<List<String>> list = data.stream().map(var11 -> data).collect(Collectors.toList());
-//            word2VecModel = Word2VecModel.trainer().
-//                    setMinVocabFrequency(1).useNumThreads(2).setWindowSize(1).
-//                    type(NeuralNetworkType.CBOW).setLayerSize(10).useHierarchicalSoftmax().
-//                    useNegativeSamples(5).setDownSamplingRate(1.0E-2D).
-//                    setNumIterations(5).setListener((var1, var2) -> System.out.println(String.format("%s is %.2f%% complete", Format.formatEnum(var1), var2 * 100.0D))).train(list);
-
-
-            List<String> temp = new ArrayList<>();
-            Iterator<List<String>> itor = list.iterator();
-            int k = 0;
-            temp = itor.next();
-            int index = 0;
-
-            System.out.println("used "+k);
-            System.out.println("smallList size "+smallList.size());
-
-            for(k = 0;k<useNum;k++){
-                // fixme: sublist 是视图，不能本地化,只能逐个赋值
-                List<String> tempList = new ArrayList<>();
-                for(int t = index;t<index + length;t++){
-                    tempList.add(temp.get(t));
-                }
-                smallList.add(tempList);
-                index += length;
-            }
-
-            //  smallList save in file, same in testFile
-//            String fileSmallListPath = "data/stock100/walkList10.txt";
-//            saveListOfList(fileSmallListPath,smallList);
-
-            Thread.sleep(2000);
             System.out.println("train successfully");
 
         } catch (InterruptedException e) {
@@ -438,7 +403,7 @@ public class SourceTripartiteEmbeddingViaWord2Vec {
         return null;
     }
 
-    public Word2VecModel trainWithLocalWalks(String modelSavePath){
+    public Word2VecModel trainWithLocalWalks(){
         try {
             word2VecModel = Word2VecModel.trainer().
                     setMinVocabFrequency(1).useNumThreads(2).setWindowSize(1).
@@ -447,7 +412,7 @@ public class SourceTripartiteEmbeddingViaWord2Vec {
                     setNumIterations(5).train(smallList);
             Word2VecModelThrift thrift = word2VecModel.toThrift();
             NormalizedWord2VecModel.fromThrift(thrift);
-            saveModel(word2VecModel,modelSavePath);
+            // saveModel(word2VecModel,modelSavePath);
             return word2VecModel;
             // return new ArrayList<Double>(thrift.getVectors());
         } catch (InterruptedException e) {

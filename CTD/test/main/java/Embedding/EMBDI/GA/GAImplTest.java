@@ -4,14 +4,13 @@ package main.java.Embedding.EMBDI.GA;
 import com.medallia.word2vec.Searcher;
 import com.medallia.word2vec.Word2VecModel;
 import main.java.CTD_Algorithm;
+import main.java.Embedding.fastText.LoadModel;
 import org.junit.Test;
 
 import java.io.*;
 import java.time.LocalTime;
 import java.time.format.DateTimeFormatter;
-import java.util.ArrayList;
-import java.util.Collections;
-import java.util.List;
+import java.util.*;
 
 import static java.lang.System.arraycopy;
 import static java.lang.System.exit;
@@ -33,7 +32,7 @@ public class GAImplTest extends GeneticAlgorithm {
     // fixme : change source 数据源
     public int sourceNum = 5;
     // k是质优度的超参
-    public int k = 3;
+    public int k = 7;
 
     public int D1;
     public int D2;
@@ -82,42 +81,6 @@ public class GAImplTest extends GeneticAlgorithm {
 
     public GAImplTest() {
         super(37);
-    }
-
-    public static float Levenshtein(String a, String b) {
-        if (a == null && b == null) {
-            return 1f;
-        }
-        if (a == null || b == null) {
-            return 0F;
-        }
-        //        return 1 - ((float) editDistance / Math.max(a.length(), b.length()));
-        return editDis(a, b);
-    }
-
-    private static int editDis(String a, String b) {
-
-        int aLen = a.length();
-        int bLen = b.length();
-
-        if (aLen == 0) return aLen;
-        if (bLen == 0) return bLen;
-
-        int[][] v = new int[aLen + 1][bLen + 1];
-        for (int i = 0; i <= aLen; ++i) {
-            for (int j = 0; j <= bLen; ++j) {
-                if (i == 0) {
-                    v[i][j] = j;
-                } else if (j == 0) {
-                    v[i][j] = i;
-                } else if (a.charAt(i - 1) == b.charAt(j - 1)) {
-                    v[i][j] = v[i - 1][j - 1];
-                } else {
-                    v[i][j] = 1 + Math.min(v[i - 1][j - 1], Math.min(v[i][j - 1], v[i - 1][j]));
-                }
-            }
-        }
-        return v[aLen][bLen];
     }
 
     public static boolean deleteWithPath(String filePath) {
@@ -279,16 +242,13 @@ public class GAImplTest extends GeneticAlgorithm {
                     TupleDistributeHigh,
                     dropSourceEdge,
                     dropSampleEdge,
-                    rmse,
-                    r2,
-                    fitScore,
-                    extractedCTD_RMSE,
                     isCBOW,
                     dim,
                     windowSize,
                     versionList,
                     1,
-                    1);
+                    1,
+                    fastText);
             // time end
             LocalTime time_after = LocalTime.now();
             t_DAafter = time_after.format(formatter_pre);
@@ -308,14 +268,11 @@ public class GAImplTest extends GeneticAlgorithm {
                 TupleDistributeHigh,
                 dropSourceEdge,
                 dropSampleEdge,
-                rmse,
-                r2,
-                fitScore,
-                extractedCTD_RMSE,
                 isCBOW,
                 dim,
                 windowSize,
-                versionList,0, 1);
+                versionList,0, 1,
+                fastText);
         // time end
         LocalTime time_after = LocalTime.now();
         formatter_pre = DateTimeFormatter.ofPattern("HH:mm:ss");
@@ -462,18 +419,19 @@ public class GAImplTest extends GeneticAlgorithm {
                         }
                         this.B_sum = B_sum;
                         if (String.valueOf((double) Qi * B_sum).equals("NaN") || B_sum == 0.0) {
+                            exit(-50);
                             return 8.0 + CtdService.initFitnessScore;
                         }
 
                         fitScore = Qi * B_sum;
                         return fitScore + CtdService.initFitnessScore;
-
                     } catch (NullPointerException e) {
                         // 被抛弃了，排序很低
                         return 8.0 + CtdService.initFitnessScore;
                     }
                 }
-                return 4 * rmseList.size() + +CtdService.initFitnessScore;
+                exit(-20);
+                return -20;
             }
         }
         return 0.0;
@@ -593,13 +551,12 @@ public class GAImplTest extends GeneticAlgorithm {
                         double precise = 0;
                         int flag = 0;
                         for (String str : calcArray) {
-                            flag = 0;
                             for (String t_str : typeArray) {
                                 // error < 5%
-                                if ((Math.abs(Double.parseDouble(t_str) - Double.parseDouble(str)) < Double.parseDouble(t_str) * 0.05) && flag != 1) {
+                                if ((Math.abs(Double.parseDouble(t_str) - Double.parseDouble(str)) < Double.parseDouble(t_str) * 0.05)) {
                                     precise += 1.0 / calcArray.length;
                                     // 命中了
-                                    flag = 1;
+                                    break;
                                 }
                             }
                         }
@@ -637,7 +594,7 @@ public class GAImplTest extends GeneticAlgorithm {
                         double v1 = Double.parseDouble(str1);
                         double v2 = Double.parseDouble(str2);
                         double cha = Math.abs(v1 - v2);
-                        if (cha > 0.5) {
+                        if (cha > 0.01) {
                             // same
                             error_sample++;
                         }
@@ -650,6 +607,8 @@ public class GAImplTest extends GeneticAlgorithm {
             }
         } catch (NullPointerException e3) {
             int h = i1 + i2;
+            System.out.println("error distance");
+            exit(-3);
         }
 
         error_rate = 1.0 * error_sample / (D1 * D2);
@@ -757,12 +716,13 @@ public class GAImplTest extends GeneticAlgorithm {
     }
 
     @Test
-    public void test() {
+    public void test() throws IOException {
         GAImplTest gaImplTest = new GAImplTest();
         gaImplTest.calculate();
         // 最好的代数
         gaImplTest.getGeneI();
 
     }
+
 
 }

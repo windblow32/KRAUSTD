@@ -31,62 +31,62 @@ public class Chromosome {
 
         // warmStart 消融
         // p1 = 35, length = 6, 100011
-        // monitor : 26 011010
-//        gene[0] = false;
+        // monitor : 63 011010
+//        gene[0] = true;
 //        gene[1] = true;
 //        gene[2] = true;
-//        gene[3] = false;
+//        gene[3] = true;
 //        gene[4] = true;
-//        gene[5] = false;
-//        // p2 = 3, length = 3, 011
-//        gene[6] = false;
-//        gene[7] = true;
+//        gene[5] = true;
+//        // p2 = 5, length = 3, 011
+//        gene[6] = true;
+//        gene[7] = false;
 //        gene[8] = true;
-//        // p3 = 6, length = 3, 110
+//        // p3 = 5, length = 3, 110
 //        // monitor 4 100
 //        gene[9] = true;
 //        gene[10] = false;
-//        gene[11] = false;
-//        // p4 = 7, length = 3, 111
+//        gene[11] = true;
+//        // p4 = 0, length = 3, 111
 //        // 3 011
 //        gene[12] = false;
-//        gene[13] = true;
-//        gene[14] = true;
-//        // p5 = 4, length = 3, 100
+//        gene[13] = false;
+//        gene[14] = false;
+//        // p5 = 5, length = 3, 100
 //        // 7 111
 //        gene[15] = true;
-//        gene[16] = true;
+//        gene[16] = false;
 //        gene[17] = true;
 //        // p6 = 4, length = 3, 100
 //        // 3 011
-//        gene[18] = false;
-//        gene[19] = true;
-//        gene[20] = true;
-//        // p7 = 6, length = 3, 110
+//        gene[18] = true;
+//        gene[19] = false;
+//        gene[20] = false;
+//        // p7 = 4, length = 3, 110
 //        // 5 101
 //        gene[21] = true;
 //        gene[22] = false;
-//        gene[23] = true;
-//        // p8 = 0, length = 1, 0
-//        gene[24] = false;
+//        gene[23] = false;
+//        // p8 = 1, length = 1, 0
+//        gene[24] = true;
 //        // p9 = 1, length = 1, 1
 //        gene[25] = true;
-//        // p10 = 1, length = 1, 1
-//        gene[26] = true;
+//        // p10 = 0, length = 1, 1
+//        gene[26] = false;
 //        // p11 = , length = 7, 1010000
-//        // 157 - 63 = 94 1011110
-//        gene[27] = true;
-//        gene[28] = false;
+//        // 119 - 63 = 56 1011110
+//        gene[27] = false;
+//        gene[28] = true;
 //        gene[29] = true;
 //        gene[30] = true;
-//        gene[31] = true;
-//        gene[32] = true;
+//        gene[31] = false;
+//        gene[32] = false;
 //        gene[33] = false;
-//        // p12 = 2, length = 3, 010
+//        // p12 = 4, length = 3, 010
 //        // 5 101
 //        gene[34] = true;
 //        gene[35] = false;
-//        gene[36] = true;
+//        gene[36] = false;
 
 
     }

@@ -1,10 +1,12 @@
 package main.java;
 
+import com.google.common.collect.ImmutableList;
 import com.medallia.word2vec.Searcher;
 import com.medallia.word2vec.Word2VecModel;
 import main.java.Embedding.EMBDI.GA.GeneticAlgorithm;
 import main.java.Embedding.EMBDI.SourceEmbedding.SourceEmbeddingViaWord2Vec;
 import main.java.Embedding.EMBDI.TripartiteNormalizeDistributeGraph.NormalizeDistributeSourceTripartiteEmbeddingViaWord2Vec;
+import org.apache.http.annotation.Immutable;
 import scala.collection.script.Index;
 
 import java.io.*;
@@ -14,6 +16,7 @@ import java.time.format.DateTimeFormatter;
 import java.util.ArrayList;
 import java.util.Arrays;
 import java.util.List;
+import java.util.Map;
 import java.util.regex.Pattern;
 
 import static java.lang.System.exit;
@@ -117,10 +120,10 @@ public class CTD_Algorithm {
      * @param TupleDistributeHigh 样本正态分布标准差
      * @param dropSourceEdge      是否drop和SOURCE连接的边，取值含义看图构建部分
      * @param dropSampleEdge      是否drop和SAMPLE连接的边
-     * @param rmsePrinter         帮助GA打印rmse
-     * @param r2_squarePrinter    帮助GA打印r2
-     * @param fitScore            打印上次超参的适应度
-     * @param extractedCTD_RMSE   打印上一次抽取数据的rmse
+//     * @param rmsePrinter         帮助GA打印rmse
+//     * @param r2_squarePrinter    帮助GA打印r2
+//     * @param fitScore            打印上次超参的适应度
+//     * @param extractedCTD_RMSE   打印上一次抽取数据的rmse
      * @return weight of source
      */
     public List<Double> update(
@@ -142,16 +145,13 @@ public class CTD_Algorithm {
             int TupleDistributeHigh,
             int dropSourceEdge,
             int dropSampleEdge,
-            double rmsePrinter,
-            double r2_squarePrinter,
-            double fitScore,
-            double extractedCTD_RMSE,
             int isCBOW,
             int dim,
             int windowSize,
             List<Integer> versionList,
             int isDA,
-            int useTriModel
+            int useTriModel,
+            Map<String, float[]> fastText
     ) {
         this.biaozhushu = biaozhushu;
         this.zengqiangshu = zengqiangshu;
@@ -193,6 +193,7 @@ public class CTD_Algorithm {
             str = br.readLine();
             String[] first_line = str.split(",", -1);
             p = first_line.length;
+            D2 = p;
             List<String> temp = new ArrayList<>(Arrays.asList(first_line));
             attributes = new ArrayList<>(temp);
             int row = 0; //记录行数L
@@ -309,7 +310,14 @@ public class CTD_Algorithm {
                             double sum_categorical = 0; //  暂时保存总和
                             // 这里weight的size应该和k相等
                             for (double w2 : weights) {
-                                sum_categorical += w2 * h(parma1, value[num][i][j]);
+                                try{
+                                    sum_categorical += w2 * h(parma1, value[num][i][j]);
+                                }catch (ArrayIndexOutOfBoundsException e4){
+                                    System.out.println(num);
+                                    System.out.println(i);
+                                    System.out.println(j);
+                                    exit(500);
+                                }
                                 num++;
                             }
                             // 更新max
@@ -639,7 +647,7 @@ public class CTD_Algorithm {
         }
         // attention : if only ctd, dont need under
         if (isDA == 0) {
-            initFitnessScore = calcInitFitnessScore(times);
+            initFitnessScore = calcInitFitnessScore(times, fastText);
         }
 
         calcTruth = result;
@@ -1239,7 +1247,7 @@ public class CTD_Algorithm {
         return res;
     }
     // 计算初始适应度，内部包含global embedding生成
-    public double calcInitFitnessScore(int times) {
+    public double calcInitFitnessScore(int times, Map<String, float[]> fastText) {
         times = times - 1;
         Searcher search = TriModel.forSearch();
         String resultFilePath;
@@ -1282,31 +1290,46 @@ public class CTD_Algorithm {
                 // 维护一个文件存储每次增强的数据的sample id，然后遍历
                 for (int a = 0; a < attrKind; a++) {
                     try {
+
                         // 每次读取新单元格，重新初始化
-                        List<List<Double>> listOfSingleWord = new ArrayList<>();
-                        List<Double> s1List = search.getRawVector(data[a]);
+                        List<List<Float>> listOfSingleWord = new ArrayList<>();
                         // calc list
                         if (data[a].contains(" ")) {
                             String[] singleWordArray = data[a].split(" ");
                             // add each single word split by " "
                             for (int s = 0; s < singleWordArray.length; s++) {
-                                listOfSingleWord.add(search.getRawVector(singleWordArray[s]));
+                                listOfSingleWord.add(double2float(search.getRawVector(singleWordArray[s])));
                             }
                         } else {
-                            listOfSingleWord.add(s1List);
+                            listOfSingleWord.add(double2float(search.getRawVector(data[a])));
                         }
                         // todo : change global embedding
                         // calc pooling embedding并且拼接
-                        List<Double> globalEmbedding = new ArrayList<>();
-                        globalEmbedding.addAll(s1List);
+                        List<Float> globalEmbedding = new ArrayList<>();
                         globalEmbedding.addAll(meanPooling(listOfSingleWord));
+
+                        // attention : add fastText
+                        List<List<Float>> fastGe = new ArrayList<>();
+                        if (data[a].contains(" ")) {
+                            String[] singleWordArray = data[a].split(" ");
+                            // add each single word split by " "
+                            for (String value : singleWordArray) {
+                                fastGe.add(array2list(fastText.get(value)));
+                            }
+                            globalEmbedding.addAll(meanPooling(fastGe));
+                        } else {
+                            globalEmbedding.addAll(array2list(fastText.get(data[a])));
+                        }
+
+
                         // truth pooling
-                        List<Double> s2List = search.getRawVector(dataT[a]);
-                        List<List<Double>> listOfTruth = new ArrayList<>();
-                        listOfTruth.add(s2List);
-                        List<Double> truthEmbedding = new ArrayList<>();
-                        truthEmbedding.addAll(s2List);
-                        truthEmbedding.addAll(meanPooling(listOfTruth));
+                        List<Float> truthEmbedding = new ArrayList<>();
+                        truthEmbedding.addAll(double2float(search.getRawVector(dataT[a])));
+
+                        // attention: fastText
+                        truthEmbedding.addAll(array2list(fastText.get(dataT[a])));
+                        // end of embdi
+
                         // end pooling and global embedding
                         // 欧氏距离
                         double totalSingleWord = 0;
@@ -1393,29 +1416,34 @@ public class CTD_Algorithm {
                     for (int a = 0; a < attrKind; a++) {
                         try {
                             // 每次读取新单元格，重新初始化
-                            List<List<Double>> listOfSingleWord = new ArrayList<>();
-                            List<Double> s1List = search.getRawVector(data[a]);
+                            List<List<Float>> listOfSingleWord = new ArrayList<>();
+                            List<Float> s1List = double2float(search.getRawVector(data[a]));
+                            // calc pooling embedding并且拼接
+                            List<Float> globalEmbedding = new ArrayList<>();
                             // calc list
+                            // attention : fast
+                            List<List<Float>> fastGe = new ArrayList<>();
+
                             if (data[a].contains(" ")) {
                                 String[] singleWordArray = data[a].split(" ");
                                 // add each single word split by " "
                                 for (int s = 0; s < singleWordArray.length; s++) {
-                                    listOfSingleWord.add(search.getRawVector(singleWordArray[s]));
+                                    listOfSingleWord.add(double2float(search.getRawVector(singleWordArray[s])));
+                                    fastGe.add(array2list(fastText.get(singleWordArray[s])));
                                 }
+                                globalEmbedding.addAll(meanPooling(listOfSingleWord));
+                                globalEmbedding.addAll(meanPooling(fastGe));
                             } else {
-                                listOfSingleWord.add(s1List);
+                                globalEmbedding.addAll(s1List);
+                                globalEmbedding.addAll(array2list(fastText.get(data[a])));
                             }
-                            // calc pooling embedding并且拼接
-                            List<Double> globalEmbedding = new ArrayList<>();
-                            globalEmbedding.addAll(s1List);
-                            globalEmbedding.addAll(meanPooling(listOfSingleWord));
+
+
                             // truth pooling
-                            List<Double> s2List = search.getRawVector(dataDA[a]);
-                            List<List<Double>> listOfDA = new ArrayList<>();
-                            listOfDA.add(s2List);
-                            List<Double> DAEmbedding = new ArrayList<>();
+                            List<Float> s2List = double2float(search.getRawVector(dataDA[a]));;
+                            List<Float> DAEmbedding = new ArrayList<>();
                             DAEmbedding.addAll(s2List);
-                            DAEmbedding.addAll(meanPooling(listOfDA));
+                            DAEmbedding.addAll(array2list(fastText.get(dataDA[a])));
                             // end pooling and global embedding
                             // 欧氏距离
                             double totalSingleWord = 0;
@@ -1438,7 +1466,7 @@ public class CTD_Algorithm {
             }
             return totalDADistance + totalGTDistance;
         } else {
-            return 0;
+            return totalGTDistance;
         }
 
     }
@@ -1448,29 +1476,74 @@ public class CTD_Algorithm {
      *
      * @param listOfSingleWord list of embedding to mean pooling
      */
-    private List<Double> meanPooling(List<List<Double>> listOfSingleWord) {
-        List<Double> result = new ArrayList<>();
+    private List<Float> meanPooling(List<List<Float>> listOfSingleWord) {
+        List<Float> result = new ArrayList<>();
         int size = listOfSingleWord.size();
+        if(size==1){
+            return listOfSingleWord.get(0);
+        }
+        if(size==2){
+            List<Float> list1 = listOfSingleWord.get(0);
+            List<Float> list2 = listOfSingleWord.get(1);
+            List<Float> res = new ArrayList<>();
+            for(int i = 0;i<list1.size();i++){
+                res.add(0.5f*(list1.get(i) + list2.get(i)));
+            }
+            return res;
+        }
         int poolWindow = 2;
         int currentIndex = 0;
-        while (currentIndex + poolWindow < size) {
-            double pool = 0;
-            for (int l = 0; l < size; l++) {
-                // 对于每个embedding
-                List<Double> currentList = listOfSingleWord.get(l);
-                for (int i = 0; i < poolWindow; i++) {
-                    // 每次取五个
-                    pool += currentList.get(currentIndex + i);
+        try{
+            int vectorSize = listOfSingleWord.get(0).size();
+            int resultSize = vectorSize / poolWindow;
+
+            List<Float> resultVector = new ArrayList<>();
+            for (int i = 0; i < resultSize; i++) {
+                float sum = 0.0f;
+                for (List<Float> vector : listOfSingleWord) {
+                    for (int j = i * poolWindow; j < (i + 1) * poolWindow; j++) {
+                        sum += vector.get(j);
+                    }
                 }
+                float average = sum / (listOfSingleWord.size() * poolWindow);
+                resultVector.add(average);
             }
-            result.add(pool / (poolWindow * size));
-            currentIndex++;
+
+            return resultVector;
         }
+        catch(IndexOutOfBoundsException e32){
+            exit(-32);
+        }
+
         return result;
     }
 
     public double getRmseForGA() {
         return rmseForGA;
+    }
+
+    public List<Float> array2list(float[] array){
+        int embdi_length = 300;
+        List<Float> res = new ArrayList<>();
+        try{
+            for(float n: array){
+                res.add(n);
+            }
+            return res;
+        }catch (NullPointerException e){
+            for(int i = 0;i<embdi_length;i++){
+                res.add(+0.0f);
+            }
+            return res;
+        }
+    }
+
+    private List<Float> double2float(ImmutableList<Double> temp){
+        List<Float> newList = new ArrayList<>();
+        for(double n : temp){
+            newList.add((float)n);
+        }
+        return newList;
     }
 
 }

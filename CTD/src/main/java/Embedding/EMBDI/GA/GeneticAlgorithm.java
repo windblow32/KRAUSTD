@@ -3,8 +3,15 @@
  */
 package main.java.Embedding.EMBDI.GA;
 
+import main.java.Embedding.fastText.LoadModel;
+
+import java.io.BufferedReader;
+import java.io.FileReader;
+import java.io.IOException;
 import java.util.ArrayList;
+import java.util.HashMap;
 import java.util.List;
+import java.util.Map;
 
 
 public abstract class GeneticAlgorithm {
@@ -29,12 +36,38 @@ public abstract class GeneticAlgorithm {
     // 存储历代rmse
     public List<Double> judgeFuncList = new ArrayList<>();
     public List<Integer> versionList = new ArrayList<>();
+    public Map<String, float[]> fastText = new HashMap<>();
+    public void initFastText(){
+        try {
+            String embeddingFile = "model/Tri/CTD/monitor/1.txt";
+            Map<String, float[]> wordEmbeddings = new HashMap<>();
+
+            BufferedReader reader = new BufferedReader(new FileReader(embeddingFile));
+            String line;
+            while ((line = reader.readLine()) != null) {
+                String[] parts = line.split("\\s+");
+                String word = parts[0];
+                float[] embedding = new float[parts.length - 1];
+                int length = parts.length;
+                for (int i = 1; i < length; i++) {
+                    embedding[i - 1] = Float.parseFloat(parts[i]);
+                }
+                wordEmbeddings.put(word, embedding);
+            }
+            reader.close();
+            fastText = wordEmbeddings;
+        } catch (IOException e) {
+            e.printStackTrace();
+            e.printStackTrace();
+        }
+    }
 
     public GeneticAlgorithm(int geneSize) {
         this.geneSize = geneSize;
     }
 
     public void calculate() {
+        initFastText();
         //初始化种群
         generation = 1;
         init();
@@ -172,6 +205,7 @@ public abstract class GeneticAlgorithm {
         }
         String x = changeX(chro);
         double y = calculateY(chro);
+        System.out.println("BQ : "+y);
         chro.setScore(y);
 
     }

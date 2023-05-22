@@ -1,5 +1,6 @@
 package main.java.Embedding.EMBDI.GA.weather;
 
+import com.google.common.collect.ImmutableList;
 import com.medallia.word2vec.Searcher;
 import com.medallia.word2vec.Word2VecModel;
 import main.java.DART;
@@ -16,6 +17,7 @@ import java.util.Collections;
 import java.util.List;
 
 import static java.lang.System.arraycopy;
+import static java.lang.System.exit;
 
 /**
  * @Description:
@@ -319,14 +321,11 @@ public class GA_dart extends GeneticAlgorithm {
             LocalTime time_after = LocalTime.now();
             t_DAafter = time_after.format(formatter_pre);
         }
-        if (version == 2) {
-            int a = 0;
-        }
-
-
         String t_pre = null;
         String t_after = null;
-
+        LocalTime time_pre = LocalTime.now();
+        DateTimeFormatter formatter_pre = DateTimeFormatter.ofPattern("HH:mm:ss");
+        t_pre = time_pre.format(formatter_pre);
         isDA = 0;
         // calc tempDA
         if (existDA == 1) {
@@ -349,9 +348,7 @@ public class GA_dart extends GeneticAlgorithm {
                 isCBOW,
                 dim,
                 windowSize, truthFileName);
-        LocalTime time_pre = LocalTime.now();
-        DateTimeFormatter formatter_pre = DateTimeFormatter.ofPattern("HH:mm:ss");
-        t_pre = time_pre.format(formatter_pre);
+
         Process proc;
         try {
             proc = Runtime.getRuntime().exec("python E:\\GitHub\\KRAUSTD\\dart\\connect.py");// 执行py文件
@@ -716,7 +713,6 @@ public class GA_dart extends GeneticAlgorithm {
         } catch (IOException e) {
             e.printStackTrace();
         } catch (ArrayIndexOutOfBoundsException e2) {
-            int a = 2;
             System.out.println("ArrayIndexOutOfBoundsException");
             System.out.println("wrong file path : " + path);
             System.out.println("data : " + data);
@@ -724,7 +720,6 @@ public class GA_dart extends GeneticAlgorithm {
             System.exit(-1);
         }
         return calcTruth;
-
     }
 
     public String[][] readGoldStandard(int D1, int D2) {
@@ -895,39 +890,23 @@ public class GA_dart extends GeneticAlgorithm {
 
     }
 
-    // 计算初始适应度，内部包含global embedding生成
     public double calcInitFitnessScore() {
+        int times = version;
         Searcher search = DARTModel.forSearch();
         String resultFilePath;
         if (isDA == 0) {
 //            resultFilePath = "data/ctd/monitor/result/result_" + version + ".csv";
-            resultFilePath = "E:\\GitHub\\KRAUSTD\\dart\\" + truthFileName + "_truth.csv";
+            resultFilePath = "E:\\GitHub\\KRAUSTD\\dart\\" + times + "_truth.csv";
 
         } else {
 //            resultFilePath = "data/ctd/monitor/result/DAresult/result_" + "DA" + ".csv";
             resultFilePath = "E:\\GitHub\\KRAUSTD\\dart\\DA" + 1 + "_truth.csv";
         }
         String truthFilePath;
-        if (isDA == 0) {
-            // ctd
-            // truthFilePath = "data/stock100/100truth.csv";
-            // monitor
-//            truthFilePath = "data/dart/monitor/monitor_truth.csv";
-            truthFilePath = dataPath + "/threetruth.csv";
-
-        } else {
-            // 无法到达
-            // 专门提取da数据写成truth file
-            // ctd
-            // truthFilePath = "data/stock100/DATruth/trueForDA.csv";
-            truthFilePath = "data/ctd/monitor/monitor_truth_da.CSV";
-        }
-
-        // result是python给的
+        truthFilePath = dataPath + "/threetruth.csv";
         // find embedding
         File resultFile = new File(resultFilePath);
         File truthFile = new File(truthFilePath);
-        // 标注距离，应该比较threetruth，不是allTruth
         // calcResult and golden standard
         double totalGTDistance = 0;
         try {
@@ -941,11 +920,12 @@ public class GA_dart extends GeneticAlgorithm {
             BufferedReader brTruth = new BufferedReader(frTruth);
             String strT;
             String[] dataT;
-            // 读走属性行,result 没有属性行
-            // brResult.readLine();
+            // 读走属性行
+            brResult.readLine();
             brTruth.readLine();
+            // finished : D2 attr
             int attrKind = D2;
-            // 限制只读取前n行,前n是标注的元组，如何保证result的前n行也是标注的
+            // finished : 限制只读取前biaozhushu行
             int usedLine = 0;
             while ((str = brResult.readLine()) != null && (strT = brTruth.readLine()) != null && usedLine < biaozhushu) {
                 data = str.split(",", -1);
@@ -954,47 +934,48 @@ public class GA_dart extends GeneticAlgorithm {
                     continue;
                 }
                 // 按照da file对比
-
+                // 维护一个文件存储每次增强的数据的sample id，然后遍历
                 for (int a = 0; a < attrKind; a++) {
                     try {
+
                         // 每次读取新单元格，重新初始化
-                        List<List<Double>> listOfSingleWord = new ArrayList<>();
-                        List<Double> s1List = search.getRawVector(data[a]);
+                        List<List<Float>> listOfSingleWord = new ArrayList<>();
                         // calc list
                         if (data[a].contains(" ")) {
                             String[] singleWordArray = data[a].split(" ");
                             // add each single word split by " "
-                            for (String value : singleWordArray) {
-                                listOfSingleWord.add(search.getRawVector(value));
+                            for (int s = 0; s < singleWordArray.length; s++) {
+                                listOfSingleWord.add(double2float(search.getRawVector(singleWordArray[s])));
                             }
                         } else {
-                            listOfSingleWord.add(s1List);
+                            listOfSingleWord.add(double2float(search.getRawVector(data[a])));
                         }
+                        // todo : change global embedding
                         // calc pooling embedding并且拼接
-                        List<Double> globalEmbedding = new ArrayList<>();
-                        globalEmbedding.addAll(s1List);
+                        List<Float> globalEmbedding = new ArrayList<>();
                         globalEmbedding.addAll(meanPooling(listOfSingleWord));
+
                         // truth pooling
-                        List<Double> s2List = search.getRawVector(dataT[a]);
-                        List<List<Double>> listOfTruth = new ArrayList<>();
-                        listOfTruth.add(s2List);
-                        List<Double> truthEmbedding = new ArrayList<>();
-                        truthEmbedding.addAll(s2List);
-                        truthEmbedding.addAll(meanPooling(listOfTruth));
+                        List<Float> truthEmbedding = new ArrayList<>();
+                        truthEmbedding.addAll(double2float(search.getRawVector(dataT[a])));
+
+                        // end of embdi
+
                         // end pooling and global embedding
                         // 欧氏距离
                         double totalSingleWord = 0;
                         int globalSize = globalEmbedding.size();
-                        for (int i = 0; i < globalSize - 1; i++) {
-                            try {
+                        for (int i = 0; i < globalSize-1; i++) {
+                            try{
                                 totalSingleWord += Math.pow(Math.abs(globalEmbedding.get(i) - truthEmbedding.get(i)), 2);
-                            } catch (IndexOutOfBoundsException ignored) {
-                            }
+                            }catch (IndexOutOfBoundsException ignored){}
                         }
                         totalSingleWord = Math.sqrt(totalSingleWord);
                         totalGTDistance += totalSingleWord;
                     } catch (Searcher.UnknownWordException e) {
-                        totalGTDistance += 1;
+                        totalGTDistance += 0;
+                    }catch (ArrayIndexOutOfBoundsException e1){
+                        int sss = 1;
                     }
                 }
                 usedLine++;
@@ -1004,10 +985,11 @@ public class GA_dart extends GeneticAlgorithm {
         } catch (IOException e) {
             e.printStackTrace();
         }
-        double totalDADistance = 0;
-        if (isDA == 0 && existDA == 1) {
+
+        if (isDA == 0&&existDA==1) {
             // 数据增强
-            String DAFilePath = "E:\\GitHub\\KRAUSTD\\dart\\DA" + 1 + "_truth.csv";
+            double totalDADistance = 0;
+            String DAFilePath = dataPath + "/result/DAresult/result_" + 1 + "_" + times + ".csv";
             // find embedding
             File DAFile = new File(DAFilePath);
             try {
@@ -1022,73 +1004,84 @@ public class GA_dart extends GeneticAlgorithm {
                 String strDA;
                 String[] dataDA;
 
-                // daFile读走前n=56+1行,剩下全是da
-                int passLines = biaozhushu + 1;
+                // 读走属性行
+                brResult.readLine();
+                brDA.readLine();
+                // daFile读走前biaozhushu行,剩下是da
+                int passLines = biaozhushu;
                 for (int line = 0; line < passLines; line++) {
                     brDA.readLine();
                 }
-                int attrKind = 5;
-
+                // 6 attr
+                int attrKind = D2;
+                // 5
                 int usedLine = 0;
-                while (usedLine < biaozhushu && (strDA = brDA.readLine()) != null) {
+                while ((strDA = brDA.readLine()) != null) {
 
                     dataDA = strDA.split(",", -1);
-                    int flag = 0;
+                    double e1 = 0;
+                    double e2 = 0;
+                    int numFlag = 0;
                     do {
-                        // 遍历result，定位到1388
                         str = brResult.readLine();
                         data = str.split(",", -1);
-                        flag = 0;
-                        try {
-                            if (Math.abs(Double.parseDouble(data[0]) - Double.parseDouble(dataDA[0])) > 0.5) {
-                                flag = 1;
+
+                        try{
+                            e1 = Double.parseDouble(data[0]);
+                            e2 = Double.parseDouble(dataDA[0]);
+                            if(Math.abs(e1-e2) > 0.5){
+                                numFlag = 1;
                             }
-                        } catch (NumberFormatException e) {
-                            if (!data[0].equals(dataDA[0])) {
-                                flag = 1;
+                        }catch(NumberFormatException e58){
+                            // string类型，不能被解析
+                            if(data[0].equals(dataDA[0])){
+                                numFlag = 1;
                             }
                         }
-                    } while (flag == 1);
+                    } while (numFlag == 0);
+
+
                     if (!daTupleList.contains(data[0])) {
                         continue;
                     }
                     for (int a = 0; a < attrKind; a++) {
                         try {
                             // 每次读取新单元格，重新初始化
-                            List<List<Double>> listOfSingleWord = new ArrayList<>();
-                            List<Double> s1List = search.getRawVector(data[a]);
+                            List<List<Float>> listOfSingleWord = new ArrayList<>();
+                            List<Float> s1List = double2float(search.getRawVector(data[a]));
+                            // calc pooling embedding并且拼接
+                            List<Float> globalEmbedding = new ArrayList<>();
                             // calc list
+
                             if (data[a].contains(" ")) {
                                 String[] singleWordArray = data[a].split(" ");
                                 // add each single word split by " "
-                                for (String value : singleWordArray) {
-                                    listOfSingleWord.add(search.getRawVector(value));
+                                for (int s = 0; s < singleWordArray.length; s++) {
+                                    listOfSingleWord.add(double2float(search.getRawVector(singleWordArray[s])));
                                 }
+                                globalEmbedding.addAll(meanPooling(listOfSingleWord));
                             } else {
-                                listOfSingleWord.add(s1List);
+                                globalEmbedding.addAll(s1List);
                             }
-                            // calc pooling embedding并且拼接
-                            List<Double> globalEmbedding = new ArrayList<>();
-                            globalEmbedding.addAll(s1List);
-                            globalEmbedding.addAll(meanPooling(listOfSingleWord));
+
+
                             // truth pooling
-                            List<Double> s2List = search.getRawVector(dataDA[a]);
-                            List<List<Double>> listOfDA = new ArrayList<>();
-                            listOfDA.add(s2List);
-                            List<Double> DAEmbedding = new ArrayList<>();
+                            List<Float> s2List = double2float(search.getRawVector(dataDA[a]));;
+                            List<Float> DAEmbedding = new ArrayList<>();
                             DAEmbedding.addAll(s2List);
-                            DAEmbedding.addAll(meanPooling(listOfDA));
                             // end pooling and global embedding
                             // 欧氏距离
                             double totalSingleWord = 0;
                             int globalSize = globalEmbedding.size();
-                            for (int i = 0; i < globalSize - 1; i++) {
-                                totalSingleWord += Math.pow(Math.abs(globalEmbedding.get(i) - DAEmbedding.get(i)), 2);
+                            for (int i = 0; i < globalSize-1; i++) {
+                                try{
+                                    totalSingleWord += Math.pow(Math.abs(globalEmbedding.get(i) - DAEmbedding.get(i)), 2);
+                                }catch (IndexOutOfBoundsException ignored){}
                             }
                             totalSingleWord = Math.sqrt(totalSingleWord);
                             totalDADistance += totalSingleWord;
                         } catch (Searcher.UnknownWordException e) {
-                            totalDADistance += 1;
+                            totalDADistance += 0;
                         }
                     }
                     usedLine++;
@@ -1097,10 +1090,8 @@ public class GA_dart extends GeneticAlgorithm {
                 e.printStackTrace();
             }
             return totalDADistance + totalGTDistance;
-        } else if (isDA == 0 && existDA == 0) {
-            return totalGTDistance;
         } else {
-            return 0;
+            return totalGTDistance;
         }
 
     }
@@ -1110,23 +1101,45 @@ public class GA_dart extends GeneticAlgorithm {
      *
      * @param listOfSingleWord list of embedding to mean pooling
      */
-    private List<Double> meanPooling(List<List<Double>> listOfSingleWord) {
-        List<Double> result = new ArrayList<>();
+    private List<Float> meanPooling(List<List<Float>> listOfSingleWord) {
+        List<Float> result = new ArrayList<>();
         int size = listOfSingleWord.size();
+        if(size==1){
+            return listOfSingleWord.get(0);
+        }
+        if(size==2){
+            List<Float> list1 = listOfSingleWord.get(0);
+            List<Float> list2 = listOfSingleWord.get(1);
+            List<Float> res = new ArrayList<>();
+            for(int i = 0;i<list1.size();i++){
+                res.add(0.5f*(list1.get(i) + list2.get(i)));
+            }
+            return res;
+        }
         int poolWindow = 2;
         int currentIndex = 0;
-        while (currentIndex + poolWindow < size) {
-            double pool = 0;
-            for (List<Double> currentList : listOfSingleWord) {
-                // 对于每个embedding
-                for (int i = 0; i < poolWindow; i++) {
-                    // 每次取五个
-                    pool += currentList.get(currentIndex + i);
+        try{
+            int vectorSize = listOfSingleWord.get(0).size();
+            int resultSize = vectorSize / poolWindow;
+
+            List<Float> resultVector = new ArrayList<>();
+            for (int i = 0; i < resultSize; i++) {
+                float sum = 0.0f;
+                for (List<Float> vector : listOfSingleWord) {
+                    for (int j = i * poolWindow; j < (i + 1) * poolWindow; j++) {
+                        sum += vector.get(j);
+                    }
                 }
+                float average = sum / (listOfSingleWord.size() * poolWindow);
+                resultVector.add(average);
             }
-            result.add(pool / (poolWindow * size));
-            currentIndex++;
+
+            return resultVector;
         }
+        catch(IndexOutOfBoundsException e32){
+            exit(-32);
+        }
+
         return result;
     }
     @Deprecated
@@ -1187,6 +1200,29 @@ public class GA_dart extends GeneticAlgorithm {
                 e.printStackTrace();
             }
         }
+    }
+    public List<Float> array2list(float[] array){
+        int embdi_length = 300;
+        List<Float> res = new ArrayList<>();
+        try{
+            for(float n: array){
+                res.add(n);
+            }
+            return res;
+        }catch (NullPointerException e){
+            for(int i = 0;i<embdi_length;i++){
+                res.add(+0.0f);
+            }
+            return res;
+        }
+    }
+
+    private List<Float> double2float(ImmutableList<Double> temp){
+        List<Float> newList = new ArrayList<>();
+        for(double n : temp){
+            newList.add((float)n);
+        }
+        return newList;
     }
 
 

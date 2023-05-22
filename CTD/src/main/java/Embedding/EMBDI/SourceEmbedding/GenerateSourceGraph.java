@@ -197,19 +197,19 @@ public class GenerateSourceGraph implements Serializable{
 
         // rename path use dataset name and number of sources
         // fixme : CTD中增加version字段
-        String graphPath = "data/stock100/weightCalcByVex/graph/55SourceStockGraphMin.txt";
-        File f = new File(graphPath);
-        try {
-            f.createNewFile();
-            FileOutputStream outputStream = new FileOutputStream(f);
-            ObjectOutputStream objectOutputStream = new ObjectOutputStream(outputStream);
-            objectOutputStream.writeObject(sourceGraph);
-            outputStream.close();
-            System.out.println("Graph is saved");
-        } catch (IOException e) {
-            System.out.println("graph saving encounters error");
-            e.printStackTrace();
-        }
+//        String graphPath = "data/stock100/weightCalcByVex/graph/55SourceStockGraphMin.txt";
+//        File f = new File(graphPath);
+//        try {
+//            f.createNewFile();
+//            FileOutputStream outputStream = new FileOutputStream(f);
+//            ObjectOutputStream objectOutputStream = new ObjectOutputStream(outputStream);
+//            objectOutputStream.writeObject(sourceGraph);
+//            outputStream.close();
+//            System.out.println("Graph is saved");
+//        } catch (IOException e) {
+//            System.out.println("graph saving encounters error");
+//            e.printStackTrace();
+//        }
         return sourceGraph;
     }
 

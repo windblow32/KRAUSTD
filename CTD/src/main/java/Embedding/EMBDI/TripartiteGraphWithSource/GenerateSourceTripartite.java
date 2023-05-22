@@ -174,19 +174,19 @@ public class GenerateSourceTripartite implements Serializable{
         // fixme clear
 
         // rename path use dataset name and number of sources
-        String graphPath = "data/stock100/graph/55SourceStockGraph.txt";
-        File f = new File(graphPath);
-        try {
-            f.createNewFile();
-            FileOutputStream outputStream = new FileOutputStream(f);
-            ObjectOutputStream objectOutputStream = new ObjectOutputStream(outputStream);
-            objectOutputStream.writeObject(sourceGraph);
-            outputStream.close();
-            System.out.println("Graph is saved");
-        } catch (IOException e) {
-            System.out.println("graph saving encounters error");
-            e.printStackTrace();
-        }
+//        String graphPath = "data/stock100/graph/55SourceStockGraph.txt";
+//        File f = new File(graphPath);
+//        try {
+//            f.createNewFile();
+//            FileOutputStream outputStream = new FileOutputStream(f);
+//            ObjectOutputStream objectOutputStream = new ObjectOutputStream(outputStream);
+//            objectOutputStream.writeObject(sourceGraph);
+//            outputStream.close();
+//            System.out.println("Graph is saved");
+//        } catch (IOException e) {
+//            System.out.println("graph saving encounters error");
+//            e.printStackTrace();
+//        }
         return sourceGraph;
     }
 
