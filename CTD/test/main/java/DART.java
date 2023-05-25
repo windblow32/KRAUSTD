@@ -378,11 +378,7 @@ public class DART {
         }
         // set output file path
         File f;
-        if(dataPath.equals("data/monitor0707")){
-            f = new File("log/Tri/DART/monitor/DART_connection.txt");
-        }else {
-            f = new File("log/Tri/DART/camera/DART_connection.txt");
-        }
+        f = new File("E:\\GitHub\\KRAUSTD\\CTD\\log\\Tri\\DART\\DART_connection.txt");
         try {
             f.createNewFile();
             FileOutputStream fos = new FileOutputStream(f);

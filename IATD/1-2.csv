@@ -1,93 +1,93 @@
 22_2,LCD Monitor
 25_2,LCD Monitor
 27_2,LCD Monitor
-28_2,LED
+28_2,TFT LCD 16.7 Million Colour
 32_2,LED
-33_2,TN+Film
+33_2,LCD Monitor
 39_2,Brilliance LCD Monitor
 40_2,TFT/LCD
 41_2,TFT LCD 16.7 Million Colour
-62_2,IPS
-88_2,TN+Film
-103_2,LED Backlight 16.7 Million Colour
-128_2,LCD Monitor
-132_2,IPS
-133_2,IGZO
-168_2,LCD
+62_2,IPS TFT LCD 16.7 Million Colour
+88_2,TFT Brilliance LCD 16.7 million Colour
+103_2,LED
+128_2,IPS
+132_2,LCD Monitor
+133_2,Widescreen 1.07 Colour
+168_2,Widescreen 16.7 Million Colour
 171_2,LCD Monitor
 186_2,LED 16.7 million Colour
 190_2,Widescreen IPS 16.7 Million Colour
 193_2,LED Backlight LCD IPS Panel 16.7 million Colour
 22_1,LCD
-25_1,LCD
+25_1,LCD Monitor
 27_1,LED
-28_1,LCD Monitor
-32_1,LCD Monitor
+28_1,LED
+32_1,LED
 33_1,LCD Monitor
-39_1,LCD Monitor
-40_1,LCD/TFT
-41_1,LCD/TFT
-62_1,LCD Monitor
+39_1,LED
+40_1,LCD Monitor
+41_1,LCD Monitor
+62_1,IPS
 88_1,LCD Monitor
-103_1,LCD Monitor
-128_1,LCD Monitor
+103_1,LED
+128_1,IPS
 132_1,LCD Monitor
 133_1,IGZO
 168_1,LCD Monitor
-171_1,LCD Monitor
+171_1,16.7 million Colours
 186_1,TN+Film
 190_1,LCD Monitor
-193_1,IPS
-22_3,TFT LCD 16.7 Million Colour
+193_1,LCD Monitor
+22_3,LCD
 25_3,LCD
 27_3,TFT Brilliance LCD 16.7 Million
-28_3,LED
+28_3,TFT LCD 16.9 Million Colour
 32_3,LCD Monitor
-33_3,LCD Monitor
+33_3,TN+Film
 39_3,Brilliance LCD Monitor
 40_3,TFT LCD Million Colour
-41_3,TFT/LCD
-62_3,IPS TFT LCD 16.7 Million Colour
+41_3,TFT LCD 17 Million Colour
+62_3,IPS
 88_3,TN+Film
 103_3,LED Backlight 16.7 Million Colour
 128_3,IPS
 132_3,IPS
-133_3,Widescreen 1.07 Colour
-168_3,Widescreen 16.7 Million Colour
-171_3,LCD Monitor
+133_3,IGZO
+168_3,LCD
+171_3,16.7 million Colours
 186_3,TN+Films
-190_3,IPS
+190_3,Widescreen IPS 16.7 Million Colour
 193_3,IP
 22_4,TFT/LCD 16.7 Million Colour
 25_4,LCD
-27_4,LEDs
+27_4,TFT Brilliance LCD 16.7 Million Colour
 28_4,TFT LCD 16.7 Million Colour
 32_4,LCD Monitor
-33_4,LCD Monitor
-39_4,Brilliance LCD Monitor
-40_4,TFT LCD Million Colour
-41_4,TFT/LCD
-62_4,IPS
+33_4,Film
+39_4,LED
+40_4,TFT/LCD
+41_4,TFT LCD 16.7 Billion Colour
+62_4,IPS TFT LCD 16.7 Million Colour
 88_4,TN+Film
-103_4,LED
+103_4,LED Backlight 16.7 Million Colours
 128_4,IP
 132_4,LCD Monitor
-133_4,Widescreen 1.07 Colour
+133_4,IGZO
 168_4,LCD
-171_4,16.7 Billion Colours
-186_4,LED 16.7 million Colour
+171_4,LCD Monitor
+186_4,TN+Film
 190_4,Widescreen IPS 16.7 Million Colour
-193_4,IP
-22_5,LC
-25_5,LCD Monitor
+193_4,LED Backlight LCD IPS Panel 16.7 million Colour
+22_5,TFT LCD 16.7 Million Colour
+25_5,LED
 27_5,LCD Monitor
-28_5,LED
-32_5,LED
-33_5,TN+
+28_5,TFT LCD 16.7 Million Colour
+32_5,LCD Monitor
+33_5,LCD Monitor
 39_5,LEDS
 40_5,TFT LCD Million Colour
 41_5,TFT LCD 16.7 Million Colour
-62_5,IPS TFT LCD 16.7 Million Colour
+62_5,IPS
 88_5,TN+Film
 103_5,LED Backlight 16.7 Million Colour
 128_5,IPS
@@ -96,5 +96,5 @@
 168_5,LCD
 171_5,16.7 million Colours
 186_5,LED 136.7 million Colour
-190_5,IPS
-193_5,IP
+190_5,Widescreen IPS 16.7 Million Colour
+193_5,LED Backlight LCD IPS Panel 16.7 million Colour

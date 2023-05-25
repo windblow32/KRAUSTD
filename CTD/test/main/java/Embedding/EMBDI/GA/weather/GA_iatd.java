@@ -277,7 +277,9 @@ public class GA_iatd extends GeneticAlgorithm {
             iatd.sourceNum = sourceNum;
             iatd.tupleNum = D1;
             iatd.dataPath = dataPath;
-            IATDModel = iatd.iatdUseDA(length, 20000, AttrDistributeLow,
+            IATDModel = iatd.iatdUseDA(length,
+                    20000,
+                    AttrDistributeLow,
                     AttrDistributeHigh,
                     ValueDistributeLow,
                     ValueDistributeHigh,
@@ -287,7 +289,8 @@ public class GA_iatd extends GeneticAlgorithm {
                     dropSampleEdge,
                     isCBOW,
                     dim,
-                    windowSize, truthFileName, dataPath);
+                    windowSize, truthFileName,
+                    dataPath);
             LocalTime time_pre = LocalTime.now();
             DateTimeFormatter formatter_pre = DateTimeFormatter.ofPattern("HH:mm:ss");
             t_DApre = time_pre.format(formatter_pre);
@@ -323,7 +326,6 @@ public class GA_iatd extends GeneticAlgorithm {
         if (existDA == 1) {
             getTempDA();
         }
-        fileList = initialFileList();
         calcTruthPath = "E:\\GitHub\\KRAUSTD\\IATD\\" + truthFileName + "_truth.csv";
         IATD iatd = new IATD();
         iatd.sourceNum = sourceNum;
@@ -877,7 +879,6 @@ public class GA_iatd extends GeneticAlgorithm {
                         }
                         // calc pooling embedding并且拼接
                         List<Double> globalEmbedding = new ArrayList<>();
-                        globalEmbedding.addAll(s1List);
                         globalEmbedding.addAll(meanPooling(listOfSingleWord));
                         // truth pooling
                         int csy = 1;
@@ -885,7 +886,6 @@ public class GA_iatd extends GeneticAlgorithm {
                         List<List<Double>> listOfTruth = new ArrayList<>();
                         listOfTruth.add(s2List);
                         List<Double> truthEmbedding = new ArrayList<>();
-                        truthEmbedding.addAll(s2List);
                         truthEmbedding.addAll(meanPooling(listOfTruth));
                         // end pooling and global embedding
                         // 欧氏距离
@@ -1038,21 +1038,42 @@ public class GA_iatd extends GeneticAlgorithm {
     private List<Double> meanPooling(List<List<Double>> listOfSingleWord) {
         List<Double> result = new ArrayList<>();
         int size = listOfSingleWord.size();
+        if(size==1){
+            return listOfSingleWord.get(0);
+        }
+        if(size==2){
+            List<Double> list1 = listOfSingleWord.get(0);
+            List<Double> list2 = listOfSingleWord.get(1);
+            List<Double> res = new ArrayList<>();
+            for(int i = 0;i<list1.size();i++){
+                res.add(0.5f*(list1.get(i) + list2.get(i)));
+            }
+            return res;
+        }
         int poolWindow = 2;
         int currentIndex = 0;
-        while (currentIndex + poolWindow < size) {
-            double pool = 0;
-            for (int l = 0; l < size; l++) {
-                // 对于每个embedding
-                List<Double> currentList = listOfSingleWord.get(l);
-                for (int i = 0; i < poolWindow; i++) {
-                    // 每次取五个
-                    pool += currentList.get(currentIndex + i);
+        try{
+            int vectorSize = listOfSingleWord.get(0).size();
+            int resultSize = vectorSize / poolWindow;
+
+            List<Double> resultVector = new ArrayList<>();
+            for (int i = 0; i < resultSize; i++) {
+                double sum = 0.0f;
+                for (List<Double> vector : listOfSingleWord) {
+                    for (int j = i * poolWindow; j < (i + 1) * poolWindow; j++) {
+                        sum += vector.get(j);
+                    }
                 }
+                double average = sum / (listOfSingleWord.size() * poolWindow);
+                resultVector.add(average);
             }
-            result.add(pool / (poolWindow * size));
-            currentIndex++;
+
+            return resultVector;
         }
+        catch(IndexOutOfBoundsException e32){
+            exit(-32);
+        }
+
         return result;
     }
     public boolean detectFile(String filePath) {

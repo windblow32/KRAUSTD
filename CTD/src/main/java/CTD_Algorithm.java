@@ -1276,8 +1276,7 @@ public class CTD_Algorithm {
             // 读走属性行
             brResult.readLine();
             brTruth.readLine();
-            // finished : D2 attr
-            int attrKind = D2;
+
             // finished : 限制只读取前biaozhushu行
             int usedLine = 0;
             while ((str = brResult.readLine()) != null && (strT = brTruth.readLine()) != null && usedLine < biaozhushu) {
@@ -1288,65 +1287,7 @@ public class CTD_Algorithm {
                 }
                 // 按照da file对比
                 // 维护一个文件存储每次增强的数据的sample id，然后遍历
-                for (int a = 0; a < attrKind; a++) {
-                    try {
-
-                        // 每次读取新单元格，重新初始化
-                        List<List<Float>> listOfSingleWord = new ArrayList<>();
-                        // calc list
-                        if (data[a].contains(" ")) {
-                            String[] singleWordArray = data[a].split(" ");
-                            // add each single word split by " "
-                            for (int s = 0; s < singleWordArray.length; s++) {
-                                listOfSingleWord.add(double2float(search.getRawVector(singleWordArray[s])));
-                            }
-                        } else {
-                            listOfSingleWord.add(double2float(search.getRawVector(data[a])));
-                        }
-                        // todo : change global embedding
-                        // calc pooling embedding并且拼接
-                        List<Float> globalEmbedding = new ArrayList<>();
-                        globalEmbedding.addAll(meanPooling(listOfSingleWord));
-
-                        // attention : add fastText
-                        List<List<Float>> fastGe = new ArrayList<>();
-                        if (data[a].contains(" ")) {
-                            String[] singleWordArray = data[a].split(" ");
-                            // add each single word split by " "
-                            for (String value : singleWordArray) {
-                                fastGe.add(array2list(fastText.get(value)));
-                            }
-                            globalEmbedding.addAll(meanPooling(fastGe));
-                        } else {
-                            globalEmbedding.addAll(array2list(fastText.get(data[a])));
-                        }
-
-
-                        // truth pooling
-                        List<Float> truthEmbedding = new ArrayList<>();
-                        truthEmbedding.addAll(double2float(search.getRawVector(dataT[a])));
-
-                        // attention: fastText
-                        truthEmbedding.addAll(array2list(fastText.get(dataT[a])));
-                        // end of embdi
-
-                        // end pooling and global embedding
-                        // 欧氏距离
-                        double totalSingleWord = 0;
-                        int globalSize = globalEmbedding.size();
-                        for (int i = 0; i < globalSize-1; i++) {
-                            try{
-                                totalSingleWord += Math.pow(Math.abs(globalEmbedding.get(i) - truthEmbedding.get(i)), 2);
-                            }catch (IndexOutOfBoundsException ignored){}
-                        }
-                        totalSingleWord = Math.sqrt(totalSingleWord);
-                        totalGTDistance += totalSingleWord;
-                    } catch (Searcher.UnknownWordException e) {
-                        totalGTDistance += 0;
-                    }catch (ArrayIndexOutOfBoundsException e1){
-                        int sss = 1;
-                    }
-                }
+                totalGTDistance = embdi_glove(data, dataT,search,fastText);
                 usedLine++;
             }
             frResult.close();
@@ -1413,52 +1354,7 @@ public class CTD_Algorithm {
                     if (!daTupleList.contains(data[0])) {
                         continue;
                     }
-                    for (int a = 0; a < attrKind; a++) {
-                        try {
-                            // 每次读取新单元格，重新初始化
-                            List<List<Float>> listOfSingleWord = new ArrayList<>();
-                            List<Float> s1List = double2float(search.getRawVector(data[a]));
-                            // calc pooling embedding并且拼接
-                            List<Float> globalEmbedding = new ArrayList<>();
-                            // calc list
-                            // attention : fast
-                            List<List<Float>> fastGe = new ArrayList<>();
-
-                            if (data[a].contains(" ")) {
-                                String[] singleWordArray = data[a].split(" ");
-                                // add each single word split by " "
-                                for (int s = 0; s < singleWordArray.length; s++) {
-                                    listOfSingleWord.add(double2float(search.getRawVector(singleWordArray[s])));
-                                    fastGe.add(array2list(fastText.get(singleWordArray[s])));
-                                }
-                                globalEmbedding.addAll(meanPooling(listOfSingleWord));
-                                globalEmbedding.addAll(meanPooling(fastGe));
-                            } else {
-                                globalEmbedding.addAll(s1List);
-                                globalEmbedding.addAll(array2list(fastText.get(data[a])));
-                            }
-
-
-                            // truth pooling
-                            List<Float> s2List = double2float(search.getRawVector(dataDA[a]));;
-                            List<Float> DAEmbedding = new ArrayList<>();
-                            DAEmbedding.addAll(s2List);
-                            DAEmbedding.addAll(array2list(fastText.get(dataDA[a])));
-                            // end pooling and global embedding
-                            // 欧氏距离
-                            double totalSingleWord = 0;
-                            int globalSize = globalEmbedding.size();
-                            for (int i = 0; i < globalSize-1; i++) {
-                                try{
-                                    totalSingleWord += Math.pow(Math.abs(globalEmbedding.get(i) - DAEmbedding.get(i)), 2);
-                                }catch (IndexOutOfBoundsException ignored){}
-                            }
-                            totalSingleWord = Math.sqrt(totalSingleWord);
-                            totalDADistance += totalSingleWord;
-                        } catch (Searcher.UnknownWordException e) {
-                            totalDADistance += 0;
-                        }
-                    }
+                    totalDADistance = embdi_glove(data,dataDA,search,fastText);
                     usedLine++;
                 }
             } catch (IOException e) {
@@ -1545,5 +1441,198 @@ public class CTD_Algorithm {
         }
         return newList;
     }
+
+    private double embdi_glove(String[] data, String[] dataT, Searcher search, Map<String, float[]> fastText){
+        double totalDistance = 0;
+        for (int a = 0; a < D2; a++) {
+            try {
+                // 每次读取新单元格，重新初始化
+                List<List<Float>> listOfSingleWord = new ArrayList<>();
+                // calc list
+                List<List<Float>> fastGe = new ArrayList<>();
+                List<Float> globalEmbedding = new ArrayList<>();
+                if (data[a].contains(" ")) {
+                    String[] singleWordArray = data[a].split(" ");
+                    // add each single word split by " "
+                    for (String value : singleWordArray) {
+                        listOfSingleWord.add(double2float(search.getRawVector(value)));
+                        fastGe.add(array2list(fastText.get(value)));
+                    }
+                    globalEmbedding.addAll(meanPooling(listOfSingleWord));
+                    globalEmbedding.addAll(meanPooling(fastGe));
+                } else {
+                    globalEmbedding.addAll(double2float(search.getRawVector(data[a])));
+                    globalEmbedding.addAll(array2list(fastText.get(data[a])));
+                }
+
+                // truth pooling
+                List<Float> truthEmbedding = new ArrayList<>();
+                truthEmbedding.addAll(double2float(search.getRawVector(dataT[a])));
+                // attention: fastText
+                truthEmbedding.addAll(array2list(fastText.get(dataT[a])));
+                // end of embdi
+
+                // end pooling and global embedding
+                // 欧氏距离
+                double totalSingleWord = 0;
+                int globalSize = globalEmbedding.size();
+                for (int i = 0; i < globalSize-1; i++) {
+                    try{
+                        totalSingleWord += Math.pow(Math.abs(globalEmbedding.get(i) - truthEmbedding.get(i)), 2);
+                    }catch (IndexOutOfBoundsException ignored){}
+                }
+                totalSingleWord = Math.sqrt(totalSingleWord);
+                totalDistance += totalSingleWord;
+            } catch (Searcher.UnknownWordException e) {
+                totalDistance += 0;
+            }catch (ArrayIndexOutOfBoundsException e1){
+                exit(-12);
+            }
+        }
+        return totalDistance;
+    }
+
+    private double embdi(String[] data, String[] dataT, Searcher search){
+        double totalDistance = 0;
+        for (int a = 0; a < D2; a++) {
+            try {
+                // 每次读取新单元格，重新初始化
+                List<List<Float>> listOfSingleWord = new ArrayList<>();
+                // calc list
+                List<Float> globalEmbedding = new ArrayList<>();
+                if (data[a].contains(" ")) {
+                    String[] singleWordArray = data[a].split(" ");
+                    // add each single word split by " "
+                    for (String value : singleWordArray) {
+                        listOfSingleWord.add(double2float(search.getRawVector(value)));
+                    }
+                    globalEmbedding.addAll(meanPooling(listOfSingleWord));
+                } else {
+                    globalEmbedding.addAll(double2float(search.getRawVector(data[a])));
+                }
+
+                // truth pooling
+                List<Float> truthEmbedding = new ArrayList<>();
+                truthEmbedding.addAll(double2float(search.getRawVector(dataT[a])));
+                // end of embdi
+
+                // end pooling and global embedding
+                // 欧氏距离
+                double totalSingleWord = 0;
+                int globalSize = globalEmbedding.size();
+                for (int i = 0; i < globalSize-1; i++) {
+                    try{
+                        totalSingleWord += Math.pow(Math.abs(globalEmbedding.get(i) - truthEmbedding.get(i)), 2);
+                    }catch (IndexOutOfBoundsException ignored){}
+                }
+                totalSingleWord = Math.sqrt(totalSingleWord);
+                totalDistance += totalSingleWord;
+            } catch (Searcher.UnknownWordException e) {
+                totalDistance += 0;
+            }catch (ArrayIndexOutOfBoundsException e1){
+                exit(-12);
+            }
+        }
+        return totalDistance;
+    }
+
+    private double glove(String[] data, String[] dataT, Searcher search, Map<String, float[]> fastText){
+        double totalDistance = 0;
+        for (int a = 0; a < D2; a++) {
+            try {
+                // 每次读取新单元格，重新初始化
+                List<List<Float>> listOfSingleWord = new ArrayList<>();
+                // calc list
+                List<List<Float>> fastGe = new ArrayList<>();
+                List<Float> globalEmbedding = new ArrayList<>();
+                if (data[a].contains(" ")) {
+                    String[] singleWordArray = data[a].split(" ");
+                    // add each single word split by " "
+                    for (String value : singleWordArray) {
+                        listOfSingleWord.add(double2float(search.getRawVector(value)));
+                        fastGe.add(array2list(fastText.get(value)));
+                    }
+                    globalEmbedding.addAll(meanPooling(fastGe));
+                } else {
+                    globalEmbedding.addAll(array2list(fastText.get(data[a])));
+                }
+
+                // truth pooling
+                List<Float> truthEmbedding = new ArrayList<>();
+                // attention: fastText
+                truthEmbedding.addAll(array2list(fastText.get(dataT[a])));
+                // end of embdi
+
+                // end pooling and global embedding
+                // 欧氏距离
+                double totalSingleWord = 0;
+                int globalSize = globalEmbedding.size();
+                for (int i = 0; i < globalSize-1; i++) {
+                    try{
+                        totalSingleWord += Math.pow(Math.abs(globalEmbedding.get(i) - truthEmbedding.get(i)), 2);
+                    }catch (IndexOutOfBoundsException ignored){}
+                }
+                totalSingleWord = Math.sqrt(totalSingleWord);
+                totalDistance += totalSingleWord;
+            } catch (Searcher.UnknownWordException e) {
+                totalDistance += 0;
+            }catch (ArrayIndexOutOfBoundsException e1){
+                exit(-12);
+            }
+        }
+        return totalDistance;
+    }
+
+    private double embdi_turl(String[] data, String[] dataT, Searcher search, Map<String, float[]> fastText){
+        double totalDistance = 0;
+        for (int a = 0; a < D2; a++) {
+            try {
+                // 每次读取新单元格，重新初始化
+                List<List<Float>> listOfSingleWord = new ArrayList<>();
+                // calc list
+                List<List<Float>> fastGe = new ArrayList<>();
+                List<Float> globalEmbedding = new ArrayList<>();
+                if (data[a].contains(" ")) {
+                    String[] singleWordArray = data[a].split(" ");
+                    // add each single word split by " "
+                    for (String value : singleWordArray) {
+                        listOfSingleWord.add(double2float(search.getRawVector(value)));
+                        fastGe.add(array2list(fastText.get(value)));
+                    }
+                    globalEmbedding.addAll(meanPooling(listOfSingleWord));
+                    globalEmbedding.addAll(meanPooling(fastGe));
+                } else {
+                    globalEmbedding.addAll(double2float(search.getRawVector(data[a])));
+                    globalEmbedding.addAll(array2list(fastText.get(data[a])));
+                }
+
+                // truth pooling
+                List<Float> truthEmbedding = new ArrayList<>();
+                truthEmbedding.addAll(double2float(search.getRawVector(dataT[a])));
+                // attention: fastText
+                truthEmbedding.addAll(array2list(fastText.get(dataT[a])));
+                // end of embdi
+
+                // end pooling and global embedding
+                // 欧氏距离
+                double totalSingleWord = 0;
+                int globalSize = globalEmbedding.size();
+                for (int i = 0; i < globalSize-1; i++) {
+                    try{
+                        totalSingleWord += Math.pow(Math.abs(globalEmbedding.get(i) - truthEmbedding.get(i)), 2);
+                    }catch (IndexOutOfBoundsException ignored){}
+                }
+                totalSingleWord = Math.sqrt(totalSingleWord);
+                totalDistance += totalSingleWord;
+            } catch (Searcher.UnknownWordException e) {
+                totalDistance += 0;
+            }catch (ArrayIndexOutOfBoundsException e1){
+                exit(-12);
+            }
+        }
+        return totalDistance;
+    }
+
+
 
 }

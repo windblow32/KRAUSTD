@@ -195,6 +195,7 @@ public class DART_Bayes {
             int isCBOW = paraList.get(9);
             int dim = paraList.get(10);
             int windowSize = paraList.get(11);
+            isDA = 0;
 
             // dart
             String calcTruthPath = "E:\\GitHub\\KRAUSTD\\dart\\" + version + "_truth.csv";
@@ -202,6 +203,7 @@ public class DART_Bayes {
             if (existDA == 1) {
                 getTempDA();
             }
+
             DART dart = new DART();
             dart.sourceNum = sourceNum;
             dart.dataPath = dataPath;
@@ -216,6 +218,20 @@ public class DART_Bayes {
                     isCBOW,
                     dim,
                     windowSize, String.valueOf(version));
+            Process dartProc;
+            try {
+                dartProc = Runtime.getRuntime().exec("python E:\\GitHub\\KRAUSTD\\dart\\connect.py");// 执行py文件
+                //用输入输出流来截取结果
+                BufferedReader in = new BufferedReader(new InputStreamReader(dartProc.getInputStream()));
+                String line = null;
+                while ((line = in.readLine()) != null) {
+                    System.out.println(line);
+                }
+                in.close();
+                dartProc.waitFor();
+            } catch (IOException | InterruptedException e) {
+                e.printStackTrace();
+            }
             // time end
             LocalTime time_after = LocalTime.now();
             formatter_pre = DateTimeFormatter.ofPattern("HH:mm:ss");
@@ -236,12 +252,9 @@ public class DART_Bayes {
             // num multi index list and string multi index list
 
             error_list = errorCalculate(calcTruth, goldenStandard, D1, D2);
-            double RMSEScore = error_list.get(1);        // monitor 中就是error rate
             // using CTD print last time's extracted data's rmse
 //        extractedCTD_RMSE = CtdService.getRmseForGA();
             // delete calc file
-            deleteWithPath("E:\\GitHub\\KRAUSTD\\dart\\DA" + 1 + "_truth.csv");
-            deleteWithPath("E:\\GitHub\\KRAUSTD\\dart\\" + version + "_truth.csv");
             // set printStream and rmse output filePath="log/Tri/weightCalcByVex/parameter/1.txt"
             LocalTime time1 = LocalTime.now();
             DateTimeFormatter formatter1 = DateTimeFormatter.ofPattern("HH:mm:ss");

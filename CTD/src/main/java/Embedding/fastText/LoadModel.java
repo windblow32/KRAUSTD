@@ -76,13 +76,15 @@ public class LoadModel {
     }
 
     public static List<String> readData(String path){
-        File dataset = new File(path);
         List<String> list = new ArrayList<>();
         try {
-            BufferedReader br = new BufferedReader(new FileReader(dataset));
+            BufferedReader br = new BufferedReader(new InputStreamReader(new FileInputStream(path),"GBK"));
             String str;
             String[] data;
             while((str = br.readLine())!=null){
+
+
+
                 data = str.split(",");
                 for(String s : data){
                     if(!list.contains(s)){

@@ -360,17 +360,18 @@ def top_k(object_num, all_num, o, bv, source, object, attribute):
 
 def run():
     # 判断数据集
-    file_to_read = "E:\GitHub\KRAUSTD\CTD\log\Tri\IATD\sourceList 0.1_0.1_.txt"
+    file_to_read = r"E:\GitHub\KRAUSTD\CTD\log\Tri\IATD\sourceList 0.2_0.196_.txt"
     with open(str(file_to_read), 'r', encoding='utf-8') as data:
         reader = csv.reader(data)
+        k = 0
         for row in reader:
             if '/' in row:
                 source_tang = row
+            if k == 0:
+                flag_a = str(row[0])
+            k += 1
     data.close()
 
-    f = open(r"E:\GitHub\KRAUSTD\IATD\1.txt", 'r')
-    flag_a = int(f.read()[-1])
-    f.close()
     source_tang = "data/monitor0707"
 
 
@@ -469,16 +470,16 @@ def run():
         print("time for IATD:", end - start)
         # here!
         # 输出结果
-        out = [[1 for i in range(len(attribute_index)+2)] for _ in range(len(tv))]
-        for attribute_i in attribute_index:
-            f = open("E:\GitHub\KRAUSTD\IATD\\" + name + "-" + str(attribute_i) + "-truth.csv", 'r', newline="")
-            reader = csv.reader(f)
-            po = 0
-            for row in reader:
-                out[po][0] = row[0]
-                out[po][attribute_i] = row[1]
-                po += 1
-            f.close()
+    out = [[1 for i in range(len(attribute_index)+2)] for _ in range(len(tv))]
+    for attribute_i in attribute_index:
+        f = open("E:\GitHub\KRAUSTD\IATD\\" + name + "-" + str(attribute_i) + "-truth.csv", 'r', newline="")
+        reader = csv.reader(f)
+        po = 0
+        for row in reader:
+            out[po][0] = row[0]
+            out[po][attribute_i] = row[1]
+            po += 1
+        f.close()
 
         f = open("E:\GitHub\KRAUSTD\IATD\\" + name + "_truth.csv", 'w', newline="")
         csv_writer = csv.writer(f)

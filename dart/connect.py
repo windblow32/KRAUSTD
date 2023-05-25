@@ -14,14 +14,15 @@ if __name__ == '__main__':
     # 读取多个真值文件，对应proprocess里边的output文件
     # 然后把多个属性对应的真值文件合并成为同一个文件"_truth.csv" /53行
 
-    file_to_read = "E:\GitHub\KRAUSTD\CTD\log\Tri\DART\DART_connection.txt"
+    file_to_read = r"E:\GitHub\KRAUSTD\CTD\log\Tri\DART\DART_connection.txt"
     with open(str(file_to_read), 'r', encoding='utf-8') as data:
         reader = csv.reader(data)
         for row in reader:
-            if '/' in row:
-                source_tang = row
+            if '/' in row[0]:
+                source_tang = row[0]
     data.close()
-    source_tang = 'data/monitor0707'
+    # source_tang = 'data/monitor0707'
+    print("source_:", source_tang)
 
     attribute_index = []
     with open("E:/GitHub/KRAUSTD/dart/" + source_tang + "_ori.csv", 'r', encoding='utf-8') as data:
@@ -37,7 +38,7 @@ if __name__ == '__main__':
 
     for attribute_i in attribute_index:
         glo.set_value('author_index', attribute_i)
-        file = dart_pro.run(r'E:\GitHub\KRAUSTD\CTD\log\Tri\DART\weather\DART_connection.txt', flag, 0.5, source_tang)
+        file = dart_pro.run(r'E:\GitHub\KRAUSTD\CTD\log\Tri\DART\DART_connection.txt', flag, 0.5, source_tang)
         proprocess.process("E:\GitHub\KRAUSTD\dart\\" + file + "_truth_pro.csv", source_tang)
 
         if os.path.isfile("E:\GitHub\KRAUSTD\dart\\" + file + "_truthv" + str(attribute_i) + ".csv"):
@@ -62,4 +63,5 @@ if __name__ == '__main__':
     csv_writer = csv.writer(f)
     for row in range(len(result)):
         csv_writer.writerow(result[row])
+    print(str(file))
     f.close()

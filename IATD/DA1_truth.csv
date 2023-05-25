@@ -1,100 +1,100 @@
-22_2,1,5:04,"['LCD Monitor', 'LCD Monitor', 'LCD']",1
-25_2,1,16:09,"['LCD Monitor', 'LCD Monitor', 'LCD']",1
-27_2,1,16:09,"['LCD Monitor', 'LCD Monitor', 'LCD']",1
-28_2,1,16:10,"['LCD Monitor', 'LCD Monitor', 'LCD']",1
-32_2,1,16:09,"['LCD Monitor', 'LCD Monitor', 'LCD']",1
-33_2,1,16:10,"['LCD Monitor', 'LCD Monitor']",1
-39_2,1,16:10,"['LCD Monitor', 'LCD Monitor']",1
-40_2,1,16:09,"['LCD Monitor', 'LCD Monitor']",1
-41_2,1,16:10,"['LCD Monitor', 'LCD Monitor']",1
-62_2,1,16:10,"['LCD Monitor', 'LCD Monitor']",1
-88_2,1,16:10,"['LCD Monitor', 'LCD Monitor', 'TFT Brilliance LCD 16.7 Million Colour']",1
-103_2,1,16:10,"['LCD Monitor', 'LCD Monitor', 'TFT Brilliance LCD 16.7 Million Colour']",1
-128_2,1,16:11,"['LCD Monitor', 'LCD Monitor', 'TFT Brilliance LCD 16.7 Million Colour']",1
-132_2,1,21:09,"['LCD Monitor', 'LCD Monitor', 'TFT Brilliance LCD 16.7 Million Colour']",1
-133_2,1,16:09,"['LCD Monitor', 'LCD Monitor', 'TFT Brilliance LCD 16.7 Million Colour']",1
-168_2,1,16:08,"['TFT LCD 16.7 Million Colour', 'LED']",1
-171_2,1,16:10,"['TFT LCD 16.7 Million Colour', 'LED']",1
-186_2,1,16:09,"['TFT LCD 16.7 Million Colour', 'LED']",1
-190_2,1,16:09,"['TFT LCD 16.7 Million Colour', 'LED']",1
-193_2,1,16:08,"['TFT LCD 16.7 Million Colour', 'LED']",1
-22_1,1,5:04,"['LCD Monitor', 'LCD Monitor', 'LED']",1
-25_1,1,16:10,"['LCD Monitor', 'LCD Monitor', 'LED']",1
-27_1,1,16:09,"['LCD Monitor', 'LCD Monitor', 'LED']",1
-28_1,1,16:09,"['LCD Monitor', 'LCD Monitor', 'LED']",1
-32_1,1,16:09,"['LCD Monitor', 'LCD Monitor', 'LED']",1
-33_1,1,16:09,"['LCD Monitor', 'LCD Monitor', 'TFT LCD 16.7 Million Colour']",1
-39_1,1,16:09,"['LCD Monitor', 'LCD Monitor', 'TFT LCD 16.7 Million Colour']",1
-40_1,1,16:09,"['LCD Monitor', 'LCD Monitor', 'TFT LCD 16.7 Million Colour']",1
-41_1,1,16:09,"['LCD Monitor', 'LCD Monitor', 'TFT LCD 16.7 Million Colour']",1
-62_1,1,16:10,"['LCD Monitor', 'LCD Monitor', 'TFT LCD 16.7 Million Colour']",1
-88_1,1,16:09,"['Brilliance LCD Monitor', 'Brilliance LCD Monitor', 'Monitor']",1
-103_1,1,16:09,"['Brilliance LCD Monitor', 'Brilliance LCD Monitor', 'Monitor']",1
-128_1,1,16:10,"['Brilliance LCD Monitor', 'Brilliance LCD Monitor', 'Monitor']",1
-132_1,1,21:09,"['Brilliance LCD Monitor', 'Brilliance LCD Monitor', 'Monitor']",1
-133_1,1,16:09,"['Brilliance LCD Monitor', 'Brilliance LCD Monitor', 'Monitor']",1
-168_1,1,16:09,"['TFT LCD Million Colour', 'TFT/LCD']",1
-171_1,1,16:09,"['TFT LCD Million Colour', 'TFT/LCD']",1
-186_1,1,16:10,"['TFT LCD Million Colour', 'TFT/LCD']",1
-190_1,1,16:09,"['TFT LCD Million Colour', 'TFT/LCD']",1
-193_1,1,16:09,"['TFT LCD Million Colour', 'TFT/LCD']",1
-22_3,1,5:04,"['TFT/LCD', 'TFT LCD 16.7 Million Colour', 'LCD Monitor']",1
-25_3,1,16:09,"['TFT/LCD', 'TFT LCD 16.7 Million Colour', 'LCD Monitor']",1
-27_3,1,16:09,"['TFT/LCD', 'TFT LCD 16.7 Million Colour', 'LCD Monitor']",1
-28_3,1,16:10,"['TFT/LCD', 'TFT LCD 16.7 Million Colour', 'LCD Monitor']",1
-32_3,1,16:09,"['TFT/LCD', 'TFT LCD 16.7 Million Colour', 'LCD Monitor']",1
-33_3,1,16:10,"['IPS', 'IPS TFT LCD 16.7 Million Colour', 'LCD Monitor']",1
-39_3,1,16:10,"['IPS', 'IPS TFT LCD 16.7 Million Colour', 'LCD Monitor']",1
-40_3,1,16:09,"['IPS', 'IPS TFT LCD 16.7 Million Colour', 'LCD Monitor']",1
-41_3,1,16:10,"['IPS', 'IPS TFT LCD 16.7 Million Colour', 'LCD Monitor']",1
-62_3,1,16:10,"['IPS', 'IPS TFT LCD 16.7 Million Colour', 'LCD Monitor']",1
-88_3,1,16:10,"['LCD', 'TN+Film', 'TFT Brilliance LCD 16.7 million Colour']",1
-103_3,1,16:10,"['LCD', 'TN+Film', 'TFT Brilliance LCD 16.7 million Colour']",1
-128_3,1,16:11,"['LCD', 'TN+Film', 'TFT Brilliance LCD 16.7 million Colour']",1
-132_3,1,21:09,"['LCD', 'TN+Film', 'TFT Brilliance LCD 16.7 million Colour']",1
-133_3,1,16:09,"['LCD', 'TN+Film', 'TFT Brilliance LCD 16.7 million Colour']",1
-168_3,1,16:08,"['LCD Monitor', 'LED Backlight 16.7 Million Colour', 'LED']",1
-171_3,1,16:10,"['LCD Monitor', 'LED Backlight 16.7 Million Colour', 'LED']",1
-186_3,1,16:09,"['LCD Monitor', 'LED Backlight 16.7 Million Colour', 'LED']",1
-190_3,1,16:09,"['LCD Monitor', 'LED Backlight 16.7 Million Colour', 'LED']",1
-193_3,1,16:08,"['LCD Monitor', 'LED Backlight 16.7 Million Colour', 'LED']",1
-22_4,1,5:04,"['LCD Monitor', 'LCD Monitor']",1
-25_4,1,16:09,"['LCD Monitor', 'LCD Monitor']",1
-27_4,1,16:09,"['LCD Monitor', 'LCD Monitor']",1
-28_4,1,16:10,"['LCD Monitor', 'LCD Monitor']",1
-32_4,1,16:09,"['LCD Monitor', 'LCD Monitor']",1
-33_4,1,16:10,"['LCD Monitor', 'LCD Monitor', 'IPS']",1
-39_4,1,16:10,"['LCD Monitor', 'LCD Monitor', 'IPS']",1
-40_4,1,16:09,"['LCD Monitor', 'LCD Monitor', 'IPS']",1
-41_4,1,16:10,"['LCD Monitor', 'LCD Monitor', 'IPS']",1
-62_4,1,16:10,"['LCD Monitor', 'LCD Monitor', 'IPS']",1
-88_4,1,16:10,"['LCD Monitor', 'IGZO', 'Widescreen 1.07 Colour']",1
-103_4,1,16:10,"['LCD Monitor', 'IGZO', 'Widescreen 1.07 Colour']",1
-128_4,1,16:11,"['LCD Monitor', 'IGZO', 'Widescreen 1.07 Colour']",1
-132_4,1,21:09,"['LCD Monitor', 'IGZO', 'Widescreen 1.07 Colour']",1
-133_4,1,16:09,"['LCD Monitor', 'IGZO', 'Widescreen 1.07 Colour']",1
-168_4,1,16:08,"['LCD Monitor', 'LCD', 'Monitor']",1
-171_4,1,16:10,"['LCD Monitor', 'LCD', 'Monitor']",1
-186_4,1,16:09,"['LCD Monitor', 'LCD', 'Monitor']",1
-190_4,1,16:09,"['LCD Monitor', 'LCD', 'Monitor']",1
-193_4,1,16:08,"['LCD Monitor', 'LCD', 'Monitor']",1
-22_5,1,5:04,"['LCD Monitor', 'LCD Monitor']",1
-25_5,1,16:09,"['LCD Monitor', 'LCD Monitor']",1
-27_5,1,16:09,"['LCD Monitor', 'LCD Monitor']",1
-28_5,1,16:10,"['LCD Monitor', 'LCD Monitor']",1
-32_5,1,16:09,"['LCD Monitor', 'LCD Monitor']",1
-33_5,1,16:10,"['Monitor', 'LED 16.7 million Colour', 'LCD Monitor']",1
-39_5,1,16:10,"['Monitor', 'LED 16.7 million Colour', 'LCD Monitor']",1
-40_5,1,16:09,"['Monitor', 'LED 16.7 million Colour', 'LCD Monitor']",1
-41_5,1,16:10,"['Monitor', 'LED 16.7 million Colour', 'LCD Monitor']",1
-62_5,1,16:10,"['Monitor', 'LED 16.7 million Colour', 'LCD Monitor']",1
-88_5,1,16:10,"['Monitor', 'Widescreen IPS 16.7 Million Colour', 'Brilliance LCD Monitor']",1
-103_5,1,16:10,"['Monitor', 'Widescreen IPS 16.7 Million Colour', 'Brilliance LCD Monitor']",1
-128_5,1,16:11,"['Monitor', 'Widescreen IPS 16.7 Million Colour', 'Brilliance LCD Monitor']",1
-132_5,1,21:09,"['Monitor', 'Widescreen IPS 16.7 Million Colour', 'Brilliance LCD Monitor']",1
-133_5,1,16:09,"['Monitor', 'Widescreen IPS 16.7 Million Colour', 'Brilliance LCD Monitor']",1
-168_5,1,16:08,"['LED Backlight LCD IPS Panel 16.7 million Colour', 'Brilliance LCD Monitor']",1
-171_5,1,16:10,"['LED Backlight LCD IPS Panel 16.7 million Colour', 'Brilliance LCD Monitor']",1
-186_5,1,16:09,"['LED Backlight LCD IPS Panel 16.7 million Colour', 'Brilliance LCD Monitor']",1
-190_5,1,16:09,"['LED Backlight LCD IPS Panel 16.7 million Colour', 'Brilliance LCD Monitor']",1
-193_5,1,16:08,"['LED Backlight LCD IPS Panel 16.7 million Colour', 'Brilliance LCD Monitor']",1
+22_2,Philips Electronics,LCD Monitor,5:04,5.400235618,44.53785537,1
+25_2,Philips Electronics,LCD Monitor,16:10,5,53.39001563,1
+27_2,Philips Electronics,LED,16:09,4.941355792,50.57930786,1
+28_2,Philips Electronics,LED,16:09,4.872858177,49.6731007,1
+32_2,Philips Electronics,LED,16:10,5.440694411,65.6823886,1
+33_2,Philips Electronics,TN+Film,16:09,5.36681041,61.53001296,1
+39_2,Philips Electronics,LED,16:08,4.550148483,63.66514511,1
+40_2,Philips Electronics,TFT LCD Million Colour,16:09,5.057868627,66.30829899,1
+41_2,Philips Electronics,TFT/LCD,16:08,4.753762385,70.21406467,1
+62_2,Philips Electronics,IPS,16:09,15.10743823,65.05870274,1
+88_2,iiyama North America,TN+Film,16:09,1.863241398,59.81607704,1
+103_2,Hannspree,LED,16:10,5.441076343,53.4889547,1
+128_2,Asus,LCD Monitor,16:10,6.508493947,65.9059877,1
+132_2,Asus,IPS,16:09,5.165395001,76.08221133,1
+133_2,Asus,IGZO,16:09,7.481648931,81.26593594,1
+168_2,Asus,LCD,16:10,2.071719452,69.82179407,1
+171_2,Asus,LCD Monitor,16:09,2.019846024,62.00247127,1
+186_2,Asus,TN+Film,16:09,4.975943294,61.23157721,1
+190_2,Asus,Widescreen IPS 16.7 Million Colour,16:09,4.874532936,71.37463699,1
+193_2,iiyama North America,IPS,16:10,4.805533954,61.80027728,1
+22_1,Philips Electronics,LCD Monitor,5:04,5,0,1
+25_1,Philips Electronics,LCD Monitor,16:10,2,0,1
+27_1,Philips Electronics,LCD Monitor,16:09,5,54.6,1
+28_1,Philips Electronics,LCD Monitor,16:09,5,54.6,1
+32_1,Philips Electronics,LCD Monitor,16:09,2,0,1
+33_1,Philips Electronics,LCD Monitor,16:09,2,61,1
+39_1,Philips Electronics,LCD Monitor,16:09,2,68.6,1
+40_1,Philips Electronics,LCD/TFT,16:09,2,0,1
+41_1,Philips Electronics,LCD Monitor,16:09,5,0,1
+62_1,Philips Electronics,LCD Monitor,16:10,2,0,1
+88_1,iiyama North America,LCD Monitor,16:09,4,61,1
+103_1,Hannspree,LCD Monitor,16:09,5,0,1
+128_1,Asus,LCD Monitor,16:10,2,61,1
+132_1,Asus,LCD Monitor,21:09,2,0,1
+133_1,Asus,LCD Monitor,16:09,8,0,1
+168_1,Asus,LCD Monitor,16:09,2,0,1
+171_1,Asus,16.7 million Colours,16:09,2,68.6,1
+186_1,Asus,TN+Film,16:10,5,0,1
+190_1,Asus,LCD Monitor,16:09,2,68.6,1
+193_1,iiyama North America,IPS,16:09,2,0,1
+22_3,Philips Electronics,TFT LCD 16.7 Million Colour,5:04,2,48.3,1
+25_3,Philips Electronics,LCD,16:11,5,55.9,1
+27_3,Philips Electronics,TFT Brilliance LCD 16.7 Million,16:09,5,0,1
+28_3,Philips Electronics,LED,16:10,2,0,1
+32_3,Philips Electronics,LED,16:09,2,0,1
+33_3,Philips Electronics,LCD Monitor,16:08,2,61,1
+39_3,Philips Electronics,LED,16:09,2,68.6,1
+40_3,Philips Electronics,TFT/LCD,16:10,5,68.6,1
+41_3,Philips Electronics,TFT/LCD,16:09,5,0,1
+62_3,Philips Electronics,IPS TFT LCD 16.7 Million Colour,16:10,14,0,1
+88_3,iiyama North America,TN+Film,16:09,2,0,1
+103_3,Hannspree,LED,16:10,2,49.5,1
+128_3,Asus,IPS,16:10,2,61,1
+132_3,Asus,IPS,16:09,5,73.7,1
+133_3,Asus,Widescreen 1.07 Colour,16:09,2,80,1
+168_3,Asus,LCD,16:09,4,68.6,1
+171_3,Asus,LCD Monitor,16:09,2,0,1
+186_3,Asus,TN+Films,16:09,5,55.9,1
+190_3,Asus,Widescreen IPS 16.7 Million Colour,16:09,5,0,1
+193_3,iiyama North America,LED Backlight LCD IPS Panel 16.7 million Colour,16:09,5,58.4,1
+22_4,Philips Electronics,LCD,5:04,5,48.3,1
+25_4,Philips Electronics,LCD Monitor;LCD Monitor,16:10,2,0,1
+27_4,Philips Electronics,TFT Brilliance LCD 16.7 Million Colour,16:09,2,0,1
+28_4,Philips Electronics,LED,16:10,2,54.6,1
+32_4,Philips Electronics,LED,16:09,2,61,1
+33_4,Philips Electronics,Film,16:09,2,0,1
+39_4,Philips Electronics,LED,16:08,2,68.6,1
+40_4,Philips Electronics,TFT LCD Million Colour,16:09,2,0,1
+41_4,Philips Electronics,TFT/LCD,16:09,2,68.6,1
+62_4,Philips Electronics,IPS TFT LCD 16.7 Million Colour,16:09,2,0,1
+88_4,iiyama North America,TFT Brilliance LCD 16.7 million Colour,16:09,2,61,1
+103_4,Hannspree,LED,16:09,5,49.5,1
+128_4,Asus,IP,16:11,6,61,1
+132_4,Asus,LCD Monitor,16:09,2,0,1
+133_4,Asus,IGZO,16:09,8,0,1
+168_4,Asus,LCD,16:10,4,68.6,1
+171_4,Asus,16.7 Billion Colours,16:10,2,0,1
+186_4,Asus,TN+Film,16:10,2,0,1
+190_4,Asus,IPS,16:09,5,68.6,1
+193_4,iiyama North America,IP,16:09,2,58.4,1
+22_5,Philips Electronics,TFT LCD 16.7 Million Colour,5:04,2,0,1
+25_5,Philips Electronics,LED,16:10,2,55.9,1
+27_5,Philips Electronics,LCD,16:09,2,54.6,1
+28_5,Philips Electronics,TFT LCD 16.7 Million Colour,16:10,5,54.6,1
+32_5,Philips Electronics,LCD Monitor,16:09,2,0,1
+33_5,Philips Electronics,TN+,16:08,2,61,1
+39_5,Philips Electronics,LEDS,16:08,5,0,1
+40_5,Philips Electronics,TFT/LCD,16:10,2,68.6,1
+41_5,Philips Electronics,TFT/LCD,16:09,5,0,1
+62_5,Philips Electronics,IPS TFT LCD 16.7 Million Colour,16:09,14,61,1
+88_5,iiyama North America,TFT Brilliance LCD 16.7 million CColour,16:09,2,61,1
+103_5,Hannspree,LED Backlight 16.7 Million Colour,16:10,5,0,1
+128_5,Asus,LCD Monitor,16:10,6,0,1
+132_5,Asus,AH-IPS 16.7 Million Colour,21:09,2,0,1
+133_5,Asus,Widescreen 1.07 Colour,16:09,8,0,1
+168_5,Asus,LCD,16:09,2,0,1
+171_5,Asus,LCD Monitor;LCD Monitor,16:09,2,0,1
+186_5,Asus,TN,16:10,2,55.9,1
+190_5,Asus,Widescreen IPS 16.7 Million Colour,16:08,2,0,1
+193_5,iiyama North America,LED Backlight LCD IPS Panel 16.7 million Colour,16:10,5,58.4,1
